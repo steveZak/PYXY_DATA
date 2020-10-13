@@ -1,0 +1,4150 @@
+{
+  "sights": [
+    {
+      "name": "Baghdadi Museum",
+      "orig_name": "Baghdadi Museum",
+      "place_id": "ChIJFSFBB7J4VxURBoYGMIanICg",
+      "cat_params": [
+        0.044710072433148465,
+        0.05702749280396493,
+        0.13537593565726572,
+        0.08554912142293089,
+        0.0634250654699494,
+        0.1433934805323788,
+        0.24875253278337062,
+        0.33210769514897326,
+        0.07605384549560826,
+        0.22759688664007846,
+        0.027203998947838048,
+        0.026790039740251185,
+        0.15930677389546793,
+        0.03668899315424354,
+        0.2016168533183492,
+        0.06604453564820298,
+        0.09130900389034291,
+        0.21117330287402272,
+        0.038479066350267495,
+        0.05743089013466383,
+        0.1949557401499002,
+        0.05869137871480001,
+        0.06521579378708911,
+        0.17294445527739727,
+        0.015461333854862229,
+        0.098745535407668,
+        0.09959614456157881,
+        0.10031941246904535,
+        0.0487331271405201,
+        0.12492300061256671
+      ],
+      "noncat_params": [],
+      "quote": "Local history museum featuring art, artifacts & scenes from Baghdad life using life-size models.",
+      "phone": "0781 375 4231",
+      "int_phone": "+964 781 375 4231",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.3402199,
+        "lng": 44.3897676
+      },
+      "address": "Al Rusafa, Shuhada Bridge, Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117238094338449188829\">Rand Zuhair</a>"
+          ],
+          "photo_reference": "CkQ0AAAA9cBwmxelXgVwUmUO-18iZUCWejDvXgxZCoTTYV4T5Ii8RAr0xK3Ca9YvpiiPnQTVBCgReOlCOoEGHo3ojD_-ihIQYkR_7sKCNRI7n--mL1zphhoUgkc8EBEcvVRu5ZjuxXbQYfSznQs",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102190570274748372378\">Fatima Almudhafar</a>"
+          ],
+          "photo_reference": "CkQ0AAAAzOT9zLWRJsT6ClxSY21LZ1uWDV02bcSuL6oYt50jkpM1v-GXaha9kPZglQ6aMr-MqyRItAEh7iJNy2ynbKIf_hIQvffv6Xtbb1VIn76jLGekexoUmC2J0V3tndwwPR9PJuQF5Z6q4pw",
+          "width": 3024
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110949780079239615212\">Mustafa Alqaisy</a>"
+          ],
+          "photo_reference": "CkQ0AAAA3HHTCBb7z6pTAY9noBni9ZfIl3RUZgGhNLHOz65pgmVKQxo7tL3b3FKqVgPXjLdN73bKMxnVTNcgISnWUuNFxhIQiSWt0loledlgMOx-_p_PzhoU1l1NxMXiP4sfVPEwJeKJx_Qu4Rw",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101766907784066509577\">Rawaz Rauf</a>"
+          ],
+          "photo_reference": "CkQ0AAAAP7nLE5UO4LiHSJWsNlh2EZJa2BsuJcsj-Cb0v6Q2hqR-NVgEDNRvL9AcbZveFSsQVXjP_ijbIbeCvx8XFRP0ohIQgMuWqNZse6cf-eIR9Qsr5RoUjh2m-wqkBwr5axz1mtJfcNHD34c",
+          "width": 4032
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109983093570774450994\">MUSTAFA WALEED</a>"
+          ],
+          "photo_reference": "CkQ0AAAATuR7tHCmQQQkDVzVTYJ8QO8vTkf972eGU3Qi_ucnUBwr9DoHvJdq2SsDlG47PbprM19Aa6PjgKjE9wQil3O-MhIQcVMfKG2sE354XS5C4sUBFBoUmp8BELOPHBYYk0EG4_qUjLFvaM8",
+          "width": 4128
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108362367460997589631\">\u062d\u064a\u062f\u0631 \u0627\u0644\u0645\u0633\u0641\u0631</a>"
+          ],
+          "photo_reference": "CkQ0AAAAu9U_uwFuItyF3OAh0x8pDcaqoST3l4i41c--kX8wykRizZg5yfG8yFEegoVrYlJS-OAgRrmTNeQPblypNbPySRIQvPSor72fa2JJlAp0C2Z04hoULP1dKlksomThxv1kz7BpI5uZu58",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107802058983943402134\">Salam Khalid</a>"
+          ],
+          "photo_reference": "CkQ0AAAAL500jQaKxDyHJS6kj5biJm4SNQpWy7JNoQ-aY1RzXR8jdm4JXC-uuogfNhUE2EK9GmkStVvv2koytiF-hFsyhRIQhG1P8PDK4t4KdFak1Xrh7hoUlgS_R5PBLPE1rjwpMw_dMV0PyRI",
+          "width": 4032
+        },
+        {
+          "height": 2961,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116900117742612152066\">Furat Ismail</a>"
+          ],
+          "photo_reference": "CkQ0AAAAgbRJajoSzZR8jZePoGvMmlAZ2lxra5Z9B6mFtWvyq5vsTSNd2bf5PlXn91ug4871Uzm36UFGuxLJpG_Bww75shIQTvw5WUoglqpjPgU9dRR8zhoUzkowbYmnCVIQm0io7dKhXlehAak",
+          "width": 3949
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117238094338449188829\">Rand Zuhair</a>"
+          ],
+          "photo_reference": "CkQ0AAAAKPh7KzRHrIeUp7PyQ-li9o-vOrNu0WO_NUxHXSOgcXZwNSutLpdT-I2EyO82rJHeH72wt4VUhn1ekOEOreohTxIQlySVMwr22DC2cVJuAP4OihoUKY9HumS2-d4NnOCVQx_6fUVERAU",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100938787116367167453\">Zainab Haidar</a>"
+          ],
+          "photo_reference": "CkQ0AAAAz6Kf_C1-YDzEwZqqMkbEEE4FIHvW12l5tdyuLuCQoqHXJZ-AwGd9l8WlqtZoRjtdo2GJAoHoF5rsPMV6tSH_sxIQhc0WTf-tLTnD0f4NGyr81RoUSu7bK2bCllpaRCCVseUhl_UQzkU",
+          "width": 4032
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.facebook.com/AlmthfAlbghdady/?ref=br_rs",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.001096828065227493,
+        0.005551847501334844,
+        0.002544372030558733,
+        0.016645320520575126,
+        0.0038586943324652252,
+        0.016824339318767912,
+        0.025937486998270903,
+        0.0031070937053613882,
+        0.010563117051071064,
+        0.010842150535219499,
+        0.013806916143135216,
+        0.010673428424432743
+      ],
+      "global_cat_params": [
+        -1.4136332667234797,
+        -0.6603354381938797,
+        -0.876892928264049,
+        -1.0413740122938477,
+        -1.4892551401452943,
+        -0.02315128383507698,
+        -1.591342554975203,
+        1.3434504109747676,
+        -1.9322315580369653,
+        -0.9969046086540765,
+        -1.2164366660400854,
+        -1.0837020593502917,
+        -1.0181079974479945,
+        -1.242131530484549,
+        -0.9625578249361129,
+        -1.2219505763774043,
+        -2.0501536385962917,
+        -0.8655112508305792,
+        -1.6251324429369756,
+        -1.5586341686251024,
+        -1.6709652703338957,
+        -1.9204605828840586,
+        -2.1628131730788795,
+        0.044125130908697185,
+        -0.3482475200306124,
+        -1.8973789150430755,
+        -1.7858056464688952,
+        -2.0795855128490826,
+        -1.5119586374941933,
+        -1.4082859759322524
+      ],
+      "global_mood_params": [
+        -0.6646411974090312,
+        -1.347426008599145,
+        -1.0863991435937763,
+        -1.6861762759863703,
+        -1.1956443594144495,
+        -1.721668370762157,
+        -1.653345331192228,
+        -1.0561060237968682,
+        -1.4716519168567572,
+        -1.2777416452164647,
+        -1.8009495608664308,
+        -0.9688618688536536
+      ],
+      "top_cats": [
+        "culture",
+        "religion",
+        "books",
+        "science"
+      ],
+      "duration": 1.1875
+    },
+    {
+      "name": "Iraqi Museum",
+      "orig_name": "Iraqi Museum",
+      "place_id": "ChIJNzs68UV_VxURxeeYXHjVuaM",
+      "cat_params": [
+        0.05831258045796277,
+        0.04750339959474732,
+        0.22899238403771183,
+        0.35279778589299154,
+        0.12837798851805707,
+        0.13903258062592674,
+        0.32947074322834713,
+        0.3751365333446942,
+        0.07160536728396073,
+        0.21145947784723515,
+        0.03422604306685773,
+        0.07547095505817686,
+        0.15194389380927603,
+        0.05824619722698638,
+        0.2636456970745899,
+        0.09767443203298118,
+        0.31038082423822916,
+        0.4142135659838535,
+        0.08235524801338504,
+        0.07438953033359268,
+        0.27681941644412794,
+        0.1267061107451862,
+        0.3442599175626146,
+        0.12859129050345983,
+        0.04331523167752078,
+        0.21746819463539893,
+        0.19069822023415725,
+        0.2587777524875863,
+        0.13091537406422757,
+        0.18459268658466085
+      ],
+      "noncat_params": [],
+      "quote": "National archeology museum with artifacts dating back to Mesopotamia, reopened in 2015.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.3284501,
+        "lng": 44.3859098
+      },
+      "address": "Allawi, Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101284992490111321593\">zain mohammed</a>"
+          ],
+          "photo_reference": "CkQ0AAAAy3tvfeT7LKqxamS9tTy5oWzZ64U0fbB7KP2XhZhjJpaCmV8TMsYijciD5BHfeRA-0uNuObxOaAMMdwmwWigBihIQnlVxQ0ZHeRkXy4ZZPo5utBoULob1JPDBBUbgSgpxg0aQETsyEZc",
+          "width": 3648
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102273455469192295551\">\u0631\u062c\u0644 \u0641\u0648\u0642 \u0627\u0644\u0645\u064a\u0648\u0644 \u0627\u0644\u0645\u064a\u0627\u062d\u064a</a>"
+          ],
+          "photo_reference": "CkQ0AAAAgS5wK3SV4T34yeaQbj9kywgX8ZjbeGWuRyQzrpVBu3UvMyItCL1XPWgcfZXe4UtpBf8Vp94TP0dL4ssCAGmtdBIQnzM-j7n1VWMDLAsbJS_VzBoUfNRxyEySwkUzfGcdJCddZYYEgyM",
+          "width": 4032
+        },
+        {
+          "height": 1707,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113719639442868633401\">Ashley Hughes</a>"
+          ],
+          "photo_reference": "CkQ0AAAAMr638l6ofpuIHpTSalqVmIcYigj3cg6O_mQUST0p0a2qjOtICrlWMGJ1ieM7QGMJMnKUTgoQWs9t_047bVotCRIQQn1XlwVIErUSNDdyvg9YRxoUoW7D3ffCF33bJ6rJTLsSQhTn_Ys",
+          "width": 2560
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107740774357961544482\">Sadra Qaderi</a>"
+          ],
+          "photo_reference": "CkQ0AAAASvkiQu0Tvn6WxU3P2QPDsdlacumrLoxXatxEUfpyyhNaVnQLbqtP5SIZPwnHP07gx3tbB4pqjvM2UfhIO6jYPxIQzy9pJOQoMwo5tcZo0uK9khoUxB8ZoBEgTRajfhTveDjro_nEHt0",
+          "width": 2976
+        },
+        {
+          "height": 854,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107220931778628129091\">\u063a\u064a\u062b \u0627\u062d\u0645\u062f</a>"
+          ],
+          "photo_reference": "CkQ0AAAAumqv5b0OnIorXOKHINuxcRzL-s27QiX4-k1T4PkgjGceIHEBk-hE7C_6KGTE09e6DgCJjrGtTk4oYSio5imRXhIQy0Vx_J0VJzsYOZ8pRhahThoUwgPmVMjn6pCrm2RltYj-baBo58I",
+          "width": 1280
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117091805195815438969\">serdar se\u00e7gin</a>"
+          ],
+          "photo_reference": "CkQ0AAAAKb5zUD1DHCel-qoTDiABM9oKOTJkA_Z4lC3vS1cD29y9PDJ-_fBarKJjXtjLOhNES95OgGMxWD-lyriudZyk8BIQ52WXPeul_etgNLaGQBfpFBoU-il2FEQHJKokQoMkIBxQu5N018o",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117283884253879389670\">Hayder Kadhim</a>"
+          ],
+          "photo_reference": "CkQ0AAAAKMxh1DkpQRb-eQ2ZUBnt52OJqOHt--eeuMErsLTpMxSL42Yr7wRJoWE_xowzaFqkH96mS4Qsa3GkNbcfXR2KZxIQ_Q_xk-ONZnfENykWtJ-KhBoUb2ozUSnKmP5II7mLgFqixqI9V_k",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101310861878292769634\">\u0639\u0634\u0627\u0642 \u0627\u0628\u0648 \u0645\u0647\u062f\u064a \u0627\u0644\u0645\u0647\u0646\u062f\u0633</a>"
+          ],
+          "photo_reference": "CkQ0AAAA9uhOLuHw-6gaJ-jOxrlC9lJ8zc33QYC8FO54O1EmhEeIvdZVftZHgB8hqJzIkR8lfvP9jtt8529RS79pV0OfSRIQ_vnNtMBo3ZwWpTvDlMBuuhoUlcibSgPILyRVMcJQB1ISJeMeqAg",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100835834897631858005\">\u0627\u062d\u0645\u062f \u0633\u0644\u0645\u0627\u0646 \u0639\u0628\u062f \u0627\u0644\u062a\u0645\u064a\u0645\u064a</a>"
+          ],
+          "photo_reference": "CkQ0AAAAOMADtgdh1RURYuZiiD7fRCATD3NkyaeTviS3gxEVhOW9MdpTSMCU6bJkSChTOInSb2ojHHpeBvBg5Tct1hsiLBIQv0u0JZvar4kfMqvRT6Bl7RoULiZvFgZvlSAX8Gbk8TB5JEU8gZU",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109533314580286675215\">Ahmed Altayyar</a>"
+          ],
+          "photo_reference": "CkQ0AAAAlDxzE2Ds8qXOgvbab5h2rsS8oGKXVwvE4LDidRMYNHgMm0XJt7Ua6pN4FbFnTpMq76TZ1EZ2KFycc5CYQb0xBBIQ5sk5JSkykN3ZsyKyytPX4BoUkVMlPibtPSAPvUckDOtaNLgfW8Y",
+          "width": 4032
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://m.facebook.com/museummm",
+      "popularity": 0.6768096446282598,
+      "num_google_reviews": 1426,
+      "mood_params": [
+        0.002725738838101987,
+        0.02618355337279968,
+        0.043983654050114375,
+        0.0884030579924494,
+        0.06143035186242986,
+        0.11023964644023264,
+        0.074617157247485,
+        0.019571805740123387,
+        0.09012187005176278,
+        0.0278907229825185,
+        0.04904284039676868,
+        0.02069845571331336
+      ],
+      "global_cat_params": [
+        -1.2485881941139292,
+        -0.7742123222497005,
+        0.0427378470114141,
+        0.8684439680634716,
+        -1.0886030906358286,
+        -0.08132860653683642,
+        -0.7323526942951234,
+        1.821320476201804,
+        -1.9980647086634034,
+        -1.1684878498023408,
+        -1.0720179080666592,
+        -0.6213702330155256,
+        -1.0976726842473417,
+        -1.083728587965188,
+        -0.2880555112508477,
+        -0.8515047975676844,
+        -0.8614607073699513,
+        1.2582129780354057,
+        -1.0650713670073815,
+        -1.2207184183197857,
+        -1.2717154490020801,
+        -1.2560065993726495,
+        0.9833610965955107,
+        -0.3696204003959025,
+        0.45373080360735396,
+        -1.0167620808808608,
+        -0.9321870305801078,
+        -1.0501785794651164,
+        -1.0158713539735822,
+        -0.9979892529632651
+      ],
+      "global_mood_params": [
+        -0.5550450370317802,
+        -0.7293204005884313,
+        -0.34030031218172957,
+        -0.5799262575428197,
+        0.06789492404038601,
+        -0.546969295775474,
+        -0.7321019016216739,
+        -0.399563605403621,
+        -0.41919425301062313,
+        -0.6151799655202517,
+        -0.9855831264633094,
+        -0.35600314717903386
+      ],
+      "top_cats": [
+        "culture",
+        "military",
+        "original",
+        "art"
+      ],
+      "duration": 1.375
+    },
+    {
+      "name": "Martyr Monument",
+      "orig_name": "Martyr Monument",
+      "place_id": "ChIJLdoco6iDVxUROeWT4O0lGKI",
+      "cat_params": [
+        0.05812365940301559,
+        0.03474887972317657,
+        0.18445375741667552,
+        0.21350670566424687,
+        0.1759148688894704,
+        0.06332567943981705,
+        0.278110311123196,
+        0.17732665862189745,
+        0.11386308977006533,
+        0.22072613562547105,
+        0.03092810302549559,
+        0.07758262729937966,
+        0.15548869551689268,
+        0.08918803388830213,
+        0.18691188576908346,
+        0.1040182990660902,
+        0.3322336402809327,
+        0.36996056474063105,
+        0.09562643731546396,
+        0.07363131497043277,
+        0.3360974988682375,
+        0.14239507298260726,
+        0.2685095448522736,
+        0.1341847465975659,
+        0.01609317410729536,
+        0.2345626921776236,
+        0.18959921262865195,
+        0.28488784765414815,
+        0.16928436044443773,
+        0.2429781312250861
+      ],
+      "noncat_params": [],
+      "quote": "Landmark memorial dedicated to Iraqi war soldiers with an artificial lake & a split turquoise dome.",
+      "phone": "0772 637 7748",
+      "int_phone": "+964 772 637 7748",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.3432,
+        "lng": 44.4461627
+      },
+      "address": "Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 2495,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105959069958076906028\">\u062d\u0633\u064a\u0646 \u0646\u0639\u064a\u0645 \u0643\u0631\u064a\u0645 \u062d\u0628\u064a\u0628</a>"
+          ],
+          "photo_reference": "CkQ0AAAAER5AVB11jrXlu0x06j-xXYA4KBR2Hp1NYRPqjoDIsU5sh8KLFX1q53RnZUVT34xWARMNGX4dd9XWqLiTHCv-xRIQFhsM5VWWXhN2BcDOVripXhoUvjsisYIdZPs4xKitRwIf9EssmxI",
+          "width": 3557
+        },
+        {
+          "height": 469,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109630315375928879437\">Videos Vip</a>"
+          ],
+          "photo_reference": "CkQ0AAAAc3pYHJKp883_qs7zx0Ewj8oXsYHypb1IDFv24U4LV7EKPQY7ejxwxdLsl14H3HrwuhMg1uokDC-Ixww1L57QQRIQSTyeoLVkicZlvacTMaJUtRoUy4mLOJL5Xsnmn27rDkUp80OiDK4",
+          "width": 720
+        },
+        {
+          "height": 580,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115409639637264498884\">\u0627\u062d\u0645\u062f \u0643\u0627\u0638\u0645</a>"
+          ],
+          "photo_reference": "CkQ0AAAAIeV4OpChvA98Dyey_2zk2CE_Fl5E8wowhZGDETK1ZaAZz1TMwLWGLXaGCR_AiQHcJy01rCY95giqjhe6HaJKfBIQmL7tyEmFHYNDW7cbJkVQ7BoUWUW-bBa0ZnXRsI9xAjdVGRk4wYo",
+          "width": 1026
+        },
+        {
+          "height": 624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101424964843926155396\">Nahrain</a>"
+          ],
+          "photo_reference": "CkQ0AAAAusdKukHVTDr98fT_NwRAs4kjU3jhhRA8sRIS8xzdXD6Z7BHGP1tRVwA1LKJ3mn8KnYsFBlcF835RIzQJ1kUBshIQHTUL2cqDpOoV71qclMcpfxoUctzGWG1r3j7hsbW7Tdd2buxgKmM",
+          "width": 1080
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100984716412609107420\">Rabar</a>"
+          ],
+          "photo_reference": "CkQ0AAAAvg9T4QmE-L4S25nDVmScUkZxAv7EVL9bKG4LV8efvx4GzQoW666sPrZ-IMNem5a_1a5Fhlwo7zeJ_4C4XFZxcBIQkw13J4Qp-YWWb0ri5ALyOxoUCk1DR9fc_IADuwY_JkfeShITkAM",
+          "width": 3024
+        },
+        {
+          "height": 5094,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102394392153095947848\">osama alani</a>"
+          ],
+          "photo_reference": "CkQ0AAAAuogyt59iADA_ZRGytakiRcyHSyipbzF5UPLtvJO1hffTMIEtEIf1bqoOm83ocdpIlct9vnBL3JykB816vpNHqRIQ1jfMJk4yR7B_gjiyn1pF4RoUDgg6a2zPMNvvMCbTAUCcQo74Xe8",
+          "width": 3904
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109964004802600161998\">Firas Hamid</a>"
+          ],
+          "photo_reference": "CkQ0AAAAePzic1FJ7PhWI-QuIdUyP5UXiI27wXDJZXgR17PBgMkvJ6dyws2UxVqqZ6IiWsNOcIW5SRtVlvQpcgOncgBWxxIQ8DNhDZuk7ydYp8DUf657MRoUeV7_im0prDdGtJvqChr2PxBBzPE",
+          "width": 3968
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116916325845382809984\">Ali Al-ibadi</a>"
+          ],
+          "photo_reference": "CkQ0AAAALC4WNakoYUMq5Frr5xmV7Q2K044Vlao7fGTU844f9-H6rHYjEGcAIoH3QaXZWDvT6zFeZJ1lMobYr23tNActgxIQkVSV-Uj_ElFCnVcO6PNrVxoU_bfhIq6CyUW4xWO1VjB3gyrGA0k",
+          "width": 3024
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117588317278777142840\">\u0633\u0645\u064a\u0629 \u0628\u0647\u0627\u0621 \u0627\u0644\u062f\u064a\u0646 \u0628\u0631\u0647\u0627\u0646 \u0639\u0628\u062f\u0627\u0644\u0642\u0627\u062f\u0631</a>"
+          ],
+          "photo_reference": "CkQ0AAAAcb0iVzY4WF79vQt1KzIyCgvIRbQY4kBAPLotssU6JN_ATYq6ZWbDBuY-2ULZOEo2Eg1cuiN0OhjQWVgDOMfmLhIQVZOeeovFGP7DIy0IomcTERoU2TFxtMbeDBuRhEuZHbUhtxB69bM",
+          "width": 4000
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112155611949373628674\">Hussein Karim Almaliki</a>"
+          ],
+          "photo_reference": "CkQ0AAAANlSvA4YpCjPB14UwP-1tMRp7AA-ncPF8moHIkKk3fHUw19nT9tbbnspivxo1N7hISGT7B2SWVuStVq_MuseqABIQSx8V65ACmLQ4XfyGnghbCBoUsX61Fi55ZN8wyp9Z14s-xat027Y",
+          "width": 5312
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.alshuhadaa.com/",
+      "popularity": 0.5181860025355897,
+      "num_google_reviews": 490,
+      "mood_params": [
+        0.002246468594003428,
+        0.024901579144135905,
+        0.05462121300509677,
+        0.07718584445111301,
+        0.06172174907545391,
+        0.11214061183543336,
+        0.07153001480584337,
+        0.0214609027238074,
+        0.10201836491113898,
+        0.03110531062747558,
+        0.040054713843803796,
+        0.04045680070005364
+      ],
+      "global_cat_params": [
+        -1.2508804544216865,
+        -0.9267145026354215,
+        -0.39478240116928076,
+        -0.12696085482593247,
+        -0.7953792039450522,
+        -1.0913093250894608,
+        -1.2789219278703226,
+        -0.37551824173818427,
+        -1.3726915187320914,
+        -1.0699588234504378,
+        -1.1398449391378969,
+        -0.6013152838117208,
+        -1.0593668807668206,
+        -0.8563671009389973,
+        -1.1224598001143713,
+        -0.7772061424232959,
+        -0.7428864064119325,
+        0.7953433505988478,
+        -0.8956701958558917,
+        -1.2358265231165007,
+        -0.9826157543871301,
+        -1.1027369599192849,
+        0.12928873587008835,
+        -0.3174422193059982,
+        -0.3300553736502554,
+        -0.889964867904423,
+        -0.9424846373485237,
+        -0.880557258223022,
+        -0.784259698934897,
+        -0.5965231447578867
+      ],
+      "global_mood_params": [
+        -0.5872912345589649,
+        -0.7677270871222011,
+        -0.14877502702732662,
+        -0.7528559390542022,
+        0.07429029012053606,
+        -0.5230646236169765,
+        -0.7905248464762904,
+        -0.32423448336196614,
+        -0.26181927269201805,
+        -0.49025087857427174,
+        -1.1935701980298876,
+        0.8518812507428257
+      ],
+      "top_cats": [
+        "military",
+        "original",
+        "art",
+        "religion"
+      ],
+      "duration": 1.3125
+    },
+    {
+      "name": "Zoo - Inside Zawraa Park",
+      "orig_name": "Zoo - Inside Zawraa Park",
+      "place_id": "ChIJZaTgIw5_VxURuXMf7K32DnQ",
+      "cat_params": [
+        0.1565074335440731,
+        0.15630087763736547,
+        0.14360647736420568,
+        0.16063459722494464,
+        0.22995712414503353,
+        0.10005849914787958,
+        0.2671313997307645,
+        0.16376188798859356,
+        0.1422959004085621,
+        0.27078126264847224,
+        0.03203544803563003,
+        0.11329780986097902,
+        0.18874284854432036,
+        0.11344928842963727,
+        0.12834626221082862,
+        0.09896092969402036,
+        0.2646527094870701,
+        0.23630598539409767,
+        0.05798389017737278,
+        0.060661492670738004,
+        0.38820345251265037,
+        0.1660304839045305,
+        0.21188041003310665,
+        0.13109006791435415,
+        0.017154250548645243,
+        0.20460320112557845,
+        0.22329669087236795,
+        0.2763030735805179,
+        0.20548583559600123,
+        0.2529176324373591
+      ],
+      "noncat_params": [],
+      "quote": "Popular zoo rebuilt after the 2003 invasion of Iraq with 1,000+ animals ranging from birds to lions.",
+      "phone": "0781 024 3007",
+      "int_phone": "+964 781 024 3007",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.312787,
+        "lng": 44.3738242
+      },
+      "address": "Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 389,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104503921959804803294\">Abdul Majeed Malik</a>"
+          ],
+          "photo_reference": "CkQ0AAAAE2QOMl3WOJexD2Lu2DK_5_yJNgYTtE9iTDFVyxj8IAtLVaiVVGGEuSsL96KpT0yLqq_Vu17gT35b50oLwhqYNRIQOIb1O4mDtxNiFJyVjpY2IBoU1YrJQKoatLpZN9xK71mtnCIGQ6Y",
+          "width": 624
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114407525806507884778\">salim alshmry</a>"
+          ],
+          "photo_reference": "CkQ0AAAAx6J6JFhaqtYcKP6aC6eQ4HH4K9S51u4rI84R0eiJnrrfCl5-Rp1nigmsWWejwBVDa2JiY-OqB4LAM3LkqA2RTxIQRiLJEiD89TboAKcMMevMxRoU3E-pGT8dJu57im936bfFRSVx0iU",
+          "width": 4608
+        },
+        {
+          "height": 478,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105180283846767510112\">\u0628\u064a\u0627\u0636 \u0627\u0644\u062b\u0644\u062c \u0628\u064a\u0627\u0636 \u0627\u0644\u062b\u0644\u062c</a>"
+          ],
+          "photo_reference": "CkQ0AAAA9bYQ623ka5P3UC0zFeEXJqkUNgm0Q1FXGa_umDoMr6iz2_4DUCazgARuahR9fLeUe_0RkZyAUSon0psn3pb05BIQa0hJ2-vx-BqKs9A7yhgBBRoUjMb3SiHR6rVhOVsW-SLj_Jt4AEc",
+          "width": 720
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104590149255095292590\">\u0639\u0645\u0627\u062f \u0645\u062d\u0645\u062f Imad M</a>"
+          ],
+          "photo_reference": "CkQ0AAAA0n3_bbkjzRBY-fD4jAx8SpjNrOY0L3QxygUEW9be27k0U9-A9WmHvbGDr5r8SqNMnO2hNKMqKAN2FPr6l6QvdxIQZ8nrqidSGhoWC6SoK2XWUBoUU1c-1BKwJi30FOuTrCpCVf6Xf2c",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101004007188637732127\">Ammar Alzubaidi</a>"
+          ],
+          "photo_reference": "CkQ0AAAAgf-6mkXfm0WEzJSalycrM1FRj9KoGmrJZ4KX2mKZH-7BvAMt_UotzMLEojRcPZIlh1E1OhRYeHE731sDheYJcxIQuWnoW0bWiMUXsWzkA6St2RoUmdpOLil5NL1U6jZa6SqA9Dq0S3A",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110191688774232916764\">Ahmed Jumaa</a>"
+          ],
+          "photo_reference": "CkQ0AAAA5CGB3TkVFoK_u9dVar0dkWJXcCQvMpEIAI9mHZN-xWeeaGXoPuCtO9sJbx7paz-LQsjlLQKmQcwhQ4WioV2TqxIQ0B3tjjXpJeD3AXfvM6FlqhoU83rYjv_7LLKFZR7ySW66HmXBzQM",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108849762461065100450\">Medhat Salem</a>"
+          ],
+          "photo_reference": "CkQ0AAAAaTvRt-csOGBHTaWo196nuLh12t7vpV75sQaatV8FOJ05iInDn5h5AFLUPiPQ_9Tnot03ztCHvg73f_texvWbqBIQH9couyWsPbpm6RrLcxklCBoUQo9Mp4WeYkA46jhQulKYkhauBaw",
+          "width": 4032
+        },
+        {
+          "height": 5120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106666249687341860064\">I.M NINJA G2G</a>"
+          ],
+          "photo_reference": "CkQ0AAAAsvHT-dGE2rIzC4_Im-i5XhzzHlqKyX9qovh6iDA-sg8YCa6aJd0myAAUYWsmmcWhkI2vQkgHzrzfXhRd2BwYlBIQMEQG0HptVq9NKrxPYvJD2xoUOnOWotp1p5dAuoYfwljwCCSj6iQ",
+          "width": 3840
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100025693125785157630\">Mace Ahmed</a>"
+          ],
+          "photo_reference": "CkQ0AAAAq9xKaVf8BYewcyDHS5mfGAmen1HtUv2xCn-qGF9DwudoEMJ0VfsPYqqnb4lmR5a-S7I97InHPZUNTCjExiHoQRIQ2gH3BpNk-l4F2GgJzrpCjRoUaJ2B5lmkJQzfz_8Ucm5mz-iOiS0",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112833352461440171259\">bashar iraq</a>"
+          ],
+          "photo_reference": "CkQ0AAAAZs68DeoRtHNPiVc3uDehuyaDfFChHjqV9qZ2u8CwHaYtiHDWjSzi8W5-YBRvyZri3t30S3677GAHdIRPkeOZuxIQ-J4ojBDQZqNfpOrXMPVAxRoUsHsSMICbfU6CB1qfl4t20Qc4hRE",
+          "width": 4032
+        }
+      ],
+      "rating": 3.9,
+      "website": "",
+      "popularity": 0.8465919209124138,
+      "num_google_reviews": 3491,
+      "mood_params": [
+        0.0035917501276674637,
+        0.024882798446038988,
+        0.04871461727877873,
+        0.062310805641043285,
+        0.05076251360154436,
+        0.08002954812239206,
+        0.03637872047882006,
+        0.014229617747359417,
+        0.10013938100894895,
+        0.016727653779639425,
+        0.04083141609057408,
+        0.013154508896861697
+      ],
+      "global_cat_params": [
+        -0.05714786355750073,
+        0.5266482972824681,
+        -0.7960411166237432,
+        -0.5047966189709523,
+        -0.462027919473708,
+        -0.6012689316514607,
+        -1.395757689161542,
+        -0.5261659956431769,
+        -0.951913577053939,
+        -0.5377407306359623,
+        -1.117070745712007,
+        -0.2621214647607561,
+        -0.7000161593871813,
+        -0.6780947194376364,
+        -1.7593030201443884,
+        -0.8364374820702523,
+        -1.1095833854793096,
+        -0.6026329133679862,
+        -1.3761615388072657,
+        -1.4942615852628633,
+        -0.728494590709039,
+        -0.8718363525040446,
+        -0.5091949722667237,
+        -0.34631072243375816,
+        -0.2995045218052658,
+        -1.1121872501773493,
+        -0.6267421635905791,
+        -0.9363272855494211,
+        -0.5657320711365227,
+        -0.528177808111585
+      ],
+      "global_mood_params": [
+        -0.49677817934979684,
+        -0.7682897383585254,
+        -0.25512108212909246,
+        -0.982176323694785,
+        -0.1662347378536759,
+        -0.9268617956532568,
+        -1.4557491336147947,
+        -0.6125872536080655,
+        -0.28667575841504367,
+        -1.0490122939740283,
+        -1.1755971504951213,
+        -0.8171862910334107
+      ],
+      "top_cats": [
+        "animals",
+        "amusement",
+        "food",
+        "science"
+      ],
+      "duration": 0.8125
+    },
+    {
+      "name": "Al Yassin Mosque",
+      "orig_name": "Al Yassin Mosque",
+      "place_id": "ChIJXbT5pWt5VxURk2OPp8gSLdM",
+      "cat_params": [
+        0.02970090863346955,
+        0.03172493953292249,
+        0.09088495726643288,
+        0.049809463933478376,
+        0.05002134755706274,
+        0.1775409058405019,
+        0.20052713556545063,
+        0.1353754215725621,
+        0.06016671897352936,
+        0.16458156705150132,
+        0.014111192492453585,
+        0.038465591927075195,
+        0.10797751763085464,
+        0.022696821632888116,
+        0.13345416423423326,
+        0.03466547895859982,
+        0.11680400287726776,
+        0.12771970242473402,
+        0.028281533413137657,
+        0.034675620068015583,
+        0.1420981401151721,
+        0.07113035911351381,
+        0.08771237573859005,
+        0.24147295784597445,
+        0.11523382983271607,
+        0.0906734958212375,
+        0.11468311293581752,
+        0.13938131261565945,
+        0.04467217178769782,
+        0.08584207368390559
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "032 109 589",
+      "int_phone": "+964 32 109 589",
+      "hours": "",
+      "coordinates": {
+        "lat": 33.3795066,
+        "lng": 44.3398783
+      },
+      "address": "Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106753938190994436413\">Zana Ahmad</a>"
+          ],
+          "photo_reference": "CkQ0AAAAnv9vLF77DtR9nNPS7KWusF_5NrmqQ1g0lc2nMf2A7Q0xhVtqerNs1pK1hZ382m1WlNgl-_MO4U3m9ubdHNyfaRIQayhSK83nO5dVjPPscwjmthoU38FdHi0xlLh7ml_EnxtFjF8XOL0",
+          "width": 1204
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111821676405748880942\">\u062d\u064a\u062f\u0631 \u0639\u0628\u0627\u0633 \u062d\u0633\u0646</a>"
+          ],
+          "photo_reference": "CkQ0AAAANQ_A76m5ADIfsqpExe-m4xn-YD3ABLojOJb5uNjEWKUtsTavCQJJ2jR_hEclQauk5vpzRe9-74JcyvwVInAdBBIQxg-rRJJdI_KaVAbSPrB1fxoUmC2z-PTKZaF1lxF-hA7g1wayTpk",
+          "width": 4032
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114145146869018028078\">Syed Asad</a>"
+          ],
+          "photo_reference": "CkQ0AAAA1gK7UUSP7xy1wqAqlCcbwN5_q4VmPuQMOGGKP93bT6OqzhaVqL3sWfGyxjlia6zseT_HYmRFndTggA17expRNBIQInUtTHg0rz70DXkkqYrLXBoUWNjpoOJSyGzDNRsFN2EfFVHY-dc",
+          "width": 4608
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111821676405748880942\">\u062d\u064a\u062f\u0631 \u0639\u0628\u0627\u0633 \u062d\u0633\u0646</a>"
+          ],
+          "photo_reference": "CkQ0AAAAuTl-I7aqf9CGPoa4JLMJbOZFBd1wFtA4qBXeXlr3aq3vy47TTOD1bKgQw31pHIDxgh7ujFQ4hC0equMQ9-IPeBIQBWEMa3yvopS7p53Mh6mBoRoUBT8IN6jpsveKIVlYwGtgKeam_DM",
+          "width": 960
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116695964707601719531\">\u0639\u0644\u064a \u0627\u0644\u0645\u0648\u0633\u0648\u064a \u0639\u0644\u064a \u0627\u0644\u0645\u0648\u0633\u0648\u064a</a>"
+          ],
+          "photo_reference": "CkQzAAAAkVSf_S96ijSAoWmDrCVrS61npWjEX6Yf1Fz_ZAuzMGltbXOmn4hYSAzuwJqetKaMbMvg0CsT2CpG-hmSl2dx9RIQhOs09qMgqlGX6761Ksss0RoUjr3FkodnJXbjRweCTAOvLYuuWjI",
+          "width": 3264
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114407525806507884778\">salim alshmry</a>"
+          ],
+          "photo_reference": "CkQ0AAAAhT9hKeLe1aISEB5h7iD1cdfSgzLGkhgoRbqwsawE1SGIQdEJ-zPceaud7dFjkZzwRoTXk8Ol8XQFAw9eHnXvoBIQp6aNLDDm_uimuNRuRt5l7hoU7wKbaf0U_0zq0pJq3RG4uUE8xzU",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104856072697017857212\">Hade Rh</a>"
+          ],
+          "photo_reference": "CkQ0AAAA83X9dcF537qquw3P6BEFMIzr2-14LsVSEC9H_2LoiapZ8OwKDTJYU4eyJeUwHoe3eKDaM5z0ruoXCR3iV7A3AxIQi84Ylwj9tpIpJsmLHEE_3RoUkDafwQ1xbOiIOe1aKVWTO-PAf6U",
+          "width": 4032
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113571447585202785427\">falah zakholy</a>"
+          ],
+          "photo_reference": "CkQ0AAAABdVrEiiy5i8L2a73OLI1e4YyKFW65asoLlBC1fLSuzajNI9GRoraBDSAFV5kSnH90VkpzVnzFZdcp_E6DXR6TxIQi0rpvTgfxr2n-by6RUbHQhoUuQiWa8-f1zR6B-yLqzP3vxmugzo",
+          "width": 3096
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114473728494797855450\">Plato 313</a>"
+          ],
+          "photo_reference": "CkQ0AAAAcs_ssAlp8hsDW4gSBhizF2bZ2AENaiQ_P22LVgaekTBGShxteIcw5PJKpmB7etR5OKvnif0FDNoIWDgb-E3XnBIQwQ-la1iEmkizHaVMRX_yjhoU8wW7GsTOoImAz5_8aZbCOtr5ncw",
+          "width": 3024
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114407525806507884778\">salim alshmry</a>"
+          ],
+          "photo_reference": "CkQ0AAAAYlxbvlnyEoiLSewiulvGafvz2vCJwwTsYrxJohFPYUPUdo0VzCr4vB0FkP0tlKjHmDwIY7syhc0BQXECN3UMRhIQALzonWLofhB0nWQTTikglBoU28BImmgGhC_muiCG_Tg6nJnuP1o",
+          "width": 3456
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.facebook.com/alyaseen.face/",
+      "popularity": 0.6999228109833514,
+      "num_google_reviews": 1631,
+      "mood_params": [
+        0.0008065853485792096,
+        0.0034455805739036596,
+        0.009657703291497892,
+        0.013987933372395664,
+        0.0059122310847155015,
+        0.028012959491069193,
+        0.022922264990705526,
+        0.0009072745019973414,
+        0.026934491750420876,
+        0.00906236260971263,
+        0.018221202496020574,
+        0.01536425493085961
+      ],
+      "global_cat_params": [
+        -1.5957458980564403,
+        -0.9628708987219304,
+        -1.313945109351401,
+        -1.2967774981092657,
+        -1.5719338988651645,
+        0.4323982183779122,
+        -2.1045492651970683,
+        -0.8414206742866506,
+        -2.167345577615797,
+        -1.666923749632701,
+        -1.485709660430934,
+        -0.9728171400600923,
+        -1.5727817325257079,
+        -1.3449464008053598,
+        -1.7037596386426586,
+        -1.5894585489703381,
+        -1.9118166994625647,
+        -1.7384042945338625,
+        -1.755299678373447,
+        -2.012052842986578,
+        -1.9287522196280578,
+        -1.7989408792843562,
+        -1.9091680995550582,
+        0.6833886840115736,
+        2.5244340550559508,
+        -1.9572526913893362,
+        -1.6444420500140675,
+        -1.825824235043372,
+        -1.5364723054077791,
+        -1.6770116443884115
+      ],
+      "global_mood_params": [
+        -0.6841692696962448,
+        -1.4105276933518984,
+        -0.9583262648520804,
+        -1.7271437686255777,
+        -1.1505748848186208,
+        -1.5809712819040118,
+        -1.7104072103903718,
+        -1.1438254213031978,
+        -1.255080161768067,
+        -1.346909857456645,
+        -1.6988020792769463,
+        -0.6820981670216567
+      ],
+      "top_cats": [
+        "science",
+        "religion",
+        "books",
+        "culture"
+      ],
+      "duration": 1.1875
+    },
+    {
+      "name": "Al-Zawraa Park",
+      "orig_name": "Al-Zawraa Park",
+      "place_id": "ChIJGzy6hw1_VxURUtVc-8ajfpI",
+      "cat_params": [
+        0.16600082070759456,
+        0.1260818773043873,
+        0.0801352361089674,
+        0.06232066860743397,
+        0.24967238171621742,
+        0.051101093462803705,
+        0.2980662606147831,
+        0.14589005655166273,
+        0.10640996223473516,
+        0.2847620556839261,
+        0.03684195309404829,
+        0.12867543414585636,
+        0.2393821257845979,
+        0.1200738057133599,
+        0.15081056768631443,
+        0.08742917706970658,
+        0.29888576889256546,
+        0.22191059187720327,
+        0.12135619018183734,
+        0.0854457010864276,
+        0.40509411741419826,
+        0.18990841855008558,
+        0.1381877802460605,
+        0.10339561618971223,
+        0.004081304251642108,
+        0.19089063965687653,
+        0.48476949729837004,
+        0.33727320137664746,
+        0.21929750868900072,
+        0.24772989726700875
+      ],
+      "noncat_params": [],
+      "quote": "Spacious outdoor amusement park with a roller coaster, tented areas & landscaped grounds.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.3148553,
+        "lng": 44.3770677
+      },
+      "address": "\u0634\u0627\u0631\u0639 \u062f\u0645\u0634\u0642\u060c Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 2726,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112792028534178935243\">Ammar jalel</a>"
+          ],
+          "photo_reference": "CkQ0AAAAEMBLMDMXUm7BhNq4HYe7wXdVlroIj813svxDejI_OI3sk9BgogvPM1nA5Ie6EX0d2XrpSKNpcOqgERpIXauolRIQLRaKA7TGD8Jt6rW2DfAaIxoU0SfYXZJU1xnLT_JHG8vumGQzPpY",
+          "width": 4096
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104976345808940222597\">Mustafa Iraqi</a>"
+          ],
+          "photo_reference": "CkQ0AAAABVnWFD6KlMWaRFsCcfvQF_q0XhlwC3F5llwhidkq80xvbg--vZn9QKaojDcwWM4kCaq3ZSOWGm6RvNxZrVJbSRIQ_Rnw57MuAf5mXQj3VPNMbBoUjv4iSYP723RfsjrU3nd3nO_snE0",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115067179418883600019\">Aws Al-Janabi</a>"
+          ],
+          "photo_reference": "CkQ0AAAAb3YHUC1FMwO7YyhF_JtVChEiYKyV5Sx7pd32_E0OIyxR1PTEXnj3alYDp3XSdK32TUCwGMtUjcPOSPWecVC4PxIQqfGDINXfIJvIJsoTdfq02hoUIMIKC_NIJLeJLhaiheR8fzL_azw",
+          "width": 4032
+        },
+        {
+          "height": 888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111989795523235763536\">\u0633\u062c\u0627\u062f \u0627\u0644\u062e\u0641\u0627\u062c\u064a s</a>"
+          ],
+          "photo_reference": "CkQ0AAAAzBWU_0vvqbWu91O5uuubvcthpnte9x3-6OQ8Ktkgu35c3G1sr57IyOvn_vBWoxW9b8wAxBnZjfe_yKEv_TTVNBIQoUlx7Oi5xpi4TRv4JeuBHhoU57-0Nv5oNR4pnQGdfJygGSVRJFQ",
+          "width": 1334
+        },
+        {
+          "height": 635,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108245264465526056251\">3addn - \u0639\u064e\u062f\u0646\u0652</a>"
+          ],
+          "photo_reference": "CkQ0AAAAxLThfsAxQVYb6FzV4Ja_YtSSxhNpgJk0eNdonD1CEvx3dKfHGd8zxCwMS6BtOC54w_-lRs4fucu5cfUkRau2-BIQI7jNVtQRAgB6jAKgG3A31hoU9HjRBuv3czcJBOl3sNC6s5jq3Nc",
+          "width": 960
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104699141903406947237\">\u0645\u062d\u0645\u062f \u062e\u0644\u064a\u0644 \u06af\u064a\u0637\u0627\u0646 \u0627\u0644\u062a\u0645\u064a\u0645\u064a</a>"
+          ],
+          "photo_reference": "CkQzAAAAgW23gnqtR6cp695TSqMrurNbC6C-cxXLo6ReVSzoS74W06cjJglFEhnWyopRez5XA3s2ZgZ9D_icIRDyJb16QBIQccrswurZ7loBSK3hiOnwQRoUB6fqJnPWa_YwiOWgeIzAZwN6Ft0",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117700138262672555905\">Muhaed Al Ali</a>"
+          ],
+          "photo_reference": "CkQ0AAAArXAqOZl36MDgjajpcrBts3vY4iHUblE8N6wEnlmTcS_rkyIpqjc7R-AKt8zzJdgNY1kuaupKENZhmMrob8HvqBIQAlg3QNihlLbR9ht7MJ3RoBoUATVU13OzcaETFEkqJRNa9qf3Vec",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101588670624784684208\">Meethaq Naeem</a>"
+          ],
+          "photo_reference": "CkQ0AAAAS0zWcSoBTn-spPChh2_ZFZm8w6OkGo1lbZysEJZchFbkKa2E2KV7FvxwwzDIpSNU2UgzW5o2L693ybl2W7CYVRIQZ8yNsZIG0n6YYQ8y4NDSOBoUHjjlywrPFRZvhFYQBr_iMsUpZcI",
+          "width": 5312
+        },
+        {
+          "height": 628,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117429822141798811954\">\u062e\u0627\u0637\u0641 \u0627\u0646\u0636\u0627\u0631\u0643</a>"
+          ],
+          "photo_reference": "CkQ0AAAA3w4pA_DDLSyYm1d7uSk6nitzNtBr4hvMVDYwhbIQKSy3Q48-___zTzT1p9za3lviKegQR8h1OwDxpQWw4BfL2RIQV1Vgq7jDubAYBWA6LRK48hoU06dcMowIDpgaRcB7OxDMzJ-orVU",
+          "width": 956
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111185844943405639516\">bassam khalid</a>"
+          ],
+          "photo_reference": "CkQ0AAAAD6WlWGhxLgwUy7OGIK-KWCWaetKcwkLcP-jIGSAAJLIwbIgCrthzowyWHtIOtrdnCjjs9d1utZo8pw1MgIYMmBIQn3IReS_WFIZLUsmY7vXdXxoUmX2LkDM5YVTbZnCoMGa_QjO3Z0o",
+          "width": 4032
+        }
+      ],
+      "rating": 4.1,
+      "website": "https://zawraa.business.site/",
+      "popularity": 1.0,
+      "num_google_reviews": 6796,
+      "mood_params": [
+        0.00597805899653132,
+        0.027222619261509307,
+        0.025757551073687664,
+        0.04430719077034983,
+        0.024703767724636252,
+        0.0711159705642376,
+        0.04093974974307536,
+        0.013880692035155602,
+        0.09307944714793903,
+        0.018849012257001377,
+        0.06036674860452051,
+        0.008451635147710948
+      ],
+      "global_cat_params": [
+        0.05803948063341476,
+        0.16532827220429488,
+        -1.4195438003192575,
+        -1.2073696663072562,
+        -0.3404174055534732,
+        -1.2543934816938995,
+        -1.0665540101598288,
+        -0.724647144858636,
+        -1.4829905568136392,
+        -0.38908800617191364,
+        -1.0182178363647696,
+        -0.11607726912708756,
+        -0.1527984692710515,
+        -0.6294175799082652,
+        -1.5150259209598131,
+        -0.9714960680987156,
+        -0.923833362199529,
+        -0.753203275756414,
+        -0.56724068062629,
+        -1.000414538313894,
+        -0.646118679323368,
+        -0.6385664664126611,
+        -1.3400666371621102,
+        -0.6046565631737343,
+        -0.6759049675536898,
+        -1.21389919419353,
+        1.8232355505956077,
+        -0.540241650200102,
+        -0.4823588896762788,
+        -0.5638493673857724
+      ],
+      "global_mood_params": [
+        -0.33622285989534695,
+        -0.6981910089178985,
+        -0.6684545047541378,
+        -1.259728264216343,
+        -0.7381524227996551,
+        -1.038950184965849,
+        -1.3694334658984129,
+        -0.6265009212413781,
+        -0.3800693979332764,
+        -0.9665695650978393,
+        -0.7235455936203686,
+        -1.1046864754267716
+      ],
+      "top_cats": [
+        "sport",
+        "animals",
+        "amusement",
+        "food"
+      ],
+      "duration": 0.75
+    },
+    {
+      "name": "Umm al-Qura Mosque",
+      "orig_name": "Umm al-Qura Mosque",
+      "place_id": "ChIJZyTnGLJ9VxURP9p_PGvT3iQ",
+      "cat_params": [
+        0.053368620176786785,
+        0.03940857468225969,
+        0.19069182501646012,
+        0.23609041473550305,
+        0.14755838042705313,
+        0.03415097608506724,
+        0.1961430985840705,
+        0.1173499316589853,
+        0.08489664029093764,
+        0.15232265061451325,
+        0.038344959349663206,
+        0.045443580723689134,
+        0.11568633957011396,
+        0.07119947454866833,
+        0.12085049747635343,
+        0.0824288523917434,
+        0.26251841032796064,
+        0.21019579403158678,
+        0.06552634460871468,
+        0.062004630968089454,
+        0.262785619648358,
+        0.09568858347716167,
+        0.3162878801878638,
+        0.4161493965596724,
+        0.012012804987264097,
+        0.12799876721237635,
+        0.11632951592064439,
+        0.20654919889477624,
+        0.1293659608935033,
+        0.19190239675001639
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1430"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1430"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1430"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1430"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1430"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.33787460000001,
+        "lng": 44.2963192
+      },
+      "address": "Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112798741632843258735\">Ali WK</a>"
+          ],
+          "photo_reference": "CkQ0AAAAajPi5duPJIkiUTNuzRXvCPx-LSW4S91rHWh1EUY3JfLC-5kuelGvqXgn4FEcClmOAXPifK8rpdDzUa666FLDiBIQyD5bC5AKLu1iv1idLk50uRoUz1nfCOi5HNrgo9wUd8c-M_ioWlg",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108245264465526056251\">3addn - \u0639\u064e\u062f\u0646\u0652</a>"
+          ],
+          "photo_reference": "CkQ0AAAAseXtTW2GswPZaTY4g1EOMyBHYqNm4iCsFLiE3jo--4GOZpEwr6Eu4gJkRzgvt20JM6nUO9b9fhaceS1221zPgxIQBL9XI9NeaF0j9UxOhlEFCBoUIN2F590vfDK_Qc_jSffil2B-qCI",
+          "width": 3024
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111826603202044189593\">Elaf Mohammed</a>"
+          ],
+          "photo_reference": "CkQ0AAAAgmZRGUs72OXI5E4Br97GH8ydloadCyweDEqqfv1tKh9R79ZCvkOMw5xaxEaLNmm9g4e8ttMm7102CA25YCBNVRIQKuMBTykqaR-x28sDYtCS9hoUSZvVYB0rFSnARpsspcQ4KigPsfo",
+          "width": 1422
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108503124958112991770\">\u0632\u064a\u062f \u0627\u0644\u0646\u0639\u064a\u0645\u064a</a>"
+          ],
+          "photo_reference": "CkQ0AAAAF9z6U9Y1LFfXPcnxoBVd5dTTluaPLRrzB6kjTodMqFnnfG9l9ESQM9e8Gk4kS4FZJTfQXipxKhvRR5i5brTX7BIQ8k5z__O51-C5jgltNjCINxoUG1QNVytOa-gck6CmLrL3mrpU1ss",
+          "width": 1845
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100238236904505038124\">Mohammed Nafaa</a>"
+          ],
+          "photo_reference": "CkQ0AAAANzZbefHdqku4_UNKIfoenPkPe2dLoaB0kdrTidDoWbHdkEqqLiTSOidglfPA7z39Bj2H88lfg0rWuH-6W49QwhIQoRXYex9LbL-Os6QKiQJaYxoUcZTNy3pNBZgCJ99UmsJK8xlpyFQ",
+          "width": 3456
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115054499694922458719\">suhaib abdalrahman</a>"
+          ],
+          "photo_reference": "CkQ0AAAAqI79S7N261HFk7d66Vf2icBFwRi6n_TZve1A4QQ4aI9Bzhd1mlFXAi5QVdSrhrzIAM_Ny4tHpUCG8YC_57fAbxIQcLh8CzozE3vSmfeluBiSRBoUD9hfNzr7BiKXjdFuCXDArKPCpZ8",
+          "width": 3264
+        },
+        {
+          "height": 5482,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108245264465526056251\">3addn - \u0639\u064e\u062f\u0646\u0652</a>"
+          ],
+          "photo_reference": "CkQ0AAAALIVAGz-EZ0wxaGjDkG67s9Q63BpZh6ertEnjpkoaP0ytg7ogF3z6tgR5CiUGW47eHUk8hz_BlxqNPYCcHzGzyBIQ2UbWupmH0f8r2WQWcb5LJhoURSDUyRzUqZsvyi3B3IWyn8eFgYs",
+          "width": 3926
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115054499694922458719\">suhaib abdalrahman</a>"
+          ],
+          "photo_reference": "CkQ0AAAA9iltHHUGN7jQlZcihOb8G-qRp2eWtuACFxDmidZihtSc7o8iyjsV3ImTt8l3xoPizw0QbL80RCpMSbqlR9Uz6xIQ0Tn9uRGiboVOOEY70-XgeBoUZTDL4kBywp-nG9eHJW5QpN5yIak",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108245264465526056251\">3addn - \u0639\u064e\u062f\u0646\u0652</a>"
+          ],
+          "photo_reference": "CkQ0AAAAO9VvE6xqkSJyZ3hGi8XzTeW9iJexuSuOaYkoRvO9ihXf6LxjRuM4aQaLPsTdIgg9hvkyQGC8pHfSfHODVwQn0BIQPqeJJD52bgJ1K_2DG-jeXBoUVNPo9iVfLt8yZ6R-wGX1Ri2c9vw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108245264465526056251\">3addn - \u0639\u064e\u062f\u0646\u0652</a>"
+          ],
+          "photo_reference": "CkQ0AAAAchtKebnxd-Wm74WYoNSi9cj4MATP0aHCnGh3mKeobf9gPiE1ypRCLlNFCCc7NSR-oK-4byeBmH2Hd0pE1R4TChIQfijKirvZ3c6vxWjF6znE6RoUxO6o3qX6XoV-b4CDU12DEJ3VElo",
+          "width": 3024
+        }
+      ],
+      "rating": 4.3,
+      "website": "",
+      "popularity": 0.42417232301595825,
+      "num_google_reviews": 220,
+      "mood_params": [
+        0.006109178482882558,
+        0.016316890270781016,
+        0.06494310787167717,
+        0.08091031017102862,
+        0.07535937265350041,
+        0.08649338505724774,
+        0.030687285324411683,
+        0.01617072142006008,
+        0.10755492588761253,
+        0.007690161861540359,
+        0.013380007502943282,
+        0.01938268992146202
+      ],
+      "global_cat_params": [
+        -1.3085753878062163,
+        -0.8709998502339263,
+        -0.33350343745878713,
+        0.03442731799419997,
+        -0.970291812742417,
+        -1.48051938911459,
+        -2.1512034624976772,
+        -1.0416083252190165,
+        -1.8013667961965334,
+        -1.79726838192317,
+        -0.9873062822669723,
+        -0.9065458655079867,
+        -1.4894787320681344,
+        -0.9885475414760425,
+        -1.8408120464308129,
+        -1.0300593067225694,
+        -1.1211641826787253,
+        -0.8757356229862092,
+        -1.279885268087059,
+        -1.4674983790040275,
+        -1.3401583911829364,
+        -1.5590250622360344,
+        0.6679812094719745,
+        2.3128461603913006,
+        -0.4475386647695613,
+        -1.6803951602278993,
+        -1.6290153956077058,
+        -1.3894755529331195,
+        -1.0252242762857358,
+        -0.9477267104705648
+      ],
+      "global_mood_params": [
+        -0.32740089586021787,
+        -1.0249159191415038,
+        0.03706684384001577,
+        -0.6954378763266261,
+        0.37359855851393753,
+        -0.8455789363209343,
+        -1.5634572839367507,
+        -0.535184326855613,
+        -0.18857785284484724,
+        -1.4002379372944063,
+        -1.8108283133936411,
+        -0.43643969044027875
+      ],
+      "top_cats": [
+        "religion",
+        "original",
+        "art",
+        "architecture"
+      ],
+      "duration": 1.0625
+    },
+    {
+      "name": "Al-Jawadain Mosque",
+      "orig_name": "Al-Jawadain Mosque",
+      "place_id": "ChIJ4dC1mJ-EVxUR4hRcf90Jx0g",
+      "cat_params": [
+        0.0909366097218486,
+        0.08060207305628972,
+        0.1303744685891018,
+        0.13782699870097173,
+        0.20292080332421783,
+        0.06776604509074789,
+        0.44051880267029875,
+        0.2397451090889645,
+        0.11405541941649947,
+        0.33543197194786,
+        0.06270169948180959,
+        0.16073139933803993,
+        0.2766044165851099,
+        0.07867304575648185,
+        0.25071478783985784,
+        0.08599165510453051,
+        0.34462817259229106,
+        0.2488497506276393,
+        0.10874477169344052,
+        0.08840806665552361,
+        0.41896719075928995,
+        0.24238552277012887,
+        0.23575288130860425,
+        0.534515980497049,
+        0.015247678881722217,
+        0.3741840721899645,
+        0.28083472282721267,
+        0.3147078690225548,
+        0.20317941153178903,
+        0.24429759719363198
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 33.3500304,
+        "lng": 44.4768479
+      },
+      "address": "Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110398214528647059417\">\u0647\u064a\u0626\u0629 \u0634\u0647\u062f\u0627\u0621 \u0627\u0644\u0643\u0631\u0627\u062f\u0647</a>"
+          ],
+          "photo_reference": "CkQ0AAAA0snd5zjytHqPJ_jciP7alkF7IEPq4-N-e8xODw7FToxxMrDpHp4usB5wf1CXr4kMtYU9mlO6Oa894mytZ-L79RIQ3gq-xgAp2IRRyDRM2A9_txoUueOWW9sn5tHDrw5zOUN3I75auY0",
+          "width": 720
+        }
+      ],
+      "rating": 4,
+      "website": "",
+      "popularity": 0.24377516994779685,
+      "num_google_reviews": 24,
+      "mood_params": [
+        0.002374490054927743,
+        0.018161632713022333,
+        0.06042991987706587,
+        0.05469282525792734,
+        0.024675945965140677,
+        0.11496515705716684,
+        0.05487574969979966,
+        0.0073935968463160985,
+        0.050331217461802184,
+        0.03292532003356501,
+        0.05824715774990563,
+        0.07241304507507813
+      ],
+      "global_cat_params": [
+        -0.8527468339139125,
+        -0.3784608614666776,
+        -0.9260242840992805,
+        -0.6677847552680161,
+        -0.6287972785683306,
+        -1.0320718761845207,
+        0.4494024088344177,
+        0.3176891569927009,
+        -1.3698452270383443,
+        0.14966691866661636,
+        -0.4863737762124307,
+        0.188364273013937,
+        0.24943270587072533,
+        -0.9336315298053781,
+        -0.42866635724946306,
+        -0.9883321632116293,
+        -0.6756331516529606,
+        -0.47142988132074615,
+        -0.7282201537682571,
+        -0.9413868113135334,
+        -0.5784595867308994,
+        -0.12590369613851993,
+        -0.2400369844033755,
+        3.41702092242898,
+        -0.354399142266275,
+        0.14566673306891642,
+        -0.08761575142428579,
+        -0.6868348151714031,
+        -0.5796546358203988,
+        -0.5874503206907942
+      ],
+      "global_mood_params": [
+        -0.5786777114631407,
+        -0.9696492506464968,
+        -0.04419142427219032,
+        -1.099618584783741,
+        -0.7387630337767526,
+        -0.4875459194402177,
+        -1.1057002004736114,
+        -0.8851785801421673,
+        -0.9455722527686001,
+        -0.4195195318360545,
+        -0.7725933559291034,
+        2.8054582847846015
+      ],
+      "top_cats": [
+        "religion",
+        "cosmopolitan",
+        "culture",
+        "friends"
+      ],
+      "duration": 1.375
+    },
+    {
+      "name": "Buratha Mosque",
+      "orig_name": "Buratha Mosque",
+      "place_id": "ChIJ1UZMZyp5VxURUA7lYexnuXk",
+      "cat_params": [
+        0.07455454950208881,
+        0.01936384002933809,
+        0.15974026068895814,
+        0.12418429817109222,
+        0.19307428005197327,
+        0.12269433821199463,
+        0.27448278400214843,
+        0.3123062731708424,
+        0.10927812077332245,
+        0.24842363024710892,
+        0.018349383246586012,
+        0.07876756693272745,
+        0.1609617459627048,
+        0.05714558647537288,
+        0.2623327332381366,
+        0.0828614148432017,
+        0.24781737976742685,
+        0.28881490720916336,
+        0.09110362388358388,
+        0.07351519409597941,
+        0.2837158812287891,
+        0.12054615859270441,
+        0.3076270514121117,
+        0.5443299651951141,
+        0.007576084963008244,
+        0.20539007599131487,
+        0.17810695107638963,
+        0.25178589621604053,
+        0.17197562449491133,
+        0.27134226455772614
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0300"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.3512382,
+        "lng": 44.3612356
+      },
+      "address": "Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118441723057094987072\">\u0627\u0644\u0622\u062b\u0627\u0631 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629</a>"
+          ],
+          "photo_reference": "CkQ0AAAAELI0MfHmZ7pIoFtuPF6NKEkTq-KuWAnX-NdZEAbQi0YBLiJlBIi95nFt1axjbnKKNSrGcRqMqQ_4ZXB9tLMajhIQ6tHAJlSNfyxvcogfCaIetxoUym_7DA_ZzQY9UzI7d71HVC4breA",
+          "width": 800
+        },
+        {
+          "height": 805,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118441723057094987072\">\u0627\u0644\u0622\u062b\u0627\u0631 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629</a>"
+          ],
+          "photo_reference": "CkQ0AAAAJfvMifW8cpnkE3qWfH3kq3hSP5jxcwthWqa7HPPOsfAXJ6Q3aXDv4PxzqV3jAUDSrtkHTUpVPRL_KOm-i63MixIQT77yU5xpJECf-RaDXrn7NBoUFYv9dgDjBkZHu7CKrKqv1umljNw",
+          "width": 900
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101393597595187631231\">Murtada Alshawi</a>"
+          ],
+          "photo_reference": "CkQ0AAAACfOSet7w3W_vPrR_yLGogSyxb2Jc1spV3RHJA37FPq9VzCImyYwt71LBY7OR37YArMGGw0Khl24CxCKQQ5sBWRIQ0Bquv5k6q9yomDBkUiY0-xoUFJNRGAPZCmD31iM0nGWpuVL9zao",
+          "width": 3456
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109380187114975025038\">\u0633\u062f\u064a\u0631 \u0627\u0644\u0634\u0627\u064a\u0639</a>"
+          ],
+          "photo_reference": "CkQ0AAAACasFarwif6PijE398UZOOYrYLJ2v8pAHLyelaPqnNl3P5G0YilC8Jculdb7qFKmRs6-veEKqXzHRjYCc7QB7hhIQIz6HCuEf5upkWMOHj_couxoUjBQHZlnQONF1zKmwUX66YLBY3kM",
+          "width": 5312
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115132778893670418951\">AMAFHH TOURS &amp; TRAVELS</a>"
+          ],
+          "photo_reference": "CkQ0AAAApSnRkygPmAemGe0gOO0iYDwlTNKSrI_5xxW-x0NeipTYkkaAZnsxSH5MRdOxs3iBYhllev_BeBKz5EWWIbpfXBIQei6ohDylN4nsvlftTYg_TBoU_HK8bDVu8451GTH2lADhX6wSi4Q",
+          "width": 4608
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100285475632928701329\">\u0627\u062d\u0633\u0627\u0646 \u062a\u06cc\u0645\u0648\u0631\u06cc</a>"
+          ],
+          "photo_reference": "CkQ0AAAADMxbwvdWVKQtymmPlTVu66guzflPPJyModWPQV7CW6MR4sRcVjnShAeUytm8pTFx-fb5wgF-6Upsne0UrLPjNRIQp7TV1dv7EBd5kuUhqljLqhoUIOK3hCJdrQtPYByvuQp4ZpmsLUM",
+          "width": 2976
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106557241360280025427\">\u0633\u0646\u0627\u0628 \u0627\u0644\u0639\u0631\u0627\u0642</a>"
+          ],
+          "photo_reference": "CkQ0AAAAQIzwEjBDqXTFZaObafS42efwXSF4vsX00EVH1wLEaNFEGDG3D18Ry6SgEBO88ywcVXyGHiiOdfQYCCChSdLf2hIQQ5bamMi2oUz2zrN4toyeOhoU2voISUU6kgv3bxpmC5BljTebTiI",
+          "width": 4128
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108011311930208535619\">Nasser Mahmood</a>"
+          ],
+          "photo_reference": "CkQ0AAAA6HBm7g4wWDLUDrdOicwGDw6ZmMe2CaesEC7GYoqTKGN1ncANNzm-hv9p-KoWSMoeMAXLpMbdnAApFazISFmonhIQ9rqi0jjGd6U2QfvaXeYq8BoUKdAitBYS_tVugdMxOwfuGFKXTLM",
+          "width": 4128
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109380187114975025038\">\u0633\u062f\u064a\u0631 \u0627\u0644\u0634\u0627\u064a\u0639</a>"
+          ],
+          "photo_reference": "CkQ0AAAAkot4thYZuIvRIF-OmGof7SOeaQczqZBXLExN7A7FZC91RoorRy8ZnMpHNTEArrb5V8v9lLRKJ2h2W8LDvc5GJRIQXOfWSBpu0hfWkgYwef7EhhoUy1tTQ49bAfpDtyUk_y7P4u5jxF4",
+          "width": 2988
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108039253780466593801\">Mubeen Raza</a>"
+          ],
+          "photo_reference": "CkQ0AAAA7Y5Ug9RCyuUSSIIMFcjjsGOnSJc-UHGExL5lWd4IP4PxW-rSGJzVnyq43avvziIOeKXiOSv0xJWjrr8BJnz4oBIQbGqMDBxoXPEuPbpAWjfN3BoU9i3Pe2SGpUsj3sGiuSXoCNUW1w4",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "",
+      "popularity": 0.5644804822375223,
+      "num_google_reviews": 690,
+      "mood_params": [
+        0.0012258630153351288,
+        0.01067534995008495,
+        0.05860508600614907,
+        0.04216358787846747,
+        0.024056084595235287,
+        0.05718238962785813,
+        0.06707192623989663,
+        0.01124213228056762,
+        0.04660142935164184,
+        0.00882725854148519,
+        0.07948315671325558,
+        0.024569713100303987
+      ],
+      "global_cat_params": [
+        -1.0515174072178892,
+        -1.110669063234831,
+        -0.6375526893895447,
+        -0.7652785063565761,
+        -0.6895340328887717,
+        -0.29929169252479776,
+        -1.3175254722148293,
+        1.1235395974585785,
+        -1.4405446002173066,
+        -0.7754613635500063,
+        -1.398544978125903,
+        -0.5900616888206587,
+        -1.0002240535768576,
+        -1.0918159067582804,
+        -0.3023326941200469,
+        -1.024993184081351,
+        -1.2009325941581142,
+        -0.0534094845647884,
+        -0.9534020143704655,
+        -1.2381403331836245,
+        -1.2380813336320224,
+        -1.3161848081778775,
+        0.5703318618360195,
+        3.508570022336777,
+        -0.5752821249544847,
+        -1.1063506621354875,
+        -1.0501661399624853,
+        -1.095600393945258,
+        -0.7680140750682785,
+        -0.4014875790992999
+      ],
+      "global_mood_params": [
+        -0.6559594848672744,
+        -1.1939309163387868,
+        -0.07704687813767086,
+        -1.2927750243599438,
+        -0.7523672832421068,
+        -1.2141652020929092,
+        -0.8748924023532397,
+        -0.7317154186886957,
+        -0.9949124439230078,
+        -1.3560467483505725,
+        -0.28118803245587204,
+        -0.1193420603712175
+      ],
+      "top_cats": [
+        "religion",
+        "culture",
+        "original",
+        "military"
+      ],
+      "duration": 1.375
+    },
+    {
+      "name": "Victory Arch",
+      "orig_name": "Victory Arch",
+      "place_id": "ChIJSz-NwAp_VxUR1yPmWDtC1Uo",
+      "cat_params": [
+        0.042006678324169565,
+        0.02773380434014973,
+        0.13282296124088838,
+        0.12916127414086037,
+        0.10033451080349241,
+        0.07019054163489262,
+        0.18153897769561625,
+        0.10182486231834882,
+        0.13120284966523407,
+        0.15914510582685593,
+        0.02180514688678035,
+        0.01643249252643041,
+        0.0837722236016622,
+        0.06043874693252958,
+        0.19388658457846447,
+        0.04490779465451881,
+        0.1838090579020918,
+        0.3611009466015035,
+        0.046248923544533256,
+        0.07065035478185458,
+        0.22456604953677922,
+        0.05852153318735359,
+        0.09207771555047424,
+        0.05302670877382812,
+        0.012289156262713983,
+        0.14421238200339762,
+        0.10951060267155582,
+        0.18714932347022947,
+        0.09328407357999402,
+        0.17575756386963973
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.3052509,
+        "lng": 44.3864464
+      },
+      "address": "Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111185844943405639516\">bassam khalid</a>"
+          ],
+          "photo_reference": "CkQ0AAAAhMfO4Vk7LFxrABFFG8gxo8XIh7XgbG33EmlMJfrLvNBjpLEfiLAx4ZBrnwkcplydo9khsgpCfQhlAam0JqmRdRIQ6PwfbGJkVRbThRYDDJvr2xoU1DOz6_Ku8lFf2_Gz8O6OLxXJ6CY",
+          "width": 4032
+        },
+        {
+          "height": 350,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110267495870445054848\">\u0645\u062b\u0646\u0649 \u062c\u0648\u0627\u062f \u0633\u0647\u0631</a>"
+          ],
+          "photo_reference": "CkQ0AAAAMxiQ0VE6hi7jjbWl1zjc-InLXlyoe58ZC9mgk5oFIpdhDQFX2uT78sTYQDCdJXM4TlyQs6KXN5Q4vDy0QpLlWhIQGeMMvAgj7uJ_oBFYpBjOmhoURKPVDeG2gYgz_5gdJMBHFk8WoNQ",
+          "width": 714
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106297224694298537481\">pts pts</a>"
+          ],
+          "photo_reference": "CkQ0AAAA0PYHkqsI5Gajbj__gH2eDTeU5Jcw1gq7sYYVDQNIjLhmgv5NzX--bD7VCbqGKrtdwbdXtsGnYnrsIeMkBo7_aBIQJaya3e4101ss70mSYax-LBoU0RwsfB6hc3tmo6Wb5EI-_p_gsO4",
+          "width": 2448
+        },
+        {
+          "height": 394,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114212021962837275647\">Mohammed . A. A</a>"
+          ],
+          "photo_reference": "CkQzAAAAmeU_kdLLDqHqYu8MNGlQ-9tWuR4FY_3tARo-ISxAbwixEuRLzpSEy-ecITMUfWxM0UoRoUwtyeb-AajwfLzKRBIQTIJReRgXKJyPMzeBUyDh-RoUnAfuDHkzU_YgLS0Sw91ATLrs9x0",
+          "width": 600
+        },
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105719189308839017878\">rj daham</a>"
+          ],
+          "photo_reference": "CkQ0AAAA-plr3qrUPvT6W68ejpn_SCOH4CBfQKtFKgcKkT8LQa2BR5Gc-PaOgTkAiG-0gaspkYpplLe_-Wxj5nkIeVtBARIQjBOtuKTFSkTs6eBLY6NBzxoUJg0yZlzJashcu7B2Ne-Sh37c6IU",
+          "width": 600
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109964004802600161998\">Firas Hamid</a>"
+          ],
+          "photo_reference": "CkQ0AAAA96J77Gx90HX3iKi4qYLaHMl1KaPfuAT7Q91UT9ImDrRnVcbt-1_5JNc-0_KbIH93qHxlQ45kaOhJGnsio5gDnRIQh0fqcojzELpAvMTEQP_iORoUEjp8Sw15kZe5O3M54LuPpFkwgQ4",
+          "width": 720
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117362266212849301183\">\u0628\u0643\u0631 \u0627\u0644\u0634\u0645\u0631\u064a</a>"
+          ],
+          "photo_reference": "CkQzAAAA2svgCs2cWIwIkoLlRNsW_-rIRMjZPjVoag_LLBxonBMlL-ehuWrqeNGeVZ4xWA4bOdmeQJI64S3eDVLCof7oLxIQjLMsP_cwP_8K7S3IMsnQ7xoUTratCUqrfRR0n8ALPf6ZWY2XA5o",
+          "width": 720
+        },
+        {
+          "height": 426,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108493962637221501072\">Ahmed allami</a>"
+          ],
+          "photo_reference": "CkQ0AAAAAXOWV9K2FVylHkcRQE86iImFhiWeXQRHH1scDRWXglOnl5LAVYDisdc-gMBk2-zlnbSPfSvtM1i_jXIFGaQDeRIQuqObwPWa_PBd95yP9agNExoUbxQeIqU32mtZQi0Juqe6Qi9RZeY",
+          "width": 720
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114331241033618591988\">aula arch</a>"
+          ],
+          "photo_reference": "CkQ0AAAADXbb_tnk2AG9KCatQ0ctBUo4ZgtaiOjxpVhirJPBAPeK7WGLoZin4XqplGI8JCaAKNfLvXqdrHjNvBqRFaetlRIQtVka3HeeXSsjiOsxLXuNZhoU7PPAyreC1zUQTJ9WbbLYDboVbn4",
+          "width": 4032
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106297224694298537481\">pts pts</a>"
+          ],
+          "photo_reference": "CkQ0AAAAis1s7xjMRDLGg-faLNP5NJ_nVMbv07KbHyB1SAyAKpFSVMx87q0WbFhQlE3vO1JFzMtY9X-FPvZlf9bLzostlxIQdq42TtV9sbJ0TZ9_ivRAshoU-hy8H5XvkI-rICOtFs7cv7hW4n4",
+          "width": 2448
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.mom.com/",
+      "popularity": 0.41674953383949725,
+      "num_google_reviews": 205,
+      "mood_params": [
+        0.0,
+        0.009325940496301305,
+        0.016639006602321343,
+        0.024201248609010875,
+        0.017428805286563962,
+        0.039971766278703816,
+        0.028943896041783084,
+        0.004858400005958522,
+        0.035086385030683384,
+        0.019231242388690246,
+        0.029175652564099982,
+        0.01868158132927034
+      ],
+      "global_cat_params": [
+        -1.446434708648359,
+        -1.010591771419671,
+        -0.9019717886823629,
+        -0.7297119368707468,
+        -1.2615849410968403,
+        -0.9997274700152068,
+        -2.3066181043507674,
+        -1.2140267824573532,
+        -1.1160799381659492,
+        -1.7247276789546873,
+        -1.327472070535532,
+        -1.1820696370435364,
+        -1.8343487573548292,
+        -1.0676176709925576,
+        -1.0466168502977864,
+        -1.4695017028070454,
+        -1.5482444465915268,
+        0.7026751013935759,
+        -1.5259534712239986,
+        -1.2952247641864008,
+        -1.5265555483736715,
+        -1.9221198489566347,
+        -1.859949647617387,
+        -1.0745195473877265,
+        -0.43958187057035863,
+        -1.5601318320606359,
+        -1.6929080264460252,
+        -1.5155046799988012,
+        -1.2430300206123974,
+        -1.0587407356960108
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.2343578958664436,
+        -0.8326305001551833,
+        -1.5696906413819287,
+        -0.8978178071318393,
+        -1.4305890832659156,
+        -1.5964502338393076,
+        -0.986271405887136,
+        -1.1472413353149489,
+        -0.9517148880352795,
+        -1.4453138827260668,
+        -0.47930047307797496
+      ],
+      "top_cats": [
+        "military",
+        "science",
+        "art",
+        "architecture"
+      ],
+      "duration": 1.1875
+    },
+    {
+      "name": "\u0633\u0627 \u062d\u0629 \u0627\u0644\u0641\u0631\u062f\u0648\u0633",
+      "orig_name": "\u0633\u0627 \u062d\u0629 \u0627\u0644\u0641\u0631\u062f\u0648\u0633",
+      "place_id": "ChIJ4xM33niBVxURKqq84fIgGXU",
+      "cat_params": [
+        0.058286154206134554,
+        0.10770171645140607,
+        0.0,
+        0.2892229085548227,
+        0.12864157764850417,
+        0.06498860877180848,
+        0.06963517778379413,
+        0.11976226684071821,
+        0.06400180888203987,
+        0.06868496922499463,
+        0.05911170180467434,
+        0.0,
+        0.05962166159597494,
+        0.0655808477119965,
+        0.0,
+        0.06672260589255566,
+        0.13962586058813342,
+        0.0566198739048397,
+        0.05770503245829963,
+        0.057583491997204556,
+        0.31165630955487106,
+        0.0,
+        0.41902506675782825,
+        0.0,
+        0.0,
+        0.0,
+        0.06144720660941287,
+        0.29514854433587634,
+        0.1129178229377884,
+        0.12750874369804016
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.31472979999999,
+        "lng": 44.4207475
+      },
+      "address": "Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109743100388545564487\">\u0633\u0627 \u062d\u0629 \u0627\u0644\u0641\u0631\u062f\u0648\u0633</a>"
+          ],
+          "photo_reference": "CkQ0AAAAJ-xSBnyas-U84gwFyDDwDEGiWXtaWiWWaj137AvzzV5RPZyOGNrQbM3kotdYgXyelNtWMSCIIOivkl8dlpj5bBIQsv99I2BHEkQP9TEiHoEZ6BoU3ZKjjkdB4Q8kb4wm6IWhS3rOjL4",
+          "width": 4608
+        },
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109743100388545564487\">\u0633\u0627 \u062d\u0629 \u0627\u0644\u0641\u0631\u062f\u0648\u0633</a>"
+          ],
+          "photo_reference": "CkQ0AAAAPIRk5k9rWuSGl22fJKT6gO45L1ras87e42Ks6x4sDPtnqruyPxlIe423pHUKTaUX5WzH9a42cKJQuHTsDlRj1xIQptZ0Tb9V9qEEChODmk33jRoUt58jGWInvXuy-SIaJdH14gN-T_A",
+          "width": 960
+        },
+        {
+          "height": 536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109743100388545564487\">\u0633\u0627 \u062d\u0629 \u0627\u0644\u0641\u0631\u062f\u0648\u0633</a>"
+          ],
+          "photo_reference": "CkQ0AAAAUPKuGlHmNE8qsui1-7E3ccZ0yCMN5jvyU2GZO9Xa0kgiioa0o6udJvX7ckN6mKU4_DRk4nga2J4AIj32w4HgBhIQcfPQhBp_At3uy58PN-mDNhoUtIHk78Sbfi3JsRz5Ymc6oJx7i7g",
+          "width": 960
+        },
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109743100388545564487\">\u0633\u0627 \u062d\u0629 \u0627\u0644\u0641\u0631\u062f\u0648\u0633</a>"
+          ],
+          "photo_reference": "CkQ0AAAA-Hog7V2KsgkMwowTy6pnQXMEuKXvuPzbZcyGydffP3MPf3_cPFvmEsoSdm8lMg2o8jUSv5_eTW17mKIZKzGnTBIQ0AGRa1JcrY7dUMYRNgM0pxoULBo8e0T8UY6dlT6tzBMRI8Wv8Fk",
+          "width": 960
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105099597768920256370\">Muhammed ts</a>"
+          ],
+          "photo_reference": "CkQ0AAAAh-grDaV0WL4FyCGl8RHc3mvbRL6vTCOqF6bjf1JPVKUBkOSFwaGbJz1VqKX09cH8sn6rIcGqwjKzJSek6lCp5xIQCw8o9lZ9OBCEHswlJ3d83xoUtINlpKf1QpcW5ROBj9Rpdlis0tk",
+          "width": 3968
+        },
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109743100388545564487\">\u0633\u0627 \u062d\u0629 \u0627\u0644\u0641\u0631\u062f\u0648\u0633</a>"
+          ],
+          "photo_reference": "CkQ0AAAAB5oz5_wZ8I-YiKFXuJFpNjENmR8TrlMKHyFe9j734R5YKYo5AjNrQk6CI1XA9xPar8LhBg5foe1SbfhXPWQsoBIQgZZ5Eibtvsgh-23PRW1ORhoULIQFlP5kC0O62jeFZo4W29hnZBU",
+          "width": 960
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111773769853655354283\">Khatab Aljumaily</a>"
+          ],
+          "photo_reference": "CkQ0AAAA766LDk78F5eoXZn1Q0Nw84EOhRdj9qGn4LFsyt_N0rGbd_HQo8J8yA1qzJ6x1dYRIOsvOdWy7MXgl4CfvhGFpRIQCfX2v9XRjyegc6fbe0shohoUOWdXn9EvdAEZwhtxzWjZ7iJOx90",
+          "width": 960
+        },
+        {
+          "height": 854,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111773769853655354283\">Khatab Aljumaily</a>"
+          ],
+          "photo_reference": "CkQ0AAAAG-a-2RR1kfqhLEyOtRHCSFoBfi4ZTlRpjj1KH6o23s1sciotFThtYHb3PKr4YYpotCmicjmen7ISvH6m_WqXahIQdMTdXhTtbFM1H4sQPOfWyRoUtdZCWNctnulPX5LmKTBPbXfggT8",
+          "width": 1280
+        },
+        {
+          "height": 854,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111773769853655354283\">Khatab Aljumaily</a>"
+          ],
+          "photo_reference": "CkQ0AAAAwp5o6YNVAVK-rigO8Y1bGdR9RaUlrYsMJXJdxUMYhIpUdxBMnO2zrbSuuHIdlI4esBhstZglaOxnKF6tYSAjlxIQt_GNzUSkWBU_v068k9FoKhoUjI-P635PaICjM9vfkZS64gLGkl4",
+          "width": 1280
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109743100388545564487\">\u0633\u0627 \u062d\u0629 \u0627\u0644\u0641\u0631\u062f\u0648\u0633</a>"
+          ],
+          "photo_reference": "CkQ0AAAAGasvSDcWuvQ2IN0AZlZ9blZ67uY2vQqvh9vYR5KFNICIZ5ehv4My50XjyUVIF7PalSnlamx4awzRND0JXud8oRIQUbTfjZONM1zggTJcxPNs5BoU2NFpb4KJtXVBXcj4NA_6KPiAlcw",
+          "width": 3456
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "popularity": 0.1646945236857871,
+      "num_google_reviews": 5,
+      "mood_params": [
+        0.0,
+        0.058748080836195635,
+        0.058815890409338614,
+        0.07941364949419334,
+        0.06898073424348501,
+        0.0835675374023974,
+        0.07026747969308776,
+        0.06551016939970639,
+        0.07311369294391587,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "global_cat_params": [
+        -1.248908835178344,
+        -0.05443810349187746,
+        -2.206743385271305,
+        0.4141238535730659,
+        -1.0869771818947573,
+        -1.0691247351073907,
+        -3.497479856189938,
+        -1.0148173910692113,
+        -2.1105899772507457,
+        -2.686557650055476,
+        -0.5602074059748906,
+        -1.3381321151493957,
+        -2.095324337496939,
+        -1.0298333696773165,
+        -3.1549416548779248,
+        -1.2140090941575066,
+        -1.7879843375673663,
+        -2.4820815641709575,
+        -1.3797210407569684,
+        -1.5555934429375735,
+        -1.1018156353138884,
+        -2.493832251354399,
+        1.8263252324594579,
+        -1.5691756538185757,
+        -0.7934151832810495,
+        -2.629816861969068,
+        -2.143257914948405,
+        -0.8138997865854612,
+        -1.1245122902165035,
+        -1.3905060614392275
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        0.24628080140344472,
+        -0.07325142340942503,
+        -0.7185110801327204,
+        0.23360501738975678,
+        -0.8823715203161423,
+        -0.8144178221532774,
+        1.432262199409312,
+        -0.6441900664197426,
+        -1.6991020548543,
+        -2.1204444009817767,
+        -1.621359214904648
+      ],
+      "top_cats": [
+        "original",
+        "art",
+        "animals",
+        "fashion"
+      ],
+      "duration": 1.1875
+    },
+    {
+      "name": "Al Mansour Mall",
+      "orig_name": "Al Mansour Mall",
+      "place_id": "ChIJiZlxzsd-VxURD38dU3_IcQI",
+      "cat_params": [
+        0.30560476094517847,
+        0.10102831711704541,
+        0.10215489405837856,
+        0.08485397901450499,
+        0.21709624512553286,
+        0.08385208407144319,
+        0.41535922751097215,
+        0.19575165841405887,
+        0.13843306045353354,
+        0.39540498710798844,
+        0.20486643578969504,
+        0.42341926518082024,
+        0.338447963181879,
+        0.07332138331347207,
+        0.18191453672844612,
+        0.16575316984183633,
+        0.5632337808935458,
+        0.21881652471210844,
+        0.1345431542462836,
+        0.20379563783638083,
+        0.40883420791355596,
+        0.35135799864670064,
+        0.3156159646322494,
+        0.15547223630896378,
+        0.004899537969123695,
+        0.7501194480717477,
+        0.30208644198134277,
+        0.46034240971353085,
+        0.2873411121681351,
+        0.2073697290350974
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0913"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0913"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0913"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0913"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0913"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0913"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0913"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.3201386,
+        "lng": 44.3529846
+      },
+      "address": "Building Rowad, Al Mansur St, Baghdad 00964, Iraq",
+      "photos": [
+        {
+          "height": 1357,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113416682325813340866\">ali alhussainy</a>"
+          ],
+          "photo_reference": "CkQ0AAAAV5yTLuIzEeYKm_pSEU3ueUkUO-JikJB48r1p3oXVjNs9HPPGKv5YOhwhTtasV8gCHjgQlRm8X8K6PEccsvTBnhIQgFbc_wjOMj6CGluWC2eU2xoUahFySmrDPS33NfjbxeylWpcNN8A",
+          "width": 2048
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102816708457696256937\">\u062d\u064a\u062f\u0631 \u062c\u0644\u064a\u0644 \u062e\u0644\u0641</a>"
+          ],
+          "photo_reference": "CkQ0AAAAQfyQz94AskQQdslanXozGwWLmf1IE4j8PPyHXEAFn0nczfIpVw2I8dJYSmJlKcpyjW9au7bUeXXtWmXqJjit-BIQHi2uwY_-eCLdJhIQZE5wRhoUqd-w8fFF0yhQKxhMfoEoPz3Q50Q",
+          "width": 960
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111733448767131865873\">Asaad Zahroon</a>"
+          ],
+          "photo_reference": "CkQ0AAAAprKFD_xwmjhTTbD--59_u3ArrdosCcstkydwrouVtCxB4iB-NVNpF4xT10h_Pxu3Q_SDPr1iAOatH3e0aEjPdRIQxChYJeHEdq5nN7QBLlBBIBoUizDzHLA4M2F51fqJRzSf1Lydw00",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107054920945236339232\">mohammad nasr</a>"
+          ],
+          "photo_reference": "CkQ0AAAAwqMizqxZCA2gQn38AT0bd1tGJYpow9sSlLzGO-uEsI3OIW_1t6nuw8C_BYb55M1wFhXtARn6TrL45CSB64lLJRIQdPUk8K1NMxfsyyQ5hrhcNxoU92a41fV72FpPvb-Qfmt4JVL4vVo",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102450617753676037594\">Nadia Abbas</a>"
+          ],
+          "photo_reference": "CkQ0AAAAwgrflPgXfcW5qzfm-RHmZyQahb7wufCqYFoBdwRyQMl2l5uYdIbEtbqRGNBG46fwXXpCxX3oXo02-CTkTygB2BIQXfD8z3ThOHJqobMYoPGeMBoUtVoH6UapVCfiU3mHnKu5MvomreY",
+          "width": 4032
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117430460342995218736\">Dwran Jasem</a>"
+          ],
+          "photo_reference": "CkQ0AAAArgBLtRWGdAHDfuPKDKV1AbEk95_w_VKG7E5OZYeMhkrK0feE1GBKd9DFYdN1xV83juii8B94u8SVhqvma7ID0BIQwGUFjQoAwvq_2CmO7F9FmBoUDXNOXOxWb8JlFx1j_954lNVUyyI",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115040278189711332789\">\u0635\u0647\u064a\u0628 \u0627\u0644\u062e\u0641\u0627\u062c\u064a</a>"
+          ],
+          "photo_reference": "CkQ0AAAABazTOvHHUOkkKbYdRCxf0C8HoXbZY_ex8BjFGkdew9jObTD4vdrhJLPCxDddViI7J1UyDd_iIwO_4EDPH5vX5RIQoRLhumweyMp008m0uYpNBhoU7FWoqDcVYDLbceYpHpHMgr1yA6A",
+          "width": 4608
+        },
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102816708457696256937\">\u062d\u064a\u062f\u0631 \u062c\u0644\u064a\u0644 \u062e\u0644\u0641</a>"
+          ],
+          "photo_reference": "CkQ0AAAAKQAYkLGY_vhvWrFcvXt8AnHQ2kEFS_YtWSvaDf3H36Vbzs11iayVY5MT9cVXgZIol7M5TuHiWGtZ2aAtg1DkkRIQBQH6KFxEi8TtCJ3VQW_9-hoUnYRo3r433x9BDDnGFRSl4Wftp-U",
+          "width": 960
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117430460342995218736\">Dwran Jasem</a>"
+          ],
+          "photo_reference": "CkQ0AAAAOp3RVi1ojUxMr5Rta4YMHBl3m33hjKzCKDs7l5ICPQnkCE3zBx--VLKrzhHXwYU9hMG1Z15FjrNFj-n1i_2KWhIQImUO3FAmeS--B34JfGBKMxoURFIZ8rYGkDJCr4CvvkWRPxXbEmU",
+          "width": 4032
+        },
+        {
+          "height": 477,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105982732142786929677\">ibraheem zaid</a>"
+          ],
+          "photo_reference": "CkQ0AAAAF8gitPd7PIw5kuXCgSq6AakqQ4_4m_51wp_klzYulB9pSonXdmd7a9zEbcddbQVVc4Tex3E87-6GFkKaf5RuUBIQSbMS4kaCJuICPAMLQ5VvfhoUIIoJt07Nq7WzzZA3-4cLoxYd8us",
+          "width": 720
+        }
+      ],
+      "rating": 4.1,
+      "website": "",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.011825347895268892,
+        0.02768603021913581,
+        0.02245091938651797,
+        0.054789799674752074,
+        0.022888243980874398,
+        0.10715599684209322,
+        0.05899783154958765,
+        0.017320882669843857,
+        0.14822440423395844,
+        0.05085909418463656,
+        0.1545054946015325,
+        0.02161117274635373
+      ],
+      "global_cat_params": [
+        1.7519140522241148,
+        -0.13423004856877882,
+        -1.2032361379197603,
+        -1.0463416534723482,
+        -0.5413582605245617,
+        -0.8174733527493943,
+        0.18165836642143388,
+        -0.17089371033812642,
+        -1.009079851115791,
+        0.7873383351069337,
+        2.437454997462483,
+        2.6831604365189756,
+        0.9177258680479295,
+        -0.9729556961250246,
+        -1.1768010272932772,
+        -0.05417429919397232,
+        0.5105300933572184,
+        -0.7855660460937246,
+        -0.3989146093449564,
+        1.3578115462263756,
+        -0.6278782272544121,
+        0.9386773663427747,
+        0.6604054777064542,
+        -0.11886329521625685,
+        -0.6523461209869399,
+        2.9341404979934063,
+        0.1115110297788579,
+        0.25926373609411263,
+        -0.07161852086823438,
+        -0.8413712697429381
+      ],
+      "global_mood_params": [
+        0.057193662721965015,
+        -0.6843076725856023,
+        -0.7279891761449963,
+        -1.0981235829319482,
+        -0.7779981675412256,
+        -0.5857462418899626,
+        -1.0276914382772298,
+        -0.48932080693003316,
+        0.34942585580885677,
+        0.2774438978913995,
+        1.4548440836377694,
+        -0.30020613256739276
+      ],
+      "top_cats": [
+        "shopping",
+        "food",
+        "fashion",
+        "amusement"
+      ],
+      "duration": 1.0
+    },
+    {
+      "name": "Mustansiriya School",
+      "orig_name": "Mustansiriya School",
+      "place_id": "ChIJlaI0d7J4VxURmkLYhfZjcQs",
+      "cat_params": [
+        0.06734854198655996,
+        0.032589553317826515,
+        0.2545063314977255,
+        0.1368416453247685,
+        0.08329071561253654,
+        0.29948246212161045,
+        0.2473530289454029,
+        0.2601594757698102,
+        0.1261105570675355,
+        0.22760273322445096,
+        0.02133480179468603,
+        0.04014921334052126,
+        0.10910462375941421,
+        0.02353066931665646,
+        0.23889494429143943,
+        0.040981568161196746,
+        0.16233562915555264,
+        0.22482900983378465,
+        0.06081840536807778,
+        0.06486763810754487,
+        0.19877026407660497,
+        0.09274860603464169,
+        0.19039890976079735,
+        0.2052351153259074,
+        0.151140409209794,
+        0.13097758787924904,
+        0.11600365172747741,
+        0.18049938192345524,
+        0.06415766601278894,
+        0.14855541007735168
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.3384944,
+        "lng": 44.3899892
+      },
+      "address": "\u062c\u0633\u0631 \u0627\u0644\u0634\u0647\u062f\u0627\u0621\u060c Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110396923038245728170\">Abdulwahab Mohanad</a>"
+          ],
+          "photo_reference": "CkQ0AAAAK6XJ92QopixE_TfwO8f9xLugjwb3HoJ9loy6nhvFYfTjWwHvR_RyZM3nqAE5eNyLHid8hwepNJZySY0lMRSTMhIQ7v5h4s-MECgaLOctn4kgDhoU-5aOY-250rFvHuHTY1_Qc5qhve4",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110396923038245728170\">Abdulwahab Mohanad</a>"
+          ],
+          "photo_reference": "CkQ0AAAAWhTXYKZEb-BFGBlGW0Ya5n_i_Jh5UQRu5_8fkFkRpbefT2q2qJcb1g2-8W7BImS3W-NftOcjdBBJ3jIK84T6mxIQbwVQKzcFLm-syxOk-xtRZRoUl3ypnCP5eEl98M7QyWeNCO9gl8Y",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110396923038245728170\">Abdulwahab Mohanad</a>"
+          ],
+          "photo_reference": "CkQ0AAAA1UQMjEQ44RO4QHs-P1SD0l9Aig_1Q-XNZG-LoASA0peTGFZP9IaQCKUg_9iaa2rMNq-VGG7FJCPp-nUAPxRX4hIQp0ZeYlTfulzWGQM_CBRQiRoUgGLLzVb4U3q_elC_Pa22jNNbUaA",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115054499694922458719\">suhaib abdalrahman</a>"
+          ],
+          "photo_reference": "CkQ0AAAA03mIClf0IebYLTU073iArGyIrCWKI-F36OBWY1qAIIgQpUlBjjNCb1vCCUgCkvTnxHPgCSpehqJGVHMXfqa90hIQmur8Kxu7bxM5fe6lHM0fUhoU_BBStqeQuMudCfNBTIW7Q_ritsA",
+          "width": 3264
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113892141760556241280\">Lemya</a>"
+          ],
+          "photo_reference": "CkQ0AAAA1SQkyc4vKMLzxDMMLqOsj3uZYkdkcJgrg9XU3zWsGolPvlsnTfdWtcPv7sWSWwDIle5cCQvUIWqIW2vxRl6IWxIQKMiu3C5TeRhhg0vqFLNijBoUaSFsXLLLX-Sfxc4dPVg40qAVlXs",
+          "width": 3840
+        },
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102611637255746255751\">mohammed shehab</a>"
+          ],
+          "photo_reference": "CkQ0AAAAYPOUrJLZP-BsCWrbzFf-EitHAMu7DTFbskZt-w-QIPTmIooH7LvMaod1qUMTWtkDOlsKOmmqoA6L_-Tw2g246hIQsbeqT-GTvC_sv2O5koi2xhoUFqQYTX5M6kUCpMmHsPzEzD1G8-Q",
+          "width": 2048
+        },
+        {
+          "height": 2410,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100090617797162688120\">mayssam ghani</a>"
+          ],
+          "photo_reference": "CkQ0AAAAQUUl89qrVpF9pXoBXC_0eDTSDatrPjQDxknxhuFBayNp7wybSIXZe2R-RdQuSqw7EPFREQnFewmSPL-37lJ5WRIQrx30_yJzH2dLa4FnnBz_axoU1Dtu8hcF15Ln8DtNcegBQv_OgvI",
+          "width": 2494
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112004445113668192350\">yousif Al-Fahad</a>"
+          ],
+          "photo_reference": "CkQ0AAAAhWI_N_4TyRh3XRwZWvyX_o3qt3D3J8rOJGUOEs_cVjAWehNrid5Bmno7iAk9-yMhvssCq3NIxrtSTgJQfBIC8BIQvFmhVfVoivsh_NX2HyTzTBoUnNaOUuIo6EYpVN0ZiTsNd18UIzA",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105312298479294791494\">hussien ashour</a>"
+          ],
+          "photo_reference": "CkQ0AAAASoZ8R5IDtOwCM84D7uOtE3UxD9ygF37LUqhbk74Tgtm5ZvC-LR8l1jrciMYWXjLLlYYupqyDlwV8_gLORASJwhIQorWSOgErYf5cPcvSVqy-iRoU3iw-o1P_EEpVAOlcgLrjpf2Jerk",
+          "width": 3456
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107783969126792640481\">Usama Adulaimi</a>"
+          ],
+          "photo_reference": "CkQ0AAAAF27-qdtqpHJ3Lmxg6IRfgKOxbp5XbMvtZFI0ikjgpwnY9sRX-6QpGZEE_JjNx15qilr7UAGV6sm4PhFrr-LuYhIQQmG2kgGSmlYrX44fUToqVRoU6M5pzyERKBATwdZXkb-bGYqo2VA",
+          "width": 3456
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "popularity": 0.46763552691759397,
+      "num_google_reviews": 325,
+      "mood_params": [
+        0.0,
+        0.010447043797182238,
+        0.01627972001582137,
+        0.047930908805330213,
+        0.02509098501740177,
+        0.04361753785194394,
+        0.03193455037494068,
+        0.00737084302957118,
+        0.031798977589393256,
+        0.02117554205417515,
+        0.03965301379224317,
+        0.00981398971107945
+      ],
+      "global_cat_params": [
+        -1.1389509916315739,
+        -0.9525329566655371,
+        0.2933712740309619,
+        -0.6748263081177199,
+        -1.366716952932834,
+        2.0591801722642487,
+        -1.6062358436168858,
+        0.5444072174007208,
+        -1.1914409154863324,
+        -0.9968424440334017,
+        -1.3371454153433746,
+        -0.9568274702305233,
+        -1.5606020086868468,
+        -1.3388192645461234,
+        -0.5571954630334792,
+        -1.5154852246437465,
+        -1.6647601760891382,
+        -0.7226777295941891,
+        -1.3399801399874254,
+        -1.4104504556852897,
+        -1.6523618058287206,
+        -1.5877464827989112,
+        -0.7513951752894926,
+        0.3453463936087071,
+        3.5582677583223337,
+        -1.6582999709669626,
+        -1.6320687150791373,
+        -1.5587052836025401,
+        -1.4188495065671032,
+        -1.2457863749824964
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.2007707440453117,
+        -0.839099321265625,
+        -1.2038633737632052,
+        -0.7296540699358762,
+        -1.38474344375922,
+        -1.5398532881239118,
+        -0.8860859052045095,
+        -1.1907294120541674,
+        -0.8761532270118338,
+        -1.2028656187029174,
+        -1.0214018267056975
+      ],
+      "top_cats": [
+        "science",
+        "books",
+        "culture",
+        "religion"
+      ],
+      "duration": 1.1875
+    },
+    {
+      "name": "Babylon Rotana",
+      "orig_name": "Babylon Rotana",
+      "place_id": "ChIJbQTLVoV_VxURIJeFmZoVXPI",
+      "cat_params": [
+        0.0782145793626753,
+        0.059034948521720906,
+        0.1231608601495537,
+        0.06616356672447356,
+        0.22435064769374768,
+        0.03976887221324803,
+        0.29095615550849246,
+        0.08827901930704973,
+        0.16325562619968303,
+        0.17255700482736328,
+        0.056451665878961735,
+        0.35152031911341675,
+        0.14431376274748245,
+        0.07957293357803111,
+        0.15149453275701316,
+        0.40796457423894483,
+        0.33506168152040605,
+        0.12328768389831644,
+        0.09384893136184515,
+        0.10032827553025503,
+        0.2578842362276062,
+        0.20406695591813145,
+        0.2876596036457558,
+        0.09103184586647785,
+        0.010433219580752408,
+        0.2623373916863294,
+        0.19397736859746362,
+        0.2777152602870897,
+        0.2126288840123405,
+        0.18772229698397297
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "0750 522 3333",
+      "int_phone": "+964 750 522 3333",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.2912242,
+        "lng": 44.3904889
+      },
+      "address": "Karada Street, Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 413,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110588285750081230052\">Babylon Rotana</a>"
+          ],
+          "photo_reference": "CkQ0AAAAYcy65Dh0PJ2PDhSQeSjFrb0lcNqymrYQvy_tQc5ze2aptbGNAVUJDN8py_8I0JB5sLJ4-p4DmSBgQT4MWi67vRIQxyLZP4Ox_L7qjbbE14zbVhoU4sUfF4NNdDXgcMpZ4_9d8IqP48g",
+          "width": 734
+        },
+        {
+          "height": 1929,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110588285750081230052\">Babylon Rotana</a>"
+          ],
+          "photo_reference": "CkQ0AAAA44A1H_GjUI9qqkx3s-yTwTCsvJLAXRnLMIZV3KBA9SEMX9tbfJN5wy7hZ9f5DNs4ExDmn8k6plK3qlhUud4RUxIQ6_JHYvsroGSbt8jatuaMNBoUwka9NFAJFUnCAiLhEVqOuYNPARM",
+          "width": 3000
+        },
+        {
+          "height": 466,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112004445113668192350\">yousif Al-Fahad</a>"
+          ],
+          "photo_reference": "CkQ0AAAAdMBAsBkC7ySlPRhvhE1woPYhyKcAPVmzryxvUD3OeE1DcDzmOp9f3k92BjUuQHv5GHCNu24d99BmU9CHlONKKRIQxPK5zEogbJP6SPolFGYHhxoU3i0myOKmVa6tChA0bFtbXvO7_JQ",
+          "width": 720
+        },
+        {
+          "height": 671,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113928852505287248917\">\u062c\u0644\u0627\u0644 \u0627\u062d\u0645\u062f \u062c\u0627\u0628\u0631 \u0631\u0627\u0636\u064a</a>"
+          ],
+          "photo_reference": "CkQ0AAAAaYUOPlT9-pV4tj75gaw3XJalZ8mb9_BhBAF0K2g25MxpnqfIrtzHOTwBaRw5zbS_bidIov7dGTyslr9jZAzFAxIQ71CMVkz0txJdX7Z5I8o6WRoUbYAkpJJGJ8lq3Vf2cDzicYrUwQM",
+          "width": 1242
+        },
+        {
+          "height": 890,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110588285750081230052\">Babylon Rotana</a>"
+          ],
+          "photo_reference": "CkQ0AAAAENcZKLAs_aWfjo9WNzi47QXao_Zm8LOQVFHzNLVLFpZWufLsy-kpXTKNO7QVPFx_IeJee9NKjRRhiVDGAKIPwhIQE4R3L7681EreOEgBhEfHZhoUrkOghJdKZeNIUX67GKJoLbeyII8",
+          "width": 1600
+        },
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110588285750081230052\">Babylon Rotana</a>"
+          ],
+          "photo_reference": "CkQ0AAAA2BkCBhGyOEZaz0WKplc36gaFtACHaLf8qvWFyyik-93DwxfL3O0HU6n1RRcxmcfzNr4S15fsdLGjOnxEASrygRIQtIngkIUARhxNrQjZaEgPFhoUwXBH6Ki662knM_bTK5WhmnMjMKY",
+          "width": 6720
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110588285750081230052\">Babylon Rotana</a>"
+          ],
+          "photo_reference": "CkQ0AAAA0i3mejwHBV7vhx6vGScscPgvilBCdJ5kSt9DG5MduQnQ1A6U7cWQ1Xl1w_Vz8OdMO9w2X6ZSST_dl613YruA_xIQMbKEyFG-DIYbsH9TZSa7gBoUQnxNPpr61Y2yrmpKo6OkbtsVUzI",
+          "width": 4032
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110588285750081230052\">Babylon Rotana</a>"
+          ],
+          "photo_reference": "CkQ0AAAA6wBfGgAjiYiIFc2ZG8sjx-GYDmeJUn-1CVVp1eLi4rJO3ATV1WuABZ-krbH0DIt1hGX1xXzWP04OGxfUUU_FtRIQph2ruOK-jp7o2FvFAK78tRoUDRt5VNIL3iqsShLDmIKxFFk3aN0",
+          "width": 3000
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110588285750081230052\">Babylon Rotana</a>"
+          ],
+          "photo_reference": "CkQ0AAAACa30mG-mASCqaNPtsb4eKch6c03gfF53nc9RKzATrSrU0mp82vccKX2_Jr0qHXXU8atouzdFDgySBb3-4_tRhBIQkPKlTyiKsZcwUrtSJLUBMRoUqC6xhGebcoLcdVLRMlLNA38YbBs",
+          "width": 3000
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110588285750081230052\">Babylon Rotana</a>"
+          ],
+          "photo_reference": "CkQ0AAAAzk_PnuyTl_dH14xeyDnB_eCf37vJcGUJHJABUJt1rwPqN8Sb0IkLo2D97XfLOTOtnwYSoXUq5ugCFRcOkz37BRIQfR_pgcnrcfklMhT1aKIatRoU-1bFV3vNQLUpZpV_tasHEbg1ZJc",
+          "width": 5760
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.rotana.com/rotanahotelandresorts/iraq/baghdad/babylonrotana/",
+      "popularity": 0.846470641356131,
+      "num_google_reviews": 3489,
+      "mood_params": [
+        0.0,
+        0.023792882194349954,
+        0.04981822582024469,
+        0.0727915124952794,
+        0.039291844230945436,
+        0.08841563764390872,
+        0.08272415956314233,
+        0.0,
+        0.09214720287561044,
+        0.0363825887162308,
+        0.12572525412972757,
+        0.011406534178506449
+      ],
+      "global_cat_params": [
+        -1.0071086928108366,
+        -0.6363328589460364,
+        -0.9968863648186433,
+        -1.1799074676273982,
+        -0.49661060144277874,
+        -1.4055728957381701,
+        -1.142218574091615,
+        -1.3644643298045744,
+        -0.6417300222637107,
+        -1.5821237993602888,
+        -0.61491499226242,
+        2.000322596889301,
+        -1.180125336071468,
+        -0.9270191287542151,
+        -1.5075884774298458,
+        2.782578349216959,
+        -0.7275413354427855,
+        -1.7847615292181205,
+        -0.918359314624215,
+        -0.7038662154136699,
+        -1.364062478362953,
+        -0.5002479540249294,
+        0.345202339151241,
+        -0.7199911677591677,
+        -0.49301859236973833,
+        -0.6839480206550118,
+        -0.9014616923645472,
+        -0.9271531721085787,
+        -0.522613567839727,
+        -0.9764696342475249
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -0.8009425568713543,
+        -0.23525102157313169,
+        -0.8206009652835116,
+        -0.41798433095389725,
+        -0.8214065773679703,
+        -0.5786801019550428,
+        -1.1800036547536363,
+        -0.3924017635371007,
+        -0.28515908889403785,
+        0.7888634814022486,
+        -0.9240450077771499
+      ],
+      "top_cats": [
+        "hospitality",
+        "food",
+        "original",
+        "science"
+      ],
+      "duration": 0.875
+    },
+    {
+      "name": "Al-Shaab International Stadium",
+      "orig_name": "Al-Shaab International Stadium",
+      "place_id": "ChIJRT56nDKCVxURPlEtvrl6WzA",
+      "cat_params": [
+        0.07143641194448655,
+        0.033385878322416386,
+        0.08367837345104424,
+        0.30020382995260786,
+        0.1387226905566342,
+        0.04320709909164382,
+        0.23174587148831285,
+        0.11061829039159195,
+        0.08365201828227406,
+        0.14690277058737,
+        0.03103636732066538,
+        0.0660562801368061,
+        0.11322674196251986,
+        0.050971318989520197,
+        0.12353400116435428,
+        0.08193648976587793,
+        0.24234302994705273,
+        0.15823382144866965,
+        0.06542226416788852,
+        0.04805731266375458,
+        0.19452598993811,
+        0.09653996848598251,
+        0.5576473884028914,
+        0.08413318961435631,
+        0.01375061064538986,
+        0.12197978921073947,
+        0.3935429028690701,
+        0.18091346423871346,
+        0.11766718476600325,
+        0.13431782993305888
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "0781 401 8257",
+      "int_phone": "+964 781 401 8257",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1230"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.3249221,
+        "lng": 44.4354701
+      },
+      "address": "Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100027704898871592262\">\u0637\u0627\u0626\u0631 \u0627\u0644\u062c\u0646\u0648\u0628</a>"
+          ],
+          "photo_reference": "CkQzAAAAUnFZ2MctAv-ldta3OElB8U37srGoE6vp37t_2Br6Ph-oHFDg045Az1foW7a0TnLoKkRgLf6f2rur2as_hBKpahIQqxcXRaeoHe7AbMvafyJrHxoUYwmGh-TCfbtEi02r5IOvbg3YV38",
+          "width": 720
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101965809957851182102\">Fadhil Alimeree - \u0641\u0627\u0636\u0644 \u0627\u0644\u0639\u0627\u0645\u0631\u064a</a>"
+          ],
+          "photo_reference": "CkQ0AAAANfa1sOyaquYv9s_1GDV1E_HWMWFs1dnlXSa8qKAMMjPhsH7FyQcqpYHCtfxr42zbha0SYvbOh3Om1e9QOYCDAxIQNq7EUTs2PsaLFclkSkFGzRoUulA6tA_v2heO0aKBWvQuVnEuHZQ",
+          "width": 4032
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105719189308839017878\">rj daham</a>"
+          ],
+          "photo_reference": "CkQ0AAAAI1esTf0EIjticVSf10IaHiTnpr_c2zYBtTIlSQbonR_1daijp1uYQWI0JJj8aeiz4NAQFTgc6fdeHeRVt2utSBIQQnJDp0QC2IrVhNauewzW2RoUd8FtClT-djJSG0KrqMHFdKiCFxw",
+          "width": 1200
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110226605279873930729\">Mohammed Waleed</a>"
+          ],
+          "photo_reference": "CkQ0AAAAtpv047r-SR1xMpN-whUIWTjGY0YAeco8kmN_4raH8NuU0_xgjjxcQklmE_QnCaJCjOkaAAY9rzNCjB2AcbzDPxIQlB1QKaYLC3jW_H6eRPtr6RoUvjHNYDA0AoKw-1PAKwpdetgBtjk",
+          "width": 5120
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107257116966823689181\">Ahmed Hashim</a>"
+          ],
+          "photo_reference": "CkQ0AAAAo1Ab3WL6mdBtDp4xvCSnjv4lHXmUyTmh0axN3-7zgTaPAgb3S0XKgh_lgBmNdb8DGVOztJKOcNtK6_pjnppOchIQJ8P_Ue708qca8-vcxyai0RoUmiuh4NHOo_K9FxyAKFJoUnXX66s",
+          "width": 4618
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117905916340935605171\">\u0627\u0633\u0627\u0645\u0647 \u0627\u0644\u062a\u0631\u0643\u0645\u0627\u0646\u064a</a>"
+          ],
+          "photo_reference": "CkQ0AAAAW6eckUkohYD_yP0O-x8ar7jAUl-ITbscw0TyIKsSbjnhmZfXil08qknT538_Sd-34ov4QgiKc8Cr4uBi7RTAeRIQPjT4mT9GHeDwNHnSZqP-PxoUbHaKt14VbgL62ceycK5Ye9RqMcc",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101004007188637732127\">Ammar Alzubaidi</a>"
+          ],
+          "photo_reference": "CkQ0AAAALq_8UHZ96bZeXXYwpjLe_7AyfbDViBxlSX0tIqKVMmMDp0fVojLKZ3zV2ctezjpBoTTTO49YZi0Lp1RzAEN0iRIQXLgLUubg2zXA_Bcd59EBdBoUncxmA3ji6lCLCGTRGcIKi3K66R4",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106870302365935863500\">\u0637\u0648\u0642 \u0627\u0644\u064a\u0627\u0633\u0645\u064a\u0646</a>"
+          ],
+          "photo_reference": "CkQ0AAAA8eOuD1Cno1D9BMRubBlrO8Gm0R5qPvv-ZMCHY0prfGajC8dkq46LjSy60pxRL5YdFhqYBmXx7NaaYmZ8SBfz9RIQQfi-bsCRCrvUmyWanJozshoUxYZBG7tvfznb6MnXPkeqyaMFWoQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100018221276825011486\">Mohammed Oudah</a>"
+          ],
+          "photo_reference": "CkQ0AAAAeNemCddEhqVLsvGahERdMNFXqvXIQSRRoQf6xCSNtSsinAmTjZlo3kl6T0ChvUl2-zLVjpCXzhZ-Lr12jdwAuBIQsl7mPukx9CoMkIel0gQ_DhoU1DNJb6yFzFdPuhlyhaQOEt4-s2E",
+          "width": 4032
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113923085702833962641\">Alkasim Alabady</a>"
+          ],
+          "photo_reference": "CkQzAAAA15Ab9AVwLcuKtW5od6LaZxtjVaGC2vNy2dbCcVRdNuoa0GWeibJQLJRF9YYmen9GHQpzmTyYqHICBa79H5Ua7xIQmnhEJ6VXrWYPfgdqaUZwohoURNAdPT8GD9tRVyc1MDziRlLPsEU",
+          "width": 1280
+        }
+      ],
+      "rating": 4,
+      "website": "https://worldstadia.com/al-shaab-stadium.html",
+      "popularity": 0.6265032494544833,
+      "num_google_reviews": 1047,
+      "mood_params": [
+        0.001648180860529865,
+        0.009121096490938561,
+        0.044809170910387025,
+        0.05662622103729407,
+        0.05942864006148122,
+        0.0851098101113418,
+        0.026027801179323375,
+        0.007024693682911855,
+        0.09790204188386475,
+        0.017376268818420453,
+        0.04624251649100324,
+        0.01906894241622814
+      ],
+      "global_cat_params": [
+        -1.0893511095514745,
+        -0.9430115242072042,
+        -1.3847381844561146,
+        0.492595943107979,
+        -1.024793397725612,
+        -1.359704648606345,
+        -1.7723246349289359,
+        -1.1163686484446196,
+        -1.8197859913169663,
+        -1.8548960093588958,
+        -1.1376183232442514,
+        -0.7107831748700243,
+        -1.5160576130236523,
+        -1.1371845980950805,
+        -1.8116315984854583,
+        -1.0358258022613693,
+        -1.2306366470308445,
+        -1.4192381700367802,
+        -1.281213811307157,
+        -1.7454109046706832,
+        -1.6730611656447523,
+        -1.5507076559370554,
+        3.389267951558126,
+        -0.7843448212328211,
+        -0.3975032091437228,
+        -1.7250404990972583,
+        0.9684502046627453,
+        -1.55601524402325,
+        -1.095843105617513,
+        -1.343685875893958
+      ],
+      "global_mood_params": [
+        -0.6275451511524446,
+        -1.2404948207174908,
+        -0.3254371887214894,
+        -1.069812473388138,
+        0.02396286435741924,
+        -0.86297741478461,
+        -1.6516361711780847,
+        -0.8998888632338475,
+        -0.3162728124160936,
+        -1.0238050532564005,
+        -1.0503831896539986,
+        -0.4556199768819435
+      ],
+      "top_cats": [
+        "original",
+        "sport",
+        "art",
+        "science"
+      ],
+      "duration": 0.875
+    },
+    {
+      "name": "Kadhimiya",
+      "orig_name": "Kadhimiya",
+      "place_id": "ChIJ87d-d0R5VxUR_VZ8TS35aUo",
+      "cat_params": [
+        0.07983223228961597,
+        0.026248618360894285,
+        0.17678136694167157,
+        0.0812389765172709,
+        0.1622336315966372,
+        0.104866682717813,
+        0.26931269090858834,
+        0.16397664133323656,
+        0.15179500246802,
+        0.18778354624203408,
+        0.05021116123690917,
+        0.09026804661234362,
+        0.13578510236763935,
+        0.08516845383476333,
+        0.1521791070360386,
+        0.04817958520884448,
+        0.18991970403149236,
+        0.22903004905456223,
+        0.045769207137419894,
+        0.04715485957874999,
+        0.2766262348808647,
+        0.15268066570526034,
+        0.12011650543140018,
+        0.32851653972391487,
+        0.029204736749860738,
+        0.21947847940645496,
+        0.15851877162413536,
+        0.2261818656625228,
+        0.1434902579128774,
+        0.2081514563766844
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 33.381146,
+        "lng": 44.3449398
+      },
+      "address": "Kadhimiya, Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117429822141798811954\">\u062e\u0627\u0637\u0641 \u0627\u0646\u0636\u0627\u0631\u0643</a>"
+          ],
+          "photo_reference": "CkQ0AAAA1qoAL1-6rp-KFLwS4ZvGLSQlRtwZhWQwm40vNpaYUc4_IYF9pemI8oIxW2xC39dstmfFn2jqrK_5rAzVs92hKhIQLdiZPSEfvxpe5mx6HkZVTRoUKJcQywyhl9bcjgTHhRDH9t3n9j4",
+          "width": 1080
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100090617797162688120\">mayssam ghani</a>"
+          ],
+          "photo_reference": "CkQ0AAAAquj-8cWkulMC2rSXtK-atmCMf48eUEySUo-xa6eRML7uPiu6Re7Q9UDg8O8yayaURczU1y6N2u8UcFDbAkC76BIQzGAclL2zp8gZp3nMY3ZkGBoUtrXOEwxUM-L7Fp3KREzGbHIB6iM",
+          "width": 3264
+        },
+        {
+          "height": 3455,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106679564490128985764\">S</a>"
+          ],
+          "photo_reference": "CkQ0AAAAOfX86SU9qoOspOqpNp6iXl5V_dDk4raxubVOGnWBtMoKsT-R49yA5ktH9iBQNXQt4m7nZh7_3HUHeZlE_SU7eBIQM3CYdPZC5g6-CA-2dc12qhoUIztbHB_EIYMJQS8QSp0AHgbG4H8",
+          "width": 4578
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109336383458122163798\">J H</a>"
+          ],
+          "photo_reference": "CkQ0AAAAJj8iE29vRVQMbB2LER7YQqtMxKdWBjxq7S0vZxnH_BWiQQrcz2p48kB6ylrdwGGJk8xPgrEpbS2MZu-8wmjGyxIQSaYi4fAgICSHoFDZE7h7PhoUvjUqDl9CsRnoyOOcRdruim84tBI",
+          "width": 4128
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115794478676338399261\">twn twnn</a>"
+          ],
+          "photo_reference": "CkQ0AAAAi3OEfstil6eStq9v-N4r-f7Edqy7BW3VA4QwK-sRAi5nbvFm88O4_0bigWfszCchXkRzv4A1qcv_bsMVQfnaHhIQZa7jXvsmMMqtPAE2Nc57nxoU4MljJJaIYaS5La0UWbl3jGkOKCk",
+          "width": 2976
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114407525806507884778\">salim alshmry</a>"
+          ],
+          "photo_reference": "CkQ0AAAANsE-4yyezb0P0ftxPcBsOFUZE5bY6r12faL1X691FqENwrwWs_m7p8kQry0pmB8cPRdqC9OEpaQdRm-3egFTXhIQ-cc85oAyI86ewzRfXuJscRoUA1TqKww2-WfeN_MLl72lTAlYIvs",
+          "width": 3456
+        },
+        {
+          "height": 4248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100090617797162688120\">mayssam ghani</a>"
+          ],
+          "photo_reference": "CkQ0AAAA0jN0bcVJK4_U6_UH1O5dNUBZ3hv_0Mx03YvMw-rp-e6TfxNwmZYlOgKCuCr93XYvO7DDzkc6ekKaUI2fwcdFwhIQTUWUUlCBDrhnY96_O88yeRoUcanDe4kUDjep-pnDm3zbUzJcq8Y",
+          "width": 5664
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115794478676338399261\">twn twnn</a>"
+          ],
+          "photo_reference": "CkQ0AAAAEzhUYwDcTFtviLLhlRJW-Iqof10c0cKkgaK3n7v3UmvdK06VITyMnpNLRdXopCt3IrNyIl6_rW71TYdESrmurBIQ31EGF4EwPdGwqUvWzz0qkxoUU9BeOFoKvxp2FYyyaNRmHhz-_g0",
+          "width": 2976
+        },
+        {
+          "height": 9024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114655288623555259882\">ANAS YASSIN</a>"
+          ],
+          "photo_reference": "CkQ0AAAA81XHiquUbGaN6s6_Shcs8lRHvNgmiYHc9UQuKEPsy9yhtThBSATvwf3ZvdsKHD7br-7OhdUhS82jcztMRAPvQxIQxOlsrpKnxIA5T8WJBjI3bxoUxAsr-JecMmQUqQPaD6XNDl72myY",
+          "width": 12032
+        },
+        {
+          "height": 1334,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103576562761509312420\">Mahdialasafra</a>"
+          ],
+          "photo_reference": "CkQ0AAAAdUMzQJpCpp0STtSUvoLA-EQyRmlbOLmeIy0FyfRurIL6vewGLUGO9p-iwJ8z6uJvSO32bxsRi0KEAz2NMLeo_BIQ8_7qpghUXvGvCdGOP-NTIBoUQoytlPkfkg3CBz78XqH28oKbNwk",
+          "width": 750
+        }
+      ],
+      "rating": null,
+      "website": "",
+      "popularity": 0.0654883669377691,
+      "num_google_reviews": 0.125,
+      "mood_params": [
+        0.0,
+        0.0,
+        0.029754533856271116,
+        0.026146896439124233,
+        0.016163065360073496,
+        0.03806239976272046,
+        0.021167537410721603,
+        0.0,
+        0.059114862947066076,
+        0.02419480139622303,
+        0.04068046590959552,
+        0.031753231308209645
+      ],
+      "global_cat_params": [
+        -0.9874810150107626,
+        -1.0283497193781515,
+        -0.4701512762207051,
+        -1.0721752597204635,
+        -0.8797697979932849,
+        -0.5371245455940206,
+        -1.3725447488025775,
+        -0.5237809859818545,
+        -0.8113361060754768,
+        -1.4202254821678686,
+        -0.7432602310927409,
+        -0.4808394661225384,
+        -1.2722876671153762,
+        -0.8859030883529562,
+        -1.5001444093619862,
+        -1.4311828608717065,
+        -1.5150878231257188,
+        -0.6787364509387555,
+        -1.5320768501718716,
+        -1.7633930723302067,
+        -1.2726575970720038,
+        -1.0022542725172452,
+        -1.54381713752325,
+        1.4953689161844572,
+        0.04745692625503418,
+        -1.0018509373605986,
+        -1.2337056971939724,
+        -1.2619341228691006,
+        -0.9399639627476515,
+        -0.8359960082297737
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.5137538971787086,
+        -0.5964903191330578,
+        -1.5396956467823402,
+        -0.9255973116376032,
+        -1.4545993996610624,
+        -1.743614733068127,
+        -1.1800036547536363,
+        -0.8293761755451035,
+        -0.7588152183727201,
+        -1.1790901683013535,
+        0.319807047073755
+      ],
+      "top_cats": [
+        "religion",
+        "science",
+        "architecture",
+        "food"
+      ],
+      "duration": 0.875
+    },
+    {
+      "name": "Taq Kasra - Ctesiphon",
+      "orig_name": "Taq Kasra - Ctesiphon",
+      "place_id": "ChIJ7YF0G88lWBURgQrh9b2Ybhk",
+      "cat_params": [
+        0.08554625896750301,
+        0.03266086365956102,
+        0.16114865517699392,
+        0.2029548511652542,
+        0.18489785136704387,
+        0.07611139807471427,
+        0.28385616983860473,
+        0.2192699076147109,
+        0.12277563071613976,
+        0.18239504778166296,
+        0.018299225238930465,
+        0.06775583778303856,
+        0.11948115298007074,
+        0.09289622015991193,
+        0.17949008057566063,
+        0.06938463358845959,
+        0.24180326523065057,
+        0.2513250437253717,
+        0.0641686395709027,
+        0.06132760308957618,
+        0.2801033206014016,
+        0.1528804985377387,
+        0.25285858391590194,
+        0.16033892468917782,
+        0.021299257592486485,
+        0.20151486858106732,
+        0.1765626485466298,
+        0.22343450569196976,
+        0.142480937829033,
+        0.25206847471098814
+      ],
+      "noncat_params": [],
+      "quote": "Large, ancient archeological relic of a stone archway thought to date from the 3rd\u20136th centuries.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 33.0936665,
+        "lng": 44.58091830000001
+      },
+      "address": "Madain, Iraq",
+      "photos": [
+        {
+          "height": 555,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107220931778628129091\">\u063a\u064a\u062b \u0627\u062d\u0645\u062f</a>"
+          ],
+          "photo_reference": "CkQ0AAAAoZOnagYJq2G5Ptk4yxmxq3KVJ__68iJH29c5hf1QcfW9wBGMhdqnIf2wamVMShkXj0REIOyVTbmDd5B5YS0OSBIQbuFUmwYaweJaxI8meKV57xoUzSW_NoLbOc8sZj2UXmEUznFJZOY",
+          "width": 740
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115260669838792857711\">Haidar Al-shakarji</a>"
+          ],
+          "photo_reference": "CkQ0AAAAJpUhjJNG7u4h1A1hMOZ0iRmh361TIPzy9jSYK638SUajhapQtCcWFK4c50L-8ntb1Q6CTuJQZWKQBK8ffgHZdRIQ0O6vHal_BS2M99fwvPRdxhoUOmhbr5AJBPbiil5jpP4euz0-slE",
+          "width": 3024
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112094403924115940203\">siavash eslami</a>"
+          ],
+          "photo_reference": "CkQ0AAAAUK8UUOU-sA-zoep8HIT47NBjEQ9VXkuVdiJDm7ZPlFdJsbg6eAqGG2P_5ibqKvixv9NTJd_W_-6rKYI5hij9YhIQo1kMS7Bk3rVjz3g7_5IELxoUM7HJzJlWRcjl2AIvpZQEfrTWmgU",
+          "width": 1080
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109752944625871050518\">Ibrahim Tarish</a>"
+          ],
+          "photo_reference": "CkQ0AAAA2OZ9Qrfw9oZBIl4qcGYdwacqxy9f9MtWmC_hnvJ8XG-AvEyeQMFoSpLo8k6VFklcC1lymxs0DMLRQy11dNMENxIQ3LRHhcYTVtpoiTWrOaYbZhoUbd7o0_URWkVgUwibVvEecDRjPJc",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101230862049375615130\">Hayder Amily</a>"
+          ],
+          "photo_reference": "CkQ0AAAAT8SZDuI8HwcVGp_wCLwRaVZ7AuOaklLvLN4gtYv0Ih3_-TeMUGDbrxxZTcoq7R5igspKppgkh8OEHcuNfkNYPRIQRtvwWFJFOKwQzti7OL6cSBoUZghEBPQEvK4EM70sKRhS_Pn0UvY",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101230862049375615130\">Hayder Amily</a>"
+          ],
+          "photo_reference": "CkQ0AAAAgd-WJSi_FVofoSftdDHMEPzOaXcHXVakZGDAq_YLWgfwWG_8J3Yf1UomaAWoNuiUqSlExsoFCwvanr4o0HfF3xIQTnkKi2GFPOsUT9J3OhPTnRoU7gYFwya9XngbI4H4U1y4xmT2p1g",
+          "width": 3024
+        },
+        {
+          "height": 2204,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114137282513809722025\">Pavel Ka\u0148kovsk\u00fd</a>"
+          ],
+          "photo_reference": "CkQ0AAAANqok2tBTbJgdqYupPuAWZeQAy3CwyS5spZVvLN3QlKFcrHM-TMiZVm4SUoUB5mKsFR8ktq8sRnEK1-CueaXq0xIQDc7irGeWMBUz7y8XBD_IOhoUGQ4g8D_tSgewMIL9NBfqpXUgNX4",
+          "width": 3920
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114407525806507884778\">salim alshmry</a>"
+          ],
+          "photo_reference": "CkQ0AAAA28ngduWH8lSBf5QVwXq8zwi2E9OELCBlabmH7Ln16aJpqwitPawSrQcPx6jvPyUserQiFMU59fCp7dAYYi_rbRIQa5NiukDsLIABrVjXtGsRPBoUD_X8RAJvyMi4ejceET2se33A2lY",
+          "width": 3456
+        },
+        {
+          "height": 684,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100682859812189694722\">\u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646</a>"
+          ],
+          "photo_reference": "CkQ0AAAApznPIae-nZzx52gsxgPx8J77EA2K_wj7aTCpyCN1qhu34OwMo0UhaQppRG2QzIKjNEjikM-alm3DBspEDBwX4xIQa9Gvd_Gn5VPMP93hTTw1sRoUNOPjKHfM0Sh7aJIUIra7cpsW9UI",
+          "width": 1080
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105770570939597235650\">Safa Aubaid</a>"
+          ],
+          "photo_reference": "CkQ0AAAA1mUJOOuDf3K-EnxnNxx7KGnkcVaMRw4V9BWygaWeoS4c46FM2It7YSifkeKbO5q8zP3q_SaazbywMsYHHgtR-RIQuw6Wjy0FunTW9OdaP_v2bBoU2JnFPrDqn7vxWPUXaSHAZp-cnpc",
+          "width": 5184
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.taqkasra.com/",
+      "popularity": 0.5147143213909288,
+      "num_google_reviews": 477,
+      "mood_params": [
+        0.001424724383867188,
+        0.00990260792724049,
+        0.045882111986596655,
+        0.05445028074045153,
+        0.046389190337330896,
+        0.07689013194417668,
+        0.04161830514255734,
+        0.008244200640352941,
+        0.06519357062231854,
+        0.01957763932002116,
+        0.02336596634035661,
+        0.021991362267597132
+      ],
+      "global_cat_params": [
+        -0.9181502749572091,
+        -0.951680319113668,
+        -0.6237174826781932,
+        -0.20236673753913906,
+        -0.7399690673191489,
+        -0.9207392833657818,
+        -1.217775448652961,
+        0.09029547697901877,
+        -1.2407945817006942,
+        -1.477519440734683,
+        -1.399576551987482,
+        -0.6946421556346171,
+        -1.4484712544383673,
+        -0.8291192438026633,
+        -1.2031645895564824,
+        -1.1828317260426762,
+        -1.233565433133474,
+        -0.44553925330104455,
+        -1.2972158040509758,
+        -1.4809887521036273,
+        -1.2556998214684465,
+        -1.0003020524964812,
+        -0.04717314380490757,
+        -0.07346471813999868,
+        -0.18016015493596568,
+        -1.135094735958735,
+        -1.0646361218836977,
+        -1.2797820405101534,
+        -0.9460566515866654,
+        -0.5340167299483236
+      ],
+      "global_mood_params": [
+        -0.6425797204250397,
+        -1.217081507028736,
+        -0.3061192844499768,
+        -1.1033577617196941,
+        -0.2622171358019122,
+        -0.9663400074601571,
+        -1.3565920744063968,
+        -0.8512601325645635,
+        -0.7489628679226957,
+        -0.938252802961958,
+        -1.5797512003669145,
+        -0.27696405478853675
+      ],
+      "top_cats": [
+        "culture",
+        "original",
+        "religion",
+        "science"
+      ],
+      "duration": 1.0625
+    },
+    {
+      "name": "Al-Rahman Mosque",
+      "orig_name": "Al-Rahman Mosque",
+      "place_id": "ChIJNctlqlt-VxUR7YV6NBzCBqo",
+      "cat_params": [
+        0.0483516463236556,
+        0.04036437973388771,
+        0.16420954586889844,
+        0.2428817686675683,
+        0.0818894966288475,
+        0.045942049096940794,
+        0.17677164825802358,
+        0.05956167184637837,
+        0.14415025875694734,
+        0.14197713031138978,
+        0.04191188695638328,
+        0.030252375523759235,
+        0.10735872165750507,
+        0.04723457105026849,
+        0.14442631329804723,
+        0.05932363433696114,
+        0.2056971096216541,
+        0.17355920212189713,
+        0.056653537692260246,
+        0.07290809273900992,
+        0.19638278545693044,
+        0.08812141390366622,
+        0.4220830262693744,
+        0.31046463614718806,
+        0.004937037388094252,
+        0.11274304314457374,
+        0.11537035267152206,
+        0.15994058993263327,
+        0.08545010567598346,
+        0.11265630246847531
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 33.3114892,
+        "lng": 44.3499638
+      },
+      "address": "Baghdad, Iraq",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100984716412609107420\">Rabar</a>"
+          ],
+          "photo_reference": "CkQ0AAAASgirkkFaRiJzEGrAaQb8GHdVeOlhOFd99SDHNQTjcCcwttvhHNyDCuR29JR0JeW5ycT09ckf4iDhD_VimyQtJhIQSgCjcg2Z45E0bhuARtM3whoUXz0eApV_aV8-Gv_rdOBJQqanyGk",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104456698679756346260\">Nihad Salh</a>"
+          ],
+          "photo_reference": "CkQ0AAAA3W-r5v_lvnsGqY2XVE3gWNxO8U-R5r8duOAyRXf8S-kqaphPTOIUfwAC0-cF4-mcYembo1R3P6RMerOQksZcNxIQawH2Rb9M0Uf3hH8w58J47BoUmb5fscJZxh-c-9XB1Th-cTwljX8",
+          "width": 4032
+        },
+        {
+          "height": 3259,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110071436859789765549\">Hussain Alsaady \u062d\u0633\u064a\u0646 \u0627\u0644\u0633\u0639\u062f\u064a</a>"
+          ],
+          "photo_reference": "CkQ0AAAA41Y2qRD6ktQeQPQgjTkpMrEcMOT53raOd_wRcAxs8NaRLxLgN8wvWCuzbPqG-izqASt5jvaamlxsnouQnRonBhIQVQE7Ej10G3H0iLLs9dw3HxoU_nrXyPULj34l1Uo0EUUQG4Fn5j4",
+          "width": 4231
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104456698679756346260\">Nihad Salh</a>"
+          ],
+          "photo_reference": "CkQ0AAAAC-qLi6qtRIOLl7PAx6AUwVVpVn8XLf2z47IAZVOUN0SBSuMwZsy6GbX25asEt5BjN20otyhKunD-t5YVrz6hGhIQZAD4hPXFd1boqyA5CM8_wxoUQSm96F5aGuNuM6MLQc5c0jziYNo",
+          "width": 960
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100371235938705660974\">Omar Saad</a>"
+          ],
+          "photo_reference": "CkQ0AAAAnehoR801wJiOd6rC1yKBhL_XL5Iar-_p0PgeYnrk-os4OjMcOG6fgYNyjud6BeBOieyAsxG7P-19uzq7z9bx1hIQZexv1tG7H_WmAQeeCYZ7ohoU8Rqoy-lGO8BMBMR8SEyTNFJJDbY",
+          "width": 720
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112024704082212102619\">Ahmed Maxsood</a>"
+          ],
+          "photo_reference": "CkQ0AAAAsA1AWjz0W2PA8tTC7LIsSQE-7dTMHq-WUTbvpyf7Q9S8X0SbSl5Z0vkBrGI8yucWoRB1my1KZptZLWxpqw3vuhIQJLxtgtSYS30znEW7bKp-ghoU0WQ1KhwGtXXxtKbqtKalrMoM8RI",
+          "width": 3840
+        },
+        {
+          "height": 1816,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105807552471578407339\">Mo Ali</a>"
+          ],
+          "photo_reference": "CkQ0AAAA1rd5R3y5XHLRzcfPe6fVQWa6J_I0BSEAu5fyLn1GBNTSuQfitmLY_-K2e8rKF3auzBdPome7oDi4GaY5qTyblxIQnykHjf7hmZFIVXcHkTK_HxoU8Vi6sNl4ihdAsjklDfpN-aRLI7w",
+          "width": 4032
+        },
+        {
+          "height": 1244,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117066043419493531339\">Mohammed Qays</a>"
+          ],
+          "photo_reference": "CkQ0AAAA8bZN5IayUtbpjsIoTGJDOmpnsUzoFMPKph6ObblcOA8VOnnbcLIl1ES463LFI38e0nd7dekIUXgzWv6YviPD9RIQx2I0ARQyCJXsKBfODxVohBoUnXOII9VQt0wsklvANViS7csDFZ0",
+          "width": 1080
+        },
+        {
+          "height": 1131,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112901440078215723651\">\u0646\u0636\u0648\u0631\u064a \u0646\u0636\u0648\u0631\u064a</a>"
+          ],
+          "photo_reference": "CkQ0AAAAsfjU6PxoMTcH2QwCcSQc02KbxKGmbzFUQjuq9MoIrv43XYmwGwClk_Dyycosh6VnqZ7qHSJNHI42qiIBrdOdlBIQuYRAIim0qs15k9I1bbVirxoUZGAX1_HKuZtsjVSuJE2pdunKnqc",
+          "width": 720
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104456698679756346260\">Nihad Salh</a>"
+          ],
+          "photo_reference": "CkQ0AAAAmYclEZRM6XFUR7X945OPTY8m_B3--aZFPcvzcuAx4jGK-MLljZc0SpRCj60vOLPBnKTtyye49XARfCK5wqqefBIQJUI02XJgn-wHe16gVlMa1hoUOec2ieNIWYS0LglHbkyulNchRBw",
+          "width": 960
+        }
+      ],
+      "rating": 4,
+      "website": "",
+      "popularity": 0.4022922424842521,
+      "num_google_reviews": 178,
+      "mood_params": [
+        0.003962031989027189,
+        0.0110959727333226,
+        0.03485613936449474,
+        0.0646527837164795,
+        0.05791680084241876,
+        0.08173009921779179,
+        0.0543423219476682,
+        0.012908617300388074,
+        0.07956097839973007,
+        0.03624123468098784,
+        0.02309903880153918,
+        0.03588212976328839
+      ],
+      "global_cat_params": [
+        -1.369448486528873,
+        -0.8595715600383965,
+        -0.5936491631817066,
+        0.08295983311882332,
+        -1.3753601552904984,
+        -1.3232185855357548,
+        -2.3573512366493987,
+        -1.6833937101833178,
+        -0.9244708771785076,
+        -1.9072685639698896,
+        -0.9139471227384283,
+        -1.050819603962604,
+        -1.579468559859021,
+        -1.164642327169467,
+        -1.584448371795168,
+        -1.3006650144602439,
+        -1.429478955365666,
+        -1.258940494325426,
+        -1.3931429308959955,
+        -1.2502373591329503,
+        -1.664005558656442,
+        -1.632950751817066,
+        1.8608031974592583,
+        1.3269729409596842,
+        -0.6512664257372882,
+        -1.7935534024609259,
+        -1.6380026727809485,
+        -1.692263182889347,
+        -1.2903192102143326,
+        -1.492633429219073
+      ],
+      "global_mood_params": [
+        -0.4718649238552958,
+        -1.181329471611143,
+        -0.5046378129478717,
+        -0.9460713212180668,
+        -0.009217841662011513,
+        -0.9054773367215295,
+        -1.1157951088673188,
+        -0.6652631113043319,
+        -0.5589009595264209,
+        -0.2906525557113871,
+        -1.5859279577581193,
+        0.5722184726177563
+      ],
+      "top_cats": [
+        "original",
+        "religion",
+        "art",
+        "architecture"
+      ],
+      "duration": 1.0625
+    }
+  ]
+}

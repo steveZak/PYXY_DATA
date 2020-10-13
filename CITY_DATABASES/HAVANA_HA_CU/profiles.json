@@ -1,0 +1,4736 @@
+{
+  "sights": [
+    {
+      "name": "National Capitol building",
+      "orig_name": "National Capitol building",
+      "place_id": "ChIJeVjnWbp5zYgRBfWYEtxTRxo",
+      "cat_params": [
+        0.0784928756036228,
+        0.0603763596280987,
+        0.35970777146987454,
+        0.2511926929162276,
+        0.20095612321259743,
+        0.11159436913823692,
+        0.3446627330860811,
+        0.15322700603838255,
+        0.25526913330659395,
+        0.2412973275511444,
+        0.07423095948026315,
+        0.07599952759902315,
+        0.18367230952893038,
+        0.14554340090921367,
+        0.2670452699730768,
+        0.11205215686803187,
+        0.43256082849416494,
+        0.33426110915645446,
+        0.11980280537910427,
+        0.10796203293453992,
+        0.4715190449013674,
+        0.18227293246292264,
+        0.23127555190171672,
+        0.18082511263565937,
+        0.01486507030633094,
+        0.2890357577791177,
+        0.22253556239601846,
+        0.3513335526894269,
+        0.2224994082805021,
+        0.2212265596040939
+      ],
+      "noncat_params": [],
+      "quote": "Built in 1929, this elegant municipal building features a sizable, domed cupola & a central portico.",
+      "phone": "(07) 8603411",
+      "int_phone": "+53 7 8603411",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1354018,
+        "lng": -82.3590054
+      },
+      "address": "Havana, Cuba",
+      "photos": [
+        {
+          "height": 1535,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111065886100642598166\">miguel</a>"
+          ],
+          "photo_reference": "CmRaAAAA9K2xOYYSc-3necH_HJCVqCCaeaDshv4SItzzZxS3GWGy3Mb-91in1JjHrXCP4BcbaDLrsPR8ry1uwPj6s9RlTdgJUI_5Q90pZpTfp27CLUtmkEH6i67Y6VWHEKM8P3LxEhBxAjdk1EaiK10NzYmmhgNGGhSdxQ8sSgPpTygdF8d7iHxPTb_1nQ",
+          "width": 2420
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103045433939190541710\">Berthier Proulx</a>"
+          ],
+          "photo_reference": "CmRaAAAADWATcC7_GHMZt0zzdMmAiTnYc8goHAbOS7DdXifQf0OiQFQQjDqGHxVN3LuPBYyRnGFKbjLUUk84LS8EhXAvRxUWBYxB84SHpe8HR2xLLrGqhajr1IR7sKj4AHkU-tcvEhBI9UTgJgYDeO1vpkcvaxTdGhRgcuySq5AQgDY_qlVKKtOzhM5x8g",
+          "width": 4032
+        },
+        {
+          "height": 3513,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112217374270728518741\">Suzanne Durivage</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ3al3jHI4S78cxl9zVyunikh0hPZo5dNPmVGV56r1P2O04dI_7PMLNtnDyX5SgoPb2YPFnNEVFiFeXZWlZAajWybjCOkPeHDmzn0B3Y6lLHuJqksaXFgcv06cy99Q-CAEhCMdUKX6lUJyx4te4B0jGlLGhQXnCfNQHI6b71ufPdTtNUX3L6sHg",
+          "width": 2635
+        },
+        {
+          "height": 3733,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104862350083259529121\">\u041f\u043b\u0430\u043c\u0435\u043d \u041b\u0438\u043a\u044c\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAExp27zuSlS1ntNA-dsafNSAbCSr9riU80FljLKrzkqGAth0P8H5QaWhI-eBLj-PxxFy04uZG-OaFyCxUDIypIne0qYlcMvF-p8uR4_KyqRuG-enDXB1-jBbWoK3d2-B-EhD1geSda2gXGk5xvHsoGjueGhRD-63vCU--8DEHZUF3f2egGEz8dw",
+          "width": 5600
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105804427985982075993\">Jaime Cordero</a>"
+          ],
+          "photo_reference": "CmRaAAAAS5uZv43QhFY0eiTW9h0BHEtcLmyaE4tTSpfdprr2uCW-irbWisyhFZu8RBJVNZk7tIqIGTCbFUpHuqmYtcsETi0Y53wEvV0aVZVRMQ51xbICMrm_S_K2pnRAyfzWb91PEhCrPgdomhi8vWQ93ZEYYyf-GhRnRNKZQOaSWAV00T_4xhTkOAy-XQ",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101795588450869146464\">Iv\u00e1n Mart\u00ednez Herrera</a>"
+          ],
+          "photo_reference": "CmRaAAAAxqDw0zfB4JJtttUAn5ifgN3RV1tNfe0g1KLrvcuNjJVX4a8bnuKfd-JJltoSwDevLvp5lztfNY3i0CQDQuyzC7j2p4ZigGkxytx0xDSBVEJq6vD321cIZcOeTTfyRAIeEhAMaon9SlEOwKExPEi999OYGhQi--EIpUuKqWBS5jKkpEI5BX4qBA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106533728404141281451\">Viola Kreuwen</a>"
+          ],
+          "photo_reference": "CmRaAAAA4JwUhUaKEgZrFiMBwhfHNvXdMeogyUhhYf0gpqyRP7gCEiq21viikiEMPGFzwA8SoP8TtLgLQTaqiXbycYBBSxK6Rg8spmdKCF_DWxYdlp2meA_qKufQxLTF7o67hm0NEhBPbQz03li-MBEqotdkGinpGhS18B66YT2ksBcTFVNypV2dccO_9Q",
+          "width": 3024
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112046141419178810503\">Julio Rojo Eyaralar</a>"
+          ],
+          "photo_reference": "CmRaAAAAk4oPfMTjz1lRavfYkhhLP2mFP7ksQnhzay-hhHZdrqF4UvlVrMzo9FkhrM_mk6x2xZRICEUR-brYxodQTLb_upbX2wto44QUdAkorVi8cFpxJLIyaOGK-imZNYlGR8_JEhCXE_O5MqLP-ujG7Y7_szZLGhQK7-IspGg8iIfPmJg1w67v8dMOUw",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116872876569742444871\">antonio gutierrez bernal</a>"
+          ],
+          "photo_reference": "CmRaAAAAHjZBZW-QRWSaGwn8q9u6cg6Px2jFcyGBGhdAJKW3gg3wIlRqDV9vIZSM4DbvrH_uV2AkJoNDXKKY-vmFtBiQ_KE_-ERjskaT5JY_BPJaLIWyj1_FP45rFadv-lDM8-cKEhCMgeAkk8oWtOCpwBtnzWGWGhTXRab8_HHXlRaBLZajRV0lgKXk7g",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114798492942848600726\">Amiri Bakar</a>"
+          ],
+          "photo_reference": "CmRaAAAAI_aj5z63nH2nvWfUo2WtYnT7nBa14pc1xivTm6epxFpUdaOGrSORwdP-JSPdpR0KuAOp6bzFJQtve0HdxVOYgHlCWxl8SYi8nUc2_0Fd4hqWz9JDAxwcg1mFIQQIwjbaEhDGK6IBQrXPY7VbbtG7C1zWGhQlpvoNhybI2YbzMlOiKh9e0zpDlQ",
+          "width": 3024
+        }
+      ],
+      "rating": 4.7,
+      "website": "",
+      "mood_params": [
+        0.0028000810184331685,
+        0.03127892716376655,
+        0.05279674147712744,
+        0.11779914168832213,
+        0.07248176253746295,
+        0.11900910255822172,
+        0.1278717957504543,
+        0.01482452728468413,
+        0.11043563296102876,
+        0.033374292334066503,
+        0.06309401468023529,
+        0.020620380555575774
+      ],
+      "popularity": 0.7189548736587585,
+      "num_google_reviews": 1695,
+      "top_cats": [
+        "architecture",
+        "engineering",
+        "military",
+        "art"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -1.003732004981625,
+        -0.6202939864070387,
+        1.3268059265454037,
+        0.14235153333536565,
+        -0.6409161036559743,
+        -0.4473727071401815,
+        -0.5706820479885659,
+        -0.6431643840683403,
+        0.7199803840445765,
+        -0.8512327671051716,
+        -0.2492574350006901,
+        -0.616350279989501,
+        -0.7548093712744648,
+        -0.44226627725388085,
+        -0.2510885190144263,
+        -0.6831145060144244,
+        -0.19850685431115753,
+        0.4219405701836658,
+        -0.5870689868045981,
+        -0.5517569171056237,
+        -0.32216376266515967,
+        -0.7131595581621774,
+        -0.29051809967006986,
+        0.11763931602586887,
+        -0.36541533058776,
+        -0.4859147995422943,
+        -0.6338738719704197,
+        -0.4489001460199121,
+        -0.46303085071516037,
+        -0.7460898537178117
+      ],
+      "global_mood_params": [
+        -0.5500431562326297,
+        -0.5766680152389778,
+        -0.18162395704305626,
+        -0.1267428200985511,
+        0.3104429437535335,
+        -0.43669323602283167,
+        0.2757209855066046,
+        -0.5888648012787606,
+        -0.1504698870665712,
+        -0.4020710420884881,
+        -0.6604361034359343,
+        -0.3607761058939367
+      ]
+    },
+    {
+      "name": "Christ of Havana",
+      "orig_name": "Christ of Havana",
+      "place_id": "ChIJN8JMoQB5zYgRq2IuGGinMC4",
+      "cat_params": [
+        0.11900885715835618,
+        0.04281268205160418,
+        0.20313381485012305,
+        0.22120178995099896,
+        0.2500297001874619,
+        0.09121210802731586,
+        0.31457885598820456,
+        0.17542913272202068,
+        0.17645512737220473,
+        0.16897080997594738,
+        0.02414225250688944,
+        0.055046056332213565,
+        0.11527200293878198,
+        0.12056263869163966,
+        0.18861436857086356,
+        0.10500396406293214,
+        0.34301221838073126,
+        0.2683684593579014,
+        0.08217806785595225,
+        0.07007034894652804,
+        0.3615972884526924,
+        0.1676855411720609,
+        0.14128291865740605,
+        0.13816377945691374,
+        0.01718263498595353,
+        0.23262289157853808,
+        0.20370877723980524,
+        0.3062216578934225,
+        0.13931262258391727,
+        0.3012614483148699
+      ],
+      "noncat_params": [],
+      "quote": "Massive marble statue of Jesus, completed in 1958, with city & water views from its hilltop plaza.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1439429,
+        "lng": -82.3449066
+      },
+      "address": "Havana, Cuba",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105213634070160853498\">Sapi</a>"
+          ],
+          "photo_reference": "CmRaAAAAySg8WPOrhZC0Jb5fnNXegOOc3k891dO_EAW2KbVryyxKLjgeVQpZbnQWTkDNrKTMXVlHNCUtawX_OBahU4omgfEWrZbbUezAeHtmdUHJ5EMtOBDfg__-NGjh9qLSPdleEhARC0Ia6XGdJQkGbODCSj8yGhQMqLDYHM7xi6BL-YT4v_8b6rpqZw",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103219604303849741835\">elias musica</a>"
+          ],
+          "photo_reference": "CmRaAAAAzSJDqwkY14SPacECqixND9bV6qGGUuhdG74BxTi4amXUTw9iPG8q6BtzeDJF6p20yMnrgt4gNR179bb5YTZUgcvLI8g15-eJLYe_GdYPUzwcsi76t39gWDtYl0cFB12QEhBD9-7VgdhWWk8cIgXiWNu1GhS_UVhmE7d7nYFbk-4jRGSTgCUDSQ",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109454778071085248582\">Cor van Vliet</a>"
+          ],
+          "photo_reference": "CmRaAAAAyMys5Tg2C4yOfHYU9MGN5FMR6Nl4fW-w8tOZwAnVcJYeOZ6icFQw_S3ZQounlCwfTf9zRK-8VokKC_tcN-6nE1JB7iqfqC-qZ8clZBrBUVtBEKJM2wDQDwCDaJy257IHEhBtI6DGlciWp2mq9FMDsZSmGhR4ad_tqfG60WhceoAF7Sx7k8drgg",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118425016070841629476\">Dennis Shteiman</a>"
+          ],
+          "photo_reference": "CmRaAAAAH8FZUN-vWHKRi9eui29gbmjHHv6PTO2ZCmCy62GR8sMyBJ8nobKd5azjiSvU4qpSIjMNRrj6xm1yYxWaGykiVhYR5GNpkmLXC_xrhPeYRxd7g13ur-JtFOLegyCV_XJpEhDBDXYCsH7nAXSmZvST6XMaGhR_Jx70jtHDjgtTzug2MuVfWl1ITw",
+          "width": 4048
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116843589379260926069\">Martha Antunez</a>"
+          ],
+          "photo_reference": "CmRaAAAADiIQWrO5TJ4B8mH3hHskOvOYAxUj9PqOtB7PRQ2YzWkb_LMJoqrZjP9gZX2xfD3zfVLqHBVSD6tNjm5poMt56POR7JCDavpjnLNXjxniTcHIdtm2nV7s-y8WkndV7GtREhCaoo9PhBcUUWt80l5X22QZGhTjqauKlsoWudTuP5EOvhuXyl8mkQ",
+          "width": 4160
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110716251090176121280\">James McConaghie</a>"
+          ],
+          "photo_reference": "CmRaAAAA68poNS1Ne574U6D6vgzD0guhKzD0vSqJBCw05V_0EuEpHfk4VolOzx4NPSk6I0okvD5XWLjECZ0DJjMLXvMUg_CKMSHvONvQMVtgJJnHKFnAj6QmBof4_AQ0DGdiA0DiEhA2rbm5A_vU39fuyeP5vaQqGhTsQJlKilt1AyS-ZGEunBWRGBVvNg",
+          "width": 4048
+        },
+        {
+          "height": 1386,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104894390151708678377\">Cindy Purdham</a>"
+          ],
+          "photo_reference": "CmRaAAAAw_TqTEhEwI23PoiRk6IJ9MgV5Ucj86ozTEc6IHyFjaHIamjem17s9siko9dNE7TbXW28uq-psT_iyfN-XDSRyvRn68PwXNOYOfkJl57UmeMD-6iBDCfyKJ8gS-MQFa0-EhCmUJAEAYJz_UYC9r2344XsGhT950oVdHWrwZvOcejj88E6IQ2enw",
+          "width": 1976
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113755454488406007312\">Khamza Abdulin</a>"
+          ],
+          "photo_reference": "CmRaAAAA9NfbvquL7LRACHIE785SpzPnAvbj1nyRpvzrkUGO2pMbvFeN8WwvlODS9zWu4kiZCk0zjb_02-BXxjD4YlQ-xd8BCuJaaJPHaS2FI93V6aJ7PhGcGrTXVyV0C5VeljXVEhCTxz1mkX6POIgdPz5fDunbGhRgtxLDqLXFLY9VpIz3TqW9xHci4w",
+          "width": 3024
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111435068385084898541\">Gilberto Irizarry</a>"
+          ],
+          "photo_reference": "CmRaAAAAw_R-Sk0wodOpn2W9rv9Ws5z8Ym-wgocn8DS-uWyVS9D5mJkmgaq75xyQsHnWXD6IHoipaw8tjRtb4325zxANHSLzadwuoPTFDBc60D4q8d9RmWrCqEGqY3l8hB4vHF7aEhAhyEqZ9qwYUdhi0xYqNVHHGhStCtiCDwhRKDqHMX3NZu7aJjSkCw",
+          "width": 4128
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112281782788437767793\">David Munger</a>"
+          ],
+          "photo_reference": "CmRaAAAAvTbJUACAd7Nqj9eHRN1T0Et6eNr7uEAast1fYtfysZj358lqPAPb4lm74QLUkr1PwNRKaXZOXIq4hgVOmIrSJIgA5w2Lb8zZl67ZR70NF_iTdAfuc57L7_tDirvBSU-4EhBCO0xoO3CoB59U4D7v6kqHGhTVeHgsL4RXfKV_5RhG1oGy1cY-Cw",
+          "width": 4096
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.0018540040379235324,
+        0.013795239102541646,
+        0.05312057003627824,
+        0.0789670559309079,
+        0.06151204202994316,
+        0.09211583016310251,
+        0.06018270872002075,
+        0.009316755729884439,
+        0.0957876545230883,
+        0.012168938578886554,
+        0.029420106801306706,
+        0.007208103049886818
+      ],
+      "popularity": 0.6484961776988462,
+      "num_google_reviews": 1122,
+      "top_cats": [
+        "art",
+        "water",
+        "architecture",
+        "military"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.5121341977721363,
+        -0.8302979028992202,
+        -0.21128093324455127,
+        -0.0719700829904736,
+        -0.3382133418853045,
+        -0.7192857084652472,
+        -0.8908296981230697,
+        -0.396591802251707,
+        -0.4463902436829717,
+        -1.6202545143898321,
+        -1.2794060252091197,
+        -0.8153493451379313,
+        -1.4939561327476931,
+        -0.6258256214196446,
+        -1.1039469838296971,
+        -0.7656621451569529,
+        -0.6844013873183976,
+        -0.2672715828052802,
+        -1.0673329974830479,
+        -1.3067818881495714,
+        -0.8582530712478882,
+        -0.8556676584355484,
+        -1.3051694864925272,
+        -0.2803240773907515,
+        -0.2986872680192844,
+        -0.9043532001198933,
+        -0.810279230114412,
+        -0.7419645393214027,
+        -0.9651819610314841,
+        -0.19575927921845157
+      ],
+      "global_mood_params": [
+        -0.6136969832020386,
+        -1.1004621070450082,
+        -0.1757935445024567,
+        -0.7253959702508758,
+        0.06968779817591603,
+        -0.7748765935408247,
+        -1.0052681083220054,
+        -0.8084912149634379,
+        -0.344243376285656,
+        -1.2261784473281765,
+        -1.4396571620925667,
+        -1.1807071654331878
+      ]
+    },
+    {
+      "name": "Old Town Square",
+      "orig_name": "Old Town Square",
+      "place_id": "ChIJ-XC3DaZ5zYgRP1COZjUyq2c",
+      "cat_params": [
+        0.130123133643973,
+        0.09427620389246817,
+        0.23385659042401288,
+        0.23655537774970856,
+        0.2704097667975033,
+        0.12026125124688665,
+        0.42297179582628636,
+        0.27740544410628626,
+        0.20358001475207138,
+        0.3030380744593688,
+        0.07670532209988931,
+        0.195077458511147,
+        0.26254442787011334,
+        0.17226726029756337,
+        0.34675387721317513,
+        0.17733291627030393,
+        0.46548960105408616,
+        0.348909615914734,
+        0.17512427607901354,
+        0.11355949255783258,
+        0.5117599122385114,
+        0.31326158531834397,
+        0.23548583504758416,
+        0.18627867806092796,
+        0.022623620934284074,
+        0.39137774998018915,
+        0.23011360361655492,
+        0.3797137164088329,
+        0.26952366598425487,
+        0.2796843379114304
+      ],
+      "noncat_params": [],
+      "quote": "Laid out in 1559, this public square with a fountain features buildings from baroque to art nouveau.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.136023,
+        "lng": -82.34999590000001
+      },
+      "address": "San Ignacio, La Habana, Cuba",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103704126529584843215\">Fernando Coria</a>"
+          ],
+          "photo_reference": "CmRaAAAAvtYbx6RzWbbF-BxCTxBHyDBb25lWhBtYQrl3TpYYBX2YZwTvXhFduywVFjgIx3YxghEBSCf9TRzORkvBqhLgXhMp841ybybemg-s_XueQeBuO2tnk0Wt1dGdhrklbXyLEhAArYbADwh_yyMi3aKziZCLGhRyAyOHB6Mb-VeIL96dadqWmif5vg",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103520509849074603504\">MATEO CASTELLINI MUJICA</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ3IAELkfnQg_cz3iHfhTfE6LILnv51pX_e4I3HLXf35KBVMDu4_NRWRFItWSHL49u_pTUJb3AHZ2XAmL0ibApT0cSXz8wukFy7kEBov7eYxSWJ3IvnQRqjJMFoA8KsWfEhB3nydYmQGgQDHnqS_4Vo3iGhQ4ckU1pvp7SsnEcikVpqeWxVALtQ",
+          "width": 4000
+        },
+        {
+          "height": 1861,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107066804596798766144\">Rolf Nielsen</a>"
+          ],
+          "photo_reference": "CmRaAAAAY8ETG9jDDNXll3u3UAYwvYxSYdKOzlbRNglllNd_zevonz7wr2Bh4Dha7GOKplR-XrdKixvw7eqoNZ2Q0SNleAsz4YwLeJUuOAO8XzDfcoyHAQEesK2CPdQfjfyuY0jOEhA3KSEi311xrpToNGEnrp8FGhQrXRwoT0EINVfpzygfQPJc-GnBMQ",
+          "width": 1861
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104632378132617413124\">\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041c\u0438\u0445\u0430\u0439\u043b\u044e\u043a</a>"
+          ],
+          "photo_reference": "CmRaAAAAHEaIcecYuBaz22DY4TTsPHrL4DtKEzNN_HvayqyV__S0nEsG-wuc87T3N__7JDVEsFuWuICdehEUKOyKzY3ILnczdRIbOHhh96CsNdOl_ckyrNvKR9pQI7-UqvDcPJNxEhB9O3bWb8pGPbUNHlfvMI7qGhRbqeU8UL8CITkKFc8kCI3KJGvygA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102708634552757568075\">Wilkin Lee</a>"
+          ],
+          "photo_reference": "CmRaAAAAG-OaF6w014mSFZeTaNTHp6Rww7l3nvBMz6LkOiSC965DtivgcUQp8lTyNjWcu2GdCM4Et0AtVRXphEhqpBnj0lVeuUdst1OwDIIOcbRFolGkCF4zSC9YPzWZXGHiw0CTEhDkZnZht9Dn4d3oMyyE96ebGhTZefFWDfvdPWVCFQ_0fb3OQoo-rg",
+          "width": 4032
+        },
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113230756568316652845\">Lynell Hodge</a>"
+          ],
+          "photo_reference": "CmRaAAAA6MnF3GnVshytNbE52132FoGmhrdX1EvoG6OBzL9MTbFOXWdbAQgAT19Gz134xHjcLtELeKZ89ZjuReCLzRzJpaeft_lOs-pFosxk5NQBF-Yt1pm97IcJtPnQmDA0gifbEhAPvuryXgGnQPlkrRwjFFRQGhTH7njwXtHVgn723WlYtBJciTNXLA",
+          "width": 4656
+        },
+        {
+          "height": 2011,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110791165349768948427\">Murali Subrahmanyam</a>"
+          ],
+          "photo_reference": "CmRaAAAAANiB2Insue_HY9lD2bvTf978rxgolFgSpRFOPnJSB8nRND9rAOLdThtjVD1virgbnj3lDOoD7n-O9Ok0blsBTKXEvjL-cyz9dB2Prv1gcJR546zm9ZfQoHYOGWVRdBO1EhCS5bkC7E6mGK2xWfFPXoeTGhRBnJRDEIvAfbYGCvSKvdmvr8ueIg",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114328782659871766396\">Tetsuo Takahashi</a>"
+          ],
+          "photo_reference": "CmRaAAAA6ymi9IGNGP0_R_Ul-_z1yBK65IXE0lqt6GRYyrGGsaut3QtcNuD44xIxnEdAO5kCKMsQ4A-y6SvaiFKSzPmkHduHMVp1WFtOVdZkruI5dj4hqo-eqVb_vU4_RmvdJB1TEhC9OJ_U5GjvrO7Z9mBNE5eZGhTgxrYg-GWxwSQxJrIyW1N_6eXssg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109099007715381137818\">Vicky Pinder</a>"
+          ],
+          "photo_reference": "CmRaAAAA2WPQZCA3WJzlkqyM453b6U8jWrNmYvDIPG2LvXi5YE604Q9s-6Ib1U5uNnlkxMbxQpEEqb_IxTbfTQTs3_qIf42JNgNt9InLo5wxAkdvDm68MgVsS4wrMznzVGQlUmIjEhBV-E6cS4mrMjlL-POfgdZ_GhRzVVE5iIZAt-G_iCWbcrrpw5Jqyw",
+          "width": 3024
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106041703963793789558\">Angel Basualdo</a>"
+          ],
+          "photo_reference": "CmRaAAAApPJvKn_voP263GwRmErTu8AUsqGmaUzI2mLo5C0FfcSI79pvSGnLE83iJh4_gZTKLjm7WUic-bY5aclKcbPxPC4EUkXqL9JEyS3mQg5MH8gHGgllPQdr2NtB4LXcwopLEhB6_2o5QwyPRSlCn5t1ymVwGhSzt44Wqs79DyStnxoSoAt6l7DIjg",
+          "width": 4160
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.005555784999034096,
+        0.04568417258436848,
+        0.07414913234677749,
+        0.13348281046671873,
+        0.08355770438268634,
+        0.16442626909224534,
+        0.10097342956733134,
+        0.023428170097662526,
+        0.13730336806544177,
+        0.036487431030055834,
+        0.07032641776293849,
+        0.028037799977648596
+      ],
+      "popularity": 0.7802294946265589,
+      "num_google_reviews": 2351,
+      "top_cats": [
+        "culture",
+        "history",
+        "military",
+        "nightlife"
+      ],
+      "duration": 1.375,
+      "global_cat_params": [
+        -0.3772799072085925,
+        -0.2149631533291134,
+        0.09052083779477565,
+        0.03775004638459872,
+        -0.21250205633769595,
+        -0.33175070065775314,
+        0.26267006081531397,
+        0.735937650464442,
+        -0.044968294053463906,
+        -0.1947656972416412,
+        -0.19836849579075372,
+        0.5145552692431583,
+        0.09749778564718548,
+        -0.2458986059963324,
+        0.6156637328146631,
+        0.08144638485534829,
+        -0.019833946431995413,
+        0.5751584011832118,
+        0.11908640839569665,
+        -0.4402226345085953,
+        -0.12590872231187364,
+        0.566503385237993,
+        -0.24304788484401701,
+        0.16851253636725103,
+        -0.14202866255006338,
+        0.27319960844184427,
+        -0.5628682773111797,
+        -0.26453157760053925,
+        -0.1791722664459305,
+        -0.344126369566666
+      ],
+      "global_mood_params": [
+        -0.3646342434551599,
+        -0.1451010360121394,
+        0.20281788411097598,
+        0.11504377304987698,
+        0.5535293550734958,
+        0.13442840517310783,
+        -0.23331991361051427,
+        -0.2457882599157237,
+        0.2049549110141809,
+        -0.28108458354962357,
+        -0.4930768290981322,
+        0.09267205480863905
+      ]
+    },
+    {
+      "name": "Great Theatre of Havana",
+      "orig_name": "Great Theatre of Havana",
+      "place_id": "ChIJ6axzZbp5zYgRId0hEmXInKM",
+      "cat_params": [
+        0.1311023053773858,
+        0.04783484468430328,
+        0.26760043258078126,
+        0.21964271879136574,
+        0.16891972267332456,
+        0.10227117457483306,
+        0.2878511445642939,
+        0.15800488765346365,
+        0.19393764568741717,
+        0.19646144530368756,
+        0.044449817355291535,
+        0.05883189259583554,
+        0.15029925012463466,
+        0.10028217138899968,
+        0.2133669791139256,
+        0.10822720901821581,
+        0.284420801287148,
+        0.2487236168866116,
+        0.21007037351378793,
+        0.12310942447634664,
+        0.35001985251465273,
+        0.1840767672938028,
+        0.1758244108637972,
+        0.12220744655561301,
+        0.014179814963204458,
+        0.2219172904086815,
+        0.21660818322588635,
+        0.23844727048782174,
+        0.14763703194788882,
+        0.21259895731715275
+      ],
+      "noncat_params": [],
+      "quote": "Palatial theater built in 1838 whose grand main hall is now home to the Cuban National Ballet.",
+      "phone": "(07) 8613077",
+      "int_phone": "+53 7 8613077",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "2030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "2030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "2030"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1369143,
+        "lng": -82.3592448
+      },
+      "address": "458 Paseo de Mart\u00ed, La Habana 10600, Cuba",
+      "photos": [
+        {
+          "height": 3275,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116379143636989712162\">Manuel Rodil</a>"
+          ],
+          "photo_reference": "CmRaAAAAJH04srGW_MAlHpAfvDarscUZ68H6Y9QmdKs5U2WdTevmNt31yZ6vLzFRFNZ76yX1qmVjlEmBZ2Ph-vWodG6cKJoVrgfr05UPO3-l2VHXVZvG-hkWu05iB9tHXX8LKxeXEhArRgkQdGZuPLOrgFdF7u8xGhS5-mlbE_aiHpe30T5Vl5xXvsXwMQ",
+          "width": 4912
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116082900680636506425\">Charmine Chen</a>"
+          ],
+          "photo_reference": "CmRaAAAAIK0GN7legE_b2nZp6OhnXehqzDmmmVLxtGEeokQXPOrHKGACdItGmvdbxpblac7Z67StSx7HrKw59TAn7wXdwW_jred9pJ3CpN-dPxJyhDa64Pt_xLuLY7or3UIVk5ejEhBs78eTWN8qefV-oxYLndelGhTddSFxgcHisxided2dk74V-RGvAw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117193822825395984002\">Aleksandar Andrija Pejovi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAxl9aIlAxVCIcYrvM8TPa55WkDHDGcPb8XOynufBTpyMuq3I0Oqw4DZX4jTVtAG38Fv3EoP2dhssoCJhywkHcnkh7qRVWMQR7JCO71K4dAZG1XNApM0ANrUuXVzhNfbzHEhDUPJ9uTEIZDVT9bAVB9YWvGhRBUi8leIXKcEE_xlcPQWPvtKkEKA",
+          "width": 4032
+        },
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112625337415187500444\">miguel angel martinez mireles</a>"
+          ],
+          "photo_reference": "CmRaAAAADUc8eqf3oohj3d9k-MBZm7cTGKYrtBC4kfS0RHxZOkoiLvz8h_MdUi_gFznFPkWXk649BTQgeBTujpyIqoALNhf9xXMXecuQXJcrHBTyEew5XNJK2w-Xfg0GLZubq9GcEhBADZ9rkv2zm8GHQFm5lINCGhQzWS8bVBdpfHIMQqFdWhu9c4FGTw",
+          "width": 3072
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113212710082882546633\">Marcela LopezGravina</a>"
+          ],
+          "photo_reference": "CmRaAAAACzkR6KxIfL4Pb9Xb5quH5om0RFW4C8aI0K8E1RaWiKxhtF6AUfCC4zZb335-Yerf2Ce3i7J7f4VF2KqfI7Hu4PUXtu4e2Cycj_qgVIoouSlr_DpKamAMd6GKNzmu_a7sEhDNDVHcMmnB-BcrlWJtS1ifGhTSxLF_HbKPPdd5SSlBruwI140wOA",
+          "width": 4160
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111028309866648171508\">Brian Jensen</a>"
+          ],
+          "photo_reference": "CmRaAAAAhkbAvM9QhUAI9D3nZPIZbS_vLn3fYThI6wJimr9MWWduAAB6J8XhYBvEj6PldA1DGrAvhlU51y0cx2ZT3e3vzC7gHm6MS7_y9lhCcJF0MRGrLXn6-kkuTEh2_Hl5zZRkEhAMIz5MOL8hjD4lt2vy9lBCGhQdlekuH4Fl8d67BMbRE3GJJe1b0g",
+          "width": 4128
+        },
+        {
+          "height": 2883,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115763585317220935729\">\u767d\u544a</a>"
+          ],
+          "photo_reference": "CmRaAAAAFULlDahw6g8NEKKJVtYkI-YXtJ6mMyGV9NgAYZqUAt2I67W-GW3p1XIriM-ofr3VraSY8oRmpAZ7rKFWPvYzI1kNk21zlia--QNArpAJmM8OwMfaoispRiyxUsKk5Ri9EhAa2sX_UgwydAfdzj0tG9T_GhTFCxYfwLFu10KCc_3C6OaCNp_p1A",
+          "width": 3727
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118274961420275838826\">JUAN BRAGE</a>"
+          ],
+          "photo_reference": "CmRaAAAARTbx5SHXunOO4nv05b5gSP1NfKo302K3Qpn1uY0mbF6mKiOPMZHVzcalUD2ccf907VA6EpYIfiYU7jccYR7i0nJYGgo5c_9OnF_Ok6Qodav4dgDdp2wbN6jd3kHwcD2OEhBuNxV6IVGG6JN_skRK-OIbGhQFC3aVU9W-opBvMHdJAq0bVXYeTQ",
+          "width": 3024
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101837659939760749956\">alejandro hugo rivera</a>"
+          ],
+          "photo_reference": "CmRaAAAAmAxZNE5IVLi57XTLEcMpVZMMzVS7O5aDxjEsi3KN_0pysQjJGB9T1Ys66USO7Zu_001lZ6hi_ABIrt-b86fWSJ5KOfboWoUmXIgNmNZy-A95xtBhNkGyUHYpZDB4dzpHEhBHI6lLX2m1oknV-FSW5vqKGhSPHh2rTUagiMmdewlgqjocguZCDw",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107049092303500998437\">Jimena Garcia</a>"
+          ],
+          "photo_reference": "CmRaAAAAyJrfcNAms6EhMOtZSvEFZZf0OpeRv6Ogdl68-5XZ1GS0gHtAY8f3EDM97crXBYHNZTJgovuTqUgTF9h7PIauEZoVeZAB8XbaCiV6YowZErgm_G2RQVwMnAQpT9MZencGEhBIpprdLot9Vo7TcZR9Q3DeGhTrUwO44L1G6cFftspMjQXBEWBNZA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.entradas.com/gran-teatro-alicia-alonso-la-habana.html?affiliate=EES&doc=venuePage&fun=venue&action=overview&venueGroupId=22536",
+      "mood_params": [
+        0.0021129264759906746,
+        0.02171755132040792,
+        0.04398754855167708,
+        0.08024449492295324,
+        0.06512208822856488,
+        0.09037028859943408,
+        0.08599735699539418,
+        0.0140506269237459,
+        0.08648203679636676,
+        0.019419386001215913,
+        0.042255717787290634,
+        0.013313433291214097
+      ],
+      "popularity": 0.5123061455785457,
+      "num_google_reviews": 437,
+      "top_cats": [
+        "music",
+        "architecture",
+        "art",
+        "engineering"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.36539919597919834,
+        -0.7702493272217112,
+        0.42199972062198887,
+        -0.08311154983083502,
+        -0.8385276803583683,
+        -0.5717503609184634,
+        -1.1752615876032364,
+        -0.5901021426789615,
+        -0.18766597735716412,
+        -1.3279565146731414,
+        -0.861750817813403,
+        -0.7793945447293158,
+        -1.1154450176458466,
+        -0.7748470662028187,
+        -0.8347868307458202,
+        -0.7279118638019627,
+        -1.0023208861342507,
+        -0.47274919246522173,
+        0.5651587006278261,
+        -0.2499318817268246,
+        -0.9147163213605489,
+        -0.6955374165585102,
+        -0.9157201315104896,
+        -0.42917166171918897,
+        -0.3851454213220442,
+        -0.9837612311674352,
+        -0.689412905145041,
+        -1.1822532883579822,
+        -0.9149322564679199,
+        -0.8054143982958943
+      ],
+      "global_mood_params": [
+        -0.5962761977789062,
+        -0.8631174279001003,
+        -0.34023019313228525,
+        -0.705702387951621,
+        0.14891836722234705,
+        -0.7968268083758083,
+        -0.5167361402825024,
+        -0.6197246434365246,
+        -0.4673444597481553,
+        -0.9444030296187194,
+        -1.1426385203310114,
+        -0.8074707861914682
+      ]
+    },
+    {
+      "name": "Finca Vig\u00eda",
+      "orig_name": "Finca Vig\u00eda",
+      "place_id": "ChIJiXwUNXF8zYgRBOMePiichAU",
+      "cat_params": [
+        0.07070827544144935,
+        0.07488100744206354,
+        0.232242209106364,
+        0.1433287612266816,
+        0.2714797462806807,
+        0.1429971212580236,
+        0.310003724166111,
+        0.13187609729599076,
+        0.19268001871333928,
+        0.312652412472863,
+        0.07341104762270098,
+        0.06995527433689432,
+        0.1930188460714337,
+        0.1404373296243783,
+        0.299441703705562,
+        0.12530398506245424,
+        0.41711718732590136,
+        0.2696188995315732,
+        0.11063249527693104,
+        0.13041052483659826,
+        0.5030662515343853,
+        0.16680334974035738,
+        0.21572267687725216,
+        0.08143845041764856,
+        0.012038640246354374,
+        0.3220422025838294,
+        0.22705700602601764,
+        0.3449705390532812,
+        0.2368595926674589,
+        0.2249346023078017
+      ],
+      "noncat_params": [],
+      "quote": "This restored house-turned-museum of celebrated author Ernest Hemingway offers guided tours.",
+      "phone": "(07) 6910809",
+      "int_phone": "+53 7 6910809",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.0675847,
+        "lng": -82.29600459999999
+      },
+      "address": "Finca Vig\u00eda Km. 12 \u00bd, La Habana, Cuba",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109407789877442402160\">paty torres</a>"
+          ],
+          "photo_reference": "CmRaAAAA4HY4WluRWhz_tMV0wqzevlDsquezBou-Qc_TvoG1omR5Qet0PwE3iOHXRCxQYO8aBPku_3mwdjrJ0KcP_3wEGVnsJCB2qZXhpBQs-jLXYJmNNGtvsPiCGPXTHMxCU94wEhDtfAOCg2tpoBJxgmoEFbbSGhQY0EkExpGeiDfToeyA4QXh-DGKQg",
+          "width": 4032
+        },
+        {
+          "height": 3580,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116322907471593164799\">alicia johnson</a>"
+          ],
+          "photo_reference": "CmRaAAAAskBeogV9xRq2-vuun8ocpd94e2YezlHJYspN5ZGBD-bCidyQO9vh9uDVG77weElsFyKEiwIkwQqU_Qec49o8W9jDAfjFkPGUw2tYDjEWKo4ggrSF8_ga4dKSE9jEo2DhEhB3MZ5at99OcSreTF0_K922GhSMsrcTYJOLSIUcY3KA8uTWnmkNcw",
+          "width": 5172
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101058782032762981555\">Sarah Turnham</a>"
+          ],
+          "photo_reference": "CmRaAAAAce20dTarh8Ds7_em2OhMKpIGbCcb9vAR6l8X_HuAps_-B0cUHFuk52CC1gUI8WpcyjqxIJXyRXSAspxpT50eA7o86oJCHYZp9hZdJrusZDYSSA2th3Lu37h-mfcQipn3EhCQtQ4HVm4me0ZrTa4xCloYGhRDztLbvFfjzC-SzCKWqPI849h-cw",
+          "width": 4032
+        },
+        {
+          "height": 700,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106415118909782912069\">Barbara Weibel</a>"
+          ],
+          "photo_reference": "CmRZAAAAsdYNyEMMh_Un3RCTuSIsmW1HE-azvHkgTqO4OBHxwxxFP24fqbslS0KFIVFirwHtCDfEyDtdTW7j8JIV0bJkWiXW2e3L4ENsM5-pw9L1RGwE2uPPzwkDMRo4RNZBBP3dEhDtg_XfTvdPAjmZAQY1u_xiGhTW4cU-IaAT7jx6FQPCI9PqWjg-Dg",
+          "width": 1050
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117381043400020829472\">Beau Grant</a>"
+          ],
+          "photo_reference": "CmRaAAAAK0w6uA17qDoYrRQW8cihQj8JICLX6Y2bDohg8mfOhMARUkxFQMUH1JBlaplqBomYDzqZqoDbdePRZ6efPKVfgVqh7Sb8PmreKdVdiar2YYlP979LQdHtt__p7PEEWizoEhBqUQnMPE4W_EbtMSidPZ10GhSZd9dMSKmHHlexKlJuV1rYHYm01w",
+          "width": 4096
+        },
+        {
+          "height": 1446,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101824660263770007765\">Richard</a>"
+          ],
+          "photo_reference": "CmRaAAAArj4H9OW_5ZRZZsK4yQRwPYUA4aga6z2-3CkA8Zef1W95UJVQ7_Qyy8Dy-athe3ckj442T4m36mq6J2rcAjY5HPNF8req-5dmPHvkfymBJLQE8pgWfrtpxG9VeP4_TBGiEhCuCIXSE0xMsBfHCbHq7uBFGhS-u_AZlL_KdTn5eETfZOs77iETcg",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113705947996925169311\">Joline Schluch</a>"
+          ],
+          "photo_reference": "CmRaAAAAEOvmqjjo5y3yDtjr61Q5Ml0Lw9Hy6VJypyr0VSdUoAsJ0mwGsWrdN63mqRR0Fw-Z0QP1KRTjwKl6omSiPXf-e6WCuJRcl4Wsqg1BxuI_b8BfHq14xzBdsRVackEwgyZhEhAXwwu_5JwfIlltotGKxkVGGhSsO2AJFMa3YJf8u-7CZkWHAyh7RA",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114587578414695458983\">Boris Voloshin</a>"
+          ],
+          "photo_reference": "CmRaAAAAgOigkS0AItlxWuGDPP4Hk_mU0koZaYpCM45wg3bTPx0o06jjMqEicB5SHtp00jrkC2KkAhSOB7Fkb5SqYLUqOvp3WvFxcrFwBnVNEgWkezEVnGK3ItqsiurdOX4t7xPYEhD9h6p-uBSzOJRJS1vIu7MYGhR_TRbFBG220dlE0KRQjgk_fz6G8g",
+          "width": 5472
+        },
+        {
+          "height": 5005,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103058462454115471009\">Eric Roseland</a>"
+          ],
+          "photo_reference": "CmRaAAAA6JYFzGG820UDW2xrmosaYwwZhQHEJ81XQYUkocGzt_hrB2PHgN7cyBygM7mJ3vuI8f-17GhhVTWxsZdraUb6LPooR-uOvoXQqPc1QFOyUYZsG46G76y0AO6fe5OXJFPHEhCGF2mTYrwXwu5IkrMwWN1VGhRatkwHjjvRwhbi2_F7NWfEusKPeg",
+          "width": 7508
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105563831431048442519\">Jeffrey Lebowski</a>"
+          ],
+          "photo_reference": "CmRaAAAAZBw86pR71mjJHJJcfU1LMPRj9ggT__zkpFVCyaOEldJ3RNgqITIQryg-Vx8FwRaev_nfqWhrxhnb-mb0ywQeha_P9eP9cuajXXVIktVCDQ9zAkx4hp344H3ji2updxTBEhAbGujwbO7myxHM84ERtOyBGhTKkQFb4fZhBLWXS5EwwGL-PeCh2w",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://www.hemingwayhavana.com/",
+      "mood_params": [
+        0.005293305047055531,
+        0.047250855956518636,
+        0.04287029736030094,
+        0.11461735070252037,
+        0.04200740220327507,
+        0.11312804617873914,
+        0.09657515425482804,
+        0.025026993297744497,
+        0.07978897337427854,
+        0.05153803221401724,
+        0.08185862780509545,
+        0.02445278972637166
+      ],
+      "popularity": 0.48602658129959087,
+      "num_google_reviews": 354,
+      "top_cats": [
+        "history",
+        "architecture",
+        "books",
+        "family"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -1.0981859025024665,
+        -0.44686602207519055,
+        0.07466214235798359,
+        -0.6284679451500224,
+        -0.20590205355490185,
+        -0.028438981765469877,
+        -0.9395174951491463,
+        -0.880283501878914,
+        -0.20627763331617535,
+        -0.09253991248108541,
+        -0.2661201390950847,
+        -0.673753692215008,
+        -0.6538089143938005,
+        -0.47978583282807585,
+        0.10119064958629671,
+        -0.5279105889223062,
+        -0.2823047022496048,
+        -0.25419245232691917,
+        -0.7041241531329946,
+        -0.10445106620455905,
+        -0.1683077769349126,
+        -0.864286020862576,
+        -0.4658740776400443,
+        -0.8094825156082253,
+        -0.44679480773713126,
+        -0.24109185571721284,
+        -0.5915083339213145,
+        -0.49023675445275766,
+        -0.37634661987399287,
+        -0.7205928572919902
+      ],
+      "global_mood_params": [
+        -0.3822943850613768,
+        -0.09816474366985263,
+        -0.3603458845162741,
+        -0.17579476154397844,
+        -0.35838531432402887,
+        -0.5106476199648537,
+        -0.31655552741690507,
+        -0.18203401701437064,
+        -0.5558848858798185,
+        0.30382958634400475,
+        -0.22621914955559055,
+        -0.1264899221592377
+      ]
+    },
+    {
+      "name": "Castillo De Los Tres Reyes Del Morro",
+      "orig_name": "Castillo De Los Tres Reyes Del Morro",
+      "place_id": "ChIJQ-9-Q014zYgRIv8yXljO2Kw",
+      "cat_params": [
+        0.09225635972893982,
+        0.05767054580688671,
+        0.1651697127088261,
+        0.20989785389726037,
+        0.31139245466429577,
+        0.10712091233970017,
+        0.36639340619064353,
+        0.21464929260734536,
+        0.13987357634788897,
+        0.23792710826075492,
+        0.05555869083216374,
+        0.11857292843600942,
+        0.1918047319890449,
+        0.16154385643425614,
+        0.2855289778233903,
+        0.1636614926993227,
+        0.5674908089383242,
+        0.3784191881458845,
+        0.12074114378179454,
+        0.10216362510364344,
+        0.4367960944730146,
+        0.22413522456314905,
+        0.2531872483851081,
+        0.13268411905063726,
+        0.03241834792023236,
+        0.34462868003331215,
+        0.23523693887563785,
+        0.4845104609782474,
+        0.25150272524242984,
+        0.34049813211285335
+      ],
+      "noncat_params": [],
+      "quote": "Iconic symbol of Havana's seagoing past, this fort dates back to the late 16th century.",
+      "phone": "(07) 8619727",
+      "int_phone": "+53 7 8619727",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1507603,
+        "lng": -82.3562326
+      },
+      "address": "Havana, Cuba",
+      "photos": [
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114867055883915475268\">Barbara Walsh</a>"
+          ],
+          "photo_reference": "CmRaAAAA2_e6tD9SXqNQ-DpqGMG2RvP7YNqbqV6ujeW-L7oSc7UVYcHbZLZHItbC6Wn3gPNh3g8PP0O35jZTZFK_iwPPK1rm_lM0RhIT95-Mk9bPGN5B9HUldBeojIPGWS7w59TqEhBUbyumxs12e-KK70hj98YzGhQ8BN_Xlb_Wat45zmreE6WBGVsUcw",
+          "width": 4608
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110863502534550492593\">Marek J\u00e1nsk\u00fd</a>"
+          ],
+          "photo_reference": "CmRaAAAAJWSap0J1OvsRusNDyLGWq3GQu98ZItX6zPstG8GP3fRvf6k7Yryi_Ojyd4TajMp5zWEaLPipxH4x4vF0xLs30xcrNvHj1WuFo6aEJNNrILdZEJCaoy8vszokOMZ1d2HjEhBVh4TZ3dlvJcBHgsK5kedgGhSysz-FsW0ZW4C5qesbnlw09emgVg",
+          "width": 3008
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104319592498546906724\">Taco Bakker</a>"
+          ],
+          "photo_reference": "CmRaAAAAvoMjKTTTO4akW_393Jd4ADnOGW7gK-QAn1ZM_tWwPbQM6ART_un9sdso2yVmeC0ie9WT6TVkpU2WS2WbQBfRqbIZwvhJzPFcvlnVuSS_alLFx1D922xbFwigPlqCwfaIEhDDqJmLd27VQR4bithDy5kOGhSGV0vY4j9bQkxOW1yr3pUrpqopTg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107049092303500998437\">Jimena Garcia</a>"
+          ],
+          "photo_reference": "CmRaAAAAw5a5pQp1nikzbl578MM6JUqb9K061CXNtXSrKR6aV_z-mJN3WCcB7yjP89wR-ESnzVid4Rt9-KLDaPGMJPPgES6B6izgF7qLX7jdqKL4RMkz0dQG4bcGHtdQ0iwshLj0EhDzkssvcpEvfDeNN_YTVdHOGhSA77jBtqrIhlY-q8JNCHFwhtp0FA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101623358509071257514\">Joachim Reichel</a>"
+          ],
+          "photo_reference": "CmRaAAAARZteHiB-mQbODnrkeVFxzI8zeOVgHGSFSToTzKIjHuedqHo9txxxwTuA3b1CjACDmuhKLx6mBruJp6YK3iRQ-y6CHHoIOzJWgN8bqPY4tbD20dLyW1SHaS0YS1226FFvEhAwHTnyLofEl9RvoP7__Mr9GhQlXGbyNY106gFAsFqqCmMRN46SmA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115012739862650572983\">Orna Kaplan</a>"
+          ],
+          "photo_reference": "CmRaAAAAfphiEYUtWNHSCnYBq73QBnVfuYrp04tAlzLO1HSsxGPN9XG9zQPOLWI6ftCofhWDy8fg1NbtSOcCjHqCt3dnBNwbA4Jv_S-WzGISxWgQ_8MU_Z52TRdOd61jiDW6-aUvEhDs320ZIiXunYPpbAwVSBCgGhR0J_VS7QYNeUn5MomHPZ4UrCRV-A",
+          "width": 5184
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102213150002919110339\">Benedito Pereira</a>"
+          ],
+          "photo_reference": "CmRaAAAAKdqkj4RpYmm5_Jmt7hCXZK_v0p07BnUgpP6clSpZfa4qJv7l8jL8C6NyJyIwmbB5QmcT2U7-9NnMl5wU0lg8dyJL-dIUGb8lgwSGrPYzLscAbyxZG0v29zJxVyTcJb_FEhCZC3DvHunOTXjQtzbt2E7GGhSHbv3vmgRcWH_VC8GKMEqvji1FiQ",
+          "width": 3262
+        },
+        {
+          "height": 3910,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103288819829640470496\">Nicol\u00e1s Jovic</a>"
+          ],
+          "photo_reference": "CmRaAAAAK0tfIqEf9SpRx11BJs_fyJk-cdenEDc80BHWLbDfvIfZqeG1ceY89HiflRb5wGGHoPt420kYQ617YXdM9V4E9NkGOG8Dysgi3xAL_okomnrQeZxwS9mTVV7Kfo7PtoibEhAU6sesLmjsGWUF_zLKoPMOGhTIxTLXhqi5rfrVul1QP7o86PUoZg",
+          "width": 6560
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108417700835443235731\">Markus Binder</a>"
+          ],
+          "photo_reference": "CmRaAAAAgVsW0nlOOz6wfYtmJw791NepzlzHoIqqbTJv5KGxw8HYX3cf1lvZJE5Xy6h81eIz10y6phwpBMFfIpjCqE9MZcfhjMguL3StyBbf6Qm6i6ML5GebQlWIp1ezzPFd0LsiEhC645l98PSi84SkfTT0E-YjGhQKqh4I9_UCiQuVYVoq6ughokrIDQ",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111642039028140289867\">Lakshay Jethi</a>"
+          ],
+          "photo_reference": "CmRaAAAAGyawacEfIk4rTUFvea0YMyNwKK1QV4iCn7Uxdjz4Mjue2oTmFoRiOPEi4XBgGaSpWiPDRU_UQW8QpJ-0Hu6c7raS88p0Ho6EMdiHVByKwOUrJ_SDX3JjtDcMaN1yEmwsEhAG0f89_5k0qXwriqEMfYB0GhSSziQnVIGZh3g9rKt1XEWOKQBq5Q",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.0026222746694548773,
+        0.04013224058641594,
+        0.07130282160924774,
+        0.14294726407475922,
+        0.09848045711079795,
+        0.1802724053970361,
+        0.13202005384102622,
+        0.02258112925592771,
+        0.14613373284966027,
+        0.03278101028264786,
+        0.07281880970872329,
+        0.02171657102945039
+      ],
+      "popularity": 0.7388939126147737,
+      "num_google_reviews": 1891,
+      "top_cats": [
+        "military",
+        "instagram",
+        "views",
+        "science"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.8367337401999096,
+        -0.6526466356331699,
+        -0.5842170709514174,
+        -0.15275050659725956,
+        0.04029330863880759,
+        -0.5070516140960143,
+        -0.33942781477811995,
+        0.0389798085216171,
+        -0.9877616170274292,
+        -0.887067091974099,
+        -0.633280349268726,
+        -0.2120226695963974,
+        -0.6669288627799084,
+        -0.3246944795261053,
+        -0.050096481189045736,
+        -0.07867178595936829,
+        0.5336289069646671,
+        0.883817346807533,
+        -0.5750914902340948,
+        -0.667295268634384,
+        -0.49150787695594256,
+        -0.3041957070293554,
+        -0.04346750871615577,
+        -0.3314407230172632,
+        0.13998424561434997,
+        -0.07355827454727629,
+        -0.5148630664495685,
+        0.4162687857201994,
+        -0.2879543924371698,
+        0.07403739425510875
+      ],
+      "global_mood_params": [
+        -0.5620062996185194,
+        -0.3114314560272315,
+        0.15157111989087332,
+        0.26095210777903005,
+        0.8810426680163794,
+        0.3336938385688026,
+        0.35422512266566797,
+        -0.27956463216786465,
+        0.32176902311605077,
+        -0.42512786715326506,
+        -0.4354023739216074,
+        -0.2937628326955845
+      ]
+    },
+    {
+      "name": "Fusterlandia",
+      "orig_name": "Fusterlandia",
+      "place_id": "ChIJzQK8huZzzYgRXlV1k68SIDg",
+      "cat_params": [
+        0.08568710267347782,
+        0.08931022121743079,
+        0.2507054652027449,
+        0.4312486964125659,
+        0.18720801562152786,
+        0.1564105773099489,
+        0.29860190486171523,
+        0.20198397399078788,
+        0.17819706797169615,
+        0.3009199211122187,
+        0.09609691997571913,
+        0.07226167091945684,
+        0.24061692589285297,
+        0.1263936871593923,
+        0.2418068892712661,
+        0.10838317901610683,
+        0.5289258988769744,
+        0.20084818938808816,
+        0.21753285432170866,
+        0.11595645839908301,
+        0.5136797063583186,
+        0.1903697247714861,
+        0.27265093219028597,
+        0.11024602408967203,
+        0.005774045774896749,
+        0.3968948868533339,
+        0.18592386992784943,
+        0.3369173045358683,
+        0.1808862925811571,
+        0.19510698367303692
+      ],
+      "noncat_params": [],
+      "quote": "Extensive public-art installations by local artist Jos\u00e9 Fuster, with colorful, whimsical mosaics.",
+      "phone": "(07) 2712932",
+      "int_phone": "+53 7 2712932",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.0898458,
+        "lng": -82.4831226
+      },
+      "address": "Havana, Cuba",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115843850655711003971\">Robert Smith</a>"
+          ],
+          "photo_reference": "CmRaAAAAqb-SKqRoDy55CbQqwGk9K0eippDm6O2RJLMCICYk0odEVi_wp_x3hnadkoBHPAlHAF9pO9rpBG7PJHb31Az2squPlGQO54UXnuAXbWOo_GK3S17czaRsx2seLZK772cSEhD1_mDb2iYaAO6dAcbwc4YmGhTiFF87vR1PgkdzFGyg4tHbSgF4bg",
+          "width": 3984
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102380079927050109171\">christian acosta</a>"
+          ],
+          "photo_reference": "CmRaAAAADg2iYFnPDIurYFSl97YkhfWWpgkUbbWo3_Bna6mKRKQHeJ9jrucsjqtt6KfPqROnMBly2MyfgSbs8jNYHToVHfx5NTSPG7e5ioQzvXWkQ0IoIHZkn2r0UxjSk43Izh-cEhCVJ_KkoyvMqX8zpw76AwJMGhT8lOO0Ep00WfmQmp6ZKsMMkxqZPA",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100144526786617676969\">Dennis Schuster</a>"
+          ],
+          "photo_reference": "CmRaAAAAqmhI_L85QUHOE8PcI833RfM0BlrM92yysn8BrliO25_7cTKUd30CRS8hLf4Anix9NKN95N5jitd7OEmrlvKO4I0sYcQMuJlXYNudPq6poEtE680mkKIUDqFvMol6OoASEhDAFrbfR660LDEP91Hbt0uCGhQYY_LUujqU_jDJxbAoaHtcHgWwew",
+          "width": 4032
+        },
+        {
+          "height": 2610,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113218966290228010907\">David MP</a>"
+          ],
+          "photo_reference": "CmRaAAAA79lA05eraSaG2jlzUjGyMbIVcoVg7F4WX0NyufqLXzmue2CcgscYz8vMnCPip6R9eaAzmtsFQbJOVJnnJxcEp7Me4s7GvZ_Hw6AV_5ewbGnoCkE6d-S4-qZOuHYcAcybEhBfV_wS4K94wNO5-RnK1W2aGhQVMiILReyUerttnVd3RcauNVEXdw",
+          "width": 4640
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100563356477681427962\">Geoffrey McGrath</a>"
+          ],
+          "photo_reference": "CmRaAAAAS9hfFfQdAQ42l9S2VKTHs2pwLLSpFpOccKHgY2rSnK3nPbE2Bo8T-FQyN5TUqaW8ed98oO6vbd5ykiYlWX49iCqwiSVri7_o7NAySWBHS_pvAcuitos562ubbPv9JtgkEhDhKLdmK6_Z0LkU_eJm3JHXGhTX6HvW1CTAX6UbiK-CpWO0mUW8vw",
+          "width": 3456
+        },
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116548442370056922045\">Ward Dawson</a>"
+          ],
+          "photo_reference": "CmRaAAAAEmTCmoZwM2Sdq2FJM3HH1gO4kUS2Ydemzu7_uvZv_J-L4aAIDJIlFwaHQ0QpRHgDpLmP-Go4lIrEn8ZHciX3NMXBWQNEnKfi72S3nARrmDQj3xcTGLsrWFTvonzaoKJ5EhDSdxz5wXe0CZh_bFd354OGGhTGlyNXQpOqWEyF3oFb_Jhiwy8IWA",
+          "width": 4656
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117653337762917832363\">Laura Edgington</a>"
+          ],
+          "photo_reference": "CmRaAAAAZYsQfsDEICNZD74PxemLAfPlmR-sGSZoWmgsNkGTJu7g4Ne3-2FVA6_f2rLPKqCPTZOpo8QJqioEyyBRZ3VkZC0Cj1BVSmmqLFnzrDs0ogEXEb9kmaLenN78j7dScfhLEhAchQwKBksBJ7IN9HRVcHPFGhQ2V1uQPuq6LnHkzc4yNdNzTtPQbw",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104624634530022638862\">Daniele Di iorio</a>"
+          ],
+          "photo_reference": "CmRaAAAAD3LKmPqpxvgnUUuq6Ny3-wHm6AIeD4WAobq03Tm0AGXwYoO7zjX05JNKrUA4lnuC9Q7UVNVHhoyTM4sCnVhzLBBxVfLKCWPDQQ4E4nUmSyC2KSzaS2UlsegcZhSNjpt4EhCi3ZuGFeMw3BP_eT4sOpD0GhQccBCOTBIyWvZ2n31Mr9Y_eOrBZg",
+          "width": 3264
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103484455987298865846\">Lise Halvorsen</a>"
+          ],
+          "photo_reference": "CmRaAAAAyWnyuoaOLLOqZSosfJzgozqDeslCSDdACIfs2Myl9yejA4LesJo9iPnj87499ijokwj7Qdfrd1VI2VRW3pltvsYUqsbv5VkrJCqaWOXg9UD37i2xbCapiHdC-a8BVKUUEhApbbX53PoW0MkL2CdopvaHGhRoCuRlhRT5W7Wnp-qNrnEJNSKr6A",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106976272806823151392\">Tiare Schiffer</a>"
+          ],
+          "photo_reference": "CmRaAAAArKg716itBVKPNonjdMoZPYfxdNanVFq5N0j4GmR-yvspdZnnLUQ_6fNDeGbtpAhKKA9ZrVl5ebgH55AGk-bfVAO6wAsgWxGVadLPwiI2dVcWAjIyK2-o_KUJP6CAM5dLEhA8IXElgWHX55g69XS8gwbPGhSlZhtZMLdeTyOx3z5O8jdCmExmuw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.013188969030390116,
+        0.06066332975940767,
+        0.02886427365783201,
+        0.16293866252162054,
+        0.06998972607860199,
+        0.14832569338056553,
+        0.12442162034040563,
+        0.03849383921633602,
+        0.09529540012442214,
+        0.04450654999859284,
+        0.06883646326974453,
+        0.03139770282067441
+      ],
+      "popularity": 0.5620308230584694,
+      "num_google_reviews": 633,
+      "top_cats": [
+        "art",
+        "music",
+        "instagram",
+        "shopping"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.9164413577754068,
+        -0.2743400011702427,
+        0.256033886445326,
+        1.4290715011618498,
+        -0.7257191767857084,
+        0.15050549713077035,
+        -1.060853772573913,
+        -0.10167880293997258,
+        -0.4206112171456796,
+        -0.21728725700495574,
+        0.2004484915252472,
+        -0.6518494092469401,
+        -0.13945498374323972,
+        -0.5829789130919671,
+        -0.5255309420255463,
+        -0.7260851607790753,
+        0.32437407943591806,
+        -0.9735080261500083,
+        0.6604141415519684,
+        -0.3924609919947389,
+        -0.11654587062937524,
+        -0.6340598434020577,
+        0.17598216236951678,
+        -0.5407529912264267,
+        -0.6271670128941519,
+        0.3141225766306627,
+        -0.9769222824407348,
+        -0.5425536943337501,
+        -0.7142254614597562,
+        -0.9256915431730612
+      ],
+      "global_mood_params": [
+        0.14894064058425047,
+        0.3036597746957675,
+        -0.6125191222719399,
+        0.5691486267846768,
+        0.25574960858364293,
+        -0.06803660808934349,
+        0.21042778587930153,
+        0.3549663003221309,
+        -0.3507552545504355,
+        0.030563852112765456,
+        -0.5275546782895918,
+        0.29807256914056984
+      ]
+    },
+    {
+      "name": "Parque Central",
+      "orig_name": "Parque Central",
+      "place_id": "ChIJRTRBgLp5zYgRFhSBF4gfm20",
+      "cat_params": [
+        0.1677911408741739,
+        0.09969141027063343,
+        0.20698332068929126,
+        0.23740538747999784,
+        0.4103264667485546,
+        0.09068789832184906,
+        0.393321441501834,
+        0.25985977778905567,
+        0.20618777165194035,
+        0.26602659049631733,
+        0.05604678503950167,
+        0.1868883623814897,
+        0.2591362155076383,
+        0.2555296067932144,
+        0.21674568766479232,
+        0.2490429807329237,
+        0.5861677676721214,
+        0.34301072322491916,
+        0.1248987433033045,
+        0.09067482674469197,
+        0.6386409736544624,
+        0.27931826965307444,
+        0.1905328052599479,
+        0.1837587893090658,
+        0.010696725487807049,
+        0.3691350049488556,
+        0.2889933230207571,
+        0.49064592627736386,
+        0.38236992047620405,
+        0.42619946532093467
+      ],
+      "noncat_params": [],
+      "quote": "City-center park with palm trees, fountains, paths & benches surrounding a statue of Jos\u00e9 Mart\u00ed.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1373904,
+        "lng": -82.35857430000002
+      },
+      "address": "267 Agramonte, La Habana, Cuba",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112311314001052406536\">jose jonathan ramirez valdovinos</a>"
+          ],
+          "photo_reference": "CmRaAAAArCSP4yALPBJ4Y5imUiieHmvgplSRaJjbUQeZbdYBeE0RvUYiJUZGV966WVMC253RlYd_t9FGErSHR6UaGJ-9rg9MItdRr-sn5CGGBDfVK8hm7E6QA2Dvg3HUU2PoH1RREhAaEUEFhbWC2VM1ypuYUgDSGhRUxe3t1Ctfe_46vJ_D4Ul92LCETQ",
+          "width": 4096
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116136664705421581162\">Gunasegeran Sellappan</a>"
+          ],
+          "photo_reference": "CmRaAAAAX4295bhk7JggMWZ5LC2H35w_0F9s8CQMwAhkpaAS4JrLtgpZis5MCr5f1jnOWqYsFLJ72EhBUbhJkAfGsXnW5WaQC2aoGkNkHcuseqXhInSY3n4fyQs6YumWu33Y8v2sEhB257YLEH_B2v-tolh_47YMGhQI3mwYf_VfOvyNMbeGnJzjymkHyg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117734878921801986410\">Andr\u00e9s Sandoval</a>"
+          ],
+          "photo_reference": "CmRaAAAAD88E9fRCXpDOJ8lAg4bsN1DkxbkSYvDGHzVBu937oJYGTGkY_fL7zDwxwXSOyZnaWxpzWnI73U3RgoeIskmU2shyMcpcboNm7fkztsVZ_QeGZTEC25NVbK-0ZZaV5obKEhC8q6qgwlq0G2k1PMEruKrgGhQ0RddrmaEKqbnIVOCovWJ-5cyUcg",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106206360734404365862\">Leonardo Maldonado</a>"
+          ],
+          "photo_reference": "CmRaAAAA8R5DHqfBC56BGLfuYBvCYXK_78o6-Dufn73D0ynqbkZh8pJjKGhD5cALVWEAQTsdmuI3Fsd564IFWs2QSYqhKQGIOsur_QtcR1BRsGmhrPED8GykVAve-H2v3SM5oQWGEhCV2nhWB78FyoBQHaExnhYHGhQpkDRGZU-mW1nrX1Sq2Xz35Yrovg",
+          "width": 4000
+        },
+        {
+          "height": 4912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107272162929760114893\">Geir Kvalheim</a>"
+          ],
+          "photo_reference": "CmRaAAAAGGD9WmUKMIU7oZMho2EqOYXO0YCiCA9rMRROKymkMDuSg_m4wpcXdmYAmj67zK7KXMoWh4J9R8cUYsW3stOSrK2jhcd579Svw_eilRiBsQ4tMz2qoZmcyqeCppmuFfBCEhAQnNygpx6HK25JaTxFDSeMGhR-YCniIbqmL2SzDDqsBfFQsJaqlw",
+          "width": 7360
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109104783065350429799\">nadiya yemelyanova</a>"
+          ],
+          "photo_reference": "CmRaAAAAoS9-HJN4yGF-W5qsS0xZE1RutY_Wctwhs7mzQl6XEPlb6qB_dfeui-uvfecEFUoViKJmGm81FiRAMRmzUDPYKoiyHGMl2DoNQ1INYcsygZlmKMt_7EXf13S6NctR1eKVEhBUqP1ojOHhE1CLgyI7PDMnGhQdzHgFyIKmwUXJbXjn5-MtpvkszQ",
+          "width": 5333
+        },
+        {
+          "height": 3318,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102786805500398360163\">Chris Parry</a>"
+          ],
+          "photo_reference": "CmRaAAAA7j9lFM28xNmQ2VUFPJJfhwUMtRUqZzNLRUns0ndRdwFLeOWv5xkqCPaO-NANXKnf0-VPE6ao5N8qbJqF8HK5v2OS2qYTGkdcLbiM53-vsxl9zoAHEfSIN2mAAJE8Rm-PEhDCj3FEyNqi0v81NagF6jyQGhRPeXXuXY3vrWAfCrztAptsfPDNzA",
+          "width": 4977
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112197133585208662038\">Jos\u00e9 Azevedo</a>"
+          ],
+          "photo_reference": "CmRaAAAAauLMxnto29NmOvM3wlXtBt8H9qOzabUFKaJH8P3ehqIMiEZ1vzcA1Yi0kRXXBoqx5-8qS0f7hs7DGCE8G7Am9wSt3-zj_nlqnyNjJCJexRBv9oRR1rSuYjAboMxxezN5EhAK5KaD_VzMvcDlvGU7gtyQGhTqPUkJ7310SsXfdCDdtt7a8X_WDg",
+          "width": 4608
+        },
+        {
+          "height": 2922,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104767381839450653246\">Truong Dinh</a>"
+          ],
+          "photo_reference": "CmRaAAAA2P4mj1j4SIioPKBMfYYNE1JimQxxJhiU6fz4YPgLdIdpXfQBLFzYIJ_NIad28WD2HFSAfgsTOOorM_Bi7I9zdEUuogcFWu46QtwEj7Z4BC2DoLoojWgjg40LqLU879vREhB2ziwsggF7-nVEXKhPnfgNGhQifrcm1z_eE7etfzkXRJ22x-9vSw",
+          "width": 3898
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111138661654656270117\">Paolo De Santis</a>"
+          ],
+          "photo_reference": "CmRaAAAAE4LxSP-FaqJZySVfkkNZ4HfMNkqCsCTu84Bkd09QOPCRC7FjWULFjDyKmwOS_rOyDYL9IvQGbg3yta4Els4hR47b1dAglIUtQt6vEY3zBn-YCKZZ_-gcANBMRPQTzH98EhBWZZTi8JLL6JDSnQQ48cP2GhS5Scdx1xslss-KZgw96P8ju1iF2A",
+          "width": 3968
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.0024456201387985112,
+        0.030403942420463837,
+        0.14262634252159068,
+        0.16333642611947594,
+        0.14034029190766123,
+        0.2121703654667231,
+        0.09217327690349966,
+        0.02127775285528847,
+        0.2264278291187905,
+        0.02764095788496962,
+        0.0654244185573539,
+        0.028467511959628263
+      ],
+      "popularity": 0.8152953791175531,
+      "num_google_reviews": 2803,
+      "top_cats": [
+        "hospitality",
+        "water",
+        "beach",
+        "instagram"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.07976220421853572,
+        -0.15021506494755035,
+        -0.17346574050283306,
+        0.04382440364884996,
+        0.650552444757969,
+        -0.7262790166934904,
+        -0.05286411158359105,
+        0.5410788288218765,
+        -0.006376028425028666,
+        -0.5882954429157886,
+        -0.6232419675663324,
+        0.4367818801248711,
+        0.06066799268688227,
+        0.36591546049729345,
+        -0.7980467176496686,
+        0.9213065714076694,
+        0.6349708723001238,
+        0.5134582184856369,
+        -0.5220214742700898,
+        -0.8962196323824152,
+        0.49289125582056986,
+        0.2349021183639654,
+        -0.749885526677105,
+        0.14500592267279075,
+        -0.4854316461206402,
+        0.10821563790090202,
+        -0.011170369105739666,
+        0.45612715175955204,
+        0.5020161159836252,
+        0.6633311972389849
+      ],
+      "global_mood_params": [
+        -0.573891946515567,
+        -0.6028816972354448,
+        1.4357245369259295,
+        0.5752807318783774,
+        1.799750725661544,
+        0.7348112286674281,
+        -0.3998593083777503,
+        -0.3315377181438408,
+        1.3839543112553792,
+        -0.6248866305840292,
+        -0.6065100850256332,
+        0.11894158289824604
+      ]
+    },
+    {
+      "name": "Revolution Museum",
+      "orig_name": "Revolution Museum",
+      "place_id": "ChIJcfBLoLF5zYgRRUzM_4bkVs0",
+      "cat_params": [
+        0.05791475180896378,
+        0.055179398688105584,
+        0.2558249580669644,
+        0.2726472537649911,
+        0.11288024257213658,
+        0.20640770499960212,
+        0.3465058550698141,
+        0.26178602355616365,
+        0.1747936934055665,
+        0.2511725234506435,
+        0.06161061851860178,
+        0.05996849238834379,
+        0.1775770264005951,
+        0.06633028888518928,
+        0.38247835045085793,
+        0.08016645759993646,
+        0.37711982594818527,
+        0.3406493281878934,
+        0.08506366405386298,
+        0.12598112733649933,
+        0.331061922205988,
+        0.12338719181943833,
+        0.2607611933131191,
+        0.11193575897601653,
+        0.05509360006980674,
+        0.22380766105396585,
+        0.19067957062993277,
+        0.3115280397132414,
+        0.12906744079650703,
+        0.14226528228892524
+      ],
+      "noncat_params": [],
+      "quote": "Housed in a former palace, this museum includes historical exhibits & Fidel Castro's famous yacht.",
+      "phone": "(07) 8601524",
+      "int_phone": "+53 7 8601524",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.141635,
+        "lng": -82.35662549999999
+      },
+      "address": "Refugio Street 1, between Monserrate and Zulueta, Avenida B\u00e9lgica, La Habana 10600, Cuba",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103789962428345887870\">Sergio Lingg</a>"
+          ],
+          "photo_reference": "CmRaAAAABZwZMmLtdCHTXkbJ-P1OG4QqYPY5mvqnftzH8I32nfXi5-VNmml30wP54J7zw672NFpDgcTEyMG4c50QVuO-PzQcZtKQKV3Qeaysx3ZslKTZ_vFoOeo2L_uE28jckkP5EhAKPbgnwQzikG6VfkeX7ht2GhQkD6sxuWc5AfY8M_xJ6IZmKhZm1w",
+          "width": 4208
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101671743617852438493\">Adriana Ramirez</a>"
+          ],
+          "photo_reference": "CmRaAAAAyyS-hkNZV7H4JLdiBrm-CEYBmrqGIaIQLrqXfACyZ5VQAsZtqoKZ_0T0V2urSQ-F_-JgTg39_7uM96sGEOYGW2zG5LXC9xM-Vl94HEsbaM0Zv5YDLTLLtroPY_6sFwuzEhBWqSMFtGGxvV9XhVscbb2UGhQKWVmrpEusn5qjK6GDL7ch0eh1hA",
+          "width": 4032
+        },
+        {
+          "height": 1357,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107706436465800563166\">Frankie Low</a>"
+          ],
+          "photo_reference": "CmRaAAAAVGGYZ7ZFXXHWMS-xzZPc2QwmE4I74D_j-NTk2qyDKyLR3R7G7Lrd9O90zM8KQ3lufRb5BJxZQWjYpPxneTz9Q60bLTpJP0l6qtzJJiWjidhIzbUdtpKtszyrGbF5XRD3EhBsLRzrGfG0VBIfATm9NxpwGhTA94DTAELFxBkIe5VZvZdnWzm57Q",
+          "width": 2048
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101987488163199291964\">Maurizio Rota</a>"
+          ],
+          "photo_reference": "CmRaAAAA16fJp07p0qDJtcBq_vodpozikEPy2FZOBIxTOWWnC7XpAQbJKKcIVneF0yzZoQziWsRozVy4NW7gKDluy1jnLwoUul9McjoDm-95nDFLC50cyG8LAXkX9TpO5JGbBzt-EhCzQgn2GQdNXn9LSdKOQzhaGhTVqphUoJliwJVV24WCXe_6g0i7YA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111809172616605972212\">Aline F.</a>"
+          ],
+          "photo_reference": "CmRaAAAAxG4X57SnAErStJcPyoSToYGYL9J1R3m6jwQkQEzgts10OdlfXMXNbsDcJ_AG333-N6IbmUp0J6b2HqIRluVwf7dTtQmTRw4J6ko1zhGCpgyuREL9vZPpDrlWPsbxP-q2EhCpeUSK0tG5rSIQuT2Ns_RnGhSvBycV48_XTpwds5HVG2Pyi-hf7Q",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100276414442000807779\">Adlan Belkada</a>"
+          ],
+          "photo_reference": "CmRaAAAAgy8uVzRjBpHIja7uvcTkF1WJpO0v2Z8capAc3QTqRSF1dAYxJf48NalcD4zkbWE5WsDlGQAo1qFG5NY07E3xk3QsN-YTIsqvkgUP4OVb5z1BQ6O68zKBcpMuoC7wVxSNEhB6VfgkxpspP5mktwI7eF5gGhQ385CwBG1Y4s3VRrRiASImddXwaA",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113877139455329797132\">Quentin Leroy</a>"
+          ],
+          "photo_reference": "CmRaAAAAxUBG8jJIrX74pvrov-HZEcmovqCkwHJnlCm30j2tTjQPYnqtZJAkn__ggLELVX2GTnzWNI1Um9vf8yQwGMuGnhpSiWoLbxOUZJXjohwMwHpmCybGOJ9l5N4vdkt7OwnMEhBKpLKnIjbXnIn9GaHCpZiPGhQyguwC3geIuw3GvWWoqDJQZawuZw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114098521391170580245\">Jaime Robles</a>"
+          ],
+          "photo_reference": "CmRaAAAAq8Qm204hG_6e2q8vpaOluN56_58pDdQPD4DSi36GosHkTlXY-BS_caSUUGncmM5ITP31JdvBo5TCcoZt2L1wxQbqflDF8UjT1dRmylAcG1WuLYCThMi5JzbcZnPI9G_CEhBc8v3LueHg3v4pSbeumTE5GhR6LSPRDJvFr96d0zD-B9QuBoUjBg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116239069733030635943\">Eleonora Vendetta</a>"
+          ],
+          "photo_reference": "CmRaAAAAX3o3nFEHiDwveIyUqInNF_IlMxb3D30qd3hxRSngH7_Xzf5Vn4fHRT-7wFADpfFiJ4VO0UiU9liMRkqRkJIcABouJ9f4FiXV1DUOMUn_BSh-9GhQ27m_dLHf2V6VyPaGEhD04wFYTDVD6CdvyMJJe5LJGhRoFdQBSh3V-jnJaRj-Ta46h9PrUw",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107396509310851343859\">Marco Laganara</a>"
+          ],
+          "photo_reference": "CmRaAAAA2_O6mgg0LAHvUCpA9Wawq-_WUSvj9DOpAXZqtFgPkS5-lqwsGpAh6NIjA5jMxoZo7ZymM9bbw830QAxNcW3EujKwyY2iigJoDI8t22FDfzn3ZAu92dVqFDFmWyRrjw7gEhBvXt-ynV2CTH_9R5LkCLioGhRaYTB8qihov4zkGuxZ84ouQtCpMA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.2,
+      "website": "https://www.museodelarevolucion.org/",
+      "mood_params": [
+        0.004244550600710275,
+        0.05887532828358782,
+        0.019627404673723724,
+        0.1486841294385734,
+        0.028273279346288625,
+        0.10462703581714833,
+        0.09079060728165365,
+        0.042969555926236205,
+        0.05196195394957159,
+        0.05965303406817781,
+        0.11334596319165965,
+        0.021535317968859647
+      ],
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "top_cats": [
+        "history",
+        "books",
+        "science",
+        "culture"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.2534152199933053,
+        -0.6824325759195244,
+        0.30632465556964145,
+        0.29567056357594157,
+        -1.184198537070336,
+        0.817500634409326,
+        -0.5510678483266144,
+        0.5624713466998688,
+        -0.4709778503605071,
+        -0.7462333746276413,
+        -0.5088134753775393,
+        -0.7686000423159942,
+        -0.8206761635326784,
+        -1.0243264548344497,
+        1.0041320387643458,
+        -1.0565562193406361,
+        -0.49933207099970567,
+        0.48875892102982754,
+        -1.0304995710078646,
+        -0.19271068856160184,
+        -1.0071743031075657,
+        -1.288429999940917,
+        0.04192741137758555,
+        -0.5249904123467042,
+        0.7928573487888255,
+        -0.9697395420992152,
+        -0.9323617757681559,
+        -0.7074922216392595,
+        -1.0270262716014962,
+        -1.2890381330000351
+      ],
+      "global_mood_params": [
+        -0.45285654378243384,
+        0.25009300972631243,
+        -0.7788255064341255,
+        0.34939424152126386,
+        -0.6598114760523968,
+        -0.6175479697675721,
+        -0.42602578193583696,
+        0.5334387732422085,
+        -0.9239997538349941,
+        0.6192043355114835,
+        0.5024041781083818,
+        -0.304843353058503
+      ]
+    },
+    {
+      "name": "Revolution Plaza Havana",
+      "orig_name": "Revolution Plaza Havana",
+      "place_id": "ChIJPbOcpOF5zYgRuHpWL3RbAzU",
+      "cat_params": [
+        0.0898960779092508,
+        0.06088550003553489,
+        0.21511610213938478,
+        0.21891769898283103,
+        0.1568774242502222,
+        0.16130674483083118,
+        0.3977071259228201,
+        0.2492575635012645,
+        0.25920588293336305,
+        0.2629350060578571,
+        0.05636280561196135,
+        0.06805571302033109,
+        0.20689492182538588,
+        0.1279582746478522,
+        0.3366787808323502,
+        0.08366291444009549,
+        0.4490432582368249,
+        0.32832435876615484,
+        0.13219030552733194,
+        0.12754546809740966,
+        0.4136928891875499,
+        0.20062772412506988,
+        0.24896260987805216,
+        0.1444990497556549,
+        0.057974718424430714,
+        0.3003921703195046,
+        0.2364144796849277,
+        0.37734404403993366,
+        0.19018773536016909,
+        0.20631167470288894
+      ],
+      "noncat_params": [],
+      "quote": "Vast plaza & site of many presidential addresses, featuring monuments to Cuban revolutionary heroes.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1242594,
+        "lng": -82.3858743
+      },
+      "address": "Avenida Paseo, La Habana, Cuba",
+      "photos": [
+        {
+          "height": 1357,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105692967646864441857\">Giovanni Crespi</a>"
+          ],
+          "photo_reference": "CmRaAAAAxd_VBK1OkZsA7TiGhFvDzhmjmIVCwR-9be_Y6EhoIujft4PtulmOgDpW7RfOxsPPFvSQ-iyf8Ehs0miHo_BJz6UNF-YNgbyalc2ZoTFzRCYBffrj-wDREWLhQoAED3IcEhBcFxaSMbskspTK9XOLV3WGGhTHI9saKbGVlsJtTsl6xCuFqMy0hQ",
+          "width": 2048
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108471492646157934134\">Pedro Dias</a>"
+          ],
+          "photo_reference": "CmRaAAAApqP8mnuMXzR-yJbQChHSLr7YEQ9-0UJW1LZZrPh3tExkS50RPqz9pfSsObXxpHZ493FxTv_YOus2fgkBtQbm4FMMJSHan93sQBZZnBVIr67DN25ihKUG00lfhAwicRQaEhAnfOdEkury3uR7rbVy2LiaGhRK9hFE7dMhsSau53Kghrv0SGVxZg",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117471655194343968504\">Jhonny Silva</a>"
+          ],
+          "photo_reference": "CmRaAAAAglSJWsejI2WJPAQGimJNgZj_ZVTn2c4kom9yyBappR9Bub0ATfATdeFPlWnsxR2q36n-hkzQRFzasFDGijmiEOlxuBPF00cLrYx8FMvS_FCHRQqlI5uQmIdOw6Vo3Os5EhBF-VumzM2fhi7p8aTOTPhzGhSKAuXFwNKY4vaYWMVMKXgevjSX7w",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100085376904946052653\">Leonardo Rodriguez</a>"
+          ],
+          "photo_reference": "CmRaAAAAIlUhxGQe_T5FxvJBOm3xxGJ4jXRFfJCnKm4aPo0p-zTrCFy00UQuHHaL1lsQ9zOMGmkdmLrHlfY-cV8DnweugiO5krBbs_BZjd2CK9W3ipq_wVtzGBgzc9t2gntPnTRnEhC0Az9ia6UX8GRZw2P78qZHGhS-C01_sdqWjx_tdwCxr2QTg5kPuQ",
+          "width": 3024
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115324079253798771507\">Phone Yuval</a>"
+          ],
+          "photo_reference": "CmRaAAAArNUbW-YtI-SHveOR6tCGvEDFW4eyr3aVb3DNnJ8upljFaIJUMk0FWhWH-njj_mFiI3BVU4KsAy4MdqKrldZMLisYT_ik-UAkea2s8V6qvJ7JGl-JYYQmVNBNPxLzLuZTEhAPVN6Y1cRdRszntlXlEWHCGhToG6kixTFElUr8lDnh_RDsLd2n-Q",
+          "width": 4096
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109302873400907068163\">Neville Zammit</a>"
+          ],
+          "photo_reference": "CmRaAAAAo682RbU69pFA18YTW0w1rKfeonrs1fCIIiCycbiTzzZxXl7SboYky-X632GDXFQRZTxPTckBXzwJzVFkZWkyWcr9mlmqNHKUKtc9hkQNxcPWnxQqLeOggvsftEh-myd2EhAXvBucFZnJgaodPPg9byy3GhQBW8MqorAVBwhO89LE2fIhdzgSMQ",
+          "width": 4608
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110335970547903020417\">Juan Jo Rubio</a>"
+          ],
+          "photo_reference": "CmRaAAAA3iDX5f9IcvbReYmxQamR_cP8SiVOd2N5wsAkiHTYJuS34sp-y86c2-etx8nE6tkkrKeRG-EwEDrRZNfH_U8r_FcFGKgK2cnj-Q-fBq6u_ElZtAvNyn5LO3rvqEJkjc0-EhBUSlc3V1kOD17NSTLQVfghGhRrZRRbU2_LBKpNtK2hU6z0CXuZWA",
+          "width": 3456
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100172173827058383451\">Rute Madureira</a>"
+          ],
+          "photo_reference": "CmRaAAAA82TOVZRqjUy1jPN5xi21NcMvnjBUVinlV4Irg5xbM1dtWqbzMOnP6bX7C7eBoGSRj49zusFhLXmyM0Q1OJPJsdfLltn_ATWyrqgdV-XS40Jn6JDP-FoFERazM8y80uQQEhB-BPY8cir203OBQ_YWdNTEGhQvZwOCteJUvONcvYuwCVCJ7Z9s0g",
+          "width": 2448
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112709168565776644189\">David Bett</a>"
+          ],
+          "photo_reference": "CmRaAAAAU3RV-QiE4dsA6mDodKRepSVu2d59-F9mue3BgsDAKFTzVYsYAQmK6Am6_lzGBH9V11NBcqHmwjPuow_LvYaqwejTB81B5HoSUndqiYorVfzcbXI-uSun2KHmZOKlWVrDEhC3Etm4uoVkXLCG1pG5HqR1GhQlnk86rnPKTJUH2qRvPQlFPChgQA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117074859078335158502\">Karolina Nupe</a>"
+          ],
+          "photo_reference": "CmRaAAAAdiGbm1-3EFH1RmmocanALuTFiThIqaKJKCdULcrAh6EvPI7YuXBbNTd2TfLIgWPniBKaCTTRYNAQM23-tpo3Hq5lCddvqkRApvSg8yQcX14na3Oe2t6YS2qDxm8G91ahEhC2CO_ejTWU51_fA_qDkB1wGhS0nmENM211-HbmAmPor6OEWF2vfw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "mood_params": [
+        0.0040617331542897725,
+        0.037733451291982315,
+        0.020859153372596993,
+        0.08923535117303039,
+        0.025860526686889512,
+        0.1067133556433276,
+        0.10274350383913691,
+        0.02360604902699375,
+        0.05578971609184952,
+        0.043812886202265075,
+        0.0760827916271643,
+        0.02680422641363935
+      ],
+      "popularity": 1.0,
+      "num_google_reviews": 6344,
+      "top_cats": [
+        "science",
+        "engineering",
+        "history",
+        "culture"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.86537205334032,
+        -0.6142063388092989,
+        -0.09357426587968766,
+        -0.08829270150918109,
+        -0.9128087337367834,
+        0.2158236479653736,
+        -0.00619238250285691,
+        0.4233326603054877,
+        0.7782404493583909,
+        -0.6211671440075897,
+        -0.6167425355213156,
+        -0.6917941839967672,
+        -0.5038613927116656,
+        -0.5714822801721912,
+        0.5061070264834292,
+        -1.0156061112065287,
+        -0.10907249578242621,
+        0.3598444102816821,
+        -0.4289477374588217,
+        -0.16153982959204877,
+        -0.6041823987946892,
+        -0.5338467229519012,
+        -0.09109957775863872,
+        -0.22122593210459698,
+        0.8758114287870759,
+        -0.40167942169776194,
+        -0.5038296103141543,
+        -0.2799258898602023,
+        -0.6580779642351294,
+        -0.8486465925162353
+      ],
+      "global_mood_params": [
+        -0.46515684316734346,
+        -0.38329682307747526,
+        -0.7566483300923885,
+        -0.5670952461591476,
+        -0.7127647502363853,
+        -0.5913124624887438,
+        -0.19982196088395293,
+        -0.23869520768391086,
+        -0.8733634950944195,
+        0.0036058735805400773,
+        -0.35987317027027765,
+        0.017260158586785816
+      ]
+    },
+    {
+      "name": "La Caba\u00f1a",
+      "orig_name": "La Caba\u00f1a",
+      "place_id": "ChIJzW_2bat5zYgRGQwbG9OXGrg",
+      "cat_params": [
+        0.10202377127635208,
+        0.04412107117433132,
+        0.14771612980568136,
+        0.16227953148499655,
+        0.22284460793447733,
+        0.09701725361361355,
+        0.35154137764969157,
+        0.16296525108619972,
+        0.16965060249851302,
+        0.22815515956828483,
+        0.05094779986545782,
+        0.10270755347144447,
+        0.19703375609931428,
+        0.13358881859595698,
+        0.2684456682778927,
+        0.105210648668383,
+        0.3824540651836629,
+        0.34276343643522944,
+        0.1393134979469578,
+        0.10169989098651129,
+        0.37314609014998085,
+        0.22365969365913652,
+        0.19362358661713217,
+        0.1306506353911431,
+        0.019573943073644674,
+        0.31033880205805786,
+        0.22333421445381618,
+        0.35224261817686014,
+        0.21845834672625783,
+        0.2640649776563798
+      ],
+      "noncat_params": [],
+      "quote": "18th-century fortress complex featuring museums, cultural events & a nightly canon-firing ceremony.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1471244,
+        "lng": -82.349597
+      },
+      "address": "Havana, Cuba",
+      "photos": [
+        {
+          "height": 851,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106648584550855458578\">Roger Rosendahl</a>"
+          ],
+          "photo_reference": "CmRaAAAANeXu1h2aqIw_9PECgLJqkyz2668icVd5z0rQFLFY69wIlI2-1Z0r-gfwxolETVtQ8HdvJ2GlX_fWBCUBR-qMw-WAJ93g-3KFQTiRKu4lzoY4YvEl8KFX8wG6rRQCFBZDEhCXh1RdVOsFm8HkDUhHLCVKGhS8WIh2B5Sb20zGX71KuJFBGQgJuQ",
+          "width": 1135
+        },
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109764981504229420644\">Elisabetta Di Reda</a>"
+          ],
+          "photo_reference": "CmRaAAAA5ahQb718wzK_EL4ynRnryhmngUxq-XTD0c8lZC6oOcMB0CIcgH6wkGY5ImF0vZlLJsBUxea72fDJ4oaWDV4PNZV8R4_pLkhIopOIM64-LxohMLoNFQA2wGXLsZkr7-X7EhBK-wDfBlFzhfgGkAOAv5_1GhRsqqkldo8PkokhXGKcgLS69x5Nkw",
+          "width": 4000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100054373352482705380\">Jessica Schmidt</a>"
+          ],
+          "photo_reference": "CmRaAAAAReyhtXl7vcox2UZvmYG1b3S7EPFKpRrbZ5TvSdfh5zNcHQDZnqsQx0JmZzaH48G6cdMC1C6s_RgPpDtVzImC2NTW3B296msAdV5L4Tf67VbSuj7QBiJkwl7caUDU39BQEhC1_6dzEMByMtkVYglTACXsGhQGepY7hSSkRLbtoJ7C6rphsuXBdw",
+          "width": 6000
+        },
+        {
+          "height": 3461,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104133042310881429237\">tom paul</a>"
+          ],
+          "photo_reference": "CmRaAAAA4PuWkk7XWTs3adAwI_7vPYyFHPQp1LowrFU8qK3Amj7QZdx3wsXno6JBHEE6Mex2ql3MykMF1y2qSYRnUzSZnRk3jC9sxdI4hOg0wwE7XZxUEGjO7_sXaqmHCA2tAOY8EhBpLUZ_ab1De9gdaaimp_8XGhSjP2cIZ58sexIGDiuqWwj4KS47sA",
+          "width": 4623
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108272252782519565678\">pierre berger</a>"
+          ],
+          "photo_reference": "CmRaAAAAjVN9oYWG9L3nJDIHonmYBa457r_60llSGvvhQFIuQzTGnXAL80PUD5bpOswTj_oAV5d1DvMB-rFxq6oLeLEYiJJOoeXumiUNevav2YTy9OvvCooFmW3IKdOhbme_mqcLEhBCJemeYWRMbdDv0XCNWenmGhRscregFM0snwkGL8ucFecGw5SRyg",
+          "width": 4608
+        },
+        {
+          "height": 3860,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109566760951045448089\">DAN GARNER</a>"
+          ],
+          "photo_reference": "CmRaAAAAdVrAApWwMiySyCRWGoE_wfH2gnIW8bvBGp40gyCiCCklmHJeYVg3l9zyDoOJzdt-QSDrMM9YUW4v58z4PxGcZyRDQDz1rH6b5k-kZHY3KRLokWTK4x1XsmqOs3qgaz38EhD_96AE_B1_ALe9aH-qa2DlGhQCcUFo7vRBhy7A6dEQnGXtQQS3DQ",
+          "width": 7030
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101617538028746046605\">Salvador carpio andreu</a>"
+          ],
+          "photo_reference": "CmRaAAAAFKk2USrPFmpy7XIzWzbHrC5eamRYEh6csgP1AX7Me-VnDGfCNOVVLOgkm_1QppZ80atjJgnHGrfmRg0gpdXzQxE7qQ7wLWtOcGNjDUAUsbJzKIeWX6uIPYnOvdZ5DpZCEhCcnAMW3XSUuJFcn664kCerGhS0a1Vmt_rg8GcO2MEiM33XUQzS2w",
+          "width": 2880
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110818329888985882922\">3DMX Design</a>"
+          ],
+          "photo_reference": "CmRaAAAA6sO8hsjW8JluyJkC_dw6e6CYf9abiPR_fLct-pQS9-xGlMW1sUahXAN0eN1NT_SCTq8McH31RwBZHkLKugom-duwuT0SDVj9H7SQAbSq4h9ewBKQcc5V9eb7Af53YvsAEhC_qA37lOJft9cg4DrblSzgGhTquyDWXlx8ckP28hne2VppVk_RwQ",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103225268643741136951\">Dan Shalev</a>"
+          ],
+          "photo_reference": "CmRaAAAA9TPBr0xN_Ngt5A99sYgClXqNbENe4K96-Bwm28xdjFkaL_cDndRV1cLIe3u3IoXroXbsJ3G7A26g-2cZUCI4XtZYImUxRyd52Unl5LXGubT9g4Ojd2CLVZj4tXO2OAAAEhCJ7fe-rAkiwmyV5t2HYV9PGhT2co7Gvq0Vj9AKB2u9cgh-qRedqA",
+          "width": 4032
+        },
+        {
+          "height": 3261,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111376248617223904119\">christiana ogundele</a>"
+          ],
+          "photo_reference": "CmRZAAAAy82B-JqURJhC1JrTE3i_lp5HgV0btcyQnigPkF2TSObHjiPzCAVY6_ZvgNlN25wftsh4OsEdzWvVq7cwxLTKKbqg5NlXYZjlMTYFkyt83QBj6N0viK7TtVotbVICimXaEhCyB6iCsJfbbJwk111omPwjGhRS26cFzcOpNhkr9HjFFpN_seduVQ",
+          "width": 4905
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.0033556389923147397,
+        0.03603876675582239,
+        0.032120009730272216,
+        0.08575420588573747,
+        0.035393822231096626,
+        0.10669341738727885,
+        0.09889181893436237,
+        0.019843095785146262,
+        0.06617375943297649,
+        0.024153029886355027,
+        0.06542220485342068,
+        0.012977014529160745
+      ],
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "top_cats": [
+        "military",
+        "science",
+        "history",
+        "nightlife"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.7182215404563609,
+        -0.814653864862665,
+        -0.7556704026493346,
+        -0.4930415554514306,
+        -0.5059003745257776,
+        -0.6418411820258628,
+        -0.49748064891404914,
+        -0.5350132930481779,
+        -0.547090593249298,
+        -0.9909686941775552,
+        -0.7281101645299156,
+        -0.3626991253480872,
+        -0.6104230307237739,
+        -0.530108884700554,
+        -0.23586057279651557,
+        -0.763241478370606,
+        -0.47038826406637546,
+        0.5108716923518598,
+        -0.3380231706580896,
+        -0.676535576836853,
+        -0.8019294705624387,
+        -0.3088412947428047,
+        -0.7150375010401812,
+        -0.35040993933778647,
+        -0.2298359616894255,
+        -0.32790099212788054,
+        -0.6263905708587719,
+        -0.4429945034670849,
+        -0.48742443112974393,
+        -0.4515271749021659
+      ],
+      "global_mood_params": [
+        -0.5126641777039656,
+        -0.4340679043508975,
+        -0.5539008074592613,
+        -0.6207621700888757,
+        -0.5035351755168951,
+        -0.5915631863974803,
+        -0.27271356826613147,
+        -0.38874571670509533,
+        -0.7359962591350464,
+        -0.760438591932421,
+        -0.6065613105836706,
+        -0.8280370317006509
+      ]
+    },
+    {
+      "name": "Necr\u00f3polis Crist\u00f3bal Col\u00f3n",
+      "orig_name": "Necr\u00f3polis Crist\u00f3bal Col\u00f3n",
+      "place_id": "ChIJu_5swFx3zYgR2CyFrwx2hd4",
+      "cat_params": [
+        0.07995742343694333,
+        0.07918359749688457,
+        0.18645132715864518,
+        0.18220594595519432,
+        0.16210551068999238,
+        0.1635631793899793,
+        0.37687912228180487,
+        0.21483476095080337,
+        0.17217381480073543,
+        0.3094977670391352,
+        0.052571481542325715,
+        0.049632113200585685,
+        0.22369027601780306,
+        0.12235031511852794,
+        0.35056184737421475,
+        0.08411500964742412,
+        0.4036242063992092,
+        0.2682325344437759,
+        0.13497963410188737,
+        0.13509880466526378,
+        0.39383747021295523,
+        0.16712635450868205,
+        0.23593924396089005,
+        0.13989273167459793,
+        0.023847061018987776,
+        0.2663504511277128,
+        0.21031430477566523,
+        0.33164208625171565,
+        0.172843047071091,
+        0.21626678375017458
+      ],
+      "noncat_params": [],
+      "quote": "Vast cemetery with around 1 million graves & ornately designed mausoleums & memorials.",
+      "phone": "(07) 8305515",
+      "int_phone": "+53 7 8305515",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1231116,
+        "lng": -82.3989555
+      },
+      "address": "Havana, Cuba",
+      "photos": [
+        {
+          "height": 3510,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108320000240216734690\">Kirk Heflin</a>"
+          ],
+          "photo_reference": "CmRaAAAAzdRHr1yOpJuxZjN1CFZ4ZyrRddAyrBoZ5y0xdg03WkvzHYdchDAJDwLfqLV07rRwxSuKTeq7kfd3M-cSygSfO7Y9a80ru3cWB26KfghCv9xx6Th6ZMYhlJHIbiw4kS9OEhCfRmS7jQzw-KWDU1uVCHR2GhTg_7VmPJmVDd2yZ-U1M5h9qbzP9Q",
+          "width": 5272
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104893274679460381283\">j p</a>"
+          ],
+          "photo_reference": "CmRaAAAAOKWCodJo1hnckgfER7zssuhSMKkufmqN_vHJg_wn9qWRyfLL-KcpKdVlF4ngEfehvTQWPRSkUHPEVski1bKmbnkXvCY4Bm4JjMcELrh3kODXDMmRdzb_-cHkffxVud_CEhB5IXGEoJDNEPsZspHPd44uGhRuNmb9SmPQfO4PoUrEnlCqJU6b_Q",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111013353807260919080\">Loic Lecler</a>"
+          ],
+          "photo_reference": "CmRaAAAAFLI7AKdjDwZ_Y-jm3nz7IY3-gPSyP0fGzy8lHcB1Nyura9GvSOMLZN080IOzaxjy1bpfuSaUn332RFDqWA2LSR-L9RwL6qXOeoasRs5sH3Qbb_-O8_uYbqeUVyY6POUGEhBb-UbHgy8PJnyW5haBaDacGhTIrybOAGx3jV1GTD8UNqOtok8I_Q",
+          "width": 5184
+        },
+        {
+          "height": 3275,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116379143636989712162\">Manuel Rodil</a>"
+          ],
+          "photo_reference": "CmRaAAAAIoEoIRiQ-AwiJNkbquDZvxNU3b88-BnMPL2KyU-O8mHxn_kIo_efbJf323kiZvHMt7Jg9Tr8s5T4iPP6nbgi23ckjkHx7jljwoLsNZkkBjaSWKVkPTn-4mSwaVE4PIfwEhBOnZ1kmhKc5JxYGDLda6rfGhSlHlxABPf4tqacI-mr0Gk0nr2_lQ",
+          "width": 4912
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109698644193776849899\">Ray del Sol</a>"
+          ],
+          "photo_reference": "CmRaAAAAfkBD-Me9n0RtkMlh3TDfsx_Hl1J1iGv_Mf_2nn0lU6fZ3sU2P9FFUl9MEc8Csdj4jV2GBokA0uOKfftAs4nbth481XfqBC6-DhZZ2YH_jqGtfM_jC4GqgDMHuXF3SSIzEhAkfKwuxIco4I7XxBFCtB33GhSQAdU9SvP81DXmRwoL--bt8dhemg",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103926883441466850582\">Carlos Rafael Garc\u00eda Escalona</a>"
+          ],
+          "photo_reference": "CmRaAAAA9ra43QpkYwwa38aIQMERbexOTM47gsJwZz1rozYPpnffPrXeEQPsG-TtSX4Lzl3ujrsb708bIVhfeOw5Pkh-WNtynCuawHsLT1tE5Ts_f9eme0AJanRiZ5OSjzLWv1cqEhCeOONxuMA8yEKe0hUJGKcwGhTwe39KzbJHhOzqYVW3heMltkTVkQ",
+          "width": 4608
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114987023955085937576\">Laura Rodriguez</a>"
+          ],
+          "photo_reference": "CmRaAAAAmoLu2_X52Oy7iNmJnGOatgPPdxAN3VOZyeCV6gmuArW-wE4tWW3PzSzvBpdjmjdmlHG1P5-NtYUaEv0TKpQYwpI-q156gLE_FSuEKMZk6Yj133uBkylZQUG7t0r4KAnFEhB3zFyiCQPmwt28Wa0qriOVGhTqg6lBMFDHk6v3cXEh8o0MmcLqnA",
+          "width": 6000
+        },
+        {
+          "height": 2585,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109069082958887030476\">Sylvain Paris</a>"
+          ],
+          "photo_reference": "CmRaAAAAZaXeYKUeNbSpT3XsqsOmGmxajAqgmsSQyyk-XwKT361IM8gj8gdzgZqrSUfODoUdj7-tLZhgne4G52VSfJjb6IJenenf8jNiOO_Vqegl2Izd5t4naH-IYdKdfnMy7lwLEhBdWsaTRGWFqozZRkeoPDhFGhQWAUL1lZMnMaxxeCtsvMMCZBFjGA",
+          "width": 4605
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116239069733030635943\">Eleonora Vendetta</a>"
+          ],
+          "photo_reference": "CmRaAAAAoBr8hMhLcgtwW1qbKTL5pXzcRSw81wGPDM7HdVbXugR97FfZXbRaIzTOOouo3XprOQNSB37OXexBB2AV7ICLj5k32RJiQe8I4M8pqUq83IWebmR41tAZoQWR17W-62AcEhB-JK3nDLC3MVFqQI8PNIQqGhSKs7doB-vnCVMGYtXtPa6NNNatjA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116239069733030635943\">Eleonora Vendetta</a>"
+          ],
+          "photo_reference": "CmRaAAAAXSJD0pookv6gUgHfL_ZxRb7TuAGU-viSB5WcrVxlP7-8wQIV-zaqrpCu30iqt-kIlwYNJT3xiFZ8j0Ii9GS7XdybGw9G1sFGLLwLAwtnpawhmvry7QbeBlQG9xtlqFibEhBedAMqpB1g-GHbyBOL0yixGhRXsny3jSvZqmip0Vaht5oCDTlH-Q",
+          "width": 3024
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "mood_params": [
+        0.003962341546673752,
+        0.04525913062051526,
+        0.043252116972082755,
+        0.14911207286892966,
+        0.05700835040157418,
+        0.10953058221389125,
+        0.10628870555260163,
+        0.027241521753658914,
+        0.07776548832291981,
+        0.04970951673612766,
+        0.08452282620517375,
+        0.019107786017365527
+      ],
+      "popularity": 0.4255249605899013,
+      "num_google_reviews": 208,
+      "top_cats": [
+        "history",
+        "books",
+        "culture",
+        "movies"
+      ],
+      "duration": 1.375,
+      "global_cat_params": [
+        -0.9859620170463413,
+        -0.3954211718359695,
+        -0.37515949683724603,
+        -0.35064299673571697,
+        -0.8805600919696506,
+        0.24592599480180072,
+        -0.22784055640576714,
+        0.041039584548631505,
+        -0.5097495054319499,
+        -0.12608211836686842,
+        -0.6947167413125451,
+        -0.8667665832767629,
+        -0.3223675913241003,
+        -0.6126897246987127,
+        0.6570716412734962,
+        -1.0103112231317264,
+        -0.35551818549569664,
+        -0.26869330591090185,
+        -0.39334312686209183,
+        -0.011032986844348712,
+        -0.7010174401332151,
+        -0.861130501483177,
+        -0.23793577770704122,
+        -0.2641956622584371,
+        -0.1068029848208946,
+        -0.6541814392495446,
+        -0.7483860050616563,
+        -0.5768235615820454,
+        -0.7627779404334966,
+        -0.7801939343137028
+      ],
+      "global_mood_params": [
+        -0.4718440962384345,
+        -0.15783487504291605,
+        -0.3534713646820216,
+        0.3559916126815512,
+        -0.029155826224668033,
+        -0.5558857904748528,
+        -0.13273042619788206,
+        -0.09372807731879476,
+        -0.582652931753565,
+        0.23276766663629456,
+        -0.16456905817788708,
+        -0.453245355940542
+      ]
+    },
+    {
+      "name": "La Catedral de la Virgen Mar\u00eda de la Concepci\u00f3n Inmaculada de La Habana",
+      "orig_name": "La Catedral de la Virgen Mar\u00eda de la Concepci\u00f3n Inmaculada de La Habana",
+      "place_id": "ChIJq-Puwa55zYgRv1a0LPbakBk",
+      "cat_params": [
+        0.08374395783088255,
+        0.05420763338797107,
+        0.25712529972041304,
+        0.2659663040632451,
+        0.270414854978895,
+        0.0813240037282213,
+        0.32335045977289123,
+        0.2530693717682525,
+        0.14718624647645576,
+        0.2537948950135364,
+        0.06926729132549056,
+        0.09951248294343601,
+        0.1867559504586864,
+        0.17862258433680298,
+        0.26046592217046444,
+        0.18174444219526142,
+        0.5566169226471686,
+        0.3047600446654393,
+        0.09785002013347954,
+        0.09601135537763406,
+        0.4713725239991018,
+        0.18443051626500842,
+        0.21169491531193335,
+        0.365381268051346,
+        0.01458209614843713,
+        0.3016569054195244,
+        0.20055931194367282,
+        0.41330634716169357,
+        0.27282908563232416,
+        0.30259590219458404
+      ],
+      "noncat_params": [],
+      "quote": "Imposing Catholic cathedral featuring a baroque, ornamental facade & 2 bell towers.",
+      "phone": "(07) 8617771",
+      "int_phone": "+53 7 8617771",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1413696,
+        "lng": -82.3519084
+      },
+      "address": "156 Empedrado, La Habana, Cuba",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100270395938602572440\">roberto cabezas</a>"
+          ],
+          "photo_reference": "CmRaAAAAanal91czPBkU8WcqH9wRkFgQzgSISwSRO_Cv6XqqhsGR_x9M0RxIUlafz1pqOrmejh6XtEeJcIt-Y6B6qdTx5xVQ49hy6xT-F4u-ryrMqQbSuAYssfFe2Omihko_rdGkEhDvEhxwvwQ8_4eoxlmljBKCGhQkBQI_o4x5OdwPoMPTKg9tl0n95A",
+          "width": 960
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114859192252387484137\">Massimo Mostosi</a>"
+          ],
+          "photo_reference": "CmRaAAAACDv2i8g9XeRUByxYaO0bs-IbTpf7XcZ9vZ_bEPMd6yd1PCxdaijXVEylQVWNPQTjDXPJxsa-7_rOgD8W4E5fSPXj9EnrRaWpqJP9cYPaJja9a_7SSJVWaN8Zv7QLbziSEhDsuJQlan7mnrq3DQVKOJ9nGhTn0tCKSNtC-I0U9SXuYwKz0GQ0qw",
+          "width": 4608
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112163558251413006250\">Carbo Kuo</a>"
+          ],
+          "photo_reference": "CmRaAAAAaCLb75k_NgBP5_miUPN_vOdN5-n72fu00YQRqfGL_QGotBGr4c50W-ED1GoO4QGImwcFUc-dFDB3jeVQpE8KwdtqhfcRpps6JYjQwy5-6RIprwEkVobTV-6LsYdup9S6EhAV2xIvWaUGZfIvdNr2CU7PGhQHpxpwLucEnlwmgR7ywJqAykW4yA",
+          "width": 4048
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108602081296207496343\">allan morris</a>"
+          ],
+          "photo_reference": "CmRaAAAA2sT_32AEG4ruu2rew0K5Ux62ZhXsh1qqAqMt6rgqMQBjz1oMW1jQdlAmM-Qmn5EdwHwG9awLAnRX_10e7wkvupP-brZ9JjfifmYd3GeqDGgB_YIgmEUkKPlwqbcqtRktEhDsaaoYYcpEXqUykG7Os0CRGhS6QyfFlsm9cwiXwnVN_pvDquVGdA",
+          "width": 4912
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104747696531745891595\">Janis S</a>"
+          ],
+          "photo_reference": "CmRaAAAAmzwHSRKZpYvwtldmOasqHnndDiFV8CDY0BqnQpx7GlQ4fCtzh_j5HpB3fryCK57XZ3V5oZJrG3SAbHLhb6-dKA-C4PqvQiu8Oic31546z52JFnXibt2rPD8g6T033172EhCu9eon0DmHm3nVSK0go-UfGhRP8lNvy2ndgni5Ks8iMzManqO5bQ",
+          "width": 1280
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113825246372579967814\">James Concepcion</a>"
+          ],
+          "photo_reference": "CmRaAAAAiTd2MxEozghM-uaI_G_mTpQNC7gR4hbN5x6vUTJHW3Q_BD--AtDUeH5ScViBVH0sWx9bmgpGkUZ4wIKgzxxtwdDkCDfeVKYaPse98SB13U15FFjkrd7GgZ_Jpz9w1LE0EhArGcYMyNxkLqhMKBjpBI4fGhTOxlYuiSkKWNPP_GJAofPVB_9_bg",
+          "width": 3024
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100535540058329082401\">yoga tom</a>"
+          ],
+          "photo_reference": "CmRaAAAA6KjbGSTv7wnny-ew376pc7PpuPrDiYzVoK97ncrYak9QJh9WnuxH1qG2hGpF8QTf8EKkP6ZDxa_ZpQkk467ZNIrPZdsGFKr3H_jMN-h8eSsn3HXqo26eIYcdj-z94oB_EhACvt6nzi9Vp5Xo21J4TmUcGhROZWEttwx51RZRCsU2OEyqYRwvPQ",
+          "width": 5333
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113825246372579967814\">James Concepcion</a>"
+          ],
+          "photo_reference": "CmRaAAAA6QUXzP0CxUqfLWu-WnXpcIHNMdHI0u_igcGM-elzfzxDAoVPwY7tJpkPP4mToQq9TV0vXe5bg_O4UN8CtYavuFNjxiodbkFhQ3uVvHeODnV_pWzha3oxsioXJw_cv-q8EhBDIjpU9HVnAStzOzV2hJ1DGhSFJ0HDCjyFHQCF7N6JRM15SSePrA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111861352906727810493\">Fernando Cornejo</a>"
+          ],
+          "photo_reference": "CmRaAAAAkQRrRuO1dwEmDpFWBHgU9q4oLe7U4-WH-wqfK5iL0_BbfurXfWAlmTssrr8ahtsj_c5wyvC5vNsyunemRRuDoRh679mhe-ZtktXiyO2RKsb6XxP2qJ68ndXqmYbAisf6EhA0pFlDQF6tdWaga3I0V78oGhSdTu1TEr0_IFLkrJYE9K6Km3FHZA",
+          "width": 4032
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107163186082405497187\">Evelyne BACLE</a>"
+          ],
+          "photo_reference": "CmRaAAAA8SukZRsrQAyL7HlZGxLhITSGbc8ABAjX7WZYNiKbp58eMyxW3qZfJ1sTWeLHRYLTV6vI-87UafukhAzBnAH1_KI7wF1QMR7ztcRqWkqWxcMqLWAt-i1CVWwF0HiXRXVvEhBEJ7IoUCJSn5N0wn7b-3H1GhSS6VT-bC6lQodoqQgUjduW6YzrcA",
+          "width": 2560
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.arquidiocesisdelahabana.org/",
+      "mood_params": [
+        0.005218293369542734,
+        0.033250849332470786,
+        0.1474501046086774,
+        0.1932892091061603,
+        0.15673095731270212,
+        0.19447435796007215,
+        0.09660850749759442,
+        0.01934661280928354,
+        0.23355021807092166,
+        0.024877787365967054,
+        0.05091864335732684,
+        0.021267217143165953
+      ],
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "top_cats": [
+        "religion",
+        "instagram",
+        "culture",
+        "architecture"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.9400183687980771,
+        -0.6940516982844533,
+        0.31909841727040794,
+        0.24792702146485734,
+        -0.21247067067855696,
+        -0.8511996361080174,
+        -0.7974837397400468,
+        0.4656658754597761,
+        -0.879541211947127,
+        -0.7183506446285257,
+        -0.3513426366534221,
+        -0.3930433122401236,
+        -0.7214869591333511,
+        -0.19919950600717978,
+        -0.3226324177342155,
+        0.13311367889671039,
+        0.4746267416075271,
+        0.11337061229794176,
+        -0.8672870928083627,
+        -0.789884628167848,
+        -0.3228783463083457,
+        -0.6920815488947865,
+        -0.511286393189765,
+        1.839259068915912,
+        -0.3735628129338729,
+        -0.392298339543117,
+        -0.8397894491409972,
+        -0.04630079843450721,
+        -0.1592193360322779,
+        -0.18658339627420367
+      ],
+      "global_mood_params": [
+        -0.3873413108818451,
+        -0.517591167273512,
+        1.5225745758452027,
+        1.0370464995691822,
+        2.1594806780335793,
+        0.5122836334630252,
+        -0.31592433054157515,
+        -0.4085433380042583,
+        1.4781741494861054,
+        -0.7322722140994069,
+        -0.9421766654724241,
+        -0.32123312682967187
+      ]
+    },
+    {
+      "name": "Old Havana",
+      "orig_name": "Old Havana",
+      "place_id": "ChIJWVKSMKN5zYgRPda3dswpIhQ",
+      "cat_params": [
+        0.12750677723941647,
+        0.09826346344385993,
+        0.242736012848768,
+        0.22946496773489022,
+        0.2517706485015268,
+        0.11699276932209522,
+        0.4174053316444816,
+        0.272702575012588,
+        0.2262167422681316,
+        0.29235901026673533,
+        0.07463949156890481,
+        0.14702439913352622,
+        0.247217628040526,
+        0.16744218980454106,
+        0.36840367401439555,
+        0.14828765028284857,
+        0.40409496421236746,
+        0.3581825391495638,
+        0.16584747765274138,
+        0.10945620283777734,
+        0.4932719789195016,
+        0.30005616244597366,
+        0.2328730327564547,
+        0.17732805279371813,
+        0.021550366268743702,
+        0.3763914211938301,
+        0.2139887255190869,
+        0.35280061273099445,
+        0.23748019528252584,
+        0.26140110751363166
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 23.1343601,
+        "lng": -82.3533266
+      },
+      "address": "Old Havana, Havana, Cuba",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100022686074292083961\">Inti Liranzo Reyes</a>"
+          ],
+          "photo_reference": "CmRaAAAAd2zVvP9l58M5xb_I8uvIkxtMjI2QoaTiP7-MPOvA-s8HhxvWDTHS_1a31WIOW2p67lrXyelxOXsBUop3NCURJ3T13tLTS1s091VVVD1x9J7oQAbb3_4iIW9KP_bw_bF8EhB93OlLzI5WQ3EjrP9VYVScGhReVToJ6C-pcX8M5vPSdh-0GCIQ2Q",
+          "width": 4032
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106294921486955371863\">Bryant Richards Jr.</a>"
+          ],
+          "photo_reference": "CmRaAAAAm5ii2fhGpAQoHm2huII37TddXC5eMOAuTFrpF4k9n9KlwjC8G5HsBpak5epxMPWkykIxnTPWVLcDPXaxcTj2UjblbOXgZLxsanx4hr3Sl1f0I_Cf0ff3PGWEv4qiYxfFEhCLxXALfLrLu4JfsN5hVfJ5GhSSmn1gS6ymIQ4YPnkmKilV7feYWQ",
+          "width": 4898
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104585536788032988388\">LeoSMG</a>"
+          ],
+          "photo_reference": "CmRaAAAABA9JiCEgAzsq6KaRfKWktNZvH-pcOMNMfk7yykKBQ-lnW6axiJ26rDv-vN655NaAnesUvDhnj2yDYd3VB0Qw8QNcAvlCqYSdjnmpLc-9JjftaGPOgAqmotfQOmnXcXGtEhBlToXAJNvUq6AF0USE04h-GhQtDm0kTTukLFPLlMVdmOIHqjY9NA",
+          "width": 3024
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114091700315843613416\">Giacomo Marasco</a>"
+          ],
+          "photo_reference": "CmRaAAAA6x9sHEP5KoHL9DJLsgw4JG6bGOBYkIIv7hh50uwKU2P8ADN0YTzmCrpg-Bn8r5vU5MVIX_To0iJ8TMoTzKHzP40GUpQVVVb_0npYr2EXvNmHmE-qV1kn0aTlijSIkGw4EhBFMiWdNGaRzscmjvoaLVFoGhSaqHwN7X9hr9hBE0WGkWJ_UYAOgg",
+          "width": 3264
+        },
+        {
+          "height": 466,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107971098553531589519\">Raul A Canas</a>"
+          ],
+          "photo_reference": "CmRaAAAAEoDubHLU5Is7JSJhO29dErvfWs0uLWCmiuB7S1g9Ni3Te85uHjkClwDDmuYLpA3-7ryRIKdFoTkoloudNDTTRWN-lgtjU_UQC39rh6PI5hFBkne-P0vNVDhebsb8pEFBEhCwKUenRDYpgNrUVIYt053EGhTuGzLbzbmLy7UZE-AbT60Ynw5AkQ",
+          "width": 711
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104197007011155127397\">Pierro Duff</a>"
+          ],
+          "photo_reference": "CmRaAAAAzCwMtzdKR6mFD6jaT_aztWcN8qggO8ZU6FUGgAAyF_oO-Q99Zwj53jy6W7wJHLd-mB1W3cFw3BhaHuQ0iEQZbows3UseZzkqg2m7-ouvVwHiYTDxJES-E5-5h3r4z8TtEhA4WKb-bDoFgrtNXIj0EOViGhT_7h1lCXuZowY67M1AxFJ97XGWJw",
+          "width": 4608
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112468502344553267004\">Mark Eting</a>"
+          ],
+          "photo_reference": "CmRaAAAA3rFeJt7_smzT7bhSZqh-H-Co5J_uIv4RJfcLdSF2pqpVlsYkUST9OkWlQbIaru46jDdw9un_WD6xCM9UWkdoRZ6eLmY866x3R7lqaIoW7YjvTQa-vQ-4WG30EBayTCg9EhDiYtaso1V-il8NKougbw15GhT702qBQJkTVCwod_4IcbMVRqEzmA",
+          "width": 4032
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104468684914221749851\">Keith Dalton</a>"
+          ],
+          "photo_reference": "CmRaAAAAYYv9KQ18C_gf4CvdieYOcONPJ3q4eqM2tKkzu2JayU6i9WAuyQlM0a-vBi2bC7SZBpJscqOoesuei8Wn83sJyLR-0XLbmms-3WgtpJtJZavINhim6AjSBj2XDuGtTwiyEhAYCNdCbc7lOV3YQWFkW52FGhTUhkRnoYPtE6bn50Xy7WDloGWOWw",
+          "width": 4032
+        },
+        {
+          "height": 701,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103657301708917179806\">Milind patil</a>"
+          ],
+          "photo_reference": "CmRaAAAAosW4WD-n_-WeePazyzWBRUUouJKV0Z1T7WMFiYO4xq1DwEKSa_wolHfhdCzaJeb4RPH0FENSirM0eHjQf8eOuMGMs4RZlEdUAVqc2-u7WtZeAfx8rvDa_dBbKOH348XMEhCqfA3vi9LTK_ArrxJTudYsGhQbQmiq_X9ttypsEzQA2BjYSpy--w",
+          "width": 1024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117109446263291295366\">Walter Rodriguez</a>"
+          ],
+          "photo_reference": "CmRaAAAAgX0Mv1J6tXMGdrGWlVZA6djT2EYtMSUM0d2UjPpDUSbR3EN1I0C_BGihT1F-HutqESzLgNTTPXetNYtBqQK4zT2E6dCYTNvLr-pq8aDhiut7nGeGvMwndGc559poAK8IEhCyBDJeRFavKVPV_7Fol8u5GhQ37p7CqkdLnbyXTI3IYE7RO4g4ag",
+          "width": 3024
+        }
+      ],
+      "rating": null,
+      "website": "",
+      "mood_params": [
+        0.0058735297503146044,
+        0.044604742089035816,
+        0.051047802611787416,
+        0.1194485639068486,
+        0.06786678899319033,
+        0.1490108758921709,
+        0.10222943973479126,
+        0.023043242898014703,
+        0.10512260288793672,
+        0.034717417199304906,
+        0.06662391447945472,
+        0.02940060739517887
+      ],
+      "popularity": 0.06662492139903595,
+      "num_google_reviews": 0.125,
+      "top_cats": [
+        "history",
+        "culture",
+        "military",
+        "nightlife"
+      ],
+      "duration": 1.375,
+      "global_cat_params": [
+        -0.4090252832800311,
+        -0.16728862057728583,
+        0.17774685704399007,
+        -0.012919589556360953,
+        -0.32747457175168737,
+        -0.3753544365293619,
+        0.20343266858808481,
+        0.683708483821888,
+        0.2900332550948478,
+        -0.30831233103671757,
+        -0.24085536633892898,
+        0.05818630908830172,
+        -0.06812653714524451,
+        -0.281353359840059,
+        0.8510838559210178,
+        -0.25872849427060557,
+        -0.35296383375875406,
+        0.672149665105923,
+        0.0006719632260668202,
+        -0.5219842738975918,
+        -0.21607452488198903,
+        0.43749610152805957,
+        -0.27250677911806576,
+        0.08501722716969393,
+        -0.17293015371610446,
+        0.16203958644264888,
+        -0.713956998630832,
+        -0.43936955407818473,
+        -0.37260039636491604,
+        -0.4698443014661577
+      ],
+      "global_mood_params": [
+        -0.3432557828910394,
+        -0.17743971158165162,
+        -0.21311294961357227,
+        -0.10131457467231673,
+        0.2091569878600758,
+        -0.05942042635872707,
+        -0.2095504199322997,
+        -0.2611375131567492,
+        -0.22075428705738162,
+        -0.34987294342040326,
+        -0.5787535060852191,
+        0.17598438780574477
+      ]
+    },
+    {
+      "name": "Castillo de San Salvador de la Punta",
+      "orig_name": "Castillo de San Salvador de la Punta",
+      "place_id": "ChIJaYTwXrJ5zYgRmAPp60hFRaM",
+      "cat_params": [
+        0.08933695785240472,
+        0.059882368043211426,
+        0.16603730562725266,
+        0.19476190655216521,
+        0.3255899499050737,
+        0.11021925919624465,
+        0.3791036742006808,
+        0.193888711853491,
+        0.15730339178042815,
+        0.2645013751728283,
+        0.057123940513746224,
+        0.11528548802803544,
+        0.23223582298488976,
+        0.1675066759044686,
+        0.28655840989163567,
+        0.15025277771167633,
+        0.5317766071338828,
+        0.3571921282943895,
+        0.13392189561734177,
+        0.10597095436780628,
+        0.441913734110602,
+        0.22108478313459068,
+        0.23951319971825114,
+        0.14374078964921339,
+        0.023634822239169965,
+        0.31323560104671916,
+        0.22858449836215614,
+        0.47770570004343466,
+        0.27710720745137685,
+        0.35574799085215053
+      ],
+      "noncat_params": [],
+      "quote": "Stone fortress constructed in the 1590s to protect the harbor, now restored & open to visitors.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1461282,
+        "lng": -82.3576492
+      },
+      "address": "Malec\u00f3n, La Habana, Cuba",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117262620674112760633\">Leonardo Pereira</a>"
+          ],
+          "photo_reference": "CmRaAAAAuWBV1-LPM0MMcXkVUV6XE6K5Z-jEpnL15KbsJcdaD27aps7jrbasdJ7Ji17KXwhmDTXo95cCl69gRh4wPTMchL9M-R6Zlz4Qel0Lnc5D_U4qR8ci2muB-2YL90RXXZVSEhAzERWdJ28qYfWTSVfIz_BmGhRWZyppTQZ-LPz7tnN6cAePsujvZQ",
+          "width": 6000
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107432921581749802487\">Mercedes Carrere</a>"
+          ],
+          "photo_reference": "CmRaAAAAevvhu0UZ-gCcEyLGLsLh4vE0PCTpDXO4gUfvBC9e8Pi5cJBrZNuvrHdCwqRPuQvw-UZDhqLkcSak6vm4AGrVn8I5tlqNIMj4V2gFEIMgofy1vfHNFABfnH74XMswKXcuEhDAMgAKWEpphl7tadJcD_WoGhSJC0FWCTKya-1yGdlBvTBjq-Y7kA",
+          "width": 4032
+        },
+        {
+          "height": 1304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105541553081869569639\">\u8d75\u79d1\u5b87</a>"
+          ],
+          "photo_reference": "CmRaAAAA33BGXlV98YKkOStYl6xnDM7nzmR5690WLzhElv3P8fINbtaRofKzIxKSmkb_OYR8JkgjiHjtWZ1RYAKuTplAZGEUcRvsot8RUz3MR70VvIjgcWgPT5t7CDfoLWbTqyWIEhAKA0MGXhn0Btzqlyu07CflGhTKzdsG7FX8XPZtdvIbCKue1c1G3w",
+          "width": 2627
+        },
+        {
+          "height": 2868,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113166384456760110312\">Eric Marshall</a>"
+          ],
+          "photo_reference": "CmRaAAAAJmSHeCPGR3C5aufrmLlS662OpdXF8H-8Lh8NBp7fdF8F2wBSRh33GLJo8Tqen3eaqhvO3GXczuMJpNyjDCGe_tGzfGqs6D1GI-xR5ujz99zrpZgZSjUboVcmf34mQ3iGEhBFi6jy05hiPu3bd4PjEfQ1GhQ09VCVfOnUuvE4znTuxjvg5pCzAQ",
+          "width": 4320
+        },
+        {
+          "height": 3275,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116379143636989712162\">Manuel Rodil</a>"
+          ],
+          "photo_reference": "CmRaAAAAjNwShJkk2RBFFeTHLC1oWLv3OCPIEIazbTRelTl9wf2kxVB3W8nsa1xCkaufp1o124GmHnud4_3uqilhb2njDayn5pLqDipjSpV9QCCtfMpZWjhGJft4vfmr-s3lLZZ7EhCuoWed5q1W_dG1J4bx_IdKGhSVa3YQczhqlk8ZOuc7TOV1eoEj1A",
+          "width": 4912
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106142095346545511088\">Pedro Luis Ramos-Gonz\u00e1lez</a>"
+          ],
+          "photo_reference": "CmRaAAAA92OcCwOOVawE2OpRqOxEMsgeoxqZaI_NNkTlFP9FB-am2XvXFkMkgks1tY53K6aRUHiXjhdmBpDzCBx4IudhAMNMM4tpi8Er7oP8f9dl_T5Df1NMm0Y1b52BgFRAcbKAEhBk4_f7SqLZ0JZyYSiB6IYaGhQ5nhYIRjLdFRtfb_UpU1l3-Vw01Q",
+          "width": 4928
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105879268311412036323\">Polsat Wolnosci</a>"
+          ],
+          "photo_reference": "CmRaAAAANkPZF7uWOe8JInyBVG_mbVu589hLi-_GA1tah1Vnqe6hrQRoMKEjX2VxZPRvgLvh-_rYjP2AG9GTYavkrXGQOZRyDkylzppbf4ns8JM-ylBiZa4f6LbC10FKEWKidg4fEhC70kKf2DejcNvi855xSiktGhTAO7hgBBCxKFV2LTtinx9-EZGBbg",
+          "width": 4160
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103675870382348008495\">Dave Stern</a>"
+          ],
+          "photo_reference": "CmRaAAAAjBpVYb8Ql3RBbOrb039CAUjKKpgxzG9GQKF5lbPEK_tMLoSJpWRwfn3e1QBZvrghcybEEJadi7D9Oq5GtVb-wLUeqHNlWFQHYlZCpXCgEi5F9jjhqqZMf99oReCnA4CkEhBjCIkOpkTLnBk3Set2YNdjGhTg1SU-dH0inWQoyd2Et_nU3xK3nw",
+          "width": 4032
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112477440237633953728\">Adaho</a>"
+          ],
+          "photo_reference": "CmRZAAAAZWCayKxsfmWKJVRIRNgqeP6dw_ulwX2DqK5TH0YWHN1CIIIf1_OIWGi3qpT0yUmkpdxq4bLfL0bUJx98Y1CExJCjKm3no9C2GLkp03Xl9DZz8HrnNU9-ik9eOYTrMywYEhAFXXNDcAif05tb3Qr0Qx27GhT0mxTpgZA6O-jq9LWfa7RwPjmJ6w",
+          "width": 4618
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115987856122519640340\">LMAVILITA</a>"
+          ],
+          "photo_reference": "CmRaAAAAwxwdXUc05h_C1riCNL8HrIojntU9OXh8mq_dlp484FBZOoOO0nrXZLcYuuX4JA3rXmq5bTMrC2Q499uz7PxbmoEz_3mym7GFPSxB_HifOyAvJclblIqFuH5J6IuRZ-vPEhAUOVscnSCwoVgIk1j4C77RGhSWS6rEcOc3Lio-28MD-aRtAVvM7Q",
+          "width": 4608
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.0038435878816471345,
+        0.04121271497053941,
+        0.06422420053320081,
+        0.11475890721363564,
+        0.06187185883989617,
+        0.14276555361737,
+        0.09705091527980406,
+        0.02409702907198863,
+        0.1318792651793814,
+        0.027434521872906004,
+        0.0919749416769405,
+        0.013986606425957298
+      ],
+      "popularity": 0.5635782185306154,
+      "num_google_reviews": 640,
+      "top_cats": [
+        "military",
+        "views",
+        "instagram",
+        "water"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.8721560971513052,
+        -0.6262005038256541,
+        -0.5756943683494805,
+        -0.2609153292231281,
+        0.12786835990948744,
+        -0.46571759387498596,
+        -0.20416724238732226,
+        -0.1915832393085271,
+        -0.7298173021026179,
+        -0.604512506758734,
+        -0.6010886667470843,
+        -0.24324411064489082,
+        -0.23002278059704942,
+        -0.28087951416203644,
+        -0.03890242581471131,
+        -0.23571314347790498,
+        0.33984214259709694,
+        0.6617903427850703,
+        -0.406844715451892,
+        -0.5914309003909775,
+        -0.466549106431103,
+        -0.3339962796136643,
+        -0.19764004421290232,
+        -0.22829931079596544,
+        -0.1129138315660418,
+        -0.3064141927991525,
+        -0.5771958620689553,
+        0.3720624152287694,
+        -0.1333947582039992,
+        0.17889745786261316
+      ],
+      "global_mood_params": [
+        -0.4798340647096211,
+        -0.27906150657664736,
+        0.024123185094247983,
+        -0.1736124617871967,
+        0.07758478592525078,
+        -0.13795546012640617,
+        -0.30755193893610633,
+        -0.2191170197725046,
+        0.13320116379450608,
+        -0.6329093897520159,
+        0.007874405408802283,
+        -0.7663177783306306
+      ]
+    },
+    {
+      "name": "Castillo de la Real Fuerza",
+      "orig_name": "Castillo de la Real Fuerza",
+      "place_id": "ChIJUY2HXrJ5zYgRROsLqLEQ3LM",
+      "cat_params": [
+        0.07791718504220209,
+        0.042741972335180706,
+        0.2318330647409747,
+        0.194171189291601,
+        0.19803130052532394,
+        0.13444021307969037,
+        0.3055650312052533,
+        0.2139975996264744,
+        0.14678083207379947,
+        0.20834401274696013,
+        0.047552741767419374,
+        0.05729101725901032,
+        0.15886718753363582,
+        0.10117333863197098,
+        0.2907489626722402,
+        0.11577799891822257,
+        0.3596103817148812,
+        0.43469564814039313,
+        0.09115795315622592,
+        0.11359418879912743,
+        0.3250794879633401,
+        0.13320007300481582,
+        0.2316452492969244,
+        0.09462828970207468,
+        0.025275378552817675,
+        0.2452890017965064,
+        0.18110149109884455,
+        0.3196440976340433,
+        0.18490396936889142,
+        0.2781987580090997
+      ],
+      "noncat_params": [],
+      "quote": "Harborside star fort in Plaza de Armas, built in the mid-1500s & today housing a maritime museum.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1411111,
+        "lng": -82.3497222
+      },
+      "address": "O'Reilly, La Habana, Cuba",
+      "photos": [
+        {
+          "height": 368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113319257066927262871\">Thomas Werner</a>"
+          ],
+          "photo_reference": "CmRaAAAAQCnmi6NF6q_o4Y3ZuLOpTNl9nlqc88vP5NC5LWKAghfhIGUZmDPflabL2vpsvbwKuhENDoxYFrfvnUoLVZzjhwdCMqrPB-77fMZs_rNhJ666SnsE5rkRCrkVOi4qgND_EhBsE37MyWsHWPmtBQkFjrWFGhQMvrGZGjiQm9LW2ffZsFvBdsq5-A",
+          "width": 551
+        },
+        {
+          "height": 3864,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106274333176853391779\">Kristina Weekley</a>"
+          ],
+          "photo_reference": "CmRZAAAAeNzqpy08G8MmcVcdlbkKQUneG_rujlm8W5jjadVBuo974a8vIVThKnAjEIORYMpnfDfbKlQu5-NDi9Z-g0DPFTB7bVh-Unf8KYdbp5IpQsUA3URBNPApuyYt14wC8WdEEhDALLwoo1OISQyu_vYht0vTGhRAM4-zvI82wbEZX3pmbzv_E46cPQ",
+          "width": 5152
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109056028323680242788\">Maurizio Manca</a>"
+          ],
+          "photo_reference": "CmRaAAAAQw00p2fNi-wC2DhyheBtGSDW2tq7G8z2aKhlwQfDvZB9g-g5ZsT0TGqiJCh4VEPaQ8UOLBPtKwKYUcOBx5lsjIXGvZiKXo-atRgZEhBo-TybUCGC3FKMfSJ9QlrocVOVEhCAea28xbGh8eBOrmDazgH9GhTboOcYGMbYOw-xzMDpFsS-0S8CFQ",
+          "width": 4032
+        },
+        {
+          "height": 3280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117666432056870473622\">Ken Beagle</a>"
+          ],
+          "photo_reference": "CmRaAAAANtyfw89U8A-zUEs_UYgDTze0TUt1YKoIFy69WLWZC8kP2-sPcdK6BqevHAMs_zSewCu5vr1YbJ3vYQGiC2amq6SS4v5iQb0LAqe-BwyfHqCSEfyFFyp1Angc25M0x0aSEhCfyu6qTuTxOcrvXEWd7OzbGhRAsj5O_2OcQTvhKBF8LUT0SwmPdQ",
+          "width": 4928
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115320192592545771847\">Vratko Demjanovi\u010d</a>"
+          ],
+          "photo_reference": "CmRaAAAAJNpunwZwrDD65S5ucGUx-m2m91k_Wtap8pqO3qlm3t6HWkRIhQvDt7kVEvDP8Ry8r198t1pMBzrU9cuUruU1pw_qEbq3X75Q93or2FdpGV9lnEj0nLJ4xCorCk7xaRL_EhDwgUvXpbdKbjZUKfiqsbanGhS2Ve6XsP0obnABz1Xvwfndk5E4og",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103208683638714138243\">Fabian S.</a>"
+          ],
+          "photo_reference": "CmRaAAAABtBgrdITZ0Nt9dGndikfvcr0JFrgyX9Ze9GVaV66g_a1d7dsWk6XFEwOYS5MVIlJIXXFkfi5urfroNTd4BsbQS6pB1PaELJUMwCTXRPoPkE92dFaORKwL4feSOace4UdEhAvIfyvu09xJYz9Z3vyyuc1GhSr0dmNpaUH2QmBBjWjWC8fA5a5Tg",
+          "width": 4032
+        },
+        {
+          "height": 3543,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106839936541282798857\">Alexander Ignatiev</a>"
+          ],
+          "photo_reference": "CmRaAAAA3L1cvrRezwH2oAFZRWexJk0oTvL1t0-vkJy5n_pmog1QUYOm-e6a20KHHyufOVEH1r1H7_eNZ1AVYhZdMqoxtDMmeWZ8cbRtOiJG8nAe3qR_mMRksjNoIugqw7HlmkA_EhBSzMhdEJi8xikuI9zaHq5WGhTQ5WORJA2pwf0mG-Ix7V7EOm5qHA",
+          "width": 5315
+        },
+        {
+          "height": 3056,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106849070834917256910\">Nelson Tamayo</a>"
+          ],
+          "photo_reference": "CmRaAAAAWUaRv4DjDUeoOfQJAQ2l4VXzQG8f_g-lXt2heHDJ9K1otG_Hl5NwwjIMVPeQXnMSVTh7M0DW6R8hliBp9ZlO1tMSx8Sb-j7yj6iqOrm3W55ngU33EGRFoTM7WYyvEwEuEhCHGYzKg6jX8CselB0oat3ZGhRIUWqCeCD2ZEa0yppCHy8snZyGxw",
+          "width": 4592
+        },
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105644240026468230431\">Santiago Mastroianni Ferraro</a>"
+          ],
+          "photo_reference": "CmRaAAAA_DiDh2QJ_fdqi9LG2_SsVZQoEnawR46QvapSFAG2cqY0lwLKfzv73uPdBP5hY_xrpkUxAI3qYuOYiMu7VUIfoT8phf5_cXum_yP-8bPcd4vCrMOH6zRYfBIEv0kMeCUdEhCNQGUBoQTn_C6-isb7TcOkGhQu4n0Ey4dTHcMqsk267f-wpVyWnA",
+          "width": 5184
+        },
+        {
+          "height": 1848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101750323547600889181\">Gustavo Serra</a>"
+          ],
+          "photo_reference": "CmRaAAAAR9MRad02X8H-Vi7tMYiPOd2KeKviXxR_tsFEcPED2U4uJMA1Ipk3m6PIpUPOdFGMuzjbffxuFCqCXLU-1LYWlWEU47Y9x-Pl-mebFX9qYn_dt8PxIkOdg4p4tQn4slW_EhCHoiKYo_XuAG1jcoSzX2w9GhRXKD1z4JNenXIxOihUSwn9_SNjvQ",
+          "width": 2784
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "mood_params": [
+        0.0037085181300396623,
+        0.04578853093618094,
+        0.029357311966561203,
+        0.11428986783889743,
+        0.03767350515022715,
+        0.10271303547249476,
+        0.1021080541900562,
+        0.028828535510288043,
+        0.07540058257672846,
+        0.03165390535821921,
+        0.09718568101469492,
+        0.011857801838800544
+      ],
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "top_cats": [
+        "military",
+        "architecture",
+        "culture",
+        "history"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -1.0107171058422149,
+        -0.8311433589444196,
+        0.0706429581606354,
+        -0.2651367252318605,
+        -0.6589574195678075,
+        -0.14259386243211483,
+        -0.9867533323540343,
+        0.031742230647442186,
+        -0.8855409507715899,
+        -1.2016134653489061,
+        -0.7979345725592382,
+        -0.7940285281697685,
+        -1.0228582515321305,
+        -0.7682987442085947,
+        0.006665690161231022,
+        -0.6394778641736016,
+        -0.5943390534439961,
+        1.472447797608789,
+        -0.9527085239677683,
+        -0.43953128153026727,
+        -1.0363506840206587,
+        -1.1925653571097834,
+        -0.2863498254321802,
+        -0.6864419819648647,
+        -0.06567841013132303,
+        -0.8104032334172301,
+        -1.0221075574294316,
+        -0.6547671565247206,
+        -0.6899730415235964,
+        -0.35434141520843326
+      ],
+      "global_mood_params": [
+        -0.4889218099721595,
+        -0.14197456247185639,
+        -0.6036421512421178,
+        -0.1808433867750181,
+        -0.4535024155491419,
+        -0.6416165566370158,
+        -0.21184759316620888,
+        -0.030444744600871397,
+        -0.6139375243719435,
+        -0.46893074473916135,
+        0.12845197061885338,
+        -0.8964577191392736
+      ]
+    },
+    {
+      "name": "La Bodeguita Del Medio",
+      "orig_name": "La Bodeguita Del Medio",
+      "place_id": "ChIJvTF_5q55zYgRtR3YnaD_C-s",
+      "cat_params": [
+        0.15513510094803895,
+        0.10136837576093603,
+        0.07624407183702295,
+        0.1335154317542017,
+        0.199551844125756,
+        0.10142515906095563,
+        0.3911075037024292,
+        0.18870500254628814,
+        0.10099822519538079,
+        0.28951856450915436,
+        0.06399302546838313,
+        0.3252302140084913,
+        0.2539605334636663,
+        0.08167783745230445,
+        0.2261439868206943,
+        0.13739685974935512,
+        0.4380837360534871,
+        0.2070508838237265,
+        0.2341980126098947,
+        0.16159104972893237,
+        0.40615413763700237,
+        0.4198813892867327,
+        0.27663905421863794,
+        0.14635530317121528,
+        0.011904233953057418,
+        0.4047649325934561,
+        0.28222779206354104,
+        0.3379951798652765,
+        0.19980533672804443,
+        0.1940176830469616
+      ],
+      "noncat_params": [],
+      "quote": "Storied watering hole with writing on the walls, framed photographs of celebrities & mojitos.",
+      "phone": "(07) 8671374",
+      "int_phone": "+53 7 8671374",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.14077,
+        "lng": -82.3522734
+      },
+      "address": "Empedrado, La Habana, Cuba",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109717320766266921599\">Andrea B</a>"
+          ],
+          "photo_reference": "CmRaAAAAQebuqXGCOj3aYnsGN-0fFsv3SocntbY8-9K0ZbF9dqWcqDFtaS_2tFOq7bZaUw-CGUDuqE-GSXryxIfG-97HzxX2RGhU_PKlhSv-G0y2PyqzlX01ZNppflPqx3FgBBZWEhAD361K6n1UENxt3mezAmiJGhTLdVivlk4ztnjadODAUdbl_b7fgw",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114828003214320637053\">V\u00e9ronique CROCI</a>"
+          ],
+          "photo_reference": "CmRaAAAAMUlq-PbgVObOZB0kMsqkTm2LeKsKi9QqBToVkZetQ_7GNgleJNPCdWFFdyOVGVcV-o9w1hlALs1UiDPIZ0hEQIgLXkA4h6y6b-8OUi5jrSWD3YiJDqCDAA8Hdt5lOr2QEhDsltPPBgBhaCPEO2GpPgNhGhSZV1jSHqeLktvRP0FOp1U5Ne4z-A",
+          "width": 5312
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108783977974322246235\">\u041a\u0438\u0440\u0438\u043b\u043b \u041a\u0430\u0437\u0430\u043d\u0441\u043a\u0438\u0439</a>"
+          ],
+          "photo_reference": "CmRaAAAAHJxj3rNwAU_DCPh3So_TnvrLtgM7-LLvnnMciTTYIWvOneI5FooSZwd40p7XSUQkzAuBXagMlmYTgh4hL2PME100u4-CQk7M5ZrBc4drZifLcbd3ckHkIf-_z6rFobEFEhBdINOAVCNXMAu0rNgZQ2J9GhTbFnPRqVn47jo7JFnFGG_bAgQOJA",
+          "width": 2048
+        },
+        {
+          "height": 5304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100018046625960963530\">Andreas Rabl</a>"
+          ],
+          "photo_reference": "CmRaAAAAN65MXd1YKRRrySd4Yzj5P7QE2mlyxPv0LoJzkup4hZ1evbsOw2eZQvf_BwnxZdzi9F-kexMh0s9v86qJ9VE02CeqQ-jh9w5kbZ_iFRGwQM81ykzIRD9ChPLllyZ2Ysh-EhAgKwfpm_NfZDcrV1UU0ggBGhQT0PbhuPwyL8Y4PnyoSnAhNmOReg",
+          "width": 7952
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116283454373044235525\">Petra Grubm\u00fcller</a>"
+          ],
+          "photo_reference": "CmRaAAAAx_FJ1wZEcLzjOULzdZHn7gCZFRuCvhNGGTDI79MXj0eiVdxwPd-qGREDanAUJMX1ZG07itRbk2qWfW-ulugRrbWyIiDDtcxKhN5eu4lyZaMAf2yF9J1ncHRBD-hJXnGOEhDhFy_Ck6S5_l8hQuSe3MhdGhRz-IDNcFK_NaQ_IkzXRgs5tThEtA",
+          "width": 2976
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103434586151747068466\">gabe liner</a>"
+          ],
+          "photo_reference": "CmRaAAAALchX5bCH6nYzKAHzhT9OGK3zLH47ovwOmrXxP2hhp5Fnu0KV-JXAxrCenWGjTSUGa9WQrk-rRIe8P36NsXHdOrjljZYVFW0AYhEn3SITnD9BKd-ZRpoOMaOF_TdtdcacEhBb4xASkEQOPFCPDhqKhD_eGhTGqpv9u-VqSd2rp4YjQmMVy-Qcig",
+          "width": 4032
+        },
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104342431121093255260\">marcello grantini</a>"
+          ],
+          "photo_reference": "CmRaAAAAw241tVgJwfVo-xOreGAtxReG6btNmzOhnioIlaT6jvxLK7_8lOLs8uj4ahRHtWO9dV8mxIUbfnD6wJ6Zw4Dany7te7YsER-mchQyJf8vVRy-mw2H4vO8QgXC2aY_NLmPEhDG8mHas87la0W20HY_10VEGhRjjj-iELArYyB-cnaEnsEp0s_uCg",
+          "width": 4288
+        },
+        {
+          "height": 2800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108697976154719850442\">Lars Bender</a>"
+          ],
+          "photo_reference": "CmRaAAAAKV_kvF4mmuV_gXZ_9RYg1fnPbgrb-2f9wErv5TtzJhB7s0JZAQ_vp29mNqJvSvatk0_l7xQA_yAGnDBqfNFHzKB5kp8nT_KPuZzF2LulgJ55KaX6-LwEfccEEkUe8BjVEhB3O0T8PVwnDhS6ib8913gYGhTCrqnVNtDcocDXMDyz8B1pM1jAhg",
+          "width": 2800
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116783469303370362113\">Kelly Beamsley</a>"
+          ],
+          "photo_reference": "CmRaAAAAlKMhjQ-6NYsXK9XIbJjSrPKTqudEdjOvNzYmJhcd1RG4BOjRQPHRAnhJgbypuleIawy0x9zzHELqw9FDyuVql5PI2l4QILi0QEqrWFfuzRFxnf0hvPA0D5mjfQwIvW87EhBsBMtsi7YQ1A66KfYWH6yoGhSt7qeAwtKoZIHVgwJNNRXX-rjcFw",
+          "width": 2160
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115465531085476068625\">Jose Collado</a>"
+          ],
+          "photo_reference": "CmRaAAAAF32oqYyOF2tgjwdEtdnaJ9naPz9sd2RkEFozleEDw039AjDa5jN4WPbqng4l2HRvNdqqFFmq89k_H4TGXgEDFBZ0uMnfWyeeLgLA47cjPJzxZux3x9nziHP5PKOUkQgxEhDAPp2iC6QN6RHre3sAGdxwGhQkBMCVnP97uqABY9NsN8-k1HlzAA",
+          "width": 4608
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://labodeguitarestaurant.restaurantwebx.com/",
+      "mood_params": [
+        0.006702776750979599,
+        0.03180582533235089,
+        0.037171660224968414,
+        0.07701964247565085,
+        0.026587841314129005,
+        0.12363826773057046,
+        0.08860950884490638,
+        0.016561176579808337,
+        0.07582785501890152,
+        0.03677079636469291,
+        0.10293355205249996,
+        0.027938756844792613
+      ],
+      "popularity": 0.8571845810206262,
+      "num_google_reviews": 3425,
+      "top_cats": [
+        "food",
+        "nightlife",
+        "music",
+        "movies"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.07379896440917622,
+        -0.13016406371207523,
+        -1.4577682200450532,
+        -0.6985961649144736,
+        -0.6495781817861547,
+        -0.5830367739564516,
+        -0.07642447189610667,
+        -0.2491525255970276,
+        -1.5630790011561695,
+        -0.33851376521044446,
+        -0.4598157409795511,
+        1.7506405145308896,
+        0.004738585175015317,
+        -0.9115522358176267,
+        -0.6958495116163967,
+        -0.3862802045877812,
+        -0.168539325100155,
+        -0.9086301922885944,
+        0.8731379048247475,
+        0.5168481854047879,
+        -0.6409489519947104,
+        1.60810057092346,
+        0.2209475489906527,
+        -0.20390999626165326,
+        -0.450664676667899,
+        0.37249807806787616,
+        -0.07456281245914424,
+        -0.5355513974695619,
+        -0.6000219981941591,
+        -0.9331817196324411
+      ],
+      "global_mood_params": [
+        -0.28746249525941703,
+        -0.5608826645325684,
+        -0.4629477226781043,
+        -0.7554181845331993,
+        -0.6968021977865083,
+        -0.3784814052909801,
+        -0.46730220377298914,
+        -0.5196146421678997,
+        -0.6082852719251087,
+        -0.2700721065422267,
+        0.26145887231863746,
+        0.08661726353040552
+      ]
+    },
+    {
+      "name": "Museo Nacional de Bellas Artes de La Habana",
+      "orig_name": "Museo Nacional de Bellas Artes de La Habana",
+      "place_id": "ChIJEQVlnLp5zYgRsQ5Dd5D8r1w",
+      "cat_params": [
+        0.08878051531975965,
+        0.03338194947498292,
+        0.3963825680466401,
+        0.5933208488860157,
+        0.1428955830323077,
+        0.27758221784843584,
+        0.3194805543533017,
+        0.3577702395941985,
+        0.17243514112528752,
+        0.2479641025938453,
+        0.044348564041004505,
+        0.04594747778375752,
+        0.18139887670369437,
+        0.0930513169176017,
+        0.2809110099462017,
+        0.1330364889113482,
+        0.43657818773964413,
+        0.2749769184570885,
+        0.2349986408836187,
+        0.10779416762288158,
+        0.44818416521510984,
+        0.1559510938745686,
+        0.28988499313684984,
+        0.10627140933827307,
+        0.014537081424088499,
+        0.3680453217337014,
+        0.17780029619948032,
+        0.2763557939094629,
+        0.15534647596501103,
+        0.18479328488377564
+      ],
+      "noncat_params": [],
+      "quote": "Cavernous, multilevel cultural museum with a vast collection of works by Cuban & other artists.",
+      "phone": "(07) 8633763",
+      "int_phone": "+53 7 8633763",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1374018,
+        "lng": -82.35782619999999
+      },
+      "address": "Havana, Cuba",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113273080006353770992\">\u8cc8\u9577\u9806</a>"
+          ],
+          "photo_reference": "CmRaAAAAV143brSQuNJ3ucvXx4H3V4zMS_ENF3xNNw4P8tPLITEQcFc-ZB-EQh2aR1QgJBZZPb1I15sjm7F2zgYPiEhC93Mdq7cHIGuEyfOJsr-asjySMz9euK1RtlLbTqW-UVPGEhBaUgf-r8bKtXJAM5UubZV9GhQYuGS05vIkGoXkAlAjcZwmaHeReQ",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102083063490873811756\">Julian Llanos</a>"
+          ],
+          "photo_reference": "CmRaAAAAsW7S7bpB0ADxcAv7yMEpqP9zi_zAvIrREmrVZ-oBZh9GZcQQ_7Xoo7485A9bNYSA145sCDAsAqBM6eClhlH77uN3bYBu7iFo2d-o6MEFsoWKTAAf1pJZNEra0zt1-boXEhDBgrWKTdGhMW7In3a650ZXGhTCmlOH2oAmK_OE7zMip3huR6DERg",
+          "width": 4032
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116823789556768102113\">Mark LoGiurato</a>"
+          ],
+          "photo_reference": "CmRaAAAAOkxU9KYdESGAClwPB9KaGsrehvt0xGwAQP72PHoFAQLfHlYh0PsNl6XGLDiSwacUiIHsKHu4deY84rv-w7hKWZtnLfPklBlD5f9-IUElYdwMyceDaDj8hqKxKtLvpz2bEhCkJpktS5t7fYyvwZaaKEEKGhQvBLkkHUUyQIUhViv1v_pAVvRN2w",
+          "width": 2048
+        },
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110503515995654700483\">Vinx</a>"
+          ],
+          "photo_reference": "CmRaAAAAcod0El3JolgUB4MwcLdI9b9pY4u62hfG5zTPMj2uAubtYbP2mRIymTmzYlFOXoTOmFAkEkIJhOnwiSUiPcOCsldt7l8BK9AHDdbiZMq6gZR-whFbRS5islRkK22dJVKwEhDszc5-FBxuAXt7nJDI-K8aGhRYrBcd3fOPVll1UYCGhADWby0PKw",
+          "width": 5184
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102426788906753563155\">Jonathan Herrera</a>"
+          ],
+          "photo_reference": "CmRaAAAAuBAMKWdOnObew-p3N6PgBxls_ECQknLXuvI6fQnhcfqgYSe7-LDczvOKjyin7p194Iid9Phh261dxFuUGv1yyoIJSZOKT_u4_tAgFHrN-SrSFTeRE8Ktoi33NTo3_TjTEhByYXMSK47xURLjXhdIuUugGhQeFdBte5L7p8JNzsXrVT_1idHZYA",
+          "width": 3264
+        },
+        {
+          "height": 3704,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104733530393191997913\">Fritz Rapp</a>"
+          ],
+          "photo_reference": "CmRaAAAAq_mNDrxiM0TYcVR6oT8n2Dz2agoArOY8CHhxHvHuAj14QvdD0TtYN2_Hb8GRCy8iFPQah7nMsQUcMW_L856F7T9c8ms41_4tTXoKXsKO7OrJPbx8_YAefHhVbasXEj9SEhBxWIcgz9owI5JcwI1noY0RGhRvvjmefBDxSNar-feepJlWoReaAA",
+          "width": 5556
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109180909745716650793\">Stanislav Blinoff</a>"
+          ],
+          "photo_reference": "CmRaAAAAjZeIynk_qXO9blUHcUem8aCa5_JeLnZz_FS9rR8CV8XsOZVRyPue2--A4qmPwpwujzWcMjF-Yeng7CF5-8ctIyBoavWXri7GBqD953vQ36G7MdbUYtNX2WSY54Ox9rx9EhAy8KC6Gt3sKh8g2Vr3wTuJGhRwDp8n9C7V1cM8ebSdEXzwGAA-Kw",
+          "width": 3456
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106094995190407089374\">Arwen</a>"
+          ],
+          "photo_reference": "CmRaAAAAgLqr5e-DHfy-YfLY6QcKdGPcwuZCTOAHXMSwjrZcH9yi0sxb8xPXQohXKNkqSqFahgYA2fAi1vFOB_KJ2c14oCtypDyR6sPy1BwL0aqEUUYZbpd2p7fxZc8AG2ZZzrAfEhCDWJDkB3vAkpqh042lnLF4GhS9avIqGXo1VxX30DbBgla_RWnXpA",
+          "width": 5312
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109773754030900637017\">Sharon Molchan</a>"
+          ],
+          "photo_reference": "CmRaAAAAXbJxdzq-Ue6IVCkPOn1qfTtaJqRyqi_7dzp4orFCWfU4caEM6IvkPNhiDXHtnPJPdIrSG76Y_lvmWP7gqzipQolXa4eFxWjDMogu3iioNN-VSs4fQkoLzNNAiDf_1qCmEhDqVegTgOc9PyBKzwp2xgBmGhSecsl3AltWB7iM8vG1TrpOCoKl1Q",
+          "width": 3024
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107835108969007735685\">Gaston Barrera</a>"
+          ],
+          "photo_reference": "CmRaAAAAp16XmZZMLQnBS2njBmcvzDZ9gu1xZJfJ19PUb9Sb9p55fqmQ-Igf4a2dnau3sIYvj4fOC9bgjBcFp1zLJYkjPybR1Xc6930RynZSURnmvM0ZPEOzZ15U15FWbdY3B-VaEhBYXtHytE6sTtCmxcjvFBPnGhSob1CHnOuBHaSRqj-re5mpRejFTQ",
+          "width": 1080
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.bellasartes.co.cu/",
+      "mood_params": [
+        0.0030398569209556256,
+        0.03747936533766438,
+        0.03653073179637311,
+        0.09990156585859647,
+        0.06257735250666283,
+        0.11521099478177958,
+        0.10913864913800106,
+        0.02243693967079395,
+        0.08405944716881895,
+        0.028923376009499433,
+        0.08047267522432985,
+        0.020463385873322314
+      ],
+      "popularity": 0.4797268493858768,
+      "num_google_reviews": 336,
+      "top_cats": [
+        "art",
+        "books",
+        "architecture",
+        "culture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.8789076534110708,
+        -0.9430585003228119,
+        1.68707671434433,
+        2.5872748976981237,
+        -0.9990535565559863,
+        1.7670162598472767,
+        -0.8386666338960604,
+        1.6284537320533055,
+        -0.5058821300131279,
+        -0.7803473551708665,
+        -0.8638332424809465,
+        -0.9017602601728226,
+        -0.7793765200778907,
+        -0.8279795884600517,
+        -0.1003123135190585,
+        -0.4373483760207427,
+        -0.17670849371090075,
+        -0.19814960429000494,
+        0.8833575892960249,
+        -0.5551017803773173,
+        -0.43596816245846165,
+        -0.9703045910289174,
+        0.37029322105963786,
+        -0.5778299191171504,
+        -0.37485889125662647,
+        0.10013299058310476,
+        -1.0530394697922432,
+        -0.9359847938122244,
+        -0.8683947464451185,
+        -0.9966099122910445
+      ],
+      "global_mood_params": [
+        -0.5339105854957572,
+        -0.39090898826919995,
+        -0.4744874002084256,
+        -0.4026600143870309,
+        0.0930684284054817,
+        -0.4844545058743026,
+        -0.07879637550988752,
+        -0.2853142971927353,
+        -0.4993921342490952,
+        -0.5750477886934311,
+        -0.2582903733979485,
+        -0.3703736418908997
+      ]
+    },
+    {
+      "name": "\u0627\u0644\u0646\u0635\u0628 \u0627\u0644\u062a\u0630\u0643\u0627\u0631\u064a \u0644\u062e\u0648\u0633\u064a\u0647 \u0645\u0627\u0631\u062a\u064a",
+      "orig_name": "\u0627\u0644\u0646\u0635\u0628 \u0627\u0644\u062a\u0630\u0643\u0627\u0631\u064a \u0644\u062e\u0648\u0633\u064a\u0647 \u0645\u0627\u0631\u062a\u064a",
+      "place_id": "ChIJS2VOveF5zYgRrfJXBXLTTC8",
+      "cat_params": [
+        0.07555410498727688,
+        0.043018479745242255,
+        0.1204034751003047,
+        0.1326494028673465,
+        0.19404379794451504,
+        0.15301320442901675,
+        0.31668183998393795,
+        0.13875234610366258,
+        0.16329359817972197,
+        0.27311338696385706,
+        0.046368451862077664,
+        0.052172972874276614,
+        0.1980056763839573,
+        0.16420632695749093,
+        0.26069901732564205,
+        0.12102336877849715,
+        0.32039497317027915,
+        0.17507674847760618,
+        0.19810995524400601,
+        0.0873625209135092,
+        0.3066023361856655,
+        0.26066203778719266,
+        0.21289869117473867,
+        0.10896612667017092,
+        0.027969936288101297,
+        0.23810514725763823,
+        0.16366939448263138,
+        0.29989142484465464,
+        0.15938445637443024,
+        0.23308285447828303
+      ],
+      "noncat_params": [],
+      "quote": "Marble star-shaped tower & statue honoring writer Jos\u00e9 Mart\u00ed, advocate for independence from Spain.",
+      "phone": "(07) 8820906",
+      "int_phone": "+53 7 8820906",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.1227283,
+        "lng": -82.3866501
+      },
+      "address": "Calle Paseo y Ave. Independencia. Plaza de la Revoluci\u00f3n. La Habana, Avenida Paseo, La Habana, Cuba",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118157241122172957034\">Gerardo Alonso Robledo Reynoso</a>"
+          ],
+          "photo_reference": "CmRaAAAAO9Jqymc8daJIImsUljZWwPohntNdMPid1dxAMLmItN9J1ntUPBUjhAdL4cwItgKwwMz1TFke7XT9f9IXjePQ-dRhTeqrPQaeUVjZ7EfAq1OzyFLXyGEblYCsW7IzPyokEhCkkAcJWkm1gCW44TZILq77GhR1IimvPmTYQSEIaARP9jyEvX4xCw",
+          "width": 6000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101603699243756968701\">David Louie</a>"
+          ],
+          "photo_reference": "CmRaAAAA-luh0hGc4XYlf9AA5sd_V30xbZ2yRhGgMWo1IB2ccWA6o4N3ZgHVjIdS76mReM2_Rx56iXJXwVQzNq0aKZMZyitW4KjDZaI5kZtRSNvaRKGcv9P8YpvJS8WvBvyrE2SwEhBynqGKvcvFMTftt3yCSCXXGhQOCF0qMpfGwNtprOHENkIWY8HUKw",
+          "width": 3024
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114869474475491974919\">Manuel Gregori</a>"
+          ],
+          "photo_reference": "CmRaAAAAihh8W1hmlLQLlhB7n5j5FgHpER370az-C9Af9xMfrSQVIG8bpwoDU52J8xibv0gSI4rG5h2cwV1hert17TBuXTq_fg7BvO8OudMHt8Xoak24ECN6Ef1Qmnb6puXUDxdjEhB5GVBrWNFIVDb_OPPj8ho5GhQEgzNudJ-eR6vtPPh33DJfqDW-4A",
+          "width": 4160
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118157241122172957034\">Gerardo Alonso Robledo Reynoso</a>"
+          ],
+          "photo_reference": "CmRaAAAAXbT13bk2mcMuNtjPWubGzAfuE5gFXdHVK98hXdM42Z5cIeTLORAdsvw_YZcdr7deKcaIxedYF5KWp8M6LrmGojxj4wiGneKCTJtUAkQnN6yQhUFX4zfe4YUYWi96aB5VEhCmggLf84V4HwqZf1dJdhgtGhSkivGxyeHANHYn8jcL2JOh9m3mgQ",
+          "width": 6000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118157241122172957034\">Gerardo Alonso Robledo Reynoso</a>"
+          ],
+          "photo_reference": "CmRaAAAAM4itE6_5npTw5ql0Cd2cfft8Zl8ISvVlLJy6OP3JNp70cRAjQkUmx2bvRSgmxq1ZwdtYfXeafbobuK0aOygANJ1ExKORxHcaSKaWq-KfOOAwkuq76ipUH6K15nKs-SJqEhBBgNk0fVxCY-ZthrEeAbO0GhS1eOKlJWVQkIN8n-MIzHXOKCb0Yw",
+          "width": 6000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118157241122172957034\">Gerardo Alonso Robledo Reynoso</a>"
+          ],
+          "photo_reference": "CmRaAAAAni3XHvUFCwd91JmOQp4fogzM_dDQwrS5IMfPH_REZpPaEdmpoPzfaL6eKDxzhqrWormNXMTHjNjTSHOZCUS3_bwgoja1N9C1lRKw5L6MbR6RtFm_TE1bnNSvF0m0hJpeEhDOOR766EZJmEkSoUhqCV7PGhQjLRnnDarq5633jUb5haKSaYw-nA",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102728267728644584805\">Ana Ara\u00fajo</a>"
+          ],
+          "photo_reference": "CmRaAAAAhnHEc1tjrsX4CVWjXcMujiI2HFGW33xRFsvkUj4S4x48rqmcaDSN3gWTeQqtI3LKJmG6FbOrrdF2GYt8cxunFY19CphvsIvmcVcqIRT7RICWkPVzYatcFzSn3DVfbtjUEhCYybXhpOxe3PlKHm_jf7kGGhRCvdOExZFiFHeEDBb3ZAlLO4gYLA",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118157241122172957034\">Gerardo Alonso Robledo Reynoso</a>"
+          ],
+          "photo_reference": "CmRaAAAAd_Hn0Qf8A6OnP7ZKUO0_SLCZI72QzvL6Byke_OKpSgXPOABlomnLlYHHJde5ytizY3v10gy51ulnTTeeHi-Xvg4LqCBeuDgLQ8S-arWxkvVGpZMpFkniYLYfsqxgBidQEhCGOCfGW8zIke_9uvi6tkSAGhTpv1Vq8eo48NJo0oq0nvgZa6Ccbg",
+          "width": 6000
+        },
+        {
+          "height": 1932,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101275652499292282467\">Fernando Javier Benavent Mateos</a>"
+          ],
+          "photo_reference": "CmRaAAAA7yi1SN6gHyEJAzm7-CNBwHjnf6LOACZS3SKe1P9f0CzFgd1EdfQ8iKKOw8K1vvZmzGpSrKKqN1eFZQ5dbv4uHTtahbHLiT256IY6IlixZKSAmFziUyOKIJYgJ3U3LoeNEhBjmf0U3BNQHPYTGscty_AXGhT9a2RlEEFMWPMyQV0zzlJ3gRIBOQ",
+          "width": 2576
+        },
+        {
+          "height": 3008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117427522716859292521\">Leo Cervetto</a>"
+          ],
+          "photo_reference": "CmRaAAAAFtUniIDWfM8wR5xQ63likTmK-JDnadNqjJmZiBigvti_0TEZKBYFtJBARE4rCgx9oDsXro9IgWw8jCNCt9Ckio9-f91Dh7KZEHLy_0iE9LHSMUbaQVrfgMEeKGtgkF9GEhBSZ-D0FdguYMknmFYvuaXEGhRza0haX0m8-SnvKssNzsjVymWtag",
+          "width": 4512
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.008321594821791614,
+        0.034293096942751164,
+        0.028770841281263664,
+        0.08989815894123977,
+        0.05108607061902129,
+        0.1208076758860683,
+        0.1050070822238948,
+        0.027160771776014673,
+        0.0731116374657225,
+        0.02454567177827837,
+        0.05891514579879109,
+        0.014642658081111521
+      ],
+      "popularity": 0.509945224946908,
+      "num_google_reviews": 429,
+      "top_cats": [
+        "music",
+        "books",
+        "nightlife",
+        "science"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -1.039389371172684,
+        -0.8278372381847361,
+        -1.0239732303689015,
+        -0.7047849986095066,
+        -0.6835537118738844,
+        0.10518226966119062,
+        -0.868450089859345,
+        -0.8039171949083893,
+        -0.6411680738933798,
+        -0.5129440948234106,
+        -0.8222912519407675,
+        -0.8426355601494038,
+        -0.5999202747184741,
+        -0.30513057115337205,
+        -0.32009773851153045,
+        -0.5780446840140369,
+        -0.8071235131618032,
+        -1.2430675343780522,
+        0.4124889725240046,
+        -0.9622202254167258,
+        -1.126463904925173,
+        0.052644433733824936,
+        -0.49771402837960393,
+        -0.5526924287061632,
+        0.011904156920767107,
+        -0.8636889606933108,
+        -1.1854448038721104,
+        -0.7830881923243022,
+        -0.8440197651419441,
+        -0.6645643880783774
+      ],
+      "global_mood_params": [
+        -0.17854539073488632,
+        -0.4863664543552714,
+        -0.6142013373967289,
+        -0.5568770992158504,
+        -0.15913355266013163,
+        -0.41407614585183944,
+        -0.1569846387821297,
+        -0.09694804165803243,
+        -0.6442172576928068,
+        -0.7451792807944352,
+        -0.7571359769847305,
+        -0.7262114557098142
+      ]
+    }
+  ]
+}

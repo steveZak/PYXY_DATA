@@ -1,0 +1,4403 @@
+{
+  "sights": [
+    {
+      "name": "Cheyenne Mountain Zoo",
+      "orig_name": "Cheyenne Mountain Zoo",
+      "place_id": "ChIJk6vByq9cE4cRTnc2pVsc0ZE",
+      "cat_params": [
+        0.22406348050435893,
+        0.42235791447162285,
+        0.12308064494830832,
+        0.11747050213026063,
+        0.23382095449032392,
+        0.07158723528404627,
+        0.3414670577579033,
+        0.10788946645436635,
+        0.1601780268059319,
+        0.3025363074201438,
+        0.09545500467159836,
+        0.06472915809366313,
+        0.24154770819664928,
+        0.2460037672763676,
+        0.2702531240535547,
+        0.15841334470542792,
+        0.42839927296959635,
+        0.1700800412246155,
+        0.15761650610159206,
+        0.1408607852185283,
+        0.4690708740370658,
+        0.20656630778167234,
+        0.2533521724717432,
+        0.08073140577189046,
+        0.0059888328680794065,
+        0.28304768884365,
+        0.22256925443955336,
+        0.41724836864042636,
+        0.23088391481634088,
+        0.2524686553586535
+      ],
+      "noncat_params": [],
+      "quote": "Prominent mountainside conservation park with 700-plus animals & the world's largest giraffe herd.",
+      "phone": "(719) 633-9925",
+      "int_phone": "+1 719-633-9925",
+      "hours": "",
+      "coordinates": {
+        "lat": 38.771803,
+        "lng": -104.8533841
+      },
+      "address": "4250 Cheyenne Mountain Zoo Rd, Colorado Springs, CO 80906, United States",
+      "photos": [
+        {
+          "height": 3275,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104262776378031435803\">Rachel Leeper</a>"
+          ],
+          "photo_reference": "CmRaAAAAZeBDVwBFHAlOEkgJEWDNQC61sGX-0WivVPLl5Yrv28oqcofDglCRd3WJ9pRClDPAmKh2dqfwyHslBPwPeGpcn5aFA8tj23gHS-v8sLVyh1lNkEOKwDuAV9sqPRiB3cmhEhAQnNGEuw7mX7LMZQumzuVJGhSRGkixXQ-ELeo1HvyjWVNP3N-TcA",
+          "width": 4912
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113885491883587271822\">Brandon Van Pelt</a>"
+          ],
+          "photo_reference": "CmRaAAAAkLHZD5SVvJxfASGYPgp4HXos2dRRhe0mJan5l-WBys450psd7uxuEdG8AXE4ng1MXIlvlLu42NG_ZW9IWhLwJ5q4A5IzlcaNifH6IUbR2DR2_EjJSAEkIDWDVV9SUq3MEhALT_FovB3CN2tl3nOhhWd4GhQi_apMWOchSaMa9yzUnvV8Dg4OVA",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106842888290826334302\">Vermithrax Pejorative</a>"
+          ],
+          "photo_reference": "CmRaAAAAMvFCzPminOvn-IEr0Za9Aog324YaE_ld4xnW1R5XsDhmQHxnp0j-FOf1bX_duxK3ES-2KDDVRbN9-8CMAR10Vl12FOblj1i10z3TYc601v6pRg3Z9oET1imYX3MR5ZbHEhDJKE7CfwQ8B4mmUqNVSoEIGhQw06lljxhpoXYULy4wg00Wq-tH0g",
+          "width": 5472
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117230875022763009725\">Margaret Tjossem</a>"
+          ],
+          "photo_reference": "CmRaAAAA1mWGZ_ImajgED0NHC2JIjBv3GHP0D4saIWgWmVhgeOrSLQMf-zmuXxRAyajkXm2i4CufZe7vEAOLPDC7x09mMMoZwtn-jkQt_zSBA7NIvDgjIwJQgq1oqOGhDg7ubGDJEhDq_wf8cefeRxAwTxDRcq4CGhQ-UgYC4W9S55po03s_M1xFWVCZ_w",
+          "width": 3024
+        },
+        {
+          "height": 2008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110370076019313936953\">Matthew Hartle</a>"
+          ],
+          "photo_reference": "CmRaAAAA7uYSjBLsy-LwLbR94TB7QUbUULoAeKRpoabYbDxxsnC-VeeN4SXal1JAaaN7WHZDFC4hqYmXeKd9fPG_aZD1lcUb8du6HTgDbBh-uKGDSAA2WLANDqUDNBZIqs42dSGLEhCt35QOqy3hAO0pTjq251wdGhR-kOzpjtNaUntsuT9bG-9_AFGaPw",
+          "width": 3008
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118420720768833079714\">Cody Fredrickson</a>"
+          ],
+          "photo_reference": "CmRaAAAAzuDtOqKoGadAkZ7o3fzWdCAVNaDhocZgofsR0zuc1dV3oyjgwDjhHtjLT5Rai0gL6tvO_NoSfJGN6aaGE5fgEBoxA1JFIQiLPOmq4H8aakXOJdWKslZY6sR_4tCSwX4aEhCt1c0FaJesV776Cy44wR-RGhR6VmvSTCdpJDdOfT8sFWTWR6AXNg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115220576916401215878\">Chris Valk</a>"
+          ],
+          "photo_reference": "CmRaAAAA9VhcgiKH7Z_1FbOmjhWOPUlStLT29gJOMmoACFRp8zV91SUNsh_cHcfbaWuUowos65am1FthA8Nh2Yaokg2TzInLhUjwpSVJe779M2V6Y1dVHtiN40JSWw1B5hGq3ZfqEhBgcNqkyAffJKeSezKyqfLMGhQyyXu08mOZ8O0yciJt1uF30SFTyA",
+          "width": 4032
+        },
+        {
+          "height": 2161,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105166145564341771744\">Iris Alcantara</a>"
+          ],
+          "photo_reference": "CmRaAAAAqLsGy0WWf51PKpeMadylYQ1EpseYhp3HOG2o7jR7oHHoUwA3vqrI4tugWG2ENPGeihA-D_ZhRW9ewECFcrQei0LN9f3M2Hoiy-R4hEnAiIdTN6Upztgii3GSZQqwrxcbEhBVuHHzR2SmbO-IY_XlIIUVGhQIzEsMGY2wr-uMgT8gq6RJBLLlMw",
+          "width": 2955
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115499962243183083897\">Mounica B</a>"
+          ],
+          "photo_reference": "CmRaAAAAPTP3gxpZmE5Mgck0IAcKFeONkF_Ugt4CuxEFFvP_Rf-ilcVBbyYlYmRzzqKaZbBhQs_jrfK7olrpp7woUGqwzDQEEMrRGwm2aVsdlqMjjlL3vCAxaD_lnRr4g0zgHebMEhAjJ17DVkw0OQ-UhHBDMtHMGhQ9zru07uZ3qQBudqlh47bj1q_OfQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103623462561048891391\">Chris Sotraidis</a>"
+          ],
+          "photo_reference": "CmRaAAAAFL6ZzkE8lfevJgnphZwu7C9czQJO6BOF6Cwx-35SO7RXKc-1eMUOUijW4TS5NzQEPZ4jke6vvK412-w_1XsSILq-wL0ngTVTO_wPwnvSisshMmS3uhXOI3fDWBM954zIEhB0ez8Q-RiJ77rW8ahdc8DpGhSJrp0aJGUw3BCtMv9jYzoyAFapqg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.8,
+      "website": "http://www.cmzoo.org/",
+      "mood_params": [
+        0.013660178911490984,
+        0.05424934648855514,
+        0.0329740702397926,
+        0.11770514507869259,
+        0.04940236213535301,
+        0.1768653284641887,
+        0.12818300687561252,
+        0.027352959572215257,
+        0.10303782524633164,
+        0.040042142600698404,
+        0.08437807503820492,
+        0.04100786942152153
+      ],
+      "popularity": 1.0,
+      "num_google_reviews": 12167,
+      "top_cats": [
+        "animals",
+        "amusement",
+        "hiking",
+        "fashion"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.7625386718545446,
+        3.7078169051754704,
+        -0.9976743499322248,
+        -0.8132567756611488,
+        -0.4381944802049181,
+        -0.9810946421848569,
+        -0.6046898968964827,
+        -1.1466744463131004,
+        -0.6872754997994128,
+        -0.2001008050025461,
+        0.18724655069805132,
+        -0.7233871030001406,
+        -0.12939677260670188,
+        0.2959193235055006,
+        -0.21620627926560979,
+        -0.14013750330653735,
+        -0.2210876299997197,
+        -1.2953311992058827,
+        -0.10439294005738416,
+        0.10377951929184515,
+        -0.3341035120681692,
+        -0.47583112178357806,
+        -0.04160801814240584,
+        -0.8160781342998402,
+        -0.6209827942965819,
+        -0.5303308726238597,
+        -0.633558180419416,
+        -0.020691895543809007,
+        -0.4124183738515572,
+        -0.5312650344155285
+      ],
+      "global_mood_params": [
+        0.1806445218283676,
+        0.11150314673200463,
+        -0.538523766230419,
+        -0.12819191471607672,
+        -0.1960863155694463,
+        0.2908497882225327,
+        0.2816105324734085,
+        -0.08928441290844985,
+        -0.2483331532860072,
+        -0.1429372004557599,
+        -0.16791862954254036,
+        0.8855696649946524
+      ]
+    },
+    {
+      "name": "Cave of the Winds Mountain Park",
+      "orig_name": "Cave of the Winds Mountain Park",
+      "place_id": "ChIJk9YPNLlQE4cRqLkLNe_-zIk",
+      "cat_params": [
+        0.14816633511083768,
+        0.09046660757982991,
+        0.09235431056181542,
+        0.110159128573054,
+        0.15415684321063447,
+        0.13684513753986816,
+        0.3304371798821543,
+        0.1192846745768219,
+        0.13278708745732104,
+        0.30324820227646526,
+        0.10356447985892564,
+        0.051163519021722434,
+        0.26114123115066684,
+        0.3531221467323276,
+        0.3446574331536007,
+        0.16450831858946974,
+        0.4477287432308865,
+        0.15328464449052007,
+        0.2822989677829269,
+        0.14987306947811255,
+        0.3389928855258984,
+        0.3322029462837913,
+        0.2796018481701586,
+        0.07267506266426162,
+        0.026225612073272585,
+        0.22511578875568788,
+        0.21600530072212087,
+        0.3375649958747643,
+        0.20672092862259495,
+        0.16138183831268252
+      ],
+      "noncat_params": [],
+      "quote": "This historic cave has several tour options, including spelunking, plus a zip line & ropes course.",
+      "phone": "(719) 685-5444",
+      "int_phone": "+1 719-685-5444",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 38.8725916,
+        "lng": -104.9201269
+      },
+      "address": "100 Cave of the Winds Rd, Manitou Springs, CO 80829, United States",
+      "photos": [
+        {
+          "height": 911,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117697479468139542910\">Cave of the Winds Mountain Park</a>"
+          ],
+          "photo_reference": "CmRaAAAA9RzCkk9zc7ddatW86RjAeTqzDXZhTbplG14dWJhmvBC1cheREUkzoQ7KIP3HwxfKa4oitObuG6meTe1t4A6UTBrHZdnKk9uzta0BVDeOSRR5CenoVRMOEvxHf1qMVoEwEhArf6G_psALQXgNiJPJc9MWGhRzgXFgflV4ACVWn7Cx8cyfjFLoTA",
+          "width": 1620
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110989357552690241924\">Jim Salmons</a>"
+          ],
+          "photo_reference": "CmRaAAAAhy2mFmxqceACosy9kg0-NhRgCwbZyxMNZPAdMscUdIiQkUgg2v2HFk3yo_CH0tzxIv0ZApGx4NsY2RtZz2bLbrsBrx473HpF9sKFqtfsQKIWME_ziDGyfl7SzuIMBrTuEhAAmkAz6qKuMDrv6Y-eZqgQGhRP1VXT_7A0xusxlUXO3gFF71GXuQ",
+          "width": 4048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107675881106627271911\">Peter Biel</a>"
+          ],
+          "photo_reference": "CmRaAAAAdBfV4moKPWryGa348aOabWzKXFtTNZLa0tXO2r3fQxdZde5x95Z9_urVzyoy7keAjrmQqXqCvCAs26IGqraQG7GQmqvEmCwjf1j_Ejg_qooz9dIjOypJFQJ5w_7mCrkfEhBsCxA0-LE0vFhFOIdxIGSkGhTX_qwmgm3NH0k3weqgqlZXQ2t4mQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110149224496365473975\">Michael Kersey</a>"
+          ],
+          "photo_reference": "CmRaAAAAsJ1aTwNv2Z9i1q_F-cLNmsIt-cyrMx9TNOYoUH5QP93ldCJX_eDuxEAiP0TrYpZs87CjYC2uobPwpTOuQ6A9LzZXkO8OjYuWLb8N_KbocEX2ifFSUcJ3HqvxZ7aL1gUeEhD8FnDudVKpuuLuUxus58BFGhQ76klFMRFVvg7PgYEEoMIFfWma7A",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114078471286005607822\">Jason McAlexander</a>"
+          ],
+          "photo_reference": "CmRaAAAAZKgNpkg57zPeMcCjO1E9t5eqZuQLznK8CQCTupOXHV_LVTaJhHjJA00ZMQrRYYFa1qx2_nbIZEv988YS9My6jsOXkOO6dFZ3ptAQQsoup_CvpHXYtwsrG8m8Sr_ny3DJEhBc0FTwAyCz-75FUz9nkFXwGhTAXZdu2ySpAUL2Qhrfri94YFkzQA",
+          "width": 4032
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107350538334862316635\">Noah Moore</a>"
+          ],
+          "photo_reference": "CmRaAAAA_ZWAikDxkyAptYDwE42tgyiz2sE4jra9y3caJ-FXL-of1wBG3PTzDpUMhtZ8s6m5XDRoDQvDoe6CS176oCKk3Eq31MD0-DzfPjwLjwrQJlCZzO2PPJqKEkD8mdQCucA-EhCO_TnxnRSZPW8con4gAphiGhSTmUX2CJgceAsimW7S5Xz431trOQ",
+          "width": 4160
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104791482748522229018\">EJ Serrano</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ7v8S6Q8gN_Sc18FWq2nnwUMXYSqAW2rRdzlHZjvPfzgQRH7Q-m3lmRjgDG9jWztdLVyzzTo9eXOM-N6bekWgC9HTSXK20HrUqLfdypV2_AvavQbsMkbnAfuwCyQMWwfEhBtHwCQC1vWEPQGBFEZ2gfYGhSr3qeldCtjiUQdDynzdI-GLHSUtQ",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116649686730248619116\">Cassandra Delgado</a>"
+          ],
+          "photo_reference": "CmRaAAAAU721TMKL_nLAGZBVpCI6sTI-LrRm98h0XC-KQYQ3IumWvZgif18ppmlsc3LtF33LeE9tE1VXANF404gw0KORWBHVM3Yph0WpVjpWPkGERIK82JveBfwsYTTra3zy-bAsEhC7puoFEQCGoEn37OhwLw7MGhSimCSFz4VddtAKiOtrCByECR2MwQ",
+          "width": 5184
+        },
+        {
+          "height": 536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117697479468139542910\">Cave of the Winds Mountain Park</a>"
+          ],
+          "photo_reference": "CmRaAAAAqTEeu5sbvRBh4N54lqbXrYS42xhW8J5IyiRIeLyCYR3FzT0Whpv5xfsZJCVTSV1mCcs_UIfGFjynx3bc_DR4CWjBjG0wK-YMQgRp5N3UvU_xcLzjlH9ugD8JnVfKSqkEEhBN3DmCom_lc6mgWaQgf9ngGhStKpgAsHYtj8HhB9nyntgy8nY3Tg",
+          "width": 800
+        },
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113583459286278179580\">Errol Oguzhan</a>"
+          ],
+          "photo_reference": "CmRaAAAAD5s5r8o1K4WAE8Ug9mewApaU9tYz9Fr1fKad7NQH3d0T_mX3yUqbhpX9ZfHDeBNiEq-qOW4D3-vyrtpuNQ6RBKYg26joGa7TnAxVlZ6CuLMIDeWodJf84TrHK3e5fd3cEhAfRjkwE2JBCzPoZTnzJWAnGhSPPEwmQ-3LQg1HMFLVllrBjQiWeA",
+          "width": 4656
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.caveofthewinds.com/",
+      "mood_params": [
+        0.04387926167545767,
+        0.1128029462696338,
+        0.022395176296016023,
+        0.20166036721058087,
+        0.052986921439490874,
+        0.242849875877322,
+        0.16247410053894631,
+        0.07366178843746653,
+        0.12518384192083726,
+        0.09208497770729776,
+        0.09111540542486292,
+        0.03648972377066143
+      ],
+      "popularity": 0.8537145081868439,
+      "num_google_reviews": 6463,
+      "top_cats": [
+        "music",
+        "hiking",
+        "nightlife",
+        "history"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.1583539936362617,
+        -0.2605134170722197,
+        -1.299511080571599,
+        -0.8655054658776217,
+        -0.9295902166665062,
+        -0.11051056095892244,
+        -0.7220680350833603,
+        -1.0201214396066582,
+        -1.0926347597852888,
+        -0.19253148403085557,
+        0.354029942331544,
+        -0.8522225336112643,
+        0.08233457421447359,
+        1.083028191913158,
+        0.5928669775784765,
+        -0.06875385665047806,
+        -0.11620510961230429,
+        -1.4710046859877668,
+        1.487126444536146,
+        0.2833571718523707,
+        -0.968494929888571,
+        0.7515465717787596,
+        0.25435253874818575,
+        -0.891231192180317,
+        -0.03831898307192214,
+        -0.960036598424742,
+        -0.6950618623681173,
+        -0.5383460397863515,
+        -0.5582765199999502,
+        -1.1575901428988498
+      ],
+      "global_mood_params": [
+        2.2138408737738455,
+        1.8657113842561852,
+        -0.7289928097181642,
+        1.1661000920272617,
+        -0.11741511364522927,
+        1.1206065935910194,
+        0.9305558636231144,
+        1.7573139625723742,
+        0.04462952013026758,
+        1.879612684642943,
+        -0.012015437810634367,
+        0.6093624400031439
+      ]
+    },
+    {
+      "name": "Pikes Peak Region Attractions",
+      "orig_name": "Pikes Peak Region Attractions",
+      "place_id": "ChIJB6qy2oJQE4cRUBzh6a9qVTU",
+      "cat_params": [
+        0.05081992129972503,
+        0.0509666288979821,
+        0.09079536834331547,
+        0.048557016336020435,
+        0.14735350455707047,
+        0.06177885906474031,
+        0.23352447963298778,
+        0.09269512342310715,
+        0.14289537487699333,
+        0.13300304845391075,
+        0.026019436664329158,
+        0.030040654420748287,
+        0.06684716165640146,
+        0.3829033944981834,
+        0.14923374050076477,
+        0.03440432159938154,
+        0.10147025592749341,
+        0.14363640921292395,
+        0.05854122713230529,
+        0.050122633089643286,
+        0.2656232148927069,
+        0.08212306170746271,
+        0.06429987739230572,
+        0.06817390981568583,
+        0.027466494416342014,
+        0.11493782445946386,
+        0.1330450412810763,
+        0.20187710190769032,
+        0.08734189738572311,
+        0.20879702554355728
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "(800) 525-2250",
+      "int_phone": "+1 800-525-2250",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 38.8066956,
+        "lng": -104.8401922
+      },
+      "address": "1763 S 8th St Suite 2, Colorado Springs, CO 80905, United States",
+      "photos": [
+        {
+          "height": 3519,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109588764242985719780\">Pikes Peak Region Attractions</a>"
+          ],
+          "photo_reference": "CmRaAAAAhgsVU8pWvuLR2xry4OEJNYEQfX2ScYsa4xof6xTeyYDaKZygeoNhlwkJRCIg_jDlbhtmHN7TmBDE8skTAmcPG3erDKJVh2L_zhkZ-EWej5NHM-x099JeQVovlQhn5fUyEhDX97etwZhKoFwb3fZg3inHGhQ6gBrV36G54H12yQSzImWFXU_F0g",
+          "width": 5278
+        },
+        {
+          "height": 3006,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107961758940198786074\">Brian K Truncali</a>"
+          ],
+          "photo_reference": "CmRaAAAA3zpLXoDj8rJyXUS7f-gJWBa_bSa43BrBqkTBCdTDf131pmlQqrZKNlfMrtreeFwZo45bXiecM4lbG1gGFiw-C32qCCi6UzJABDsIGTqqXOGUU5MzJiZRVftC7B_0gcKHEhDGgiu2BJYRw_QuQl113_LTGhRAQySyoyiMTanXUSuE2F89TTYBvg",
+          "width": 5344
+        },
+        {
+          "height": 3006,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107961758940198786074\">Brian K Truncali</a>"
+          ],
+          "photo_reference": "CmRaAAAAdBumk6bLrAH7bxvuNjWsojDzo6mxmAZML907Ei03_5p-KyI4Rl4GmmQHnv7h7dyAKS-uOhUynRVaURG3jcuOu8qdd4wLm7htKPoPC-iUvMNwiMRSL60VYWg8oao76QtiEhD15OLtKL3tuyoacTsP2v-_GhT6nbfBm9EpvhfGVdfiKw8FM0I4Ig",
+          "width": 5344
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109588764242985719780\">Pikes Peak Region Attractions</a>"
+          ],
+          "photo_reference": "CmRaAAAARjHoLGZ9TlAXm2g4fqzeU1mQHuRHrVVc9H1FwB1slsjgwwMqAHznlD5WCBM9mEwOQ6PB30R0VGttnA2JAsUWureHyEJSI0b32EgMmvMS2QEoJV4MtWQh3QjJQDWoIqn1EhA-gjWMW3G7bqGEKHVY51zdGhSqqXGLGDM-_5jH2MdVLnhVNBNkYQ",
+          "width": 4032
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109588764242985719780\">Pikes Peak Region Attractions</a>"
+          ],
+          "photo_reference": "CmRaAAAAq__-_X0ax1Nt8aWmFDofoZNdT5RpL44WVtg_mfbi6XCiC09H_eirSPicNY_HEggjufh45D6fXJ6hvh1Tk3FkyzpX94nrXbhaAUhPaJ3JduyqWK7KZWXTXXBv25Jj1GDMEhAGkyFQNJISlkiPFIT8CJrZGhSSvofnNeXn3pr2tbBZ0bR38vOvQA",
+          "width": 5760
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109588764242985719780\">Pikes Peak Region Attractions</a>"
+          ],
+          "photo_reference": "CmRaAAAAeTQ__yP6P2ujMTKTamsAxB1gUU23gTY4ChfTUdCWZE8RgZPuLB8Rj6Byr2L50B3EwBtr43XjZnHA2g5cJLAzf2UVPCbBNn6hG7VKDMLnHp3Tukns5GIkiQ5-VPbN0toTEhAroBQ7ypEypuEtdl8kyaOLGhSEjmDEd4tZtHRJJkdmCulfQ3BmiA",
+          "width": 4032
+        },
+        {
+          "height": 3442,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109588764242985719780\">Pikes Peak Region Attractions</a>"
+          ],
+          "photo_reference": "CmRaAAAAshHoH1lqXOCCW7L3oL5cWNa-QdbYQO6yhRpa2syVElnYzdR8t1B93JIjAOt01XRfCaCv7AOP_q4BkWlFbebViXSdYL9ZULO9tUkPP30J0ZUsvwtm3ft0E3lpNFWtgzSHEhCZsa5nZd5bS5M1b2wH490xGhSUHl6gA6DY-fD7PQDZbcjYYzLIyA",
+          "width": 5665
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116568402993256963835\">Zimco Zimmerman</a>"
+          ],
+          "photo_reference": "CmRaAAAA90_wbe_3-XIY1NcVpww3C8zRqLr2H0gJ9ZuGUMF38miBMa2P7cYE7iVSmh5uIJ6ht9B-smO0SEDA3QL72SHBRHE3vE6tcnZfoyXMl8gTtILR1bh8MKa7JeQmb13o1Bn7EhBH-AX2JoX0LNaiuQwANMNxGhSVZJC6VgRfO0Ewqvk4Dv3cnPqKDg",
+          "width": 2168
+        },
+        {
+          "height": 4661,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109588764242985719780\">Pikes Peak Region Attractions</a>"
+          ],
+          "photo_reference": "CmRaAAAALyQgxa5Evkbwwag_jEqW6SpWqdvjZ_fnNN-kS7yqzr0Lkk8DrCz139taM1n_4DZ9-E-FK-A12CxdN6oyNacDZ3P9d17dytaZIQ5OYELMmbf6t3ikzeKgXtyWJqzjystSEhBv8_lz-kmUYKrdYWv9uJBRGhSrK9CoaErcGDiT8Iz736moBBLk7g",
+          "width": 3801
+        },
+        {
+          "height": 3805,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109588764242985719780\">Pikes Peak Region Attractions</a>"
+          ],
+          "photo_reference": "CmRaAAAAQUy9RkEn8eMdDvkJsmVvxbgZyszHbd03xi_qIRSsmfF46M-gep8LhKsPrphamMMlqNJ10LzddBImqg1Onc3YzF7gsqHDI29ERig-kmt9RYcLY8b9h5WYJT-cJLWeU1TbEhDPRHf5lNxEs4rqPR9w1GcyGhS5vKsSkGWHk93PeoCuBHkylgaV9A",
+          "width": 5707
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.pikes-peak.com/",
+      "mood_params": [
+        0.005141201820729543,
+        0.008258760169841863,
+        0.00869429198750982,
+        0.02499792808867307,
+        0.01660323462377366,
+        0.02838313870315679,
+        0.021956313926182993,
+        0.0077781162598404485,
+        0.01729126687287533,
+        0.007812827392087983,
+        0.015141029400010978,
+        0.006270986969083552
+      ],
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "top_cats": [
+        "hiking",
+        "science",
+        "animals",
+        "water"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -1.3394998460353287,
+        -0.7328034707023955,
+        -1.314825176179911,
+        -1.305727765254,
+        -0.9715555578265727,
+        -1.1119449438958804,
+        -1.7533969808843726,
+        -1.3154199202764638,
+        -0.9430419380126137,
+        -2.002686736193361,
+        -1.2407989472828302,
+        -1.0528303591751835,
+        -2.0172442054634647,
+        1.301861639056449,
+        -1.5321723567230634,
+        -1.5925171945046328,
+        -1.9950182567393773,
+        -1.5719215716881494,
+        -1.3690473660875093,
+        -1.704257587355822,
+        -1.326319415881528,
+        -1.6915502477246767,
+        -2.173139972136503,
+        -0.9332198954962873,
+        -0.0025911022682081736,
+        -1.7772737690213685,
+        -1.4723923602192743,
+        -1.4198273099399508,
+        -1.2788995442231752,
+        -0.8315569884946667
+      ],
+      "global_mood_params": [
+        -0.3925281743295903,
+        -1.266329568429671,
+        -0.9756721263883746,
+        -1.5574086670594338,
+        -0.9159368088847499,
+        -1.5763162720194628,
+        -1.728687450723192,
+        -0.8698455876706669,
+        -1.3826473438036662,
+        -1.3954707651331186,
+        -1.770077909493853,
+        -1.2379957639369377
+      ]
+    },
+    {
+      "name": "The Broadmoor Seven Falls - Currently Closed",
+      "orig_name": "The Broadmoor Seven Falls - Currently Closed",
+      "place_id": "ChIJmaCcQGRbE4cReZfVV3CSuXw",
+      "cat_params": [
+        0.10369679254276497,
+        0.08142933691887472,
+        0.07642382529728275,
+        0.09435903423239064,
+        0.24248219366662743,
+        0.047771597236766244,
+        0.3186889868453401,
+        0.08472046447348051,
+        0.26301179546772563,
+        0.30533469769938104,
+        0.1552860928950652,
+        0.09842299487395656,
+        0.18718757163627253,
+        0.30600459142336,
+        0.22345738325211806,
+        0.14633274254480624,
+        0.4484691123535806,
+        0.17254492818349118,
+        0.09071175494011635,
+        0.10529768350947125,
+        0.486975904283561,
+        0.18549292468935952,
+        0.18452565508765031,
+        0.0745717137565834,
+        0.0025117523536822544,
+        0.29545864219272827,
+        0.2406522604383513,
+        0.41877184825762587,
+        0.3028103471663922,
+        0.26662243206402203
+      ],
+      "noncat_params": [],
+      "quote": "Park focused on scenic waterfalls & geologic monuments that also has a historic gravesite.",
+      "phone": "(855) 923-7272",
+      "int_phone": "+1 855-923-7272",
+      "hours": "",
+      "coordinates": {
+        "lat": 38.8231364,
+        "lng": -104.8484113
+      },
+      "address": "1045 Lower Gold Camp Rd, Colorado Springs, CO 80905, United States",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104577699250199725652\">Travel Reputation Services</a>"
+          ],
+          "photo_reference": "CmRaAAAA04_-PTCLqG42flGgsGBAjskMcXP7mcY7YeaV6c-Njyke25DuRcUA5y3zMpNGV89GG_kbsU8HiieYKM1hFl8x5kCJDPAd97XZAmheiRRsBdqx-9AeGp-zP8LplpphldYsEhDtbPBJ3oTUamDskZpXCV72GhQsFG-R-KdDTESNfJ9oOLX-g3y3_g",
+          "width": 2448
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113472950568209814317\">TJ Oldani</a>"
+          ],
+          "photo_reference": "CmRaAAAAxO9uOGrZ3VgM70OWg3VjsKGJ8ijJUg9m3JfK1IuSBS8N3Sgbkh9pGK0ab85eX1xb69rDOr8PBTX2NqF-dPj1roAkSnmjVlUSIBp3bA0UZ8rY02cBmzN7vYpK8vZmQbucEhAgS7wpEqxCIxqiw-wqq0iaGhTHG-votq1ADsvp9DFk81FIt65C0w",
+          "width": 6000
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113450469316276463356\">Lauryn Kenney</a>"
+          ],
+          "photo_reference": "CmRaAAAAgaPF0jKHhHXEUNo91uO7OmNhNW6e_0hl0bK-RbnJxSWJtDrbDCtf2etZ8OsMT2pthi238SSOqzNoE4ratFlggMcB8o2CgAZvxC3bMeQCAJNJicwPbqDWIPldW5z3X2PEEhCz_aeBycJTFAq9KsVA68HUGhSv5_nET1mKravbeR28f6AllhrScQ",
+          "width": 4048
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114257472592802629457\">Ana Maria</a>"
+          ],
+          "photo_reference": "CmRaAAAAM5XVjLEY06_4RAaDqwkHZLMe5Zz9H5ixoKnC6G_G4cU1zmA71QBF-hXLBlkKZmuULfH25A3pF42HfkbmxUyqXKZpvPdknEYG04G1fveBPeY5HKu8cS1HNHqH5opjvP7XEhBxsQ7JEAaxpEfGZj4hkSKmGhTxO4hNEl_JNon80FI5nor8zge33w",
+          "width": 6000
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101678334303959091082\">Chandrasekhar Sonar</a>"
+          ],
+          "photo_reference": "CmRaAAAApipeufDcJF-ak2b-F9aTUiJJMGnmVhYIY3zqd56LFKtZjZasBCbIAx2NXYmsII3U0FXArClGcp5zgBi75ryMOc9Aoaaf-NnbF5YRrqHXJOXhr1g4OEVisPscBeaAtPYnEhDBrkHq04xxX04Yp1XLkwxSGhTCMUagJk-YHhH_oZgVVhj-XjsjPA",
+          "width": 3120
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103745424149433580515\">Jason Dempsey</a>"
+          ],
+          "photo_reference": "CmRaAAAAalZPtAZEUwfZwqsK4o8xFnqSbHKLrC2cnpBXT_arYAmXJVnKoosi6nwKSRY5glwBSUnOKdHeLQ8T9cpkDhpw8zXUh8uicE-sgDAblUfiBI2ZPC1l532kfPcmB1k6Rz0LEhBD-CLVfjI2HFWVftDDFEPHGhQkeLKcC1hBig2ZBhor4VZHmRQCkw",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102068183041816631779\">Fuder Wang</a>"
+          ],
+          "photo_reference": "CmRaAAAACSWORp0VrjUL8ijs4EjErluXmVSbT5_swiQxRVavQ7Q6IAhkcZXO__sw6AJnVOKfETwJBDepjaPy-BOEzLAaCNIhbquXaetTdYksEHYeiAohmXvBRMFia4oFcqen4BVXEhD4owhrwgpDflAoLLhtOc0MGhT2cZxyQ-Ma68WYnlW43RZp-hC0nQ",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115529240588282214237\">Caleb Nicholson</a>"
+          ],
+          "photo_reference": "CmRaAAAAFS1Nl1u_RNqQU0OabsSzSWVOoTVjfSpyWgRFcXHj4B7LPu7OWT-RyxZsgxQwkH4pDkj2XDlwU8XvEg6H6AM1-ceJ3X4_XqgtomfafKjASddwN9ccNWdaaxDNWGBHjDJcEhBddH71Hq6LPjPKt8QwLIQWGhQLmWHchlBKlmE2IYHhwc1wzHwDlQ",
+          "width": 6000
+        },
+        {
+          "height": 2253,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102821927857176051444\">Pete Compo</a>"
+          ],
+          "photo_reference": "CmRaAAAA-29iXdRFfGoILttoG2PlhtCkIvKUMuPDr66tbRKbIPUvXCiNkmnfncECSKoRZ8eykX3BqDJXM3sl6kimcVxVoMSJtZB0y8SducRD5M08lhwNI2t8ngdIw1LmNzYfL4RLEhBNvPk1H6tO26er4Ux2oM9LGhSO6iuvWT7QZQjicAqw5jXbIncLCA",
+          "width": 3358
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106598408282047777014\">Me</a>"
+          ],
+          "photo_reference": "CmRaAAAAve7VlZyCSNugOthL-XcKk5HdKvAZN6h4u8UQyXjZqu4pnuTIPBFgUNrvVrIfzS8W_Mxr7Sg0qm7ZAOfiQAqO8Ejc0JIo6Emo-cbukFZ98SA9Gne2F33s_Uw9TSlkwAI4EhA3dztY4Jh7N2EddqQ02HOEGhQcap42kzRNz9U2n8a-0L9LAdg22A",
+          "width": 4608
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.broadmoor.com/broadmoor-adventures/seven-falls/",
+      "mood_params": [
+        0.010847247732415705,
+        0.030952433696358098,
+        0.0550239860325432,
+        0.11414273305994528,
+        0.07050386933060213,
+        0.13413535334479923,
+        0.09689301599100857,
+        0.013807725661730852,
+        0.11903484662624711,
+        0.04184607378885214,
+        0.07036502560748292,
+        0.02103717486425738
+      ],
+      "popularity": 0.7488912193011106,
+      "num_google_reviews": 3827,
+      "top_cats": [
+        "fashion",
+        "engineering",
+        "hiking",
+        "walking"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.6979220548108667,
+        -0.3685695018491565,
+        -1.4560024319076377,
+        -0.9784164296161187,
+        -0.38476896731910837,
+        -1.2988111891698004,
+        -0.8470903645466096,
+        -1.4039849606590884,
+        0.8345642529660399,
+        -0.17034653154556692,
+        1.4177616689422616,
+        -0.4033903857419831,
+        -0.7168227783496645,
+        0.7368070687993203,
+        -0.7250636676964455,
+        -0.2816241531975425,
+        -0.11218783554552945,
+        -1.2695494154561815,
+        -0.9584040572507443,
+        -0.6048464115749081,
+        -0.2467805325679435,
+        -0.6817025987967285,
+        -0.8176151066820088,
+        -0.8735384093114551,
+        -0.721096007170582,
+        -0.43827351374819695,
+        -0.4641219690285844,
+        -0.010794780121352716,
+        0.021760415041749165,
+        -0.4339417771327034
+      ],
+      "global_mood_params": [
+        -0.008614743790017929,
+        -0.5864494382798685,
+        -0.14152324875181835,
+        -0.18311168365371075,
+        0.26703363659494816,
+        -0.24648037525575173,
+        -0.31054012027735234,
+        -0.6294105086771332,
+        -0.036713600251332065,
+        -0.07283070433860946,
+        -0.4921834357442475,
+        -0.33529627228757974
+      ]
+    },
+    {
+      "name": "Manitou Cliff Dwellings",
+      "orig_name": "Manitou Cliff Dwellings",
+      "place_id": "ChIJPz3rtZlQE4cR_GItV0qFr_g",
+      "cat_params": [
+        0.10779181050117437,
+        0.08483145178713511,
+        0.19166917133951308,
+        0.2167855245221164,
+        0.1897255334426077,
+        0.15007669456671185,
+        0.3758774766131558,
+        0.24856417932846436,
+        0.15622488034159826,
+        0.3333998693034043,
+        0.13410015194888275,
+        0.12321902406186776,
+        0.2519528148186196,
+        0.20238617698868114,
+        0.3577341423231635,
+        0.13548445562875291,
+        0.48317501306319727,
+        0.2690226421116676,
+        0.11113763814869919,
+        0.1257863547324962,
+        0.4438643994707684,
+        0.19867894692305865,
+        0.280509790946774,
+        0.1035488607401152,
+        0.03650918613165528,
+        0.4012200460703162,
+        0.21654383449778203,
+        0.39293209511560095,
+        0.2509960959437666,
+        0.19266767313059585
+      ],
+      "noncat_params": [],
+      "quote": "Recovered cliff structures dating to 1200 with museum of prehistoric Native American life on-site.",
+      "phone": "(719) 685-5242",
+      "int_phone": "+1 719-685-5242",
+      "hours": "",
+      "coordinates": {
+        "lat": 38.8628747,
+        "lng": -104.912272
+      },
+      "address": "10 Cliff Dwellings Rd, Manitou Springs, CO 80829, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113017950912087302302\">Cassidy Harvey</a>"
+          ],
+          "photo_reference": "CmRaAAAA1weu5b9f8I03-JgyqZwv-Hc6iOAbphWNr9c-3pXvU3L8uop_DNYBmZ1tjZAYQOUxmHRTT3SuGveCBJlAGZIEDTbOohbSnbv08LdZ1gphWmJJ-G7FRp5xx867rxTPipXcEhCl8DuF6qqV2ZqIzn_a8dvZGhSZ2GZYPkitKwunWCOctG0dfdmMQQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104373574205133589066\">Tonya Olmstead</a>"
+          ],
+          "photo_reference": "CmRaAAAAHzq4a8sYzsCdomh1pmWaKp8b5VxPcSwP-48Vzs3m12JsYDC7JrgyOweh5dSWq1Bn_dQ2UdXyYJfoUWrJ1ntL8TbANLqpeUGj22dl8ygfaUjIioh-U18bLmI4dca0jPvOEhB2wr17i7wCPMcMOXsOch_uGhQw4OdbEOlbXleMpULwKRLPyQw63Q",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118159945043364500278\">Sarah Wright</a>"
+          ],
+          "photo_reference": "CmRaAAAAXu3A7Klvg0syUiUjy95c4acv7V7NyCEwH-HAlumISChEZ9KGuJ2nIDUb6TrwSEpOdhOnBv2nPeE-7LR3w1-zwzE9EGPjiCTgaoN0KRVwWqcOzSP5qZxD02loaFhrzrk5EhAAFG3GXfP1cNAP5DeZWMfJGhSQE21-15C9ZL1CVyRsTtYn_Vdvfg",
+          "width": 3024
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109814081588842827804\">Manitou Cliff Dwellings</a>"
+          ],
+          "photo_reference": "CmRaAAAAFfBVfcu0SvbYh-jLNevYA2IuqxE7NanZbyIDONme1af1PAsICXsM3POd-dHpk6MekxFPTljl76wcZ5z0vspNIfXj3SFZroANcFdRZGD6RLJy-Ax7z3aOTsNTdBF8d08REhArGwlZMlxPUS6CGGPyNsJAGhSqHyEQ6a2jTh6E6_ytuKoboKuqLw",
+          "width": 1920
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103471612057052978228\">taytowne</a>"
+          ],
+          "photo_reference": "CmRaAAAA2NySWcI9wZQRw9IkfZBIDs-sfP9OrRKYFZtUS7qgyCLuU0Q3KBltj3-xjHL6WNqU8OrbI01xZz__ztw6q1ElMPpAovQzyY8hF6brkYlNusL62vnRGvyExbQKr4AZhDh5EhBpsRRuR708dLT40dH-33JyGhQFnJve6gyz_LpGfko1XtsvP3lxtg",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113549536874102158864\">AG CAD Designs</a>"
+          ],
+          "photo_reference": "CmRaAAAAOdtNg7AUk-ZeviChQFhfZk46ZvmlAUsKPtn_sTUYZNs3T_wE1WExEM2S-RpQwoHOcm_RZbrcPT0yubCS7wt4sLuUzaZ5gBtJSR71eD3PPFnsNT3jNSM1_PrAAfd45iB1EhCJ78cQkDzBDXGRu8OXnJo6GhR7RT9FjjfPNXSqqGYTh1vYtnFhTA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104227315015143215168\">Graeme Wooller</a>"
+          ],
+          "photo_reference": "CmRaAAAARUGJP5P81EQLxxS5OGxEz0qoVZQffbKOJMLQR8UaaKErWv5myNb7jDnczCtgUjrRV9wGsW1SWFdHn20Jjij7rIUl0OdzsWuUBSCEIWK6jLQvX2AL_MdbJbSdJMugj9crEhCh9i70OrPn9IYOXHSm2ajOGhRHFh1fIfPOkThSoxah4X7bps9iQg",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109814081588842827804\">Manitou Cliff Dwellings</a>"
+          ],
+          "photo_reference": "CmRaAAAAJcMxyxs3BNTcdUXqMs_8ipuHY78prwNS536HUlyqU6V8DtD5q6aOIgCbdL8ikWGyDjSR5mQWL-Db9BI7IZnQXk4SrAbt7voqBMJVqrqnr8w6cyGYxofHI_emkDkP7cksEhBMyus5gZAibaWLdK3b8wPCGhQInYq3vTpI956IHhPFbKRyu1Vn3Q",
+          "width": 5312
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107977958593564715395\">John Rambo</a>"
+          ],
+          "photo_reference": "CmRaAAAAZdxkBAZOPaqtAcj9K3QM6MukNcWB52T9tKLqItYHkIFmZkqQEIv17gBVqrvajfw_uGKJrUhDls1cmQyl1mFc6Ng3wFqeKx8-BLMU2OrT_0-w0SX26hqStUqwD3CG--BJEhDoZBw1ev4XC_sJn1FsW5BnGhRV9jE9N9lIL4cZsZv47Ao1qmVlWQ",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111664069436907537105\">Jeremy Ham</a>"
+          ],
+          "photo_reference": "CmRaAAAAa-0NyiOcD7dJ3b3efPQ8JgfM0V7MNQDgk2r8I_ddR0wf7n9stDckcogWsCRC66-fo3QNIkWdPvfSugw_xW589AcoCKi5NJvyG2zB4eTfRU3x0EJb3oU9YpwgE_OSw6KPEhCtikICuALP-3_uRKM-MWG8GhQgsdOSehh_JGhz23bWpkKSsFPSjA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.cliffdwellingsmuseum.com/",
+      "mood_params": [
+        0.014329883839843946,
+        0.08532020922077156,
+        0.02006958202191282,
+        0.1706732531203553,
+        0.02916176978266979,
+        0.1708667783902961,
+        0.1204175685308303,
+        0.05685369978845114,
+        0.08705750178970395,
+        0.06286305605361482,
+        0.1208118512971887,
+        0.034094986448688205
+      ],
+      "popularity": 0.7739716548766521,
+      "num_google_reviews": 4366,
+      "top_cats": [
+        "fashion",
+        "history",
+        "culture",
+        "shopping"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.6482354429705977,
+        -0.32789137828538056,
+        -0.3239025844855018,
+        -0.10352969111362358,
+        -0.7101902578801622,
+        0.06600726323110678,
+        -0.23849990413684932,
+        0.4156320680102409,
+        -0.7457782223604533,
+        0.1280603049557275,
+        0.9820413535915277,
+        -0.16789782391507377,
+        -0.01695720550802596,
+        -0.02458395808236814,
+        0.7350632536354843,
+        -0.40867806594139394,
+        0.07612784458097933,
+        -0.2604290790427231,
+        -0.6976762160168428,
+        -0.19659170318592278,
+        -0.45703569545594114,
+        -0.552884845079238,
+        0.264589436639008,
+        -0.603227031634121,
+        0.2577689661572055,
+        0.34620413580127135,
+        -0.6900158471945288,
+        -0.1786598545517563,
+        -0.29101262413481516,
+        -0.9424645679604774
+      ],
+      "global_mood_params": [
+        0.22570352073454142,
+        1.0423556230207482,
+        -0.7708642680467163,
+        0.6883886041579512,
+        -0.6403115586015709,
+        0.21541791907607014,
+        0.13465269532615806,
+        1.08707915087971,
+        -0.4597318147572563,
+        0.7439559864258022,
+        0.6751663432339402,
+        0.4629652670479281
+      ]
+    },
+    {
+      "name": "Red Rock Canyon Open Space",
+      "orig_name": "Red Rock Canyon Open Space",
+      "place_id": "ChIJm4OCqpxaE4cRqqjtyo-YVtY",
+      "cat_params": [
+        0.15434657930688672,
+        0.13184160190820088,
+        0.12922504131670887,
+        0.1482204171473389,
+        0.36287923160072566,
+        0.0693082049069201,
+        0.36636986848448244,
+        0.11900469492368274,
+        0.19529155957244893,
+        0.30811222511292286,
+        0.08363691852033395,
+        0.1082052026967658,
+        0.2625412434295704,
+        0.6082183579383781,
+        0.24114763329785713,
+        0.17922871860349626,
+        0.5465739069276093,
+        0.19836356761316556,
+        0.18684611423044617,
+        0.11179687643711066,
+        0.6647856109591045,
+        0.24211563973082262,
+        0.22553888496476732,
+        0.1282078962508553,
+        0.005949187707023857,
+        0.3263606292953891,
+        0.2738891608754838,
+        0.5119192821596923,
+        0.4672174709057709,
+        0.3486925991933622
+      ],
+      "noncat_params": [],
+      "quote": "City preserve with marked walking & biking trails, as well as scenic views of red-rock formations.",
+      "phone": "(719) 385-5940",
+      "int_phone": "+1 719-385-5940",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 38.8518656,
+        "lng": -104.8784924
+      },
+      "address": "3550 W High St, Colorado Springs, CO 80904, United States",
+      "photos": [
+        {
+          "height": 2786,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103700589738958165786\">Kettering</a>"
+          ],
+          "photo_reference": "CmRaAAAA7balHS-mFr73TbmbQ0xxFMxCYfszmBostfJOTitnmZ2SHOpRjzFptclWhJGwmX2F-FsNyFnwURXcpWNrEgEWzRib4i7AEhHNmKckM05R5B_euCoNV8h8S7Lef6g3Ir1UEhA47Y7EzeKGf4A4TDw9IbESGhQAJDjOfL95P--G4_nfx7-YOH8y0w",
+          "width": 3715
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113646234473830255930\">Mickey Pinegar</a>"
+          ],
+          "photo_reference": "CmRZAAAA-55RCu_Coca04c98cQxQUhcnn2y1rr3hlakb5XFm2rJaTioatPvSDk4l-CjfyHsZXRYyH7cZvKapMWdpG7tNIjggRCGkiHZ1gWfAmO_ATkSlonb-jXFFfZVibTE9FibkEhDXCnazmSIDv2mI_xeWgV21GhRX3CHv3yj0K4rVATY003iwYKm47g",
+          "width": 4160
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106928092701231905086\">Michael Woissol</a>"
+          ],
+          "photo_reference": "CmRaAAAAlr88RfosTghgDXUWz8VJ_mkRmXz2csI4widDXwk5WgOKsyo0vWfxJrdIOK_xuBT_aWtC5WaPFBgKUu6txBdQwcg5irZ8EIM0REAZn2Qzkngu4hFunQnXugNLqiiqRgaeEhA02NUMV6gLqyt0Ujm1c4MsGhQoC_UFp2TxyZ8F5aGgnutzV1cIiw",
+          "width": 3264
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107510831218353430897\">Casey Baum</a>"
+          ],
+          "photo_reference": "CmRaAAAAx365p5La6idqLacJl6oWg_iNM31QwXjAjKSg2dgjL1ptpm3aa6Fc6hjUOtQTqWU7jRzh9m_EV8tNFNKoe_XnktrUJl4xhjPHgvx8BkTtJZYtaO6r9wY3nR9a6oEaVVTeEhB5rwzk04s78dS1WIzTM8qyGhTLQ6ATFT9HxkCu6m17L7qqd4CeHg",
+          "width": 5184
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118244243908027510164\">juli adams</a>"
+          ],
+          "photo_reference": "CmRaAAAADc5DVKO4rSAL82SE0cP4mckufr6CBQlT3T0PeIvwiHl0n4UCDJL7ltscqKzo5sb26nB7t1lAaXTKZRLH910HlPsLwlelYrM424DJwg3JfqHoG3fVSW1ir2qi4QgOHv0eEhARI84lxjXYR456QNp1Nt5IGhSET_75TwUDtjrf_3PTDWDnpkTFBA",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101950349412867099902\">jamie esquivel</a>"
+          ],
+          "photo_reference": "CmRaAAAArfvT-qMXCOGo4jWyD9imh5IYs_A-a28FbICHoyOoVH68EjAn9GttQPGQgd1DOS2UtVgQPF5nUE0FyoT5-aydE9Yp4s7BbNjBZAwc8X_0u8rkjJUvlKqCXhvS2SKwnGRREhC1VzxdQ5wmdjahLKgNkpnYGhS6sKx0QTr-FpVv4oA546srb8RVag",
+          "width": 2448
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105279879498387717606\">Amanda Pierce</a>"
+          ],
+          "photo_reference": "CmRaAAAA9crqu86leI7QVcqarxOQ-Ow6RQaJxq99RlHGYuywpvo9OG0lDXYZLWtbf5-iLwhZWm2nkzX8aYNfrARSY9rNBnnR4WrPP-a2oSX4ODbZXUOT8bHNolINA9tPaXgH2InYEhBSUR6YsR_l4ZC8ldES_3bRGhTijvv-nHtAJVz_vzjhYQcEZr6-rg",
+          "width": 5312
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102062131612632956526\">Rodrigo Borguetti</a>"
+          ],
+          "photo_reference": "CmRaAAAAvlG-SQh3c-TRbZG9v1wsBNegBifAQu3EtYyYV8_kRpdDWLOUoq75FZip3RBtD5M5d4FbV5ey6CZCs2g0hjA6zgYjmBnbnbVeiaOOQxpUeNcZMI12yl1vwaGuN7uzXsp0EhBRC_xHwuWmV6a5ju8uVPesGhS4hiBrzD6MjxpL5BhK3L3Y1PliLQ",
+          "width": 2048
+        },
+        {
+          "height": 2772,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109089197291648098797\">Tope Eletu</a>"
+          ],
+          "photo_reference": "CmRaAAAAQg_ulucDeZp_72Um6n9B4X7SULM0UUjC-KQpXJLO56eDubV1Wua7HOJtPlp_ILLDsoK0Peq9V8gdZYefGRoZccigkQ54mbzxeqDifIsPkY82_fOmM2ggo3Cmgoy5FszbEhAPlHb33bfKxduQ03QQkVh2GhSXMq192SQkIYyXttZAL-w7H851kg",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107045044115128544459\">Kaci Wheeler</a>"
+          ],
+          "photo_reference": "CmRaAAAAlO9hdA98A0-AJXCa0CJwKXmdx5MJBD6nzv8yKHXa6wKbF1dySa7a5wwv37teO8it-jZ2QP2OKQDbEJfmxJ8YY1VNG-iTMr9rljp3T5eqY44EVM49tk1LzVUCnQScx7SpEhBZRNAh2KMmKqlNrIeMjoXMGhTNpra8O73AeceVXhhsPEBHQF8DLQ",
+          "width": 5312
+        }
+      ],
+      "rating": 4.8,
+      "website": "https://redrockcanyonopenspace.org/",
+      "mood_params": [
+        0.014166873089834624,
+        0.045069191729934045,
+        0.0738311777322689,
+        0.1274538594325537,
+        0.08085350548079451,
+        0.19451877561886774,
+        0.13442641418692386,
+        0.02029106293839148,
+        0.15337157846770685,
+        0.03586305017151596,
+        0.08121814874974499,
+        0.04792206171377137
+      ],
+      "popularity": 0.7687334973772555,
+      "num_google_reviews": 4249,
+      "top_cats": [
+        "hiking",
+        "walking",
+        "nature",
+        "views"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.08336643617840887,
+        0.2341956673981118,
+        -0.9373155551517536,
+        -0.5935110915787699,
+        0.35788152074958357,
+        -1.0114984323523437,
+        -0.33967829915859105,
+        -1.0232308402021213,
+        -0.16762936877152582,
+        -0.14081408540681545,
+        -0.05580992896229388,
+        -0.31048691466365125,
+        0.09746337397519532,
+        2.9574823346779495,
+        -0.5326996985660136,
+        0.10364980794739154,
+        0.42013291499360006,
+        -0.9994962285988833,
+        0.2687107612477689,
+        -0.47534430357800667,
+        0.620398866584924,
+        -0.12854025523676188,
+        -0.35519802794277927,
+        -0.3731968680403535,
+        -0.6221242704377711,
+        -0.20906023442408891,
+        -0.15269506971680175,
+        0.5943271356736276,
+        1.0141923143912581,
+        0.13038364335691263
+      ],
+      "global_mood_params": [
+        0.21473585289248331,
+        -0.16352525732051323,
+        0.19709322975487542,
+        0.02209871335712281,
+        0.4941796387475872,
+        0.5128421862774201,
+        0.39976453668569445,
+        -0.3708826992692969,
+        0.41751620118434013,
+        -0.3053500070437697,
+        -0.2410399648097025,
+        1.3082541053991923
+      ]
+    },
+    {
+      "name": "Colorado Springs Pioneers Museum",
+      "orig_name": "Colorado Springs Pioneers Museum",
+      "place_id": "ChIJO6xLHSJFE4cR_9ik-GgocoE",
+      "cat_params": [
+        0.12316613383893,
+        0.06718597536662656,
+        0.2810540020434044,
+        0.30669582631609077,
+        0.20236397443424473,
+        0.19143202391141576,
+        0.3922322121961915,
+        0.30229020108083743,
+        0.16484384082183634,
+        0.28920461631433947,
+        0.08871568506182942,
+        0.09595946382488431,
+        0.24332747644309016,
+        0.2032308329333374,
+        0.41112205200677865,
+        0.16769132059488098,
+        0.42238845428772837,
+        0.3486155949863019,
+        0.13724505645890017,
+        0.1112167011864831,
+        0.4717506765399275,
+        0.23777693690003943,
+        0.2727405378861917,
+        0.1085169177944113,
+        0.06710963007432519,
+        0.30508493398004904,
+        0.22767408206059567,
+        0.34954711305586067,
+        0.23924999588696197,
+        0.23083425801258553
+      ],
+      "noncat_params": [],
+      "quote": "Vast regional history & rotating exhibits, from art to Native American culture, with free admission.",
+      "phone": "(719) 385-5990",
+      "int_phone": "+1 719-385-5990",
+      "hours": "",
+      "coordinates": {
+        "lat": 38.830359,
+        "lng": -104.822827
+      },
+      "address": "215 S Tejon St, Colorado Springs, CO 80903, United States",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115538092002890336879\">Colorado Springs Pioneers Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAXgiQ5DXtEx_9TB9XbwOSntjJIm3B5SyZwKhDHl40_-X7nZiNrPu7YlNE1lcSKcla0fpqlXBTC85GvaMR1McyO0BfV29atJ4mloZe5a6DbT-VhrINbZJS_QYxizwyhVL-EhC2xi-BTf1dyfQ24m-jqM8lGhSHL4hbHC-re8Kl5FHJqO2QguiB5w",
+          "width": 3264
+        },
+        {
+          "height": 2398,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115538092002890336879\">Colorado Springs Pioneers Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAes5R6qsZgbrPZHFJwvoMigEDOxT1-A66VekRMj7ZT2DopO6Gw0kuF3Mrv2_0rgvov3AiBHH0E_0tCgvjL33YMq7V2a3CTLvVh_5cpnuhBubQS_BNzH9OJd7VS9DqjS6xEhBBUKaKI3MXTXlSa7XcaGscGhQZEOHtyzzPIJvdJS3TOCMCmi7Vmw",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110164580596092677793\">Turbo Tyler</a>"
+          ],
+          "photo_reference": "CmRaAAAAFAWSTgAihGREfSOXG9tRmBirsH62TNFEPOm4xlhJ771sMgRxwPLC7XBaeVhdLTcN6EzbEQxr7Z4hYyJBLgfSy0dahQvCxbmPnoglGCNTULGh-D_Zs7oYu8j8Q28SxTJ0EhAgYBpwNg7ojt2dr9vjYLMoGhSBPG-SNQPy69PMQPtvLNdRqTa8Bw",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106842888290826334302\">Vermithrax Pejorative</a>"
+          ],
+          "photo_reference": "CmRaAAAAkE0_t5LOulh3JP9kWf-mH-PfUjnHPzLXNfPCgaQSyued2qkGZoCfchZlj-jERfvtiLzg6910yguA2glSTEAMqXMdmPU6jVNp4hp1QpTMPcIMfWGVQ-q1DGrKvz8l7lYJEhAGSDou_1nRkHVa8cIALKN9GhQ0llpf5l6Q2irMaBtYRrbB9sKcXQ",
+          "width": 5472
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110164580596092677793\">Turbo Tyler</a>"
+          ],
+          "photo_reference": "CmRaAAAAX5EuVLDw02BESylFqzhYyOxohEPy9t5tg45vxI-rJxbgn-N9cctSE_Y4LhoJdPjpP9Xqg-zJiDX3MK36yihFnwFIiwTqRACCQOBDrTYOQk-EAehHoJM25YFVp4v09xACEhBZ7xILhIq6kEszNmFfV2rZGhRzoSC3PlXOEdKMLUuXACoa2q4L3w",
+          "width": 3024
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116593025700230424671\">Pam Finley</a>"
+          ],
+          "photo_reference": "CmRaAAAAVVRkh6WB9er-l9jEiCGTdMeW5_aUixzIwLKXipAjDCAvEmu-IyGlKDWjO_mEYoWDiyv8Qw_f5gVMrvH0dX-grWXfQG0FnA1Wpv3v4C6vmGW0-Y0VCbzcd-YWselzF7-_EhCVYF4Lh9gKtSK_q1ebV_1GGhTtvseYo4Kt42910sR6Kzol03tWhA",
+          "width": 4128
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113713776714620198017\">Connor Gurule</a>"
+          ],
+          "photo_reference": "CmRaAAAA8Bi1VRLXUaHo5l25JPRTSyZ9PgaOoawS4iKhduzIlEnM9-pBeHp0QSiS3ZKC0zU0mem5nDYuegQCYQOHhDh3VGDsRA535K7KSOZkoFP8Nx2SiMOvR4rf-Y3N1GB17Q1jEhBj-BeFTl9tqXA8jmYX1eHZGhT8P4GpPsYuZP0OfD_SZSgBWOsT-w",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116397482919137072500\">Justin Zabor</a>"
+          ],
+          "photo_reference": "CmRaAAAAh2qnjiF4yBU8rgPfBTk7DALQZWdibYrISL5mc7mp0mWwLJttW8GVRpFyB7bNKXHa7CNuu2JC_CKgqtwny_Z7wc37QdtTH_2079IL6v-D6dpv5CsoMk1WbezuUGsKZ3KHEhB3FoJRXMVlniQwzkv2eCEdGhTqARoyzATu9EifmHpIVFyWBE5Q3w",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106814584597038334552\">Nirva Cineas</a>"
+          ],
+          "photo_reference": "CmRaAAAA_vk3BxQoYwkV5H6xX4kTBHJpBrCn2dcfVftzVLwmVrQkGlrYbKM8c0Sg6xcuHyOuIb0Bne6fjetZS39wiA0ae_7jMcOCDCVEG4fP1wbHkVUW_zYuYmuPWI4XY7T92RF2EhBDqeY9J288vm33jzICCsTrGhRPLTCixBnq4M8fH1xYhVNtHp3tGw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110164580596092677793\">Turbo Tyler</a>"
+          ],
+          "photo_reference": "CmRaAAAAIsAXx5KaXOSSeiX6j7CKJgKDdztkFI1p3vbQaNl0YUi2Wgn0mhT54JsroFE7Wma1sR0FQU4nHwUAo8MD08VTfB3HwVf4idspX8Zd1592vTt-6KiEa9xc7Hvn_Zn2BEImEhCpP3w0yUaoiIK0PpX4xHU6GhQ3j22ZNI_dBTe7PwPaNQEdTe28yA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.cspm.org/",
+      "mood_params": [
+        0.0136894463750007,
+        0.06629961590927878,
+        0.032907898606120596,
+        0.13780511666937953,
+        0.04413071059593926,
+        0.1831611805697096,
+        0.12739451486971112,
+        0.050166947804525935,
+        0.10653590167493555,
+        0.04184422516371274,
+        0.0959975173023745,
+        0.030962860972730637
+      ],
+      "popularity": 0.5698503076549405,
+      "num_google_reviews": 1283,
+      "top_cats": [
+        "history",
+        "science",
+        "culture",
+        "books"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.4616921741135865,
+        -0.5388733403794961,
+        0.5541593648850869,
+        0.5389891829319444,
+        -0.6322319913652984,
+        0.6177150282189553,
+        -0.06445550991049451,
+        1.0123030123293668,
+        -0.6182259906662159,
+        -0.34185186301229703,
+        0.04864244181861851,
+        -0.4267870043493283,
+        -0.1101642574162051,
+        -0.01837740241779581,
+        1.315603957343111,
+        -0.03147489618524802,
+        -0.25370258552742475,
+        0.5720830536637537,
+        -0.36442595962896224,
+        -0.4869048032893438,
+        -0.3210340932623645,
+        -0.1709261956518204,
+        0.17699245110471915,
+        -0.5568828436611094,
+        1.1388267230272864,
+        -0.3668711828569083,
+        -0.5857263845349167,
+        -0.4605055518612822,
+        -0.3619171209971483,
+        -0.6800260374255316
+      ],
+      "global_mood_params": [
+        0.1826136914588108,
+        0.4725173621048061,
+        -0.5397151618374183,
+        0.18167841740842208,
+        -0.31178454442915177,
+        0.37002023547045465,
+        0.26668863435892215,
+        0.8204400314433551,
+        -0.20205820292357882,
+        -0.0729025477836415,
+        0.10095762131135722,
+        0.2714894376056524
+      ]
+    },
+    {
+      "name": "Ghost Town Museum",
+      "orig_name": "Ghost Town Museum",
+      "place_id": "ChIJ57p3fMdaE4cRipNsj6MB388",
+      "cat_params": [
+        0.12948470318389269,
+        0.11129306976084408,
+        0.14812496176536993,
+        0.18265138724966906,
+        0.19064419696009502,
+        0.10073621141147833,
+        0.3496826431982146,
+        0.22856955498539425,
+        0.14148815234240048,
+        0.33169761398740505,
+        0.17937169980560763,
+        0.10290152546138827,
+        0.2772730274696473,
+        0.14176740411887023,
+        0.33474195293190284,
+        0.12430494545526655,
+        0.4844781450540864,
+        0.3055426904437343,
+        0.10948744025381993,
+        0.14642128465008597,
+        0.4270096719629047,
+        0.23500684030914953,
+        0.24103235349192825,
+        0.11678726861237644,
+        0.023293761620392883,
+        0.35203185875041615,
+        0.21457722481162433,
+        0.3426203210053621,
+        0.22616418446641806,
+        0.22043956122716843
+      ],
+      "noncat_params": [],
+      "quote": "A model town of historic structures & artifacts, with gold panning & other activities for kids.",
+      "phone": "(719) 634-0696",
+      "int_phone": "+1 719-634-0696",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 38.8404749,
+        "lng": -104.8607719
+      },
+      "address": "400 S 21st St, Colorado Springs, CO 80904, United States",
+      "photos": [
+        {
+          "height": 854,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116570831811313825051\">Ghost Town Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAOMr26QhvvC2q0_e3zWDFMb6IKuxRmp2n5jZMxg6QEvN6pJfs_nhGb33JOpJVC3du2U-APR4K5-k6_whXQnOtJzn4cTPrS7OWlw7WvXKHpYS9sbhTynlduDmJCvLenk_YEhCSCwKpeVqt0frVa3ZxZwhfGhQ-rmWoTSCKS__NYMMErwrvdQy-6g",
+          "width": 1280
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100731782447863158556\">Bartal</a>"
+          ],
+          "photo_reference": "CmRaAAAAK7-iaDAirGcZ61sJKGFC5V4ij0jVvD6lRGZicy2QZH5SVe3ui04lgEjiNEvQsCVuLkOjNQ2Uwf8RoYWasbybjv8taSwCie1w3ILm0t7-aoxSgUxQgczhGXz7R7zBsTZiEhC-aKLcmdeT8SRFHSQL7oDlGhRaqFWJpxIj9IPD-tdOFAcerzHTfQ",
+          "width": 3024
+        },
+        {
+          "height": 4912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116570831811313825051\">Ghost Town Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAApi98ibWAtVZxY2by2X954fTk9GEYkzPpDsaIkSp7jzIBvNdiqpVH5mN7BMQYx31shoISzuagmMS08lCkzIcD-xwpPMWljUL4TtwcMxkEetgDJBwh0yRAmi58d9AnHPHAEhBgUaKtVB1Nh2wlcMjujCk1GhRa5Y8jcJa1eqVgCg2D9y9gvW1OmA",
+          "width": 7360
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111678885385396743650\">Will Kennedy</a>"
+          ],
+          "photo_reference": "CmRaAAAA6apAHPku8E9oXFfYOAA89xbX7H87PqLPD-BRBssRq_ew3ygsvGRog29geRXaSdxuE915aYG3CbpmFBv4LR0T4zGefYCQ4Un5Yg7LgMblDMp5I1m5T34rzS9J6jswW2PvEhCCVgTKI89Mzqf30p_0T40VGhTmw65lJExWxpTGjH42MRPx9XO-cQ",
+          "width": 4032
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101664988169701803369\">Alex S</a>"
+          ],
+          "photo_reference": "CmRaAAAA8X_TWJ3isWpDSg7QKqNZBgiX4rApWTWWHNzKweY6JKqK7EqB1DMlI-0ND6VPXXlbo8DLZUfrWCdsIkQUSrmOY-nhMqnaFfKia3OSgDDjkjjV5pFwSqiwY8DBKKu0eEbdEhBuW65uESCQ47enE4PAaGLeGhRk-2E341eMgaUUnzJeNy994z9E5g",
+          "width": 4096
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106842888290826334302\">Vermithrax Pejorative</a>"
+          ],
+          "photo_reference": "CmRaAAAA4w1rh-vXhwfQrpXp3igiH0vm9JwQJnPTu_jkc2DZxIlxTPuOgVYkwqd66DFW9daEar4RJLL1RzzFconl3t6LfmdUOrOAljgxw68rRJWb6DjxcNXs0viDkmeHAwfDfnMbEhCfJwh5FNevXsfvXzRML0zUGhR6oL3jYFaUFteD37-110gmh1Ncyw",
+          "width": 5472
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113169529479630424477\">Alex Brodsky</a>"
+          ],
+          "photo_reference": "CmRaAAAA6GCv3XlGlmsdUJs6IFt8kqtuaSIpt9FVSdFLpYjevbmsSYKeB8b3TrY_cNGopTGVbXkYLGdjmFOqoCusnjFR5gDp9WulA4XP-cWR2AkPwW_UX2bJ6XJqzd17cMWwRmksEhCKyBc3gGg-F0FemfAU9GfIGhTRwI-Z-SP5qs-dbI68J_q9ElovRg",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106842888290826334302\">Vermithrax Pejorative</a>"
+          ],
+          "photo_reference": "CmRaAAAAbenLeL6Fo7uKXtyl07sHoV3Irje-GFa3XQNBYJYmACOL-RFXFpMzez9hMNeqDH15MPTMcNkjRqhmk0EFUm5gtf8jInTyiQ-E69VLv3l4bBMHImREIEWz1Zv4sLzrHB6OEhBHLbY7uN5kPloaUMVMkqRAGhSEyrEKeRbAKik7IUFut1lf7ZFp6A",
+          "width": 5472
+        },
+        {
+          "height": 4912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116570831811313825051\">Ghost Town Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAraELhmBQon7yWNZUn3jSvawIpf1xGsYYEZ_AIOxwPW2ja1jMq32-bSfNXb46j1MThkQIONbGyiUdkj9GKD2espXPWP_8i2TYgj1QpfSOJzDigRQ4_GpqNBdx7oKLVo23EhD3cVgT4DZIpND61YsBtNYMGhSgyVMgF32PE8Z4SvM9oP-U-iSQCw",
+          "width": 7360
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106842888290826334302\">Vermithrax Pejorative</a>"
+          ],
+          "photo_reference": "CmRaAAAA2n2mcfqXiYswWt8vW9vLLJneyjJLdanHZ6INIoCannKirrjIMNfgl-JJEEVUbo4T8fXjVOUKLh2fLHjcuch562KsiPT88fmbYKsQgyXu7KDkEMuA5lkiEG9qJiKkXzpbEhBPytLoXR5MxV3YnIExXWl7GhRSrZiCtb-g131C2fs4FEP5Cf_9-Q",
+          "width": 5472
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.ghosttownmuseum.com/",
+      "mood_params": [
+        0.035156768400409474,
+        0.09947309747698553,
+        0.009197777107547217,
+        0.1538038510797034,
+        0.009812792605804938,
+        0.17497323358470776,
+        0.09515121790679289,
+        0.06440228337348625,
+        0.10150174131130754,
+        0.0994138085174592,
+        0.10284579741936903,
+        0.034807303697179465
+      ],
+      "popularity": 0.5511871219249068,
+      "num_google_reviews": 1123,
+      "top_cats": [
+        "fashion",
+        "history",
+        "friends",
+        "movies"
+      ],
+      "duration": 1.5,
+      "global_cat_params": [
+        -0.3850262582085612,
+        -0.011497309503579542,
+        -0.7516542873346639,
+        -0.34745977486604585,
+        -0.704523624204288,
+        -0.5922277965866566,
+        -0.5172609938785082,
+        0.19357558590045432,
+        -0.9638674627599765,
+        0.10996083879418679,
+        1.9131179179346582,
+        -0.36085693680699615,
+        0.2566578426373308,
+        -0.4700124079912312,
+        0.48504593907712906,
+        -0.5396112281164488,
+        0.08319869369139864,
+        0.12155679062792933,
+        -0.7187403007541828,
+        0.21457733771633056,
+        -0.539236339877593,
+        -0.19798800505078792,
+        -0.18051184796295533,
+        -0.4797334291673521,
+        -0.12273375784879231,
+        -0.01864572586448505,
+        -0.7084428108602613,
+        -0.5055046838858752,
+        -0.4409086901411154,
+        -0.7515013595733218
+      ],
+      "global_mood_params": [
+        1.6269752284722723,
+        1.4663622299011771,
+        -0.9666070644137008,
+        0.42832220607903465,
+        -1.0649683047603051,
+        0.26705666294999814,
+        -0.3435029573817836,
+        1.3880844349016215,
+        -0.2686535234370197,
+        2.1644343297865647,
+        0.2594282123080392,
+        0.5065112670494782
+      ]
+    },
+    {
+      "name": "Miramont Castle Museum",
+      "orig_name": "Miramont Castle Museum",
+      "place_id": "ChIJg6AfEqRQE4cRN479sUBNRb0",
+      "cat_params": [
+        0.0720885863821291,
+        0.07574645910228085,
+        0.2130191385621315,
+        0.17961400129813695,
+        0.14463719754727378,
+        0.15277557030783892,
+        0.3249577018949176,
+        0.19316983285586456,
+        0.14941828178930877,
+        0.29014678051607207,
+        0.09292293880932935,
+        0.15756482884237477,
+        0.22710702486495365,
+        0.1335967895356516,
+        0.35211220602622434,
+        0.16742327905954002,
+        0.3864731666269104,
+        0.37712384012909267,
+        0.13359997487010636,
+        0.11637393287546886,
+        0.3796083207613588,
+        0.18436214907301288,
+        0.24852461540813187,
+        0.08979532853947061,
+        0.039386552012739495,
+        0.24431140223695036,
+        0.16788440080310169,
+        0.3145166781213667,
+        0.20540346557599204,
+        0.14207573587042602
+      ],
+      "noncat_params": [],
+      "quote": "Tours of an 1895 chateau with an eclectic architectural mix, plus historical artifacts & a tea room.",
+      "phone": "(719) 685-1011",
+      "int_phone": "+1 719-685-1011",
+      "hours": "",
+      "coordinates": {
+        "lat": 38.8592342,
+        "lng": -104.9222607
+      },
+      "address": "9 Capitol Hill Ave, Manitou Springs, CO 80829, United States",
+      "photos": [
+        {
+          "height": 2498,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110653757368577433665\">Miramont Castle Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAwNcH8WZ__0GbFht8MjvGbQLGJSovKfjWnUVJlK5KAOJpZgDvXapGbG1afCL02HufVAcoMqn9rxD-_53WNoqoC6XhjoN0Rj6klR-r8iEWXKgwxupiEBZvvohl_GgQRFqkEhB1X7s2PKVxn-OTLaN4-SZIGhQbiI7GyxZeC8A6U2119DIr-eoWRw",
+          "width": 4112
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116253122730087968348\">tamita4ka</a>"
+          ],
+          "photo_reference": "CmRaAAAAHTddNk9MsmG1_B5mAXw4u0E8jRNsKUFSz5abdd1bwDTb49gBFFFZRK1DGNw0TMl09amgBPKHQERNWlKnsvDcp__EDbYI-PCTSMVgVGimY7iWb6e0RPCMUrpBYgCmICtREhCozFUi_x_p4aEBNqNwWLR5GhQrYooVcauRSdKT8vP5Zs5SvqHq_Q",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112650526843516156130\">Jessie Hutton</a>"
+          ],
+          "photo_reference": "CmRaAAAASRk9CD9EvRyPE-C7ICAKCZ_KPW4YcRORn1FyBMKRbX_rbxohoLsfazlWvJOIitdcQv5eZUaFPPl1CKJdEnWmHcGkcRF7YORt8jn31Plh28hJD_3KhCaByLYMWnPzJrv9EhCOa_oztnEg3kcKb1WyhfVyGhSFySWLZjXFcRjwRdI869vK5VkMJA",
+          "width": 4032
+        },
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102993540082568535741\">Stephen Bussey</a>"
+          ],
+          "photo_reference": "CmRaAAAAnXQTfWiqxbEDqc1F1PA5C5SWNvGWMoNx5BGEKo14ARuYsll6dgkWnwveyYbMjz8bWh3VsRvjP0VKLB95peU6KquWf5Vu8BfubWRzvt6N2XHxjwo0OJcjGlgj1CSGoJ82EhA8PiLjYIRtGEpAhiQL7Gd_GhQRrBmSUReI7brBXL4BAmbFjYP95A",
+          "width": 4656
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118131165825580450651\">Brenna</a>"
+          ],
+          "photo_reference": "CmRaAAAAb2NaZwm6Gs7ioOv-Xh1zIkflUuWBjR-6UpjF-OHTCT0vs_W66aEGeeDBG4TIJJSJK3a2aoCApFZ4i8iD4vaS432NZBt1WMBRzKK1tKZQDsjPgGxdK2L-mbuVP6RXrB60EhCl8ndCqSWQDzUuvP6OrHUgGhSoHUkpu1T5Mp3NAx6olIiMI4lwnQ",
+          "width": 4032
+        },
+        {
+          "height": 1500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110653757368577433665\">Miramont Castle Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAIcNBQybu8pqT5Bqr5fT_4claNDKI_JxXZzEgj_oIImimMX5TJEU_qH-dnF4nAL8g_M4omGBf_YXnARdDKaPhbIO6abh9R9W-Pp0CV49ejlROsIVLJbvUPiFwLYT9U_PbEhAKRh1JmXph56dnXZ3eBD9_GhRZmX4BdkS7f1H7m9i3-EFde-tguA",
+          "width": 2250
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107876933459327459851\">Casey Atkins</a>"
+          ],
+          "photo_reference": "CmRaAAAAWp-QfhqPjyQKCyOA9lAVlSXjnTXZ_wY_TaSft5bH2cgXGb6RvD8cFJ7jHRTm6c4Pp0lL7Tq5nAc24jfeJ_LJIfY6360VenUmfxCyxxwQhc713oGIXdlT5RsCmVXJAf-mEhAjwjX7Jizx1Ce2AY5HOYpAGhRd8E3qw0Y2Qu7PUNYU8LRopXu65Q",
+          "width": 6000
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103980195503098587353\">Carl Backstrom</a>"
+          ],
+          "photo_reference": "CmRaAAAAgYQ3Ggjef9VoCfuJ7CFeuowrqofUNwNH0YU5scKXRwDwY6lKxA3SklnIvFnqwEngDtDF2sl-65BtTZXD8ShgQg3sFTQHVdRFxao4ngehldFGSG2rrUG2IYByBcp06vkqEhB95_Gi8FcdjOVafmgoQ9toGhQvV_bARUULGcG2tFI7elm8h5kqDA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111210440308780050358\">Annalisa Hamlett</a>"
+          ],
+          "photo_reference": "CmRaAAAAwnvgqpcHE405lgEz0AmGF0ARLJC9u3olep5KEz38oZTQFMxRXZhCK6y_6NyNSmN--bclC3ijYV6L1tg1OPwkO9yxPg3q8pFMqY8IkPjOuGI0apMflEyuV_YSzvvlXaLGEhA52WOi1BOvf2GxF3ZWoAlbGhReuI6Ys-mHUKu23fNNNo0JJqCRLg",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107876933459327459851\">Casey Atkins</a>"
+          ],
+          "photo_reference": "CmRaAAAAKhS52Ru68GoPJnTCj9eMr_v_Xoiw-rse-nuCTOQsxgqzBPbQ_T2e3FnTXsKxfT4Rbk-QCJ97_vz3gS1KZ7oixw-BUNoVDOjMjT6YME3Qnu9vgc3nI10YEzyna5a2RFbZEhBgIT1CmrhszbdM8FbdjJSdGhRGT6Yc67bbsZSmuZUmCmvTXbhntA",
+          "width": 6000
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.miramontcastle.org/",
+      "mood_params": [
+        0.010963034361126214,
+        0.09058812837374622,
+        0.03381009056780161,
+        0.16239445510346898,
+        0.03775761672567872,
+        0.1474049373874844,
+        0.10031690227759596,
+        0.048754993628625454,
+        0.0899517867511469,
+        0.058061140476385054,
+        0.09870490509914862,
+        0.02412635089833545
+      ],
+      "popularity": 0.506380087792623,
+      "num_google_reviews": 800,
+      "top_cats": [
+        "military",
+        "history",
+        "science",
+        "food"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -1.0814379969682326,
+        -0.4365180617810703,
+        -0.11417355450508951,
+        -0.3691656057072346,
+        -0.9883106770652546,
+        0.10201207147978833,
+        -0.7803797345983603,
+        -0.19956697226277298,
+        -0.8465092603530198,
+        -0.3318341712315175,
+        0.1351708586719447,
+        0.15829075629968636,
+        -0.28544555148192086,
+        -0.5300503140112377,
+        0.6739302579185505,
+        -0.03461416841380079,
+        -0.44858045022759296,
+        0.8702684973037959,
+        -0.4109538989137766,
+        -0.38414244762641425,
+        -0.7704131188202489,
+        -0.6927494461533191,
+        -0.09603788971044828,
+        -0.7315259369472861,
+        0.3406150037386253,
+        -0.8176545082354877,
+        -1.1459505570651152,
+        -0.6880768655378273,
+        -0.5662292918989075,
+        -1.2903414794663983
+      ],
+      "global_mood_params": [
+        -0.0008244030660107957,
+        1.2001772976455378,
+        -0.5234715317474498,
+        0.5607588769461559,
+        -0.45165639817990055,
+        -0.07961513035394921,
+        -0.24574443187257555,
+        0.7641373273724335,
+        -0.4214442313784826,
+        0.5573382939214179,
+        0.16360712408903996,
+        -0.14644606562800744
+      ]
+    },
+    {
+      "name": "North Cheyenne Ca\u00f1on Park",
+      "orig_name": "North Cheyenne Ca\u00f1on Park",
+      "place_id": "ChIJAwnWmJNbE4cRVE511e94dyQ",
+      "cat_params": [
+        0.16133277765809775,
+        0.13267001849078006,
+        0.09998406472559958,
+        0.11715857218308733,
+        0.3168963932961127,
+        0.069128525299627,
+        0.3219278207790113,
+        0.09979889943140124,
+        0.18582308596845434,
+        0.27281727154523233,
+        0.10865840690324642,
+        0.07486852181204212,
+        0.20820091203887417,
+        0.559127503268276,
+        0.2336537484513729,
+        0.14912821357090447,
+        0.4593086300939337,
+        0.20677131257789455,
+        0.1300695576547279,
+        0.10328149414984848,
+        0.5895468203092581,
+        0.20675495348524917,
+        0.1866033289221065,
+        0.09506953074090148,
+        0.0035878318029826293,
+        0.2814138996456001,
+        0.2556307845662301,
+        0.45458387350165375,
+        0.358839153346107,
+        0.3539535793492201
+      ],
+      "noncat_params": [],
+      "quote": "Parkland cut out of ancient granite rock, with waterfalls, wildlife sightings & nature programming.",
+      "phone": "(719) 385-6086",
+      "int_phone": "+1 719-385-6086",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 38.7907924,
+        "lng": -104.876138
+      },
+      "address": "2120 S Cheyenne Canyon Rd, Colorado Springs, CO 80906, United States",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112629117842238830377\">Neal Neasbitt</a>"
+          ],
+          "photo_reference": "CmRaAAAAOdopfkZXNrJSdEAlJckfaWVVXPQ1HQ5Tw-itjaAFkeEzgQYWgEWvpv0aTaIekemW50H-H91uwg9hitaoADr-PO9JohKAl3oue227e7uy9CxCVqXRmTEcnS3bUSoX-9KVEhBJFpPeg2D0b1XcYrUel2gYGhRowNBBSJzpTz_3nsTgKilTNA7yxg",
+          "width": 3120
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103380700141973646285\">S G</a>"
+          ],
+          "photo_reference": "CmRaAAAA5RnCP-23Q--bodq0hyONwFlrcMVm642j2CI1mE9ZMSukR-SsLQjdX36LqAlVjXyd84qPdPNADmJFLC9IlDxLMWKvyCo1KWt8mnSLX9QOJjmnDSd_KwKyHjOVId-MNLHxEhBo_9DF_hqgCFYcqodE2THBGhSscpaN-4kCPuNxZY3n5K2QU1BEIQ",
+          "width": 5312
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116573581522165384010\">Sasha</a>"
+          ],
+          "photo_reference": "CmRaAAAA5NVcPc7JsPMcBfFXB7bLfO7l9NSm1oDrt51USWKTd673Efa39wPhNohjcFRokgUy52yxHhTlc8ElxjBLTTBNXovNNNFnhkSgqbS6KdKCmpYFZTmJLCWCmAApF8-i7yPVEhCN2cDI_bCLnPtb99y_5tSYGhRdQOdIp3BhpFOy0iFspHAXnt-vMA",
+          "width": 4160
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115122945063067521275\">Andy Costello</a>"
+          ],
+          "photo_reference": "CmRaAAAAmUHqmHudEFzpbY6seC1tuQvuK3HgCVwZpuqVNUCe3Kx0Vo0QZ-cXnZLmduJNRbLe8flkkuevJ41aOFadat6zdKRKLvjM0vIyw6xTWIkENUfpKXRVkj9BO2pgK_n3qyZ0EhBIbpZObe-aVBFPYi0FkFDAGhSOzqPPc31WpuZpzD0U0r1IDt6XbA",
+          "width": 4160
+        },
+        {
+          "height": 3267,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101056329900018971471\">Jaminet Rivera</a>"
+          ],
+          "photo_reference": "CmRaAAAA24-syNhGWR5JS8SZbXA_X2JABokIIe0FYMqabtdOJz5y0w3ITyzlH2MnUhjB5dOYAI8eGUzCMmoGfQKeesSimZK98Yzv__Q6N0LE3qioZN4C4ZI1gG59K-sEvh1d-zRhEhB1NWC1ZgFnQ_4VkClnstp8GhTimvqnjgMsGiyhZjBhluhpk7ei6Q",
+          "width": 4894
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113747039041497941041\">Brian Hughes</a>"
+          ],
+          "photo_reference": "CmRaAAAAe2xCqY7DgWRRBU-DCIIKV7XeoMzBnznx1sZXFIJ7JC86dl9ClMpHJYfOJQ3lI0h9dolcuuB7_KrCvp7THyzXiY08fKSrIcjR8mLENNdM2ileJKupqLDrOoGLPU4y5ubtEhCPRulHTDtk0UapcAawMm7rGhSLDYAHvras2mH9fjgOVT1XBl32Tw",
+          "width": 5184
+        },
+        {
+          "height": 2727,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103203494169251953143\">Korrine Rudderow</a>"
+          ],
+          "photo_reference": "CmRaAAAAFkuEs8yRzsljeFfGrT4mElwu1X13ehHiOWNeAylX9oCg3XdrU4F7I26vQH4xPWJKBO7SGmjnDS263FgVY9vN5RoYgfJ_AanDy15lV6yv33zdfwN2KbPkCIkHXSeR1C1_EhDTPeB-MIkUta0udo8aPbBvGhRmfLoCUGsyZHWJfZTRmhPS5gqjcw",
+          "width": 3133
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113747039041497941041\">Brian Hughes</a>"
+          ],
+          "photo_reference": "CmRaAAAALAV40QtmlrynON9zVYdctYKOY4evfmzuoF6N_eiQJrwOwpWq2MR4mUZ-mWRZCyhsp3YzqLxQT-Xrw_Ts1j5-Ees62E6DRMwcSmOoBySYVnBv6LZpkOOTTGLfsP1SH6axEhDgCKkn8RVuWJVB3dfi55ckGhSO9n-rV_Vxj1pcb56J5mdnsv-V9g",
+          "width": 5184
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105508237712191342742\">Sarah Marie O&#39;Dell</a>"
+          ],
+          "photo_reference": "CmRaAAAA8CzGv4SBfd6ppc4AfHOd_iDe6kL1qi4iNHOEuBncoOTJ6RfeyANC7zHWA0NBOCnA6gCaT9XqM_kZg22jUwy07OS6xwL_nkIvvBBXyR6bKbbHO-QQJixv5VWkMq_SvaQ7EhD4FJhBEd_prb-D8UPE-SVhGhRBHYFJhYgIFeH_Bcxhk-VFMDErkw",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102214430392866380874\">Ryan Eyer</a>"
+          ],
+          "photo_reference": "CmRaAAAA-bNkIzeVPS4FhbxtlyvJz8ieo4FzYTYhunN8uJu8f-mNZfV0au4Rs2ROZFXOrFWdF-lIEH0fqoWbgfKQTUs-Xm5JZfil6uw1V3Qlve4UO3KBNaWqCA9XiDdMX94WhAQfEhCWDV06yeFh-yVOuzGrKzQrGhRSuSczXVX92AVIK3J_VYmKhEgxhg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.8,
+      "website": "https://coloradosprings.gov/parks-recreation-and-cultural-services/page/north-cheyenne-ca%C3%B1on",
+      "mood_params": [
+        0.010245222541051485,
+        0.029943545264777514,
+        0.0695610714301912,
+        0.10525087559146859,
+        0.08046855581262002,
+        0.15870617717245533,
+        0.10600332551160763,
+        0.015062504161162464,
+        0.13684284857765602,
+        0.024162337328001274,
+        0.058066710557692566,
+        0.02371735939403526
+      ],
+      "popularity": 0.46255983752539365,
+      "num_google_reviews": 557,
+      "top_cats": [
+        "hiking",
+        "fashion",
+        "walking",
+        "nature"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.0014001092290207029,
+        0.24410080976200493,
+        -1.2245610385844519,
+        -0.8154858959559305,
+        0.07424350194386499,
+        -1.0138954785402077,
+        -0.8126232288889548,
+        -1.2365267396379185,
+        -0.30775356840054274,
+        -0.5160925831547057,
+        0.4587941113511421,
+        -0.6270916550781813,
+        -0.48974861332604464,
+        2.5967613522956965,
+        -0.6141882829302193,
+        -0.24888391185102549,
+        -0.05337215539370048,
+        -0.911554401602421,
+        -0.4560181955133892,
+        -0.645020749388712,
+        0.25345866692654245,
+        -0.4739881917966168,
+        -0.7941896932731954,
+        -0.6823258944438664,
+        -0.6901131839281863,
+        -0.542449387157091,
+        -0.32377448583786644,
+        0.22185404783185186,
+        0.35997431520927226,
+        0.16655884492514061
+      ],
+      "global_mood_params": [
+        -0.049120123533725905,
+        -0.6166747430269459,
+        0.12021155693820086,
+        -0.3201926150634457,
+        0.485731053996693,
+        0.06249815204789862,
+        -0.13813113015397643,
+        -0.5793752995082538,
+        0.19886284388152495,
+        -0.7600768751851757,
+        -0.7767689405584082,
+        -0.17144889138382455
+      ]
+    },
+    {
+      "name": "Penrose Heritage Museum",
+      "orig_name": "Penrose Heritage Museum",
+      "place_id": "ChIJ2zbOurJEE4cRYeW3wqfmYvM",
+      "cat_params": [
+        0.08965051388080683,
+        0.058895886171332526,
+        0.21181216882740794,
+        0.21950911054526318,
+        0.13641217369765699,
+        0.15363123826497127,
+        0.3743444932707609,
+        0.2633178631204626,
+        0.2539643226504093,
+        0.255636521374288,
+        0.06817890932310744,
+        0.0518119093847602,
+        0.19012360496672662,
+        0.2156323176352526,
+        0.31541641881462157,
+        0.12993325345796575,
+        0.33065895868561035,
+        0.28123877888851945,
+        0.12252597128159268,
+        0.11803309611621311,
+        0.33383947444082185,
+        0.14049745420266024,
+        0.24884612684403576,
+        0.06821036688866619,
+        0.03886505759031636,
+        0.2248019310624448,
+        0.20854328270826641,
+        0.280853244919371,
+        0.15054371101052336,
+        0.17101936554449534
+      ],
+      "noncat_params": [],
+      "quote": "Free-entry heritage museum housing a philanthropist's collection including carriages & motorbikes.",
+      "phone": "(719) 577-7065",
+      "int_phone": "+1 719-577-7065",
+      "hours": "",
+      "coordinates": {
+        "lat": 38.7926733,
+        "lng": -104.849918
+      },
+      "address": "11 Lake Cir, Colorado Springs, CO 80906, United States",
+      "photos": [
+        {
+          "height": 639,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103021576360159150658\">Penrose Heritage Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAko2FTEdoT232aP6cv8xSYmFfNLAt1ChXCsVjMhORyDOvjhl9vmmmRsuqMWk2grGOjvI6VGMEDl2sbzXz9xUHQ39HB0VlRnXm3M7KreS0u5wqE65QYLiK1CGJWRPjnGE7EhDkiNea5n7nR6cbwesBYfeSGhQ73JJWKhgsCBh9pZs3nYhfbJq5AA",
+          "width": 960
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117861008863161395582\">David Hsu</a>"
+          ],
+          "photo_reference": "CmRaAAAA8y-Cj5H_vX-JjVUz0slpqmqtc5eSXMR6cSJ0I6iXKcScPteMeqPzRSa5bjL7XpoTXx10V3HfdFUqEpJmP62dmdSAQ0G33r3wOfXUq3PMDOGM-TAI8V-hpJfGchExW1pXEhBMHII4O4xNgNM8meWpj-gCGhSEy0hEBtLrl1eDYGlwstFCTNzriw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103091290971147811322\">Sean _</a>"
+          ],
+          "photo_reference": "CmRaAAAAp-73HvRoiHR68C60cZnmkB_Vg7wu4rG7IRNTuoET-FCJ3-ksgSq2wPWa_9Oc11wWb2TX295-bq6F6ku07_QLmkeQsrAumTeNdiGWM-fxFWygkz2dbp_AWGkXUFYBCiT9EhDdx0GoBppAAfV_YFvCqeVDGhS8Vq2z5IccvOszPCu0iwdcpTwPtg",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110063193383441869624\">Catherine Contreras Stephens</a>"
+          ],
+          "photo_reference": "CmRaAAAAQWjY16PRIJ9ShGO0gngAuVlCgAIQFWAvhy6jrR1QAJwdvJpWVCGV0_ILd1H0yuLHlXyCyEWk2s6jRKvD3ENbl3OJYBdTaft1uABey1Qg2iXzj0i8uGS7CwqNfEfRKg7REhAzPxIfbi949dUOiSW1bTJyGhSiuiy4vJ4hcQYz3Llk97KoCa7XCA",
+          "width": 4128
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112238441815968312227\">Edith Corbeil</a>"
+          ],
+          "photo_reference": "CmRaAAAAksJDgMU2qfmH9ow70CO_z6by1nM26eHwZaMAZXAvPPFy6S7GLi0HOLeJrDBa90eAIBtcenPsQfCWfwDAqKaOOMqbQ29kpmq6HKiYOz7rl-nMPznRoOjU7LE8X67XPAsHEhAAOE0uleuHPNhIexEt6WrtGhSWP2N84JrlPzFXZHLXLQKyvQwgGw",
+          "width": 3648
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100520253457861949836\">Jacob Veldhuizen</a>"
+          ],
+          "photo_reference": "CmRaAAAA_0Z-204DAf7fVt99H29ZYYHNGETFDf2Bt0e6lN6YT0TWerGs2HppJDockPehGXZ5FdLiwPgco0c6ynO1H8F2b65W6uBxpDlnvBUUe3Kf8Iw11MwrqjFQSuIzOwQZED-fEhC6MSaNsqfyZ3kAR0S1qWGXGhS2DlnHSsstinH0RZWTPRt0t6zdmw",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117725802960447543908\">Lori Parham</a>"
+          ],
+          "photo_reference": "CmRaAAAAq-gMVXyBoH-4zzOAr9io1P6R7XjvwJwGOW7EcCxmQUg3XwsiJnIhyoi6jaBuEVdHmw3Pa5RvRcY4tN6iMtHD9FiZ0bNB85kTdKxajjQBZpmo6-IbuTTK52M3Ulpqk-a0EhD3sjmB0vN-SpkIAMbmU0tFGhT3B6o64UlzsQlluM_eq5f0hT8NLA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100520253457861949836\">Jacob Veldhuizen</a>"
+          ],
+          "photo_reference": "CmRaAAAAEfI_3TcQ3oq38EC7Q04u19D40egli1b6pjSMszjJgva_bTe6w2bkEZ41cORfIqlhPsFoZAOmgLigAKPQ1LHixXb-4ZC2NxtWh3ZmoDFwzPrkV5Tq_RqiQryXj2AIwx7yEhCbWJr2XMdVF-YB3YdR4oovGhTtCJabkrbgO5NXlXXNEm8vs1yFpQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114155291024780117611\">Floyd S</a>"
+          ],
+          "photo_reference": "CmRaAAAA01wnHf_J9vQzodeeFcPl-XeAGhvJJmqWAGUpe_LW7ug4fpitFG0KpAFZU6kon74z6tBYBOo40DO4nobk2xLeunLhriVJ4oHZ1A-VeuGhSNb4s_kkyo95hHqW2r4GhojvEhBdMBtIt_OWkZOlrt3bxD-5GhScd77R49XHeV3GPdAIlDfp6kEqdg",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114155291024780117611\">Floyd S</a>"
+          ],
+          "photo_reference": "CmRaAAAAvdk2A2WMNe8HsJQMs5sMqjcSjg61dPpPIzFiLTNM1XYr5khq_pybaGs9L1nDzu45AIT4CTjaOTf6Nc-qNII1_p9i8h42yH3vIRUSqCspL0Jq5kPGUbL8pM6Jc1Ch5lb2EhAl3pqAnYNStwYtMF4w4bjGGhRo7s8MkC2S_27Qmngk3mYhmJVC2Q",
+          "width": 4608
+        }
+      ],
+      "rating": 4.8,
+      "website": "https://www.elpomar.org/About-Us/museum-and-legacy-properties/penrose-heritage-museum-1/",
+      "mood_params": [
+        0.006990002625632238,
+        0.05946925388402557,
+        0.015674660704486722,
+        0.11718841700583789,
+        0.03106270202245327,
+        0.1340906815294983,
+        0.1128616393446828,
+        0.03947074875315514,
+        0.06445515731288791,
+        0.03673670607645316,
+        0.08332419064397666,
+        0.017961638844132783
+      ],
+      "popularity": 0.3905267002437235,
+      "num_google_reviews": 283,
+      "top_cats": [
+        "engineering",
+        "culture",
+        "science",
+        "history"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.8683515871756167,
+        -0.6379955880693068,
+        -0.12603008754047104,
+        -0.0840663438659583,
+        -1.0390454632452772,
+        0.11342725456940536,
+        -0.2548136596134564,
+        0.5794836645593294,
+        0.7006704554845865,
+        -0.6987692964692117,
+        -0.37372682768393134,
+        -0.8460646481491,
+        -0.6850954420851343,
+        0.07274905636430837,
+        0.2748998733768751,
+        -0.4736931196257654,
+        -0.7514306951219979,
+        -0.132652916528063,
+        -0.5523089149963333,
+        -0.3510821677455718,
+        -0.9936281580564744,
+        -1.1212753018326007,
+        -0.09241290383595407,
+        -0.9328798081291974,
+        0.3255999697443081,
+        -0.9623646154182883,
+        -0.7649803295566856,
+        -0.9067676049182071,
+        -0.897386295214424,
+        -1.0913212196371038
+      ],
+      "global_mood_params": [
+        -0.26813740173856265,
+        0.26788643634158044,
+        -0.8499931887054305,
+        -0.13615803043077393,
+        -0.5985913326570237,
+        -0.2470421240925216,
+        -0.008340264186568915,
+        0.3939212816482847,
+        -0.7587311048203944,
+        -0.2713969634302318,
+        -0.1923057281924753,
+        -0.5233126257042366
+      ]
+    },
+    {
+      "name": "Western Museum of Mining & Industry",
+      "orig_name": "Western Museum of Mining & Industry",
+      "place_id": "ChIJT2bMokxNE4cRFuLgp-sbDh4",
+      "cat_params": [
+        0.13001469447946842,
+        0.0780420927042082,
+        0.18869430068346132,
+        0.2160386613584233,
+        0.1639222596554765,
+        0.19239451380248337,
+        0.3616118117589881,
+        0.23007487691848302,
+        0.18090692812539064,
+        0.3374468665973436,
+        0.09341488237515772,
+        0.07452698568028758,
+        0.28259753044099173,
+        0.17523981316394108,
+        0.36750992756692463,
+        0.1580451330751483,
+        0.4068188176175367,
+        0.264361733055791,
+        0.19093015592481188,
+        0.12616808567873491,
+        0.3629270862246964,
+        0.24990035243077033,
+        0.2632132214362692,
+        0.09552021421070987,
+        0.05553354704562134,
+        0.2657042129421454,
+        0.2293335658963715,
+        0.343387561995223,
+        0.19589932380448088,
+        0.19010000748069858
+      ],
+      "noncat_params": [],
+      "quote": "History museum on 27 acres highlighting mining life with historic equipment displays & guided tours.",
+      "phone": "(719) 488-0880",
+      "int_phone": "+1 719-488-0880",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 39.0255498,
+        "lng": -104.8288667
+      },
+      "address": "225 North Gate Blvd, Colorado Springs, CO 80921, United States",
+      "photos": [
+        {
+          "height": 375,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106590032067941162246\">Western Museum of Mining &amp; Industry</a>"
+          ],
+          "photo_reference": "CmRaAAAA2_jcFW3tECiG17bLaA3AXbI5FYo4amW5j1DrQkNSNcmq9ch0TpC0xdugVGrQZkLLqwMj_apm62CqpCkiMDDDxaKXW8zdQ97sUkXVEIsIpfUnILW5GQCHAr-52MyxS1CAEhB37A3GRV5ALjpgPLoPw-AkGhQpapz61ggFHsHc3r5hbBxW7GNQ8w",
+          "width": 500
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109102779582039184113\">Mark Riddle</a>"
+          ],
+          "photo_reference": "CmRaAAAAKu6XHZIwJmP-nZ_4rtRSasiUo2AuSCwFHrKfv393ajE9FoAzKxdNBTewmYo2Dc73lJXlHyONHXWUXfvelEUawG0oDZr7v9VY8uTpxbFo69eXy9yZw1A00rEIFvXHA9CHEhCwPeHT3ES2vJaDd9v7JvrFGhShzEPEhuTFx8RLQQZWUqBpcU9nJA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114287586525004512416\">Kristie</a>"
+          ],
+          "photo_reference": "CmRaAAAALOBoHImqSD3bKZKMGyVUxjAi1aa-6w3pcXrWPxzkhYX0uptn3QHsQ5HRjKW8GUkprKMWmKuGvAxeO_0BlZpbEgic3iLKRe1ra2f62crEMeoIVBa4qIOS09w_I9Qi3HZWEhCqnV-eAsnZzNCwGgJ4loWkGhQRxRylBtcOSHA_orYtkOR4KGz9nw",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116594043304734245777\">Monty Mann</a>"
+          ],
+          "photo_reference": "CmRaAAAAOLD7bFf8mKVJkY6mM0caKxpqgZM1hgA2eK_po6VLSBJUTFJE5Cdt7-TugqPitM04zj_hM12scATi925kE_8n6QI4RpkV7qufdMoYtWz9pWrIHCAkbZaibAKtTttic6kYEhDy6h5JgUMaUU1Gj1_qewd8GhR5GfEf8hhnhD8CFlAwDisz7i7rSw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115574719325558761667\">Chris Varnado</a>"
+          ],
+          "photo_reference": "CmRaAAAAQRF5gi0tT_pMKigzhRkw03xRCZGItlFwHlXRRlrevjlx-9peImZ7zx0WglvIi7lH2wlURuwvWrErxMtOTzy-FIjkrs2NRHhaBpkWo_ac34-c_pJ9oxD17KeA3QCDKdqiEhA_dRybdKmofgaLWB2dOx9_GhRI4Oil9juMRKtC5MBBVibfCQTKQA",
+          "width": 3024
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108731075980677177650\">Corey Hedger</a>"
+          ],
+          "photo_reference": "CmRaAAAAbnWEuVQMsEDfZ0qcH5rHi7Euo73sMu-ntDL0w-QCLuD_ybGrxBWWfaag_xXvyvH3usMKBcrVxPI_HF8WHVHPtLZv135fNbxm0BIzgzG8MO6FUw_IbdiL_9_YCScGQKRKEhB1C23IjL2k7M4IYY4pCFfYGhQahvh94CE9CCws_M7ubL_gwN0w5w",
+          "width": 4048
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117114796732827492835\">Gabe Andrews</a>"
+          ],
+          "photo_reference": "CmRaAAAAetfg80CPpoiqmzM7E-q5swCKIhwy-_95rziRbVpDFvHqRwVnSDnG1PJUgtIr6qG10YsrKfA2gnWpad0Hi1z9XpnhnL8ejWhVRrtnvieUWw7S-7Vn3pr7vPojvGH2XqSvEhAvmLDPBdLbdO02sdwxShCtGhRIbq1V-CiUn3HtRWZcupThQCn-6w",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109481659378040288956\">Asunshun</a>"
+          ],
+          "photo_reference": "CmRaAAAABsWmq30jh-4qYJU3PyErqXWmRSKXyYZnFZTo0vDkzSV8sq-3ARbET3ZVf7ms0_xA0KGQX5GYAxrUVjnkR1hsKKAjY7VkXXzWdMdyv_GvbbrwnlXGR9n08wW-aeedpjiUEhBqJgNj5pg2xwVDqxEJ-9k7GhRFLRobZHjXgXHbdNcMeIcCK90yZQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117466086330852965551\">Paul Zaychik</a>"
+          ],
+          "photo_reference": "CmRaAAAAKPVHUAmaR3u2ybH22CbMt5IN7yo-4mNs9oOff4PBZPpABFuiCQYSV5k-JRHpKronSYSvtUG_q08uKfkbCtDyrs6l7wAKy7W7bzbOqvqsyHSsjS0F8pjhlYHLNkJF1v8rEhCrCmy_uTfy8-CjQevV3hQkGhSeiG_R3L3xkXj_yie39GI0WWGACA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115574719325558761667\">Chris Varnado</a>"
+          ],
+          "photo_reference": "CmRaAAAA-Y5RdITVhu1mqM_0NJZX58gjbxYmqiU1Vx6MCvS9N16r5C4SXAYd5csRll420Hv4lq6vgBuVM63Xx8sEC6j0jecvSiAtkMcvnuVYv2hc2-VdB0VgLXJfTU3EdAaqJNoDEhBO-aeEnrneSIT3z0QofTbzGhR5qJaI7d64qkTHXScoTsh8J8u_Og",
+          "width": 3024
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.wmmi.org/",
+      "mood_params": [
+        0.023264549404918584,
+        0.08982050556196046,
+        0.013863092021849821,
+        0.15289884689273087,
+        0.020315597897253297,
+        0.18784203447413575,
+        0.12950165720783724,
+        0.07338413101097706,
+        0.06830412376081164,
+        0.04946270854952,
+        0.11116365221842298,
+        0.025257753044980374
+      ],
+      "popularity": 0.4426223535620799,
+      "num_google_reviews": 467,
+      "top_cats": [
+        "history",
+        "science",
+        "books",
+        "music"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.3785956461698727,
+        -0.40906982122119,
+        -0.3531258957208438,
+        -0.10886694023221527,
+        -0.8693537572535623,
+        0.6305552873835778,
+        -0.3903127527869502,
+        0.21029340400841243,
+        -0.3805079226735053,
+        0.1710905659800567,
+        0.14528840814411595,
+        -0.6303352880814261,
+        0.3141954374803726,
+        -0.22405620383510072,
+        0.8413652474453202,
+        -0.1444499563884694,
+        -0.3381840903701257,
+        -0.30918042194830025,
+        0.32084184236712954,
+        -0.18898537994302714,
+        -0.8517676365970933,
+        -0.05248932906886614,
+        0.06957360469351678,
+        -0.6781217238369552,
+        0.805524442651228,
+        -0.6589748647741317,
+        -0.5701771636798845,
+        -0.5005203883641198,
+        -0.6236003671628962,
+        -0.9601201795942571
+      ],
+      "global_mood_params": [
+        0.8268445141476087,
+        1.1771800734820255,
+        -0.8826098077988843,
+        0.41437024864834965,
+        -0.8344606619099108,
+        0.4288820528868185,
+        0.3065654663964185,
+        1.7462421698870625,
+        -0.7078143410047429,
+        0.22317591652425187,
+        0.4519050595327335,
+        -0.07728020170444375
+      ]
+    },
+    {
+      "name": "Rock Ledge Ranch Historic Site",
+      "orig_name": "Rock Ledge Ranch Historic Site",
+      "place_id": "ChIJXa7n_mxQE4cRiWcoRI26ya4",
+      "cat_params": [
+        0.14691478839974612,
+        0.13481726488212764,
+        0.2365701003146926,
+        0.19816651082157258,
+        0.25740220635439787,
+        0.1468242937790496,
+        0.4359837724748293,
+        0.2576150613565551,
+        0.14946896054721925,
+        0.39681557713903604,
+        0.12419537194975208,
+        0.11914681348496771,
+        0.33561329913307253,
+        0.22348364925254385,
+        0.3579476504227382,
+        0.15880103141169724,
+        0.43801980010848435,
+        0.2866493640402844,
+        0.2039058723260744,
+        0.10558475527246215,
+        0.5841538539616226,
+        0.27364894129952894,
+        0.24295861681709335,
+        0.14584389996990796,
+        0.045800100842796176,
+        0.31601721985134884,
+        0.26899101110397283,
+        0.35315678693572267,
+        0.3340573503265643,
+        0.251733261160797
+      ],
+      "noncat_params": [],
+      "quote": "Scenic park with old-fashioned houses & interpretive guides depicting farm life from 1775 to 1907.",
+      "phone": "(719) 578-6777",
+      "int_phone": "+1 719-578-6777",
+      "hours": "",
+      "coordinates": {
+        "lat": 38.8772803,
+        "lng": -104.8714347
+      },
+      "address": "3105 Gateway Rd, Colorado Springs, CO 80904, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110589638956298971234\">Michael McEntire</a>"
+          ],
+          "photo_reference": "CmRaAAAAfRAQZXDe8EmxRCkCxbiq0fI33KW79t7lOOLxtggvZMw55iIXBS-1mzbaPJwdfdIce_RvSyaVaOTP4ifmZEJBiYApJo2n79GGX7Nzdd99kQkLTQoU2TirNuwFQAb_ws1LEhBhKeCB5xpBv67NX0rAOtMnGhQzedvKArNt5XKXseLG4cMKi8ExNw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105439425479467024841\">Holly Manuel</a>"
+          ],
+          "photo_reference": "CmRaAAAAgGcvqJa_gA_qIgZLUVEJrPK35SJLV6PSxPK14g52jx13aammloD0mlzCRsNZAA1PY7r5zlPsG8aD87oJfgqO0bZ_E_LwolpkDIWyLgSvPjruYgotqtcG9AvCRjO1stJkEhBcSmWkvAGTHlKCS4kC7bnWGhRV97TbgBbQK5upWrl3LU2ME2OPEg",
+          "width": 4032
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118263167186536427990\">Terry Barcelona</a>"
+          ],
+          "photo_reference": "CmRaAAAAtEjgqQ6yKNMAzQlhJ0KUyPBNHU6t4YguO-vf3w2TmrhJMB0YJgjQ45rW8PZ-JxwdAjiK6ektt6jWnUGVKOEEUfSjhrlvyImtGjd-B6sdN4naduw-3fE6Mdiec1IWOa9-EhBW99zL5Bbm0yqpKTEHxYOYGhRG3yXkpgVzfGhKUwCswq9RmCGZxw",
+          "width": 3008
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106842888290826334302\">Vermithrax Pejorative</a>"
+          ],
+          "photo_reference": "CmRaAAAAlL1l1o_95yRtPLQO8ZJ0NMFgO78wwr2_cMLTX7e3qA8vttgjtH2tz5smvSq30ik1jlW6MZS3CF_7HnHdtZEs6ic1uCk6p4k94lSIJeYER8QGlSZ8oAEm3rmbPetm9FL5EhCvh1AYM4128oZyDE_JqfPiGhQbSUhCzw-oGWgnmX0faThhIrdtqQ",
+          "width": 5472
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111227918706123656933\">Scott Burchett</a>"
+          ],
+          "photo_reference": "CmRaAAAAyQm6rhnnXEKk-txJfRQ1P_xYf3uqR2XrLkm29xFNYIeZWCZIxpwHlh2PCxlNAf17Cgj-qyaOeYBOS6EHRGuxpXvq1fHXno7E53Y7VJKMFZylSHOjiRhOHurM9PAqVWWVEhDjJ2cgCyWrEr13bPy5_FCGGhSr4mBCrwfRJ3S6cL0n-HykKLKSfQ",
+          "width": 3264
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106842888290826334302\">Vermithrax Pejorative</a>"
+          ],
+          "photo_reference": "CmRaAAAAFTfdsdsyb2CncCd99hKfEZRLCka08gZxnCbjhezJT9hd2gPtMxrULtQNXm_8jwI9VvUwhA-phH8tEJt0r9mEUAtZNgKHZSbgxfZ1w2ov_LyZXS7h9ysuByQwyBE7-SHfEhCuIbnaqxCJLYT4ZblDK1AMGhRylRmWFiPHTVa8Jae8Qzky3TXUgQ",
+          "width": 5472
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116568402993256963835\">Zimco Zimmerman</a>"
+          ],
+          "photo_reference": "CmRaAAAAtgs8jtLWj1Mu12-ahEvm7IBQND7Sden9qPBS9z5AZbpWZROSFbmE9u-9KS-hUX1EFBDyLp0MOmFi7NuOkU_SaUNn61IDeROA4KGKfxx3dSwjDMz2KyCBqJZPDyslCsgNEhDRkqY7dkqYpYVKPVTFHKzLGhTG_bAXtDPQFTgiRMxbjbdEtc-3mw",
+          "width": 4160
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106937106634236922282\">Jan Megarry</a>"
+          ],
+          "photo_reference": "CmRaAAAAVYnvBoP6FWyK2f73UyHHX3eO4__jdmH078IqLIuxakdlYWLUxWqZlKq-FkDLUwJsy6OoCXJsgeukRvDegffNS7bAgUWSXLjgNkv6cp5fZVAr36wf0JDfTs3glOz2adWFEhB5C3ZkmM709fIpcBMMIrUBGhQ5a7l6Bk5ZuMrMnO-1p87I9WQFPA",
+          "width": 4618
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109883590623988146098\">Patricia Story</a>"
+          ],
+          "photo_reference": "CmRaAAAAftR8qY-1ddxnCLxqcWoeJkE_A8djJ9vzKQ40Dl-LLHBeSc8RGypw6MBw0rWaNGKs5uMVmfUzUYMz0DnB-U5yajJJF36VnGkjAkKrypL8dG-CGOdTh5s4glqgjTwxAWpZEhDb-SYOD8HwcLMZe1cup3kXGhSOwtGfxFsh0FD5LVOpoxWfXC9guA",
+          "width": 5312
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115944889418565299086\">Donna Finley</a>"
+          ],
+          "photo_reference": "CmRaAAAAwsW4hiD_wZlQcQY5cf1U28p3kUanYVkeyK9s2OJYGdsxYxlRhQ8tTe7P5Ky9fpkF27g-eKA88uwRnJflV43upXbfry3z9FWU3MCrnUZqqTWWQY26Mtg5T30C4CNVj7k6EhDtR-2Ar02fbGeV8fdYJf1mGhS-fxupFcGeFH0YnlqPmO0XclY3BQ",
+          "width": 4160
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://rockledgeranch.com/",
+      "mood_params": [
+        0.014805719736389627,
+        0.06560220144813994,
+        0.05903605287723585,
+        0.12321520450907857,
+        0.05117727297608841,
+        0.1766367860940095,
+        0.10469332494351405,
+        0.03792649177065305,
+        0.11023368604623067,
+        0.038106429515683576,
+        0.07476605812136056,
+        0.061581175248293554
+      ],
+      "popularity": 0.39018125390814196,
+      "num_google_reviews": 282,
+      "top_cats": [
+        "friends",
+        "family",
+        "fashion",
+        "history"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.17353954746424202,
+        0.2697748264873049,
+        0.11717670060151572,
+        -0.23658527517923256,
+        -0.29273717904015717,
+        0.0226180604889539,
+        0.40114136669397327,
+        0.5161494365120948,
+        -0.8457592640297049,
+        0.8023366296017671,
+        0.7783348542831495,
+        -0.20657237514202417,
+        0.8870939475787069,
+        0.13044086216053155,
+        0.7373849430050238,
+        -0.13559696033127716,
+        -0.16888624423268134,
+        -0.07606024567966992,
+        0.48647142573530106,
+        -0.599126255415886,
+        0.22715712577655384,
+        0.1795169437717235,
+        -0.15879356187882668,
+        -0.2086805868229858,
+        0.5252759503697625,
+        -0.28578173424816583,
+        -0.19859031192182328,
+        -0.4370557080805752,
+        0.21038072534161284,
+        -0.5363217030497835
+      ],
+      "global_mood_params": [
+        0.25771864894137747,
+        0.451623511047444,
+        -0.06928748021317459,
+        -0.04324632471780368,
+        -0.15713191216822814,
+        0.28797586403261727,
+        -0.1629223707254835,
+        0.33234290652869586,
+        -0.15314137914196216,
+        -0.21816515968706507,
+        -0.39034265067778007,
+        2.143274960580372
+      ]
+    },
+    {
+      "name": "Adventures Out West",
+      "orig_name": "Adventures Out West",
+      "place_id": "ChIJI94U6NpaE4cR5OPocJpc6VQ",
+      "cat_params": [
+        0.15612175377405588,
+        0.07289618480095958,
+        0.12882095422724663,
+        0.13258300731189748,
+        0.21876655579151452,
+        0.1291101907993965,
+        0.32677681389559277,
+        0.09084021804622848,
+        0.20001478631914396,
+        0.27424981069385373,
+        0.07309103984873257,
+        0.06040421652568683,
+        0.20707573058301684,
+        0.3281721699851216,
+        0.34542730824066453,
+        0.1557321581181339,
+        0.36661224699007916,
+        0.15315233548878077,
+        0.21995558241355423,
+        0.12574083728447055,
+        0.4216273877271004,
+        0.31743097171223544,
+        0.2488665751765423,
+        0.08683930293984646,
+        0.02489794035676104,
+        0.2054251131810415,
+        0.206981471223801,
+        0.3411445172650048,
+        0.23006339559589567,
+        0.2232624039518762
+      ],
+      "noncat_params": [],
+      "quote": "HQ for Rocky Mountain activity center established in 1973 offering jeep, balloon & segway tours.",
+      "phone": "(719) 578-0935",
+      "int_phone": "+1 719-578-0935",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 38.8290924,
+        "lng": -104.8603181
+      },
+      "address": "1680 S 21st St, Colorado Springs, CO 80904, United States",
+      "photos": [
+        {
+          "height": 959,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105147721458767965261\">Adventures Out West</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ3lGxF1INFX8_7aED-YITDxZtBp72imrxAOHsokqYj73TNyBwmfXXYqK6d-zGHs4imzfhdeP_vwjuE1MwPGiCT_JdjB-_2LN9pneguXrf7_jHscKXo55LIsHmNeg1EowEhAwC-zCwOSIGCtycLFSoztcGhRyt5uotibBQGR65ci494eaFViXqw",
+          "width": 1280
+        },
+        {
+          "height": 512,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105147721458767965261\">Adventures Out West</a>"
+          ],
+          "photo_reference": "CmRaAAAA5SoTJ23KY45yq0tcspbzFG3w3V2halNrfNVjBfzJ3iI1si0DMi6WofCr-XKyDINx_9Ho6AClnaK9thXP1uv2o8nP9fRm0yyauuT0aLaeFOQUg5Gq8-GjaDK-5QL7d2xuEhBhykNbObf6v96PcUwvtfV9GhSrGHjXrljLSjEVxqts3WLfbzyMUA",
+          "width": 382
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105090164024980720754\">Petra Weimer</a>"
+          ],
+          "photo_reference": "CmRaAAAAI2eC88p2U1dL-bU7n92tdHUGE82RXhRklnLpDniYgZv6ma6kYEFxeAZfEqoGmYWwP56NNgYkNXiqgQZN15zZaTzLcBKA_SEzSZfE5joQPqfkCunN6VYPTYEXbphy5V-KEhAQt_vGth0TkiFtD0bS72GoGhQPQEWg5dmELm7D8EVvm_TOZpEcUQ",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104842680793059408193\">Walker Wildlife</a>"
+          ],
+          "photo_reference": "CmRaAAAA0yojVNt7U1Nh5HIzEfL6R5MoP9up8HpbYK9OaDx8wzKiXlidxFDcfvI4N1b1Mw8okpoS-Gup-5qSuXd1ifTw_wowc1g_2TJ5261_HTDchse6ay7QFp5Ix8dPL2OhkhVcEhAZ2aOj32WzcT8JeNnBDDGlGhRMS7ZXVrZfRY15qGtAYxi1Sg3c-Q",
+          "width": 5312
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105147721458767965261\">Adventures Out West</a>"
+          ],
+          "photo_reference": "CmRaAAAAHAG1JnzEX-_XFaPYNKyLFD4wISrBzHmiJdupo22y5m9tIBb6MKuwUbQScBTsFamOlmvWj0Eb8DMjMn8AFBduISkLwR40PXKzSgHXcsGe6L5TyDQxeP_3FuANCsY0thE7EhBRT6a1aZJnwulvqx1EsVMkGhQR6Te4AZPC1T_0z6truutrqDa2oA",
+          "width": 1150
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106131435898430570171\">Mindi Clark</a>"
+          ],
+          "photo_reference": "CmRaAAAAQHws_kYdoh_UyaRVzI_2M5wPjpEwTgbepaBmfyV5mP9SZ-t_GiV4DsqsNl5yQgMXeFI7ud1HB7YK39A4tOlrch2PQLNu3Lg2_qnT23RG4Nh5lgE2Jhy151vxJ856Xjq-EhDL3_FG0vuH8-9_slfA4T2_GhQ-Ceic5rI_eQspWu_WQyN9jCc9wA",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115193688625815378729\">COWBOY The Realoutdoorsman</a>"
+          ],
+          "photo_reference": "CmRaAAAAGIBqHq1qRY_oGNGhf_-BgrI3Ndqs8azk1JCEFO2MOVnSCVU1719QvIiuI5QaLOJXXY4pgcvwY-oSb4K6lasezxO-1tMDf-jKTFLYLsDlZN21WTHf5AVJ6_z2rX86kJVfEhD9XhPCi34fRyud8K56lKMmGhQSKud58w_yF5bywR41rMJ5Qkk0jg",
+          "width": 1920
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117908053589672150731\">Alika Thompson</a>"
+          ],
+          "photo_reference": "CmRaAAAAPjXQCDAJfShhIoKSuCYGArZvqTtnZMteQmqkua4wZjsS7y1nNeYCK_kr4SgQ6a2DGmh5lN53VxMyYmEtYrP61VC34I0ZRbXmB4md9aP1ybansdk0ocUAHgrKn463DXDSEhBCR03cJ0_VaZteKDWMWFGmGhTMOSxWEgWv8jAJzpaGy7o-I89_UQ",
+          "width": 1836
+        },
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112088133443557892916\">Eric B</a>"
+          ],
+          "photo_reference": "CmRZAAAAkJOfcV1zlo1skpV1lkbwu57SrriLp8d4shVy1uuajmL4Fk-VaoMMdrtyc6bj05TGzJqcjGogez2J15Zf4eyCA7vUe-qLQcenuFgPJ_3AXLAfyp4Fnv4IY92jwkJbRYyIEhDOXWlJ0AD7pz-gvwrs5fJHGhSZcwY7TqHL7dPSJ02PgBlbcnespA",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110436171238065008323\">Megan Head</a>"
+          ],
+          "photo_reference": "CmRaAAAAoUC8cZ1O-ciVaoilyk669fZp5bgMENXDJgLjSkJZlTDVu2_g7RNRoZ9d49ygVDDJqqhwJrHHzQ_sYAes2xau0IdKMyfo7AH_ll6ZJynLTo6DqmQfUUGctHndFYfwbvKYEhDas_7HEUxxGAwAFyBlDDrFGhSXDslWZjifC_QaO16jbuuXXcAv7Q",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.advoutwest.com/",
+      "mood_params": [
+        0.04502331225884563,
+        0.09365438333984395,
+        0.024084420316928833,
+        0.14622576484061972,
+        0.04507911122565388,
+        0.19108418744900987,
+        0.14394053184525699,
+        0.06296922431659603,
+        0.10290731736132287,
+        0.04247000147571702,
+        0.07249143126914542,
+        0.05986781848993953
+      ],
+      "popularity": 0.3558055972919715,
+      "num_google_reviews": 195,
+      "top_cats": [
+        "hiking",
+        "music",
+        "nightlife",
+        "history"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.061827481869829955,
+        -0.47059798403810077,
+        -0.9412850597611442,
+        -0.705259475912747,
+        -0.5310552077866977,
+        -0.21369992605660745,
+        -0.7610210452095937,
+        -1.33602014539542,
+        -0.09773020706632875,
+        -0.5008609116176221,
+        -0.27270157385610855,
+        -0.7644618880746384,
+        -0.5019075387845229,
+        0.8996950602504943,
+        0.6012386075497502,
+        -0.1715392581963289,
+        -0.5563466373276286,
+        -1.4723885880197436,
+        0.6913392505831509,
+        -0.1974986781804473,
+        -0.5654857842804878,
+        0.6072352284066432,
+        -0.09218235242093292,
+        -0.7591010240577593,
+        -0.07654573123940146,
+        -1.1060907762864363,
+        -0.7796143688780297,
+        -0.5150920782916228,
+        -0.41737137971820126,
+        -0.7320911163227355
+      ],
+      "global_mood_params": [
+        2.290814734653538,
+        1.2920392794876214,
+        -0.6985786005777146,
+        0.3114949713151321,
+        -0.2909697632762204,
+        0.4696521816580896,
+        0.5798154354701225,
+        1.3309401582859965,
+        -0.25005960095630475,
+        -0.048582892535242804,
+        -0.4429779774181309,
+        2.038532539194439
+      ]
+    },
+    {
+      "name": "Cheyenne Mountain State Park",
+      "orig_name": "Cheyenne Mountain State Park",
+      "place_id": "ChIJWTahD8VCE4cRgcEuWtBgYS0",
+      "cat_params": [
+        0.14185249234796543,
+        0.12339082420194186,
+        0.13298354161983691,
+        0.06780304431770702,
+        0.30439382130206943,
+        0.08101369426764479,
+        0.2540348470378523,
+        0.08735888081622854,
+        0.17940725117929504,
+        0.20632953481175736,
+        0.046621066747899446,
+        0.03752744685676417,
+        0.14521039167423097,
+        0.4831650720136555,
+        0.19979431775695916,
+        0.10787199515701246,
+        0.2824701145959548,
+        0.2263895206660331,
+        0.10183518499026688,
+        0.08263823497426581,
+        0.4950391557054907,
+        0.14782478508779476,
+        0.1371991698810529,
+        0.07454101681859722,
+        0.010549690332466753,
+        0.19311460882681505,
+        0.18675901101717485,
+        0.38342854829878564,
+        0.23384099512144765,
+        0.3672718760388784
+      ],
+      "noncat_params": [],
+      "quote": "Huge, scenic state park with biking & hiking trails, picnicking, a campground & other features.",
+      "phone": "(719) 576-2016",
+      "int_phone": "+1 719-576-2016",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 38.7291548,
+        "lng": -104.83288
+      },
+      "address": "410 JL Ranch Heights Rd, Colorado Springs, CO 80926, United States",
+      "photos": [
+        {
+          "height": 2660,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108388845177835645554\">Karen McGrath</a>"
+          ],
+          "photo_reference": "CmRaAAAA9btO598UKignkoVBdArtx-8PYD6YZBMrAKEUnwyJX4MjGFN1sI0fJy6GKyRYLM274DYY7MOOhHYA2g6Dc1mFfsqdRYnYEdmtOV7wjhW-76vPN2ZYuci62QqvCTs-T75OEhDh0__EYJQXE2zyT5GBLpMyGhT6oKcTZ5HNGZ4BiVa67XfRL36gig",
+          "width": 4730
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113690207893269078596\">Stefaniee Ortiz-Barajas</a>"
+          ],
+          "photo_reference": "CmRaAAAAKXxp7I5_d90uU2U5smSA75goMx3OR_UulNqc9idZrpqX6D5aG4mJpkQu0wR8qQYwd4Cf0RRFIX9DmZEV2QSfdZdYK7Blt6wTvuZSzgzTfiEywG-ffoVTqrtikGZU3e0dEhDYA1jFdK-ic_eAOAUWONlaGhR8_iNlPyoVKEP3yi3ueh2iaEiUeQ",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101236761509631893536\">Alissa Doocy</a>"
+          ],
+          "photo_reference": "CmRaAAAALwNeeJ7H9E_TsXRxLSOHsVcILJfdoKLlxsW2OcTIam8upUz2N0-DyQbrqqyvW3mmTXICzHxZ3Mbvf8PsFSUcfu1G7_wAf8WH3Xv0b8ztAqFmRNV4Rrr_fzvALDoOpTQ_EhBU8ukTZQm4cPhCWZ-k1rqjGhSFD4jxjdSDdYk5P3HAK5_Cj-hjpA",
+          "width": 4032
+        },
+        {
+          "height": 1088,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100647487306769750794\">Cheyenne Mountain State Park</a>"
+          ],
+          "photo_reference": "CmRaAAAAXn6zJAK40tBwKISwp7lg4tDOm61kmNSo0ectX__8tzwGDRtaWPObI9NLZiMhx8utK3Epsk2C_kLUts1_70L-_zc_pYV2sdXlZBVh-QQ4XWUgq7y2wq7daepxPGHBtkQYEhDdAW3KLzRlBB0o0uBjzDI5GhS3KgY6lwGNrJ1wdJfJ8xYElikLhQ",
+          "width": 1632
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114355727076714244358\">Nick Boggs</a>"
+          ],
+          "photo_reference": "CmRaAAAATHOp9Pf3rXa4kBQq0ffZZZWWSFAi9MQmhu5EyOQ_kOjSCk7t9VhjF7Q0pCBSKtq46mcoN10WILppUaGwHxl-x0Vt98f8nmWYQvZmvTsuzt8iSreB9S9v3rx3QS1C1CcZEhAqihVN9KTwb2KVBN1jQsDrGhQliIaq55dso9QfmZZE-0ZyVVvy5Q",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108929453483092573450\">Amber Enrriques</a>"
+          ],
+          "photo_reference": "CmRaAAAARVQIput9baV49VKvbjbOjainl8Jmxvg1uo5i_agnEhqiLCKK113r70l2W0RKmmmWYFrUaPtWtcSrsF7YEZqhJBkyjuXGqF9dmN0lZGfAWgrD8kilb_PHdRUGuf_O-Z5_EhBqBMhBmVUhDpTd18Gcucl_GhRuij1vh9jvXjzWCawzbeywd4i2MQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104636957846816937581\">Eric Humes</a>"
+          ],
+          "photo_reference": "CmRaAAAA1CLWrZM7C-m4gMiAkrj1Cx3XbZk1i5S__KF-GlAwJW9BYQRh0XtaMHFJUOhM0q61rXSK5oaHYKZx5FyQTTR7Po6T7hRAu_s109hN8AcJNyqmuk6vS2rZsOM3c2_-fCAAEhDniNJG_9fSjDu1HGGISuOcGhSxj_gnCv_JBEaUctrjUK5Fgysk0Q",
+          "width": 4032
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110357922207636634822\">Steve Starr</a>"
+          ],
+          "photo_reference": "CmRaAAAAxApm-0uWmPMaFKtdczm0B34_U7VHARStRxruJ_-4STYyaeGLRW3mbqP2SeoLwuUnuzNwGZwJtf3Nhi4LfO-a1tmz8Bn5zNHMyzDvLPxmE2OC7UEcG8SYJSSoZ-SU27lAEhDMDeJjaiZ30n9NuCv3BekqGhQI8J8xRlx8MD9o0koJEPo45xG14A",
+          "width": 4160
+        },
+        {
+          "height": 1520,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108342457683640960829\">Wolfgang Walther</a>"
+          ],
+          "photo_reference": "CmRaAAAAijhKWkepn9Injimk0lnfgg6Rf4GNjK0bH4ISrbIiZqSSNfeCBT3Utbdj5WUtettfEqGjvc8X_DcE_GL-qGo4oNN5u1zN7QGPETTETaVba68xmR2vqy2MrCl9mfjgspDCEhAr7p0D_HK2SbrNbRblkcWSGhRUEsOT226YruK-iqwuOsjsCC9-Gg",
+          "width": 2688
+        },
+        {
+          "height": 2503,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103880648584037577388\">Terry Dengler</a>"
+          ],
+          "photo_reference": "CmRaAAAApVsGoe1Jo5uUrg5Mnk0xFcbY5RneZvlTP9idvwbeWs0_hyHi5tNK0bYd_9s9sHZh9UMErubudGSI4UxrKdw_Q9BvnYSlsMtrMuxxxHlNQL-HlmGXvxtexdY2IVxejBAOEhBG4ghsZMu7SGpjejO-5XriGhSumO9FhF8_DDz1JqmqgmpDbQm5GA",
+          "width": 3738
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://cpw.state.co.us/placestogo/parks/CheyenneMountain",
+      "mood_params": [
+        0.0057047583976884576,
+        0.017164254035713315,
+        0.03728244394991692,
+        0.05264369807066334,
+        0.03715030187443273,
+        0.08278626744966251,
+        0.07458483035351854,
+        0.009692947339083536,
+        0.06627987438467793,
+        0.019929242348275103,
+        0.04144788207897873,
+        0.0109947249561657
+      ],
+      "popularity": 0.5876530250404445,
+      "num_google_reviews": 1451,
+      "top_cats": [
+        "hiking",
+        "water",
+        "animals",
+        "beach"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.2349625598905545,
+        0.13315211271032343,
+        -0.9003943451781368,
+        -1.1681913986541106,
+        -0.0028766776952100135,
+        -0.8553393719452601,
+        -1.5351290393321788,
+        -1.3746832122811725,
+        -0.4027016827833797,
+        -1.223032681889857,
+        -0.8170958519350674,
+        -0.9817268805793742,
+        -1.1704361928426155,
+        2.038587268539129,
+        -0.9823760962191007,
+        -0.7320720884785383,
+        -1.0129053943433688,
+        -0.7063553774996137,
+        -0.816418133093819,
+        -1.0563557580472913,
+        -0.20745598918940586,
+        -1.0496926601049428,
+        -1.3512130481706515,
+        -0.873824763644483,
+        -0.48966512928146855,
+        -1.197403061926572,
+        -0.9690970822410822,
+        -0.24039858653534332,
+        -0.3945681690856233,
+        0.2581372301348613
+      ],
+      "global_mood_params": [
+        -0.35461103484069667,
+        -0.9995297344802477,
+        -0.4609531029912924,
+        -1.1312088643628941,
+        -0.46498528612403245,
+        -0.8921960032523193,
+        -0.7327136752535116,
+        -0.7934902997721269,
+        -0.7345924978899968,
+        -0.9245883924251617,
+        -1.1613320024808909,
+        -0.9492200887325407
+      ]
+    },
+    {
+      "name": "Palmer Park",
+      "orig_name": "Palmer Park",
+      "place_id": "ChIJj1SlwltPE4cRRYOVgHKwXVw",
+      "cat_params": [
+        0.26443643110791154,
+        0.22431793028505634,
+        0.12218893251934608,
+        0.14416648455758643,
+        0.4608383663892189,
+        0.06459876691594874,
+        0.3913837064566435,
+        0.11862403146536007,
+        0.18669712778995634,
+        0.29312460231577886,
+        0.08835103067484383,
+        0.10057428492198835,
+        0.25424351615201995,
+        0.6289378238573161,
+        0.2329225336473827,
+        0.17906411380763507,
+        0.5376621861770943,
+        0.2856368527523737,
+        0.17044428939394635,
+        0.10568348514395559,
+        0.7913915896101434,
+        0.29125717647291827,
+        0.21911062731153963,
+        0.12828274737539164,
+        0.003904492856592687,
+        0.3590796183357557,
+        0.40742415785921393,
+        0.5893204274644921,
+        0.5175213762285551,
+        0.4566310001103234
+      ],
+      "noncat_params": [],
+      "quote": "737-acre wildlife preserve offering hiking, biking & sports fields on a mesa overlooking the city.",
+      "phone": "(719) 385-5940",
+      "int_phone": "+1 719-385-5940",
+      "hours": "",
+      "coordinates": {
+        "lat": 38.8789233,
+        "lng": -104.7680926
+      },
+      "address": "3344-3376 Paseo Rd, Colorado Springs, CO 80909, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106977422642669242282\">Dan Van Brunt</a>"
+          ],
+          "photo_reference": "CmRaAAAAGi4OYqhviYKY9ABabhf1LZcA0xmyS80uxoSVNjZI9q1K_21VxX6K_LZYl08_WIEUoxeh-Y-doC0uOHPm4J9w98AgRP11qDMLf0IIOKw1S23AiHXhJGDMoBfUJ1WeYPL9EhBX81LbWib1CiS_kKf1zwxHGhSjmToLiEKr6IikRWoyGJXjAelA4A",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114195885053756459995\">Steven N Picton</a>"
+          ],
+          "photo_reference": "CmRaAAAAHYg-znl4oVN9MrognlhG5YMBKqG117M4WBYglmqQ2_FjZxTjOFVx0EQ4iwjyYDr_xRQuz6lgQ7e25WP76ZCE_ctsZxR4ldzz_G0r13eGdCMDmmPtvBuH2mFLoggDN69xEhBA_a5h10aos72vXj2kqm83GhT2JiEJyKuYRoshh5-sNjmvvXh32A",
+          "width": 4608
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116701595746908664696\">Jake Loveless</a>"
+          ],
+          "photo_reference": "CmRaAAAA5pCJ_kVaO0QKznnQtDyb_irqWADK2NZz9d8Z-XXdd6F6cRzT0Oape3ig_tGThGWQTRAA83ylWiAncgx8aihaM-aOPvYUuWox-p5oAUBKDU5dGMuKSy1mj5cUjV1SiqylEhAE2g9s86PQbWqrLVRfIQtCGhTUAOoPFOciTO3Fv0l1X_Zx69FEFQ",
+          "width": 4000
+        },
+        {
+          "height": 2192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116604943556252717837\">Ky Christensen</a>"
+          ],
+          "photo_reference": "CmRaAAAA-6vnYYXKd9uE55H-2BbZfxIZY-7hEniNBbP20kHtkfGP3BAoP67icyc83Go06SLcnPvri9aCtwKlZ3wD2gLpqdhyQBlQvnOb0WYWOrUl0BWEMrSTLRYkTIeqHJF7FOeiEhDJGnTWS_6qD8phKVQtgfxVGhRahHDEb6637NhnvYTE9wtDDaCuaw",
+          "width": 4447
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101231657807375022766\">Deanna Treetop</a>"
+          ],
+          "photo_reference": "CmRaAAAAeH6q__Uu40GXXHKnnWgIG5rCjuBP12KfJXijxAozoMS1jk7D2RPVW-1Ya6Fm_F93wSm2qA5-2Z-D0U9jR0DEvjv8iXEq7z_hrU2QbzQrgzwk0ExatFnge_jhSqyBWZIREhCFaLVEg6mJt9nkPJUvvCvEGhRSjMIyady116prOseTDc8Z_i4SCA",
+          "width": 1280
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109246607670305189834\">Anil Singh</a>"
+          ],
+          "photo_reference": "CmRaAAAAgyVm407VSH5nj7uhMOSxnwdvNhAm1R_JZEGdorMLIGZDDDB7b4gNyC6L7WDRbw-6mzlRqmgvk4ClzQWgyX511GNAETX0S0R1FBgw9sWSNkLW11d69UM4a-pz4ceEwQYEEhAwZSjE9WIU9PsEFpchlfqYGhQm3IBtOo30FP7Iv1a8UDT3LRq_9g",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100711604122645861228\">Ursula Lamb</a>"
+          ],
+          "photo_reference": "CmRaAAAAWRj4dumwimOb9zBQbYW_cZxt4QridB-vJUoVfYIRpaEtl5BgBM4qrJ-ZDpxpXj0xFWPud-t3cSmeTuAKt4pT9tdm6q-Qk9cnFRzvMscwoh_rjSEBfYEdGRh32SOr1o3yEhDTRoq65w3HwghtbOcvZZHaGhQjVVbKk7N109TyknaV1FP66f64fQ",
+          "width": 3024
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113403599885052258558\">orlando thompson</a>"
+          ],
+          "photo_reference": "CmRaAAAAxWaZ1S5ZGcVcwODdeikm2czIM1iVqLxU_BXvA51wFGcFF35smGBLWY5ppI1nef-CZIFFHBocqkbGWQtsLQoN1hFo5sVtbqJOl754bLB4BLsDqjJJDy089ZnTLCuFnrAfEhD4aMPNyqxkI2f2aO_5OOdOGhR9owtUw5sdR7ssVEMICJBYQnJ9Mw",
+          "width": 4000
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114041676408511466124\">sylvia holt</a>"
+          ],
+          "photo_reference": "CmRaAAAAzhi0ELYts5V3nNKnstHDPbIvvH_f1QqATYe3h8VVU5qC3EjVbozKa8ptdItPIQZn4J61AiAtRWQnHfLoCol_1BpxpKIhcMsSTxuYYYgEsEgBVcrEo88nbjTVHpTcaYRBEhC-w4Wzry-ZCmXBf5jWdOWrGhQVD2dfEu9dT0wrvXeslY8L9j8APQ",
+          "width": 4048
+        },
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100758381347556619926\">Partha Sarathy</a>"
+          ],
+          "photo_reference": "CmRaAAAAOJ3NgVrrFxtukzZ_nKyoCwBwkMI8jZGj0xkCr9XFxhY_q-VtKbc2SWWXOytTZGc6pa-tluexHJ0lZg5AuGStn7MHXQbk9k2MJUlv-gi-kv21pMUhznFa9rrYi8RetQZIEhC-yccEQKOWi5ehh5fUmTdaGhSqfULKmU68atu3zblMBDOnwx_ITg",
+          "width": 3072
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://coloradosprings.gov/parks-recreation-and-cultural-services/page/regional-parks",
+      "mood_params": [
+        0.013257052646162988,
+        0.037436632316022546,
+        0.06299953147011542,
+        0.10198511942723605,
+        0.06465627785568284,
+        0.20901843116480617,
+        0.13475172205205585,
+        0.021212750786953973,
+        0.14338215614739497,
+        0.02947557954629989,
+        0.0708472231797703,
+        0.04017140413061788
+      ],
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "top_cats": [
+        "hiking",
+        "animals",
+        "walking",
+        "amusement"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        1.2524010230966498,
+        1.3399089246231828,
+        -1.0064339878650457,
+        -0.6224813892093242,
+        0.962127277204839,
+        -1.0743254863141427,
+        -0.07348516781522976,
+        -1.027458415923101,
+        -0.29481859959748397,
+        -0.30017206720263245,
+        0.04114278320562594,
+        -0.3829591787610392,
+        0.007796550088870046,
+        3.109729553654701,
+        -0.6221395205678336,
+        0.10172197514462711,
+        0.37177754256652035,
+        -0.08665073015403779,
+        0.059348339155770195,
+        -0.5971589763055385,
+        1.2378572638146499,
+        0.3515364703404268,
+        -0.4276755220171278,
+        -0.37249862433107406,
+        -0.6809957777198158,
+        0.033630526826866736,
+        1.0985163703785776,
+        1.097155043749011,
+        1.3178482580554012,
+        0.87258249118483
+      ],
+      "global_mood_params": [
+        0.1535214334659498,
+        -0.3921892275518176,
+        0.0020734749568159794,
+        -0.37053900200646234,
+        0.13869511275949145,
+        0.6951756012421895,
+        0.4059208588589185,
+        -0.33412972309690586,
+        0.2853692823114857,
+        -0.5535874051916638,
+        -0.48102528611366824,
+        0.8344341384632687
+      ]
+    },
+    {
+      "name": "National Museum of World War II Aviation",
+      "orig_name": "National Museum of World War II Aviation",
+      "place_id": "ChIJMQ61W-lGE4cRjN_Gn_-2m0E",
+      "cat_params": [
+        0.08196394495033223,
+        0.05673216484195508,
+        0.22414688140785222,
+        0.25522522491474636,
+        0.123600675827536,
+        0.144599630408269,
+        0.29698332675239286,
+        0.2557615659181053,
+        0.28800853710288604,
+        0.22084829001110148,
+        0.05806831638161948,
+        0.0348538118302403,
+        0.17142975908724342,
+        0.1343845052104927,
+        0.29966907742377585,
+        0.12894183149397023,
+        0.30321456265983393,
+        0.37955015387904767,
+        0.1683950217838338,
+        0.0934339777827448,
+        0.2949009677540193,
+        0.17540039974104904,
+        0.2528181418053783,
+        0.057012489792454296,
+        0.041963672482812055,
+        0.20662224983468844,
+        0.1740419922530709,
+        0.25392885227370926,
+        0.11396346700083435,
+        0.18242179754937088
+      ],
+      "noncat_params": [],
+      "quote": "Museum with a large collection of restored aircraft & artifacts from World War II, plus a gift shop.",
+      "phone": "(719) 637-7559",
+      "int_phone": "+1 719-637-7559",
+      "hours": "",
+      "coordinates": {
+        "lat": 38.821404,
+        "lng": -104.7201991
+      },
+      "address": "775 Aviation Way, Colorado Springs, CO 80916, United States",
+      "photos": [
+        {
+          "height": 413,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100015276593392018449\">National Museum of World War II Aviation</a>"
+          ],
+          "photo_reference": "CmRaAAAAvC2CCy9IGlyQzseoBo6iY04EE1Pl0WiSarj1dD-P1L36Bsz-gKsK_m6UBoBXpoN4tZS7K_mLfUWBU5fg6WK04AwBv13Lz5FLjRpxxu6lCoLR8tr-sfH8s64v7KE-3XXGEhAunX5AXgiC1hVdvJnynCzwGhSr1742S6-WYV2WDv25e2D4gXINdA",
+          "width": 736
+        },
+        {
+          "height": 3980,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105605572697963535530\">Maggie Sullivan</a>"
+          ],
+          "photo_reference": "CmRaAAAAYsXt5qlSp2Fxws4gK7cwt9AZz77YxhT9XVCAKCM7RrD0LKe7CkU1uEGT8dX3aLZV-I1fpIazpmhBIvwU_y7utXFvNEMbi3Cj5d8kiN8JnVMBucm_I6U-PbSP0ZZHa_dMEhAf4yssowBUVVgBviWxtyTlGhS65c0PBl9ybLejo_Qgkwmj0LGwoQ",
+          "width": 5498
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110669447803755842943\">Stacy Geskermann</a>"
+          ],
+          "photo_reference": "CmRaAAAA4qhbJjX3B9gA5AXw8Pi8uIRC3j2FFRCyicqD1o9dEQb0NZxtTR-rWyO0vK_MmJGkmt_Lru4IAplAfS7bwKH5ZZtyMVgOD5EAVffbjT1FhQFy0Hw2lUFKnLWuQ0Gq_ijCEhDjArARyFiBnArCXfP7w6cGGhRLIIh7-WjGmZKvxObeA7POaQlx0w",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111339897585722160829\">Brent P</a>"
+          ],
+          "photo_reference": "CmRaAAAAM6IXmOWVshKeXkmQAter7amVvIRNbiuRp5PjRgBlP1I3bR_EqmscQe1H-7q9ErcvY1AyVPi4wKniFRQHTXld89tMEbvjanPpFldTEefYm2sI3wXgdEOTZ0pXZ23o3KgBEhAbunfIemrsbeRQCznqG5iyGhRGKIOKSbu0ByvVhZGyaLJhmr-Afw",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107103004830510415994\">Kyle K.</a>"
+          ],
+          "photo_reference": "CmRaAAAAMn4F9s6iT_uo0aEOu7tWwzkXXl5Uj4p-pE47h8ti3hhZUihPWbxQ7S_1SmVltJl931Zd0NZFWex0oGMiwED4f-QOneRpKrGE1lBHtZtQ6bF89wXcH97nPC4l5rbSbIDZEhA8lsMw0lY0RstYqfZ53cFiGhRTZgu9NvMnEcT9UX4bRLRgwenm9Q",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104827752461520556890\">Luis Drummond</a>"
+          ],
+          "photo_reference": "CmRaAAAA2nT5Fds-HgfiSdcz6kPixnd3NvaofskIqXe5pEXqgT7qUGET8ACw-4aWfre29CyGcKsqdARL-Esi4tUYtt2QF_3nSxd2JElbRl9BapVA9MFiMHN7SBLhWxpII0gjHoX0EhAcxCwCFnbcwYLnOTTnI7tMGhTMQ5BBkRoAYFSqfKlEWF9PjpUISQ",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110669447803755842943\">Stacy Geskermann</a>"
+          ],
+          "photo_reference": "CmRaAAAA8nBgVfJgVq7oQsr0jeUoK3NxpTmwWrtM6-M7S1MVkPotgEATXfsKVd55cZbddBkcpZftd7BBm8sGtK2AchSCOOndtwWmWKv40q0ebHl8bRS3PwWNyAvL7ZcI6zK9S_olEhC5QwIUKzNXOsI2igmyxAOyGhT5as1dbvt5ygyMPcRS5xzVc3b3Xg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108576257545314312293\">Jia W.Chuan</a>"
+          ],
+          "photo_reference": "CmRaAAAAe6rNfpEFD822HqDvX0V716Gsls2JN5NfS6NzX9z584s3rMt5E0mBMkfb0EeGfuTYYodbGpVz5Xq_CidtDPYaQY8Uo42G8BPG5QTIjePTFs8AgvaMMqw8d212HefHb_4SEhDdQYoy2-GJxeKWJfciAMYlGhTE-P-O6t1GdnwdTu6M2JkbNPf-ug",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103178913132418476163\">Gary Harder</a>"
+          ],
+          "photo_reference": "CmRaAAAAl-j2jNim2--k0FF3_mV0sFUB9PckLe6gQlFdGNa-oBY2HhT_8HR1jyODXGL6GU7TtLumBZuefU5DDM5OCxG9NacJtuAEWj4lEJYMV-bwfnsgD9RTOvKHPpJ9W8HUD1QrEhAboYyd8IQt7osPSdhrYfouGhSHhY3egyEDEwJT4zKNndcSBebosg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118432356073782813690\">Larry Veteto</a>"
+          ],
+          "photo_reference": "CmRaAAAAAWbkMK8YyUGMAw9P3A61QV8PXejYkmtKM7OMRsa9ZAY_ZH5cPWSVS3pJOFvmEat6Tq589xy0La-59lrk5m_bynkj6NJquIUQWglINPtVn139L_nP-oODktGFiF8jSJpREhAXRLs2kGo7F3jTqo0SRfNGGhRQZ2BkhvK6Q8Ix5aZTAc9SL1nVuA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.8,
+      "website": "http://www.worldwariiaviation.org/",
+      "mood_params": [
+        0.009257598314067377,
+        0.04878848845140631,
+        0.012288131047023835,
+        0.11165915241191122,
+        0.037091800240967594,
+        0.130053523481555,
+        0.12991864729975514,
+        0.03727924252974825,
+        0.05870532052555152,
+        0.0390625380778365,
+        0.07841090882362274,
+        0.019067294640806358
+      ],
+      "popularity": 0.4557681251388571,
+      "num_google_reviews": 525,
+      "top_cats": [
+        "engineering",
+        "military",
+        "culture",
+        "science"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.9616160296544746,
+        -0.6638665909608107,
+        -0.0048614094994517704,
+        0.17116889761446819,
+        -1.1180712043216008,
+        -0.00706043743602689,
+        -1.0780784134196661,
+        0.49556486990025195,
+        1.204491715559638,
+        -1.0686599999728892,
+        -0.581666175576896,
+        -1.0071188962531266,
+        -0.887104706811,
+        -0.524262157052552,
+        0.10366311384194447,
+        -0.48530454184206223,
+        -0.9003451447568774,
+        0.8956468199019241,
+        0.033190296703501196,
+        -0.8412411327920881,
+        -1.183531574826554,
+        -0.7802991558278906,
+        -0.04762912161164001,
+        -1.037338455719961,
+        0.41481627953710926,
+        -1.0972111007733405,
+        -1.0882544546225945,
+        -1.0816789189162805,
+        -1.1182003342627136,
+        -1.0129165756497855
+      ],
+      "global_mood_params": [
+        -0.11556932687590828,
+        -0.052098787026680554,
+        -0.9109663932793642,
+        -0.2213996959920401,
+        -0.46626923581735163,
+        -0.2978094551716519,
+        0.3144568383060626,
+        0.30653337028963873,
+        -0.834793883137747,
+        -0.18100774390517446,
+        -0.3060000661142781,
+        -0.4557207101277992
+      ]
+    },
+    {
+      "name": "Will Rogers Shrine of the Sun",
+      "orig_name": "Will Rogers Shrine of the Sun",
+      "place_id": "ChIJ09g386VcE4cRMCP-H3tv1Jk",
+      "cat_params": [
+        0.16075685256255595,
+        0.2275250411651194,
+        0.15725003417924832,
+        0.18856933801870396,
+        0.2338265399583219,
+        0.0921434942357913,
+        0.29760664989385477,
+        0.1252482549419155,
+        0.1708092382789164,
+        0.2427924171569499,
+        0.062462805452582454,
+        0.048769851618074886,
+        0.17652619002882608,
+        0.25717017433841677,
+        0.2603902491366402,
+        0.13727167444672989,
+        0.5707248505811211,
+        0.19790690054050775,
+        0.12122620405187161,
+        0.10564035507840616,
+        0.47903192815213613,
+        0.17732540416450054,
+        0.2288660162354357,
+        0.16629912211175527,
+        0.021531290607077803,
+        0.29275343597130293,
+        0.19746394707633855,
+        0.5006365196982205,
+        0.21298013415183548,
+        0.2555105289438919
+      ],
+      "noncat_params": [],
+      "quote": "This mountainside tower/shrine dedicated to Will Rogers was built in 1937 & offers panoramic views.",
+      "phone": "(719) 578-5367",
+      "int_phone": "+1 719-578-5367",
+      "hours": "",
+      "coordinates": {
+        "lat": 38.7720157,
+        "lng": -104.8630502
+      },
+      "address": "4250 Cheyenne Mountain Zoo Rd, Colorado Springs, CO 80906, United States",
+      "photos": [
+        {
+          "height": 4928,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112106234177094830965\">Will Rogers Shrine of the Sun</a>"
+          ],
+          "photo_reference": "CmRaAAAAZeTujdacqlYM61q1sqvINseeUDpW579IgRWS3GVf4zyLP4-mZGn4iB7rBCe14Ih1ZVCPpWBZu7pyt5v_ymsa5K5TCnSUrfMMslnBdKb3HxEstwHnfj-6eWHilAuIE3KnEhCpDGCfGRmrilVPzWji6Wv6GhQhIkUnhwmLcl5K_FoOI58A0_01uA",
+          "width": 3264
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116264798991353207432\">jason chen</a>"
+          ],
+          "photo_reference": "CmRaAAAAWG4gCAiJG5nNraFCxhSYjsLt6yZMrObWxy1AvW3-FY6CJkjcAT_y3JjzCeI1_JSH4GYBGkb2BdHeu0eaniM9i1wDYiG7EYDhzjKUgE67PEVzT7bfeLprSx5jVyUWTPLVEhBwZIkO-K8Gs63QcPtSx7hUGhQjtT0axI5oENUoNPO259F6bGSZpw",
+          "width": 3456
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100787417497326445983\">Thomas Hart</a>"
+          ],
+          "photo_reference": "CmRaAAAA3os6qRyz_8qtuoEGiZAcBCOKFc9-00vMycwdWT0eQlgasKRsIVp8KWviKgvIIuR8A0soxyPXHBckmCncQe3fNDJIhLkq5XVjowQCtiC30anJ13R3ESK2pjnQpHqFzOEOEhBNVXTA7ApyK8oY0SrItOViGhSZlXpjWex3cBUoGtiy6GPKK0EuWQ",
+          "width": 4898
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116271724879901806292\">Lawrence Lloyd</a>"
+          ],
+          "photo_reference": "CmRaAAAAi7hTCM9fFUFTgMYAt17EuoJSlkvmK12MfolLCOqSW6HyV0BTqdCUe-mryUJqDARi5jMnk8xWsDATmRHtAh0Avw-H9_WKm5jcb7JiCIjzFPP5hJkjAO8WsG7ZzQ9AnxvREhCwwZfdWkcvzLX3v7T83HFYGhRDT-NCIUEljwvKpN2SuqBsVvcRwA",
+          "width": 4032
+        },
+        {
+          "height": 801,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101083157255228010171\">Philippe Jacques Kradolfer</a>"
+          ],
+          "photo_reference": "CmRaAAAACLk9iQ5gDi4AnSBHjuaZ1Qmlc0ERvY2E-CI812MBqLNr_9OmpbyW1m8yigLL8yFL_rMCW4_8BHzpzGplWPBPp63OU_6zPiE2ICLFdQvKEJ2YZuWuQwpsDt_qSCAl452eEhCZFFEFt5PCyiaXuQST6faMGhSNkS_smnuUqq21lywCBISy1FVybQ",
+          "width": 1200
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105455877940994712082\">Frank Mario</a>"
+          ],
+          "photo_reference": "CmRaAAAAvpRm-3ZKhJg6mmOWqladNJECSXgPG-9WSVFsEqkuHeZ8f8_IVUnyxW_F0fXfYvuQehQXaNRuCVxK5RV1ipCmj2kwyuCLZ93pdT-qTSdwsmCYlVoesoVIm0-qI9b7NansEhCiGE142I1bzmDO9YtmCoEDGhS9YuOoFrCwvjY1uASSsJhjEgbutQ",
+          "width": 3024
+        },
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110692072871753529718\">Chris Casillas</a>"
+          ],
+          "photo_reference": "CmRaAAAAl68kxfE1-bB_421zlg-mKII7azEZaKM5zJIGle-vL8uKivGD00KFR0ivtmZyb4BSmMniYCDMNANmdiBqU6tP83UdksgHssI-kNvvA1oe7d8ENJ4SVyRa39tWFjcPPgtFEhCl_KCviSFzLPxYVuNJcLq-GhQhJn47dz5hJDVyX-UcmzZJPp3csg",
+          "width": 3072
+        },
+        {
+          "height": 756,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101083157255228010171\">Philippe Jacques Kradolfer</a>"
+          ],
+          "photo_reference": "CmRaAAAAXTcSfT8vSl5qld9e_nh1kQDy2JCQ5xw2T7akP6cRzmmn_4FvPViFOOtYW3PijEVrPuKnkkESMTrFKjTmE6rr-PvrCns7wKsArAYwJ41OJMpq1SKzGl5PKNQFAhCPq3g_EhDqCts0m7gBMJKI2S8Wki57GhT71FNwbaNWAlhQWn-lvBBDATbonQ",
+          "width": 1200
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103211585967857062942\">Rebekah Bentz</a>"
+          ],
+          "photo_reference": "CmRaAAAAeJZr9tovMSrqNE7X81Jm-0va6VF6ayefe8u7JT_sKrnjVVj-GhScPF6sYZMBpvOK2GZ-3M40doxM64XAFzf1KmQgIbr42MpuleKo8TJIgzlAhKaLsED54x91HH8eXoUKEhAdxdx1-oWWcsUQUGIRMcyVGhTrEy3Tj3S70n-Vkmlrs0agJQ182g",
+          "width": 4160
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111714691417713829058\">J VILLAGOMEZ</a>"
+          ],
+          "photo_reference": "CmRaAAAAwRGH8VEUmfhDTYbCI_V-cqwOJkKXi8u-tokf2hr_d5HCJyyyS97XFpoi9xXdmat2Tuwrjh01WbV5zEvUvOLRHkB8-c9vsoEerZOqdkTcvlRPSBF0wDIKuL_gCr30fU4CEhAcuU8oquh_Hj2kE1kkQi5CGhR_b65Y1drA5VVSXs0_2jV5iQSNdw",
+          "width": 1960
+        }
+      ],
+      "rating": 4.8,
+      "website": "https://www.elpomar.org/About-Us/museum-and-legacy-properties/will-rogers-shrine-of-the-sun/",
+      "mood_params": [
+        0.007826211115166227,
+        0.047050901748935156,
+        0.06229029139363126,
+        0.17226813263022325,
+        0.09473181185341356,
+        0.18776074210132512,
+        0.142099468911046,
+        0.03329126386901517,
+        0.13152516910789372,
+        0.05246877005498833,
+        0.07902508988929487,
+        0.02416959928429809
+      ],
+      "popularity": 0.44820272847827947,
+      "num_google_reviews": 491,
+      "top_cats": [
+        "animals",
+        "instagram",
+        "views",
+        "hiking"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.005587837334801053,
+        1.3782554407502656,
+        -0.6620151527210876,
+        -0.3051687916426725,
+        -0.43816002711034063,
+        -0.7068603932383889,
+        -1.0714451115229644,
+        -0.9538910541825556,
+        -0.5299439106708019,
+        -0.8353360191412138,
+        -0.49128698644060387,
+        -0.8749556440127211,
+        -0.8320317018299764,
+        0.377970397013407,
+        -0.3234552871173464,
+        -0.3877463607320312,
+        0.5511769532354273,
+        -1.0042727931672817,
+        -0.5688998991144322,
+        -0.5980183806144862,
+        -0.28552336937552075,
+        -0.7614932762889107,
+        -0.31768519787857546,
+        -0.01786541509469106,
+        -0.17347938626023543,
+        -0.45833918742804547,
+        -0.8687927518014215,
+        0.5210299276869456,
+        -0.5204932713759415,
+        -0.5103487057408151
+      ],
+      "global_mood_params": [
+        -0.21187573212846986,
+        -0.10415517499059114,
+        -0.010696128339054445,
+        0.712975994303832,
+        0.7987702314450237,
+        0.4278597999168641,
+        0.544974050495968,
+        0.14750980832934546,
+        0.12851693848781012,
+        0.34000101531126314,
+        -0.2917877916755467,
+        -0.14380216753458755
+      ]
+    },
+    {
+      "name": "Colorado Springs Fine Arts Center at Colorado College",
+      "orig_name": "Colorado Springs Fine Arts Center at Colorado College",
+      "place_id": "ChIJx2B2mkBFE4cRkigrEjMuErU",
+      "cat_params": [
+        0.13617999334497066,
+        0.05622017858675147,
+        0.2422902290802488,
+        0.3942664365134004,
+        0.15853724606388045,
+        0.19603011245167806,
+        0.28936946732501034,
+        0.2112147476390682,
+        0.16412302450073746,
+        0.24945931889433876,
+        0.05992825037328794,
+        0.08080973415596113,
+        0.1933207220780684,
+        0.16081184291657197,
+        0.2370029545392665,
+        0.13451849725652004,
+        0.36788084790353054,
+        0.24284882796930765,
+        0.21514003579715,
+        0.1253031469120726,
+        0.43954263300690827,
+        0.1730583466117589,
+        0.20240181882238223,
+        0.0852864516987824,
+        0.012289912394954111,
+        0.3096925604086531,
+        0.2050230047471925,
+        0.2587372163180379,
+        0.149896359335952,
+        0.21522084681178427
+      ],
+      "noncat_params": [],
+      "quote": "Historic cultural center with renowned American art collection, large performance theater & classes.",
+      "phone": "(719) 634-5581",
+      "int_phone": "+1 719-634-5581",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1930"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 38.8455063,
+        "lng": -104.8262146
+      },
+      "address": "30 W Dale St, Colorado Springs, CO 80903, United States",
+      "photos": [
+        {
+          "height": 2479,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107845985251707675902\">Colorado Springs Fine Arts Center at Colorado College</a>"
+          ],
+          "photo_reference": "CmRaAAAAu-aOhGErpJwEPHAP9EhETMx4wBjYf2sBmMiR-lP_4x2C3gsS2MuLd6Noici7K8jDNUWsRN580veH5IeccgI1-ihSeClVsbrvsxuo4KSZ7ifEMGrmO5W2eveEhxc3X5GtEhC4c2yDTOZDIv9n1F4OpnC4GhSVSPbOTN68OeyHmlXV1mBCJo1TLg",
+          "width": 3893
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115779641175412696287\">Alejandro Salazar</a>"
+          ],
+          "photo_reference": "CmRaAAAAwLBDW0aXM6oNnWfboGsWOMwAs_40DZG96XxG23q9vyXssNLhmqA_vrdyQ1PQtzeRW-DRn9Rb7_pDVTkgCj75zjsThQZBlX-gFRBxSQCjFMMW8huBhC2TxxW5XDb_GUV_EhCjRamakYUZGfmzqZO1ZMWTGhTB_0YC1VirywqHp2x4j5v15xDJvw",
+          "width": 2448
+        },
+        {
+          "height": 2704,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107845985251707675902\">Colorado Springs Fine Arts Center at Colorado College</a>"
+          ],
+          "photo_reference": "CmRaAAAALgoXSlTePyhT-J7SEdwqL0rYSHwOqe0C_jAz0WhbDd86iQSVi6GNrThH6BAjgOtBeCjXHKF9ihmvHm4A-qDy2qTXGel9hil3dNdIIRgoOv-2xvUUtuLdF6ixR0ePk3ULEhC4QgeGl1EumQ7urBbrQAUeGhQJqufYIihFooE8S1Nx2sKi2-4yuw",
+          "width": 4064
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107858408084872909197\">Krista Blocher</a>"
+          ],
+          "photo_reference": "CmRaAAAAiebrmCa2SydN_G818YSl72nXdUnVlsFYmPg12UoMQBfKLzU-fsCN7LEC8u8HzCYfpCkUAcfIIzwLNj79GS9L0Be8K2l0zvuzkj4LRXK2j0Rn-d2zq_fFFWpu7kMD3eXGEhCUvAwiVCvXt6Yatct1-A8HGhSCUYUHk-8OFBVHfVjW2SCOSyAbUQ",
+          "width": 4160
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100557820432298269461\">David Cain</a>"
+          ],
+          "photo_reference": "CmRaAAAAd_vk3wvyFvaurYFKS-e7ach6zLsQKy23n-QBOfojN4TbrNaJYdK7uUv-WRh7ECtRYx4IVJ0mzxbFurYC8g-L9UQDnuMByCrAzNMax1YQdkQhXCUwQb62_qm8MfYAdXTWEhCtkuUTEu5kVmzEtbW0igjBGhSu0UXehjRNO9p4bZWSpwzMp0xDXA",
+          "width": 3264
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115941989611965328021\">Richard J. Kennedy</a>"
+          ],
+          "photo_reference": "CmRaAAAA75NPKTXVB-gikGqu-RUTH6SEflbibTAxx1GkcZ7-ZxbigPBeH6I05KCgDdjWq-lPswQahbuy3cCTO9lnIrz64vLpkbY_ed2z2vkPxfMSC9ScnixLgUvV1VjZ-lgOeYNQEhBVH0xwLBd-B15xvIGeuI91GhSjD689FARvEiE7GXUA_aGSqaY7RQ",
+          "width": 1920
+        },
+        {
+          "height": 1296,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109455217726409792714\">John Keeran</a>"
+          ],
+          "photo_reference": "CmRaAAAA02Xt4nngNKR9RXD2dAMCG8-ldpK_HrnsleD9OqoxI9VlhKsEnQoGKa9oNNLv51VIM0lzwLpt9O0Xk-r78bn7xI0j08ridjYc1FCFPC7pok2IUphh96oBdvoIqyrtEYzFEhDh-wV_3dLWHCgTRKRiOfRuGhSpJQ6jP-JSneVlHE3vME0EpAViVw",
+          "width": 1936
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113618341302001170781\">TJ Rogers</a>"
+          ],
+          "photo_reference": "CmRaAAAAEMI2xLtxQzWEmdC_1wwR9jx8pBGkwaMv2cyyCrmNwXkRWf4JX_5BB4xnAevGqU8LP3EoQnUNpi-39dRCKyMjTfUMxwLxhqbVJTHQo23vnFfetQ0btGZaFNPiH8d3XJ4-EhDJcHxSq2PkehYHgBPEmHcQGhQMwgH4_Pc06vpt0yIhWEB77xNXvQ",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113618341302001170781\">TJ Rogers</a>"
+          ],
+          "photo_reference": "CmRaAAAA18xiUjAbcBv3JQfOwNYk2fmLLAjJz6eAyVPhenEh6VN72OUzGFpeIEzPrakcpJr_a0UIGpOrG2qCVqu5Bm9qp9VHvxyKhFnWEJFeT_Xbx7z71iIF2_r0UXD7QJ3yk8jREhBLTLPdJoX_2H_gUyDORhkeGhQHFsR11QbhM8s7Hr8CJt1ADIUPOw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112016768765592584733\">Elena Kosmynina</a>"
+          ],
+          "photo_reference": "CmRaAAAA_VjZ8WdIWdxXLNgkX_RkC-KfjTtAqX_SPkZoy8dem8IPbrftShT29VFqB96gLPlnuSo3q9KpIYo2Y17jnkh5dmKdO6bP_scK2DUBLe-GDCnKFn1rXYhIVw5U5nqDiTx8EhDtefJC8hQa79Nnhk_frPc-GhQItQUKbUU_Ml77btBwH6tK2TdRPg",
+          "width": 3024
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://fac.coloradocollege.edu/",
+      "mood_params": [
+        0.005740453193873645,
+        0.046733194371606716,
+        0.033289195974386544,
+        0.08635332638164495,
+        0.03596060199591952,
+        0.11084034104008317,
+        0.08794644083522649,
+        0.026776761244139625,
+        0.07457997783756036,
+        0.02565404823415195,
+        0.06369577024596462,
+        0.02244857115785981
+      ],
+      "popularity": 0.3025897175247369,
+      "num_google_reviews": 102,
+      "top_cats": [
+        "art",
+        "books",
+        "music",
+        "architecture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.30378942682707705,
+        -0.6699882655539959,
+        0.17336774974243435,
+        1.1647881040877128,
+        -0.9025703798605436,
+        0.6790566060025507,
+        -1.1591038476148818,
+        0.0008364075645581175,
+        -0.628893371101316,
+        -0.7644492601080357,
+        -0.5434138729088213,
+        -0.5706668418702161,
+        -0.6505467846783956,
+        -0.33007333546557915,
+        -0.577768979933527,
+        -0.41999126144309606,
+        -0.5494631552988936,
+        -0.53419725883422,
+        0.629870815615858,
+        -0.20622004197231628,
+        -0.4781129859789377,
+        -0.8031792949521167,
+        -0.6160644500269237,
+        -0.7735866930071053,
+        -0.4395600997693653,
+        -0.3326944433452337,
+        -0.7979650313704578,
+        -1.0504419181696683,
+        -0.9012939875171029,
+        -0.7873859362701813
+      ],
+      "global_mood_params": [
+        -0.3522094222585405,
+        -0.11367337541747333,
+        -0.5328500448030676,
+        -0.6115258551910246,
+        -0.49109592105304223,
+        -0.5394155509713554,
+        -0.4798505025627882,
+        -0.11226074210207428,
+        -0.6247930457841309,
+        -0.7021042509871342,
+        -0.6465113575862389,
+        -0.24901356169257804
+      ]
+    }
+  ]
+}

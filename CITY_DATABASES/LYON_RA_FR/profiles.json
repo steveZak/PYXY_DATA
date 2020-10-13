@@ -1,0 +1,4441 @@
+{
+  "sights": [
+    {
+      "name": "La Basilique Notre Dame de Fourvi\u00e8re",
+      "orig_name": "La Basilique Notre Dame de Fourvi\u00e8re",
+      "place_id": "ChIJK1Jxdanr9EcRKY5nG3nMG50",
+      "cat_params": [
+        0.11462105090913048,
+        0.06366503847726791,
+        0.22841147619111007,
+        0.27183786849007086,
+        0.2767652417217009,
+        0.0829799864114185,
+        0.3412410063298775,
+        0.13545133672077928,
+        0.2267788421649355,
+        0.24103603996739223,
+        0.05794910072104599,
+        0.06334121450963386,
+        0.17923872218625478,
+        0.23640167480138102,
+        0.23161485590853462,
+        0.16004659514127637,
+        0.5787312933565225,
+        0.23096181676257102,
+        0.13471289586797142,
+        0.12226288756665522,
+        0.5077604437351467,
+        0.20604820468240556,
+        0.25089210977754695,
+        0.2748540037208575,
+        0.006535232142185181,
+        0.3359132280818201,
+        0.24797537735026856,
+        0.48555818277046187,
+        0.2822415524061641,
+        0.28372744098715275
+      ],
+      "noncat_params": [],
+      "quote": "19th-century basilica with 4 octagonal towers, a religious art museum & regular Catholic services.",
+      "phone": "04 78 25 13 01",
+      "int_phone": "+33 4 78 25 13 01",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.7622928,
+        "lng": 4.822626
+      },
+      "address": "8 Place de Fourvi\u00e8re, 69005 Lyon, France",
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106022501234300226059\">ulises santamaria</a>"
+          ],
+          "photo_reference": "CmRaAAAAHgNYJh-QH3tsLqwTfk-3zsla95EBZ8e077cHao7gHHL2B0qtZuebYO7elU6hvGYafi4BULzPdiGjtgaFzh7AmQteE9CdoHYJ5yPXtu4NJemu3dRvnBfjlZe62wQoU3YmEhAwNABfyPiPHQ2CzE5GvtZAGhS2HAI199g4WSgrzhN5gKY9VuG8ww",
+          "width": 6019
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117832233649894840590\">Albert Paris</a>"
+          ],
+          "photo_reference": "CmRaAAAABsSJ6Rg0umr-2TF0IB3h8J9Qt3wMgTSNwo7RFzuWOZJyBY_4ZKdK3GdOqbDO9VYxjM3XlNlK9EsveDb0ulHIdpu8fFXx7GByG6BPkAsdvlOUgL5C58YWhPRWe58Qi15jEhAAfMa6kypT15jU_EilIHBbGhQmzsUsx80uuNBDtkVBgYv4a99aGg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102471319595369188408\">Alessandro Costa</a>"
+          ],
+          "photo_reference": "CmRaAAAAd78fWg2t_GOaDu_FIojA_N2AP-h9WnIv63bbf9ZYHkjV9rkKKIpFoHt6GiBkaUkVeSk95Js4Y-ybMXK_fyT8Sf26yV73BMlfBXcE5hpFAcWMREm0xlS42Z5O1Hj0fAxOEhD1YyQtzU_L6vEPztdiPvKzGhRLP8KPJF4PvRfG7WguQRiQvcBKPw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116747153588360289794\">Nayeem Muddin Khan</a>"
+          ],
+          "photo_reference": "CmRaAAAAaBsMxF5--TX1ywhYUE-uebSBdLp3F26I2DHLTYKrLBYOf-AW14I45sXPyauUBNY0uGd974Tq-k-uCVJwLq_BVznoEx9U0FRjfsx7R4jdYIY19d23wI2Pi1pPfP2BXUmHEhC-TpQfforfCnfJlr47KFS9GhSPWVCsPetllCBpbIs0PpTbGmUxvg",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117847445187488151503\">zvi yarkon</a>"
+          ],
+          "photo_reference": "CmRaAAAAP1zoUtr_dLLyHqdN6NxcuJk4oq_1ms5Kzk5eIodL1ymt5Wx0ShPO_1xekc7A5P2KRwdGeLMAthYee-HnV65pP_Z0kOhzqpbOghHYLTHxElH0YInSBMzk6_oc9LH_TnptEhCb8XfzWcgghXR2BFBg-zEdGhRU_OuCM32MoeR1I0K673F-cr53Wg",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115655225103554460146\">rubin peng</a>"
+          ],
+          "photo_reference": "CmRaAAAAkbcT2WSbH3uf4p6NtZ4qmTYLhfvasV0_t9be_MvUDXAqgYceDlbNiIeHhCUdDgle12Bai3ZTOw6kLAY_NHdvis6-OpMf2VPKDScLrOAPnOt2dmwlza05fcZMpgNdMXPOEhBLz2bewW0hp64UNEVGLUu4GhRvxE5YFqW7p1cUysfyo5dP4Z6mbg",
+          "width": 4032
+        },
+        {
+          "height": 4618,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115033691966029243142\">Fanny F</a>"
+          ],
+          "photo_reference": "CmRaAAAAUXf6QZedCVYLJRR22dBRfiIQnpr5eK7qK8LMpiBIbj6WtWvv8QSJZoRuCwwJoBK4OXDaSrI-7S1_rnq5LTgXaEmg-Q02B3zkriAQZnuwUMZX6asULc6bMJVrTT8-lTOmEhD2eGfGVf1e_fm-uPVaY34pGhRDnlVFtAVdt9mkQoRBJsF15843fg",
+          "width": 3464
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102058528538067236448\">\uac15\uc900\ud601</a>"
+          ],
+          "photo_reference": "CmRaAAAAIRWiSRSVclnsJVdPCQU3TMiWxdQ4jNp8Kk_z09ADJATMtNlV1lJYKAcgvG1TJn2qU4U05Kxee7LJ3sHP6IDcVPls0DIOjGhICG96FLZvzDjtUvCMofFBZSFdR-qS1i89EhC_bej6G0c_fPxQ2xG3fKNHGhTB1yARP6OXNBH-0c54Cj2v75fSWQ",
+          "width": 3024
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103135139503027454929\">Christine Deparis</a>"
+          ],
+          "photo_reference": "CmRaAAAAnhIla8tyxQ-IVbXkiGvlhpi90VuZiCUTjo7AB_ce7qv5KmtG-zsdoucJ8onaXsZCbx3cytouYLapjvwJvm5k5X8oo6J_xJOUT9xh4lK6KvqXTb05fIrJl9qxzEkjK-ZlEhCv8h03ToHhbBoW2Yq_aHACGhQsw3nubSN89k5sTaR0czvP-blQdg",
+          "width": 5312
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109595114937709475750\">Edual Huan Everyone Favorite Channel EFC</a>"
+          ],
+          "photo_reference": "CmRaAAAAyvattlhe0K1tvPcwdcB5mSm4XXlQnSFJxiYKbXxD6rmIZGrgiY444O3RSRJ205yJcrSqoXS5PFo7Yz0UFn_tEEFODbJP_jb0L4Xkg3OoPhTYBtDrzILS1xtd3fYimT4iEhB7zzLsy8NtXvyyg1UIMrzkGhTL1AwHM_lt3vrHssprQafrBcnhOQ",
+          "width": 2976
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.fourviere.org/",
+      "mood_params": [
+        0.005787406737003469,
+        0.03254913004038147,
+        0.08705509940210894,
+        0.1767492543401827,
+        0.14285649096418027,
+        0.18465190959043587,
+        0.18272025355458132,
+        0.02134636886275046,
+        0.18214137952264883,
+        0.033774297353184185,
+        0.07509050295359866,
+        0.0125876844174263
+      ],
+      "popularity": 0.8418823569963169,
+      "num_google_reviews": 19567,
+      "top_cats": [
+        "religion",
+        "instagram",
+        "views",
+        "engineering"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.5653733357075086,
+        -0.5809721851838819,
+        0.03703136334774253,
+        0.2898865176420008,
+        -0.17329929325188614,
+        -0.829107719068979,
+        -0.6070954988492014,
+        -0.8405775751384643,
+        0.29835178682925206,
+        -0.8540109436431472,
+        -0.5841180225518205,
+        -0.7365686647654263,
+        -0.8027195618776068,
+        0.2253628776302185,
+        -0.6363592223548591,
+        -0.12100905842202106,
+        0.594620249211489,
+        -0.6585308925770625,
+        -0.396747928661518,
+        -0.2667998706483412,
+        -0.1454141630356876,
+        -0.48089260858063876,
+        -0.06934479985830491,
+        0.9947815379691428,
+        -0.6052506918571205,
+        -0.13820451609661577,
+        -0.3955049932221356,
+        0.42307519349297323,
+        -0.1024016503659681,
+        -0.3163254533129668
+      ],
+      "global_mood_params": [
+        -0.34905030014526756,
+        -0.5386139868305512,
+        0.4351850118445376,
+        0.782059010978284,
+        1.8549743632865165,
+        0.3887661782464709,
+        1.3137062700298818,
+        -0.3288016047284059,
+        0.7981028301293541,
+        -0.38652557643892776,
+        -0.3828349314501448,
+        -0.8518379000386014
+      ]
+    },
+    {
+      "name": "Parc de la T\u00eate d'Or",
+      "orig_name": "Parc de la T\u00eate d'Or",
+      "place_id": "ChIJRSpfGOvq9EcRPFTYvmRr9Q4",
+      "cat_params": [
+        0.25896062188247665,
+        0.3218449412725222,
+        0.14926655226247718,
+        0.15917259452622684,
+        0.4992558765130136,
+        0.08344555794563455,
+        0.33910936984121376,
+        0.12280068901698084,
+        0.16886035080784906,
+        0.2971250776046638,
+        0.07160843138616332,
+        0.14535874355208822,
+        0.2609282063405492,
+        0.34853129421651685,
+        0.19104545726773053,
+        0.1940136666326983,
+        0.45648842243801846,
+        0.2626134504017546,
+        0.13110373432080802,
+        0.12193184144610687,
+        0.8209844312884577,
+        0.21752148284633752,
+        0.20685239855770812,
+        0.12032430643777406,
+        0.004206653969407556,
+        0.30145513641868277,
+        0.35034299790213985,
+        0.4992161673112386,
+        0.5169368881581266,
+        0.4401209323719804
+      ],
+      "noncat_params": [],
+      "quote": "Vast, 19th-century park with statues, fountains & tall trees, plus a lake & botanic & rose gardens.",
+      "phone": "04 72 69 47 60",
+      "int_phone": "+33 4 72 69 47 60",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.77740319999999,
+        "lng": 4.855214399999999
+      },
+      "address": "69006 Lyon, France",
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113736277814572287036\">corinne charbonnier</a>"
+          ],
+          "photo_reference": "CmRZAAAAwujHrCXq2v_6gP1cRBrLMekd86yMkQy753L7UnT-A7ywFBl-w94hN-4fYuRWA_jXknLkrJ3UxbjljeEcGCgdaaKVM2iegICTyeqLra6wKzQB4aLl1gzPYXY7FFoyHarpEhChUi11A-fjGISG_Td1ZYsaGhRD0afU71kAqEqs81d8wyay0Rmeaw",
+          "width": 1600
+        },
+        {
+          "height": 2917,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103338309107440762236\">Patrick GAGNIARD</a>"
+          ],
+          "photo_reference": "CmRaAAAAc42IFlgTm8CtBBC79HZbX6YU5T3DtMD9IhTwxIzvLaKdb0a0jJAheEjH9kplh2mUBp32theb7kub_7zqUuA9Mo6jsEK6ROxP_O-z6qGXiKx4yWEULV77rlT0igQj-oDKEhBPWzuKCQUxKaPkMcEwqMl5GhT4Fib53roR_7onr-CAihGiYC1aZw",
+          "width": 3890
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100126947043325759423\">Thalmann Eric</a>"
+          ],
+          "photo_reference": "CmRaAAAALyzeeIk4oVG6GGtkWEETHw3hwvKnIedIwFs1DHxudhISaPyxNI1tlxlgf1SMqOwbY5WCxn3YNjdJSl1xK44GOkfZ61xH1pNNDabmYUJGe7d_FoGo1yutWbzcCH-SED3HEhA7Xq_NgBtyKq2purcjCvFrGhTAh8v84dHw3xJY6E4I8iGJxJIF_Q",
+          "width": 5333
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118445086163338574614\">Lucas Miller</a>"
+          ],
+          "photo_reference": "CmRaAAAAcfwJLta09oJwEAdTGChUyHRMN5_LbkFlmQrgiN_pK3tA-fl1Wh_5RRSrI7lwUDEK8AUR7z9D3Gvmyz7AhjwuirNryNTjzDEu8mqpPbHlikaKNhWLFz59zc4vl9g4H_9UEhBmruoYaFcqz0wwTQjuvVcgGhRECSQ00eculeQ0LTGz7MBPIygpgQ",
+          "width": 4032
+        },
+        {
+          "height": 4618,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102208628138122397250\">Christ Masa</a>"
+          ],
+          "photo_reference": "CmRaAAAAtqJBUXZcOrpqv2hA_UgTrSP9WDU0zwSWL1O2-YTAx38MMsy0cvr5t_H183aAh7BRrNr25f71AAcjButAN8xa3zksr2YwlvlPggz0uoLohpZ3GZY1SZqASfslEsqo8bwbEhBEu21WbF9d0wFWa3dbht1LGhRy4v57zO-CG_ymnA--ozkn3UTl7w",
+          "width": 3464
+        },
+        {
+          "height": 3216,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116120846179195571447\">Krzysztof Rzeczewski</a>"
+          ],
+          "photo_reference": "CmRaAAAABIZMgWx2Ll8F4FKZDbR1X2-HhHB2ol2H7PKSVNZ5pebOwEjz7f6Re5ubQr_HdGOdOXuQ9hRt1Sgv-YzZhdtyR-HMsgDN5nKRflWZRI1eBb4mFUlpcqSMBnD2xZfsEp3zEhAfnbGSj26FMsn7Puwcsor_GhTXMhjnJBJWwXAU4vGEfQH8uOrzsg",
+          "width": 4288
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112619898108008977354\">Sanglier 76</a>"
+          ],
+          "photo_reference": "CmRaAAAAelPihH6Lh_O9_x8a_fyAahbtdMeVblovhOxPimNgz2nnVgr8qN3qZChkGb9tL6dLxFnLe3hoIDKNc9njXWc9xcYtZYbvKqmPSohfRJU3wPJuqt9WyDLZ3OYOyVk2NqVrEhAK29NKEDvc8ytFADyboysVGhSa5qtefOWfk2RG3znJYdbeoUUH2Q",
+          "width": 3000
+        },
+        {
+          "height": 3712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104099589934896454105\">Ulyses Antas-G</a>"
+          ],
+          "photo_reference": "CmRaAAAA5WkIhiQ4MTwa6jpwHfZ0v8v-WDD2DnmZX9uQzQMcL9FuCVmie_4IPYnme_L8XCmrxDG7wTXqvt6s5bQvPoKn2GluoqSiQ8FdGo3nRJUJ-on6fRrrJdLNYy_CipQ66_hVEhBJFn5n9IRdoVhCj981atuFGhS7BsfQJUMt3uQI9c-KVFywnl3-uA",
+          "width": 5568
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107005740092524351217\">Christophe Spoiden</a>"
+          ],
+          "photo_reference": "CmRaAAAAZCru-tYqdZOBc6rBZWvCV6J4gKUyPQ08hZC9ezJvk3UFs_q7Bnjs_51uJrh4eCW2b2yIMtwe14tDAIZGgl9vDpGQWvJbFr0AyGGxWUI3Kl-fO4PRUB9euzmmIvft7JyrEhA0_ftCHCp7AKuUSB0NR-gpGhQ7_Qs4Q8k_2YJT3FfsHsAdQkN3vQ",
+          "width": 4032
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104036919076373856534\">Beth Moxon</a>"
+          ],
+          "photo_reference": "CmRaAAAASxJqpuVxzEE0gCluuqMrwn13gcQzoWpwKzAGyq1oKd7hhX-DARJgT2ldcTWzwNAvxJjH8_UbDytfg-oRafwpVLM5QoOz7dsaNVzQhr5aLWtovygmQf7O75CK7EIgyf6UEhCPAWCCoyg3NKz6cFGOEtlWGhQ4Ml18nrrdOLuNybW9AJfd5zStog",
+          "width": 3648
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.lyon.fr/lieu/parcs/parc-de-la-tete-dor",
+      "mood_params": [
+        0.004284655886635978,
+        0.046477304622884186,
+        0.10930065240240963,
+        0.13041124515519478,
+        0.09714800840652052,
+        0.16768991817593226,
+        0.11919334846150037,
+        0.016992805992613214,
+        0.17338157898897405,
+        0.03880728474328123,
+        0.0642790839018399,
+        0.017352368518170375
+      ],
+      "popularity": 1.0,
+      "num_google_reviews": 38951,
+      "top_cats": [
+        "animals",
+        "nature",
+        "walking",
+        "beach"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        1.1859606777162774,
+        2.5060117628211263,
+        -0.7404399999731588,
+        -0.5152444131512482,
+        1.199099740426376,
+        -0.8228966832809834,
+        -0.6297800222092188,
+        -0.9810732542428006,
+        -0.5587855496161879,
+        -0.25763645786088807,
+        -0.3031936170697352,
+        0.042367264150842236,
+        0.08003258747842897,
+        1.0492944783609297,
+        -1.0775112992108637,
+        0.2768094516183961,
+        -0.06867472100827057,
+        -0.32746679616007357,
+        -0.4428173636645006,
+        -0.27339625437360154,
+        1.3821817956168057,
+        -0.36880710662566224,
+        -0.5658849326840657,
+        -0.4467384083661863,
+        -0.6722958584386184,
+        -0.39379494667699527,
+        0.5636708095485037,
+        0.5118027668140208,
+        1.314320037424268,
+        0.759057062339668
+      ],
+      "global_mood_params": [
+        -0.4501581852096481,
+        -0.12133958051477481,
+        0.8357079043455856,
+        0.0676911208866763,
+        0.8517990896086056,
+        0.1754688478781048,
+        0.11148481663172889,
+        -0.5024031040654255,
+        0.6822221902536973,
+        -0.1909276992922774,
+        -0.6330133612712814,
+        -0.5605590712613233
+      ]
+    },
+    {
+      "name": "Museum of Fine Arts of Lyon",
+      "orig_name": "Museum of Fine Arts of Lyon",
+      "place_id": "ChIJUXR07v7q9EcRb36T44_nghc",
+      "cat_params": [
+        0.07758924593047431,
+        0.0526728372964733,
+        0.3156251806109281,
+        0.5692799020599234,
+        0.155903608067166,
+        0.23852357273575175,
+        0.2822971074966298,
+        0.2927428790501124,
+        0.15247946883373678,
+        0.25980852158513157,
+        0.04884701505639513,
+        0.09470332243700172,
+        0.19882653603526598,
+        0.0759346641047401,
+        0.24306726124932226,
+        0.16590719904682208,
+        0.43317838402633346,
+        0.26412246587075233,
+        0.1622555386089581,
+        0.11065378751527948,
+        0.3978151118432068,
+        0.13200458239277568,
+        0.28398037539158233,
+        0.10676256133695963,
+        0.011261352780646883,
+        0.3251841807715354,
+        0.17222104187707485,
+        0.2984869425765567,
+        0.19920818805225685,
+        0.16412625353775465
+      ],
+      "noncat_params": [],
+      "quote": "Art museum in former 17th-century abbey, with ancient & modern paintings, sculptures & artifacts.",
+      "phone": "04 72 10 17 40",
+      "int_phone": "+33 4 72 10 17 40",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.7671097,
+        "lng": 4.8336191
+      },
+      "address": "20 Place des Terreaux, 69001 Lyon, France",
+      "photos": [
+        {
+          "height": 1342,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104786127409534463165\">Mus\u00e9e des Beaux-Arts de Lyon</a>"
+          ],
+          "photo_reference": "CmRaAAAAGu8dAWil3XI2MCcNKbo3SNzTqEsgXWu_sLkrQBUotI1L5G4HzNqABpZpO2QoesRq2eA2mrdCKcCA0hCDu1qvptC_C6xuo5X8aFj9SElZDZVDOVCW19G8Jn081cp1qA3BEhCrDloISXOYbaoqdlIoY22fGhQeIRNFKugTIJUwB9tEtYZIOl8-SQ",
+          "width": 2000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113493032279416500253\">Antoine M</a>"
+          ],
+          "photo_reference": "CmRaAAAAsvSU2UFrGJJVD_1klXXTXhaL5--IpjaQmYUHiZsyvfkxzjLAvA9pft1vaCi0EitoAc5TnQHrG0Kdk3RtmU8oa1j2sSLrMI1Ya1U0CK-pfxbysCE_nV8me5KNv-C1oeeNEhBG0XsrUTdK-mvO5MCGoD1LGhS43ui0yrUIy4h9vmTQGkD2N_gfsw",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107899568934170113052\">Alice Kelly</a>"
+          ],
+          "photo_reference": "CmRaAAAA3CC4tnRRRTwEq5S0ARx4FIV6Mh9fooj7D8ck4EKtFDqVqgJlv6T-4HEkrwVsX8t6-lJN3RiRyEnchxcqKsgU6onLUe2-O_igFpMuST7ddvy0WUNt3QId3Bfzkow6fWQIEhBC0rlXzLJt1MvZSqbC2mdCGhTHvzZavYmbSwL15t26rH6ow2LpEA",
+          "width": 4608
+        },
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114078216073301650658\">MERCEDES Mas Arrondo</a>"
+          ],
+          "photo_reference": "CmRaAAAAN1C2jdpTrV-ttEHzMrzQkXi2TTya1Fc6OJobURoaTGQXiPIdDcFrKercQsVbjiPG9CAYPJN_oCoh821rWvYl8e7FI5j80CRHpcQseRy8eVGT2zfYsuNbc5Xg417qv_fwEhA4uOzlOpfx5MVEhq6ZsPHGGhThRCbtdqRqmuCjxd0OKfLm7XZN-Q",
+          "width": 2592
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106967513586081499424\">Patrice PERRIN FIEVEZ</a>"
+          ],
+          "photo_reference": "CmRaAAAAGXGGPhxfvvyBQ2jaNnSrBRSyivXKKozjn7hn3VK7-1sFPi41v9RjWc4imLgI_nCNwKJwrCOYXMn9VLqrjB8-6J3aD6y6SrkXrX2W8q5DgeKzvG_rptbvt-q6bP3yswhzEhCqJmHOsW1t_qyL-KU9i4QDGhQeOJH8zXlLMmJj8AFt55hiBX7noA",
+          "width": 4000
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109576167963192083324\">Nicol\u00e1s Rial</a>"
+          ],
+          "photo_reference": "CmRaAAAA1ARwlJz0VXFaYoPrXJtg2-YEh8kD-J5sglNOFZIPyxNuYiEgZzcT6cKEXe3lmJ9hyKC5vTfqyeWU18y11TI_KpZKlv1f1fLWaQoge1ennlyicugehK14UTBloBhXjp3jEhAxLDppy3oBFMPwqnjMunBMGhR_kX5zJr3zqL7mqah2ovdkjmBoKA",
+          "width": 3120
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114005897761835235207\">Ergun Altun</a>"
+          ],
+          "photo_reference": "CmRaAAAAe9qKb3OrmRLbzFyXByyDjHo65ncSCaEPy-AFOEteL6GCAN1Z9EyYE6Z8-uCJCxvIYNYvvQOGlMN74y-cxcjd7BdvqIpziUPU3kuCdN7JjiP5iQe5xEWS2C868TSGxCOIEhBOcfzTABy2VvZRkuVb2w-jGhRoe6dopTRd3YehAiBG-MrbVidl_g",
+          "width": 4032
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110353036587312366714\">Jacques Meynier</a>"
+          ],
+          "photo_reference": "CmRaAAAArP0PIOOniAYZZAaUITzeVGiIboBRepzIuL4XckL9N3xKMXEOZU3cw99-3EW-Ayox96sUzryzHsIO40TMtP3dOqkVyEsGYwaOiCwcyIMvoVAUgKhnRc286fMUsc8NPcaAEhBW_lwV7aR1HFb-XIJgFWMkGhTtCGfoTofB_gU0-kkiJsk8e7ApwA",
+          "width": 3968
+        },
+        {
+          "height": 2608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114182413770321473693\">FredDey78</a>"
+          ],
+          "photo_reference": "CmRaAAAAms5TLvUkQNCyjuEUGqyzngI3DsrCQCrDayUHPi0WDzdppZf2Z8RNWif8wS_GGZXZc4Q-F1LzQ-YWHlZUi-1BJUOlD_c9wt88U-4Xxm7iny8wflIqxk2mvKBe1Rgpouh0EhCQDHKtKrm3Qfo3E4Uwu9vtGhRj6pvvFyELCO4VT-iL7HABmKCe4w",
+          "width": 4624
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115336715714305296280\">Feyzullah YAYIL</a>"
+          ],
+          "photo_reference": "CmRaAAAAXUYx7CKiCQen8EmGZnZH5GPS6G7V9P0weOU5vonBMrcCIYpoN4em3qe5LzBcyOUJttUi0gzEBl4VNT0ksesdxYKkigPAn2VRcS_Jt5pKvD5zgxD6cn7fw4oJ3Y4-UGBKEhC-qIcBSWpjeKk7JlaqRXuAGhTa-Wn4RMScXC7i2C0-OfGdWSe4tg",
+          "width": 3024
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.mba-lyon.fr/",
+      "mood_params": [
+        0.00381041135392368,
+        0.04818484165554112,
+        0.06684641075668767,
+        0.12405345362237845,
+        0.06662210681955395,
+        0.12927487423628506,
+        0.12345967235872611,
+        0.024198015019031845,
+        0.11477247562089976,
+        0.03259566917232918,
+        0.09072588583809309,
+        0.016450059227441118
+      ],
+      "popularity": 0.5817392984315068,
+      "num_google_reviews": 4461,
+      "top_cats": [
+        "art",
+        "books",
+        "culture",
+        "architecture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -1.014696131945922,
+        -0.7124028202990579,
+        0.8937654949856054,
+        2.415472982039051,
+        -0.9188155680912278,
+        1.2459477992636803,
+        -1.2343667325347754,
+        0.9062722759006109,
+        -0.8012066696234827,
+        -0.6544099245627847,
+        -0.7713159216786801,
+        -0.4387168158206544,
+        -0.5910499087342339,
+        -0.9537532352878336,
+        -0.5118256435898095,
+        -0.052370326518682495,
+        -0.1951559719632466,
+        -0.3116830660557124,
+        -0.04517763373705774,
+        -0.4981213509211466,
+        -0.6816184492487574,
+        -1.204244422449123,
+        0.3037196764492968,
+        -0.5732482405450884,
+        -0.4691747167431089,
+        -0.21778645721399167,
+        -1.1053166030762307,
+        -0.7922122547398599,
+        -0.6036266436683136,
+        -1.1387191776009948
+      ],
+      "global_mood_params": [
+        -0.48206624348435145,
+        -0.07018345109209953,
+        0.07133510306466562,
+        -0.0303234939580999,
+        0.18183964301922306,
+        -0.3076009826669086,
+        0.19222330229972714,
+        -0.21509013137290778,
+        -0.09309916263809251,
+        -0.4323308114319787,
+        -0.021029000057747688,
+        -0.6157198306823793
+      ]
+    },
+    {
+      "name": "Museum of Cinema Miniature",
+      "orig_name": "Museum of Cinema Miniature",
+      "place_id": "ChIJ7-V74qrr9EcReweyBTQBAOM",
+      "cat_params": [
+        0.10298902789950742,
+        0.07454093451923949,
+        0.20227044324999857,
+        0.2356628933303349,
+        0.12666954987803392,
+        0.12513013355017424,
+        0.2891083798837,
+        0.19200881814455464,
+        0.15563506245230388,
+        0.25209397842852493,
+        0.08574520829195857,
+        0.04959197231122693,
+        0.18739274287330332,
+        0.06788491283251494,
+        0.25484316852316014,
+        0.09333679512201438,
+        0.3521832919009209,
+        0.2603417728766572,
+        0.11509452082080028,
+        0.27521378591785955,
+        0.33707401928622677,
+        0.14351573460879774,
+        0.2760040145021407,
+        0.09677080058850451,
+        0.011922568204634738,
+        0.2377151990346575,
+        0.17805642040030986,
+        0.26964592918717295,
+        0.12921302096062628,
+        0.1486182243899449
+      ],
+      "noncat_params": [],
+      "quote": "Museum of hyper-realistic, miniature everyday scenes, plus movie props & special effects exhibits.",
+      "phone": "04 72 00 24 77",
+      "int_phone": "+33 4 72 00 24 77",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1830"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1830"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1830"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.761876,
+        "lng": 4.8273474
+      },
+      "address": "60 Rue Saint-Jean, 69005 Lyon, France",
+      "photos": [
+        {
+          "height": 2407,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117433722248458920641\">Mus\u00e9e Cin\u00e9ma et Miniature</a>"
+          ],
+          "photo_reference": "CmRaAAAA0OqxVLT6v82ddw80U1ahPmlJ-et9s6ptuZh-DyDIgRWiQ6kr3HN3ziOxCXxdGr7eMPOz5RQlhkd0M7kGXYkbjzkMEn85tikeVieoZltZJYQDNweyaLq8V8EUfxcxgbfHEhB1me5XZb7-6TFuE2Zy8GFsGhQA56-Zj7ts5l3HzjtEWOHApWcd8A",
+          "width": 3189
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110884477728739178975\">Loic Mangeard</a>"
+          ],
+          "photo_reference": "CmRaAAAAlYAYrO0b_BCC4koYsxl28vwHgHEpnbt_Km0799CN058fwtz3yQm9ndHVAxjZZqXJB-qfGO7euK0vC4YQsOKblPUNcTuJzfOS0M5s_EEHmFz-6GcxEk_nejXg2r0R--fiEhDh6IKMRaon_K-J2RUTUiGQGhSc5QAoPEc6xAJB3mdMRvj9GZjYxA",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112835782234489311893\">Fanny PUCCINI</a>"
+          ],
+          "photo_reference": "CmRaAAAAcT6L35ltuPO-B-_ky2NFGpVvsB7FAa1jShtPbOXBcg243Fc2EkR73Dq2lV3DVIqTJ3B2x9J4F-39w5538z8IR1dKl5Wt9kja3Bg2xUKFkBOtx3yZyJ1TcIa2_s37unGiEhB_qBG6TxxFWOT2lfiVGEVQGhTt8-cRRTbZfPTTsYcFtzJDV2tvnA",
+          "width": 5504
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112115571099131914233\">patrick hinard</a>"
+          ],
+          "photo_reference": "CmRaAAAAmwszbbY6WmWCEfsigSnYG4F-qy3rIti7Z-1qWUY626EjmvIebFPxHX5W2FayohJogWHOX_RiY5m_xA6ouvjSqeq4PYmFU7HalTm5DR1r3LX7H05EokIczp387go-azNxEhDxDs0tDsMGsbcLgCjVgA9-GhRtMyDEzjFlnowkbD2daOsspE6EuQ",
+          "width": 3648
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104394261314423085120\">shweta rbl</a>"
+          ],
+          "photo_reference": "CmRaAAAAkZU-9xCyxQJd76rrlzmahQxoqgPy65g5mOLbHPB1hvzjPUuePc2CLBaTo6bkikzsZmtLHqWKGIPJ10TBcHQfSodwsUhsxXd0T5xLETLzhgu1JEzoHo9lrNH1afsYrNhlEhBivFveZwhR6cKtIG_uIS5fGhTjkzyLzM-yi_sihdZZBAjrCO9GQQ",
+          "width": 4608
+        },
+        {
+          "height": 1391,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117433722248458920641\">Mus\u00e9e Cin\u00e9ma et Miniature</a>"
+          ],
+          "photo_reference": "CmRaAAAA--BF6I04urEwhRdUmz7qbkudH1ShzzIhbhDDFr6Oa40j_UiBhZB-DdaygJtUh90YGPdbmuG0d4SoiW6OOYwfvgJw_4nhh9-nMOiRfGSfNZcZHWzJFN5MuKq5yqMJIR_4EhD0aNwr1I0GJhBhI2j2z5fHGhTH-m2svwJXZPZL63KBknqrz8f-Nw",
+          "width": 968
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111077957933720792701\">fenriss asgard</a>"
+          ],
+          "photo_reference": "CmRaAAAALbIqTuiLeVdiX5OxvENSlNSTDieI0BOcv-W_gheBw0xQTOZgOBgKxnQyGovE42yIm63shu5TKw8yy0DHCbagx4oire5-cwBBeWzZM5KIoV1bAkaCCXePc12VW1uBeXqIEhC7v2TG1Srvz48rKesGtgUIGhQEhAJVs8HI78IbcnGQJGbNTz26EQ",
+          "width": 2976
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106415654901860941838\">Oliver Gough</a>"
+          ],
+          "photo_reference": "CmRaAAAABWpwnJGv1vVrnfj_sPTaZU2e8AMYsCSLNNm7QicWYxVCsGIxf2zJdn9pQZtDOzPnDGyocsAjoCPNltsIT-yG31FoKQsQyZvvS52TniKMZw4FC14YzlfXKS5XupfQxXhFEhAHUyW8WlepH7JGKIApwcNnGhR8iB4fyHGHCqP6u8PFov9qmSaWMA",
+          "width": 5333
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116749089410466125802\">S\u00e9bastien Damaye</a>"
+          ],
+          "photo_reference": "CmRaAAAAThGV39rsUiZFp5ER9XgTOjvJqbxkvku_F456B--0jg9LPJNlzHenzVoueBIYe6qlzN2w00lzJNpkGyB5QHHJYKxjGIP34SsnFRLAz5WkNZNWbUeFXy0s9HmJ6jutf7fkEhCb1A1uSZd_p1di_OEETblWGhRGSknLcbYOF-D97kFW90F_BdyzUw",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104394261314423085120\">shweta rbl</a>"
+          ],
+          "photo_reference": "CmRaAAAAMRfSVNTwZ4pRaP5M08-mpHoJRDlGQAC9fYXZo_gvaSCcVywg6GbwlOb5gVieCr1ibEOyBIJWp9RxYTdSaAMIkH-guOH5rm9gOyLG-tF7_KIfA7FX3jVDua1IZWtUjfwrEhC4Cxk8kF3EJ3zEuIgwLoo3GhSySyCUmoE9wUwvHy5i-xP7IDSnCQ",
+          "width": 4608
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.museeminiatureetcinema.fr/",
+      "mood_params": [
+        0.008500419931480586,
+        0.07105242652296631,
+        0.011496293814419991,
+        0.14217607724571163,
+        0.03846046392839355,
+        0.12636544834904545,
+        0.13139644794142746,
+        0.03583160501676106,
+        0.0665434463673586,
+        0.1003171047094268,
+        0.08603244373687179,
+        0.023166872247628135
+      ],
+      "popularity": 0.6342703325793807,
+      "num_google_reviews": 6304,
+      "top_cats": [
+        "movies",
+        "original",
+        "art",
+        "fashion"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.7065096672367384,
+        -0.4509321776610555,
+        -0.21976216819534367,
+        0.03137215561126802,
+        -1.0991413298784178,
+        -0.26679655288285,
+        -1.1618822970329272,
+        -0.21246098007445477,
+        -0.7545069534232283,
+        -0.7364358765468332,
+        -0.012449821121129637,
+        -0.8671478088672584,
+        -0.714605658822592,
+        -1.0129030342954746,
+        -0.38377430132780493,
+        -0.9023067118113928,
+        -0.6346387558311768,
+        -0.3512276824312362,
+        -0.6471682665403057,
+        2.780880660924228,
+        -0.9778532562920307,
+        -1.0917889188190426,
+        0.21378758593809902,
+        -0.6664557124494885,
+        -0.4501367910398712,
+        -0.8665813737494386,
+        -1.0506396080526106,
+        -0.9795746816425877,
+        -1.0261474873037213,
+        -1.2453544553872666
+      ],
+      "global_mood_params": [
+        -0.16651370322485345,
+        0.6149068917169072,
+        -0.9252231275933294,
+        0.24906313978876,
+        -0.4362308382950855,
+        -0.34418706265526383,
+        0.3424236286394001,
+        0.248807767088882,
+        -0.7311057872178854,
+        2.199539289105787,
+        -0.12963620228703748,
+        -0.20510175228122868
+      ]
+    },
+    {
+      "name": "Cath\u00e9drale Saint-Jean-Baptiste",
+      "orig_name": "Cath\u00e9drale Saint-Jean-Baptiste",
+      "place_id": "ChIJjyI4Eavr9EcRKEdGOieOt-0",
+      "cat_params": [
+        0.07869072943418401,
+        0.043853262159527805,
+        0.22244608488652842,
+        0.24232558480024702,
+        0.23700365262478196,
+        0.0896972016266111,
+        0.30109401308171646,
+        0.16760194264708544,
+        0.16344013387322964,
+        0.23764898977739385,
+        0.06504211021706471,
+        0.07385440748485018,
+        0.18985257285566418,
+        0.16532096912157473,
+        0.2724167411698869,
+        0.15845783102823036,
+        0.48509588776298135,
+        0.24287873290366327,
+        0.11177137950924829,
+        0.11119033752732611,
+        0.41235936484162905,
+        0.17855400624140988,
+        0.21809922453287797,
+        0.30949299801797064,
+        0.012172855892236547,
+        0.2884129067195583,
+        0.1999406703844087,
+        0.3787817656341747,
+        0.25866905882751684,
+        0.2454362073507262
+      ],
+      "noncat_params": [],
+      "quote": "Medieval cathedral with a 14th-century astronomical clock & stained glass, plus treasury museum.",
+      "phone": "06 60 83 53 97",
+      "int_phone": "+33 6 60 83 53 97",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1945"
+          },
+          "open": {
+            "day": 1,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1945"
+          },
+          "open": {
+            "day": 2,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1945"
+          },
+          "open": {
+            "day": 3,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1945"
+          },
+          "open": {
+            "day": 4,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1945"
+          },
+          "open": {
+            "day": 5,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0815"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.7608008,
+        "lng": 4.8272903
+      },
+      "address": "Place Saint-Jean, 69005 Lyon, France",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111280121033145159579\">Jorge Jim\u00e9nez Chorro</a>"
+          ],
+          "photo_reference": "CmRaAAAAhPuwjxdnjGdpSlEYh_KXKIVgjXMSr1Ptnj1Zebr9uvQmvp8AD_3XlcUQSpVOFj9jT6Y0amAyghgkNZpsWkqTfF8waGkYSTRZS_m9oXAqI_-XFXimySo2sDnkZjK4wH7-EhAWOszT3FA2f9xknX2OaNubGhRbZF1B4gc9rltShhuep6j2T0f4cw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101792510206786492080\">Daniel Nikolov Peychovski Atanassov</a>"
+          ],
+          "photo_reference": "CmRaAAAAhGNclDm3s-e6sETMzBJtC6hzzaoS8ScH6pyH-tDAsWcBQ2x92ZO2RSEV_Da2lL-UR9eet2pfIg-kqDW2DJCg7m6uMnh4BS9zSaqKBHKCRON0pPJxANdAkMQw-8qWG8AyEhBzsaGyAHHhF2ebkw5Pu1XJGhQGarVD19XwU1DS0jCvdkuwfxdfzw",
+          "width": 3024
+        },
+        {
+          "height": 3855,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103637819299556854829\">Marco Facchi</a>"
+          ],
+          "photo_reference": "CmRaAAAAUcT5DGCr9Kz90_N47JsTeKWnp9XLyThQEGIf0GVuZAsMEe8GsjYRx3S1THb8JZnUMtX9eb2PxI_RN2fG4Xxf1tR4UXFuM8EGoRdvJ0pinkH3h2CPO_3Hfbt5LnMvW8d6EhD5ZLHDboi1ZSkqYiOHwRipGhT-XjCChT75EVsEdaF8Af_kg3BzIQ",
+          "width": 3084
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107227140069505550887\">Jorge Fraire I</a>"
+          ],
+          "photo_reference": "CmRaAAAA1Zuasah4V8wXW9z7qF3pfpPmG9v7Swp6TR77yHn5zbsAStbXS-Epab0Z_Ps4hHCCctGS2RMauE3RN061jr7wNKMw1I1jrxiGcmAGgMmkubiaqgvhmFuAwefCsBls_Mi1EhBhpLj_mWWFF_2IqvJmIjTVGhQwkzkBwdQ1tlXF4IoKkky7C_fv8A",
+          "width": 4000
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115861373846516154522\">Alica Klrc</a>"
+          ],
+          "photo_reference": "CmRaAAAAKgN0hP3fKWUnN1YAqHAHJEQJGYegMj2fTBhacXG7bZGoCDsyU4Nf9uWOolfTfyAWezrOAr92dsaAs2FurQAHaB48pXZ0P775oRgCaYHLMmPyWAy63Ry8rGMNSqVwX-F7EhA50B1XiCEMxJcjWxt7tX0hGhTcFFxG2UW9M4ghuoo5Ah6Di5Bueg",
+          "width": 3648
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105061099394492403376\">Michael Wu PhD</a>"
+          ],
+          "photo_reference": "CmRaAAAA6Og36WiPWRA8f0WRRU71nX-u6NBeWN5lzXiuNmWlRIPu2ReUCmQWFoExjRZJ9Gu2fe-WJ3M0XlyVQmyPt1B8pSyoMAcwtjETH9Iy8OP-9zIlXxwQHjn0JOVeFdjzCSLYEhAQqGseKeOzN6xraxzXD0kqGhQCKimCk0DwDKL71W5GyzuHYxIELQ",
+          "width": 1600
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117437496302243410513\">Hasan Bankoglu</a>"
+          ],
+          "photo_reference": "CmRaAAAA42DSzSMg1V2KdKuZmL7ZF72qX70F7XMtIUqD49pOeEfxXe4GJT5XsewgF5lyEQ5DNvnEZsUry4BxOe9jZgdXjvkn_UD-DrX2T8BzHTCk2X4HXTLrv7Y75n5G1AAl8vs7EhAguwkfjlyzLTDElY1JN01xGhT9BVGlln2lU_rYHFHkOmT3R0dpkA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112210554811613246139\">Franti\u0161ek Dratva</a>"
+          ],
+          "photo_reference": "CmRaAAAAeh6LUYhXhxTCugHl48hVPL0YbvL-Krrq3VytbG3W9DLv0w131DFcG1l45Dy2v2GhDHDWnG7AG_dHYoxdv6VKoQoXgj2EwTqG53rxZyLa2YlZ1Hxy8xCcZqiQAPfvF6TJEhA9Vp0BwCdiyI-Cn8sOva_FGhSfA57C9AW_KP0CNKLvBYaP4YNENw",
+          "width": 4032
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112613128321220255507\">Alain T</a>"
+          ],
+          "photo_reference": "CmRaAAAAfzMDV9wmSA01Wb5GbopS70cdCAs0_h1JKePxQPzW2omlg7By9f2Iq65YL2HoXh6QbAmKMh1cvw64fR7Ip5sRG39D5c64KC-VxR9H5FJJ25vzeS1cZbVkxGf7N5IdGZa-EhBGt_11D9QLJm4V42fmbmIWGhTx2HZbABGSGF4Oy_tzcct53AW6qA",
+          "width": 4032
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100270950730875671080\">Rub\u00e9n Michele Guti\u00e9rrez</a>"
+          ],
+          "photo_reference": "CmRaAAAACF60gT9wNj3jcUQZvFILLl5rJABg-zHAk0xLtHJjrmee_ThcLtvgUS2bS1uOROMtKy9EziPF-sTwn9jIjQeX2I1ZM6T0n5KxPEkDeMJY2eRUkPDK6f97BYKH_95ozYmZEhAAjUlB39nrn7YQ5oqgLp4BGhQXLcEZxicOUCBU8Q2z4S8DsyEW0A",
+          "width": 3648
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://cathedrale-lyon.cef.fr/",
+      "mood_params": [
+        0.004039228675601887,
+        0.04036431526190858,
+        0.10039157357373797,
+        0.17305334810833903,
+        0.11521228909827048,
+        0.1683271164394605,
+        0.13823941993159392,
+        0.02410093788172014,
+        0.17187178956662608,
+        0.03990918187832919,
+        0.07633129130066492,
+        0.01936150610818131
+      ],
+      "popularity": 0.6926405614339216,
+      "num_google_reviews": 8965,
+      "top_cats": [
+        "religion",
+        "instagram",
+        "art",
+        "architecture"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -1.0013313594704085,
+        -0.8178559813747514,
+        -0.02156899508456685,
+        0.07898522036518743,
+        -0.4185624995225996,
+        -0.7394955734993808,
+        -1.034333168599946,
+        -0.4835190814554871,
+        -0.6389994881604922,
+        -0.8900242253906792,
+        -0.4382397562882716,
+        -0.636722889945909,
+        -0.6880242667810152,
+        -0.2969401491463609,
+        -0.19267908348827006,
+        -0.13961648451164624,
+        0.0865505916681169,
+        -0.5338844645505596,
+        -0.6895867730708863,
+        -0.4874301222748476,
+        -0.6106860079770691,
+        -0.7494907362540829,
+        -0.43907891355051215,
+        1.3179090796533297,
+        -0.44293042798762955,
+        -0.4905347527322887,
+        -0.8455860673590966,
+        -0.2705858918694723,
+        -0.2446953298767524,
+        -0.5796210853163456
+      ],
+      "global_mood_params": [
+        -0.46667098654250916,
+        -0.30447872709182805,
+        0.6753032597889325,
+        0.7250812343483387,
+        1.2482602870216026,
+        0.18348162687348363,
+        0.47192415632175344,
+        -0.21896115312942288,
+        0.6622496619219608,
+        -0.1481044764736722,
+        -0.3541228374203697,
+        -0.437734717810609
+      ]
+    },
+    {
+      "name": "Gallo-Roman Museum of Lyon-Fourvi\u00e8re",
+      "orig_name": "Gallo-Roman Museum of Lyon-Fourvi\u00e8re",
+      "place_id": "ChIJHzRu5q7r9EcRQV-RJ_hw2iU",
+      "cat_params": [
+        0.1113394429969564,
+        0.05955805497598466,
+        0.3298922914174394,
+        0.3447822499107078,
+        0.17271920875133967,
+        0.19073879866414853,
+        0.33318006295756164,
+        0.29970058772707286,
+        0.1689616243928222,
+        0.26826992837436475,
+        0.060309526236882335,
+        0.050897438606844085,
+        0.19661034507874053,
+        0.11102282582605671,
+        0.31750198446860534,
+        0.14447453269206714,
+        0.40813945621786996,
+        0.3223064789664038,
+        0.15395168906830534,
+        0.14433287612171544,
+        0.3657908324972036,
+        0.1483874537622301,
+        0.312760720477691,
+        0.17145303298520173,
+        0.033286496727987926,
+        0.27586411712296915,
+        0.20326239551207878,
+        0.35538395040926174,
+        0.18573845944673428,
+        0.1856330424138242
+      ],
+      "noncat_params": [],
+      "quote": "Modern hillside museum on Roman archeological site with a large collection of art, pottery & coins.",
+      "phone": "04 72 38 49 30",
+      "int_phone": "+33 4 72 38 49 30",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.7604193,
+        "lng": 4.8199637
+      },
+      "address": "17 Rue Cleberg, 69005 Lyon, France",
+      "photos": [
+        {
+          "height": 3254,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113314338707281810782\">LUGDUNUM - Mus\u00e9e &amp; Th\u00e9\u00e2tres romains</a>"
+          ],
+          "photo_reference": "CmRaAAAACFOD543upYimklODpmVDvW-gy-GsG5zyhd1Ttb8u1XuiGOaBt63aMzHFKLcpmWhMreFs0XJqXET3R4CvUZjTyq5E1t-eYMQaLpJyoencWTrq-DyJG7IsQ5NKY6pWsKaVEhC8lINiOjtMqFp-TRZsn1nRGhRwnDSc4ZMasfo_HW3R-_W0a_bvaw",
+          "width": 4889
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114868843765176184321\">Luis Oseguera</a>"
+          ],
+          "photo_reference": "CmRaAAAAyj9WNiDflWyRdyDO7M2EO6dL7R0rmuKxLv6OcWTWGpC6bG9F3GATwKeH-xGxbaNqi0PJag-wCn7tnbHg4fKA9fVNJndE8Iz_qTgaxQydjXWCkhGV-8RwKfbb0uqk6o0YEhDN6qDvoSRJ2zymN8vC7KZ5GhQZ2XIAfM3xfqEIMBodxhGb3kgQxw",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107417235927816075529\">Gianluca Di Fulvio</a>"
+          ],
+          "photo_reference": "CmRZAAAAU6JbgXSd5z82jmFXJFahabJvplpp07UybMO14Jduc6o6WYcgWfjgsBzY8zDyZ8lDCaG9UxzxRFb9c8FPmoBDjKti9QnbvoOCb8N9LKP3pgnJYbe0LktbWMMoS1UD4pEVEhD0V_vJQD_RBGAh7ttu1QSAGhSd2FNxqVHnEsi5Kztv2WtXVzvqtQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113938633151207395222\">Two Sheds</a>"
+          ],
+          "photo_reference": "CmRaAAAA_zWIfXlFeDGIsl7nnGiHNvgs3LmVIuCNejP7cBHaC1bSqRjtAVrie84HcGoPFFWFZX88HsZgIkxDxt9J64jlQVQtRJotsMEZ1j28n4TjGY9zo4Z51XtUkiCiLwDtWQABEhD9nFtzWIypek5HpxxFwimQGhQj2IqwnWac6nplp5vpUth53VRzGQ",
+          "width": 3024
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108529237904076964166\">Nandu Surendran</a>"
+          ],
+          "photo_reference": "CmRaAAAA1IXarAJ1X7vovQxv42mtMmh1ZUg3WKClYte7E0ygErtqKS2GjbOmuJ8JZaHtoWhGFn_IqMr3eaXfH0ZnEV_Lk6nbDDYuKWZAdrIwf3_QU6f1Y2DoAGbbkuLYfsNVvJhsEhCKyTBQkSV_veo2uGIsqfCeGhRufSy84ekZdq-TD3gMIckgg2ykCw",
+          "width": 4000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117612034864724506482\">Jes\u00fas Rosales</a>"
+          ],
+          "photo_reference": "CmRaAAAAdTWZFlhavO5T4nR46lO9a2mE-TargDgBblPUjroHNc7gWDmckhGPdlCn5wdQnVnPasfphwGLjFZ_CUXkEZFBXxK8Z7VPkcRuMvcHY0-yWsHQwQ2v2yBqN9lBS85gJrc8EhD5p16FDQgdNlwMIIunvoWIGhSmLtM2126AqdHP5uHJ93UXxcr0Gg",
+          "width": 3024
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114093918884649033432\">ENRIC MIR i TEIXIDOR</a>"
+          ],
+          "photo_reference": "CmRaAAAApRtczIuSJ1ofnWk4-ApiAcoE1DaBXSBYcYNtcjWTC6pJl0iUbafFYEiS_FQu5JPACfpc1MaiXEZWaN28HjBaOGG1HI1_Nq7V2URLke31Zo3aaQ_HW9TOPmCDF7xc5N-wEhBAuGSJwSJmU0ITB0P-AjphGhRPH5Cyp6l-ceqE0300jbq4cuaKWQ",
+          "width": 3264
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106591111814672741851\">Jacques Gayraud</a>"
+          ],
+          "photo_reference": "CmRaAAAADKLLXGMzhOIQB_5bSom9blVPT6keqnCULcshWqiiZaTLW-kcDvri7dis42OM1nmINxHr7jccOSICjuMQIj2es9J2PA9_Zcl--GcmXQuo-yVPsWEgSh3E-Lx3K9ZqMdRsEhBOL52t1gwAtxZio0qAlJuNGhSkSy48S_QmEHSJG2n29yXFfUN-cA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116379299336883633868\">johnnywiggle</a>"
+          ],
+          "photo_reference": "CmRaAAAAfl3kfgqml2_6tbhYMm6iwWNMfIAQeNIpYenIYFYMZDqpW0dF2oq6hnnA0W6w2rFqH9biiQxxh-BpNA7KMulAW5J3O_zzviU13uB5n_AXCHhlU2jZvN3gIXbtBW8zn-hcEhDqLv5Db3UzLiCgEUsMvc3FGhSIx_OVF0LOHAZtZpdCSUzumRIIEg",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116512982958243257326\">Raymond Beaudet</a>"
+          ],
+          "photo_reference": "CmRaAAAAdzEpDqcFoEXIp2mRuylwm8P38tO5yTrPwJmtueodfIoTO3mQJe0B049-oCF3uVevuPhsSQzASe0JTUP_POnewylyOyP1fMPb6qky3pRKRgh-dzV4gKjc2Fg6Kbrp75loEhCbRRvagKhVvWJvkSJJzjNQGhTlf4HYWP2ekn6JPZmHkqXHcXWTug",
+          "width": 4608
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://lugdunum.grandlyon.com/",
+      "mood_params": [
+        0.007025813640168129,
+        0.05939579947486944,
+        0.03478444969287957,
+        0.14647883447864196,
+        0.051138444506151674,
+        0.12996278051117613,
+        0.14132158766002914,
+        0.04051530042935491,
+        0.0888634094282147,
+        0.03791757678149105,
+        0.1255001214804864,
+        0.013027092592064278
+      ],
+      "popularity": 0.5030810799237642,
+      "num_google_reviews": 2495,
+      "top_cats": [
+        "architecture",
+        "culture",
+        "art",
+        "original"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.6051904940692467,
+        -0.630078223283358,
+        1.0339168722159497,
+        0.8111631776373646,
+        -0.8150911387401881,
+        0.6084669395720219,
+        -0.6928787265268731,
+        0.9835432606333674,
+        -0.5572867990644691,
+        -0.5644428412343618,
+        -0.5355723689632101,
+        -0.854749549452261,
+        -0.614998490984565,
+        -0.6959244349714026,
+        0.29757833671374884,
+        -0.3033872973987074,
+        -0.3310182496589475,
+        0.2968996674932963,
+        -0.151172794022503,
+        0.17296396974989875,
+        -0.8378011225166746,
+        -1.0441958003663994,
+        0.6282130933223407,
+        0.03021249780057306,
+        0.16498026340492764,
+        -0.5836145021162622,
+        -0.8144617885222947,
+        -0.4225871889658831,
+        -0.6849357015707683,
+        -0.9908356274585653
+      ],
+      "global_mood_params": [
+        -0.2657279697686202,
+        0.2656858145163483,
+        -0.5059285587718739,
+        0.3153964083112378,
+        -0.15798409011804612,
+        -0.2989505495666743,
+        0.5302529567043155,
+        0.43557354268880577,
+        -0.43584203189034293,
+        -0.22550457682410802,
+        0.7836538662334177,
+        -0.824975615833081
+      ]
+    },
+    {
+      "name": "Th\u00e9\u00e2tre Gallo Romain",
+      "orig_name": "Th\u00e9\u00e2tre Gallo Romain",
+      "place_id": "ChIJKW5Swajr9EcRQ2EpEHMgeIY",
+      "cat_params": [
+        0.15248091647148626,
+        0.05568223267353943,
+        0.21277017216105573,
+        0.20347215223696535,
+        0.24330149292791312,
+        0.117869424428667,
+        0.39923451000894467,
+        0.2163700675390891,
+        0.1888112449164409,
+        0.2952962208222935,
+        0.06228178982363438,
+        0.08177626386031425,
+        0.2273498958266063,
+        0.17391283297917373,
+        0.30613091921983354,
+        0.14516074015735736,
+        0.5041954432759401,
+        0.28871172145741764,
+        0.26050703882742066,
+        0.17791736945645176,
+        0.4530971183355992,
+        0.22656286564425135,
+        0.2671165684278533,
+        0.1917175247854644,
+        0.020580815073555112,
+        0.3022990847168687,
+        0.28561019651209724,
+        0.4334099058530577,
+        0.2765597856503552,
+        0.24243344925296692
+      ],
+      "noncat_params": [],
+      "quote": "The substantial ruins of a pair of Roman theaters, now used for open-air concerts & festivals.",
+      "phone": "04 72 38 49 30",
+      "int_phone": "+33 4 72 38 49 30",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.75977,
+        "lng": 4.819626500000001
+      },
+      "address": "Rue de l'Antiquaille, 69005 Lyon, France",
+      "photos": [
+        {
+          "height": 686,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111332217196958057762\">Fabri Xio</a>"
+          ],
+          "photo_reference": "CmRaAAAAi6WNX3kw7Tb4tSyrHuretH2px4ft41xWZPPwbJCcSTXuq8DARN7GiQEW7OLOyBCOMAVkdcPtQu6CZcmoisScDn_dxHzCsDNOfOQa72q4TgAQFRbzfDfgxRfhvGVtEAKBEhC-YMtFyx24G8MyddWy9_W1GhSc8BThhyjST1Z3-KUbtHtdMeHzaw",
+          "width": 1080
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109577953030006243319\">Sean Stanley</a>"
+          ],
+          "photo_reference": "CmRaAAAAoMsW7qpV0hsNoXlUb7uJD_6lJ3ReX3D5bsAmNa16Ht-hiZI4evCeS53g0znaP_QKJ1MjVzBfgrMuX0OqKVRem9a4brbPIM6HIu7ldqW7YvX2T78DWaSNd_otYw8c22OLEhCPK5ip6DfcF2l7QXiX6U-7GhTJfgZjJXdhpyd4pyH5g33p2iE-UQ",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105532857009398756968\">Sam England</a>"
+          ],
+          "photo_reference": "CmRaAAAAb0B_-f8VRUuvXlp55MjOcUA9rm7ThS4d0ZPdRahDElCJHTPB5vuGyW3KmTTyugigObsFTMwuP5B-xHIVDSG6zvf4SjZ4rM0TUVHDTz8Py3_T8AmwMWyDLFifbWLue-RsEhAUWu1VBJPtIhm_d02Dq53tGhTfq3hYDKoDwslMmKFJ4IKtOwDmhw",
+          "width": 4608
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105882273594830885535\">Alexandre Moretto</a>"
+          ],
+          "photo_reference": "CmRaAAAA9HBQ6lX4CpoS89Ob0AUDph2AbXSe8VJfcBH234WMZnmQVcTtQGa4u-wLS6743_JO1jPXLuHS5hW-a2doyMAaALe8Q_fM8eGKb8e8Y3IerLXk6fQWkp1N7qVdYjbOpKtnEhDTPqnIuuWpCi4i_U4KOnUZGhQZwws7aKN0oaWuUS9SWtL5NCW-gA",
+          "width": 2560
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113113932174041564786\">C. H.</a>"
+          ],
+          "photo_reference": "CmRaAAAAECDGRvHCJvH3VFlo3OaTKXRpFbl-2t5df0sFl3wyN0r33NQ5Bf8WXzWuPrSVCDuWWa31sGs-87xa6EruABuewgvuJprOr_dJN8UYVlPiLCk0Viios0wkfHQDZ-qa7fZGEhCQu4OaCszilNK7JkuvsnuZGhQ6ISVsfgOLp392LiZw6xHshuTqzw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108024955717952632371\">Laurent Baudin</a>"
+          ],
+          "photo_reference": "CmRaAAAAo3ERiCv7BWT4AjdQsX7hGuviNJvPk8mcY5kb27xWsV24_bQGjcjqHP-W4TMGBl7LqELjFkkV1UyvjHLQm_2bb6PTfrhQI8tw8Ch5-PT1VykbDoSDnSBMtqjxyQR567bkEhAZdv56scL4HFbKRsiFNi9kGhSwG0BDBT7IsakxrmmcrL9MXuZHrg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112994358918483403219\">Fran\u00e7ois Plassart</a>"
+          ],
+          "photo_reference": "CmRaAAAAy5wTKGLTby33Xeoht1F0VIpc6_uTm3IdfJ5jn8teTRt0g3l98hVCe1OQeZJG14iGOqqseFeTn7jmy8NwloLTA7zgjt31uwDQwavOnS8zP07YbzAT3IHSSsO_G2LyBhzSEhCbs3pgCudvN9QqMRbemduvGhRz-JW7jnmuIpxklut5FWEHuuIM3g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102153389911243080985\">Eric Marasco</a>"
+          ],
+          "photo_reference": "CmRaAAAAaTdP0zsTg-PpuJFmFZXVL7xTufVwzM4sxz1AHu5n2yxXk_LD7_odh6kOsuJuPXu5ihBQMS-Bs3ppidfWDzcpxNQc5qMlQGYoeOjZI4o-BNmgSooL8ky3zTFMAmgkdHCPEhDF0QjY-CGqsPaA44dej1aWGhRB8b4ku5P4xZosqDie4mW5M-MyfA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112027334682795316610\">Marsha Naidoo</a>"
+          ],
+          "photo_reference": "CmRaAAAA6E8MomUgTkacANlr5bB4D5NVZ_1IzzdZIRetMTkG7v8M9m8vSgk1pLd31rRA54jwDfJFKUnRBJ_tqR4mpKOp_1_sROfjfwxHG8FMMVv3L-Tmh3bu2YznBu97mEuHBO8lEhC3-lnqcbsL75CjMRBsPPjUGhQgYySF6UQraStEUEoVPX7XkVrhiQ",
+          "width": 4032
+        },
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117249079623808004100\">Lion Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAA_tXb_d_gwwX0es7FIW-_c3wRl69u7OrEciYC4nDctFj3jbuft2KlqN9TzH0fheJx4xh4DSOtaXOgaYUkl90dcQD7b1G8r5zgVwFaGeP0O1RVpte_PNdCQnuGY77_YPExEhDOSWEA21zcG8shHAm12HXsGhRma-qNlDLvOfaEAhp8vuQe1kRRmg",
+          "width": 5616
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.museegalloromain.grandlyon.com/",
+      "mood_params": [
+        0.006186220386677745,
+        0.051687564994507405,
+        0.043759061039054144,
+        0.13038839209424427,
+        0.061996401731737344,
+        0.14269942609692454,
+        0.15845195419350844,
+        0.025610228153055848,
+        0.10569047981616558,
+        0.04642652413581105,
+        0.11070505561654219,
+        0.02002167318333355
+      ],
+      "popularity": 0.5360843293456373,
+      "num_google_reviews": 3217,
+      "top_cats": [
+        "music",
+        "movies",
+        "religion",
+        "instagram"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.1060033247266009,
+        -0.6764203324228777,
+        -0.11661924827365035,
+        -0.19866998983051667,
+        -0.37971524667357903,
+        -0.36365927082337673,
+        0.010061786613534468,
+        0.058090406514830134,
+        -0.2635317224660243,
+        -0.27708203170383633,
+        -0.4950098414758851,
+        -0.5614875271325609,
+        -0.28282104153875487,
+        -0.2338068915969617,
+        0.17392925098351497,
+        -0.29535051296501535,
+        0.19018558494003104,
+        -0.054488768435385096,
+        1.2089616016810645,
+        0.8421643968306112,
+        -0.4120076497578457,
+        -0.28047943646971074,
+        0.1135831674263695,
+        0.2192484542932231,
+        -0.20084578143719148,
+        -0.3875350205316456,
+        -0.04286997360298539,
+        0.08429972849364499,
+        -0.13669923093837077,
+        -0.6002684506796457
+      ],
+      "global_mood_params": [
+        -0.3222173726220445,
+        0.03475469375221504,
+        -0.3443440256566946,
+        0.06733880767295625,
+        0.08031815930840355,
+        -0.13878701482008654,
+        0.8544383411638146,
+        -0.15877710115766488,
+        -0.2132420221877868,
+        0.10518014583829206,
+        0.4412930411445294,
+        -0.3973768077410546
+      ]
+    },
+    {
+      "name": "Fresque des Lyonnais",
+      "orig_name": "Fresque des Lyonnais",
+      "place_id": "ChIJlbZLmgHr9EcRaVkX1pfJMt4",
+      "cat_params": [
+        0.11228153358149685,
+        0.09269926419223083,
+        0.23951623381373344,
+        0.418791889064421,
+        0.2089087870549276,
+        0.1606278512392643,
+        0.36332414815039643,
+        0.2062983880387179,
+        0.20462440484464645,
+        0.29210641763894807,
+        0.08356107797787028,
+        0.05266492623971541,
+        0.22890718158722145,
+        0.13754473809117979,
+        0.3149019537972985,
+        0.1371121281875521,
+        0.5423709354724817,
+        0.26124559175867873,
+        0.13767809989603358,
+        0.14005017589203586,
+        0.47523255108505497,
+        0.17740815021844558,
+        0.2815147163474637,
+        0.1544065577569209,
+        0.020152103668647274,
+        0.31887087333490255,
+        0.18956452369253526,
+        0.381222836753781,
+        0.18966078909039283,
+        0.2494901230669412
+      ],
+      "noncat_params": [],
+      "quote": "This huge, trompe-l'oeil painting on the side of a building depicts 30 well-known people from Lyon.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.7680862,
+        "lng": 4.8280252
+      },
+      "address": "2 Rue de la Martini\u00e8re, 69001 Lyon, France",
+      "photos": [
+        {
+          "height": 4112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112286109453450310638\">Junwoo Lee</a>"
+          ],
+          "photo_reference": "CmRaAAAAxlQnoCnVYvjeYjgQ8NUhA6JmUPmRHgMEAMKzJubFRHnaN5kjCEiO3RJqvpe5ZGYrTggHBPayprKg28ON7ikK8MrcVUsRE89UsUj2PyeUGc-R124Tku8IYSfYeFKTafGnEhAa6qhVNdt_BuI8MM8ntBE0GhS12NDoOyrVjLGYoMT5NfN2xt8GxQ",
+          "width": 3088
+        },
+        {
+          "height": 4224,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114616394023963615918\">David Jacquemard</a>"
+          ],
+          "photo_reference": "CmRaAAAA6JnksZk6ULtipjy6IZX8DaxOi1IErWAq1Fr0kAcVIwQ8TEKYhIjcBiEAGIWnB0rerPkZGzeF_IDP-7td1A5XqbF6tH0pIQZO51VNrO3rIfZFaosvEQE54W6ZsR7b_zQBEhBLh6wEVL1L1kKwB5pM_xbPGhSBKEn-QTr5YTaP3CKKYuH98ZGAVQ",
+          "width": 3136
+        },
+        {
+          "height": 2572,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103914450813998576477\">Herv\u00e9 COURTOIS</a>"
+          ],
+          "photo_reference": "CmRaAAAA2BB0UEakqO5I-IGXiEazrKxTJmi5WrOqf9qV8tVVH98S1Io29m3YOTTI8DaInuHhzTvG0c-QgnQrQV41Cnp2xXIatqU3YWQ8OnXO_BJsPGq0D1E1q4R1cTU_afiz5lytEhA2XsQyRb4xOQ_3Uo9tqzT5GhRHXGNUjHrQ-UfCKZ5Go4cPTWBAXA",
+          "width": 3850
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113100015211469762021\">Marina Francisco</a>"
+          ],
+          "photo_reference": "CmRaAAAA0OJ3cbUhwFKWRrRoKrX7cmPPC3td6LEoZweRO-Puge5OE25a_OX_tLIvEhpDu9mnPZo4Zbi6AlNBriFxjaCvQsYO_P_XHXEnSthAOQ_5bfEr2dAoC3W3A78WraxpIUzFEhDhGyU08aLG50AU5JKX_22OGhTgUu0uYTdIdQsvp3d_P84nvqpRfQ",
+          "width": 4128
+        },
+        {
+          "height": 4224,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114616394023963615918\">David Jacquemard</a>"
+          ],
+          "photo_reference": "CmRaAAAAoSJqaFd_9_SydQSic7n31OU44BnB8kNoZXop5jNKu_lcLGOTaoCNCQakl0rkISkQFuZjtBfXKOlhiD35PVJw4SqS5PjNdMrhq31USM1rquFdmFsnx2a1KN91FHtoisUqEhAhAxKRn3TdLI3tz7sYmrHQGhT0ie5-x_ja7ApZaT96URLzWfdj6g",
+          "width": 3136
+        },
+        {
+          "height": 2920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117024065549320728198\">Sandra Sexton</a>"
+          ],
+          "photo_reference": "CmRZAAAA2eDAFRbX7f-AnW56hHAnH6j5Rw0gSYxOg1YKAQSK2vBOubBh5tS0nWWkhIpkLU1uNq_SsKx1q0Eq3ekt_34oG9v1kDxZceCxetNPCEdqsRi5dR1Fx6a7h6O11XIWsKB5EhATj7TAV4FChBHo1V7HRN7TGhQRYMJmfV25f0SIWVfk2HK6d_y8SA",
+          "width": 3024
+        },
+        {
+          "height": 3020,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117024065549320728198\">Sandra Sexton</a>"
+          ],
+          "photo_reference": "CmRZAAAA_9wUtfe-YSeFFuMDgXhcDIbWTg2BWi8oZKKq8CVzgn3Zb7t54pR2uGLEE59bsoNwlF8xDiGQU3Im3nJ1MaaNr0pG0bchjUMtXfY28kO2PJWS0ZcDL5TPKLb4fdLPmOB-EhCQjROQy92kCznLA0AZ4w_qGhTOfFLY37w6mVWgTljWCze9NSdSaQ",
+          "width": 3024
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112484725929804237302\">Valerie Bremond</a>"
+          ],
+          "photo_reference": "CmRZAAAARjhzGvKk4fOi8UrEnLQ4Znu4cFTyIL6FNPuRJhiXkQ55MYub8Vm1ucxVXMS8nGsV8ED7_xlbbtxYJY5_16MUYDUUYgSBgBHBCzChckV_hTMXfIvGsAbiZVztJsauBWm4EhB2RSrLHGCV0nTLkEeQiOs2GhRzBqVDjQkY6uuoyZ7p1IMGqst68Q",
+          "width": 3456
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112683834141882218545\">\u043b\u044e\u0434\u043c\u0438\u043b\u0430 \u043a\u0441\u0435\u043d\u0436\u0435\u043a</a>"
+          ],
+          "photo_reference": "CmRaAAAA5Tl7zA2r0cWcrRRpmMrBRedXSx34fwkE-oC6Z2PQM3dg1xrSDSebzyzZmsE_L_GGGVkykSIbCVDznWl8s_H5r1zf2xjdjwLBf9wY0wbvZnh0FocDlSfId8RIjHsS9xe5EhBETUoyKQH1nZreGKVWiRK6GhTkBXqod_cqEJBE6R7VSEGapx6JxQ",
+          "width": 4000
+        },
+        {
+          "height": 1776,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106647169318435561388\">CM LUI</a>"
+          ],
+          "photo_reference": "CmRaAAAArV17e3bjaMo_ql5ZPCbHT1q4MtJ8O1OLvbgSIuRQTDfJGy1xkPRnRWOAEac7UnqcPLfQTGHaDDqJu44QM156yw8iU_zjYI20cifOBP1NnCy_w6giEUcICJdoTUtA8Q1GEhCDEOdR_hvjGq6OlNdwQn46GhRbCfudX5bHQil9kZaZTuX71hs-Qg",
+          "width": 1184
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.lyon.fr/lieu/patrimoine/fresque-des-lyonnais.html",
+      "mood_params": [
+        0.009206822124310477,
+        0.051503409987039506,
+        0.05522083639188476,
+        0.16456290300443446,
+        0.07287736879671669,
+        0.15683906216106713,
+        0.1344001139594508,
+        0.03117526538335511,
+        0.13822577784290072,
+        0.043271925299046686,
+        0.09900481035882645,
+        0.017449536143865036
+      ],
+      "popularity": 0.5543739236636426,
+      "num_google_reviews": 3679,
+      "top_cats": [
+        "art",
+        "instagram",
+        "original",
+        "history"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.5937597043467482,
+        -0.2338181745329326,
+        0.14611771556907174,
+        1.3400524046641775,
+        -0.5918613280128597,
+        0.2067667531950286,
+        -0.37209035179237004,
+        -0.053763743901595225,
+        -0.029512336531354343,
+        -0.3109980572473045,
+        -0.05736970226490913,
+        -0.8379633863328382,
+        -0.2659927145322083,
+        -0.5010406768616109,
+        0.26930557524908494,
+        -0.3896149485237298,
+        0.3973274147201165,
+        -0.34177407934357,
+        -0.3588983415881003,
+        0.08762741891392219,
+        -0.3040529625219662,
+        -0.7606849081086308,
+        0.2759197968552141,
+        -0.12880440631762285,
+        -0.21318937715300462,
+        -0.26461496361794673,
+        -0.9428096696973036,
+        -0.25472774558880285,
+        -0.6612588378826618,
+        -0.5517458199037979
+      ],
+      "global_mood_params": [
+        -0.1189856437967687,
+        0.029237590921828385,
+        -0.13797903138341724,
+        0.5941886590846631,
+        0.3191254113216689,
+        0.039019149041254364,
+        0.3992668153241545,
+        0.06313282316503825,
+        0.21715717918553887,
+        -0.017417585468263778,
+        0.17054699263008002,
+        -0.5546189351244932
+      ]
+    },
+    {
+      "name": "Mus\u00e9es Gadagne",
+      "orig_name": "Mus\u00e9es Gadagne",
+      "place_id": "ChIJiTh_nKrr9EcRV5unOLTNuU4",
+      "cat_params": [
+        0.09936653245375122,
+        0.05508404024435975,
+        0.4027366952811941,
+        0.3867453237296843,
+        0.14068344491963924,
+        0.2521197678891358,
+        0.40396941284760474,
+        0.3965840485046191,
+        0.1817217152539027,
+        0.2765009519061465,
+        0.06128391001230402,
+        0.10206545419563201,
+        0.17734189703218467,
+        0.06404888386342462,
+        0.4425427484531054,
+        0.15872841043129898,
+        0.3320011684129751,
+        0.4411373353514458,
+        0.10191132474535099,
+        0.1097067586570468,
+        0.37783357624555025,
+        0.1528302511956483,
+        0.3139414278205104,
+        0.11231840324209115,
+        0.09055871400551171,
+        0.2532859881338723,
+        0.17683934370807555,
+        0.29690122308955824,
+        0.17001761368413926,
+        0.16039285249544416
+      ],
+      "noncat_params": [],
+      "quote": "16th-century building & gardens, housing Lyon's history museum & a large collection of puppets.",
+      "phone": "04 78 42 03 61",
+      "int_phone": "+33 4 78 42 03 61",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.7640409,
+        "lng": 4.827592699999999
+      },
+      "address": "1 Place du Petit Coll\u00e8ge, 69005 Lyon, France",
+      "photos": [
+        {
+          "height": 375,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111993328640223597237\">mus\u00e9es Gadagne</a>"
+          ],
+          "photo_reference": "CmRaAAAAJzBhJrFeaLtbMBKznNBaxMNx6VYLptB4dD2NtycjCffLkzfDUFQJusDr1gYMWzgSisFRVy2KSpZSxAXSXJpgr-8mRXQ8yOs6IAXoBolyzCpf8ZJqubi_KxPvoYVijlD9EhAU3HVrwVaf_pTp30tZAymXGhR8hl6KaPQjaGQleOxShYVcHlfpKQ",
+          "width": 855
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108919202784671200457\">Yann</a>"
+          ],
+          "photo_reference": "CmRaAAAAHuhTB_8z_qABGZYitUMwEHw7KB0fRHpOmouJZo_YVPUA2rjKii2oO89ha7YKsQPWuxrM0ArONp2GSf6DRBW65WriWu7qJ71csp_-ELuJLxfviQRCQ9S7AXxDJwx0YxexEhCxm9e4aFVO0sy9uOZh5TleGhQ8cIBHftAjKS2CtkVFeraMFYttbw",
+          "width": 5312
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103717400177923123062\">Iwan Setiawan</a>"
+          ],
+          "photo_reference": "CmRaAAAA-FC03ZVEOHo8C2gT30I-l2UdVGuvmbuUilVxs-uSk1SJGl8AoqNYNrYGLecWBVijSHDX7u2Bii5MoMV4rEGNda5nBtTApvkZ5F43scuNhRFbz16jUBPmKx7hH9iYJbVMEhDeQ2OhF1ufD4NCczyzR8XeGhS3M-x249GEyN4A0krESSFy2PJcIA",
+          "width": 3024
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108162798196092593241\">Willeme Verdeaux</a>"
+          ],
+          "photo_reference": "CmRaAAAAG_2IzrPvPgGlPNtF36FeY7vjMpsfShwCKWztNmqWu87S6F0EZQigIkM9d-OQxXZmcbq5G6b-CwISWh70UtQnDHp2itXAJEYsEJF_Nd5xQ3quThM5E_McImVqRO8VlXiyEhADJe5wnJQBr5i1tk5psCR1GhQJLRKyzaXALhBBmN9dmvB40xdjcw",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110163452740138507385\">Dorian Bazin</a>"
+          ],
+          "photo_reference": "CmRaAAAAa9DLsTN9ncfk2pMLnocRrnIPAA29qgj4JX23Isecs40W3MZFIr3_UF0GsPmClWzfjyUa7vk8ocQ7MUR0Q7nBa6Cy0OanK2S5H0Xt6JEUSZWi-Cnqu8_e3pEhizQb34GsEhB3CiWQzJFn9DN5U4U3rZcHGhToMdqKIjxNIQM1MEUBNLHqLDK35g",
+          "width": 4032
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116655601409990891076\">soja soja</a>"
+          ],
+          "photo_reference": "CmRaAAAAMC29x4Xy5k4Bta-DRcIPdaTf8rf8LXsxX7bYW3fdl7vKUj9ywND2J-Z-IwZgWeL5ilVLkuYIpVjvtDgl9u_J48LXXfFR4yn6Luq6cTQ6BTmTwQg2luyEG2cGCveXf0biEhBk5uMpIa-isCzyKQbCW4FRGhTh8L4rvL56JyiKkbhU0X19hnrCYg",
+          "width": 3096
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112133494034523132746\">cat parr</a>"
+          ],
+          "photo_reference": "CmRaAAAAJlgZg3Ylbp0Iddib1_K6nxBSFN6kmEqddmPPCFBzBDlu-sEwQP9PYXZboOi5JQ3cR0635Q2qgKjPBFM-qv70Jp_hlSDlwig7Vb5S-061lR1Mh71bled31vC802QL_RxWEhAqYtOUfbLQxST6uLjInJYVGhQvqh9Do6flW4GHXxjUoF80bwJ9eg",
+          "width": 4048
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108320550258024779319\">Herv\u00e9 LEGROS</a>"
+          ],
+          "photo_reference": "CmRaAAAAOjiUlyNsu7GpLleV6nRyWQyO465G6zSrYeVsPQvhr-LP8A2uC6S-0f6gyRitB6gcWku6JzB27CZjfehaiX2dc5-7hvJL-55ZoRSS33LoZ3LNEhoD8lXQlMIMe3kIbU9IEhD2HnvLjVX4wTyxRGikWBr3GhR3syz1U5i8OBNsnss1lHZPeH2NVA",
+          "width": 5312
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106173117046515815831\">Philippe Michard</a>"
+          ],
+          "photo_reference": "CmRaAAAAJl_Rh9sr_Z6LWQY0U5Zk1NL1lCvtfKKpFUV_5NiHFkxcBAyRekZoDOYvePNP6KFiCjN3_Sl7zlMguYkmndn3RRACF0dnEIbm37ArbiCnv5cN10Vf4GZ8mG4sJuuADRLZEhD5Q6_K2-7Tb36Dok4gNMhaGhQEtAIoGiSEOuFiL7j71UY0WnKZLA",
+          "width": 3264
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113329661071874400052\">lorena herrero</a>"
+          ],
+          "photo_reference": "CmRaAAAAQkmoo-foXBjftvQ_QqzOTEspKEdbh1vu415dF0reH-tElgJB0QfUcqFPjHu-A9rYPn8oQ4e2QlPRxYQ2kYavFdxDeNS84XKBD55haFn3NbFYqjvY1663GiatTmSYe_jHEhDC54nF2Eprpk2HRtYs-TULGhRo8JrgRe7WOIdoNx_dqLbdfr0B-w",
+          "width": 4160
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.gadagne.musees.lyon.fr/",
+      "mood_params": [
+        0.004143842328894851,
+        0.06409501670228725,
+        0.0424598069377322,
+        0.14093910629678058,
+        0.04011202732792494,
+        0.12027704987174158,
+        0.10179459955499538,
+        0.0446822929754735,
+        0.07957810566172782,
+        0.03350176821005699,
+        0.13229807212498748,
+        0.021059592353295208
+      ],
+      "popularity": 0.39580822989517694,
+      "num_google_reviews": 956,
+      "top_cats": [
+        "culture",
+        "science",
+        "architecture",
+        "history"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.7504629604663344,
+        -0.683572749813631,
+        1.7494957769770494,
+        1.1110405710359792,
+        -1.0126987880104996,
+        1.4273301400471121,
+        0.06044984040329055,
+        2.059512486448792,
+        -0.36844986569137333,
+        -0.4769253399006236,
+        -0.5155327206427573,
+        -0.3687972631693638,
+        -0.8232170163424355,
+        -1.0410902831726017,
+        1.6572729482070185,
+        -0.13644748906252221,
+        -0.7441478085663098,
+        1.539825405356906,
+        -0.8154462410207842,
+        -0.516991729880581,
+        -0.7790685623932875,
+        -1.0007929321282338,
+        0.6415253645564851,
+        -0.5214209409014392,
+        1.8139802380473975,
+        -0.7510861591783409,
+        -1.0620435120118292,
+        -0.8025137045349752,
+        -0.779833467949099,
+        -1.1643905413468234
+      ],
+      "global_mood_params": [
+        -0.4596323844810142,
+        0.4064697390072841,
+        -0.3677366116152581,
+        0.22999343130463368,
+        -0.3999835714287809,
+        -0.4207487770019248,
+        -0.21777959766705846,
+        0.6017354140825607,
+        -0.5586743883765428,
+        -0.3971169246233403,
+        0.9409598230278868,
+        -0.33392582677366917
+      ]
+    },
+    {
+      "name": "Place Bellecour",
+      "orig_name": "Place Bellecour",
+      "place_id": "ChIJs1rce1Pq9EcRRyCL9YWTnV0",
+      "cat_params": [
+        0.15196880533547574,
+        0.056870119380942524,
+        0.17026448413593476,
+        0.16203832400936657,
+        0.2996396539661905,
+        0.08632288511410677,
+        0.40455041374845735,
+        0.17604152638461135,
+        0.18960826351265025,
+        0.2970892233380898,
+        0.08184555368364606,
+        0.21306862483277714,
+        0.2836761899529519,
+        0.17370422002615732,
+        0.19320210656337605,
+        0.15076890340534513,
+        0.45365844689812346,
+        0.25591816535142314,
+        0.11462160991514687,
+        0.12197620425694637,
+        0.4885177987496017,
+        0.3133384209595979,
+        0.17304677414954567,
+        0.1821760253222515,
+        0.006424079954868452,
+        0.43062415239898966,
+        0.30816106458335146,
+        0.4111340737236453,
+        0.33483977942961407,
+        0.3179509808099247
+      ],
+      "noncat_params": [],
+      "quote": "Vast, tree-lined public square with flower stalls & a small art museum, plus a seasonal ice-rink.",
+      "phone": "04 72 77 69 69",
+      "int_phone": "+33 4 72 77 69 69",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.7575911,
+        "lng": 4.8319667
+      },
+      "address": "Place, 69002 Lyon, France",
+      "photos": [
+        {
+          "height": 3328,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103637819299556854829\">Marco Facchi</a>"
+          ],
+          "photo_reference": "CmRaAAAAB5tq6Iw4MeVHsTyPD__BAs0Yu4bVpB37xrVSHfkJOY6oBVnzFNxJYxanZVaOUUx-EEDDZYg9vsxUbmsTIyg7PuVxUEZEMeLnA_k-L9-oeAYWHnidKT8HgqERZdmrju7LEhCbvweMwzQpjV7hbXrMsTQhGhShkwtOfBJLjkCb9Kz3SjDQloNGCQ",
+          "width": 4992
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101710616019462446115\">Djivelekian Jacques</a>"
+          ],
+          "photo_reference": "CmRaAAAA0nVaDYYU-tdNsN4AfWjGlFNuViBg9_RuZo22ftdAkNN1p5ovL9GTCY2jl1mHfoPaCsXq0nD5xlXpNg-eLv5EMHGbGELKbP94yhGm95iyoxNgklAKNdPyXUMoCI4idULDEhCR12KHtkHzxDaOVutW7mYsGhS-ltfBHDnHz-_BZ-3Gi8SrlDtKQA",
+          "width": 4032
+        },
+        {
+          "height": 4016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111604374210090683023\">J\u00f3zsef Miskolci</a>"
+          ],
+          "photo_reference": "CmRaAAAAgRz0VFIPGkjXKWKGVqMY_7jGcAwaVtCxeNF1o-j-LNAAOI0MzWVplt7NYSOELT9GrFYBQCJOpWfZksgLTy00OAAVzJL7Cfs1MefCyOLJUCUSMYVp9YRNdKaMfiInnIdCEhBoCVWFsE9ySzMz_gmeBQDqGhT5WSizKnAPt87PwowDPTMTATTReQ",
+          "width": 6016
+        },
+        {
+          "height": 2360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112659543190240877752\">Nohay Sihay</a>"
+          ],
+          "photo_reference": "CmRaAAAAB6y0ewv64gmPuHCDOPlbW7NMIrXVAYZZEcGQPWAT4qPhFfjSqhueTXyLcooytabxsfnqVXNzpy5Mozjxc-vaaGffspbdbi3GXtTAbt-uR7kizMaxJho7OmlcHfivwyxXEhDXy56XtptA33wNI9S0vcBsGhQgNouwevHcmM6yOBo6bh_4aOwPfQ",
+          "width": 1328
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115601759895746480257\">Vittorio Ravaioli</a>"
+          ],
+          "photo_reference": "CmRaAAAARRsaGQnHcPIS1VlZ5C2HE1twya_wnWQTtQO8b4xoAjKlvkudT_rEnzyVxFx6KtfgCtoyVIEd8Og1HXoNjh-eiqt8AEyxTp-7cB5iXxL3VG4gDG_w6hdNKU60SkDuFK9lEhDQIsrFycWR2EK1XSY8o-xYGhS5V57lvZEQA_Ra_jfdbTnVNhgHLg",
+          "width": 4128
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117634622058446160920\">Patrick Migeon</a>"
+          ],
+          "photo_reference": "CmRaAAAAhetqImMXQfssn8YIH-fk0MC9rkTPB3ZtDFd01pXrJSCJ8MDImF20s6BESWnMmZYs9uTPbs02cyXyNTRlFB9Ek7iMFZx-eDXW8Ld0FAJ9zCWUaT7z14EMT3pEt9Q3ec7oEhAbtsk7Wboxp5ppSfeATEA8GhTUg9uYfhfC4MLGpR0diY1mTB6NeA",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106766012076954590832\">Jiri del S.</a>"
+          ],
+          "photo_reference": "CmRaAAAAW-T02P1Fmw1cXBo7txHShhRjSYJGoMoeak-KOEH971KmWvXV4o4G_6-D6Ty_tIbWGmnrdoVkwZwSZV970x44MGE5S1ygqyjNAgFCH05bp-ub-DZW6STBxcoqO5374uZ6EhCne9WhP0t9cs2G1fZ_oRdWGhRau14-ftwVCPAPovAq7HLboxz-CQ",
+          "width": 4032
+        },
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115253640917684427881\">Peter Schludecker</a>"
+          ],
+          "photo_reference": "CmRaAAAANm0HVNgq712N9OGbJSrRR_jqr3AwvA9OmEVCE6vpM25P6dYwfNudpATstp4z4ZV_n3De0Ra6qNXGKS-iQEI7McpOqr3r46bsK-hdksfeS35drhkyRq98o6mNIihYSDthEhAgbnpnuLJTBXCk477vLwozGhTAtOlFklaPhpL5EcGS6EF-DDiWjQ",
+          "width": 2048
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113745923460593800322\">Philip Arthur</a>"
+          ],
+          "photo_reference": "CmRaAAAADxdGxx4LPN0GyPEwL_5g1lHoTje8hPM57obEVo7souXSIR7mYw1JFVURJ1Qgha5Uyfz_OuJdtPPsrvcNcGvsquODc2NZcOe3QE1knv9Qow3r7Y3x7a8L57drnII-q6OlEhBSCILrhF2qdPVPyWUjqNJOGhT9cC5qiFCmI7Gx8KFWyIFuTmqlsQ",
+          "width": 3264
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103107950077266076984\">Bruno Chappe</a>"
+          ],
+          "photo_reference": "CmRaAAAAWtVEl37lHyMYWbVKNPJWHQWL_2yJfJmHq50XGbegWNcxcVP-ALSnWwP0nOZieFQeLdOJ2kPThdSvEOWTz5soYXnD3EX4WaO8eyRYqZnKFByqvtJtffNkh-5AMwy89b7pEhCmZqo259lFJXhkyACAwQ37GhQEewyOdcEThTEs9sh5NygZO02NOA",
+          "width": 3648
+        }
+      ],
+      "rating": 4.4,
+      "website": "",
+      "mood_params": [
+        0.004135258566139962,
+        0.03150047071197304,
+        0.055023493158479674,
+        0.09337559615436897,
+        0.04516561332056394,
+        0.11400446085267948,
+        0.0947182422538858,
+        0.016402447301105825,
+        0.11424278427352089,
+        0.04139833735320753,
+        0.07064324243643547,
+        0.018346670606867715
+      ],
+      "popularity": 0.7565419519257054,
+      "num_google_reviews": 12760,
+      "top_cats": [
+        "food",
+        "nightlife",
+        "shopping",
+        "friends"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.1122169891091418,
+        -0.6622171076245869,
+        -0.5341691501167937,
+        -0.494765277344927,
+        -0.03220202284434316,
+        -0.784511213586739,
+        0.06663275600718135,
+        -0.3897906751063329,
+        -0.2517366224790359,
+        -0.2580176833318873,
+        -0.09265200520203293,
+        0.6854207661026415,
+        0.32585163793828825,
+        -0.23533978544970557,
+        -1.05405987159056,
+        -0.22966833756931349,
+        -0.08403028757303753,
+        -0.3974969412296831,
+        -0.6532047761133739,
+        -0.27251228653569504,
+        -0.23926070059916263,
+        0.5672540130267495,
+        -0.947037505417675,
+        0.13024121467524374,
+        -0.6084510211403152,
+        0.5643069916079022,
+        0.16842972124983835,
+        -0.060412730555410805,
+        0.21510380292599385,
+        -0.0809998267586571
+      ],
+      "global_mood_params": [
+        -0.46020991607770495,
+        -0.570030788515306,
+        -0.14153212276567453,
+        -0.5032673406491415,
+        -0.2890712805903066,
+        -0.4996266905421863,
+        -0.351696849685545,
+        -0.5259440880937767,
+        -0.10010628249600474,
+        -0.09023116445214144,
+        -0.48574544188942226,
+        -0.4997745277904699
+      ]
+    },
+    {
+      "name": "Confluence Museum",
+      "orig_name": "Confluence Museum",
+      "place_id": "ChIJVZBs3e3q9EcRN8Py9QApPq4",
+      "cat_params": [
+        0.1019031895215328,
+        0.0806179243335905,
+        0.38192432745886234,
+        0.4062043958980705,
+        0.16753234935107736,
+        0.14890068942511397,
+        0.3247783791660386,
+        0.2592513329125447,
+        0.1938921557235562,
+        0.24980340640188808,
+        0.07016146381614768,
+        0.07802598175402743,
+        0.18445743098155695,
+        0.1028563494350361,
+        0.278837182615586,
+        0.1416175980193791,
+        0.42801807867423775,
+        0.2735683731348434,
+        0.12123055859521414,
+        0.12534794399470556,
+        0.37927562088002437,
+        0.15757339400492348,
+        0.32805019877275543,
+        0.12012873811729023,
+        0.048300182049034655,
+        0.266553315555712,
+        0.18516813695346637,
+        0.3601361155309414,
+        0.17632255958939572,
+        0.20485100140382748
+      ],
+      "noncat_params": [],
+      "quote": "Permanent & temporary exhibitions about anthropology & science amid dramatic modern architecture.",
+      "phone": "04 28 38 12 12",
+      "int_phone": "+33 4 28 38 12 12",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.7326492,
+        "lng": 4.818213000000001
+      },
+      "address": "86 Quai Perrache, 69002 Lyon, France",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104167825738939874445\">Isabelle LE TALLEC</a>"
+          ],
+          "photo_reference": "CmRaAAAA6GPyjt4PI6DLLka7nmk_0MHGxbo7s-ijoRWRNFh9L-si5VCOJwj4rrk1mIoLM5GepRciG7hFIPpsObhDYhxGMlGiMiLrYC44WvW8arEHGqUz95ujIvh2P4TgKHiOT1gOEhD2UzPeFZD__vVh8XiUQyqyGhTzkAQI1biZURe4t9lRSR-71LWMNA",
+          "width": 4032
+        },
+        {
+          "height": 1880,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100492902020980957510\">Yosi Furman</a>"
+          ],
+          "photo_reference": "CmRaAAAAzJCCR7TVmcqUyxOyalb7a2YHt98pBuVD0DyufBRgmhHpiocCAqxtkDpO1Ab3u4flNxEY8K2qxBE-lbm1GJeXuYe8gtMPvfn38J3S7W9kcez-FasXANYve0fVZWVN6Q6NEhD7z_4AvjNA3mggwfoEK1pxGhTK-n-80Y-VukqbV_RzjbHHned5Ug",
+          "width": 2816
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108414126907768130744\">Jesper Bexkens</a>"
+          ],
+          "photo_reference": "CmRaAAAAf7YYW-ASpiu9pvI7Vblvefl4JuVJ7d5F8GKLCIrqPFqYiTCuaGJyqHvindz57aeZpYWbJtphcvo67wYnclv2EK5lIIkit7pCvDX2HAzfNGLq7qnvRwfq8eMNPxxJd-AWEhBCiN1qqxPPth_CwbdfALgMGhQNLCNC3LtSduvbrpJ61hecby5MBw",
+          "width": 4032
+        },
+        {
+          "height": 3268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110120631703688660994\">Didier Omnes</a>"
+          ],
+          "photo_reference": "CmRaAAAAzFHCbwAUCTuTwQr3ziFvvgbSkaL5XMvOQrx8PHz3ZV5dR_zlyoW7yTnZbwu7Zv67cuKWwH7DcYOyNH5y1DhqhhItvNbaLkC8f-wya3nzYxGS2YvY1Q-oFOBvK2ElJDycEhB-r3QdVAkffAw152gTFqTLGhTHfOwD63l4QqZia7tpqjZh7NnDJA",
+          "width": 4896
+        },
+        {
+          "height": 1458,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106328931448382773214\">david alexander</a>"
+          ],
+          "photo_reference": "CmRaAAAAaNSw6nUsm2SbDyKhwUrYgN5c7nFlO0Vrdr0fGqW61lnSxrPGMr7ymRyl5O9gIGcb0bkL3gSmfmPTeV49j_5TPuZ1ags2DCyP3a2MZQSCFApRouFpsJO_I29T8AuKoxsiEhB7R23hZUlIHV0BtT5YySkSGhRQNUeOhFMZS56Jo4G7iJg0w2PwMg",
+          "width": 1458
+        },
+        {
+          "height": 758,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116367116970912825970\">Ricardo Xb</a>"
+          ],
+          "photo_reference": "CmRaAAAABaMmATXhqZ37pt1TZiJBTupoP_-0alzx2Z_5ZDZeeQkRrxsmwf_VGlhJ83RdQewq_B-IGNAMVb0FAH943shv3yQ18eDSFtnk8oiwsDUmwEwy2-jgYeKJ4sYDUYiisMGiEhBr722pb-xpnvq0ZTUeYRqiGhRX1_QfDaH4Ky-4DPLNZtLlEeSNSQ",
+          "width": 1136
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114947125116224824503\">\u0410\u043b\u0435\u043a \u041a\u0443\u0441\u0442\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAA5GjHvU-X34zhWqm0lKlpOAeZsVBSCCTET-UNo5vNSFBdgyWiexD5rJMU5TgF8rdjz6kj6EKmKCgYz4LmhiPtDT2-pbBBXmjvXEady47gGIIHix4rqXbGouIpNeQ7q2HSEhC5Uc9FH40ie7xR07LfB_c6GhSLU1EfRqWRlRL31zYtPWi_BQdgOA",
+          "width": 4618
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100307620808284669491\">bruno monpellier</a>"
+          ],
+          "photo_reference": "CmRaAAAAtwaIskhzSm1TMQRYXFEeqVV2IaEUMzH9e6Alwf_lK799tBsbuuQ0wFLx7NjUdfhQQWFayg3cgwjReBDXoOV2pmi9YSykL3KK3ZcZppMOFYnAgRlyqWN8Dsk1nHMe_L1aEhCwnzlv-cjhaBBAf4Sdht3dGhTpm_ITAfLtdxIRKxw9jm2p71Uj_Q",
+          "width": 4608
+        },
+        {
+          "height": 3268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110120631703688660994\">Didier Omnes</a>"
+          ],
+          "photo_reference": "CmRaAAAA2M0i5ZaVF7kuO4W6lBhTPZ9nP5KMMSHRhJV8xaCGyaOeE30iV8kY2xms5gz14agSXwzlakFj6sSDQfdqItniydIaGYOwZPvw3ciEJL-ayXiL91a1t738sik_kH2pYb2yEhC79JRQa2v0SoaShpbOIuunGhTjQb4RxtUCi_S74yK9iSsfOI3CDw",
+          "width": 4896
+        },
+        {
+          "height": 3514,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111138058740460239669\">Michael Ley</a>"
+          ],
+          "photo_reference": "CmRaAAAAzLVgphP6LUxSebp6jA1cCDzuBRrnHaZh-jwtCdVQ4Q7YlzcAt4EFgxoatQh-hSN9Xu4jn4Ix0jOWG8c3X1MgXUvvAF0EVqCl12wiftdD9IKk2CAQ1luguaMQ2Y59TN7xEhBI9UmfleJDeG42IupCPBhLGhSTCcTm085fZzoBYey9pHtVLDjI8w",
+          "width": 5386
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.museedesconfluences.fr/",
+      "mood_params": [
+        0.008032656656002552,
+        0.08208377794421527,
+        0.027096485756691137,
+        0.19190161042261872,
+        0.05175063593327171,
+        0.16180629576019964,
+        0.15273545122160448,
+        0.055918032733003026,
+        0.09114490565769215,
+        0.050811201465991315,
+        0.12634018560207252,
+        0.024814362419490366
+      ],
+      "popularity": 0.764824150561937,
+      "num_google_reviews": 13328,
+      "top_cats": [
+        "architecture",
+        "art",
+        "original",
+        "science"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.7196846106815893,
+        -0.37827133223511045,
+        1.54504779495163,
+        1.250099398446576,
+        -0.8470854778970781,
+        0.050318567757852775,
+        -0.782288057454472,
+        0.5343215561411035,
+        -0.1883391845755359,
+        -0.7607907018759281,
+        -0.33295265243715444,
+        -0.5971046630090451,
+        -0.7463251990828204,
+        -0.7559319334386176,
+        -0.12286313420146586,
+        -0.3368473940413806,
+        -0.2231560063139212,
+        -0.21288245472317074,
+        -0.5688443151931073,
+        -0.20532742088879538,
+        -0.7720356988727558,
+        -0.9544559101345518,
+        0.8005993186899572,
+        -0.44856275436443344,
+        0.5972590870748482,
+        -0.6526767068630662,
+        -0.9840034354310673,
+        -0.3917152782525052,
+        -0.741774110801238,
+        -0.8586903770304274
+      ],
+      "global_mood_params": [
+        -0.19798569040277159,
+        0.9453953263567922,
+        -0.6443474847084111,
+        1.0156546452083646,
+        -0.14454817476754844,
+        0.10148219598661926,
+        0.7462557923497727,
+        1.049768743622188,
+        -0.4056608374750821,
+        0.27558263471473765,
+        0.8030931204036,
+        -0.1043859445727665
+      ]
+    },
+    {
+      "name": "Place Des Terreaux",
+      "orig_name": "Place Des Terreaux",
+      "place_id": "ChIJHb247f7q9EcRM12hB20vobI",
+      "cat_params": [
+        0.08942042316625716,
+        0.05873865773818227,
+        0.26258340358414495,
+        0.2764845231880828,
+        0.2828125529259626,
+        0.1181052464536315,
+        0.3571006662095741,
+        0.20787201269084646,
+        0.17476578145190252,
+        0.2998742852533637,
+        0.06999444381907396,
+        0.23460137721203678,
+        0.27417036892065194,
+        0.1426784692066903,
+        0.20645752438894227,
+        0.16912588314395974,
+        0.4728116322056424,
+        0.29309395632496144,
+        0.14959730989323058,
+        0.10658243117388351,
+        0.4819900380629321,
+        0.26908496090016043,
+        0.1524160525829159,
+        0.1712997719099473,
+        0.003681152096194567,
+        0.35809896575885636,
+        0.25362685577340266,
+        0.3660877253544454,
+        0.30102995170586455,
+        0.30190365101200045
+      ],
+      "noncat_params": [],
+      "quote": "Large public plaza with significant architecture & famed fountain, classified a World Heritage site.",
+      "phone": "04 72 98 54 04",
+      "int_phone": "+33 4 72 98 54 04",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.76748509999999,
+        "lng": 4.8334965
+      },
+      "address": "69001 Lyon, France",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101996240569157051498\">andreas spiess</a>"
+          ],
+          "photo_reference": "CmRaAAAA0DEBMuW0R0pFD4oB4PGSlNjLJnw5TxBCdwr6bKXn_gvdbDQTjcAuzfQFhuDURqVeuQ3SFxspgWQaeoEsACvo7lwrG5m27inEAIScBKAObA4dT6HKfpvfNqEHI5WiNcTSEhD9b1GLl5DlvefnVXfgX1ymGhS7yWwjNzCC1RmRBkSv2neKTFpRUA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107781206426592813316\">Nicolas Albarello</a>"
+          ],
+          "photo_reference": "CmRaAAAAKGFc2k2zs31Wd-wFZBxVSW4l-2sawvuXSJhIUKh2iVsQsdJX16S-XZLSWGzLHGAGAm2bLcBSdVi6kSKaCDT2DmnivvIt1gTInXrgLEQ7_u8oKv-o-CVfG68iucJJ34LOEhCG1BiXgvhrxaMWyVBNAv-vGhTNCb9BWaZKkrJiIMihq5ow2ki5Aw",
+          "width": 4032
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111229759810099316577\">Tonino Contucci</a>"
+          ],
+          "photo_reference": "CmRaAAAAaUHUPxgpU0h3YPd_hOtSOPUk3Y_BMrLCOBq_oWaQ_Uc2QEp6YS4UvcZUcrOp7jUFa3Xz1ckDyAzDSjWA_6PrXvcFzK9jwjPt9Kf5Khkfp8PUBCfFF-LEvQO2Mt7RsoCeEhA_RvjDlPbUXW0nZHMFiF7uGhSSijHyHUDaOhUVqXP-UpItyDAs_g",
+          "width": 3264
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110671946423443823016\">Juan Camilo Vargas</a>"
+          ],
+          "photo_reference": "CmRaAAAAMmkH7iGwGiIW-TIyRwHOuAXn7uLcyHvWtI6hOLL1mBw9Gr02V71FeA6H9fDkVO7DC2LwLuwOdpHe8rTNen8omb9jrcDeDjwPJtSN6j4AfCWB1MopuQxJz39V1H5T6OuJEhDo5RYHzVOJtMj6GtmksiT-GhTPyg2MHj7q9eMaEXU5ohmPnAR-VA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108893002541096205980\">S\u00e9verine P. L.</a>"
+          ],
+          "photo_reference": "CmRaAAAAdJ_erYTVEQpSXjOM0EMnbybtkHOSPOcTbg5_nX8FFs5Y8d-SVWgQbmCmxYWcsmn29MQuVOU1-zwbGr3cjD9ARGD0zPVOMBie3-BVu3p8K9at548Clz2_oZ9qqxRQ-LzSEhBQ6XYmcKlU4XlMjWKRpOJvGhQaQIpu21wPTZdBp6BZBPpX75rD8Q",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109939204309360852595\">Yuva Ganesh</a>"
+          ],
+          "photo_reference": "CmRaAAAAgIwSLj-BgLlQ6o2LJ-QjWVTLyKKmvZKA0Msh51Ul-kUwykVjxd1yRIFUE114-QGxh80UOOWz-FEknCCg-W-9QcHeQqZRBan8Na94HWJbbECFFt7BvCGNoBtV4uUA8Fn3EhC6aCSHUeXKuAUE8JW8IpjNGhQiivSkYHOCTNfCRgtrkMz2fHR3Wg",
+          "width": 4000
+        },
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108818890520156917238\">Ricardo Mota</a>"
+          ],
+          "photo_reference": "CmRaAAAAJ7axQwVLRU7ADg-gqWQOADAL2iGdOSMB_INllowcDJ-P3oaUP7CeRjAGZ8g6_DNc82dgZw4AtIpVlyL5iLlvT_kjXOCLuOg99kvjJ3wRndL6Jy8X_DcKheUnBygRtAKjEhABUOK8K6M5oGplZ_T_akwmGhTfXVqMJfYM_JRSVA8DgU2yZcwJ1A",
+          "width": 4608
+        },
+        {
+          "height": 2946,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100591132847887491641\">Jean-Fran\u00e7ois LAFFLY</a>"
+          ],
+          "photo_reference": "CmRaAAAAMTwzcxQg501wmLzXeK7ljP0qLlUDKkaUnQn4phf9zRf6dEu2F8uwrJbgyho5EbCpeT8B6tUCbYKYc2eWjuw3RrIQEhayEk6KzJ9edmhCdnyVAqHvI1xEsZxpapAT7I2PEhDfaCIGO7Y_XVL7dNj3YxPmGhTFgK1r2-DYZnyaaOzwaJ8p18QXQA",
+          "width": 4582
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110723790970234265034\">Jean-Paul Fergeau</a>"
+          ],
+          "photo_reference": "CmRaAAAAq6fi111VDxUaosrxYf7czVdw4jEdZw2bFd_Ngn3-u06rTdMZJercqji9kcQcLxZdAshNBO_GhAlHjjodV-8uDr1VVMp7SJ6DpoGKnauKJm8ydBy_wwDco6U1-lof4VDsEhCHbN2VOvQOrYGto61AyiCMGhQ4ODI61PTb_LJrZpi8VN5ziSRSiA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117765709770032367521\">Sabrina Simon</a>"
+          ],
+          "photo_reference": "CmRaAAAAjPz8aAFckc5PsKPxIg4KhUP_K-5JdSM6uAmJc_MZpMaoEIP5seYrVTNZilw-EnsAocY3giJlDmo7IeWKAeUeBgcyXqRQOG8FLtFGBVMtGe8vn3VNO4SGUS-EaG6LYG8zEhAfBA8FR69xldhrgwRHjYNAGhSijR8zvAeqxnw7EoW5f9btZJ-2Dg",
+          "width": 4608
+        }
+      ],
+      "rating": 4.2,
+      "website": "https://mairie1.lyon.fr/lieu/contemporaine-19eme-20eme/place-des-terreaux",
+      "mood_params": [
+        0.0037649009118549655,
+        0.030061715699709002,
+        0.08340420591903402,
+        0.12083091611075249,
+        0.08233832908439333,
+        0.1331979091780547,
+        0.09797237767116194,
+        0.016431800606912468,
+        0.1582945297022933,
+        0.03358227079707723,
+        0.05180979076670999,
+        0.023560275617859693
+      ],
+      "popularity": 0.35490937035907494,
+      "num_google_reviews": 618,
+      "top_cats": [
+        "food",
+        "architecture",
+        "art",
+        "friends"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.8711433766471139,
+        -0.6398755238971923,
+        0.3727154939121041,
+        0.3230925383657048,
+        -0.1359973903611651,
+        -0.36051324721796363,
+        -0.43831961846988315,
+        -0.03628736883111205,
+        -0.4713909201255848,
+        -0.22840512555661333,
+        -0.3363876665335169,
+        0.8899213731372749,
+        0.22312992247479946,
+        -0.46331787607278846,
+        -0.9099203156874278,
+        -0.014673461419863056,
+        0.019895703224690413,
+        -0.008652251962049823,
+        -0.2067546198186109,
+        -0.5792466897882348,
+        -0.2710966430565068,
+        0.1349302069501541,
+        -1.1796453255700234,
+        0.028782812109988034,
+        -0.6874262762361997,
+        0.02635660647080723,
+        -0.34255112632431306,
+        -0.35305130880542973,
+        0.011013184579365624,
+        -0.191343407778509
+      ],
+      "global_mood_params": [
+        -0.4851282710618354,
+        -0.6131344730663685,
+        0.36945203509926966,
+        -0.08000360243516196,
+        0.5267674264306429,
+        -0.25826875158785084,
+        -0.2901136290772073,
+        -0.5247736035847588,
+        0.48264037118655523,
+        -0.3939883383771369,
+        -0.9215553336610018,
+        -0.18105187394822708
+      ]
+    },
+    {
+      "name": "MAM - Mus\u00e9e des Arts de la Marionnette",
+      "orig_name": "MAM - Mus\u00e9e des Arts de la Marionnette",
+      "place_id": "ChIJxzTjnKrr9EcRQSvpMtbwuUY",
+      "cat_params": [
+        0.12227414342726936,
+        0.0815374351598307,
+        0.3672332521327962,
+        0.42478315215213186,
+        0.09063850787312609,
+        0.15799653419199025,
+        0.21927705735062636,
+        0.32331894403711214,
+        0.1707982294265513,
+        0.25805409781889266,
+        0.08866644896154477,
+        0.03407900539956702,
+        0.1256663497990167,
+        0.10198202123133109,
+        0.2195145231405558,
+        0.3144374503779193,
+        0.37680998427767953,
+        0.2751573262396362,
+        0.08855645812422389,
+        0.11899301036412228,
+        0.2810015054095446,
+        0.15788459294714258,
+        0.3682285281464197,
+        0.0859500240215971,
+        0.01770883828450824,
+        0.27585139115012985,
+        0.12652087515797095,
+        0.20446874543134388,
+        0.11667908351185023,
+        0.1272171931761047
+      ],
+      "noncat_params": [],
+      "quote": "Puppetry museum in a Renaissance building offering marionette shows, exhibits & hands-on activities.",
+      "phone": "04 78 42 03 61",
+      "int_phone": "+33 4 78 42 03 61",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.7639348,
+        "lng": 4.8275291
+      },
+      "address": "1 Place du Petit Coll\u00e8ge, 69005 Lyon, France",
+      "photos": [
+        {
+          "height": 565,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117915608518444022880\">MAM - Mus\u00e9e des Arts de la Marionnette</a>"
+          ],
+          "photo_reference": "CmRaAAAA1iVNZBKZKldDGuMODgBOwIQ7GMAwsKuuq3CQkG5ccb9yAbIOtf2lzD7vtwZbydiFBJtDLzXGOiYV0YQmTJTq_12RfZQdkMUR_OOVt_G8RgW4suhtTA_dGRSmO8aBOtCzEhAZPzs1pKa_EAiPRDALHzYkGhTbEh16xKDdnbxHIr6WXMpggSuvrw",
+          "width": 1024
+        },
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117915608518444022880\">MAM - Mus\u00e9e des Arts de la Marionnette</a>"
+          ],
+          "photo_reference": "CmRaAAAABmYCzn071XF-Xhrob_jbuNv0QhgRMViNnZvziMXnbObdEa_Lb-9v8xC2wHCUhfb7GBBLTXLT25LhFT5EgdqzoWXzOgDHDDGCX-mJcMVcp90wCxedGWOWdOR_3o45piLBEhBC0KW8329e3XdOKe6TzURiGhRO9nfyxcxIvXnFEyS69PvWFipPMA",
+          "width": 1200
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112186083465357239883\">Delphine Guillaume</a>"
+          ],
+          "photo_reference": "CmRaAAAAcJq0OwijMdQHaNNPQ6EUogXkKS3aZA_kMuYhwk36WOo_S7zSt86ojR4wHA7I9-iMLQ8Z_xwyoHMuMqjtsNx7vXWU0tarATJhKD2w5oJqnJ4t6SmyD039xBm1G9UoLWMWEhCjnuwr0d5F1cTSOqJVXZ3tGhQd5KG5Syg7jXpO_PoewhU75PzjIQ",
+          "width": 4096
+        },
+        {
+          "height": 1216,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117580105885820972976\">Thierry Becker</a>"
+          ],
+          "photo_reference": "CmRaAAAAX8_ztf7fVjWK62iXihELo3Pn5kCS_FIVZHWy-CphlqxEL2LKrEGZ_a1D4YnKjdyG99qKB3XBx9KDfafSFvS19kkZXZb0d-UYnxe5a5NILkb3m5UNMpyApY8Q_bB3H-8LEhCxq7a2jUBaekUp14CEdXScGhQEo7IbitrquH3Gm7pMi2qdDHovlQ",
+          "width": 1280
+        },
+        {
+          "height": 1248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117580105885820972976\">Thierry Becker</a>"
+          ],
+          "photo_reference": "CmRaAAAAQIIfytp4EZma7sPit4rXtzuMvc1H0NeY4XPhUcjRSDrL0CiqlB0I-Xo4J_6qSvvXiBTXqewp6Z0s4u0tGhnSv2M90kqPXWhZb3VQm4Vz55ZYlZq5c5pke9BVHTMrQwtVEhDpGSGIyfyML49ZKxa5gJiiGhRm7d-pP7o1vVvbqab2vQ3WpPCpbQ",
+          "width": 992
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101794888451516255296\">Let\u2019s go</a>"
+          ],
+          "photo_reference": "CmRaAAAAvZMgiXWlqaOS2fyu4HKLv6Jc6qarevyDQ60EX87aEMuR0I65tt4TsY9ArTcuVEg84mZC0LNcWbcTm1EKK_U2TbL_wLbPPkY1n_TGbaRBx7-FZSRaFB1IM2rO-I0JO62qEhCSuLdfCq380MLpGJa5Qgm_GhRES7pLMoJuhRNurB24boUbD9VwTQ",
+          "width": 3872
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108320550258024779319\">Herv\u00e9 LEGROS</a>"
+          ],
+          "photo_reference": "CmRaAAAAKsVMSqyrwGfTwyS0937rBiVPAuTk59qNC4mQzFOR55R_DZWrZWg7Mlm4oU73w8sW-019hKrXPU6yUCU5NcM6BFgHwQJ6WNiFCINU1SjQLMrusAARLthQ1UuuGQ5L5OMtEhDEyoDJYbKeZmou1-CNwKyxGhQlMYEtZQO6bdG_XVPsGvoXcJFgkg",
+          "width": 5312
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110353036587312366714\">Jacques Meynier</a>"
+          ],
+          "photo_reference": "CmRaAAAA5zpAh29DQx3rfpfpb6_aCpwjbwehTyZZm6Kk9Hx-c8IuHepBp9BSyBdeIsO8lsyZBn_bdhdtqrkGIvihbKLxVt7OyoddWZL-9UgvzlX2UN-bNgYwHCJI_mtEJKyhrDlkEhBqaWOUI3kKIV2oU58n2S1YGhQOykHyom3yDgsW0zVjsrMJBpuUlw",
+          "width": 2976
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101830487284276794378\">Gabriel McCarthy</a>"
+          ],
+          "photo_reference": "CmRaAAAAC3mGVNbiM10WfiVZH6b4r371ZhHUueCZL8_xOZFUI7Cbt_49PfZX-8hdnOijPwXem1LGezqDbzla5SJA0MgKPvTAVVIvGnyYIzcsiv-RhdrtcImPMIvUUGTWSM_st7rjEhCTNabJq31LZw3sa8FTg6CaGhR9fdMXCFgvJkOPvB6MTPMuPqriaw",
+          "width": 720
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103250085586606827813\">\uae40\uc5f0\uaddc</a>"
+          ],
+          "photo_reference": "CmRaAAAAw5572WhDRQDQ3Y2XAqcPqYrpq2mE86pqyAaO1g9rLkBxKdh_2EaaqgAlyt5mNszIdeYztDPDFW-lyPSE1J07QM2nn4ZGe9gYaxGMpKdnuEB4ZZUjz52O-he55SQbvzpaEhB8dkwQGEM1VmKQEu7QDJAkGhTUklljcaPSYwfIRXifzA8gtx9ptw",
+          "width": 3024
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.gadagne.musees.lyon.fr/index.php/marionnettes_fr",
+      "mood_params": [
+        0.03558682813529607,
+        0.07206413143136328,
+        0.13200885564298515,
+        0.2693462344452297,
+        0.21672380442520367,
+        0.19065001602063944,
+        0.0809707168727714,
+        0.019732295479421874,
+        0.19486731628788823,
+        0.07884724716854677,
+        0.03967514092898137,
+        0.04131259768220549
+      ],
+      "popularity": 0.23460693667361768,
+      "num_google_reviews": 118,
+      "top_cats": [
+        "hospitality",
+        "architecture",
+        "art",
+        "original"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.47251507691878913,
+        -0.36727700180935546,
+        1.40073164938674,
+        1.3828672939084348,
+        -1.3213932339926628,
+        0.1716632231269771,
+        -1.9050156950990353,
+        1.2458442184025749,
+        -0.5301068309778135,
+        -0.6730640790198694,
+        0.04762982835022623,
+        -1.0144773789318038,
+        -1.3816328376869298,
+        -0.7623565216981711,
+        -0.7679383709270455,
+        1.6871992238144367,
+        -0.5010132849638963,
+        -0.19626260723334107,
+        -0.9859155180912634,
+        -0.3319550361179146,
+        -1.2513193667856493,
+        -0.9514157250062822,
+        1.2536030385447179,
+        -0.7673966029726885,
+        -0.283536654559204,
+        -0.5837088961096775,
+        -1.533523235830158,
+        -1.402990986829432,
+        -1.1018077085015292,
+        -1.3925108017320786
+      ],
+      "global_mood_params": [
+        1.6559104509910938,
+        0.6452165753382225,
+        1.2445606420273163,
+        2.2095763012102303,
+        3.4761584028931067,
+        0.46419246856600255,
+        -0.6118633086070808,
+        -0.39316395982561964,
+        0.9664502359525831,
+        1.3651524265636652,
+        -1.202353592270578,
+        0.9041985791032501
+      ]
+    },
+    {
+      "name": "Mur des Canuts",
+      "orig_name": "Mur des Canuts",
+      "place_id": "ChIJAeNbJBzr9EcRk8M_tMV1AW4",
+      "cat_params": [
+        0.09242108578716332,
+        0.06813832709900618,
+        0.20264013304634887,
+        0.34912803183172475,
+        0.16163504602905185,
+        0.12696274514949718,
+        0.3091501101518597,
+        0.14314099585046355,
+        0.19701786149357683,
+        0.24060913035750753,
+        0.06053989633811812,
+        0.03375419307380546,
+        0.16533637059849965,
+        0.11557808058704025,
+        0.2538611204074451,
+        0.08776774535041161,
+        0.40203535174176813,
+        0.20317892341811358,
+        0.11318071811215885,
+        0.11816211558831835,
+        0.38578212348825464,
+        0.14500099560882998,
+        0.22329588224064847,
+        0.10967881887219508,
+        0.02042003662116835,
+        0.2703888830501133,
+        0.17568868856268008,
+        0.2927666713916957,
+        0.1414448182919869,
+        0.19083820763258474
+      ],
+      "noncat_params": [],
+      "quote": "Huge fresco of a neighborhood of silk workers who rebelled against working conditions in the 1800s.",
+      "phone": "04 78 50 44 57",
+      "int_phone": "+33 4 78 50 44 57",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.7780849,
+        "lng": 4.8279521
+      },
+      "address": "36 Boulevard des Canuts, 69004 Lyon, France",
+      "photos": [
+        {
+          "height": 3200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100495112379612770954\">Daniel Tondini</a>"
+          ],
+          "photo_reference": "CmRaAAAAgy77tKYVE7bx4TkE82I9-TjqhqinxefmM0OPKfBFXdk_l_h7nffVi_8_C1uyIeapNU-BAAvzVtu4QLZ3l_nXLqSxjEQPVKc_hPVsvNRC95RX878jEbvX2nqN6OEYuxqSEhDfkGPcxwAK_NlgEmAe-6s4GhQ4dXsEZGtmtI70yRHlVV2UjRM6jg",
+          "width": 3584
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103895940396163680225\">MICHAEL SOLITERMAN</a>"
+          ],
+          "photo_reference": "CmRaAAAA_hbH3wJBqy_lEpHKBNnG-j6lo5hR1gweW3Sxe34FRVmy02DadJQZwWD0ijfLp_G5mSO-lv4A5w-Ivdu-wi66vRjMafKw3CL3y9yePWGW3dTEx0sHKB61oBSZzrzy31QYEhA1advaxIiSHv1zuNh4ns3yGhRffvhr2GG9nxy5GIOJJ-xFhg_MHg",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108249413335919074720\">nathalie naud</a>"
+          ],
+          "photo_reference": "CmRaAAAAo5HWrvjR-J0FdTYoVsJtrfyeRpTUDml8rWDm-_Osclsu5Z2djXF0w4eZ962IX_ptSdOhPfAXW_JFcViOTi0JNt8kOMEofDsTFpCClghheGQViCSUBAH2rbGIpWg0Z7R5EhDmde4oBDqJL8Y0sVwoRHgrGhRWdbfTbFePsRHOIHfY_IxYvIseSA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108171287616123933931\">Fina Canal Casoliva</a>"
+          ],
+          "photo_reference": "CmRaAAAAq2bbHDDUTZLIcPVQsSh4B0IWPog0GmTg95gyaWVhbpQbjFgbK9O4lLTmB0gMzl9YqAQYD7oQeyd-YIovk_9CHprgMh_Kj8vmTBZ3l5jqIs6M9-VDrqLVnoJW3ySg4C7rEhAFaTUQZml0bo8zqTsw8YTXGhTFiCWBTwGrnk3rNHIWxEipefj6qg",
+          "width": 4608
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105924096011379007296\">Patrycja Sujka-Szrajber</a>"
+          ],
+          "photo_reference": "CmRaAAAA2hXUJo7IyS-FTRdXtiOlxEQ20BlgN-aE7htG2eOaxmZafGWK9JFMCMQ91BGIfPw6LebetFUUHkgtpLqk5D7bopHIakrefiMo31DgL8dPeRML5yuXhEnknM17tcuB7lNNEhCzBxYjDCnrpz25xsaGWplHGhQ2yt0gkU0o3tiXblMHMatIl4j-qA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116081691250083411936\">\u05e0\u05d7\u05de\u05df \u05db\u05d4\u05df</a>"
+          ],
+          "photo_reference": "CmRaAAAAo9i7JbKbaMnmkjtttdJX4rikJvyaQqvnJts5VFYRUONm29IUXUBcTQXAzXabj6WH4ZF-rJynfChmaifmJ0YbD0F3eJKIaE2SG6Qkkzc-9ufy4OuVCP3KfljInWLVUacOEhA-fPqBlGlLDvIV0zWJd1xzGhRWnlepOSNSVXWrYWBiPMx6kE1_GA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114177837846699183006\">Ilderson Fran\u00e7a</a>"
+          ],
+          "photo_reference": "CmRaAAAAFvCaKAqtG_2V-6OFaEsMWozu4KwYblt0668O2-oVCaYEfzYHVYP-I6xerfxi0PieDmo8CIbX-zLYZr7-hjzwZ7re44XYBEifD6LYbrscOb8Pp1b0FPIaYVGLJPIEF1PKEhAtglfhTH28rerFrg5EyltiGhR2gv9NlN48rOD9d5R3cncoOmiq2w",
+          "width": 4032
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111465240778507758070\">Jesus Gonzalez</a>"
+          ],
+          "photo_reference": "CmRaAAAAWzucNQF5HLCrl5M-4pB5Ku3cXJdqf0dRweWbHbrQhhexvwZaVcJTN9uVcO5QWktRWIhle7u0j697jUIDywWveR0XiCXzeN6ly_wWxOsY-XkmFKbTS2M3v3aysg-PqqVsEhBhFz5fOf0v9lPtd17hR_u6GhSufG1_uo084nai802msrCKhsUWpw",
+          "width": 4096
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103222705003648552341\">Tristan</a>"
+          ],
+          "photo_reference": "CmRaAAAAkkiQ1m--1sFRPvj1rYBEEe1NUNeBrg9_59yBjKsg1r3CM5fFJyoSELoVvKjCa2yGA4mf_-gqn7rK7ahBRayvec3CNWV5e6Xix44k0cEXmWnoY5x2lXsliWO30GWfPmdfEhBpFWTLb7Bazm3UrFVsRkd9GhS1tZWcI6RlOAQU5fI6qiu9Qdqc3A",
+          "width": 4608
+        },
+        {
+          "height": 1224,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102524620239747898929\">M. B.</a>"
+          ],
+          "photo_reference": "CmRaAAAAju8-YPu9k7f9D-wrtGq5FCzt9myYfeK5HAWii5GSbfs_Oiw1XsIlAym87f75CHRwGUpcLF_5wyW4ScM89siRtNczLhBd7Kn2bby2NbVGdcTd7O1cHQbyBFKD5nVQ8SoaEhBUenasCcseGUELBFRwbZB-GhQhJjdLO2fhyjbaVi0HjMD5-HFu7g",
+          "width": 1632
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.citecreation.fr/",
+      "mood_params": [
+        0.00807285828813329,
+        0.040312951030013915,
+        0.030097998825242438,
+        0.12051411946721265,
+        0.04809120068303243,
+        0.10711419459175643,
+        0.11306507760643589,
+        0.023033650486741337,
+        0.08573262661025041,
+        0.03927752580619656,
+        0.07200313833426551,
+        0.013464958797491142
+      ],
+      "popularity": 0.5132534277128911,
+      "num_google_reviews": 2703,
+      "top_cats": [
+        "art",
+        "engineering",
+        "science",
+        "architecture"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.8347350481799832,
+        -0.527486340543796,
+        -0.21613056157160784,
+        0.8422190950464474,
+        -0.8834620803911415,
+        -0.24234828791738802,
+        -0.9486015144693727,
+        -0.7551776883657525,
+        -0.14208177946272418,
+        -0.858550119385776,
+        -0.5308344659636304,
+        -1.017562182798055,
+        -0.9529510252323548,
+        -0.6624522947239816,
+        -0.39445310309304693,
+        -0.9675307945834221,
+        -0.3641393778382218,
+        -0.9491294312112797,
+        -0.6715971562816317,
+        -0.3485113418297539,
+        -0.7403034322384745,
+        -1.077279009589603,
+        -0.3804874960095181,
+        -0.5460441271636225,
+        -0.20547496599668078,
+        -0.6242266592806899,
+        -1.0728250517882434,
+        -0.8293733585217337,
+        -0.952311113417248,
+        -0.9550442168456723
+      ],
+      "global_mood_params": [
+        -0.19528084947729066,
+        -0.3060175489412209,
+        -0.5903063603506749,
+        -0.08488748402209419,
+        -0.22486269743923137,
+        -0.5862719058985296,
+        -0.004490275864876946,
+        -0.2615200175626775,
+        -0.47725817086094324,
+        -0.17265263787757967,
+        -0.45427717497547077,
+        -0.7982075966357599
+      ]
+    },
+    {
+      "name": "Halles de Lyon Paul Bocuse",
+      "orig_name": "Halles de Lyon Paul Bocuse",
+      "place_id": "ChIJDfzANGbr9EcRXYrqglrkJa4",
+      "cat_params": [
+        0.12862838818614872,
+        0.1276900650139845,
+        0.11333162028777223,
+        0.09900716204814886,
+        0.16113470433285446,
+        0.07934868229317758,
+        0.31240273293016707,
+        0.1268256193739876,
+        0.1179014152729125,
+        0.2438699455734169,
+        0.08673863694739445,
+        0.4125081717991014,
+        0.20480483624304796,
+        0.07673314651706047,
+        0.17320116850430153,
+        0.13859333347769565,
+        0.33678657954371505,
+        0.16512475163308157,
+        0.11024242868959779,
+        0.09433304027842514,
+        0.3464115116748354,
+        0.25599424576059415,
+        0.275817960614122,
+        0.1136280775338705,
+        0.008523298807417666,
+        0.4894907396482167,
+        0.21381642010411758,
+        0.26451379457096313,
+        0.16823457276368767,
+        0.1721950554745021
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "04 78 62 39 33",
+      "int_phone": "+33 4 78 62 39 33",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.7633439,
+        "lng": 4.8504558
+      },
+      "address": "102 Cours Lafayette, 69003 Lyon, France",
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111296886494254063008\">Katia Emi</a>"
+          ],
+          "photo_reference": "CmRaAAAA0FI2xrr49fybwvrMolw_rjgBujWzvSpXgMKv19c4mUuY9G72gMaozOZHmUHobsrh8F8z44RfX_1jkjzYerGKI6SrIV5VpGN77ScXf5pOKvSMal2t4BieAryGBOXL71dvEhCW7JZ0PIeF8xJNq4EPRCnnGhQHZKb7GAsRZuHY6t2oDOOpYy1Q8w",
+          "width": 1200
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102830564535807748651\">Taisiia Berg</a>"
+          ],
+          "photo_reference": "CmRaAAAAXKCNygIk42Z4p8MAWnTIpWqiPMFgxesAI9_8DJbUOkQQNRjlYrVhk9ME3TPaZHsUX69o3Twai_Fb3IeBGkpdH4M2dDZziHQEuc22Ab_MY6s5qLO4dBHmJtSpsjQzvqckEhA6hz3DegZ3tWyWUBIwrLKRGhR8O1o9Q77b6pMFLrXkygbU2gibrQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104827652854719320609\">Seth Galentine</a>"
+          ],
+          "photo_reference": "CmRaAAAA6h_0eI1LQpZ9L955vxRzfbDM8jrjrILn0Hs9DuJDdkxHx8TXe1dbMdrGijXvui93u-XdRr9dfWYQ-PAOAyuKEP-vlOOFxNb6ztUPX9JChYSGAU_Nr43ZtTOog2o0zhXlEhAdj9amrrdynnKdLheEY_SQGhTUpsL_47ZNJTpaW4gUC3OZrgaV6w",
+          "width": 4032
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104770228901619800286\">Philippe Allard</a>"
+          ],
+          "photo_reference": "CmRaAAAAtzcXj1Aak5EaObeyo0xNbCC6q7X2DuAbosVVz4jrecp8cuYW_mVyjEIzt1CYbDL2pqy7_aYQ94sVD05S_gAc08dyiZMOG_Um56Opll0ma_rTH-wX1ZPaQ5QZlbrbfd7hEhDnDWFo55_wPvpVAZKID2grGhSOe7yfsV8uYSg9E9U778d9sWyHbw",
+          "width": 3648
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111296886494254063008\">Katia Emi</a>"
+          ],
+          "photo_reference": "CmRaAAAApVaXXA-cCM_xDkeMOC1OXU8tgpvgfqRy64n2EAXlOv7dkmG8ka5Xe-64EuUKXxkOw6GjSjfopGo2MUpuzkv_htjv-2UvhIMsSNkJ7puN49kCwTLAyY0fSIQzz5k83SfOEhDpqJg-SpDAqiqyprcJykyxGhQFBiAxLTza5VqRFh8h_CfYBBSPZw",
+          "width": 1600
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105944988221618168867\">Guy Clouth</a>"
+          ],
+          "photo_reference": "CmRaAAAApBZOaQGSOCJMQYos5Jr-EJnEGQuCDCxw6Et1ZkjXC2mte8bolK5YnCbAvfi9RJzCOO7aLxJsqkhsGwoQ9gM8x5JhxvTPCSg1GZLE4-7eWSjLl0lqqINarckHydm0udXQEhDCYDDzgJoxz3cGLYFZypn0GhQBbJyaB5mEk9Mh53JbfxPjuXj4hA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108815597953666382555\">sebastien agnolin</a>"
+          ],
+          "photo_reference": "CmRaAAAAAfGUfjrwwPQ8NJ4NVmRU8XDywy3JueixL7g4-eYfpj_Dp_XQnzDDAu5c47EFxnqUYjX6FXlNjbM0_1cVoiwQrMuqxzfwWZhKHDmqvnsGWt2JOYg-w5QcRP_gR65fLIG_EhBwN94uCv3l1jtjrv54eXZIGhTJtmBBmJU5RLikBc2WsxsxUt19aw",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107349701246116457266\">RunninGus</a>"
+          ],
+          "photo_reference": "CmRaAAAA8I0EB85UZvVer84-3JXT7TzIHCukAms6xy-_zn2sboiPrPJJ5gPtzw9zfb4OweVWqZ2Hx2NodBpmRQTmXATmpzU2eLgMrgKjv8IZaHoknIPLJNFAeqkA8H05HXDQ2Ee1EhBszd7E4Whmk63GydgIYreEGhRqiMmXrmfXyacYIbkUVEHvyYiFMA",
+          "width": 4160
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118383587697529821811\">\uae40\uacbd\ubaa8</a>"
+          ],
+          "photo_reference": "CmRaAAAAC6PPaY3nEhks8HdrfshFLH9ig7eS8iMAE38a3VtzSUGw-HlOyq39jBrZQ6IW_R3lSwzyDi9NfblJBg6542apmwbSlgniLyFaeCm54sk7wz02NyqlACFeI_usj62qPeitEhCeI0E4EhKGKi4qcQxybbzEGhSAKnW-7uulU-w4iIUwu0_DXVHYIQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103279916312607472748\">Lars Povlsen</a>"
+          ],
+          "photo_reference": "CmRaAAAA3rrZXeRZ6qGHrgK1xJlShLWw57cFdmAV-UyigI-rzXtMl_FHjY7VBGzumAhWdnNPrnIJK8TatdgQ_Dk0Ef2iQrLCydbi-_y4Pz9eYwsdq-wWgIEJdWK9bPI4zMsER8K1EhDfJcQ093yM4FbnFtpIGFjkGhRlsTJtmTaSHStyu88-JmNVjGli8w",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.halles-de-lyon-paulbocuse.com/",
+      "mood_params": [
+        0.0033324443288359007,
+        0.03305594604136729,
+        0.02627914526838013,
+        0.0682831154546692,
+        0.04102999609278808,
+        0.09354019011296805,
+        0.09021526535021508,
+        0.0114144468201738,
+        0.07078977013430185,
+        0.03191413938294372,
+        0.07582048978739972,
+        0.019309493331103284
+      ],
+      "popularity": 0.5682008190514727,
+      "num_google_reviews": 4060,
+      "top_cats": [
+        "food",
+        "shopping",
+        "original",
+        "animals"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.39541629589289695,
+        0.1845569170025791,
+        -1.0934428100890732,
+        -0.9451998816676499,
+        -0.8865483606789132,
+        -0.8775517457714873,
+        -0.9139876402050559,
+        -0.9363731458297324,
+        -1.3129282292522353,
+        -0.8238790485395421,
+        0.007981513419287526,
+        2.579535726557498,
+        -0.5264472562318953,
+        -0.9478859640389877,
+        -1.2715502870130488,
+        -0.37226723923599525,
+        -0.7181819660627452,
+        -1.3471616509862543,
+        -0.7091031896923606,
+        -0.823326525592722,
+        -0.9323142292583516,
+        0.007043533551044926,
+        0.21168986050551428,
+        -0.5092037318600985,
+        -0.5480096413723776,
+        1.0009456925816733,
+        -0.7155714855538837,
+        -1.0129150217999319,
+        -0.7905966675419998,
+        -1.0832370187962448
+      ],
+      "global_mood_params": [
+        -0.5142247580014593,
+        -0.5234302781061958,
+        -0.6590633956382099,
+        -0.8901044708989265,
+        -0.37983668587514885,
+        -0.7569652429590671,
+        -0.43691389952950066,
+        -0.7248442505614606,
+        -0.6749325086893424,
+        -0.4588172239110351,
+        -0.3659428880471336,
+        -0.44091440831440876
+      ]
+    },
+    {
+      "name": "Place des Jacobins",
+      "orig_name": "Place des Jacobins",
+      "place_id": "ChIJx68uPFTq9EcRWCIN5MRtpzo",
+      "cat_params": [
+        0.12091794132659833,
+        0.051273474948757676,
+        0.18459769087353825,
+        0.2172266832736306,
+        0.36049911462637624,
+        0.06786631100212723,
+        0.4084576861114008,
+        0.2202060208863105,
+        0.16286263639396037,
+        0.3291302767258805,
+        0.09674253324954711,
+        0.26458387724472443,
+        0.30370159372140715,
+        0.16829866564850285,
+        0.18055596666360083,
+        0.2350300497383822,
+        0.5988383287151156,
+        0.2759041342979543,
+        0.1404037248177276,
+        0.1024912757455239,
+        0.5556462218410636,
+        0.3114197667372225,
+        0.17015083840371847,
+        0.22085167425781313,
+        0.003970549439023681,
+        0.45166489907377705,
+        0.2829583425433778,
+        0.46900219794919773,
+        0.3952675685486273,
+        0.3898486730139291
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "04 12 34 56 78",
+      "int_phone": "+33 4 12 34 56 78",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.7605019,
+        "lng": 4.8335482
+      },
+      "address": "Place des Jacobins, 69002 Lyon, France",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104160694971984239369\">Alena V.</a>"
+          ],
+          "photo_reference": "CmRaAAAA7b9UpFSA2PEgqpj2_bPAM6fhH5jYL-BzdnPxeGGBOoMmCZ3dTpp6U13uW-96Bv_YcSjuMjSMnco19uzSPboJ9no1vswHgE4Og_v7ArXiBCQ7ni1DIUdVp2Qef21Vy24UEhBgOWPWOajZjWM9AQI64DXtGhR44z5vGMOO564xwpL9dia1-Rf0Gw",
+          "width": 4128
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117283655540206873992\">Chris Shaw</a>"
+          ],
+          "photo_reference": "CmRaAAAAIRCirPB6RvMRcO9-ozmnao6qwclPmQQhlMg7A6Mrs-9sjNLyuEXnIE-W_nd5iAUsd5QpBTVbWyK4IiM5QiET3TMRCCnZBH3a3kreLDWolyBkEyuVIUzj_G0l-Sa8M_INEhDrw_4ayEiTKTeWrUxQH01AGhSXTZqdk2XKm3xQUhbklgWRvhRsuA",
+          "width": 4032
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100284645837148400248\">Teresa De Vito</a>"
+          ],
+          "photo_reference": "CmRaAAAA67H9Ziy61gVewSb4EO0rw4uFNd5e6V-F9M1_NS1gIjrhfXSQs_sgPF9dRwDP6FMrnvxz-QZkQKbPXlPlu1j-pUqCT9y1HMepDOvly0aS7nufo7PdZkdmbRT50CQIw6ctEhA-vKgtdDV7xXMX61MNaVJFGhSrRDBdeu_jVRmPqWLsAO21AS8VuQ",
+          "width": 3968
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115433390128069962409\">Rom\u00e9o Crugnale</a>"
+          ],
+          "photo_reference": "CmRaAAAAQFHpxuB8XefaK5kVMIc3PBi3PZW2nd-BLfDpE3MkvrnB7WpRvX5fftYh92XXclhtO5YsbX4BtUNUfgO1bO5h0VdEYTylUrTpN78LMuWTA-jfYJTePifT2OvEo0B8LOI5EhApDh49lDhMXIYj7Acx3zSFGhTWVLqW2R6iWFPpUF24iH_6843WGg",
+          "width": 2976
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109366173377313476686\">maurizio moro</a>"
+          ],
+          "photo_reference": "CmRaAAAAv3fJs9aIc6SNCrHKKaSY-cQlWxqf98_jR7JQ1feiE0Ad9eKHLWFFRd9w3rEm5g7wOGV9SeBU3CviG9KozfwL0MwsLG9Tbp_XYN9f00H_33rOEW8S4X4_jYzuTpbE9eSwEhDU9iU38DhGizDpdX2tWL1oGhSNBPqnZisAt_r-q4yevGK7eYGZqA",
+          "width": 1920
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108727350936711709960\">Cyrille Tichy</a>"
+          ],
+          "photo_reference": "CmRaAAAAY0YydSCUCjCli5zxTzHVtOqZIZnYkSPPtQ8pnpn6bdzG8xfOsmuLryrt0PEVbmP4ADT-qzVrWGwPOWqtzPfDFu0Gn14ztrmJ-tSZnZCMIGAz-_h4mLYGMirWZJNDRvEREhAcAHArbnJnxXidGqeUMp03GhQPr9ne-1KTml0zWyc-_bCB1TRBlA",
+          "width": 4032
+        },
+        {
+          "height": 2764,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111080101344098227337\">pascal baillat</a>"
+          ],
+          "photo_reference": "CmRaAAAAJdmbRaqZYcjribjrVXyoaLRrpaSFJItWjSy9Egb4SQ9qYqzojnV7J-DLlXtCqxCy95qJCXQu3BDNlu9uDK8ODi6cgM2zeKO_eefYaWVDuE1GBISNy3_oU5VGjlhAvQ51EhC_bpeDrGj405dyluptA4LXGhSaKijzWH4Ockvu3I9jg0gWsOybzg",
+          "width": 2736
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117985195210196073594\">Gabri Sangi</a>"
+          ],
+          "photo_reference": "CmRaAAAAc0HfjoguUqjF0f4K6r9USQLFL7FuctyWi_SKcda8ECCGSh4GxE-k0tSLmPc0t0GbjlrbKsS_DXZMnnoYFpg6gj86zYMEsNNRmZQDrjESUVnj88Zu8tFXzSy_0iwC11J4EhAJK12LzwPCRhZY-3f-vCWMGhT9sE9LJYIL_p4HlSEqqARTKpupDQ",
+          "width": 3968
+        },
+        {
+          "height": 2462,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106680379171009175615\">Jar-Jar BINKS</a>"
+          ],
+          "photo_reference": "CmRZAAAA9fC7oDCrP-Iedk9582w1tuQI1JqqLK9IccjhcpjL5f3WSB6J3Eq6sIcEvAV6-ExrHltBbRaDQDSB4B3k5PsaiIOZmWUUjoHQX2XcyYH6HrEJRsX8o9bgCXoQunq_pFMZEhAv9IJeZ9uKs3nUeNmBhk9xGhSTjd_3H4YQGiwnHK4KPJyyYFLQ9w",
+          "width": 3283
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117283655540206873992\">Chris Shaw</a>"
+          ],
+          "photo_reference": "CmRaAAAAU14pDjURmp0m2IrDdI1GdYNFKcM4rgn1yoZW8DkeMQSejck6YPlZD_9eodOooVj76Ln4e2hZ13GzddKmwjGCKIc8WePfBb2Fy70_XlXPykqD1MhHHvhFqxFcuJ1DZBvOEhATR_KBdF3eLZ1ua0Gmg7n2GhRCAUI03UOU_CQAT0I3sfuWHI9Jug",
+          "width": 4032
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://le-coin-vert-restaurant-lyon.eatbu.com/",
+      "mood_params": [
+        0.0030255317259599438,
+        0.03547645208747156,
+        0.13300110340277388,
+        0.16154318084287314,
+        0.11581920813339616,
+        0.17562295674537337,
+        0.10470484710652496,
+        0.015053031535769132,
+        0.2503645591730175,
+        0.024648334674220826,
+        0.060196895546314876,
+        0.01566748760672127
+      ],
+      "popularity": 0.6544645087693383,
+      "num_google_reviews": 7146,
+      "top_cats": [
+        "food",
+        "hospitality",
+        "shopping",
+        "instagram"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.48897045954162205,
+        -0.7291345994114952,
+        -0.393368486853873,
+        -0.10037707324178326,
+        0.3432001376940577,
+        -1.0307342618371538,
+        0.10821330300124342,
+        0.10069177232225855,
+        -0.6475458891386016,
+        0.08266326865092763,
+        0.21372648658723362,
+        1.1746708259293086,
+        0.5422499712284982,
+        -0.2750599512225732,
+        -1.191574132780182,
+        0.7571887041680551,
+        0.7037218705917409,
+        -0.18845127787693347,
+        -0.32410688142994215,
+        -0.6607665427937326,
+        0.08812516989639972,
+        0.5485101702888442,
+        -0.9796886804608061,
+        0.4910244191873388,
+        -0.6790938554976351,
+        0.7203752253021868,
+        -0.06771761727746228,
+        0.3155210845580011,
+        0.5798718504708206,
+        0.4133782987460081
+      ],
+      "global_mood_params": [
+        -0.5348744113813284,
+        -0.4509142985433935,
+        1.2624256932050908,
+        0.5476352445733574,
+        1.2615804878922945,
+        0.2752269427397859,
+        -0.1627043183657633,
+        -0.579753027364723,
+        1.7006057674787844,
+        -0.7411894745518083,
+        -0.7274760278398517,
+        -0.6635606823103007
+      ]
+    },
+    {
+      "name": "Statue de Louis XIV",
+      "orig_name": "Statue de Louis XIV",
+      "place_id": "ChIJ56abvlPq9EcRiOXG4Mr46D4",
+      "cat_params": [
+        0.03284920678049316,
+        0.01769124145644319,
+        0.23099106836717548,
+        0.2542146671552202,
+        0.06282716945369944,
+        0.07521958296635961,
+        0.14321748116004182,
+        0.1366398207606731,
+        0.10693443062725114,
+        0.12364976173501294,
+        0.062449505926638,
+        0.04092506124583909,
+        0.06191087776708767,
+        0.03383473141312444,
+        0.12763037608077846,
+        0.019957333479373535,
+        0.13767366565590794,
+        0.12096034412443342,
+        0.05483184038028826,
+        0.056163375534380416,
+        0.17076634752249145,
+        0.04611672196963732,
+        0.13258527561153477,
+        0.06682529735564452,
+        0.006299057729887362,
+        0.0750575175106741,
+        0.07118922191837428,
+        0.09243383208946791,
+        0.06656404391656123,
+        0.09632307091117903
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "04 72 10 30 30",
+      "int_phone": "+33 4 72 10 30 30",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.7578485,
+        "lng": 4.832187999999999
+      },
+      "address": "Place Bellecour, 69002 Lyon, France",
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115494924475386921854\">Joaquim Gallardo</a>"
+          ],
+          "photo_reference": "CmRaAAAA3ynPaKyV-nD0cjvsU2HYFJajAdHBMk9B_u7ZHdn1vpntFg-B-eTRmzw_nD1In_i3FBu8NVXgM-PiPNw9yHF0Gp--NsG44kgn5F2d0ArkYAjtwA6bBzw2kSD78cQjW3QqEhDcvAmluBdW6F-GHx3V_lmjGhRrwNO_mEQHHab2xnBh01C-kWXqnw",
+          "width": 4898
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117303471621403289036\">Martine Clevy</a>"
+          ],
+          "photo_reference": "CmRZAAAAxCEqObjJcAN_JlGgNzfZSJERalpuAj7lBdzcWm2KMvkUsjhZK-EdGp9EPOAFeH4UqXCO3Wz1l-w2Uj078i7rmju1FFUHXuWGe04upD3c0ACrf0jvUKrMm7HYiajVplMBEhADmbfDKXkaKIUlYI6Z_0trGhSPB6P77l---0Yt64SXIoWjFGOSSw",
+          "width": 5312
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112202539060833728339\">Jean Marc Monternier</a>"
+          ],
+          "photo_reference": "CmRaAAAAovZAjZ27Br36cT_sQz1OYrJb7YTiPsDR6zaXH10K3gbfdRdjikJ3oA2R7yiVHK94Bnfz4_s6s8s3jBrCdrf1rVNnMAFuk6mQyaT4IYaCN83GdMDPbKxg5odtlYq8GUMZEhD78LhOt3L90C78FJ_Fg1w_GhTMp8F-oBWPFSdVP1O6d69mkxSDyA",
+          "width": 3120
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110676901119546140462\">Francisca Figueroa</a>"
+          ],
+          "photo_reference": "CmRaAAAADfREtwh3JretviJJoZZUvdslRJ_PQx4EkZyzTHyJs449Pb9YzwVL0Udk_xL0aTrSUyh48pKDcdSptJ63cKpbC5XclKUyKlKrziNyiqU3BJacOHZVlmCHy2ndU2BCzhagEhC0XBkeeHAuB98iLKkP3LFYGhTrwqkOcnYwDHPb0KTZzAhvLrqG6A",
+          "width": 3024
+        },
+        {
+          "height": 2186,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101431524969862270169\">Suwannee Payne</a>"
+          ],
+          "photo_reference": "CmRaAAAAWuz5Ch2gpl6xVBNwteAl5XopOu9jw_UVZBuAue4ijAamPq14uoE19R5I9RtggXn4ugMozqmC4a86KCuLiNs4pQcZvWw_dm-vwpWXoFonp5gNOd1Z8UrtROV7lY6kUZLOEhCMO99b8wj5zkduhxTIAgxuGhTGmLS8Ci1y8_scLgTDm7UnTXN8qA",
+          "width": 3882
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101860678413538089340\">Anthony Buchert</a>"
+          ],
+          "photo_reference": "CmRaAAAAKMHpmeU3ziBLyIrk8M3YeRJ_VqWx3nFxcXdu_9D00zzsdm_tpDGTslrZKccK_3JYWw7S6Oatzo4EzPHQPxb1wmed6hQDTT0_p77i4AvqHhqDfe2gt4hX7BYsDvQdeUjxEhAHzR1tC8al8G0Xh_aHkxa7GhTbN19n-_R5pzYuuUgpKZDle90jVg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118039640203307688601\">Zahittin Ate\u015f</a>"
+          ],
+          "photo_reference": "CmRaAAAAS_4v_0D2kNXrbMrSMWmWitYvXLVlQg4U8heQOLovb89gNBD1REQCI2uXqPfhMz0tX1FSWMEqVzk8iZsiefmcAdFfRMdreLjOZWf11U6sLaq0GpuwrAaLSICtQea1GmvHEhC1aic1RsUIQKfmEu-5CJy4GhQxHyygzbm-7UTHBXnUD4TlUMmAYA",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101860678413538089340\">Anthony Buchert</a>"
+          ],
+          "photo_reference": "CmRaAAAAVgkJCjkL0CMQxwhTQ7OLBWj9zlyfaMnIhM1PQh6moGL5nzmvCGFRQuM-SFd3AIDjXJJuHqrHE4DrZ_9ULPz_GfLVldkY8sta2qRXTb1nsekicUEo1LvoKONXyUkfRv58EhAluwVK2NTybCUJgW6IuqbdGhR9irR0L9zV3YmhGA7752JLytSIVg",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101860678413538089340\">Anthony Buchert</a>"
+          ],
+          "photo_reference": "CmRaAAAA_qrOZCjbK_I2ZY-NXpaF-KV8tLVIcTeZ2c53pZTZrwuBmnCxhcvKAecUOHPFHCJMqUstFdWaVs0H8SWKsndeSucn7oxqsHz-8zENfJIiFoiFavsZNcseeiL8RJWnARIREhBXqj2_blFvEBJiGhPVKLaUGhSD3Esx_a9xIRM0tpsDjVdyyGdkyQ",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115314397427500721623\">Thomas Vivier</a>"
+          ],
+          "photo_reference": "CmRaAAAAp5WP0l01HHd81dY_B1-DnNCLzWxNoudz_M6A812EVSgLRMeHJeHCDyhYwc2kWaSqHyHaBUB_xt3jN5Ag3DcnncUtTeAiT-8xZf9v-Pfyck-sPWXnUHxiqwq4n_1LUtJZEhCQup6lJuJfIiuBaSKnMHBRGhSqFzGlzeiUGfoDxfl8YcIsAB1Wfg",
+          "width": 2736
+        }
+      ],
+      "rating": 4.3,
+      "website": "",
+      "mood_params": [
+        0.001377757315390159,
+        0.002802444564192939,
+        0.016017851942954617,
+        0.017682664335500763,
+        0.006298377624273012,
+        0.010921921201316666,
+        0.015251066599563191,
+        0.0,
+        0.011550871651218278,
+        0.007110034217724688,
+        0.019132005743576517,
+        0.003341462467297058
+      ],
+      "popularity": 0.15916784971216177,
+      "num_google_reviews": 25,
+      "top_cats": [
+        "art",
+        "architecture",
+        "fashion",
+        "science"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -1.5575462443363963,
+        -1.1306678504761345,
+        0.06237170036981063,
+        0.16394722867494416,
+        -1.4929431691524981,
+        -0.9326366936393565,
+        -2.714429139663355,
+        -0.8273784982058727,
+        -1.4752289347396215,
+        -2.1021368567932206,
+        -0.4915605109280578,
+        -0.9494590964708888,
+        -2.0705866308470418,
+        -1.2631047261266208,
+        -1.7670875736168277,
+        -1.76171868983886,
+        -1.798577029555899,
+        -1.8091046215235382,
+        -1.4163961338386462,
+        -1.583890506524456,
+        -1.7889371367561597,
+        -2.0433057447510374,
+        -1.4032339086616377,
+        -0.9458003366361193,
+        -0.6120507009785265,
+        -2.0730830937038265,
+        -2.0519760691440276,
+        -2.130813306321763,
+        -1.404323577645804,
+        -1.604942908886628
+      ],
+      "global_mood_params": [
+        -0.6457397525489446,
+        -1.4297954154099972,
+        -0.8438141583387627,
+        -1.6701841104746917,
+        -1.14210003203803,
+        -1.795891378922256,
+        -1.8555815938361222,
+        -1.1800036547536363,
+        -1.4585852226249463,
+        -1.422783540295062,
+        -1.6777259073832604,
+        -1.4170860137231622
+      ]
+    },
+    {
+      "name": "Museum of Printing and Graphic Communication",
+      "orig_name": "Museum of Printing and Graphic Communication",
+      "place_id": "ChIJcT6EU__q9EcRrLXW54NxXE0",
+      "cat_params": [
+        0.07535008004915549,
+        0.03656540319300653,
+        0.3326612724135619,
+        0.411866716016302,
+        0.1287748998439642,
+        0.27202424558378063,
+        0.324329444509211,
+        0.338195395873594,
+        0.1449602081360167,
+        0.23608291678641552,
+        0.05685214845929058,
+        0.056915740736007144,
+        0.17367963012210405,
+        0.05625733066277401,
+        0.41455166750638917,
+        0.1820074601039053,
+        0.4305251910913327,
+        0.333802735908079,
+        0.09932788494301008,
+        0.12962882585847507,
+        0.3138743320217162,
+        0.11901080817124107,
+        0.3308841102035806,
+        0.09779021475777806,
+        0.08003508510699202,
+        0.24176585905529938,
+        0.17485244259331412,
+        0.36003058390452786,
+        0.13174623723253243,
+        0.1497277739938924
+      ],
+      "noncat_params": [],
+      "quote": "Displays on the history of books & printing within a 15th-century mansion, including engravings.",
+      "phone": "04 78 37 65 98",
+      "int_phone": "+33 4 78 37 65 98",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.7642694,
+        "lng": 4.8346917
+      },
+      "address": "13 Rue de la Poulaillerie, 69002 Lyon, France",
+      "photos": [
+        {
+          "height": 857,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106775337748192460647\">Mus\u00e9e de l&#39;imprimerie et de la communication graphique</a>"
+          ],
+          "photo_reference": "CmRaAAAAry-nG_PXGFyEez5RzP26vDuavjvjnzvMlMcFavvJVGIWDrVRoHwIk2rEBMKEdkpSzmioB1PU9ybVuKnW-2K-kxvI5qzBEYrn9_tz4FR0ynWD1uadWl8ZW7WCWBuDZ57xEhBplRGBCGN1Awb2N7sxdNT2GhQYOC1ydyJI0moP7INU2g54qOxAcg",
+          "width": 1530
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107496485120388812524\">Ralitsa Berkovski-Varbanov</a>"
+          ],
+          "photo_reference": "CmRaAAAAwI48J6wzPHf5Y7KYLdzKaUOUo5I1fJUgLSPUaslsTPH2OM5YRgMtkH62ilCjy6ytv0UwCjHjKGCU36p1hqhCtAEoLjWbbC3UBceN1yH4X4hc6p63Rt0RpAam4Aq7KvS6EhDFgzEyEkoaK9YlkzieZRwtGhTUe7M1BsifCmnz0AHOYXMYvYGw1g",
+          "width": 4608
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102044489865725190618\">Karl Heinz Hemedinger</a>"
+          ],
+          "photo_reference": "CmRaAAAAhUOm0m6ebdtYShJ-80CGsJu1ImhMKCr99WPCnlxiIyzlLQ_s4rmDIBb-8iBMgdWlI-nLRvpuwz2FnOpohV5WaD0zIahg6golFLxJCm0ovDk1FgbW9c33CtoCRM98W9MgEhDgMklT47uztHS9ydiGFqHZGhSQAhUxNuuu5GzzdGMpdU4ZkSg8Lg",
+          "width": 5333
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117967823031241123237\">Ivan Ivan</a>"
+          ],
+          "photo_reference": "CmRaAAAAzZhSXeb3TaPlfDxFVpbtdGz6kolBAKBKUg3K5zs_U7n-Y94JjUp6ErJU2Gnt1ucc1IYVSsRzRw_NEuZSE4I5GkhiGlqx-6NkBDDgbV86lwlk190v_BkAchtQ8yz2r4mEEhCeTT4bEinEv3ZhJGo4U5srGhT3OGO4BUVTtZ9Xl_fnKI6FQ2vIKg",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115949869125700034707\">frank janeczek</a>"
+          ],
+          "photo_reference": "CmRaAAAABxn_QDZa-70EK_oZOQYbHMzUY5Sasioax76gr2OA4A2RY2qE4HhdQQdNHWkhL70KFpOqVyZ0PR8W1bRk8B164OS2WH6n-whkZIrQex4EFWter2gLgrO2Nu57diLs2werEhAAHY3MEzzDV4f7wPuHXqO3GhTAj8d-_JP7SNK8WUD3UaTr0mQOuw",
+          "width": 4032
+        },
+        {
+          "height": 3792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112160277311000879363\">\u8b1d\u5ead\u745c</a>"
+          ],
+          "photo_reference": "CmRaAAAA8UQk29EBBJZby_c_TUV0ZtY6eV0JjnrdgmbfIRd3K25ltDt2EXQShXe2EM8O3uZQ-Yf4-VOVJDjzJlb2p929KlXdw85pSuhNdEhNDBFj48pDqLnW0_WpadTK6tn5dvfrEhBKsMNOiN7aTEEvIKkg6HXkGhRYdOCx4mXEw_CDbyh_bmAVn2mPNA",
+          "width": 5056
+        },
+        {
+          "height": 2856,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117458426898574267752\">Christophe Rousselle</a>"
+          ],
+          "photo_reference": "CmRaAAAAVhhk6l_WdbaqFoi3BtsiZqSYLOQs67Odqay3M1FxCOAM4edx2o-5u9ujYrw_zVxSkM-49uhB2hvN3fKGSkNbODMnRDXj8p-EoZvx0f0rZtVKERiVb9xtbXzQI3GVoV0kEhBaZHBYSOQ5hvvnIVlWEy4WGhTYMJob0ERC_QGsaT5PS8ut7uobGw",
+          "width": 4272
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116180608395048921672\">Mathieu Capelier</a>"
+          ],
+          "photo_reference": "CmRaAAAANpLxkzFxnNvOXYNBdwoMtCsv21anKYPA54_R7uxFPGdxXGxXi1XGHCLZjwN-MEI6CTUUWlnig2Oc6lQN-Ut8YpjNP0itvqIAqhElULrKjDY7odjMJ3BWPfn2-iPk7UOfEhANyGpTs6gwcd2gZMtrtzlRGhQaP9ynM8zffVv-k5coQjlIj16klw",
+          "width": 3456
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117038693951314771441\">Ana Sanz Sacrist\u00e1n</a>"
+          ],
+          "photo_reference": "CmRaAAAACMtLCoNUxRtjaa1yFBlx7HKQpprqBgyEGxEO0qs5tr7cmkuknwJg3eeDwe1Jl2LZ128ekv4MNEHxfrOXhiEOQgYHJ-uMprhNJI9jtDIyLeFr2uPGrmMi0x-Tw7PoJXneEhBGjrOoQM51kV2oz1AQ8ENGGhSW_MCo-uFrqcJgZFyhG3cSOv-xKg",
+          "width": 4000
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108967579651268155026\">TROZZULA A</a>"
+          ],
+          "photo_reference": "CmRaAAAAW0VmpPbBtAM7YrPZQZbkVFsox6X66yodlAB9PgbJA4oIkWNstpjIJzscSTd9jHnlFEBTS3VREZ0xzddm8NCY5qyyn3-aEoLfGOVxitaBTS8240PY2vHyq7KObn5pq5OgEhAa0NIHpEo9f_EbnDSwc__uGhROHpv2mQ7lhZwQBA6H0h7S5yHl7Q",
+          "width": 2736
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.imprimerie.lyon.fr/imprimerie/",
+      "mood_params": [
+        0.010936165657732729,
+        0.10159434724380964,
+        0.04592619230367305,
+        0.23988902086190853,
+        0.04692160545274274,
+        0.19237928190363576,
+        0.11185012299607021,
+        0.09817800337730721,
+        0.10061887821745828,
+        0.04408336329147985,
+        0.15774049372371426,
+        0.01993418967761617
+      ],
+      "popularity": 0.32300690850766867,
+      "num_google_reviews": 424,
+      "top_cats": [
+        "books",
+        "science",
+        "culture",
+        "history"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.0418648933826307,
+        -0.9049948461794871,
+        1.0611176492614398,
+        1.2905635885811872,
+        -1.0861548045736227,
+        1.6928691909063285,
+        -0.7870655459071637,
+        1.411059253424213,
+        -0.912484414182589,
+        -0.9066757140600366,
+        -0.6066784736845277,
+        -0.7975926000268302,
+        -0.8627921712091614,
+        -1.0983428354801499,
+        1.3528976331470453,
+        0.13619411497601977,
+        -0.2095523086623565,
+        0.417146159663658,
+        -0.8484227677023355,
+        -0.12002710258524017,
+        -1.090998321534635,
+        -1.3311840542702014,
+        0.8325511803008137,
+        -0.6569461755486773,
+        1.5109805531789715,
+        -0.8365358927363926,
+        -1.0806606046188756,
+        -0.39240085269376623,
+        -1.0108559076020036,
+        -1.2377250442540475
+      ],
+      "global_mood_params": [
+        -0.00263217963381183,
+        1.5299127857802635,
+        -0.3053256347664845,
+        1.755450457532156,
+        -0.2505320907243432,
+        0.4859380164398696,
+        -0.027482809427568946,
+        2.734915940212084,
+        -0.28033264099735256,
+        0.014117472431614202,
+        1.5297026195048558,
+        -0.40272492579964936
+      ]
+    },
+    {
+      "name": "Church of Saint Nizier of Lyon",
+      "orig_name": "Church of Saint Nizier of Lyon",
+      "place_id": "ChIJrb5MRf_q9EcRAwetvRpsulc",
+      "cat_params": [
+        0.06508047623892037,
+        0.0415127102656533,
+        0.19454551157412772,
+        0.24566523012344693,
+        0.22754204963433042,
+        0.08859947054597334,
+        0.24452948371550523,
+        0.1548910757677188,
+        0.11982453850108275,
+        0.22064739401861286,
+        0.059865901789903246,
+        0.07151135818591482,
+        0.17574536143822,
+        0.15604268375264796,
+        0.18005994105427986,
+        0.21618358852607922,
+        0.47015393360024216,
+        0.17597243472501284,
+        0.0822165600316173,
+        0.07976937090655128,
+        0.41030483631257164,
+        0.1443766989321691,
+        0.1734542860236793,
+        0.4686321775426609,
+        0.010512705143420434,
+        0.23390340975858542,
+        0.16680708362642283,
+        0.3368822510385936,
+        0.2592193209458108,
+        0.23855064821238786
+      ],
+      "noncat_params": [],
+      "quote": "Historic, Gothic Catholic church with stained-glass windows, rebuilt on a storied religious site.",
+      "phone": "04 72 41 18 05",
+      "int_phone": "+33 4 72 41 18 05",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.7647363,
+        "lng": 4.833218599999999
+      },
+      "address": "1 Rue Saint-Nizier, 69002 Lyon, France",
+      "photos": [
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111301333792240019496\">\u00c9glise Saint-Nizier</a>"
+          ],
+          "photo_reference": "CmRaAAAAcv9HA8DZ4OgoBKS-IYJIPvC0wAArglksBVjaA1ct5rL5KZ92W6eCwB1V6CG5ATYfCB1Mgv8ZGEQ1jYL99wKjvyuVnp1JWbjkjNmjwux9j2zNdIqrzj_K_K1NdSCUmBVgEhBRKwihE-B0JBn-bPKoA4J4GhRN8dSjaWB8gH0a4FZIbx0xJCx8jg",
+          "width": 2048
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103945505527272646223\">jean Claude Kleefeld</a>"
+          ],
+          "photo_reference": "CmRaAAAAc3MEeoUGJgxiOyyPBgd3QN61euOHCnwAtJg2RcUXFuEpiU_i_kujO32RWt98z4jRycCwoAI8eV1B3K5yIoE3obMR5sYwXN9_ojE4NR55xeynT2rr0gal55XOaOeLh0UjEhCDq7mN3LkkTlqj3wDoUlXOGhSn__DzDo_PbpCA66RPcc9203voZg",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110723790970234265034\">Jean-Paul Fergeau</a>"
+          ],
+          "photo_reference": "CmRaAAAA2uENXUaRSZCfeXFqLgbNOuSIB4yVVHV7Eo-RNCA2tmVK1KnaOSssLATQhOC43E9gC352p7lW6U9nIEz9N2yJxHLIfosFlB8Z2MjP1XrLUuRrlmJjMPhX6aWRSGzuvBgiEhB0fQ7tMmuNDHTuJlBFuOrLGhQjcWFF3EEMoLBXCPSIB8jVWFY10Q",
+          "width": 4032
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112722567442310756705\">Morgane Cerclier</a>"
+          ],
+          "photo_reference": "CmRaAAAA60up7sYTWAX6ta0K4ydZvxUszfx4owiYfgIxD-LPcQn1bpWddgVCkwc4kZXZgQYDFYCXVTZo67uan1aelpmIyx_mZi4Fin5juik_52lnEpoD8XOqlCjre8YFHCwdWnt1EhBk7-oD_xLAFqOjQPZFUXdJGhQ87sI6ytj78Ba3MLZLbp_HZoF9ug",
+          "width": 3968
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103554863034311121140\">Christine bret-legrand</a>"
+          ],
+          "photo_reference": "CmRaAAAAWMbKc9Jtly6EOR-O4lniQhpDLXaT0a95_a3ySFnEmPpvyYKeF1sTGPIhU7hgKiZlJ31p-gkFMfZXfX2DW1Wa7eZkm9l11mUFX7sArmWSP5kHTWOHdwsKl8YVTyErVRMcEhAGSN0Uda3vQqWm2jTry0WdGhRjpqXZwCjlDwNwhDbiT4ZW86ahoQ",
+          "width": 3024
+        },
+        {
+          "height": 3996,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100549445968601402992\">Patrice MATTIA</a>"
+          ],
+          "photo_reference": "CmRaAAAAFuEycoRJY7-VKl-9jCyN4fDYWmUiRvhTwfabqCetjBo1Dk-vBEJpfr1Ff9E07AFRIkSfswFgHvEiOvGpfI0aQXJRJMgIZbI--SDJwOmimQKVduLAVt00-MJegDNEa4uKEhAQEOp6FX9ODOxdE8SHl5S0GhQOpn8mNVQMrH2zjH8-gNrMFvKCjg",
+          "width": 5988
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114182551066595433064\">Benjamin Lepin</a>"
+          ],
+          "photo_reference": "CmRaAAAATZKME8YroTmRISzzXNeTTrPSnzHv1s_FDIuee74ODS2hpw0i1-adlKJUJYWHOPfYkhpchApi2qFY5dnXyk7G4FGLorY05jffdutwBIK6x1rhWpI6FUooNv-T8SPYGXyOEhACvFKB1wi2WPXXfTY-chFMGhQHgMopq1JWZISgWOXZKIEgnvojbA",
+          "width": 3024
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103636372465781024003\">Fran\u00e7ois-xavier guillemette</a>"
+          ],
+          "photo_reference": "CmRaAAAAbqLcs1HMmq2fHwTrLCsREn-_awmecPjsQW8mmbskkhg14jxeyA7cC0HtpPf4mln2yFcaLOTUXyJyefTDAVhhT6kaGJMmVRTxqlm9SMjxJeJBgeNfVOuukJa2MGSX4y4zEhDYLQ7xOpfTLya4ZaiW1v7bGhRoTBgxXpAocWHxrz81HYR1MdTQVA",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105943473679349438650\">Johnny Fakhry</a>"
+          ],
+          "photo_reference": "CmRaAAAAXoP-pqQAOlEGKE_hpvWWfU7lOJyHFUKtN_Sc_5EctCmZapM7k4VbX_mCLLlOlW2Xt5A-42TvnB-JwuxE5SRXkYRX6XTb2AY3v1a_Cn_uwipmxM5pO1hU6Se1IiUi6cxEEhD78Jf7VO5te2CeNGn5VCtLGhQQ8enkORhOIGxTkzzvkX0YMQRWvg",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117967823031241123237\">Ivan Ivan</a>"
+          ],
+          "photo_reference": "CmRaAAAAZkzEeLSOKhlW7qVPOOevGD8Z94T5FZr7RsZPht68ymDaLPzenFkRg46180r2-Txqm6g2T-IZIp1fUd1vRGc5cTy_VxFVoaaypgQ4AsfBnxR-iRKV7Z4_NrVE9yijXIW7EhDo2sp41vmuR8-FnDxTIrf4GhRyKGEVNhtmm0Sd-WdsuPGGD-CBRQ",
+          "width": 3000
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://www.saintnizier.fr/",
+      "mood_params": [
+        0.0029133405719978817,
+        0.02696034574303551,
+        0.1557357408382184,
+        0.19423538545106875,
+        0.1474995089414351,
+        0.1959480946270776,
+        0.09132024045128898,
+        0.017344770842919514,
+        0.22546514297474823,
+        0.025246904496721685,
+        0.05424643239640321,
+        0.01952448842159029
+      ],
+      "popularity": 0.3797445955106259,
+      "num_google_reviews": 810,
+      "top_cats": [
+        "religion",
+        "hospitality",
+        "art",
+        "instagram"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -1.1664704075598378,
+        -0.8458412972248126,
+        -0.29564717589357353,
+        0.10285106343276974,
+        -0.47692493267994374,
+        -0.7541400406249682,
+        -1.6362835454958444,
+        -0.624683543231245,
+        -1.2844678760415928,
+        -1.070796054525847,
+        -0.5446961640510017,
+        -0.6589752706683045,
+        -0.8404694845356947,
+        -0.3651172512887789,
+        -1.1969679205871726,
+        0.5364610762091272,
+        0.0054749185680762185,
+        -1.2336989955673503,
+        -1.0668416609879225,
+        -1.1135203857883142,
+        -0.620705960479558,
+        -1.0833779296517292,
+        -0.9424428794651952,
+        2.8024282728025725,
+        -0.49073001865887816,
+        -0.8948550480978986,
+        -1.1560449263804198,
+        -0.5427814154693479,
+        -0.24137371176935069,
+        -0.6269671087492594
+      ],
+      "global_mood_params": [
+        -0.542422841846207,
+        -0.7060484654758445,
+        1.6717543687153722,
+        1.0516331857703194,
+        1.956875817226679,
+        0.530815897102155,
+        -0.41600268450910277,
+        -0.4883682485804564,
+        1.3712192397269583,
+        -0.7179271499062942,
+        -0.8651709521071023,
+        -0.42777114071768807
+      ]
+    }
+  ]
+}

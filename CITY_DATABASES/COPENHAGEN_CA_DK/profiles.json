@@ -1,0 +1,4684 @@
+{
+  "sights": [
+    {
+      "name": "Tivoli Gardens",
+      "orig_name": "Tivoli Gardens",
+      "place_id": "ChIJ8-r2gBJTUkYRsCcLtQ0Ltdk",
+      "cat_params": [
+        0.2131762637640966,
+        0.12957810725285854,
+        0.13055439846422248,
+        0.15750223327370078,
+        0.2693545421934503,
+        0.06613029833976465,
+        0.3452138480260537,
+        0.11993194952903473,
+        0.1991972901554071,
+        0.2987056504376015,
+        0.09217562914867908,
+        0.21152767304203154,
+        0.27963304213494916,
+        0.23449012757548476,
+        0.23340998799321944,
+        0.1526670779981816,
+        0.3812206287310358,
+        0.20886473115222445,
+        0.19524842977404155,
+        0.1315620730668541,
+        0.5245206001717333,
+        0.29897474259032336,
+        0.20853225890597774,
+        0.11005726941682313,
+        0.004007109257675474,
+        0.34665472729280616,
+        0.2826594480749022,
+        0.3444090954023417,
+        0.40708188800005135,
+        0.24360649257978112
+      ],
+      "noncat_params": [],
+      "quote": "19th-century amusement park, open Apr-Sep, with antique roller coaster & live entertainment program.",
+      "phone": "33 15 10 01",
+      "int_phone": "+45 33 15 10 01",
+      "hours": "",
+      "coordinates": {
+        "lat": 55.6736841,
+        "lng": 12.5681471
+      },
+      "address": "Vesterbrogade 3, 1630 K\u00f8benhavn V, Denmark",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104938349239427408438\">Paloma Serrano</a>"
+          ],
+          "photo_reference": "CmRaAAAAzH47vIT0QSA2SS6oR_gF5zhRHnfHjtHgtm2DQ4GcpGwHGPfMiFGuy97H-1PSkt2L6Z53cXqqIDg3vVhojMDONtU-D3ji90PQEPz_H-W6pj6a1kNShoGGA3vnqoy8hYt6EhBqVaZym2l-9krtNev9SiBRGhTXei3NgFfgd1sp4ZPquKlub7HOvQ",
+          "width": 4000
+        },
+        {
+          "height": 560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108072173115329043796\">yousef deeb</a>"
+          ],
+          "photo_reference": "CmRaAAAAKYxTN5b-Lgn4Z76fpcCOaqmBp36JpD2v9q7IG6VVXIUxLweJLmjFAUot0L9mssbfioF9MjDuzymHqBnQC_FgCCXHWC-csZTY9UYWAQu_X510r_0rs0X-c-EsIGVeCsthEhAMk6oKxSYKkhLIrWqdIakGGhTrLSMHvjtkTRivsJnhogSMPAtqZA",
+          "width": 750
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117443909535634543479\">Rasmus Kalsb\u00f8ll Nielsen</a>"
+          ],
+          "photo_reference": "CmRaAAAAQLhVmxhBJwrq4i-n0oSFMvwtifmN3yjxjJgZPBQfCTrH8iVLNN1AIu8rEbghTeOr5sjX5Cs-pN_52rbgXGGZPevi_ccRrp7He8LfUuqHVhjW1uUIjQnDx--7zdRXL5P5EhBBVqpTNcBb-aB8t3mCElweGhRyWRYW2Tt6lfT4Z7aKexk_yhhbYg",
+          "width": 4618
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113781883372805204974\">Yevgen Khorolskyi</a>"
+          ],
+          "photo_reference": "CmRaAAAAqq54I9f8uANoir6wJK_VLBmE1_dR7bY6f4UNsL7mHG-EpLu0m2l6rFwKmf7fSiEeSV0JMG4FAnFNJpPBspQgqXhsrM7-G0AFXJjhDaxNKe9r11MqzLXE0dPOC-zeWDrnEhAyBPaVNTwZDWK7K1UdCkJsGhTSqHhTc3lh_59va145EVXjASi2Yw",
+          "width": 5504
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111952285611396632832\">Anatoli Komarow</a>"
+          ],
+          "photo_reference": "CmRaAAAAcj-TP4f695yyzxKSGAWkOFqXlGsnH-bou4DFMhfwiXtgiPzNBmGK277w4ZLN5-dC6lRMRKg04qhy6Y9-y4r6S4uePc1SBSCiMlb2ICh9ItaEF0t9iu7jB3DhOwrWWisYEhDERgO_HDsGLj_8ckLH9bzSGhRriXFyMqV8FWYbNg7t7yCSQ7YT4Q",
+          "width": 2048
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111654457422621151463\">Michael Tr\u00e4ger</a>"
+          ],
+          "photo_reference": "CmRaAAAAADf7nx8eunvMzwC8r0FGyKcbny07NahkCk980Gu1yR31UujUImHbtR5lKHu5_qi94cIKYplR8LXf_gojV2K8qAMFQyOhwiVrFKlWpa803U65g4uoOAN1GToQ3OjTp15yEhCLDhBpJlQq8icVT_C_E9-gGhQ0-ALcj7vatoVfdDO_CUEP9BMxNw",
+          "width": 5472
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107354577899393072415\">Armi</a>"
+          ],
+          "photo_reference": "CmRaAAAAoi80MNy887Pft3ijz1bZ2VHzCtF7LvU68mAmwuVG0SuXMUtpynsWrueG_AWW_JzktHvmjzlbsTA7lNciuqtltyRj5uI3EmZfvIs94OQj11CK1-EiQXBjqoJ4qH2xcGemEhAGfBs4dIYWV7skFqaqmNa9GhTZ95_fjLuCUSna1G7YF_pLZN5A4Q",
+          "width": 3000
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113452291501119725089\">Lars Ulrik Wacher Hansen</a>"
+          ],
+          "photo_reference": "CmRaAAAAB1crY9VDfTQLyAjWis1GcQ6ZVCMKh_Z8QDQxN5Ts7WWXxdWDcgqbBezvrfQwJdbd-K_d_0m9XQjVRBlLYvykmtL6wofha8Gbaz6nOnOCvMDIs9kViWgyuJ1nDtrp-FFkEhAui0kU5R6VQ8u5m5Qxm9VRGhQgayahPbCHxx5ciL3WGDedDY0PLA",
+          "width": 3840
+        },
+        {
+          "height": 2463,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109425028807473929410\">Danny A.</a>"
+          ],
+          "photo_reference": "CmRaAAAAP_h-EBj8jjM1kgjxnhopNXVTTnDL4bGDE5m-JbpBYGRrMm2E0rNg3B3JcJP1cRgBM4wqwSz2aonozQCPhWCy_LmU4uyZcaGetvUpMdZ0evf2Z5Z8CdRCdwym4G4AK-zpEhBvWq5yQWjneX2dFDHLuySnGhQFOLMsZeNEeN3ysM-WmoKQJUh6-w",
+          "width": 3694
+        },
+        {
+          "height": 792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117745710291557427388\">Josh Bowers</a>"
+          ],
+          "photo_reference": "CmRaAAAAHaEQXw-M9XUE0WgZ565M1AnPmrj-xZs_Oon_4Nrs_x3cEZiToJuBYC1nvNDnRKM16qB3kzDj8gmfPd6M2pP0neCv6P6v1WLA-2JEWjuHutKcSHtaYi7Tklz-sKDTIwoOEhA2xqgMVWIcSzmjFYlTu6EAGhRYWJgFyiLF5529KKUgphnweWX2Bw",
+          "width": 1059
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://www.tivoli.dk/",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.015742562450411005,
+        0.0869287088631672,
+        0.05437943078960179,
+        0.12440121964735038,
+        0.07501061784849938,
+        0.14665048134214195,
+        0.1021594379688054,
+        0.026967092036010835,
+        0.11595749552244594,
+        0.04873387143322516,
+        0.06740027725312762,
+        0.025167465229092616
+      ],
+      "top_cats": [
+        "food",
+        "walking",
+        "amusement",
+        "nightlife"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        0.6304393947113472,
+        0.20713170311666979,
+        -0.9242567629700874,
+        -0.5271811835747496,
+        -0.2190110459330297,
+        -1.0538938323476306,
+        -0.5648171738431152,
+        -1.0129329275156085,
+        -0.10982835513478742,
+        -0.2408307976072654,
+        0.11980132649821038,
+        0.6707860565648999,
+        0.2821606113213885,
+        0.2113167747903077,
+        -0.6168389367720936,
+        -0.2074371308398937,
+        -0.47708094224847303,
+        -0.8896580364216016,
+        0.37596279880603484,
+        -0.08150545973640358,
+        -0.06367474250501828,
+        0.426931423707758,
+        -0.5469447975797562,
+        -0.5425137765684005,
+        -0.6780412135205033,
+        -0.05853021389630742,
+        -0.07051823274745413,
+        -0.4938841105143816,
+        0.6511881488526665,
+        -0.592202448235497
+      ],
+      "global_mood_params": [
+        0.320751177207465,
+        1.0905446896758257,
+        -0.15312822572299634,
+        -0.024962174258046296,
+        0.36594435129950953,
+        -0.08910242794886587,
+        -0.21087517555703297,
+        -0.10467116275650194,
+        -0.07742290791874536,
+        0.19485099105087259,
+        -0.5607883140267841,
+        -0.08279975530098495
+      ]
+    },
+    {
+      "name": "Christiansborg Palace",
+      "orig_name": "Christiansborg Palace",
+      "place_id": "ChIJCbqRvxZTUkYRGWI2eOd3tiw",
+      "cat_params": [
+        0.09200824704430813,
+        0.04641111318239968,
+        0.23459682520011088,
+        0.18896014382061674,
+        0.1849597551397504,
+        0.12287375833591685,
+        0.3356128882090733,
+        0.14247502957134958,
+        0.1865980599150728,
+        0.27114653053611176,
+        0.053676185885044254,
+        0.10727707703099004,
+        0.19815362157517466,
+        0.1331927580139696,
+        0.2693370581506668,
+        0.17498984403126613,
+        0.424852750839465,
+        0.3119163964808205,
+        0.13274259059061405,
+        0.11811245323351348,
+        0.39607697756864935,
+        0.18766668815056703,
+        0.22483293460953954,
+        0.12395474930637874,
+        0.020731526223639194,
+        0.2984470050162477,
+        0.21378539960487367,
+        0.38462885915773354,
+        0.23527156038389294,
+        0.24373661987842632
+      ],
+      "noncat_params": [],
+      "quote": "Tours of the royal palace's lavish reception rooms & stables, plus 12th-century castle remains.",
+      "phone": "33 92 64 92",
+      "int_phone": "+45 33 92 64 92",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 55.6762316,
+        "lng": 12.5805143
+      },
+      "address": "Prins J\u00f8rgens G\u00e5rd 1, 1218 K\u00f8benhavn, Denmark",
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114287778388152659768\">\u6b63</a>"
+          ],
+          "photo_reference": "CmRaAAAApKD42-7kLvsfrroXfgOolk4VtE3MpU5B0ObsqSY9wHxgUJjJQCvvIIi4MUjBe6kZs1kiwAj5UO5R8VjZb9-Z3CQea7NDslXXArnAZKUotbZhwQ_L1c11kd01CaPXGRjBEhAR74HtU1o9DtF-lSYzcI4dGhTiwF_9v9i67rzQ4e5U3Pk5zQe2MA",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112733667371784175284\">Olja Koronchevska</a>"
+          ],
+          "photo_reference": "CmRaAAAAJ0Q3owTVVVDDkBH1bG2-CttMYF01jzAOuFa2ZvRMmSw7mhEpnFPl2HLwweis3gGYLJ3m0Q7b_oUGrhQX8_EaHpDvw_GMZqXh4tuPvJj_DO6qwwZ7I_fKOPsCoZSkm3EYEhC0A04np18kklgdOZA7P3RnGhQgAnI8JQqUy5bTiCgHmE0DIDByBQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107695622479117016403\">Thomas Wainwright</a>"
+          ],
+          "photo_reference": "CmRaAAAAqtCSpNdFEXtffPKJo8yG9gjbu1WQkugcp5DJLS3jujcBTHj5dm9nTXEhe-WuwwCXnj2m6eZrx_97aYIyfow2H-PBFtwyM-da6KDBo3tsJHbrM8GxcZFZBg59Iw9gq_hREhBYsaQVrJoBuyshO6SnovfxGhROUzBtZ0bczCb-YjZ6RpNOnoxFiw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109239232337648687857\">Patrycja Nowak</a>"
+          ],
+          "photo_reference": "CmRaAAAAbXhTDntmaLCt1tbGqnNo_7usgqc5OouVpXYpN8yJO0v6XZGhJy_WJrlNA8o8nCe8dgISsCpGylwAg1MQDiQCQL1dbPv5ek9bOm6see-UFKi10Bqf5YH0B098-phBexExEhBJ8jRl6NzodTG27_X-HkkgGhRcNQeysHrFutxQ-_hOGoPITjhUQA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115536298475338361911\">Jytte Thomsen</a>"
+          ],
+          "photo_reference": "CmRaAAAARKvaqeh5ExwdHLzPlS9VItcUKXLZyzERfJloRES37h9Z0_vl3HlL9Sbn6nMNDuyzQsXfmNJuGIzVqhBjswN3uzIpnr8MkoPPQ0yNWYtCZOAxn_wFIG0N5a0VMu-Ha-LbEhDG2ymItqe257FKkxRsscbeGhRf0XYsznqc18ImDdG1KLAMDXAafg",
+          "width": 4032
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117006397384462601115\">Esther Hombergen</a>"
+          ],
+          "photo_reference": "CmRaAAAAqVexKAziGyXU2hI9f8p_g3JyxH_ob10Mtql3xLbPUhaCJ4QQlp8QLKBrzGTioHT3R_BdieummPrfkzwxZHrebC3oKkZGXkGgDB2XJeWk9h4h2UmxOqI4vmSi3MmX2RZcEhBdEDIP3wf5Rg93FzLWFbhTGhSe782bEVY61GXu3vA7gJeg-QRlkw",
+          "width": 2448
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102576520477894064752\">Nathalia A. C.</a>"
+          ],
+          "photo_reference": "CmRaAAAAEedqafq06-EJ0-xoo0eEP5zUKtQYqIeqt4-murvsrLXgVo4AyzvRuqivQfjyEkrF0vUwrFJlr9Ta1_d8aNrbUaUTRv9xQUsuQzVQoahTIeZYtg7qL2t_DUJHUCEFfkQgEhBAoXvozFwR-75Zmxh-akMRGhRPCf86vcGIrUFNu5-P4HTcxIreuQ",
+          "width": 6000
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117105272490387174423\">Mateo Alonso</a>"
+          ],
+          "photo_reference": "CmRaAAAA83K_yUhEo_Lw9VfZKUo18CbScgl_CCGTQrz5z4rRUQtlylW6ivjp6glCI3_xJRC7p3WfoqQaktWPBr5XwJVxSEmZtsHXnPYNKKWusmg0Bge5tnMvxpc40ey2uByybM9MEhDfOgPg1xQc2k69rKrUeKNXGhT8dRxg0RyIqbdvT58xZ14z6BIrlA",
+          "width": 4898
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103254218158779439644\">Tony Sloggett</a>"
+          ],
+          "photo_reference": "CmRaAAAAvMPlpL6qZ1wK8RJfY-L-71Ey0y79smS6ruMjedk3Kd-tmY4TnAaToYw7U24tFYZW-09492unzkNGtGWIlaMN9k_6esTDeiBJ13yJD-SGhcTHCEHQHIzFMmnqt3KpiKT_EhCCKm2eZw78AEl6rLtoOrsrGhR54OISripJJHDNMfkMxqkNM-5mAw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111962649972001554555\">Darren Johnston</a>"
+          ],
+          "photo_reference": "CmRaAAAAESjb1EekWIEmX1MvH1D9j4-8rPM5sp2mfFqryK81JZ5qU0corOyqB3G_cIdmnDtzejtuJ9Jrb7DDvbmcxorWXhV2_a5GJvGuxxi766aKtazS-P0P69FD11I_cmMNCr6VEhAPkFyX-RY8ROuUiPNVLhTrGhQlPuifPHLbi7Xw6OqCJjT5wqqIig",
+          "width": 3024
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://kongeligeslotte.dk/da/slotte-og-haver/christiansborg-slot.html",
+      "popularity": 0.8875184318942263,
+      "num_google_reviews": 11072,
+      "mood_params": [
+        0.00485720723173241,
+        0.05070548822202721,
+        0.04968820076329024,
+        0.14312053651617893,
+        0.06825857117933531,
+        0.13269484812484886,
+        0.11610152654110849,
+        0.02729789650580652,
+        0.11235171097459175,
+        0.036919115993958765,
+        0.07848940259765642,
+        0.014755102633528795
+      ],
+      "top_cats": [
+        "military",
+        "architecture",
+        "hospitality",
+        "science"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.8397441979754674,
+        -0.7872724814062989,
+        0.0977924518412988,
+        -0.3023760070695447,
+        -0.7395872234814378,
+        -0.2968981080187262,
+        -0.666989002109859,
+        -0.7625737827662481,
+        -0.296284707785307,
+        -0.5338569690697086,
+        -0.6719968571307958,
+        -0.3193014990099786,
+        -0.5983215507592514,
+        -0.5330191490089973,
+        -0.2261675897393995,
+        0.054004587075210685,
+        -0.24033120856601062,
+        0.18822334105151367,
+        -0.421898050019369,
+        -0.3495009077200001,
+        -0.6900953443746692,
+        -0.6604665261416808,
+        -0.36315749619186455,
+        -0.412872064866286,
+        -0.19650645786145626,
+        -0.4161075462227571,
+        -0.7158621449645863,
+        -0.2326009009084937,
+        -0.38593266371176493,
+        -0.5913076755660396
+      ],
+      "global_mood_params": [
+        -0.41163586091396737,
+        0.005332639931322115,
+        -0.23759207427289183,
+        0.26362335478694254,
+        0.21775552755809208,
+        -0.26459475288327405,
+        0.05297331449990788,
+        -0.09148009290016876,
+        -0.12512269503750673,
+        -0.2643079346151001,
+        -0.3041837042616416,
+        -0.719337397149379
+      ]
+    },
+    {
+      "name": "Rosenborg Castle",
+      "orig_name": "Rosenborg Castle",
+      "place_id": "ChIJHVOeQhtTUkYRPBsoRTOcNVI",
+      "cat_params": [
+        0.09067406920755687,
+        0.07111600966664795,
+        0.18227400666975963,
+        0.23070113486037952,
+        0.24372600701939112,
+        0.13745759389123222,
+        0.3238326040688853,
+        0.15439582152965972,
+        0.1548578239751325,
+        0.2618532410050486,
+        0.0722974293451043,
+        0.11452482950826294,
+        0.2112895089826021,
+        0.1498584296583834,
+        0.26759358977367154,
+        0.17571942447791786,
+        0.4593475916388251,
+        0.4271757590612493,
+        0.12147149802480021,
+        0.12203740302185337,
+        0.5015726961305547,
+        0.16400424860559917,
+        0.2392915028379653,
+        0.0952967821599702,
+        0.01813083735916803,
+        0.31438253133188476,
+        0.2184976080694467,
+        0.3700381177471661,
+        0.3080853069543758,
+        0.2439443662100517
+      ],
+      "noncat_params": [],
+      "quote": "Dutch Renaissance palace & gardens, including a museum housing the crown jewels, with guided tours.",
+      "phone": "33 15 32 86",
+      "int_phone": "+45 33 15 32 86",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 55.6858274,
+        "lng": 12.5772687
+      },
+      "address": "\u00d8ster Voldgade 4A, 1350 K\u00f8benhavn, Denmark",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115701460665085377825\">Ulderico Mattiolo</a>"
+          ],
+          "photo_reference": "CmRaAAAA08nfvljfsEve2nHQTfPJaGhjI-6RdFYsMevROk9nLrH4ME81GLzgjiNHOud9zLHzDENDHK_mACO_pKRLvrDQuLt2PyYFjJxZ0kkwThDG7dqOZNEsnMoT4mTZMzeT-ATWEhDRNN5lqjwMG3vSwOeMvr18GhTDvQo06wq0YDOuvWMD9mYGocboFg",
+          "width": 2560
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105391658280203589283\">Larson Shih</a>"
+          ],
+          "photo_reference": "CmRZAAAAqC2LU6iLI2pBmXW-7tEPWuycIyP-vfhUrVQKEO5Y3sthbT4iuRqEaimnamKvXn8ctVp-ci1enSC7e2FUdoZ3MqCtciscKmClDvXV52Jm_0IABd7sVInpSvTqhXOIb8Y0EhA9WVrQd85uart6tzH028jzGhSw6LFeq2eBGKyPuLOWFY2Ku_4egQ",
+          "width": 4608
+        },
+        {
+          "height": 3632,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102965775066626591555\">Yuriy Panas</a>"
+          ],
+          "photo_reference": "CmRaAAAATCEU4T4KOIm9K7CB3lgGVMWhpK8CtSEs6E9GdcqRWq0ncBgOFcasBdEyzOopYrPtlSBmSXd8SWacTYGepwYs8HxAceDn_fZQcZrEnQ63d8bGOtxtMWBd9IWyS1EWiLKpEhAue910fhf3mf0DsJQWmfa2GhQhFmkUaIioq2L7SQ13VBxgbHjKlA",
+          "width": 5456
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100768271380491201811\">Juanma Sanchez</a>"
+          ],
+          "photo_reference": "CmRaAAAAEDUUSWdKTteOUmpm7orIw62vbbtL74D0RFZV44xmsf577uqJT-bUxWZd4ByUN6ZQlrdBx-tY7eii8u_dgPcz26VK8mbdQM-i9f_NhDsclQN4ZPzK0WkXW0JOQGmW8CPCEhAQyC92dKLIdgxghcQlBh6vGhT73reM9ZivjpKoR0PLuitO2RoJDQ",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114984571333110829583\">Sergey Kachanov</a>"
+          ],
+          "photo_reference": "CmRaAAAASMWeKtIBpj7Ow-Yb6NjQsHYYr9tmwLOAlPCxjjBezYMGx0MqX9EkTsIVZXh3axQJgZVYMt-Ebc1NQlMWgRNiQ3oXFOkfX2g-pihJydT0wMhcYyYQrr6PiK9fvXoKSrg5EhC3b8nzLugiqS8-cpAWtvhQGhS1YjJXPjkmP0rW2hgPMyyPqEoGQQ",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114679319443164584238\">Shin Diors</a>"
+          ],
+          "photo_reference": "CmRaAAAAkQxwFE2_B5JjmOeifiIHmA6cbHPhPbCWUqR_502w6qIhjlhXGZRoAF0JeIf5fl8yGvj4WrW5xv2xVwahPftfIUlrS80Lufv2eZT3YZbXv891rAueHxqg7xB8N6AfPgpoEhC5h4MXx2f0DxVHWctmUqxUGhR2ChFbSVdGTswIwYgR-exyFrUBrA",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116656898744257715849\">Tom\u00e1\u0161 Pa\u0159\u00edzek</a>"
+          ],
+          "photo_reference": "CmRaAAAA_g5876jvLyodJ7s2FNqOHpXppHXj5xCepk1Lrp5txhnPv3Hm1FGTnu57eT-QtAj7WBwqTmA58NVbV3BfDyU1xoO6vkMX9GNiPh_xT8pHdBDoDha9v0dUYYevUG0KgP-gEhAh-gbvE6lQB8o1LfU0hrawGhTvDFUOuUX_2ZbzsvAOAh2fgrLqxw",
+          "width": 6000
+        },
+        {
+          "height": 3472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113882098531624785916\">Yuri Madorski</a>"
+          ],
+          "photo_reference": "CmRZAAAA5giV1FCtxGyoQtAkGFx1cUyq8WiQ75bkTz9sY3xIe7pBPSK85H04nL827JpQ3ygIFB-zw-smcOHNFsO9lk6Ij_8crR3XBqYLGW5ojdLfVH0daLoKaNPPAC-lnvghcPZxEhDOHXL1FwWw5A5uR7JSNDrVGhS8HGhAcX7wy9K4UlhICanxaDPE6Q",
+          "width": 4624
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107380532814893487654\">Wilhelm Weisweber</a>"
+          ],
+          "photo_reference": "CmRaAAAAxQ6I3aPkLRDwt93Er4eAqfrGbl2fqVlAiKRZpVUNy2ErQ4Kryw9L-gzT2Y1crRUipS6t6u0dTIeJZZveYCC2QMFpP5aobTgh90jmmP9aQX6UVeZ-R0MHXE39Lb4ntVqDEhA3mqHp4SNZzYlJr5bpPJS3GhTO-OFwZCOKgP2-tb9hHGBMJKScRQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115212094594125220265\">Zee Kin Yeong</a>"
+          ],
+          "photo_reference": "CmRaAAAAQv2ScMcFBWE_pUIyG5M00uz8gvRegyVFeA-Ez9J2C6AHB82FAr9cMHVE2iYkzAfbA2Whhxa7hIh6_iyjuDdvyZvlaZLgCTUDF_RZUPutebI3CU5dHK0QQ3IhEb8DKP5OEhB24IV3WaVQNdCRTUdJx0AcGhSHWS-eiigo8GRZldPToDERrU2QZw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.kongernessamling.dk/rosenborg/",
+      "popularity": 0.9010531021194675,
+      "num_google_reviews": 11763,
+      "mood_params": [
+        0.004787325653350764,
+        0.05375629246969805,
+        0.07533462557501866,
+        0.16844440104438715,
+        0.08880888934588203,
+        0.15373821814450556,
+        0.1261107041808112,
+        0.028343836666533555,
+        0.14467436599761063,
+        0.041141911371722316,
+        0.08585256500949069,
+        0.01736692450622901
+      ],
+      "top_cats": [
+        "military",
+        "hospitality",
+        "walking",
+        "art"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.8559323507439838,
+        -0.49188303374476083,
+        -0.41619494035413873,
+        -0.0040856662599900485,
+        -0.37709669722553746,
+        -0.10233998342713087,
+        -0.7923528397936714,
+        -0.6301837422830704,
+        -0.7660093268880037,
+        -0.6326691612338076,
+        -0.2890233515758218,
+        -0.25046822794767337,
+        -0.45637264555251106,
+        -0.41055932450538574,
+        -0.2451260836094721,
+        0.06254935097441547,
+        -0.05316074840886539,
+        1.3937926068049646,
+        -0.5657688243219117,
+        -0.27129284757604233,
+        -0.17559185890046453,
+        -0.8916311833548796,
+        -0.20013963822328715,
+        -0.6802059947793995,
+        -0.2713863224000503,
+        -0.29790691943367026,
+        -0.6717091568179177,
+        -0.32738802520560056,
+        0.05360233431088935,
+        -0.5898791840684543
+      ],
+      "global_mood_params": [
+        -0.41633762407943226,
+        0.09673173345156952,
+        0.22416224793996872,
+        0.6540276036997896,
+        0.6687783989668681,
+        2.598282282529266e-05,
+        0.24239302685158484,
+        -0.04977246502495852,
+        0.3024635190718974,
+        -0.10019669262382788,
+        -0.1337986325248244,
+        -0.5596692218896193
+      ]
+    },
+    {
+      "name": "Amalienborg",
+      "orig_name": "Amalienborg",
+      "place_id": "ChIJcwY-NiJTUkYRP1UVnat_8Vw",
+      "cat_params": [
+        0.043653260476315285,
+        0.017570581409225898,
+        0.20214567714900364,
+        0.12030875573205421,
+        0.08247506929809445,
+        0.06713874463164819,
+        0.20036611387175116,
+        0.1450560758488224,
+        0.10952899213384519,
+        0.2107504372045387,
+        0.021844181806911476,
+        0.04007656901680531,
+        0.10717051364008692,
+        0.034344958644963085,
+        0.15194860299265878,
+        0.03653661403151481,
+        0.1371708791275883,
+        0.23793318090961207,
+        0.06412816086669852,
+        0.0717698658478467,
+        0.20679073710810084,
+        0.07293881989455529,
+        0.10202991883132281,
+        0.1334558700896847,
+        0.008527608308104576,
+        0.12759432745491348,
+        0.1183984958948573,
+        0.13355651854142445,
+        0.08697504406240548,
+        0.15122877682799132
+      ],
+      "noncat_params": [],
+      "quote": "18th-century rococo complex of palaces, with a museum & marches/displays by royal guards.",
+      "phone": "33 12 21 86",
+      "int_phone": "+45 33 12 21 86",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 55.6840588,
+        "lng": 12.5930201
+      },
+      "address": "Amalienborg Slotsplads 5, 1257 K\u00f8benhavn K, Denmark",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117275231394613163782\">Massimo Nunnari</a>"
+          ],
+          "photo_reference": "CmRaAAAA6KLqkc48bdeuq9aXDNUbFKyFm0KZA1ZK8C1dMCN3D79S5WE2-VXIjpYEqVRLTfjAg--viqHQ-QtzXQNzA0gth6oKRT8WwhrVIZ8hVBA0wQCVxfNUT7t1Siudut3PL2V9EhCxXMF3FxVnQq2rvqvYFnZ4GhSM6yNlUGMRCZw9BzrRu1gZ-Lz9mw",
+          "width": 5312
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101416779726541111041\">vashon m</a>"
+          ],
+          "photo_reference": "CmRaAAAAtgb-ZHuBjB5wT4PwWxkhkQjmeUtVPbESvvqbPBvIJz_pVkufYitCViaWIWPN6iBM8jeEZlB0YpSkAVPXO4apl4gu0227QHJTbb3EXrSHb1H8uahrCWQ0zF3UnXKBUD_5EhBUFzReyhhdRTnKJ37vXmI-GhRDvUBloVSW9gKbCk_zCtJUE1IuFg",
+          "width": 3024
+        },
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110565630452061414856\">Vladimir Amosov</a>"
+          ],
+          "photo_reference": "CmRaAAAA6Y4pvpW-TtBxk91o1y3IvWbp1sd6z_Xd8MEgS_ci1ljNPClw38QmLe7v0pJXSy3bIFk3snpej84IlfE2n_L4MWtqEaJgf9baGnl689k_YVgIv2OzczvhU-i2X8ugBR3jEhCuECYR3_coqUduJYy29quiGhRSReUTVrJIbs0TpJuQsKCgQR9ZRQ",
+          "width": 576
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114515578418803939587\">Jens K\u00f6tz</a>"
+          ],
+          "photo_reference": "CmRaAAAArGTZHlBvziI8hv7m3cFisOzJBdGHJZRr2LJfGRg9uIeU4_lrnE8mRl8NdkGfzHuupfHeP4fKS5SWOWu4aZSgUyh4L0eUS9fTB3VHPYXJT9mFpzHoHKZ_FJjuC8RrP-ntEhDCKDd0LVwoXBg_ib60L8C0GhSBmBTrrqkbAwVHHb9YAbAhxC05mA",
+          "width": 3024
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108484596350919184732\">Tanvir Ansari</a>"
+          ],
+          "photo_reference": "CmRaAAAAimdL8WqhezY3aNd4FsJ7JDGk7atETD_-4w0JQYXeny6248hh0ALiHO4d1LcCw8kShVx7l29xe7ETaQ1N-44GSJpBWXy0ScDp014hhoG0RIDxv-3zJ2SxiL-dDQMBQEjqEhBhWyDwMLgCwre4J1GU13FtGhS8bx9JIXnpoelA4yLGNpCDiFtIxQ",
+          "width": 960
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110591516740660268660\">Monica chee</a>"
+          ],
+          "photo_reference": "CmRaAAAAUNfhjBpfplWyZ_zLLV9elYzuvfki0WmY_bCDl337fDlEQe6TbTUj1dDRTvzrpnS5W0nGXrjRnT8Xr_yF7N8p9kAkC_tl0wgyslGbHtGA5XCKWOjaY98BXVMQXrb74lKWEhA0HMvIZhSgN5nukoYua1KeGhSZ6Zkc6aGhuV652vsO9TUGIZ4kiQ",
+          "width": 2899
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104299047206604771344\">Michelle Smith</a>"
+          ],
+          "photo_reference": "CmRaAAAAUp4wWMyYDoDclnJZX7d0ZAOIwO18KlOXLfZzF-bAzrshRY7cnu_4knnFgwPPF0lRWxyp23JhCtM9CebYidR7bAzDDpddMpjbxahVAeLEnVmbchKNerxIDtsqQV1bv-BQEhD4nX1BPyEPlXfvEPqvzFYgGhTiKQV2LuDB_gN8m-O8QB70XP2ZHA",
+          "width": 528
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107173449067026069264\">stefano volpe</a>"
+          ],
+          "photo_reference": "CmRaAAAA43YlCD0SwQcNSwwuKi5tAwYmRIXRnhFY_F3jpLuUK77HSysRHtR1K-iWLAm7b1cGU_8XxI2Gyd_CHttHhZWk0-tA1GESFq3xejtfhyvxmOAA7X6AGCIbIpOEe2pe4wvTEhCnbY-RwFfqc6D3iBTXthPfGhSOcBMwu1x_ZaQpDO9zbaDwKL_BZA",
+          "width": 3024
+        },
+        {
+          "height": 1330,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109336916582223939497\">Maciej Brencz</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ8_h05b-PGzvBgx63OJVN5becDJ7Tsh7advYePfq0vlnrCfsTdp-gE2pgDf1K7cT4m_Bjslp7Z36reuSX7ADzCu95Ihf6mfh-kKrk7ceACaS5rESn9LzbJZoNAQ-fsX6EhDnK8Mzf7jfZCPsWiorOHuhGhSPVNlkvcbs_du6CjFgtGpKe27Q9Q",
+          "width": 2000
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104299047206604771344\">Michelle Smith</a>"
+          ],
+          "photo_reference": "CmRaAAAAhTYvN2iL3DMEzj0a-lJu1HBYq81bLWpyDoct5Q0qx0I7odfnOU179507xe06dIg2sImXAgtIUWCN8vFFOiZXLi1pOe1QQyLke5RUrS5Tsqt5p4b7OysAuaeS4XkWd-dQEhC3fG3bBXfSj9xm2OzhbSiVGhTUzG3oe9zsKI7FGpkSZ3glj8L9EQ",
+          "width": 528
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.kongernessamling.dk/amalienborg/",
+      "popularity": 0.9832339238473073,
+      "num_google_reviews": 16678,
+      "mood_params": [
+        0.00519272291013328,
+        0.014109499904999333,
+        0.010160412750055671,
+        0.03586374297800128,
+        0.012116869479417015,
+        0.033676931070042285,
+        0.029559232393002666,
+        0.009120136650544026,
+        0.02985320739080352,
+        0.010971236287333827,
+        0.018160613040213484,
+        0.006158737098026789
+      ],
+      "top_cats": [
+        "architecture",
+        "religion",
+        "science",
+        "military"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.4264560201327763,
+        -1.1321105484742846,
+        -0.22098779412081973,
+        -0.7929739885712004,
+        -1.3717481409413248,
+        -1.0404404840459418,
+        -2.1062628314601812,
+        -0.7339091753845737,
+        -1.436831948096878,
+        -1.1760268229510944,
+        -1.3266692594754794,
+        -0.9575173870621422,
+        -1.581502371598952,
+        -1.2593555620604449,
+        -1.5026509128071333,
+        -1.5675440260483549,
+        -1.8013051704513383,
+        -0.5856130647504205,
+        -1.2977324977505984,
+        -1.2729175262591685,
+        -1.6132458930115101,
+        -1.781273545544802,
+        -1.7477402756187024,
+        -0.3242414950633384,
+        -0.547885560851992,
+        -1.6833950632046606,
+        -1.6096292311449256,
+        -1.863664360118832,
+        -1.2811140281954145,
+        -1.2274039484754309
+      ],
+      "global_mood_params": [
+        -0.3890617391686647,
+        -1.0910471626101084,
+        -0.9492751683733156,
+        -1.389896307483786,
+        -1.01440016469254,
+        -1.5097467430185452,
+        -1.5848052377324142,
+        -0.8163315443648792,
+        -1.2164693926389734,
+        -1.2727249628514101,
+        -1.7002041315741483,
+        -1.244857921066454
+      ]
+    },
+    {
+      "name": "The Round Tower",
+      "orig_name": "The Round Tower",
+      "place_id": "ChIJoZv7gxBTUkYRN6Q-o22fOuc",
+      "cat_params": [
+        0.05782004233958909,
+        0.018025358862251626,
+        0.3320186628573366,
+        0.1374669856377873,
+        0.06820957788794067,
+        0.13894346150452122,
+        0.2632990595741486,
+        0.12753776544321013,
+        0.17545834926353768,
+        0.1463375236675074,
+        0.020813108320960484,
+        0.01554252409000685,
+        0.07534705755423905,
+        0.04383002376053898,
+        0.2130596127085098,
+        0.01998522546033303,
+        0.10180896174353064,
+        0.1997165604012943,
+        0.07637274896199236,
+        0.06391246741577969,
+        0.19336335152141182,
+        0.08260525441456457,
+        0.09591060361747338,
+        0.14470640508956342,
+        0.03917208124611366,
+        0.11070770541621915,
+        0.15824839255301765,
+        0.22790740011728994,
+        0.04942116176671589,
+        0.1409710251464062
+      ],
+      "noncat_params": [],
+      "quote": "17th-century tower with an observatory, planetarium, event hall & spiral ramp instead of stairs.",
+      "phone": "33 73 03 73",
+      "int_phone": "+45 33 73 03 73",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 55.681347,
+        "lng": 12.5757299
+      },
+      "address": "K\u00f8bmagergade 52A, 1150 K\u00f8benhavn, Denmark",
+      "photos": [
+        {
+          "height": 3800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116415978427830705696\">Guillaume F\u00e9ry</a>"
+          ],
+          "photo_reference": "CmRaAAAARemX_o1PPvsSkdoVVg084YcSvjK_HgOTgUYrOl3K38DoiRon32uS3SBF0LzHvzDwED57ZhWRRE8oS2nCDHAx6F58yni9hpMGgiTaXvNkPPqfnic17gVNlriG_vTRWGG9EhAEwMCyW0vUsWgVlUMZJLbgGhR_993_6uwl0A1913GDQ0Wvt-geAg",
+          "width": 6522
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103369267661473910884\">Aydin D\u017eemid\u017ei\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAA5qqLwkraGYIIgW4cMLylDIvMiSgZud9IkheXqPqlh972LHofb6t_MsnotBifdkDP72sep7cDA0bolY7hHubqjMAdgdqcnKUARKWTDmvGCgmrvLEwJrv7ndXaes9XZw4kEhCJRWjUMEGe077H7b98l4qoGhR2ZfCY4p9iuUs0LMmNEwReSfjohg",
+          "width": 3648
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112992096408488841184\">Peppe Gangi</a>"
+          ],
+          "photo_reference": "CmRaAAAA8B-oDG83wNH-i7TptCgkEIjN6BocWy-cGQ4hrbFaNPYdxh_IMnn05TC5I2v3rrEY7KctAMtXZonlIr0cn7OZgyzuUR1dj3SL71uJQHOD0jB-7XXYM0ztOPQ_zyim2n0bEhBE2j4FGcFC8red6U8-LO0nGhQRIF9H-zBMRb34FmW4GlMVbk0jBQ",
+          "width": 3000
+        },
+        {
+          "height": 4632,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112905791765414165627\">Mari\u00e1n Cort\u00e9s</a>"
+          ],
+          "photo_reference": "CmRaAAAATda0v2pSnE1LD8QZ1WRdnIuS48lRKQ8N84k20cxyePNgH_fKJHVUtAN0M6XfzCL-ZkhtzqBCZ5rQhL12BMbcXcjLmtSFWBKv8FwujWuRMK1BxmfhDU6Pr7EcLKRWT4FzEhBs-VEXMz2abzjdIwpiHof4GhQJZcwOGvLfgWsf6gZysNKyOLaXsA",
+          "width": 3474
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114735899365636713821\">Walter Breau</a>"
+          ],
+          "photo_reference": "CmRaAAAAXnJ_Ks97gN9FXwHx7pVL9Joy9zKtdrGpGtAMo7t00bJc-UWiEr-jtP23-QQeQK3a0CQr-qReY5PRNPKFGmYwZ5FTjmeP5Eq6z82V-ESBMEC_hz9LnlIUadqyo_6KDOB5EhC3ONvF1SRl3yQ76zQjP3k4GhThTtYlB0nV4xGS1UggZmaBsVR7BQ",
+          "width": 2268
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110633353770242675184\">bartekbubula bartekbubula</a>"
+          ],
+          "photo_reference": "CmRaAAAAeY1dhXOHzoru0ZLWmOb__8FUgG7lptNf7_WrCswDYjWwZKRbt-sxlwfSb1s3ioCobkaZxX8-KJdJOCdaTXJjsW2J0r6u7Ot8gzZ_0njfaeK9Y_t7RlTLBtpYnMf99mAqEhB40bgRPY5pIFxVqZh5aviaGhTRqLwMqRzfCfdpvFO3Mkvh-daVrQ",
+          "width": 4032
+        },
+        {
+          "height": 4993,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111908072893071261906\">Maciej Dz</a>"
+          ],
+          "photo_reference": "CmRaAAAA5plMaDbtjBEKPWvxfKyJFbhLuFFqo-fNHXjUNZLtm_ynmYlspiUzMO8KUVgd9WILPJwchPPl9Lj1AkwmVTCOkcAVGPF8znNdcutnSv-1876qL8yMBPmAdhBDaoXeQuwFEhBGc5FDref0gANi854ssXqqGhTtjz2l_agWwhjtubq_VRhucqdY0g",
+          "width": 7500
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104809439365672513415\">Erik Tvedskov</a>"
+          ],
+          "photo_reference": "CmRaAAAAu6e-GTJisa02B-c-Op8vSs9sIcXkA6ArsQt_cmCZQPeCBwAu7piiVWvp-KTu89aBWybQ4fJP7NOYksmq0GXZbCfzYknUyynTdu7_UmoWzr3WB9BDRxy9BEp2u5knVVo1EhAzWPgsCdcRFP2T1ln1UkKGGhQzDajd_hxXL8_K62GlXcjAPqdWNA",
+          "width": 5184
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100527450280796232781\">JoeJoe M</a>"
+          ],
+          "photo_reference": "CmRaAAAAA-iPDuBwb1Wzh-3Al-dNUD8n71QxfW6Y-R5OIdcAJn-9lYSXBAjR5_dRxncNAcHZRgL5Rl8UBG-bRo80n6XkcXv01n1Z7pvr03cQWM1QagHWKLqLZzxXZygOLwqXdUVlEhDLbyY9RIP9__H8tb8qx8efGhT4A2jA8ls5PumwepalI3dlq2Whvg",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107434909530321316612\">Andrii Vlasov</a>"
+          ],
+          "photo_reference": "CmRaAAAA_cxOP6J7GlRfWNu2SAgt6TzWck5gThj1aLCwEUpVC2VQF5Pl55bRMEeHaC8Xz2NxilNj99e0G3RPZhzp1P_VJuozn6b43MFzkNBoMzm-VXQRrbSZJBTSQj2z4ucsEq6_EhChyfzkkJPIQR-EjrGjdDToGhSBC4TE3RqDyzJo8DfaW0brhzLJ_A",
+          "width": 4208
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://www.rundetaarn.dk/",
+      "popularity": 0.9490366962258598,
+      "num_google_reviews": 14476,
+      "mood_params": [
+        0.0,
+        0.0,
+        0.0,
+        0.004219810258299835,
+        0.0055565954450747905,
+        0.006243128441352838,
+        0.01814236936774704,
+        0.0,
+        0.0019060578116454237,
+        0.005983644510739647,
+        0.00811645214683148,
+        0.006037033215642062
+      ],
+      "top_cats": [
+        "architecture",
+        "science",
+        "books",
+        "religion"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -1.2545643706661989,
+        -1.1266729033198577,
+        1.0548050457113747,
+        -0.6703574881293627,
+        -1.4597426160553175,
+        -0.08251751524745266,
+        -1.4365408199948768,
+        -0.9284641874934044,
+        -0.4611415901540407,
+        -1.86090607577068,
+        -1.3478748158201128,
+        -1.1905218349922568,
+        -1.9253927088993967,
+        -1.1896590365172879,
+        -0.8381291363418556,
+        -1.7613920221038981,
+        -1.9931804247048903,
+        -0.9853444366260979,
+        -1.14143546088402,
+        -1.4294830678046189,
+        -1.6787313627474565,
+        -1.6868395790873167,
+        -1.8167344970821422,
+        -0.2192916317399195,
+        0.33443989291632537,
+        -1.8086503745002438,
+        -1.2362391258425391,
+        -1.2507243807291641,
+        -1.5078053654499954,
+        -1.2979376178155428
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.5137538971787086,
+        -1.1322096139050504,
+        -1.8777336110012914,
+        -1.158380107397956,
+        -1.8547272774119694,
+        -1.800864837036983,
+        -1.1800036547536363,
+        -1.5861734245383103,
+        -1.4665586222592277,
+        -1.932628051981562,
+        -1.2522980290713344
+      ]
+    },
+    {
+      "name": "The Little Mermaid",
+      "orig_name": "The Little Mermaid",
+      "place_id": "ChIJAyFCjeuQTEYRPB41ogyQqN8",
+      "cat_params": [
+        0.05048700205983047,
+        0.06365621782745687,
+        0.06600000843550739,
+        0.2061279902597453,
+        0.09758733319879481,
+        0.10678411912877318,
+        0.17324776057327423,
+        0.07193931309900656,
+        0.06802237863201573,
+        0.15605207545381738,
+        0.03488047918051076,
+        0.0074164301632459965,
+        0.08161374186335127,
+        0.04918039081506216,
+        0.1641839163738703,
+        0.004757896226991565,
+        0.06943039832748364,
+        0.10729692031715085,
+        0.04065150810625324,
+        0.051144657573179604,
+        0.1601507031848394,
+        0.07295120420420863,
+        0.08205254017281487,
+        0.03998326772150929,
+        0.009960117756941207,
+        0.07422578731367126,
+        0.07679351421765876,
+        0.10674673187462184,
+        0.056670860345562075,
+        0.14991557337611222
+      ],
+      "noncat_params": [],
+      "quote": "Iconic bronze mermaid sculpture, by Edvard Eriksen, of a character from H.C. Andersen's fairytale.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 55.69286,
+        "lng": 12.5992828
+      },
+      "address": "Langelinie, 2100 K\u00f8benhavn \u00d8, Denmark",
+      "photos": [
+        {
+          "height": 3938,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114984571333110829583\">Sergey Kachanov</a>"
+          ],
+          "photo_reference": "CmRaAAAAw0Ba5D8l5NHNews7u2XmClP3JPYCt1HTfNuxmRxI22V5MemNs2pHixIo_3pPtsEAqhKd0DIBbAlhYxYIDWo6FwazWnWcb1_15U8yeOBgISSFetENp0xX23cWAe87rrtDEhBMD9WqsiEjK2ebEBoRgXmQGhTwa_-AsDcDe3NnQxYEYq0bmCzGSQ",
+          "width": 5252
+        },
+        {
+          "height": 2145,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100623580602629308386\">Mahesh PM</a>"
+          ],
+          "photo_reference": "CmRaAAAAzE1kT0v4V06ihw9G4zaQjqguXNs63pXuacCJIgjwuXw-G4XxiVsjdwgYnAinlNxdE4bGU4Z6zTUk96d2lC6sXD1XyLockS89tm2FoBTJjhSsuQq_-ODYd2y9uyjgN7KEEhCXBCj_klR44MXn4wViwwy-GhQkx8RE6QLicSrFlhgq0MHLHqVCjA",
+          "width": 1609
+        },
+        {
+          "height": 2432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103694913166520941633\">Ashutosh Raut</a>"
+          ],
+          "photo_reference": "CmRaAAAASW0nZPCteU2EY3ZouH2q-MihReUIE59DZAr1WyR2YKhohq1DISKJ0kMGBa6sG2r1sghgWJotz4XXvkTwiifvgpBbFmWDwNKl2eh-S4CsWpdjotNjGRXue2gmwEOSRP-KEhDW9ZQJPzs-nKjUd60JRFyXGhRta3TiJAZublfaMArv9P_EO34Nlw",
+          "width": 4320
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109072648030238969126\">Abdullah A</a>"
+          ],
+          "photo_reference": "CmRaAAAAktkVNOGx9rfbs5wQuzZXKEcyJt1cn4d3OWnKkFCxiOWPte54UBLckj6Zv9w1jorM8WpscC7SkSE4r-JMHbs2tNubKP3PQ3xtjKYYouD2Txfb8KWjNHTNWl_FC4Mw6E-ZEhCs5HzzkgSbfyrpvxmez2HFGhSrM6Jp2ashLruew9Pc9Gp1-uuyTQ",
+          "width": 5184
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111408017380326309541\">Donato Santoro</a>"
+          ],
+          "photo_reference": "CmRaAAAAkS91UyJBV-VBwARetQ5ot37vyyiNoAVJ5bUuF_ig6zY4fjP-BTgWFL1xRdynZTYhMPiIHbn-8e2L02Cyq6SK0qSx_UBmoW6rcu0oW_xkQDjI-ZUeIUJMPL6ng-DChuyrEhCT4Nif5x521PzVBMb-6xBPGhQZVPcSIDrOKYG66CkaL9OyF8lDKQ",
+          "width": 6000
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117124739018675252613\">Ali Aloss</a>"
+          ],
+          "photo_reference": "CmRaAAAARWwNdK9GErWfZDiE4K-VqnhAXbj88Njqn6KLWSQTXx882FnkkC0kKn7UPy6Lr6nQElzrnAlxfIlN1wvFl_x_azk9KSbdRuE_DxNEKH19iNDN4jX5rZGY-nmVvEiwwtSvEhBjyBhwI-fZzDV-Qhv2XKL-GhQrFFEYsx67pQYi9s2LDtLW0ogZcA",
+          "width": 3968
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101416779726541111041\">vashon m</a>"
+          ],
+          "photo_reference": "CmRaAAAAbx-hIQevVRgJtP-795BKNQkB6895wAgOsH5G-iCpGF10nwTdISaKNCB8eVZRDHQqqWe9dx8nxaYo2h4sbRBtxU2Ql0dTTBNGmZ8vRtnXnRFL2GgCecD6_ucb-N5iLyE0EhCCzq4p0wG3z5perPPDHOY2GhTIw09xy-TcwVTqLbatbxwa_obyJQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112759972899055375257\">Jillian-Eileen Lin</a>"
+          ],
+          "photo_reference": "CmRaAAAAaGYE2LFNSrbMj94OrOZgzdIp_w9Bowwh--9ElbAsNT3yyz_eHQRk_X_RPL8Q_--dlNKwNO1a1YnG2lkraYLXM6JtjN-B5RwJys1qAtyfceds32Utg6orZlKa0owfB82WEhDfTcX37a6BSUcQilkCfhJoGhT-dsntvveqqtEIj-UGBDmEsGYwbQ",
+          "width": 3024
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118396137387451961641\">Fadi Ehab</a>"
+          ],
+          "photo_reference": "CmRaAAAAFPUjSAI_Zecbeb5mGo0VIwWwOgpE7OwtGt71wxdsDWTrjaetv2Rl45KGHXGH7debH1zCajH0G3CDslUR8xoPuUrhzKfDdNpBv5-OuijiEsEkhmIXAq52Ct2-l13akCgVEhAZbjUaVDUn9e1zR4pBIVdaGhRXTDXUdmx54z94Jq-WGR6wVgkNfQ",
+          "width": 3840
+        },
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103046193186853196284\">Pedro Freitas</a>"
+          ],
+          "photo_reference": "CmRaAAAAIvD9OwQvQTGnx4o9H0NNxyZZSqZmP6RlBmZAgPItYM8GKrqUiOyD_qMSYhkbUDZ4pD1iVHcYSkORMtsn3cEVed2kXzAHjvrpI6fRexm02UCsGQVMVWdZRzfWG4rei7mEEhDixQa9lQpQyZveaj82PtjVGhSDw5OepMg6M-CxAPjRxZJSH8FplQ",
+          "width": 3072
+        }
+      ],
+      "rating": 3.9,
+      "website": "",
+      "popularity": 0.9175609240081871,
+      "num_google_reviews": 12649,
+      "mood_params": [
+        0.0024149544678395266,
+        0.00569077975218464,
+        0.0028132060289177037,
+        0.009222814844786535,
+        0.00791817877891136,
+        0.009653535371229833,
+        0.014277962059568093,
+        0.0026778786963405554,
+        0.008885903011560215,
+        0.0,
+        0.011772636722407812,
+        0.005718580472890941
+      ],
+      "top_cats": [
+        "art",
+        "science",
+        "books",
+        "animals"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -1.3435392981732195,
+        -0.5810776511945313,
+        -1.5583996382507717,
+        -0.17969078475617295,
+        -1.2785304808206397,
+        -0.5115446608836445,
+        -2.3948518672343457,
+        -1.5459299886241682,
+        -2.051089455642878,
+        -1.7576147541467926,
+        -1.0585584582106362,
+        -1.2676968803173347,
+        -1.8576737227841715,
+        -1.1503443887487157,
+        -1.3696039835958957,
+        -1.93973278454003,
+        -2.16886787457772,
+        -1.9520188580614108,
+        -1.597402134119458,
+        -1.683892854916579,
+        -1.8407097213380779,
+        -1.781152559934236,
+        -1.9729817673961854,
+        -1.196194414913821,
+        -0.5066402912064994,
+        -2.079252392957449,
+        -1.999464332169506,
+        -2.0378311491570256,
+        -1.4640430760389773,
+        -1.236433710642263
+      ],
+      "global_mood_params": [
+        -0.575955190155712,
+        -1.3432637350615708,
+        -1.0815588876278357,
+        -1.8006050098069828,
+        -1.1065498589479845,
+        -1.8118413522964465,
+        -1.873997210851733,
+        -1.0732212857849464,
+        -1.4938392526710602,
+        -1.6991020548543,
+        -1.8480231992906337,
+        -1.2717659602013274
+      ]
+    },
+    {
+      "name": "Ny Carlsberg Glyptotek",
+      "orig_name": "Ny Carlsberg Glyptotek",
+      "place_id": "ChIJfXQRBBNTUkYRoec4408un1k",
+      "cat_params": [
+        0.08237189946604882,
+        0.05472354908184943,
+        0.30697048206291333,
+        0.5526233902477707,
+        0.1930637109195145,
+        0.20364644919023428,
+        0.3006574361603788,
+        0.23323540465167572,
+        0.16009663087918552,
+        0.24477270936458287,
+        0.058937250623320045,
+        0.1196112408227016,
+        0.20176991406663888,
+        0.1002810776334426,
+        0.2184032696082299,
+        0.15640397677530066,
+        0.4156528371515674,
+        0.24243114954065706,
+        0.16074298029122824,
+        0.12357217579752085,
+        0.4443988262015422,
+        0.1462864368106494,
+        0.27161723776031793,
+        0.11863273286151214,
+        0.007683688135144178,
+        0.3307024887445972,
+        0.19413599361500788,
+        0.29124026249075835,
+        0.23915828828153404,
+        0.175426425039185
+      ],
+      "noncat_params": [],
+      "quote": "Fine-art museum with antique Mediterranean sculptures, plus 19th-century French & Danish works.",
+      "phone": "33 41 81 41",
+      "int_phone": "+45 33 41 81 41",
+      "hours": "",
+      "coordinates": {
+        "lat": 55.67298,
+        "lng": 12.572543
+      },
+      "address": "Dantes Plads 7, 1556 K\u00f8benhavn, Denmark",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115668879462194507919\">Baran Y\u00fccel</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ9qt_bpfmPc2a3d5BxvNi16qjKA2VtU3wy6CSzupkVqQidJEylK8HquEksYoG8yBTb-xpbT3alW9Kca-OdTz8ACIuZuakJGd_EZOpc4Z9nUrCTtI8ySr4gXYOihCPsMmEhC2Jq05COzqInVC6GSYMZjOGhRxvabpQqM9hSrCryIVnMmSq-QFOQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116594824953017371202\">xiaoxin zhang</a>"
+          ],
+          "photo_reference": "CmRaAAAAIEzgb6acjan09NDmUgl-npA65PAaMkSOdTav5urZnxjU0qJuShqxsPaUHwkvU-pxasgw_9DTYen2ovqil5IGpHRt9uNX-L9--CWe2LftTxig9_V73-b7Vv9MIljtJOsEEhDzBfbQO1dvXSHW3z7tiMaFGhSFlJm5MlpQmhToB0CrwvZ-MY-jFw",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112127963379083595631\">Ken Nguyen Chi</a>"
+          ],
+          "photo_reference": "CmRaAAAAYKjY2seLCp_PXWFGHcOMVG0GGfUh6RV2zrmWsRefxpknclVIGgrNvUs9OwdHdK0dA_KhCrzW6AdPy7Ncps5Q9-N_GTfubshgznqGWKS4A_s9cNwe-JJI84jdsUM1AnTnEhBZPIABi4DBBWILeaX8afgZGhRSbdBiWHFy36WnDhPlGDRTFaGrBA",
+          "width": 3456
+        },
+        {
+          "height": 3868,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116716822627048684808\">Garrett Riggio</a>"
+          ],
+          "photo_reference": "CmRaAAAA54xGjAo-ktgG0tAa6HqAw3fdPZir3vC6P0NcAUajNZGzoldl71LYbNDplC1Kxxno8e_MPp_sa5iiUiOCzY0OWNy0dFefFVdHKqfwZ4gQ7hBEm4TKuz2XLWkdGwfdJYTrEhCHEZwJdFi0PFwhE-HAyYaqGhTtCJ6fVG4o2WM9zY9yE90H0LepOQ",
+          "width": 5488
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114340393194112982190\">Nuno Bonaparte</a>"
+          ],
+          "photo_reference": "CmRaAAAAXAGSdPFMSgjeUe8dveEGoRopzMCn4UWxyTdlaIt89DiozuvqXVziMPOGsWXTdOi5aqH8UaBO99aeYfXXSg-aeV77LOUnfXAJudl6FUEqcA8jIuyWRcei8t-o-n3LoSlREhC8gK6YbpQBZ1mucXaY--tkGhR823S39nPYRriFJE7rZd5ZKKedbw",
+          "width": 3968
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116594824953017371202\">xiaoxin zhang</a>"
+          ],
+          "photo_reference": "CmRaAAAAwzfuVN9wxy5q4_HFsNW4TDXDrcqsYgQeOW3pAKE1ptfT_w4D4EFGrO6T-MIex6pX6uZon41cfg_vOMDh8I3nKsuWbA9FXFOxiN3x-mpAhM4-c1J3KUUFIFkwQtdrK_zTEhBSMGFLQUqPVFRoSWq6QxA-GhRysJzTyjfulwXFxo1wb_V3yx2xLg",
+          "width": 4032
+        },
+        {
+          "height": 3268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114268019895033615214\">\u5f6d\u5efa\u5143</a>"
+          ],
+          "photo_reference": "CmRaAAAAvK59d7w-rHGIIDsR2TpJzYgqc89FrKnC7VijlFQ_tNWf-2oUq6hIvlGOxiGzUOay34pTx45OGr3yJSe6nd_2kURFS5zfUOf8bxnPrHEO801o27aGm35N-qd1FISNXRkVEhDRPkBlA1G6eAiL5DRQSBrxGhR4ikVxfo5Sck1QYibTuH-ZeSK-ag",
+          "width": 4895
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112306161654742800603\">Evelyne Ducourneau</a>"
+          ],
+          "photo_reference": "CmRaAAAADQBoiiZXue0TDdXBTLjiZd9GlbaeD3hdrOjgLt1xkSFJIhmN2Fw9XaJphjyBC-mKokwfnKLE5ioIHAXixHSDq_-WpXhMONg_-TkemKmpY9Ksj8I1nRa37qWtg8-11AvgEhAxntDNlUeEEEOpU8mCKo09GhTraz6v68jINn0loSgA_2rBn-QuEg",
+          "width": 5312
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106026535765014076982\">Adrian Ianoliu</a>"
+          ],
+          "photo_reference": "CmRaAAAAK-_gSxkXDImEoj-aiwwLv6uCcXTHallhcTLMaftdnDoF93aak7KqKysT9B3Y057qLFwST3IcWnaEU_3h4y5pVPBZxRHtSAMx-ECEtm5vCNGm3hfr9vk1fbhWu_nLRfN_EhCbXXDPWnHpnwiugQJNXi_MGhRf3XxRUC0csNtGsAU2wI7kxy6Udw",
+          "width": 4608
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111260758895605972138\">Benedict Tan</a>"
+          ],
+          "photo_reference": "CmRaAAAAWI-E9aQf0fD1u498-u3AY3X6-kAK5Nmk-4PCt70i39kCV0pwQ4KDX2DV-x1-9Q3IGGVE4vErIxlnyYFPUEJ_q8mykBTwieEcBDMRyzgUhi0JBpIe8gy7V4RLBG6AshbaEhA6CEleoTtIIVE9wXnPY1z7GhTwRdTcKuKi795oRoUK92tiWrhUTQ",
+          "width": 3456
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.glyptoteket.dk/",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.0023794736713223796,
+        0.053475564010545394,
+        0.06609457486022628,
+        0.13379853567520197,
+        0.07514791377838179,
+        0.1375352139286267,
+        0.12929945428918552,
+        0.023198813265164646,
+        0.12006115779494454,
+        0.0344695635037227,
+        0.07473191503919807,
+        0.017715153306286924
+      ],
+      "top_cats": [
+        "art",
+        "architecture",
+        "books",
+        "culture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.9566661422848063,
+        -0.687883040506356,
+        0.8087470257616792,
+        2.296441869902485,
+        -0.6895992269459815,
+        0.7806636343107852,
+        -1.0389791480730861,
+        0.24539362184703506,
+        -0.6884800803437984,
+        -0.8142802870984707,
+        -0.5637952534038101,
+        -0.2021616211976497,
+        -0.559243204230455,
+        -0.7748551031494494,
+        -0.7800221537812011,
+        -0.16367099386041384,
+        -0.2902503280188463,
+        -0.5385660169574309,
+        -0.06448480693955504,
+        -0.2407111565940845,
+        -0.45442929190267883,
+        -1.064721193045725,
+        0.16432743632021515,
+        -0.462518139341834,
+        -0.5721839800500576,
+        -0.17685480247529192,
+        -0.8999753895890965,
+        -0.8392895037092957,
+        -0.3624707074292296,
+        -1.0610176904808388
+      ],
+      "global_mood_params": [
+        -0.5783424044403493,
+        0.0883213850290257,
+        0.05779857790241133,
+        0.11991113690516275,
+        0.36895761873539296,
+        -0.20372707062107567,
+        0.3027388564523856,
+        -0.25493403113633467,
+        -0.02313685332850002,
+        -0.35950532533223184,
+        -0.3911327285245244,
+        -0.5383809948250913
+      ]
+    },
+    {
+      "name": "Copenhagen Zoo",
+      "orig_name": "Copenhagen Zoo",
+      "place_id": "ChIJhwUoPJRTUkYR78kejeKf2zs",
+      "cat_params": [
+        0.19786399555210957,
+        0.36892172213506025,
+        0.1700592207387322,
+        0.12579332373767851,
+        0.20894894659880486,
+        0.1112942942041916,
+        0.35642460488865957,
+        0.13136909555583856,
+        0.19226228382181182,
+        0.2824649979983922,
+        0.06438211773732072,
+        0.08905704072052928,
+        0.2153112724520622,
+        0.1000307626007534,
+        0.23245276870364295,
+        0.12033293257113718,
+        0.34077168959288734,
+        0.20877402399030304,
+        0.13371740786186176,
+        0.1349082152965555,
+        0.4068695991918788,
+        0.1919637477484336,
+        0.2182331283440895,
+        0.11145620521051196,
+        0.014819343721441289,
+        0.2933669392884404,
+        0.2352195628264473,
+        0.33232778132653384,
+        0.1974905335343443,
+        0.23469096426539593
+      ],
+      "noncat_params": [],
+      "quote": "Established zoo with airy Norman Foster-designed elephant house & Arctic habitat for polar bears.",
+      "phone": "72 20 02 00",
+      "int_phone": "+45 72 20 02 00",
+      "hours": "",
+      "coordinates": {
+        "lat": 55.6724093,
+        "lng": 12.5213581
+      },
+      "address": "Roskildevej 32, 2000 Frederiksberg, Denmark",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118426127014272805862\">Michael Schmidt</a>"
+          ],
+          "photo_reference": "CmRaAAAAu4hneCLWOecbuWjxNLNWyqQGS2aKEdw-1O8e5Iaqzxx-83tiMiafOunJjHsJzPT2r9iVBrTWThRUXa1H2AQEU4xa2r7S9HRxXkt_ZVex_mbSkO77oHEzwStrJu3M69S7EhC9nBiinA3GTIuReUn318nBGhQcRiR0LRFKnBDvUUrsBi_M7gXg1w",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109560784133750877063\">Torge Zduneck</a>"
+          ],
+          "photo_reference": "CmRZAAAAStZbG8mAuUAn23JFryZWtbshlavfZB4qREimv8sRgHQbIpf5Jk8xu0qidhDFP4oP85GzFpy_u4cWzTsjWL9pwZvzXLGtr1BseOW9P0DQ5gPnGThGoXT1Ct_OT2mjcl1wEhBIi4nE8n2Ndqsfux_wJuLFGhRd3PMwAId4bMJH7Ox8oPQQNQE9kw",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110552330440778121998\">Emilie Kraglund</a>"
+          ],
+          "photo_reference": "CmRZAAAACK3Qt7urGAkv-K7Nf8fgNHkaCc_2328MuisvrjPmPADRPhrSmwoZxWRMXYyxX_2BHlTTAwUd5nhIwHZTxBguZlDxSvdO79gbzCfUVRpF2jDi5nhal1_r-Ta4dI2SR4L9EhCq7PGhpJ874NH_Ds5sjtNVGhTrw5Xb1R4e_Q2b145IboRWk_3y8Q",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110176807329632480721\">Jean-Marc BOUVET</a>"
+          ],
+          "photo_reference": "CmRaAAAACOEsXgKYhS1yDuDwOw2QtG9WrZsml7fAxSUEJXHVv1pS1lSV2HVf2zaanTe-LEL3uqSu1FwLv5H8mqU-PTw9t-7Gp32X3RNlhShOovUdcBDK0NOT3A-MJDylBNyvJKpeEhAqfn-P69WKFn-jcqMpucdCGhRtk2que3W9jdcbBOwB2hltCXfs_A",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116190260573440580729\">Mats Kilander</a>"
+          ],
+          "photo_reference": "CmRZAAAAx2QuXKhAUQ-9k2gwZuauCh46UroayHzWl4rl8CoGkgyLEteTqGc70ca6Y30BshlOJwSf_8vgMBPVG9529kw6MOju8QMPFX0Y39V1ooZ-Be_Gll8GV2hgBdjgXAI7iEd1EhAigsZunEUL-GFSf6_GJODIGhQ1NKgZMekUBFvnCnuV4wT0ubBLEw",
+          "width": 4608
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116433419067162500352\">Charlotte GR\u00d8NLUND</a>"
+          ],
+          "photo_reference": "CmRaAAAAT567o_iYsYUFWfLBEwezKTpZwVuFsQLPhwzIk7al_gE3X6UFDjtD5roijHT4g9eC3J9Awt6wajmTsIdwGLGRwrGdxtSim0wm5UCwSxIYNF0qKkZsYNid9NrmIfAabHy_EhDMiVbG0cswJw8pWbbHmmI9GhQjZcVgOPO9zQFBHe_YzRT5G-1j8g",
+          "width": 3024
+        },
+        {
+          "height": 2990,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110711450732788158821\">Peer J\u00f8nson</a>"
+          ],
+          "photo_reference": "CmRaAAAADS-oyjk5ioKVDByk6rP2JQoIPtBJOUa3hMZAxwC2o7oQMqPNqapID8Z04v8BGtiK73bfnnNS5WGaUU2lLtv7FqoRlNZwr0OVZMTCDBskCGWqCqvYK7bvhZP0ThYCF8DnEhBoTq8IBRGLvaM0HbL0NcE2GhRVvSg_VWJTHDfENleNC8Q_N3yQzQ",
+          "width": 4486
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105758339324292688468\">JOSE MESSIAS ROSA</a>"
+          ],
+          "photo_reference": "CmRaAAAA0_hJ7_F6Oc6RvKIayaaHWMpw3nG80zYp6_JhtygwgWg1jf4qhzVbVayARUKulJbCkRjopZdbwHscaQxBIEfEf-L23033kj4C7DdNfphc_RxMHXxv_BvM7D_EzmU6VkrXEhCdCw1da3VauGaQHa0uHKQ-GhSAx_ClSq4qlgYStJczUflbHClU2A",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117322708051975668665\">U B</a>"
+          ],
+          "photo_reference": "CmRaAAAAQZrHz6vOZhDCRESaw5tlM3V9dP4lPYXG3z2UZbBLnHK690HpaLPIaE-gxLMF-66eN6NBbuBcXOiwtGJVQsxWDArBB3DVW2nHYZLKMz-KpXPQvQqafVpVJPP12QPQvbnjEhAlz5CuyMY4WiMdP6dwDqnnGhSQZse8jTe7hY7vN2Dbt9K5OVvR0Q",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104813883355831974833\">Avishek Bhattacharya</a>"
+          ],
+          "photo_reference": "CmRaAAAAlZy4xChkn0Vw9dt7wbq-KQU3XiYbQ2jsDiEwXWxznws3tJXRJLBHY2WXCzcSsR-xcu0T1DrrM7qDF2IG0iA9N2QtqeyqHUCAw-B1zRV_zskSVmtyiAEeC2psXYWsJkYlEhC2nSiGR86S2hgqxHWyx9nsGhQQHKum7mxuFUuMK9h5R55qkXXccA",
+          "width": 6000
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.zoo.dk/",
+      "popularity": 0.9612392071803597,
+      "num_google_reviews": 15235,
+      "mood_params": [
+        0.006327851272269751,
+        0.041425927538621087,
+        0.02171947301635498,
+        0.08254245627132323,
+        0.025632420620860893,
+        0.10521319754767944,
+        0.10112311567529791,
+        0.0156044490345577,
+        0.06826796779779279,
+        0.04305977434036456,
+        0.08419268433352411,
+        0.02669264275094138
+      ],
+      "top_cats": [
+        "animals",
+        "amusement",
+        "movies",
+        "engineering"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.4446490673500949,
+        3.068895493402016,
+        -0.5361855322843583,
+        -0.7537800542912886,
+        -0.5916136100841397,
+        -0.4513759075454087,
+        -0.4455141513598241,
+        -0.8859141664470511,
+        -0.2124597033921489,
+        -0.41351179117035963,
+        -0.4518134810585648,
+        -0.4923406172822522,
+        -0.4129127022853721,
+        -0.7766944250578472,
+        -0.6272477496150468,
+        -0.5861309949978749,
+        -0.6965585909609742,
+        -0.8906067989702394,
+        -0.40945491597544476,
+        -0.01483064684372425,
+        -0.6374596401181273,
+        -0.6184874095304032,
+        -0.4375691712210734,
+        -0.5294638975762047,
+        -0.36673190502660424,
+        -0.45378857044894566,
+        -0.5150258785364518,
+        -0.5723690200027098,
+        -0.613995142896732,
+        -0.6535068105986609
+      ],
+      "global_mood_params": [
+        -0.312688182005715,
+        -0.27267386782051706,
+        -0.7411585954839137,
+        -0.670275967420828,
+        -0.7177710499954549,
+        -0.6101769760421843,
+        -0.23048716345513656,
+        -0.5577648518391111,
+        -0.7082926368419414,
+        -0.025662445615241183,
+        -0.17220860805307947,
+        0.010438728688365628
+      ]
+    },
+    {
+      "name": "National Museum of Denmark",
+      "orig_name": "National Museum of Denmark",
+      "place_id": "ChIJRZnqvxNTUkYRr1KKLRhldd4",
+      "cat_params": [
+        0.09798928330820508,
+        0.06460401099487922,
+        0.26604921398353204,
+        0.3469020605795026,
+        0.13808556635110428,
+        0.23422774084033482,
+        0.4561820801444254,
+        0.33125716968252966,
+        0.15797881438083264,
+        0.34276367696363125,
+        0.08010378727968546,
+        0.07779026108507184,
+        0.24213577557577767,
+        0.08013022306388363,
+        0.4081473527822053,
+        0.13594181505742148,
+        0.4126949675650408,
+        0.3494888585101821,
+        0.13864036221487305,
+        0.14763123574348558,
+        0.37688641622644553,
+        0.17641102737450234,
+        0.331650280655367,
+        0.0975047507630782,
+        0.06149858815584527,
+        0.2976572673522673,
+        0.22769320194406129,
+        0.362321447653269,
+        0.17215532606809986,
+        0.19400152444761956
+      ],
+      "noncat_params": [],
+      "quote": "18th-century mansion with collections and exhibitions on Denmark's history, people and culture.",
+      "phone": "33 13 44 11",
+      "int_phone": "+45 33 13 44 11",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 55.6746479,
+        "lng": 12.574741
+      },
+      "address": "Prince's Mansion, Ny Vestergade 10, 1471 K\u00f8benhavn K, Denmark",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110782056907816747995\">NS Goho</a>"
+          ],
+          "photo_reference": "CmRaAAAATisJXUMzy6-Fu5CFGkHH8whlQaSrv0J7WLLtxT9UeUzP6if8umaMh_mFyQ1l40tqymlBKVXYUCVwcIE8Tsp673Z6oiC90GgLiF-ZIzlgbp5_FGeRFdbxTTTC5ENkc2waEhBXKCTgz-EAMG5f7eHQZMhDGhQr7aWXWwA7JKD4CU-faRTZu9voiA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115279631148776521778\">Stefania Cattani</a>"
+          ],
+          "photo_reference": "CmRaAAAApcMmfjy16fYEAOpffjPuzBn1FFntq7JjAUqo_TvFOHuJ7a7O5k8tIhpDQdMPE8NGNh7MJ5RGr6APff3p4MDA8mdf7adPF8nxttY1G6SqXcqJsnOfRTq3EaSjCnHbIUtKEhAT33JXwVep8PWbY8Ju2v_DGhQ2MR9_o_oHV3vzUygfrTehOBYRXw",
+          "width": 5184
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103122537155591313445\">Stefan Kramer</a>"
+          ],
+          "photo_reference": "CmRaAAAAIYI9KVwsekF4DkmSHGecRzXBxVW3oVToGHQ6SnqOYuu7uwZbDcowY24xOMAOYcchndweoRy7OtjZ-844JF5zDR3bSzhgBndp0EDb021WDNGwqxQ-13OLYECyNVgTKjBFEhBJR_VSwOGQmbOhReOUFq7MGhRPaBLvV_3a3idrKr-piiyieAUMrg",
+          "width": 3051
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108486890928418398130\">Thorsten Gau</a>"
+          ],
+          "photo_reference": "CmRaAAAAoUQFPEsaDbyoRIUMM61rROPBfUmolHSpvP9jgbRyQUPvbZ5goEMRRyFt0Lys2sSJpNzxuDUURYs7-FfVeuJFvPIAv_13iO2cFUIrq6v7i8k6iJohmwMGpjAgSdvXBDUAEhCNwTu9rGxDE-ECVU36IsiHGhRbnD0WYzgrsp4h0ybFnfBqWEIaRQ",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108977429877530929027\">Manuela H\u00e4sel</a>"
+          ],
+          "photo_reference": "CmRaAAAA63rgClSOzozjsQvFNxYgP38r9ndlj4oW7FQsht8Hb6MFOSXytlpgRDOwodvvBAYB3YYd-PQjQNbXcynh1noFm1HDUqPYlZcI3vV7161vzGc3xZ9RfQm8abpQScaJVz-iEhAmPb4el7jFv8qc0LxyCimhGhQ9GdZOJ8Y5dt24-2uQ4m_T-05gpQ",
+          "width": 4608
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100888949114852842473\">Vacker Dam</a>"
+          ],
+          "photo_reference": "CmRaAAAA1sjyc85mu5LZ57dwOfF8LH6_QIFRfQHtJPIpt5ZEDq4tXbaLFeIuZECeUfHyefIc0a_2EMQeLU56Rz9p4atFEBn2ss-2ZK4J-zSh0WHF3OiVRtwoBM4yU1og-SlgQkzkEhAvXdEdyc1w9H0w9kWO8zSrGhRRfMo6hdV2vdFahP2j3A6Ul1CjbA",
+          "width": 2048
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115279631148776521778\">Stefania Cattani</a>"
+          ],
+          "photo_reference": "CmRaAAAA0vJaThw9WU7ojnKQ5M2HRdiMsZzqhR9VGWlQVNrK-I86pz3K85wsVs2rBapd2tOXYo4iHCmtFknBun_Qx-Zi6famUKbbqmsbeCPkVAENZ7VKQZMLcZ0Z1ATsDGbY7gwrEhA9GuyNjI4yRc50AnAI0wa5GhQ5FtFy2j0rjnK7cWLrEJo425lJlw",
+          "width": 5184
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102296311795571794301\">Martin Ochoa</a>"
+          ],
+          "photo_reference": "CmRaAAAAZd10ks_REsnc_dKXanxdUubLCnbRgdyRh44OZUj_8B0LFtsRBVCBtT-BmzYx2htZLEva5wETKbT13QZEJ2FH5IHtGmJTFoEkvUkvoRxRKN0flhDpzZ1n66jhQBABSHSkEhAkdRQgp3paGKT2XlizA_2FGhSbikphxNhwd9xGmY9Xm3NQGFIoew",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111929118211148092640\">Franck L</a>"
+          ],
+          "photo_reference": "CmRaAAAA3g6Ajqi6Jq2Bo_vXspzNNiUyWu5u7Gksdjoqtmtxm5Jk96w-MRQQPhj_YlrfsrxoQkwpzDxDheg-C3jiyvkSsy-8L1uBAl_21YEN6UDww4CUiBMKNIxazEWfzW73kawGEhDQMETh2VRdEbq0jme548lpGhTmPC8hOSkyvZR1l6cwrKBOVSN6rA",
+          "width": 4032
+        },
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108069457696866273175\">Bernard Ostil</a>"
+          ],
+          "photo_reference": "CmRaAAAAOOodJo-NffpubMFlgAstQ7n-KSbHoZNN2fHP-8XgYcA6U61OZgto4aYS9A9YMTfF9Bx15vZHyrWSTAg2kLDDZ8p2DPgMsxClgbN1TGNiIEO0-XERUVsW50v1lYgOdgYIEhBOkrCIBdZVPgPwkF9SO-PBGhTTkVcSAQ1DQ2KaNrU9ik4ofh4siQ",
+          "width": 3036
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://natmus.dk/",
+      "popularity": 0.777706803708005,
+      "num_google_reviews": 6528,
+      "mood_params": [
+        0.005164253441932645,
+        0.06513774900952753,
+        0.020027607046508338,
+        0.14362313320735318,
+        0.03206200545062001,
+        0.1312490594923701,
+        0.1477782663986596,
+        0.04285364064760622,
+        0.0675643364651618,
+        0.04860757107042809,
+        0.12417984336820144,
+        0.019251177551284353
+      ],
+      "top_cats": [
+        "culture",
+        "history",
+        "books",
+        "science"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.767173715925066,
+        -0.5697451568284538,
+        0.4067614971485594,
+        0.8263118128541034,
+        -1.028723399744899,
+        1.1886385273672033,
+        0.6160884200965867,
+        1.3340046374617127,
+        -0.7198217045806371,
+        0.22762229092606595,
+        -0.12847401606899778,
+        -0.5993433466219426,
+        -0.12304200432451692,
+        -0.9229241499203987,
+        1.2832570460033264,
+        -0.4033215239000286,
+        -0.306299853071453,
+        0.5812170592813785,
+        -0.3466154662514626,
+        0.23868667235418034,
+        -0.7836878695819981,
+        -0.7704260660303045,
+        0.841189619731039,
+        -0.6596091073317285,
+        0.977271811743585,
+        -0.42196536886585595,
+        -0.5855472328708148,
+        -0.37751851184559,
+        -0.7669293193135442,
+        -0.933292828317694
+      ],
+      "global_mood_params": [
+        -0.39097721818367903,
+        0.4377089729695414,
+        -0.7716200118379106,
+        0.2713716146745833,
+        -0.5766593753059159,
+        -0.2827755695131519,
+        0.6524430379920422,
+        0.5288165668410407,
+        -0.7176007539330089,
+        0.1899425577624111,
+        0.7531023629129603,
+        -0.444479419485294
+      ]
+    },
+    {
+      "name": "National Aquarium Denmark",
+      "orig_name": "National Aquarium Denmark",
+      "place_id": "ChIJ9ZSRDH2rU0YR3BGeFfl0E2M",
+      "cat_params": [
+        0.13498224841534448,
+        0.25546746577445223,
+        0.14272398576357845,
+        0.1252791817388256,
+        0.2749420728119373,
+        0.11097223980482111,
+        0.3593991179636679,
+        0.1390776468369704,
+        0.1911742920785484,
+        0.3243444721494692,
+        0.07489473747413433,
+        0.14657208035172692,
+        0.24936321817464338,
+        0.1077509163397767,
+        0.2468258684669468,
+        0.15533758814463877,
+        0.43489939668683353,
+        0.17989813238769553,
+        0.13223185834309947,
+        0.1634720275133094,
+        0.43069257244721565,
+        0.2112157727206964,
+        0.26323584293293734,
+        0.1174849965011725,
+        0.00994068290481561,
+        0.3152709901388174,
+        0.25563377581607866,
+        0.4087448598573167,
+        0.2428313460511496,
+        0.3492107794414381
+      ],
+      "noncat_params": [],
+      "quote": "Huge, sleek, whirlpool-shaped aquarium with fresh & sea water wildlife, plus educational displays.",
+      "phone": "44 22 22 44",
+      "int_phone": "+45 44 22 22 44",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 55.6381446,
+        "lng": 12.6561446
+      },
+      "address": "Jacob Fortlingsvej 1, 2770 Kastrup, Denmark",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112564917194747369639\">Olya Shambir</a>"
+          ],
+          "photo_reference": "CmRaAAAAnp0LAEqD8Ll9AaVZ6pmSj7iDoh5eqzQ_KpiH5UCNR8w85HIpymYs17PHzZ8QY9GGvMeW_gUfE8StOYzKNCRbsbm9rbcPqgebvOH8mHEvCBFFjVCmHl1EPrgtJIIqKWuuEhBk8CfH9S2kw4L4sc6Y3DZxGhQjomd7i4-Qka5Wne_Vce1gmeovcQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112916647449209577357\">Oleh Havryshchuk</a>"
+          ],
+          "photo_reference": "CmRaAAAA7qi23EvJt3JriD6fciI2YSCd-qg27lUc8BIa8bgUUIpgq3ikxhxP7rAC3ZVLbCnT6uQJ4-HVD7DS13GmBPEmpCEHmiB2N57INk-TP8_uk-aRZdnxyku-Z1B-hXwSVLPjEhCgvTHT_l2AaAGT4uG1F-MaGhT6ugRQP4gItt3JsFruMk06U2AAzw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100910736189781421841\">Bruce Heath</a>"
+          ],
+          "photo_reference": "CmRaAAAA-eOnJhdv-1TICdkvKLC4wT1cCONppmn9utO03mwtpwoJ6tEiJwnJML1EfWf_GwziH6dE2QiSXYGfP83rQ3kXbasv9TtBaVjRg2-roubH6YA0zK2rwhYEKkU-YjzI8cUTEhDVnygr1ygzmadr7_1h8Q_FGhTDjKkkpYHs5wcdTB8Yw2HQiupnMg",
+          "width": 4032
+        },
+        {
+          "height": 3004,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113931938339639991881\">Karol Meier</a>"
+          ],
+          "photo_reference": "CmRaAAAAm2S2RBm-Qkxo60KC6U_XWkaZ76YS5yZoZIyywA7SgvEQBzQZNFdDw2U6JWnbxs0_moJAf3twgk0e92iqTMPaS-ChaHWd2HWN2KWnvvOzSGlYTWIKD7ws1tgFbVXVsDl2EhBUJgswApYjrd-AVyRVpQmsGhQCbNFW-4xwbMSthXUdqozFNAgBMg",
+          "width": 5325
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107890832919332627458\">Den Bl\u00e5 Planet</a>"
+          ],
+          "photo_reference": "CmRZAAAAGUARb5xjHkhW4HnRjikl9jd4gIAcShDaCtk9LRyuR8ZVnqN_cu-t3j_at0_5brUTDO-ce1RHQiLDdriW7TLwFE7hDeAGLf9gt5pQ1s3NqNN3blerh_uKMeKsnVpy6lDAEhD2ahuquLYTHQQYNV91VL-uGhTVggMT6d2xxAn2ucxJMH25Yhv3_A",
+          "width": 5184
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102747962569472466011\">Britta S\u00f8rensen</a>"
+          ],
+          "photo_reference": "CmRaAAAAukKgPBYwixGwbeEqV2MK7wOh3GFYcjgwldMZ5YMxtBEOfrhIzQVm3XjwRTGvA6P-Q78M34Lj5l-hMDOYagQdXZv1XbVMWQGWNASwHbfrqj2MRlaRIlFS8CCj6wcD9UfFEhBGyhuONZKdHbADU0jnDNQuGhTcHKA7IapSlzLcttg6xj6FZztMvw",
+          "width": 3968
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107981122801567539202\">Robert Ilijason</a>"
+          ],
+          "photo_reference": "CmRaAAAAOBLwIBPSa6XJFS9BVvSAD7amWiOoeqkMdlnRMQfUzNkRAFMiQBxQX0C_YmPAy6JL1PPS7jLAdAquwYVsJKJEQbw9CpFVNDG52vzeNuhawOCxCfZaap71bgxDLOUAuViOEhCaPR8OvnZZE5v14nAXmWdOGhRBcs_7ztVwNXQl55nkuuiRe638Mg",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113221555347523912393\">Olof Karlsson</a>"
+          ],
+          "photo_reference": "CmRaAAAA_BxVuqJiSGqvhcA4BucTQMsTwAWdFWG3fmueKTerJ-AUPBlUX4rcbGfWw5HJlES245gKke1G8LhzVzOIFR8XftbpXEIpeiOT_wqwPtgH25VtU9p7mBqcNUYm7P5DsBkkEhCnho8xNdKREL6rWY8N5pUiGhStUsPCNQ773v5UOdpA_4eC0ydeWA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107318986883081909802\">Rita Kubilien\u0117</a>"
+          ],
+          "photo_reference": "CmRaAAAA-Ob6rc9AxFG5VityKgv6dRBlGb4TRDTiXIIJ4zqd1H3jqtkADBq5v2OiwdB68Zom-tyPcPkBJv_lTrc4RDYJDJxcfDjy9jB12GsKDmK2c5Ntj2Njpax65apxXih1Z2EwEhBXmhbbNf-TsUD43bg-JSwIGhT2tiCM8IZJuVqQ2y3_LYsII4Afgw",
+          "width": 4032
+        },
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100932424519708924194\">Moudud Hasan</a>"
+          ],
+          "photo_reference": "CmRaAAAApjKJ5gc0qzD_KbA1IrlnuPr1G0RLAkp8tTOhX721rqOMEyPNsf1sC_b8qKKcSOOAyGXSZ8Lw7cOKnR9gyaInr3XuXM1OIXsxGFnnOKmUzilDTjw4MfJCRRC_qVj5qUYwEhCdXUlQSGPWkKYlgC4VY-V6GhTZab9-QIeSmbpODPOZtHo1g_3eaQ",
+          "width": 5184
+        }
+      ],
+      "rating": 4.3,
+      "website": "https://denblaaplanet.dk/",
+      "popularity": 0.911923589265679,
+      "num_google_reviews": 12341,
+      "mood_params": [
+        0.010413518497002668,
+        0.06240423905401208,
+        0.034210450343804114,
+        0.1392241850517777,
+        0.04487781241739273,
+        0.15131477690024475,
+        0.1365072990361341,
+        0.03153276358482649,
+        0.09893129309071864,
+        0.054442360612363294,
+        0.1099656614297882,
+        0.02963827002177494
+      ],
+      "top_cats": [
+        "animals",
+        "movies",
+        "water",
+        "original"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.3183221805308245,
+        1.7123550949195367,
+        -0.8047101747743024,
+        -0.7574542265675588,
+        -0.18454522840029702,
+        -0.4556723287248944,
+        -0.41385987461351015,
+        -0.8003044670458073,
+        -0.22856092293438282,
+        0.03177753654460443,
+        -0.23560585551469393,
+        0.05389055238140631,
+        -0.04494088085009872,
+        -0.7199665180047531,
+        -0.4709545083082202,
+        -0.17616041722094955,
+        -0.18581768472557814,
+        -1.1926376852944613,
+        -0.4284173331751182,
+        0.5543283142275892,
+        -0.5212748039815109,
+        -0.43040926378741684,
+        0.06982865815888241,
+        -0.47322472121996356,
+        -0.5071998656770843,
+        -0.2913168397729395,
+        -0.32374645808398006,
+        -0.07593399197369916,
+        -0.3402985556646956,
+        0.13394671988780335
+      ],
+      "global_mood_params": [
+        -0.0377968571606268,
+        0.3558157042508335,
+        -0.5162632031649494,
+        0.2035554230040338,
+        -0.2953877175763589,
+        -0.030448832018987813,
+        0.4391444561718744,
+        0.07738832506933564,
+        -0.3026571726552889,
+        0.41670101343539384,
+        0.4241833096860214,
+        0.19051338701226594
+      ]
+    },
+    {
+      "name": "Kastellet",
+      "orig_name": "Kastellet",
+      "place_id": "ChIJecok-N9SUkYRM2v7tTvxyPg",
+      "cat_params": [
+        0.12575295037241688,
+        0.0966825074088963,
+        0.1908464639151438,
+        0.1580537427164282,
+        0.4149986728110444,
+        0.07614211094577959,
+        0.3801860501033436,
+        0.15418044659773789,
+        0.1986220336080561,
+        0.3020998174229256,
+        0.05555214054997778,
+        0.09191076162629262,
+        0.23033383395241697,
+        0.3006315324516261,
+        0.24361941998425735,
+        0.16585990951369203,
+        0.5039593686756235,
+        0.3907791180697998,
+        0.0942039912507961,
+        0.12057875389385353,
+        0.6625453928755377,
+        0.20439340822974306,
+        0.2023873980299144,
+        0.15361721168601733,
+        0.008734253766077048,
+        0.3182614808979847,
+        0.24655671011725092,
+        0.4436509983784151,
+        0.4449181049309233,
+        0.38084745036330453
+      ],
+      "noncat_params": [],
+      "quote": "Star-shaped 17th-century fortress with ramparts & a museum, regular host to free events & concerts.",
+      "phone": "72 81 11 41",
+      "int_phone": "+45 72 81 11 41",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 55.691376,
+        "lng": 12.594301
+      },
+      "address": "Gl. Hovedvagt, Kastellet 1, 2100 K\u00f8benhavn, Denmark",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104455676880583599125\">Arnold M</a>"
+          ],
+          "photo_reference": "CmRaAAAA8SBwm3TRtPQn5MwvMDFxgU1T6iFaG-FNvf-eK4wr54zZ5muyZdO2jdwmeX45ZRSwZnLlaTcJeUZyQdCIHgmuMJPu42zrWnzRAo1Zac_cFGoDQjF0HToeu8_Svz0EbbuZEhC5PHsg2I5SYEoSgoX0risYGhSzFFBGJNMbfAPvEEAtTFJ_sTnPow",
+          "width": 1620
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108066497356520484467\">Charlene Chen</a>"
+          ],
+          "photo_reference": "CmRaAAAAPdB53YCA1sJg7-wbfWGLDWcWP34QKA8bNVuBCASkh_645rPRtV0WzOr-6r2AlnLk4tfFLNA3PMtTApmZctcFVpjHcbElr1-gChgsRlq2xXydJsHWajtbBWtg39fx8s74EhDuU3KrNIIOKZT0kAQkCb1YGhTVzRXVuW8pCrGLXnojZinja6UQfw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104482832995319133602\">Kai Anders</a>"
+          ],
+          "photo_reference": "CmRaAAAAS8FAHAd-sRIwtWMInMQbjwHZqzDT3WquNpOMpUWnlEuj9_tEAg9EKA670UFq16equPQr0GKAI8Jk0MJ1YRR4YrChLCCvuf-BE0XiuzOrtkZNF3V5TUmg1eZ1RwbBB3g2EhCW00SP5gdfebzJDiNmnnnaGhR3m8UMveNvrNJjeD28vWl13bw-dA",
+          "width": 4032
+        },
+        {
+          "height": 5472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105801966257125468673\">C\u00e9dric</a>"
+          ],
+          "photo_reference": "CmRaAAAA246mJcHLsVowkesR4DHZM0968hYtKvMUDO98WHjRK3hcWQp-Aj8GhOqsFXxuCxcDbk9x_lge3mXoKgR3rn32SsWYuQ9-g3_cJ_NdFzb0CUVMwnzg28cteDeHVY0oONQhEhA_kigoqRfhj3C2K6XPoRgTGhTzXto3qJAbA_o9MsS29kmcwCdDOg",
+          "width": 7296
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106455746746346311832\">Zbig Zanek</a>"
+          ],
+          "photo_reference": "CmRaAAAAA-qFB5WZdDffkjDcooKb-glRehMY85d9QOo05_gDmLVgxH-AeMzlkMcHFgjhfDIlPyjslq8by8KwXjOdi_52nU7OAoLwUMP_yp9HDBfidKWcsOarOFOH6_8dK8QeUUMjEhDhFN3w8wP7JvMwr-Ruhq0mGhSoDgQ8N1g0EmDnA-8TfyMKLi3fqA",
+          "width": 3648
+        },
+        {
+          "height": 1707,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116548127625678713397\">Francisco Lacerda</a>"
+          ],
+          "photo_reference": "CmRaAAAAWe6xJNb-YjhFxlalQzomPzq6q5XEG5zMjrHbQkCQW_vHGFW8CF-tb06gXIUKXfoau7pu-kw7m2Q7Pp5heVQjRZH2RhPBndyf6UwjqFoe6J_4aIDikYww_vxguyFpGXsBEhDUehSyGNXnogBgvi49NjqnGhRXV3Lm_0mZ5qelShpu_-J01waa3Q",
+          "width": 2560
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106916034317563804504\">andrea zanellini</a>"
+          ],
+          "photo_reference": "CmRaAAAAEfJo4xNxE4y6hCqEqLXtoOo1w04T-PyJiM0BNAxD6HYqhhXCXvQe1qyLDKoEpumk4bRcSzhKnHc4ej47EQkvpVc5cno7dT8hOJhpQK-7GeORrPbmA7aIifiOXODLk2NXEhDr_8u7ae0iIowYU2GGfWgHGhSaX8_jx7djVhavmKEdx9n0tKo6Sg",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104052557457261621521\">Yu Wang</a>"
+          ],
+          "photo_reference": "CmRaAAAA4dKtVJcX5cgJZNSBBBJgh1hUjiDd0vUxfSZBmg0ozu5KW37YTAhjwXvrR9DudOCcQOPAH8Q9WUqQRcjXkJxMgZe7GX_AMY-WHRAsof-fjAvZbV4-yivLFhejE7YsqVMwEhBmJPN9akgCz4KvtEBjJdM2GhRVhoSSTkIysWAUlr755vcQW0RdlQ",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106455746746346311832\">Zbig Zanek</a>"
+          ],
+          "photo_reference": "CmRaAAAAeNRe7k7mz0jTfBEaSqmbfyj8GjcihsWQcMmeVdjeQnb_6ZrSXiYpYjtpXPySPDHBJrC-mvjLcy2w9ylSPzrFpGs5fpELgwzJWoHBksFl0ZGixEMPOLTkQdGgFVI84t43EhAxO5WJD98MIYJDLJ_nhY5EGhSTgPenRgxikzhPdYsNL89qk_Op3Q",
+          "width": 2736
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108066497356520484467\">Charlene Chen</a>"
+          ],
+          "photo_reference": "CmRaAAAAfWU8yzB-fHVpax4Z-zQNVyulzIE8EiBzpJgXAH4LUk8rh8Zjp5OvdAtEwsFeg7oBijd7qb9mFyjjHqddOvmC38KFSoTRfrB-f4aSbkpDIHXJRAUZT0CThI5Uf0ActnLGEhCm5iYw4dVGPSK60CtgmFTjGhTG7U6pxJBx9BD4sD3iz_TScvDMlQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.kastellet.dk/",
+      "popularity": 0.5197250000831678,
+      "num_google_reviews": 1302,
+      "mood_params": [
+        0.004715693401573627,
+        0.04711080375816348,
+        0.11232659831747313,
+        0.13309056196501465,
+        0.06501561704076364,
+        0.13554433491462842,
+        0.0988788703641252,
+        0.01993703063017368,
+        0.14657251170457966,
+        0.036798263133702186,
+        0.07908930964345805,
+        0.01312949662874318
+      ],
+      "top_cats": [
+        "military",
+        "walking",
+        "hiking",
+        "beach"
+      ],
+      "duration": 1.4375,
+      "global_cat_params": [
+        -0.43030521798622523,
+        -0.1861916639574852,
+        -0.33198435942555227,
+        -0.5232399752916465,
+        0.679372224481826,
+        -0.9203295531152844,
+        -0.1926487768427277,
+        -0.6325756551740856,
+        -0.11834159250019581,
+        -0.20474184554461358,
+        -0.6334150655424546,
+        -0.46523829207750317,
+        -0.2505760369169904,
+        0.6973256801841402,
+        -0.5058214635715778,
+        -0.05292417619674652,
+        0.1889046342080163,
+        1.01309753116341,
+        -0.9138271239027861,
+        -0.300357708245201,
+        0.6094733046007086,
+        -0.4970587546794122,
+        -0.6162270419697201,
+        -0.13616776834948172,
+        -0.5419357588161222,
+        -0.26913508843701434,
+        -0.4087977832152818,
+        0.1508298439157557,
+        0.879583779034909,
+        0.35148469069195065
+      ],
+      "global_mood_params": [
+        -0.4211571758220345,
+        -0.10236056973275118,
+        0.8901889330004624,
+        0.10899669119456247,
+        0.1465816179586499,
+        -0.22876240806436282,
+        -0.2729586148162059,
+        -0.38499999614858116,
+        0.32757349026989774,
+        -0.2690046606509728,
+        -0.2903017335380231,
+        -0.8187153628477387
+      ]
+    },
+    {
+      "name": "The King's Garden",
+      "orig_name": "The King's Garden",
+      "place_id": "ChIJHVOeQhtTUkYRaKzp1xE05Q0",
+      "cat_params": [
+        0.20447580421283149,
+        0.13092370308536475,
+        0.18669392784307812,
+        0.21657055920553836,
+        0.47842667913059966,
+        0.0943448306763601,
+        0.365849132579514,
+        0.1622887039544594,
+        0.15830596434575495,
+        0.3135358568956276,
+        0.07565423768465669,
+        0.2318312269500486,
+        0.2953733957414934,
+        0.27949747755555815,
+        0.19580211152419838,
+        0.23276129540189325,
+        0.505564284053667,
+        0.3392756125232741,
+        0.166098616725448,
+        0.11742933645461365,
+        0.806311065390835,
+        0.25869786823303953,
+        0.17853870043782402,
+        0.14165486697807056,
+        0.0062411067808997075,
+        0.3292271938190821,
+        0.3322674638915939,
+        0.4772578284544568,
+        0.5490691814539442,
+        0.38630957411474226
+      ],
+      "noncat_params": [],
+      "quote": "Parkland & gardens, established in the 17th century, with lime-tree-lined paths & pavilions.",
+      "phone": "33 95 42 00",
+      "int_phone": "+45 33 95 42 00",
+      "hours": "",
+      "coordinates": {
+        "lat": 55.6852905,
+        "lng": 12.5798452
+      },
+      "address": "\u00d8ster Voldgade 4A, 1350 K\u00f8benhavn, Denmark",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117275231394613163782\">Massimo Nunnari</a>"
+          ],
+          "photo_reference": "CmRaAAAAbgb3-K_95V6j7YpUBcxqkchtu97izphriap8dmeuEL5M0fG3CT9RLzmXOh7ETb7iMrSPRyjhgwvDtFzDUlByjXH0tTiEVS4fg-klqiEBspf2w1esKcrEj11KnuSZiVuEEhCSQySK2cUDXIzcuFQr3zKXGhQcPeHaC51JcSCLmEgm078AwXFCcA",
+          "width": 4032
+        },
+        {
+          "height": 2240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101290928327000144208\">brett castle</a>"
+          ],
+          "photo_reference": "CmRaAAAAqd3_I3ozvNWjGy1RYBD1ZkSFDWa9UjdMa3jwRUObzOYtzT24gvQRps2Q7x88Fsu9zoezsSoWHULSWICd_RWvHOKnRA8lun9FQLK77M6p-SPWMPSJCkCpr61zBoXrjFt1EhCvVhW1jt5Rwwb66DV82NBGGhQ3SZxq22KiJiUI0hguLPTIfsUm7w",
+          "width": 4032
+        },
+        {
+          "height": 2240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112820591277043680050\">Tom\u00e1\u0161 Andreis</a>"
+          ],
+          "photo_reference": "CmRaAAAADbKHbd_kLnvp_HSFdwp0cxpN-tBgPFhY5NRNagU3tFDXoZ0ULzf_izDc6mJuWX0VpubR22u5_580JvytUAQAGOaDCfTtRpG1F7mZiJVpxITISdEuzjaPf8WaaCr5bs4FEhCCXwTJ0sXJQp02iRaE-Io8GhSuoAvv5YBHFCkYybVocewjobLaQQ",
+          "width": 3968
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107630351507040048087\">Federico Hassel</a>"
+          ],
+          "photo_reference": "CmRaAAAAVLWmshGs1QYk4g7Cn7geImI87AD8tzaomEexSd673QZ_DuF-E-4EbDS65h8EvwuK4uuEPjlC9kwy42yk0YLfPwvD2scKOCX_iupBKgDEDFIODG0L_rtjzjF_qDy9ynOrEhCtAgDfXRVP-fWBLOTKy_IuGhRpITUwzx4KeLfHLHWUbrQcHQpKzA",
+          "width": 2448
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115668879462194507919\">Baran Y\u00fccel</a>"
+          ],
+          "photo_reference": "CmRaAAAAVvS7U1VxbvYRmx7-_GeEA79SjqH2wJNic6Lpg9n4Giv9dH8ZS4oSGBBL4AsPxzAzskwKilV28Ms4HQhMtDcHMqkApfkTVrK6_TH8JhoR3GUld_I8TnW1fu3_EfCRvnx6EhBQF0TuwCvCavcnRVXSyh6lGhSTmPIDu4y0OnAosV62g2Bl8t70ZQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113757569314418708857\">Edward Tam</a>"
+          ],
+          "photo_reference": "CmRaAAAAtp8DuTi9okh_rMpy5G67qPEX6oASazGca8Wnzgby_o77Rv_Z5XqcNwwBdwA6X4Of1zoxpKnf_azkaAKxkTTq736JoRecKtENu2L6qeIKR5wHHV7DsB-1eJNAh0J7jvKdEhDqSt9vaigog4wxOv0_ezK2GhQ8sRbcYH64jx7qkZfIcwyq-oeMBw",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115797932128401263796\">Monika Wernerova</a>"
+          ],
+          "photo_reference": "CmRaAAAABH3-s67ND6U4EmcnaQXv4WsGNAbdz3DLN6cHhTE0c-588sotH4IRH7U0goXcTew6vMjXPs7aDIxIfIaiAe5gDUun_B6JIeGCV7gjrPtbUB7YD13e9nKfqPXOz26RxYzNEhByxFxnXSiJDNx0Rjv94NfhGhRyL9-5xDfBrLvSQXVnziTZagxz8Q",
+          "width": 5184
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112239513692494854795\">Nicolas Moulene</a>"
+          ],
+          "photo_reference": "CmRaAAAAIUwVPi1pqEVNZPiSp6G0zaIey9G0y14vGGDbt8PwtSt5hwCc8aScrc1wCwGZy13T2dee8dwMXuzY45yM7GZ-z1oP75Ukkq_H8ZEfcg5ePlgsqCrGio1L3xoO81s9zMrLEhAg3xfkyblfc4sdgp0avHvqGhQDM3Ocs3Tf0NpnNUBIJHRaJ8LKCQ",
+          "width": 2976
+        },
+        {
+          "height": 3268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110011897413425366096\">\u6e58\u827e\u8dd1\u65c5\u884c</a>"
+          ],
+          "photo_reference": "CmRaAAAA87Z3Woc8rXDc_vQX4saHIJoQi9AFNJ1vP6XiaQOICEqS46vs-kY0-F-_yCOU6gkOPj-f-yhaCC6IFS23hu0AnkF09JDO51HbNJ6qdRUrwien-I1j2FQTYLbVuvgXBdbDEhA9m1v3ealtWkMevU_NXsOOGhSC7kKOE89L7pisqbvtAtGooxS3ZQ",
+          "width": 4895
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117918439731086533647\">Jonathan Roche</a>"
+          ],
+          "photo_reference": "CmRaAAAAvvbZTOLOuxkPJfMaGunU0CrKQhTUxOYi6SN4oqMw5AtKaeaeJhwe9yzkPaj5HrGTiqW2bUE6RXrUugAW5ExKCnMWiwFBzTugGjR9FwoATb9SAlOFvMFUK1NoQRzsRpy-EhCj82QpYmWSjo3eUpBO0fkHGhSNTWDKs9Ow59p2Paie7XIagK1ycQ",
+          "width": 3072
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.kongeligeslotte.dk/da/slotte-og-haver/rosenborg-slot-og-kongens-have.html",
+      "popularity": 0.8282564555150704,
+      "num_google_reviews": 8398,
+      "mood_params": [
+        0.0040677015553114825,
+        0.04470370361913367,
+        0.1468719024188866,
+        0.13093138235983498,
+        0.09869895189311255,
+        0.17027059807736916,
+        0.09125271490613841,
+        0.013251183213236378,
+        0.20414348625460046,
+        0.026529649244994853,
+        0.06106788004952407,
+        0.016649192836054046
+      ],
+      "top_cats": [
+        "walking",
+        "nature",
+        "beach",
+        "food"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.5248729818295867,
+        0.22322061124033282,
+        -0.372776335978582,
+        -0.10506588074273943,
+        1.0706180612458964,
+        -0.6774930921708652,
+        -0.3452198846322292,
+        -0.5425268963786545,
+        -0.7149802033090848,
+        -0.08314656690880708,
+        -0.21998560659214692,
+        0.8636127340847318,
+        0.45225387511965803,
+        0.542032049729728,
+        -1.025787389701981,
+        0.7306173092799881,
+        0.19761297269750014,
+        0.4743903756199615,
+        0.003877648268306245,
+        -0.3631126074895764,
+        1.3106196696757881,
+        0.0334559396298445,
+        -0.8851169856613468,
+        -0.247757700929592,
+        -0.6137192432133781,
+        -0.1877976970769924,
+        0.3943046100451347,
+        0.3691528674012107,
+        1.508284338609751,
+        0.38904298246365643
+      ],
+      "global_mood_params": [
+        -0.46475527799479766,
+        -0.17447492150991029,
+        1.5121642608711345,
+        0.07570979333230526,
+        0.8858380265752454,
+        0.20792094150675247,
+        -0.4172805786377946,
+        -0.6516030453155878,
+        1.0891617642808458,
+        -0.6680756143795168,
+        -0.7073212697670923,
+        -0.603546221045193
+      ]
+    },
+    {
+      "name": "Frederiksberg Gardens",
+      "orig_name": "Frederiksberg Gardens",
+      "place_id": "ChIJoefW9pVTUkYR2eLhD6hjJ_g",
+      "cat_params": [
+        0.22115598747477372,
+        0.23553368108325493,
+        0.1785206921333007,
+        0.1880132510141912,
+        0.522143630620691,
+        0.07680295389483185,
+        0.3701870524523271,
+        0.14208563981871697,
+        0.17559919203738608,
+        0.29474927538690965,
+        0.07871370708821258,
+        0.18948760730859887,
+        0.27263288004656716,
+        0.3587171189557862,
+        0.19732303380565824,
+        0.23054028751025749,
+        0.5290171604703101,
+        0.3000221077418398,
+        0.13458539846866288,
+        0.10763694491556092,
+        0.8912684657106195,
+        0.2623414139575759,
+        0.1949797297291374,
+        0.14344742327471538,
+        0.005874252708285493,
+        0.3536504900625302,
+        0.3379139876049955,
+        0.5265031707562241,
+        0.5733397278781938,
+        0.44945225066275496
+      ],
+      "noncat_params": [],
+      "quote": "18th-century, English-style landscaped gardens, with follies, lakes, woodland & lawns.",
+      "phone": "33 95 42 00",
+      "int_phone": "+45 33 95 42 00",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 55.6747467,
+        "lng": 12.5254732
+      },
+      "address": "Frederiksberg Runddel 3D, 2000 Frederiksberg, Denmark",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103689057396342486385\">Limo K. Dominic</a>"
+          ],
+          "photo_reference": "CmRaAAAA7c8MgGn1mXuvs2UqECc9MXybZQpTxgX42iDrmwoFZKUmTfOdaG0wgj5T91J4yZfix7-vzEQliZ1w-KNd9cSaBFX0p5i7JCX-JMmC7ufcLKfqKvXtJvF6o0OuQP9ZgwihEhDviO_pFxM694GMIs4NREIrGhQ6S6_0sfnOuLFBqspNQ0w4mFL08Q",
+          "width": 4032
+        },
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113603650130677388720\">William Tinkle</a>"
+          ],
+          "photo_reference": "CmRaAAAAKKqC-gYy96Yhvh-w-NILkaNUy-1LBOHQR9RBpj1GtIxFMTUc8D9fVSK2CSDHIdw-0TMnWxdqiue8UcmrQOR8XTlcH159tspYutAHQQIms4nTqo7UVZicXnqfU5povObzEhDAKd4D8o5xXzqlo45pkPqPGhSR-SPbgO0wDTZFYLyKozvUH2iB4Q",
+          "width": 800
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102958536292579688509\">Sigitas Krukis</a>"
+          ],
+          "photo_reference": "CmRaAAAA7nyBDJM_gCek-MfxFvEgHiSZ9CtJcU4mtdmtWyDTOLD7EVlih73do3qAGIhdqdm-bMxm3wHWlHuPY-gfCzxDc9vMIlO-C6SRniOdJ7LV_u1U0nvuXJD_DuQdf8uQs8BdEhDZVfEWINRr9taSmIJ79CPBGhTqpIJojG-UE4Hzwb0f9V8PkDGGDA",
+          "width": 4608
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106616440286660930818\">Rafael Tavares Coutinho</a>"
+          ],
+          "photo_reference": "CmRaAAAAeVcHQ99Gc8DN7vAvOivQhDychhSz06ggkEvCeQr85i_GOnNNEltD6zPLFqI7-waNh5SSmGYXRmgQjbMaMlKFRrv0YJXoHKHElHEnZw-ecwz_FWHXwfLohNGdp8OK9YFHEhD6jR6tb2bcy3ShxkkQMBiGGhRH6hkkWxq-JWh6AqKBUvqBvPa3Tg",
+          "width": 4032
+        },
+        {
+          "height": 4656,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109002643319498224668\">Marcelo Cataldo</a>"
+          ],
+          "photo_reference": "CmRaAAAApehTXOV-asITL6DTu7SgnaH-_sJhOjoNLYrx5ix9-qxCkAM0sl2a-1-nY6A8APX3pWTr305YL_umWX4IFiBvdRHZwcmhCVBVhOrqU55l56G-y_hbfcBSuWkXdi2nA03vEhAEi2DbmA0FwHS_nGW9fQueGhRDV6xi-cJEjd-wJdg2baq1dSBjXQ",
+          "width": 3496
+        },
+        {
+          "height": 3794,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106942713582867370826\">Bert Berkelmans</a>"
+          ],
+          "photo_reference": "CmRaAAAAgUQJzUdYIFmCxZlQ8pV4qk7iMa6TDZe_jIzfkIRjQlgeH4v7mMqWdHmAnHr-E07E63KhNTtfVSd7jVRPMz8kYtgqYuy4rRO_VmpRDw-Qk-3Lz9G8T199rfrjlW2Vd5yREhCZB-ziPuyVXjw75KRcb_YUGhS4Qpjo_cTs0_ppBmqlos9wyDEI-w",
+          "width": 2879
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100615287081583429593\">Liliya Ognyanova</a>"
+          ],
+          "photo_reference": "CmRaAAAAyPSXD-DE9InWWDd-LAIikV9wbrlymVYM2NWm9e3HDuqQ54_1D43PXYnzh37C9aXCnB9A3comkPr5wE7buEIcG2WN51NoHMuL-lDdR2x4VL3ngBmual2VpuV4PfDpvMejEhBL874e2o1bTorJhhqGmO22GhQcMrj0wpfNGuKu_ZWCg_G3Nl6V3g",
+          "width": 3968
+        },
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109554968911763706700\">Soren S. Jensen</a>"
+          ],
+          "photo_reference": "CmRaAAAAxzT-vj0-fO1imoH11NZOmFoDKgrUxOnN2_oEHY6uPVEAxAD498_rhkwvMcjE8B7Y-16mrnKooJO-SPbmKW897gp9fa93e4xTxUhzVz7a5XQo4Vyait0zyKEjsh1QijklEhCZ9forefwT4VhflE2_yPymGhR_JZYwNxxk90pHzEeeef-sI6T8WQ",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110300066154034989694\">Achim B\u00fcrger</a>"
+          ],
+          "photo_reference": "CmRaAAAAaIxNFLwAKdRDiK_AuQXy9bSfr-TN-C8F22NZkj8HQrj3kt0NrOG3SdZ0P5n9nrd5NR9DUvKks8Ndlt07WsIu9SoPJvUgP0HhCtMBwpoNau2w-hRzHNQCqDSo6Ttu7laPEhB6MmAxQDailwX9tfKtso5-GhRvqKybS8JDYlY7oThxMO7utAtG9Q",
+          "width": 4032
+        },
+        {
+          "height": 2610,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111595336887765942734\">Ove Edlund</a>"
+          ],
+          "photo_reference": "CmRaAAAAkmAgdDdVYcBd-pXP0-k6c913YRv4pTMYy6GuNoi1FO0VBYQE8BcyVfirRZUo_u62RKrNmr_cWU9PE5JY3knY38hliBIM9ByfrF0xWOjnt88CKq-KRJnpflMFVpGg26hmEhAM9yc8TDEuyjAvhUf5zO4yGhTv3dsGhlryVe0JmxxzFjpu4ZBToA",
+          "width": 2890
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://slks.dk/omraader/slotte-og-ejendomme/slotshaver/frederiksberg-have-og-soendermarken/frederiksberg-have/",
+      "popularity": 0.7022525005694623,
+      "num_google_reviews": 4340,
+      "mood_params": [
+        0.002650455882039845,
+        0.046832890277282054,
+        0.16742952328588925,
+        0.14371504895277376,
+        0.11320025750029544,
+        0.18853057631578624,
+        0.10851466136848943,
+        0.015911416664560845,
+        0.21495231158272415,
+        0.031407558399364974,
+        0.06235107326034356,
+        0.019033140574254474
+      ],
+      "top_cats": [
+        "nature",
+        "walking",
+        "animals",
+        "beach"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.727260810058451,
+        1.4740124791756861,
+        -0.45306520852527493,
+        -0.3091427121932857,
+        1.3402793080513438,
+        -0.9115134659940657,
+        -0.29905645798231456,
+        -0.7668982710464776,
+        -0.45905725409477216,
+        -0.2828975050390617,
+        -0.15706307807620176,
+        0.461467399006215,
+        0.20651552440067497,
+        1.1241402053504908,
+        -1.0092488644666635,
+        0.7046051153685501,
+        0.3248692686880928,
+        0.06381358707854379,
+        -0.39837537954553576,
+        -0.5582345804418324,
+        1.724957608477605,
+        0.06905070562396103,
+        -0.6997472218282121,
+        -0.23103595940046154,
+        -0.6242818228583562,
+        -0.006639643866140152,
+        0.4472120517387812,
+        0.6890697414286329,
+        1.6547917644330465,
+        0.8232204520628165
+      ],
+      "global_mood_params": [
+        -0.5601102149799254,
+        -0.11068658417599574,
+        1.8822965642793938,
+        0.27278862974012424,
+        1.204101736223049,
+        0.43754047824985626,
+        -0.0906050962726222,
+        -0.5455242933801959,
+        1.2321483072406012,
+        -0.47850457007562663,
+        -0.6776279185887621,
+        -0.45780864634620666
+      ]
+    },
+    {
+      "name": "Langelinie",
+      "orig_name": "Langelinie",
+      "place_id": "ChIJx7-FzN1SUkYRedoDcaGxLVc",
+      "cat_params": [
+        0.14038106190401903,
+        0.136950462689319,
+        0.13132889883241664,
+        0.2198696266141673,
+        0.395663885818371,
+        0.08035251841522349,
+        0.3772026010319972,
+        0.1508415108958263,
+        0.17854879829590622,
+        0.3617045086575999,
+        0.09254120614031805,
+        0.11848523734659432,
+        0.2468161394873665,
+        0.23610924250948995,
+        0.24173712276925932,
+        0.17029505866769334,
+        0.5908031857984481,
+        0.26384153041553776,
+        0.10071809716623412,
+        0.13412437857378295,
+        0.6676169798997861,
+        0.26048169500536084,
+        0.21273590366592215,
+        0.14161599361458613,
+        0.007041737546320025,
+        0.42780547724672907,
+        0.2584376539264253,
+        0.4938439790111585,
+        0.3622234180775868,
+        0.40001787740799544
+      ],
+      "noncat_params": [],
+      "quote": "Quayside promenade, home to the famous Little Mermaid statue, as well as shops & cafes.",
+      "phone": "70 22 24 42",
+      "int_phone": "+45 70 22 24 42",
+      "hours": "",
+      "coordinates": {
+        "lat": 55.6993361,
+        "lng": 12.6002016
+      },
+      "address": "Langeliniekaj 2, 2100 K\u00f8benhavn, Denmark",
+      "photos": [
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104878265061657322902\">Jorge Segovia V\u00edlchez</a>"
+          ],
+          "photo_reference": "CmRaAAAAjN7-khQhHogZdrSKQvNPA5CX-jtvF1z5vrFH4fL9mKQA30RrWsqcTYxFr2qrOMj0wtGzXykIae8xV6ySCIKcCJ5l3FiEILE-lsgiRf1W60xcAsbn6Am496kJs4MC95DyEhDKwMU7L7SVVIUXLuh3I_e8GhS9DtB6uFq-ornQGLtXUFrPIQIPiw",
+          "width": 4752
+        },
+        {
+          "height": 3672,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116956970666009295541\">Harry Jutle</a>"
+          ],
+          "photo_reference": "CmRaAAAA5DTnpxo5nQg-T7aHXMBuNJxjW913Nz1nc7t48UlhQM7CX1fN3uh-rCi7Psww8oAeaIWuOXIUrByb-JRPbsvnznaaoW2pJxGGsrhDjqKGDl1sXkv48uJAOCUWr0oAnWAjEhC2g6AqcD4Ligle3a9C-t78GhSbA_-kN7eIV10LmA90nN17h3749g",
+          "width": 4896
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111213716786845290064\">Tom S</a>"
+          ],
+          "photo_reference": "CmRaAAAAs5XslSJkJ5jjQjW6rDjBdTh_LJ_3gX_KHhC4hcMJeOyHrQceN7OMc1FMIHMU-W_JFg25FtUqXrHpbgF5_OJcRmBc2f0Z5b-WFLzUx_wsCHE872iJy-PfD6CukMBszM6jEhD3tltKMBuJWGWjfzjxqLIiGhSpNmLb_WmV9WeoVA7Os_zlrzDA3g",
+          "width": 4608
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107956705973621966406\">Daniel Ring</a>"
+          ],
+          "photo_reference": "CmRaAAAAb2TwCMaWxa5v13FlsG4efRTmCpKszynMzjoySwHHWUFSCr2tiYX6y21EeOpevgaZUhaBngn_ABzZ6DvFS5AAlNn7G-pdwydphCbooe8fdCc6NF2hdAUbAc-WbuclesFsEhA5dk7lvSgpf8MBF9Q7VWPpGhQpiW9GS4L_egEyNlmZO0thEZDOLQ",
+          "width": 4000
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106606044659028068094\">Maurizio Amoroso</a>"
+          ],
+          "photo_reference": "CmRaAAAA_vgwV-YFE-NJfrh57xZNollxkqTv2NYxjBJbmNyTqprte_Rue5JHKq2LXrs_bk5Vb9yewg-o0JiKA2emlXBLBAgbdUdP7cuM5LV-WhvFlvz9RYXVNiXunDBFjC_coIpLEhD6k5L_tCm2QZfpsGM5FycgGhQVF-yX0CpY2uBTtgQCU4sXDKuLyg",
+          "width": 4898
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116224101615626726249\">Miguel De La Cruz</a>"
+          ],
+          "photo_reference": "CmRaAAAAZzM7bHx88EGbbGvmk9bR-tgyPLT7FDZnVCiZmlsn6z22WwzbrkWShx7_Ls678dYTWJlxtWOZQ7DnZcGroBAn76R3_Pk85QIQiyfk8b8LHJ4cB2BlcmpumslHkBLY-YPbEhAOu1Enb1CWeEJXFP9bUuCAGhSXfzz8b3rQgA_8zVDxftHNUAdjiw",
+          "width": 3024
+        },
+        {
+          "height": 3844,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106557879344687969847\">\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a3\u03b1\u03bc\u03bf\u0390\u03bb\u03b7\u03c2</a>"
+          ],
+          "photo_reference": "CmRaAAAA-fDyteAjHtU5CDEeL658diNCDcO5YbLKBqzdjVh2kUDqgE80kU_JDWvMwmN4bPlGovW9aaYYeNXuuoQMgdesMDiCh64Ph_rNqgyJUfRaNHnfcqsnlF0sXEtva1OkyLJuEhDFa9jSkhfkPtIli3NazxBeGhQAL93YULoeI9dOsJPpdQS70hTkmg",
+          "width": 5766
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106707601928776470120\">Alena Pivavar</a>"
+          ],
+          "photo_reference": "CmRaAAAAf4bsu34fiT4tEgS8bpSxq3X9WHqXKyHH22POa42HI2Y1DG4WwUiQtGjRwSoiDv__HjWxw3DCfkDEqOEMCWtjDm-hir1UQP6AnSrQwv9zeH9q61FVvOGhvaO5Niigk-XSEhAizOAvVvIb3iBANcjlS5lSGhSUJV6eWt-X87HyNa6XHSBPsNHdrw",
+          "width": 4000
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106751669665934443152\">Jose Luis Mora</a>"
+          ],
+          "photo_reference": "CmRaAAAA86Hj1RGtUz2p7DMZIaB-q_TTw0MOk1InGrgoqtp0SrAEFG3nY8oQHyoqQsaWok6J3TlwmjwAsRv0GdSJpiim7nEcsYoqkjorb1RNWRs12dJtvntPioft5tqD8Cmq2pMfEhCYzI0fnuPCHBdwQOg8xVyDGhSeGW4NnLdy3r0zPoBPKtGt9ZkmZA",
+          "width": 3968
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115006695092104426178\">Hassan Bouachra</a>"
+          ],
+          "photo_reference": "CmRaAAAAUgxnxmj2iyWalCRmzoW_vSrSbt96NO7gz__dSyF3Um5EZ-eq9q7nIqY0Tn5M4pl9RekfkmTIezzOQRdNYbQqJGVtCzCbohaPQu3R5rv4IF0_LDmKHB5FQn2iJnZVN5fEEhDhWA15_yyskfp2fGTQa4BlGhS4kptgRwpTmZkSpA1v02PLG4cCMA",
+          "width": 3648
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.visitcopenhagen.dk/transport/langelinie/382",
+      "popularity": 1.0,
+      "num_google_reviews": 17845,
+      "mood_params": [
+        0.00575759234770455,
+        0.04164422744410932,
+        0.08687154403977619,
+        0.15183145066431475,
+        0.08549123411171954,
+        0.1557866788620632,
+        0.1029237320106366,
+        0.014837010614269838,
+        0.1754123909232078,
+        0.06322172091359024,
+        0.07946343131858008,
+        0.026790647618593996
+      ],
+      "top_cats": [
+        "instagram",
+        "nature",
+        "beach",
+        "shopping"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.2528160574968794,
+        0.29528086827221295,
+        -0.9166485446881995,
+        -0.08149001641464566,
+        0.5601085844189133,
+        -0.8641599002201729,
+        -0.22439814898581945,
+        -0.669657237865297,
+        -0.4154059504652721,
+        0.4290133155827756,
+        0.12731995984503883,
+        -0.2128554883973134,
+        -0.0724650990410936,
+        0.2232140769152966,
+        -0.5262895837182113,
+        -0.0009802095613715418,
+        0.6601228464394403,
+        -0.31462154448284063,
+        -0.8306772911363146,
+        -0.030449279657767635,
+        0.6342074761522333,
+        0.050882617194841176,
+        -0.4995494294077041,
+        -0.2481203285010503,
+        -0.5906672264653868,
+        0.5433996702485131,
+        -0.29747436127383675,
+        0.476902944672128,
+        0.38040318835644954,
+        0.48330310512153607
+      ],
+      "global_mood_params": [
+        -0.3510562679647252,
+        -0.2661338174412071,
+        0.4318801659432199,
+        0.39791478141968,
+        0.5959650061069867,
+        0.02578541116718294,
+        -0.1964112143039617,
+        -0.588367019393569,
+        0.709087161151317,
+        0.7578948421750394,
+        -0.28164448208971693,
+        0.016430047831615422
+      ]
+    },
+    {
+      "name": "Church of Our Saviour",
+      "orig_name": "Church of Our Saviour",
+      "place_id": "ChIJye06RjlTUkYRK7RPt-oBGME",
+      "cat_params": [
+        0.09257720697767954,
+        0.05887441190906163,
+        0.22220839027707984,
+        0.150449916043607,
+        0.21252070009027313,
+        0.05778100742451204,
+        0.3062062794253678,
+        0.08774231034190837,
+        0.17261223164978323,
+        0.23173401231231613,
+        0.05899963936637878,
+        0.053074105022093206,
+        0.17462519926465916,
+        0.22524707023420715,
+        0.23057345646122993,
+        0.123799165044791,
+        0.48550467538842834,
+        0.16964355842657858,
+        0.12205102006146502,
+        0.1164805647651303,
+        0.4063474443116099,
+        0.194720725034343,
+        0.22717988768333774,
+        0.25219745798414706,
+        0.0075566282099933,
+        0.29444291553071983,
+        0.2287559806661558,
+        0.48639918973838475,
+        0.24124933340212137,
+        0.21728826579311666
+      ],
+      "noncat_params": [],
+      "quote": "Baroque, 17th-century place of worship with a carillon & steps around the outside of the spire.",
+      "phone": "32 54 68 83",
+      "int_phone": "+45 32 54 68 83",
+      "hours": "",
+      "coordinates": {
+        "lat": 55.6729387,
+        "lng": 12.5942102
+      },
+      "address": "Sankt Ann\u00e6 Gade 29, 1416 K\u00f8benhavn, Denmark",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118172673912976403743\">Al Dadlani</a>"
+          ],
+          "photo_reference": "CmRaAAAAikLPP12idroKid6Nm3Nm-uogDgBlpvRePoxCDVcfPxJSKkvsMzy4jxRLP1clACrtzU3pooR72OaKDzJkFX8-1JpcZUL12VYT3VgnFnn0JHV235mf1j9rGxxdFAIhj5CaEhDiBNGDJxy0pd3bbCGCnhEaGhSnHM_NLNpYW_udRKkpSt9rDsnf7A",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103738723807068883711\">Oleg Savelev</a>"
+          ],
+          "photo_reference": "CmRaAAAAosz9ZVsldEXDtp1v3HAbQPppei5X6QIMdXOrKecxLGzJbsmH6w_PUjtutXsSZTkPNtw5Ocn4Mf3xYEU5jvUErL9fcv1TjptniG4s9JDlNfYaxacqnHXTpB6T_HZeaZfBEhBr3Znxgiya9JvP0upiccwmGhTZXAOTj3DkfUm5HyMYQc0vmu4Lvg",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101086978106430687809\">Zagalius M\u00e1ximus</a>"
+          ],
+          "photo_reference": "CmRaAAAAdOPC7xFEMOdFs4SJ5qes0aqoEZBIKqt6-cWe57_b5XiwckbbFv_wqJhRj7nJ4jXXa4LnYG2LA71ZQW7AtOKIiMqtHSaHpgFBIB4OrQs57_LgWmAwg9r3cIZErxoDru6IEhDLtxNuFpwHPbVTKZ1K7TaCGhRacDD7y9rXaiWvhRZ6dLFFEZPntA",
+          "width": 6000
+        },
+        {
+          "height": 3167,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100157874547467026913\">\u0420\u043e\u043c\u0430\u043d \u0412\u0430\u0439\u0446\u0443\u043b\u0435\u0432\u0438\u0447</a>"
+          ],
+          "photo_reference": "CmRaAAAAoZQTexymWrX6_ZpQ5hFTVrla2VNVfoo7gFgOdOw43buWb67QVH_g2t0xdXqjzzHubD-AYMY6KF29PKT9SM5FIfn4AfACoX5zytJY2onbRvBJG_EYzgF7Wt8kOUwkpq_ZEhB8q9EXMRHhGAdkQ2rvypR2GhQkHP5C2WWbtbuVdLPdPNpfL4Pzsg",
+          "width": 4561
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108613959868049378302\">Henrik Carlsson</a>"
+          ],
+          "photo_reference": "CmRaAAAAUXFB4mFpzSLt19jqdP_6qme5HH9QzkJe00NENMHNCWA9VpKIy7yVEfvqR4mqKXBrU6aciaJsoI6mRPokGeihoID3nAbQgWqWPilSqiQ7C95HiiDhb7sjsvrhltwwVimyEhDIXphCTZV3qkUJM2z03QFnGhSyKwjweBdgwc4LS7gCZu62lwPv1Q",
+          "width": 3024
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102925496964584972187\">Santiago Robledo</a>"
+          ],
+          "photo_reference": "CmRaAAAAVup-630_WygWtT0L61ZkZ9tcX2nboXUHQxjINEGPBF4A5Y8MtdY4T7z11UlUaYh72BcTduUQ4wF8CZRXA3sQpZSeuoopr8fcASXxbnl3rMunEnWU-OAOqicve76uQ1QaEhCZ-UFgbfeusmJ1Ttg8017ZGhTOYD8N9zT5yRGKlQ6INdz90DyRuw",
+          "width": 4608
+        },
+        {
+          "height": 2645,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111298858882861323088\">Kaija Kaarna</a>"
+          ],
+          "photo_reference": "CmRaAAAAxYqwEKyTgXzzDpYggUDKhelu-CPMgBaYgr_uKvHnqt1CupqT7gCHIQm--m64BiGrIE2UPSC2snjrYUV4oLQISXfkyxUT8gWtTQzAHS7Pg5ccm9-HBcBaUEFKuQjigeV1EhBBq_3H3J5K0ACPnuYVNCoLGhSEHRZNVhR1Y_OA4k4LgranrdnoWg",
+          "width": 2818
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116768647292543426899\">Fabio Scollo</a>"
+          ],
+          "photo_reference": "CmRaAAAAe0YdeW0DkzqzhofnYzIXOYuYtQFSYKbYYc2rZ2M3HBFqRaAEyQlLu0mZXe3yWCxzGY5F3r3glnxXsR_qI9EAC5OfwThnt85f2P5kFEFKJJFP6g52w1fU7afC3zZfnQZIEhCgeCDBd5zwlUTMfsbgQIRjGhRx5XLuR81gzQIHH4mfSg5r5VTNLQ",
+          "width": 4032
+        },
+        {
+          "height": 2880,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105838626103212769233\">Olexiy Zozulya</a>"
+          ],
+          "photo_reference": "CmRaAAAAr1Xo7xUz0GtXWN9mbncy5uOvmxct3QTJKrrRgHiFVGXWefmvlV7KVr_rj8QhL9Is4x8Y2MIDIe01hintdN6PC-dNqqEJZQi1GqHmn4gas17q82FtI3ChRgfQZ8IZKs5OEhAm06md0uzCOJ3cD64UKlQ_GhSAmu-ByfGXgihXicDrBtPMkBAd_w",
+          "width": 2160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101383018942792155765\">Denis Poloudin</a>"
+          ],
+          "photo_reference": "CmRaAAAAore3nv3I1xtTvjGqK1Xb7pZ_QfP5D1EWfto-X2mfvNoawuW_wxwUk0CBvt-MvhRUMaKM-hybGvDgWoo9Lud_RacYd2t7AsKSWBF8a0O6IbLKx1bC4dUPWjLNXsY8-FCaEhAX6vzhYEGPM1t8tQE5v57vGhTU4FGwsXm0BHQnGaKukJ4jVaxGEQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.vorfrelserskirke.dk/",
+      "popularity": 0.694102143484349,
+      "num_google_reviews": 4142,
+      "mood_params": [
+        0.012202997932315341,
+        0.04004233356914201,
+        0.05001805203490376,
+        0.15628484185085084,
+        0.07930287672005357,
+        0.1426526690303598,
+        0.13231770095230805,
+        0.019061433172613714,
+        0.11933778022706726,
+        0.05683498395292972,
+        0.06465108074298628,
+        0.019190325998362522
+      ],
+      "top_cats": [
+        "religion",
+        "views",
+        "hiking",
+        "instagram"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.8328407627160354,
+        -0.6382523497390098,
+        -0.02390396166092822,
+        -0.5775786000629644,
+        -0.5695818016674583,
+        -1.1652789598046625,
+        -0.9799292747315849,
+        -1.37042491714401,
+        -0.5032613625014166,
+        -0.9529160451249029,
+        -0.5625121363183362,
+        -0.8340773383298645,
+        -0.8525741706721682,
+        0.14339852918698215,
+        -0.647683411137709,
+        -0.5455348712351623,
+        0.0887686905544547,
+        -1.299896643908704,
+        -0.5583714683288254,
+        -0.382017713887226,
+        -0.6400061937557336,
+        -0.5915537661065848,
+        -0.3366960058977451,
+        0.7834314663081787,
+        -0.5758423300024715,
+        -0.4458075936221685,
+        -0.5755890876249163,
+        0.428538701464234,
+        -0.3498482624070803,
+        -0.7731700874815474
+      ],
+      "global_mood_params": [
+        0.08260266284391729,
+        -0.31412498180366255,
+        -0.23165322503861965,
+        0.46657029169371683,
+        0.460147609146367,
+        -0.13937498572694518,
+        0.35985797605590775,
+        -0.4199150843148169,
+        -0.03270618714096193,
+        0.5096859565622425,
+        -0.624405278912168,
+        -0.44819944975164083
+      ]
+    },
+    {
+      "name": "City Hall Square",
+      "orig_name": "City Hall Square",
+      "place_id": "ChIJmR7d-w1TUkYREP3tqhywFyc",
+      "cat_params": [
+        0.15227230682192985,
+        0.06443106959499895,
+        0.44253468845693134,
+        0.29947162991735216,
+        0.31363965400133076,
+        0.0939734019162346,
+        0.42145917332306865,
+        0.1566294515407228,
+        0.29189713663638506,
+        0.25678572845803177,
+        0.07998462511675208,
+        0.12455876672210288,
+        0.24652423380793329,
+        0.1849167560332038,
+        0.22887751489572694,
+        0.1476861676042341,
+        0.4557744123427491,
+        0.39357650841571973,
+        0.19065653587917056,
+        0.10296960942873301,
+        0.5709372332625905,
+        0.3063083467707659,
+        0.2039741279971167,
+        0.22780208765245588,
+        0.008352222289269462,
+        0.3993316677022071,
+        0.34718076640201184,
+        0.40054154413647364,
+        0.309736009282975,
+        0.3235773425150117
+      ],
+      "noncat_params": [],
+      "quote": "Large open space outside city hall used for concerts, cultural performances & celebrations.",
+      "phone": "33 66 33 66",
+      "int_phone": "+45 33 66 33 66",
+      "hours": "",
+      "coordinates": {
+        "lat": 55.67591419999999,
+        "lng": 12.5691285
+      },
+      "address": "1599 Copenhagen, Denmark",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113663069735599754151\">Oleksii Rodionov</a>"
+          ],
+          "photo_reference": "CmRaAAAA8IvGB2XVWm3KrVHNAUwgcFt7dO97UXLA37itBcGxPpFfdHMV08QT7xDhF3h2zW0AmQ7JwndwiTTp0PsgglaCGGC8CB_MZEPmCApJmvBol8E6NEPeuimrW7EzGT4ud_ffEhD50qG_mtGzIbi9zrMEa-9MGhRMPM-4h5e4c4-rJaNjlM_XEijd_w",
+          "width": 4912
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105215634692874384458\">Kirill Karpelson</a>"
+          ],
+          "photo_reference": "CmRaAAAAbIauLLX2W66jIUW8GI5Abhe_ywL1tMqoi0VcE-tGdL8fCFXQX3igocGAovCvxhmo01FAQrgpadd-zO4MfBYious2AFlODQC65D6ZEV2p4XFTdpZLg5rT8QeVGHDy27WjEhCvPpeIGuRG_5gV-H4fdC99GhTtKSqujgJxaHCwvpNyP8RpKrTosQ",
+          "width": 3024
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118130810341550238052\">Yuri Shevtsov</a>"
+          ],
+          "photo_reference": "CmRaAAAArcANBDX87XsK6hqHrEJmI9XsqBIlK9ai90rhVeYotwFSbbAdi0RIkdelBmQteTbHwqyfqUnLPxWBtN5XeUGx6qGJuUD7hIsQ8Z3-Fn01IRwkU3RQD0rEIbFysNeJ-YkWEhAK80PDzBpJp0YeNmO2UzpkGhTgoyXGqcedIVThYanvmWTRnR5F0w",
+          "width": 4898
+        },
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104841149692079795836\">Ineke Scholten</a>"
+          ],
+          "photo_reference": "CmRaAAAAxa3MB6_5YZOijbxSbrhhJsUFz3p2rT-QHxlcDvOAe78xadkQ7TnsPughSvWKsbk_-J2tBDBGmzzbJwSsSeG0gv0UupSsyqUbJsWfJ82A5zf-YX79pzrbsHZaQW6Z1J7-EhAbx5HRf4IIJj79fk9gR5XJGhSERBjM0ojJJ6jSCqCXuPoyeJogTw",
+          "width": 4640
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112189799663427178789\">Ugur Aladag</a>"
+          ],
+          "photo_reference": "CmRaAAAATzbKDe0OG8u95wqSMj9d5W6DYNLZTkG8ZcZyw9XBoCvnA9MVPXEujB0e7e54k8CKgz9SNz1o-m_HUSJQnOGUmWlxYqumyWnykRfcEL_xBfYa9Lw5xYxS_qtiNehd9t6oEhAflwTvMHC252nTBV7UR4DzGhSfFAa0VpfuLkVCvoJNNlFje1WBxA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104225811884794231249\">Sergey Yegorow</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ_BHn3MJbpkCTFh3CcLuRuwZGq5Ogra810ydUApy6CC5nMcwWSWn19Ufw_5sgqgPLTDPTaYFJ8yHCclKpC4t3BdHUz2WapWdXcH3VB8t-iDpMJ_IXo_6GyPHHM4bfRnjEhAD9rGOK1V3NuobGVj0AljKGhTt-DvlKvKfgM_ys1HiR5qJvQN3FQ",
+          "width": 4608
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105614094333739206501\">\u00d3lafur Gu\u00f0mundsson</a>"
+          ],
+          "photo_reference": "CmRaAAAAd5ZUED06YCt1_PGGzSNJ0Mr7qu0uAm_2H3EuE7S5ZcAdmVkzx23eAJ-0TJenldZMqV670ieGWbkNZHZUid-rOVq_z7u05nyNH6QOI6iWMbY8BxuwnEibueD0JCeJlXHUEhDpbwdkc_KNyiYniCjZupFbGhTAsLTWmwaAJUD_m9KjdgRwpYK1fA",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110242687741330555745\">Burak Alp</a>"
+          ],
+          "photo_reference": "CmRaAAAANKeVO57mLirs0t68nhob1r0JyjD4PRKQe4RXRS70Vck01UeF7X39YAlKALtL2jLz4QMqBP7AMR_IHykHFrY91zYodOffj3iGfgtVbVQXrSGKOGp-oggLqbE9buW1mrrZEhDRswFoEKY2G_D9A1P8qjjKGhT1k5afeG0c9GlbtlTSppf6rhUFjg",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113508223728701381872\">Jose Alberto Ramirez Villar</a>"
+          ],
+          "photo_reference": "CmRaAAAAJIbksB0LKsz4HYVrvLFTw3HZrvxO6lKIC95j0Oem8gRM1HyJ2Fp-RsTD5B0WAbvPCRl4KQF66YxTkhWH3LJlyjK3C5BFa2VchgRP7QaLWJ161oNvgStevMsEyki4ch42EhBcCcH47bDqZP3CnHo6UJqhGhSRY5jsRJcCLx17fn5Wou3VElOPVQ",
+          "width": 4608
+        },
+        {
+          "height": 2659,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115611016636294220774\">Claus Brok\u00e6r Rasmussen</a>"
+          ],
+          "photo_reference": "CmRaAAAAcxFDHQJ51nICnvk0S2gwHe0V74-J4ghwLqh9SPZFChNTQRWXeuyGVnQAHUTgcZVFd1eW0YazI6HSIfOV6N1-YCbnXNd3asWIwGW1keqxCtaDuqDZ7SCuKmbc8aasg2Z2EhDEO2wJvIQjPigsvnJYViQ-GhRVJoilarcQjE-h4raT7Ee1RmxUOQ",
+          "width": 4600
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.kk.dk/artikel/sev%C3%A6rdigheder",
+      "popularity": 0.9412210690650328,
+      "num_google_reviews": 14005,
+      "mood_params": [
+        0.0037847960883172745,
+        0.04251308339563401,
+        0.05403758548827514,
+        0.12007335907639996,
+        0.0665495927303631,
+        0.13070442061356555,
+        0.11292680189122904,
+        0.02201740578345448,
+        0.14263372272865948,
+        0.03330073051490554,
+        0.0744644091267486,
+        0.018043988779597273
+      ],
+      "top_cats": [
+        "architecture",
+        "engineering",
+        "military",
+        "religion"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.10853447520967956,
+        -0.5718129681475994,
+        2.1404469394252867,
+        0.48736347994367285,
+        0.05415480982748445,
+        -0.6824482003600177,
+        0.2465729820255624,
+        -0.6053774736540019,
+        1.2620392063272565,
+        -0.6865501924785667,
+        -0.13092476278556334,
+        -0.1551740354061708,
+        -0.07561948749875846,
+        -0.152949755155092,
+        -0.6661250979488014,
+        -0.2657729915591623,
+        -0.07254896988118863,
+        1.042357174370296,
+        0.31734919712433246,
+        -0.6512353254577978,
+        0.1626995581279459,
+        0.4985753509236145,
+        -0.5983369358166551,
+        0.5558608857035428,
+        -0.5529353311308397,
+        0.3321972243065178,
+        0.5340409722881471,
+        -0.12922591765451488,
+        0.06356668141442051,
+        -0.04231221290201613
+      ],
+      "global_mood_params": [
+        -0.4837896864158212,
+        -0.24010374801618345,
+        -0.15928302299296718,
+        -0.09168244729217824,
+        0.18024815852446263,
+        -0.2896244126722456,
+        -0.0071070888681559075,
+        -0.3020435173825714,
+        0.27546849254646916,
+        -0.404929888048492,
+        -0.3973228695988906,
+        -0.5182783375447687
+      ]
+    },
+    {
+      "name": "Botanical Garden",
+      "orig_name": "Botanical Garden",
+      "place_id": "ChIJ7Rxj0RpTUkYRNLMP89LTNhM",
+      "cat_params": [
+        0.1255464167017862,
+        0.0955825237269847,
+        0.2699986433989504,
+        0.24572376111386937,
+        0.49256199688660357,
+        0.09528612479309735,
+        0.3657823474418226,
+        0.1296340282171397,
+        0.16212663750177092,
+        0.2745565020110535,
+        0.07071058815046181,
+        0.1940990401493887,
+        0.2473696105274294,
+        0.2285806890468878,
+        0.20987322322388444,
+        0.2055176562520234,
+        0.49413681597831327,
+        0.25922902100627504,
+        0.10867408338352488,
+        0.11711486332629606,
+        0.8714524600563454,
+        0.20303267537815553,
+        0.22214875861321878,
+        0.1256780831705495,
+        0.012293977886966078,
+        0.3177745610018319,
+        0.26202548063252323,
+        0.4127891608149303,
+        0.482877174723473,
+        0.31023175458585767
+      ],
+      "noncat_params": [],
+      "quote": "National Museum of Natural History\u2019s plant collection, the biggest in Denmark, spread over 10 ha.",
+      "phone": "35 32 22 22",
+      "int_phone": "+45 35 32 22 22",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 55.6849,
+        "lng": 12.573206
+      },
+      "address": "Gothersgade 128, 1123 K\u00f8benhavn, Denmark",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108824959486895864147\">Natalia Mashynska</a>"
+          ],
+          "photo_reference": "CmRaAAAA9Ta_HGfZpFWXpfiF90yngUAQK_1i0KHZdRwMY41wYjxqb18Yo3N1lx95OwK6788NriF2Oxs0T8V0Ux5j5EDp7oSSxMhCtZqr2QSu81joSpBIkNeil9_KG561bb6y8huOEhAVK2-tmZi6WtEciXPOauoLGhRPGNL3Em7Vfs2njimsjbtmBxZgIg",
+          "width": 4608
+        },
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100159023917232674240\">John Sommer</a>"
+          ],
+          "photo_reference": "CmRaAAAAT1pocHxZnJxAePSd4nSnyy0UIOpSC3bAMH-rMa6edCDRX6HKmQ1nN_OxqOVPbdc3Ie-ufknU5bBHl3DEffmLsM-YePt3rtOxIShc9F1LuKGPdyd_J3_0V4gW3PixFC3HEhBrF_qJxHPWLfOe7kTecTDKGhRG9hqxCky473ja4-TGAAmFlmu8pA",
+          "width": 4608
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109400953265534420241\">Sandra Roques</a>"
+          ],
+          "photo_reference": "CmRaAAAArl3PMd1rr7IcU-_i7LTGeeE1pXmWQowFwoYXl1f8x_hKDj7ERK1XGztHNd4oF-h0csH_3QPh174DTFA26E4lcPs8tcHJK0palAg9Y0fIO_MmAwK7uIwK_DM_daayO4VKEhBEEAGkRd-cbHQf0WshtL05GhSmQiwanKCZWqzT4j9IGpmi646ljg",
+          "width": 3968
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113985437216054310687\">Zuzana \u0160torkov\u00e1</a>"
+          ],
+          "photo_reference": "CmRaAAAAtexLlFdhSu3DrKNDK_CDxyJ8QFmv8ojvsA-vrMzx7MdF8go5QZM9EOiHLpzP5hWnx91ZZr_EXs2EH_piNTzrltLeu1JuiPgpUSHiRUtHELV26ac4nJfOaerCLsKB6nuNEhAaKrY2QUr3hkoRK6QGGOXFGhRYmAcVE3ouwAUcTdq1e0ZZE0-cvw",
+          "width": 4160
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115832227525516786717\">Martin Vasilev</a>"
+          ],
+          "photo_reference": "CmRaAAAAb2Xt7lpsjA3Q-TnuzMDB8uNna7r_9MWaHU5qqv3DlR8qmytMg1s3pqX0MCjn5qmCtqEHFdSVl5dSYMINsRfhsFUxGCGqpv2rItQaPN2n40Wa6e0QYeGqWWqDZSSTaBAIEhBMg6C8wxmLrf-YiMnxvmYKGhSil1_aXO80QJUA-4rKOENdB7LglA",
+          "width": 4608
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112459103349665974467\">Hannah Haken</a>"
+          ],
+          "photo_reference": "CmRaAAAAP1YYCi4k8k3apUSBr9Fn_fQBNuCgYEJReNX8ZAeQm8qF6GeDT-VFkmR6MHPZpRYLvVSidHwpn6NB7BMLj1wUTLCY8mD5x5BRczFApgJ2Lww32j4L2Wi_Mi9WJfI9SShUEhBdQa9ClzsoCQhh36hbGaFfGhREil7SMCRjsdsLs7Ha284FNtnVYQ",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107075710810865728774\">Elin van Drunen</a>"
+          ],
+          "photo_reference": "CmRaAAAABwZMhMbuWEYlWk8R7JGj-GtyHxlIbLd6xh5NHls8hT01Vi6vpuwO3MB_CmoF-8dm_7DOrI6kB1EJSY4Kibj4RXVskuyiAuBG7RgQoakU9icb6n6emdqPlDX1oJD40hJZEhB9Lk1hQl39mfGOwkEB3U2qGhR3MDBajHwuqbb_cq9GXCGGgGGyMA",
+          "width": 4032
+        },
+        {
+          "height": 830,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113931471569392081310\">Hugo G\u00f3mez Albadalejo</a>"
+          ],
+          "photo_reference": "CmRaAAAAk6MFMQ7Kt7NMkyAdSd37zpCQpR9Yg1pwCkIAQv0uMjw9BP3k5UidCF0xZQMSXj1G5CUz3yQ90NZosn1i5HurgbAmy-FF_If6qkCHdXLhdpkIIe-zF5aOprX2f6xoH6XgEhAFG4VOvK-c5e_Au-h0UehxGhSiOHF6wJMJHZD8k8H7JPUbaCPWAA",
+          "width": 1125
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100029299039343835791\">D\u0169ng Phan</a>"
+          ],
+          "photo_reference": "CmRaAAAAPC6PCyVifs9Bj-YEXkE5PQ28_r3C9XN4Y6UeAbqDZN4aXaSL7pW3C--tMFY9zxTnjhIgdYbIHZ4Y8V2-_Sqc5jJalROfu9vJWpjn0AaxLE8cHRbGWeOeGSCwpaZRRAJXEhD3L3OATV6g-buFwfJU57QDGhTDNeWo1BoxR4pe8H-5918L6cZ5fA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117193638213700898811\">Oleksiy Goncharov</a>"
+          ],
+          "photo_reference": "CmRaAAAAdne7cATV8m5U_PoXPcC-KnggLNSwpscqOCuIXTpn2oPz-S925xGGX1VnSYZlJbSXsJ5-gorkjzU1RiWEVNjhZaJECr_p4ir1e9vQG0Tpyr8q4lFk7XTqFBrS0VLIu4fEEhAKXK1zdBbiy9eg7ourQXymGhSMaPTx50avWb15W4y7mfUxc8Y7uQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://snm.ku.dk/",
+      "popularity": 0.6515531847743263,
+      "num_google_reviews": 3216,
+      "mood_params": [
+        0.0059906292425798814,
+        0.05086719626824581,
+        0.13568979183868954,
+        0.16450668741447919,
+        0.10123756137202373,
+        0.1750357436733843,
+        0.12269423027349202,
+        0.022135341995556543,
+        0.18615933798367726,
+        0.03831710920736981,
+        0.08226990555165366,
+        0.01979591479238096
+      ],
+      "top_cats": [
+        "nature",
+        "beach",
+        "walking",
+        "food"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.43281117972529365,
+        -0.19934385718540443,
+        0.44555827803514925,
+        0.10326933881737664,
+        1.1578095803283543,
+        -0.6649355988182503,
+        -0.3459306010344488,
+        -0.9051834931842945,
+        -0.6584379568581948,
+        -0.49759997357529473,
+        -0.3216590956052013,
+        0.505263045685796,
+        -0.06648418539865926,
+        0.16789405408829314,
+        -0.872777969844672,
+        0.41154288046392024,
+        0.13560704924547104,
+        -0.36286664542139085,
+        -0.7291224604277328,
+        -0.3693787598378649,
+        1.628314786225839,
+        -0.5103521153491012,
+        -0.39342111665676066,
+        -0.3967960601689727,
+        -0.43944304482469365,
+        -0.27274678194379653,
+        -0.263856733527184,
+        -0.04966064185548056,
+        1.108721001771551,
+        -0.1340782563162077
+      ],
+      "global_mood_params": [
+        -0.3353771102540154,
+        0.010177253888639883,
+        1.3108345266187849,
+        0.5933220139030307,
+        0.9415535112351338,
+        0.2678427283776927,
+        0.17773761478112543,
+        -0.2973407247830926,
+        0.8512551360143901,
+        -0.2099774776489935,
+        -0.21670209907759905,
+        -0.4111780668199186
+      ]
+    },
+    {
+      "name": "Copenhagen Opera House",
+      "orig_name": "Copenhagen Opera House",
+      "place_id": "ChIJAT81qSVTUkYRJPOOnVNxCr4",
+      "cat_params": [
+        0.10585997738866298,
+        0.06460827605003731,
+        0.4016725140314125,
+        0.28403556242515676,
+        0.30019658050168385,
+        0.06890602617629812,
+        0.3093443547409418,
+        0.14049153808529002,
+        0.24430821534373756,
+        0.189986694653212,
+        0.07292356929972485,
+        0.09417294216273762,
+        0.1628982516588158,
+        0.16581388832488378,
+        0.2126463593362472,
+        0.17341529938707892,
+        0.47077802996665996,
+        0.27591567025106106,
+        0.29669632880552027,
+        0.13416488993634154,
+        0.5155833154665387,
+        0.22829196723169248,
+        0.2837387786883757,
+        0.1538353373670952,
+        0.005844370718086856,
+        0.280170746277613,
+        0.2374730894627896,
+        0.3860393875633457,
+        0.2564784896805058,
+        0.3119419363266928
+      ],
+      "noncat_params": [],
+      "quote": "International opera company in a landmark harborfront building with a 1400-seat main auditorium.",
+      "phone": "33 69 69 69",
+      "int_phone": "+45 33 69 69 69",
+      "hours": "",
+      "coordinates": {
+        "lat": 55.6819277,
+        "lng": 12.6007498
+      },
+      "address": "Ekvipagemestervej 10, 1438 K\u00f8benhavn K, Denmark",
+      "photos": [
+        {
+          "height": 3268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114268019895033615214\">\u5f6d\u5efa\u5143</a>"
+          ],
+          "photo_reference": "CmRaAAAAEGUPvKMX-0Rr7eWAz6tMToRof0Ep4Ll0-nIs8RSaKxr-KoH1cFxxpxoaudZgRx7EKiLZK1l2wRdLSnqINCXXHRESxES09kbxfsZVyXGBh6YoTonmR66x3k7RHIv8nxAwEhDMPZL57rrbkyDWN4_pzqYoGhTuJ5fIFSCquFanHtPumg-DxPUU1Q",
+          "width": 4895
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108674665454091660923\">H\u00e1kon Birgisson</a>"
+          ],
+          "photo_reference": "CmRaAAAAr7nBvA4ZqiK2spIca-zZKb9_Ev7YBFg5S3_4fsXN2bQt7imWA_EeJHB1PwA_K84oOXiuLYxVDR8wCbvd2b__GUxbXF1kJ8y9NCC9aaZr5CCQ6EJae6TZNAMnRlOuCR8lEhDmD_WR4dmdwG8CRFKe02C6GhTySL3oKb1KN-xeI3nQiK_MbHRqWQ",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117305736867638025961\">Judy Rossen</a>"
+          ],
+          "photo_reference": "CmRaAAAAuuBtDEuyk3w6OcK2gkbIa_oki8oMNYqWrk5Kr_hOwNldH6VzRtURB6xG6I0zxcv4wmH7vWfYiiOW8f-snpGZpX06i_uBzLZPkykKSljALpg4Zia3J5RtxfNu-scUkauHEhBYLiNhP2xOyAdU8-lvpS0sGhQb2vw0y4bKkRBPQC31ESWisbT51g",
+          "width": 5504
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111862624904670167947\">Piero Pavone</a>"
+          ],
+          "photo_reference": "CmRaAAAAJryYYxhK7BTGp5wfx5NwYZok3AhySbT9RlKFTtpk6S5iihuNhXiw4xFXq1pYcjetUPqNi9qsV-UCOnogarM92pGcD7PfT7hsQZT6z9_yONXt2wWB4HDINTyQHTNunvB3EhBsBceKj8K080LEQ5IVhandGhTMYkgIFaW0eau9bjzC80pUa8G9ng",
+          "width": 4032
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101951606651490972878\">Karyn Mitchell</a>"
+          ],
+          "photo_reference": "CmRaAAAAWuDu1DGNu0XtIsSD9fg5pguIGReQzxF6ot15TyozpFa4tuljenKW0fhyfmaRtfJ9Da3_qX1LCsNdDFl4Azb2bDYDct_DF3kRmbdp37SvHypeZnydKMSfDWBEjJ6jTXg_EhCf9cdq6pXKcNfdlFw0xqO5GhTw3ghJb81H9NfULRzJY0dUk-K4Jw",
+          "width": 4608
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109769728191085443579\">Ryosuke Minami</a>"
+          ],
+          "photo_reference": "CmRaAAAAbYjS8O6OhdyLFiGezTIwdSAx81ty8_-bAShgGT6Wdq_ua8FdV4xN0baIJm86OHcREXrB3vFI-qLb2TOhbJPeEU87xYMMe9R5uAyDWSZhrOy9FK0ESWgQUICfcpm5XCdSEhAusRf5VFqzjRYxn6xbOtihGhSYhw59a3SNHhx72DVG7UDnTtC-mQ",
+          "width": 1920
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115061439361344723447\">Ren\u00e9 Rasmussen</a>"
+          ],
+          "photo_reference": "CmRaAAAA5jK8__l4cdwrs_OcPDtKAok1OxuMWpql-vU-L8foNseE5q4kqS6WCTHZRnH_pTlhWTXX8_kV0UtXXWEk_hSUSeBqei6C7yvCu5JQO_jYIPEwCCnej0YXUTfNDCPCEGAJEhAUujaJ7fGE3d2-FCFGkQrSGhThjmECR7bbWUdq3oQe76wnxdK_vA",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102526933614286166085\">Lars Ole Christensen</a>"
+          ],
+          "photo_reference": "CmRaAAAAaYPSr5wC6XslAr1CstE2JyOWDTxKsvTbpX-rI7urWirAj6YXLuq5yWRE0itGEo7cySjuB3hoIwur3n5a2oSQ1uDIrQNZFj7NDusQQEFMa0NQOgP27_xnsm3uzUJ_A660EhAjW8yOI9e6aCH9eKNBQ_RlGhSEZ5E0FohIudlmGXHPASDQtjo9tg",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113835161551002893676\">Aase Schultz</a>"
+          ],
+          "photo_reference": "CmRaAAAAcldWusS0cFmv8mFYzZ-rPOikekicdvKIq5K6T5Ebn3ftuNxoD7TH4QOylZmESPqERSk0qF2c_MMflL5ZWWarpEQ6fczbqyGPy5NczT2oBp_IXXROn4xqghzr8G35m3GpEhAdMXv8_dr2dRCvtBnPqEr9GhQSCmrq5KvNi_74EHI6fwIR7dVH2Q",
+          "width": 4032
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104401170008149337046\">Nishan M</a>"
+          ],
+          "photo_reference": "CmRaAAAAzmjVev7-ZRlAN6iZdYa0G8xGyLWq4gI-zYXPlVX_Ud_1kRuNWp1kDKLzilKHHgv1f6b9dRia8JMB-W6NfEZkFDylNfLM2EzqnnMnTigOB5kk_3-7gzvuUNqUf7nFdqlBEhBJTJ5VKJNExl-y4wb3fiGGGhRgozPOm0kp8fRbO2V6eHFrQFqrfA",
+          "width": 5120
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://kglteater.dk/?section=36042",
+      "popularity": 0.6935148806144836,
+      "num_google_reviews": 4128,
+      "mood_params": [
+        0.004380092456666153,
+        0.05114842455241151,
+        0.05909391872474648,
+        0.1580513973922926,
+        0.09590920681011925,
+        0.16754581594819715,
+        0.1608421038571885,
+        0.024946552653676148,
+        0.1428030324615442,
+        0.04140191622661252,
+        0.07648430035451935,
+        0.013722048507163036
+      ],
+      "top_cats": [
+        "architecture",
+        "music",
+        "engineering",
+        "art"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.6716752039133836,
+        -0.5696941607723401,
+        1.739041910752675,
+        0.37705393246263585,
+        -0.028766707736101706,
+        -1.0168637657232293,
+        -0.9465343956421136,
+        -0.7846020606739424,
+        0.5577694595618171,
+        -1.3968002005769231,
+        -0.2761458542216097,
+        -0.44375393723160206,
+        -0.9792978036050326,
+        -0.2933181649611679,
+        -0.8426228579534455,
+        0.03556369780099511,
+        0.00886129175832412,
+        -0.18833061617791544,
+        1.6709027258627995,
+        -0.02964205529813175,
+        -0.1072619533812554,
+        -0.26358738377209995,
+        0.30099571537467384,
+        -0.13413299752154353,
+        -0.6251421946655283,
+        -0.5516703883578389,
+        -0.49391052771726013,
+        -0.22343756043488838,
+        -0.25791854459992253,
+        -0.12231881846238328
+      ],
+      "global_mood_params": [
+        -0.4437370344572197,
+        0.0186025765767879,
+        -0.06824562719105964,
+        0.49380431786500567,
+        0.8246108072381547,
+        0.17365675991479215,
+        0.8996709744598685,
+        -0.1852416464513289,
+        0.2777082376306675,
+        -0.09009207806341556,
+        -0.3505821768781727,
+        -0.7824909640236996
+      ]
+    },
+    {
+      "name": "Nyhavn",
+      "orig_name": "Nyhavn",
+      "place_id": "ChIJr21nqiJTUkYR6-rlKAmgwpk",
+      "cat_params": [
+        0.1412223764740641,
+        0.0907813690858703,
+        0.16915829892137993,
+        0.19220300662609785,
+        0.38859417805776314,
+        0.07137304326008415,
+        0.38719919431142935,
+        0.15516154809234226,
+        0.22009697893228464,
+        0.3039921722514451,
+        0.08105011069494408,
+        0.3274959245507004,
+        0.27966103414791105,
+        0.22182740185282027,
+        0.21823458275323665,
+        0.2344775625369645,
+        0.5659205692983449,
+        0.2442676647810466,
+        0.1413489748139701,
+        0.12851623775344634,
+        0.5690888953600738,
+        0.3872358854505798,
+        0.2113091271246683,
+        0.16388582952666822,
+        0.004818999516491684,
+        0.5135675387135921,
+        0.2508188483479447,
+        0.45229760634186195,
+        0.36355973681104614,
+        0.4420487735991433
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 55.679776,
+        "lng": 12.5913041
+      },
+      "address": "Nyhavn, K\u00f8benhavn K, Denmark",
+      "photos": [
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115461975448730156525\">Edwin Andres Guzman</a>"
+          ],
+          "photo_reference": "CmRaAAAAStaAEJUmHPr26n108Pge9PHhZ8KZq5vzchn2NSzlbd8ebUfTCHsXdhsrRH09Qa0GhKrjly4XyJzBhwp1X_Fi2GdEdh2twfQ4VtN-RBWHnqIC5dtGFFG-9BAWYfmxYe7mEhDsvMsKznIHsX2GRxih3qAaGhT2WvHolcC8cHdbr0rtgWMjTwzwig",
+          "width": 4898
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108830699931944567136\">Alessandro S.</a>"
+          ],
+          "photo_reference": "CmRaAAAAWz7wWN2fn73Tly15Sb9CtFBXgVsgvTKQkRUfD-9veIyIvJIy0BVMuJzQLfVpS9vodpeRN8lvwAwfa8AqddPxp_zXqJ0hhSkMg4hhP1BrzxJ3hsMjZzKsJwKOjXULLNlkEhBUZOluPkxp0eD-MA6g6mfCGhSIRhfzxijAykDMBakYQwMgIzwRiQ",
+          "width": 4128
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112891570340752077320\">Leila Chen</a>"
+          ],
+          "photo_reference": "CmRaAAAAgmwPVF0EEojn7c_Nv_7oXEvuccOFES0s4YT9uEcE2FGJdGwz_uHc6ArPinuHBDKRv82IwOL4NG4sCTPOsmrdp3P2zklb7e1BZXy7SWvXVCYRm8C9odXFsIs312pI3vb9EhBvDB3or1bDu3cxNz8O1DPTGhQbdcK50PqihvJLhEziK48_Mb7AHw",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100896370090788867115\">\u0418\u043d\u043d\u0430 C</a>"
+          ],
+          "photo_reference": "CmRaAAAAvVQiGOhBrrCZ33pkAsUkvTeL_CvzceQ0kNeGAsAOky0xMXvo00icDdQ-ga6vmH5sW4WPs3V-PEmIqW1olw3EnzJaMX473yxkwW1kq4mVIeUsbLnx-YdJqCVFZ6S0ZbmMEhAISRqCboWXeKFJMpwLphIQGhT6wSYd6y7M6WLvpaHnHcK45Ke8MQ",
+          "width": 4128
+        },
+        {
+          "height": 2898,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101260806378572016021\">Andre Sadov</a>"
+          ],
+          "photo_reference": "CmRaAAAAEgGYs6SQqgnTCO8irCHzWDiJq96uc80DLyzrsbfKVfxXTE6SliylKVS9NjRmbd5LLUFEPVZdKpPvugW-kWwyw-qtIfdiDXwYa71VZkCSz5LrKC1ZbDDGt_OryJq2RWHdEhAD7pNUOYcvsdV0lhWuQTgjGhTxw2jU7Xbky7bSML3xFS76JDylbA",
+          "width": 3866
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106290214274695432225\">Marina Rupe</a>"
+          ],
+          "photo_reference": "CmRaAAAAQxWm3gSHQ5w-UVh3WT5hht0uCwnrC-H8lTnaFWDOaqkfiidi6Rs-8goYMMpUQbe0ShGkIWdU1j8FseitNuX7GLSj-vI2o8E4FsT7XGd-SYQElNr5Dh5MOXEVGNdBBVCzEhD3pcDTr2STwonBL28gnUwNGhR46WUaUaXUvHat5CqZS1gF000lNg",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109160569531229513979\">Daniel Reimann</a>"
+          ],
+          "photo_reference": "CmRaAAAAQSA8zr7bE4DNf6LFAbnWvncfgRYwvpLq4XIj4riKN_fNuoh4QefwalXKS6o4hOwJju2UuNnK43wJOlYjnvmoUK_dwsR61tjiEPQ9HyYa10gHGIsu0Lei_skF07jSbRppEhCBAYecfBqgdes1gvDmmtRuGhQQFaM7XsMFZCZ3ld9MmjZslyIA1w",
+          "width": 4032
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113277621688477984025\">Ferry Ratelband</a>"
+          ],
+          "photo_reference": "CmRaAAAA8CfYizpMSe-cOiw4Sz4wNJutVjpevUrWR6eFeXdS5J6hbgR2VASaHjl6NBDxXnDhp0BvG5gWjxTg6EWfR5ZbGXU_G7KJ6Ox3WtFqICJcDDxhQXhZbYqKIf1wxODkSY0VEhCGFv1w4hwqTfF1EQuO4eWLGhSKgn0-kC2vfySRNTEnVezB0XovFg",
+          "width": 5760
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117518946690777250530\">Varun Anand P</a>"
+          ],
+          "photo_reference": "CmRaAAAACOlkt8_SvdtMW0C_SdcoecwF52eFchX00nnTe5f2xmdnfLvMOYGRGc1tQELOc7NrY59LRwN0PMIGD5Kv-QJFrsPWcfICAMPkJ9icJAqEJS7qM-j1Qd1bjkLs7LJrGdSkEhDzIu3wQXfZxsEC2a_x3feuGhTR0FMkuW6rU_GLkEQ0aJ2OciSMag",
+          "width": 3264
+        },
+        {
+          "height": 2483,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113779523024450692804\">Eric Erichsen</a>"
+          ],
+          "photo_reference": "CmRaAAAAtz2eRQqAwbOI18RAZsDEXV_DOtSAzcjV4lSV-iN1gZv6KT2bjq5lhG98jTNi0MgumXGYHh4HJxFOlOxfgnEhtcBal7snaMKZlskIhfPpu3Birc3RVf5e9PXYzESZdvDsEhAwZcGkRZm24897laFDJhuKGhTpXD5IYUkH92wVAjk3xrHOdH-Q1w",
+          "width": 1888
+        }
+      ],
+      "rating": 4.7,
+      "website": "",
+      "popularity": 0.5818274273147116,
+      "num_google_reviews": 2045,
+      "mood_params": [
+        0.006403004503749044,
+        0.04343174670338067,
+        0.10604571922872984,
+        0.1497171466268107,
+        0.09081398179395123,
+        0.1675494131769039,
+        0.09237483699062607,
+        0.01711891863728666,
+        0.18050863167694967,
+        0.03904602908677375,
+        0.06609298040992953,
+        0.020679404050608474
+      ],
+      "top_cats": [
+        "food",
+        "nightlife",
+        "shopping",
+        "water"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.24260802644501328,
+        -0.25674990292539196,
+        -0.5450356376204126,
+        -0.2792017932487919,
+        0.5165001866625475,
+        -0.9839521071039098,
+        -0.11801605477142468,
+        -0.6216797292118654,
+        0.19946671024090395,
+        -0.18462111990345959,
+        -0.10901147069668246,
+        1.7721583945067365,
+        0.2824630983533819,
+        0.11827070963189354,
+        -0.7818564564554273,
+        0.7507180363820525,
+        0.5251087204915247,
+        -0.5193567633199532,
+        -0.31204116126352577,
+        -0.14219639445542806,
+        0.15368519900378022,
+        1.2891779725373054,
+        -0.5156360883272052,
+        -0.040377653576419814,
+        -0.6546650098419737,
+        1.1795336277545252,
+        -0.3688619144620013,
+        0.2070015682111366,
+        0.3884697812668986,
+        0.7723131558656061
+      ],
+      "global_mood_params": [
+        -0.307631732169891,
+        -0.21258149920508368,
+        0.7771040454259073,
+        0.36531970578200573,
+        0.71278465454107,
+        0.17370199512692747,
+        -0.3960448637650761,
+        -0.49737427024500636,
+        0.7765037235757432,
+        -0.18164933573829942,
+        -0.5910394281474806,
+        -0.3571678300586549
+      ]
+    },
+    {
+      "name": "Bakken",
+      "orig_name": "Bakken",
+      "place_id": "ChIJQ2EHr7FNUkYR6MySpNSMlls",
+      "cat_params": [
+        0.2543560218583958,
+        0.14284570442542233,
+        0.149743859876127,
+        0.11274996873426771,
+        0.2730649736518622,
+        0.09421890717008324,
+        0.35882048034204644,
+        0.17304577734318158,
+        0.21044320875053593,
+        0.28353831245142774,
+        0.07505274922837757,
+        0.12834786161651832,
+        0.23472275182395597,
+        0.20471383227655443,
+        0.21582602834641132,
+        0.11643524634572297,
+        0.30590303704296856,
+        0.2615953307165156,
+        0.12095173377503822,
+        0.10053676436555263,
+        0.47624261709556204,
+        0.25352076981197547,
+        0.16836921231565732,
+        0.12767854595735675,
+        0.020429392488882803,
+        0.28542987244020274,
+        0.2946917383628686,
+        0.31825785312304194,
+        0.2906053629306065,
+        0.30934247998494
+      ],
+      "noncat_params": [],
+      "quote": "Forest venue combining rides & attractions for all ages, from thrill rides to carousels.",
+      "phone": "39 63 35 44",
+      "int_phone": "+45 39 63 35 44",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 55.7752207,
+        "lng": 12.5777714
+      },
+      "address": "Dyrehavevej 62, 2930 Klampenborg, Denmark",
+      "photos": [
+        {
+          "height": 602,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111468564568606018646\">Dmitriy Buzhenko</a>"
+          ],
+          "photo_reference": "CmRaAAAA2j2a5gm8vf88uzK7PNpxP9YIICoO0qTGbkMWzIaAfbmpQNTpDKYVNLk6OAVQ9jEIg8X5qwEyU9opqy1aTD8XJT6dixswEt_8boKuyPPTSDfCTVlBLyKRjQ1WHtRw77xNEhBSf3nq5JMTsBmHk64LMGBWGhTHJMKPaUm1jR0Q0xOfnRnMSM7x8Q",
+          "width": 870
+        },
+        {
+          "height": 412,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111468564568606018646\">Dmitriy Buzhenko</a>"
+          ],
+          "photo_reference": "CmRaAAAAj4LcN7Jp3TN9CJ54HsdGjaltRKsQjkf5AuVkhT7_luuqnCsejC1P8v9mDNuWnO9vhBHByK2RROlmPXB2gUSgCOu4-GBthdFNot1ccdK5e1uAqEVp6-8zrGwfGZiuifElEhAvYVk0VwlWEBUZL6vbMo5UGhQ6_UR1QDAduez56K6pD-gfGITabw",
+          "width": 550
+        },
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111468564568606018646\">Dmitriy Buzhenko</a>"
+          ],
+          "photo_reference": "CmRaAAAA6BbgtIJMh2pNeoVchbqAmoPsqq1wV0WXMQ4t6o_nW81I9ng8Liuojarr9tgeO_uqEzQuU-dRzlxLJI_k14uFOFf6PJkRjo6DxDjIsILKd7aonw8QFYfxPiggpl77ituyEhCic4TiZMlzBUAvGUf-E3ZhGhRibEcfMtg1TQYvkIc0Qw1vjYnS9A",
+          "width": 1200
+        },
+        {
+          "height": 3920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115015286153828016802\">Jesper Villadsen</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ-kaoVHFewanCIL4JzUdUBUwlioGu6cOqZviSrjlMCMpCucKLGLNy0IsC09mPHzarWS3pti07Kx9bDbJcGdRST3o0lPv7Py5SlFdSjV5VdXJuDjQNHjrsmrRJi80FwwaEhDHe1MAZ4N2Z81gRqkFGdKLGhRcPlfGa6PLW7shvx-OMAAwGDdcVw",
+          "width": 4176
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112968061317419719889\">Kim Hemmingsen</a>"
+          ],
+          "photo_reference": "CmRaAAAANiJcViDeSxYD_KqEb3Ek0Do7Q--h9yBgAc9yomiarZF5UT0imeWl6Gc_lHlzc_oU2SHtQh3C2V1CczBIF02C0cYLsH58BTB4wFID1g2ZgKm8PpsmmX6rSg_M0B4ji3QjEhA3JXExfZxDVT8B7-AGhs4rGhS7PgZtFLkioZftfvvcG01sHFR7Jw",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104301634037860698723\">Nils Nyvang Bacher</a>"
+          ],
+          "photo_reference": "CmRaAAAADb-YPySx7ybLuYL3iZG6fdF3-9qX3L_e_vYazxiP0NOZkE3bw5jVwOhXQ9o_UdZRy74jvFr9yfjJ54ru9r7xjCmMyvHSc8C3N0-w1s905IQf3SG5FFSa11nuNR08xm-MEhAfZOazN-T-DQXb62hO2LPMGhRAdHn-iQFFDATVvDb6sxWujICYEw",
+          "width": 4608
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100578620861694006953\">Dines Bog\u00f8</a>"
+          ],
+          "photo_reference": "CmRaAAAAvb6NRMIR7COXygPMdbrRac5i4nuYByVxeRUnhCy0xicjnoGNItbHpZGQhq2qG4TegogaSAvTZT-y1HPm7YqhC6tUv_B_-pjPw04jgVv7mzLCPWYIgOcs-lbKs5TFXINZEhCckBurSrKS-5kEkAeE_gkpGhRpjY-7mKLHTOQ1Do_zCN_Ae5ORwg",
+          "width": 4898
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105400229317239769233\">Ronald Pedersen</a>"
+          ],
+          "photo_reference": "CmRaAAAAdJfSTmQZmjQGU6sYfs4jW78_zvbEFKIHUx1VvgDaRMeYABV5PstGTMEs09_SPgr52AYT16yCB1P0ZFuPsCadi-fbV6lPUzS-YfqUPZUBO18MowDMzPFhHT1qiZct5ZdIEhAxYJCR0f1Q248hrhQsvdCaGhR6yWESjFJ6iHiHqYYaCrb80nitKQ",
+          "width": 4032
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111161863285805069096\">Tom Lorenzen</a>"
+          ],
+          "photo_reference": "CmRaAAAAp0HLNvhf7VNZWxp5akrag9NnbSYvMJDLkbR0tNtbj7LHL7VwzXVD1AiRVmbyWAoshKNIOWgKJymS4ZtF422zFMne4ULHaGXcKbRqO4f-XHPURqSrvNM6MeGJ9KkOjVWdEhAOKZb3zykL9Xg1YP4OTKpFGhS88kpJ4PF4hYALyRLt5I8OFW9tBw",
+          "width": 4160
+        },
+        {
+          "height": 3076,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102613837822504568791\">Henrik Stig M\u00f8ller</a>"
+          ],
+          "photo_reference": "CmRaAAAAmvwLX57dUPC1oxZlpRkR8sz7Nn0A1y7XgP9LOiky5BgftrpbNdmaegPHoP2EN_SjJqWyBDyXqexEYW_5Bfe0-RinMKlnoe2UBlOQBCCfuoY17aTxX9JeXDwGlkDz_3cNEhBAR8-vsOC1fj3ctSJXwpy-GhRh5jKYuRC7ROZiLL8wxgFDl-jjmQ",
+          "width": 4095
+        }
+      ],
+      "rating": 4.3,
+      "website": "https://www.bakken.dk/",
+      "popularity": 0.9212562258104191,
+      "num_google_reviews": 12854,
+      "mood_params": [
+        0.020724421141676354,
+        0.10333235394373604,
+        0.030395511091794454,
+        0.07152975515049614,
+        0.024327844623685695,
+        0.11026245529966139,
+        0.06914016285550233,
+        0.027439790493629608,
+        0.08619383223124379,
+        0.028549174187475414,
+        0.05282316937523423,
+        0.014309383242426343
+      ],
+      "top_cats": [
+        "amusement",
+        "animals",
+        "engineering",
+        "sport"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        1.130091087790214,
+        0.36576860342095596,
+        -0.7357512216828112,
+        -0.8469907498773398,
+        -0.1961238239480224,
+        -0.6791729960020828,
+        -0.4200176405902435,
+        -0.4230608922411809,
+        0.05660030149374168,
+        -0.4020996261203679,
+        -0.23235610930031153,
+        -0.1191882871668447,
+        -0.2031485531403714,
+        -0.007480281486567015,
+        -0.8080471029621514,
+        -0.6317802564359981,
+        -0.8857573694330574,
+        -0.3381159423457141,
+        -0.5724033972021708,
+        -0.6997118928746305,
+        -0.29912686229677116,
+        -0.017120510004182122,
+        -0.9997762066935669,
+        -0.37813487685091074,
+        -0.2052055888648485,
+        -0.5126611961624734,
+        0.04222329268715846,
+        -0.6637727393853214,
+        -0.05191410350194097,
+        -0.14019302713545923
+      ],
+      "global_mood_params": [
+        0.6559399384317647,
+        1.58198175645469,
+        -0.5849497628521839,
+        -0.8400527921542356,
+        -0.7464028992665166,
+        -0.5466824739804377,
+        -0.8357518456656203,
+        -0.08582196649479074,
+        -0.4711570270883759,
+        -0.5895904601406757,
+        -0.8981055471083588,
+        -0.7465855041505062
+      ]
+    }
+  ]
+}

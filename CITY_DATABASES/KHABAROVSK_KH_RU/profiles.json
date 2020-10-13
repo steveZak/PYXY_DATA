@@ -1,0 +1,3901 @@
+{
+  "sights": [
+    {
+      "name": "Lenin Square",
+      "orig_name": "Lenin Square",
+      "place_id": "ChIJ34d52iHq-l4RKTdfCKX_TKk",
+      "cat_params": [
+        0.1266425005441468,
+        0.068678616937987,
+        0.18175315707362727,
+        0.21464891037733572,
+        0.3645846461353697,
+        0.09250155062339444,
+        0.4047532668655634,
+        0.1457166225880677,
+        0.1796162979350191,
+        0.3099235091409665,
+        0.11873937616294791,
+        0.14298972403154245,
+        0.2635973608087131,
+        0.2610576189162052,
+        0.20766515754644269,
+        0.16578389068333368,
+        0.49277744091742537,
+        0.25023596324506414,
+        0.14311898564643027,
+        0.10791658431662335,
+        0.5744280994582007,
+        0.2783054802393432,
+        0.18346820874822745,
+        0.1592392999393822,
+        0.012867420046183567,
+        0.33472630582881857,
+        0.29047097893011903,
+        0.3862545229267212,
+        0.3905924792602948,
+        0.35717076961527316
+      ],
+      "noncat_params": [],
+      "quote": "Huge square created in 1864 as Nikolaevskaya square before numerous successive name changes.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.4798661,
+        "lng": 135.0716411
+      },
+      "address": "Khabarovsk, Khabarovsk Krai, Russia, 680000",
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113402191356291919013\">Sergey Nevagno</a>"
+          ],
+          "photo_reference": "CmRaAAAAh9QzbAwRWnI-CzIGWlV4vniaMyB-vonO03HVv6eN9pIzf7A3c4abz8DxsacpxR-4YGV6-x4Ih0vWpsqDS8Q4wpBkL-uLoBuQUUUUedA1yhdCokjq2GaF3P0BkNTx-U5KEhBgKuBtSuk8qqcIzsRYVPARGhTPOLPyb6XpxYGhvhjIhD1WeWZccg",
+          "width": 2322
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100449032783858218986\">kazunori tanaka</a>"
+          ],
+          "photo_reference": "CmRaAAAAtEkc7ayVD_8JoHETg8AEz6px2Ya-V9EnBxKMqLefRgBy9fIhR1if1ddDua9NQaMtiAMuunkV58jWSg2h6XIUu5p2S14s1tmFHxH5QPYfqGzKVAIj_garYBynPzClquLIEhAX5DFkM-MkSySm4g5Az1lLGhSrrqc37BP0QbZZ7ScJXgYHSBihzQ",
+          "width": 4032
+        },
+        {
+          "height": 3601,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107137722206461532350\">minoru kegasawa</a>"
+          ],
+          "photo_reference": "CmRaAAAAClfA_OMsrpTdsr4dkRmNRPo6X7jNyZzaVC17sql6fnNs4EsS-gT92-f4kyKNK23TodWzErjl65U-h0h_U1F7rK9nwjmMmhqCopwkRSByWkHcBtGTcGx-aPNkoA5oY3hXEhDe_i5OfxluFyqJOpDDhOBhGhR6GHxsSteHSvKcl30Ft-EJzZ9QRQ",
+          "width": 5401
+        },
+        {
+          "height": 1224,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114096190233529505182\">\u0412\u0438\u043a\u0442\u043e\u0440 \u0421\u043a\u0438\u0440\u0434\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAid5N1qdqfYokRm7yHlJ1C_DSOwP8mK7uO8DDSlkBM9UJDY3uF-yGK2xjdWDhhow1JFq6BqZvFtyO_rJ39qroQ9GAHdsrISTHsZDem2cMLFoYa4qiXQrPh3NvZy-uNGk1EhDgbGgIh9DZXJL5YpcrmyU7GhTF_blJQEtjsF8ygmLdRPSFMx9HTA",
+          "width": 1632
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108142364923073021024\">\u0421\u0430\u043d\u0434\u0440\u043e \u0413\u0443\u0434</a>"
+          ],
+          "photo_reference": "CmRaAAAAyN8EbLqxHVIqgL9YqGtQrV9iqF_hTc2hMIausVCJFrJGQ-Pv41zPIz-81NPdvxdwNp0erxB8iCHoR8zB68ROeAJX1gMTv-6kP87HohRo56nWX5K16HYSkzLDL8RNBB2_EhCB52313_BjaAvRNySHHlQrGhRAZ0AsqkGDufqHXJiKwa290HQCZA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100449032783858218986\">kazunori tanaka</a>"
+          ],
+          "photo_reference": "CmRaAAAAznA0l-7VUqlVCVq9Cugs7iesmzWRoGATPZNUmZzQR0XpsmML7Cg43nrPqU3CcQHIF3VGMZVKxQ74ctrH8U7f8KF_IF_6AN-R2Jh9j3xM2m0v8CMSs96QX5WlGzSWNFmfEhBX2DapKHlemf4YWh0KEJkgGhRephsc7FJR0qQpx3f7Jsp43bepqQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108218464604568825799\">s jame</a>"
+          ],
+          "photo_reference": "CmRaAAAA_RjSziRLXVIsuJqY65orTYc_YV-rr0FY5WS0OXC56CjwkmPQ8GkQmOG5cyBgjOmYK8_Cx5NIHH8jSZX1RVyuASg9nUhzw7W1h5EP__4ZTYoB3lJgVQHsHNnOwqhvwdIoEhDXyWNuH_eoGynllZnuYOelGhSXqBV_g1vVdiLwM9gKWrgkoFZ3PQ",
+          "width": 3024
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107996684087771127011\">\u0413\u0435\u043d\u043d\u0430\u0434\u0438\u0439 \u041a\u0440\u0430\u0441\u043d\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAYnNjgkeS6hNczhmZS4-Zvtle-KLLI2yB51z9MYNmYhEd-4fiKc3jnnFFDUAG_OhM7E1IJQ2WUSZ-WqyTXs9msORAjpOUxRdRf8icmlxSwp-hc-7ZDR7jospu-kEq-vAOEhATGCpwNjfpLvhaEiIcQhvIGhRIOqS-YVqNxHH9-NWfwfIVJ5NlNA",
+          "width": 4000
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116300106652145261848\">Shuzo Hikida</a>"
+          ],
+          "photo_reference": "CmRaAAAA2lfv1-BXoCBzrh13A6cnYTIdf4Hl4j7aH2PZN7efPfw-Hzs_pW_NLyQs4igaaO7ZnsGM6L_dGirJ-JQiFjUWEdu4WI3EsYKv_LoGmmKae2v08JrfwP1vZ-izPLTnUyb9EhCZtMlI3KYa_nHM0Fst4vGkGhQbOhc1AHD45Us3RnbOUrmon2NWlg",
+          "width": 3120
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100159160513283564675\">\u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432\u043e\u0432\u0438\u0447</a>"
+          ],
+          "photo_reference": "CmRaAAAAafZuApUHa9QY8GVkgT4N5WgMMqZpR6hv902745qNRmNsw1I0p4FUSOlGmI6JhJqK15d04oiHhkQ1AFi_ltkZd9b2266y0L17ZDuvXdftVpjbypYyMy7CJHx75yTcBMaYEhAH1FUr6Vz9Mcm59mjhPWfwGhQKFAXFeNKrINfhn1GGd374UUOtJA",
+          "width": 4608
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "popularity": 1.0,
+      "num_google_reviews": 7549,
+      "mood_params": [
+        0.002247899447452856,
+        0.02498404304864976,
+        0.11161309343250393,
+        0.1373532424314843,
+        0.09345107184274583,
+        0.1648942413997688,
+        0.08335964350071905,
+        0.014662439573370838,
+        0.16162061807411296,
+        0.0452275179335838,
+        0.07700970746115386,
+        0.02394460972589408
+      ],
+      "top_cats": [
+        "fashion",
+        "walking",
+        "hiking",
+        "beach"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.4195119236602689,
+        -0.5210262480185976,
+        -0.42131144846974844,
+        -0.1187984076809428,
+        0.36840110626634787,
+        -0.7020836814463585,
+        0.06879148536751853,
+        -0.7265732693595757,
+        -0.39960799413238973,
+        -0.12155535631583267,
+        0.6661242042668255,
+        0.01986823933991538,
+        0.10887597984561025,
+        0.406535449230973,
+        -0.896788499753246,
+        -0.053814500163468545,
+        0.12823102286655655,
+        -0.4569306225190946,
+        -0.28944771457652785,
+        -0.5526625205999761,
+        0.1797245412215641,
+        0.22500790956062477,
+        -0.8295376314054819,
+        -0.08372249407681785,
+        -0.4229323149986343,
+        -0.1470084270234253,
+        0.0026751397127722826,
+        -0.22203995754034286,
+        0.5516510067718373,
+        0.18868067449110515
+      ],
+      "global_mood_params": [
+        -0.5871949640653742,
+        -0.7652565496806524,
+        0.877342543416997,
+        0.1747121180013137,
+        0.770661516414042,
+        0.1403131648951136,
+        -0.5666538207766154,
+        -0.5953281671580286,
+        0.5266401457622161,
+        0.05858295620440462,
+        -0.3384241498582779,
+        -0.15755642567077807
+      ]
+    },
+    {
+      "name": "Spaso-Preobrazhensky Cathedral in Khabarovsk",
+      "orig_name": "Spaso-Preobrazhensky Cathedral in Khabarovsk",
+      "place_id": "ChIJXcnWR4Tp-l4R8oUB58L3T40",
+      "cat_params": [
+        0.07318653799203971,
+        0.04288943463298,
+        0.13993520931103767,
+        0.2008725505009158,
+        0.323124774939165,
+        0.04174967578720873,
+        0.3166672876453228,
+        0.14207886328551636,
+        0.11941165845564808,
+        0.24987607041817733,
+        0.10243124227918708,
+        0.13863415781813912,
+        0.21215805675992533,
+        0.20364636384553417,
+        0.16640134405994206,
+        0.20960213901562483,
+        0.6042868479722583,
+        0.21518190460038147,
+        0.08839098437712162,
+        0.08411879616563732,
+        0.5029569677287136,
+        0.20106866579742283,
+        0.1584453654322521,
+        0.49477129579283596,
+        0.0034345433105304277,
+        0.288461743038281,
+        0.2327072718025679,
+        0.4487137062658189,
+        0.329780240756674,
+        0.33743489570317264
+      ],
+      "noncat_params": [],
+      "quote": "Built on a bluff overlooking the city, this cathedral was built between 2001 & 2004.",
+      "phone": "8 (421) 221-57-59",
+      "int_phone": "+7 421 221-57-59",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.4662377,
+        "lng": 135.0669965
+      },
+      "address": "Ulitsa Turgeneva, 24, Khabarovsk, Khabarovsk Krai, Russia, 680000",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113522641085312663039\">Lora Danilyk</a>"
+          ],
+          "photo_reference": "CmRaAAAAZqC6HVQy4HSeAJ4zJOEzqNa1gas6O5zLUtmZIJ8nnPquEszqQhiHxuaO0orFWttjPAkz228xXcZZ4NzxR56joFGO8SCKpXrVHihEDibdnEt6W_tHk3HdCl0ig2ugpJUuEhDzpcVlgRWh6kVD1kz0ZTotGhSOlXmhhzgsVGbOagLdaEQpQYr09A",
+          "width": 5312
+        },
+        {
+          "height": 5228,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111577562938548501515\">\u0418\u0432\u0430\u043d \u041a\u0430\u0437\u0430\u0447\u0435\u043d\u043a\u043e</a>"
+          ],
+          "photo_reference": "CmRaAAAAXN3ugiqZXA8-acsiIESmk5NZ3F5hMnDVzT3LkGJs4YXD3t7R7WdlXB7T3Hg8_YvlJiysickBHIlE0D-bZFLmcCIoin-8ldox2qzGLg1IjGzBCDyv2y0fE5mQUIgS-9etEhDutkhIp15BL0mn5GfBLMd6GhSBY9YICWlBhgaaXMwwRHop62Bw3Q",
+          "width": 6971
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112145139365559972920\">\u042e\u043b\u0438\u044f \u0421\u0442\u0430\u0440\u0447\u0435\u043d\u043a\u043e</a>"
+          ],
+          "photo_reference": "CmRaAAAAth_Nkb78a8hU1PcFvNxvdfvgXlGxI-PHljgChz_Gbo_zyzb6BGr29KFmhLOMO2mhv6UReKFHsoVxP_zwMH_HfnhJ6y-ao-fxx6yu02CbGJFc0ApgtktC0GBVtI6YWMRJEhA0SVCwwxAMZ00Kq1_Da3ckGhS3xzkLZaR78X7sxGO-xX_MnygV8Q",
+          "width": 4128
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117741788695356463616\">\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0411\u0430\u0439\u0446\u0443\u0440\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAUwi-YXXJPzkK99G60XXKccZwErQgPQBLKOLCmcD3yh37CtIuPzi3Kd-hsIciHrGKPPXWdYiFQB7zNwjl-DuBEwF5zql2h0uYla_dZRGpFCIavyR32qDP0FixeP2F1Eg0EhCnudXEJ3gg5SbJDhYH6xjOGhR9uKxMoAubEVHJ2tjE_59s-_X-nQ",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110508590906010634485\">\uc774\uc8fc\uc601</a>"
+          ],
+          "photo_reference": "CmRaAAAAWwPZQpJ0PbqGPmNA13G3-7oUK5ME7uankCt6WSmSJbxUJDlHMajV0It7v-Gnx_SxqwfT6-_ZwVpWFPNMKhnkwf_SzoLz1YROu_k7eQbH2XpudZ9bjnZqVySCh3shgGRYEhDXJWfggHIR5UcvnPQayn89GhTFOgqE08JIthbUC_qPyutIiqN33Q",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103266023017595094260\">Ba ba</a>"
+          ],
+          "photo_reference": "CmRZAAAA3423GYdrgjEKbgS75BuLz30A1EbfC9XVKupTBcfyteMR1SxxyikB5h79zMxD95EOE1lLWpJMRzA8wPnyhhOLdMcRum2SinT4O_BdCtSXb61F0CJsLlH62WA83cjDvRXeEhCTUEWoORJqtAgRLz2wgiQgGhRW6I8Xkr9Ql54HEHOuTMZfDhW2LA",
+          "width": 4608
+        },
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112363098194391104858\">\u041c\u0430\u043a\u0441\u0438\u043c \u0414\u0432\u043e\u0440\u044f\u043d\u043a\u0438\u043d</a>"
+          ],
+          "photo_reference": "CmRaAAAAf7WUy3FQoWhrQtoWfEThBOa8REPNVWTjmw3_XAeZfp7Js49h39rhTSk26Tdfn9fxNnRN5bWlSskq5oxoK33dj5_rknYPknQYEcI40g8FuG91ma-L6V9-lMrT1QehMwdkEhBCMshtnzQu2RwiyfbjYRTdGhSLV9Ze6aUgXkR1sgF1t02EJb6B0A",
+          "width": 4288
+        },
+        {
+          "height": 3405,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117340124469863116002\">Dmitrii Rud</a>"
+          ],
+          "photo_reference": "CmRaAAAA62CzNgZnyQpK2SU9w_waUzqeLQhSe6LNvoIo2m8VoG_PxwlcwhF2AChIww1K5wYcYttZo0JtyJemIBv0LYK5lOBUXgeTNdXCfRCIdWy9myhfuDEs76gAN4AATFcmugG1EhDdWaYd0DBEmsp912vZlwtWGhRna9wJjbkS6pqBwVOlYlChuSopcg",
+          "width": 5107
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106873592361075330122\">\u041e\u043b\u044c\u0433\u0430 \u0417\u043e\u043b\u043e\u0442\u0430\u0440\u0435\u0432\u0430</a>"
+          ],
+          "photo_reference": "CmRZAAAAVqbstMYL1ixH_MMx23KR5DXhMztGxvloFzRptpRw3fgxqA069Jo-k8T8wd3qmCnTFtKFnAth_uTMgzOVSsOpmQBet284rVR-rj08cqvtfzeU5ke-IhmEjCdThcRFggc0EhDX0QXlquzG2xuOnosgQJn8GhRYhK4-juqWCfD-SEl0prz6mn48Tg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111245991017237361176\">\ucd95\ubcf5\uc1a1</a>"
+          ],
+          "photo_reference": "CmRaAAAAKUASGrtUdU8pstNNXHQ9txz6392A_AjVqpErCm2KzaHWG_i5Mio5vLpv4sNT7JBBT3FD3UahveGA_CBrXFzeuvs82IO8ytlZLL-CUCqi1fYHJJlJiwDPlMLnjZAcy-NNEhAp5Z5athxV5FZEFEu8-RS8GhQIvLFTttQxLD6omiSbQx6sIUnkHQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://blogs.pravostok.ru/sobor/raspisanie-bogosluzhenij",
+      "popularity": 0.5647652265068375,
+      "num_google_reviews": 768,
+      "mood_params": [
+        0.0030559926051782235,
+        0.02710066569650966,
+        0.17605048139802273,
+        0.18102277941578518,
+        0.13734408283389768,
+        0.20478858286524274,
+        0.08580915410494847,
+        0.022415267856580677,
+        0.21994264526714088,
+        0.039505600985219866,
+        0.07286099627057135,
+        0.053460824173437255
+      ],
+      "top_cats": [
+        "religion",
+        "instagram",
+        "hospitality",
+        "fashion"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -1.0681160784772532,
+        -0.8293801940299013,
+        -0.8321054102856691,
+        -0.21724731797964106,
+        0.11266230980210123,
+        -1.3791476506733584,
+        -0.8686049534428001,
+        -0.7669735299309461,
+        -1.2905780991175615,
+        -0.7600180916266737,
+        0.33072322978734797,
+        -0.021497393763192173,
+        -0.4469869525812795,
+        -0.015324069574741904,
+        -1.3454916511048571,
+        0.45937988188784445,
+        0.7332857657396028,
+        -0.8235827954604389,
+        -0.9880277211437479,
+        -1.0268542803352494,
+        -0.16884075495231923,
+        -0.5295390466302448,
+        -1.1116658652117815,
+        3.0462652892449134,
+        -0.6945267151686796,
+        -0.4901725128307785,
+        -0.5385658294177165,
+        0.1837191610724379,
+        0.18456225788334726,
+        0.05297417194891016
+      ],
+      "global_mood_params": [
+        -0.5328249465121461,
+        -0.70184461773303,
+        2.0375137026960206,
+        0.8479416232269938,
+        1.7339921904973679,
+        0.6419851869734615,
+        -0.5202978052519174,
+        -0.28617847661382156,
+        1.2981638584304023,
+        -0.16378891194522832,
+        -0.43442616832341774,
+        1.6468545683081794
+      ]
+    },
+    {
+      "name": "Park Dinamo",
+      "orig_name": "Park Dinamo",
+      "place_id": "ChIJVdUVEx7q-l4RkhPvemZ1BQ0",
+      "cat_params": [
+        0.192875455514609,
+        0.1231944240198176,
+        0.09428067630960164,
+        0.13544702606595618,
+        0.3740489727185031,
+        0.07280266316039857,
+        0.34545698675377146,
+        0.13562429806335302,
+        0.1219573262662042,
+        0.30628992471912364,
+        0.08731730261749705,
+        0.14385680477267535,
+        0.23503801271371075,
+        0.28574393714818763,
+        0.18392631099470305,
+        0.13392203205861433,
+        0.40196573878284036,
+        0.23958197766734066,
+        0.14815228059565344,
+        0.09600278611891042,
+        0.5579353518336918,
+        0.2306600353790184,
+        0.1580137510284436,
+        0.11750938049742471,
+        0.004777905247306064,
+        0.23719149327957267,
+        0.39521458903202417,
+        0.38321319147692323,
+        0.40459997704418027,
+        0.313834635518505
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.48343939999999,
+        "lng": 135.0759811
+      },
+      "address": "Karl Marx St, Khabarovsk, Khabarovsk Krai, Russia, 680000",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109813111721853731107\">\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d \u0423\u0440\u0437\u0438\u043a</a>"
+          ],
+          "photo_reference": "CmRaAAAAEeQrgEFf5xSYRHsSDcBz3U-WAWbuTzmDV9MDsjYC5JAPI4ea_4TAuyL8MIDJbqlu6Y3VR8WNQdEEfmOdNGYDeNzpxkMueWaID_aZGkHQtISUFF1t3dK_rG1wUkgNA4pCEhB3h9wvlACtxiozq2CqytbEGhTdo0a__fHgpeA-oMaovH8PwFhXLw",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108254168592957529012\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041a</a>"
+          ],
+          "photo_reference": "CmRaAAAAPqkY4-sKjOsFyYlkYxwiaBQf_vx4JatRCcBmPuS0Qu2Frc06hQOjrqOF5y6fK8KTtzVGfRSMo3PqcbFNqYOUUYOmG69f9zG36u-IUyHumRewmHpTGrsGJioHjsrkFpm3EhAEyFiVtMlDHTe3Jv82MaVYGhQ8YEtnBd2M0prZDF_mjNclgaQvng",
+          "width": 5312
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107762807703400723234\">\u042e\u0440\u0438\u0439 \u0421\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439</a>"
+          ],
+          "photo_reference": "CmRaAAAAWfJDvwgzpGHSlhY8eShgJcULInF7Z_RoADBPM72T9zo6T475hR0dgREuzvjQEIo4qqV63uega19UvaOh91Ng8kU3hdVJryAQArVdeXFVP0uh1usrLphOcQeO7ZrAzOPIEhBxC85loDmVWpmJzcrpw3uuGhTmg14_EGrZ6wgheXRrO5xZyrygvA",
+          "width": 4608
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103545777580405770547\">Alexey E.</a>"
+          ],
+          "photo_reference": "CmRaAAAAG9LaaX35em3AzeqmaVeoSc52S6eSF-e6wXuMyj_aCsehKC7iPxc3biOBl_SSjsDIK3u7AIL_D4kmQ57aSOIZ-F9Il9MtUyf9zet2GJycDF2GZzBmYMxxP-7QQKJhgYYtEhB-yA64jIQR0HUI0cB5bvycGhSHuqh3dj3unz5mvDD_HLQ5NYgJDA",
+          "width": 3968
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105458561436026901614\">vitaly malakhov</a>"
+          ],
+          "photo_reference": "CmRZAAAA8K7NPN5IdwDOi9dZndnIj04xg9CM9Fqokuh3j5NAfcBV2tCGQG_Bq1HFua0RuMYOVCaTEgCkokdYZtr56VITcsqHUTyBbSvHmrYnuAB4m7AZa5keXSJpOSA2nizNotTSEhC_zHs6f2bmuBD_6rz6TfowGhRDwj5NbhJniWT4SEzAxkE8NuSWGQ",
+          "width": 5333
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101655706416695031026\">\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041d\u0430\u0442\u0430\u0440\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAd-FjtH495dn0wXE6eglBDDmDAcBI6Qu462FbvZdc_nkPu1wZM4IGnUB5TMfUyQ6-JN3pdbIHAu60EzUWd-HZ9-xm-IY_CXDcn5GySNvEKmdcQ0d76JTvSBSFRIzvQDXaEhDNubs5qxQOWR2W_zxCfjUaGhTEYtmTlVzmhzcgnHWKw4mq7nWWhQ",
+          "width": 4032
+        },
+        {
+          "height": 3004,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104388531521759208222\">John Su</a>"
+          ],
+          "photo_reference": "CmRaAAAAeOTuAZPlN2ToEXNoPt0zvIWwwXErfsW4EQ5XXW6ETBTcaGh7rqJKtma-xrxdQZd7MizR42p0tBqpe_dPUFgm9ABkYJFb8jaz-GiR_341qwTjuZ3ul9RCX98FViGVQQNcEhB3XUA8_ypLKMzZi8rRkjavGhTXcTXUh-nLPANocFaPqTzBNJiY7g",
+          "width": 5325
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102216860903378758484\">\u0412\u0430\u043b\u0435\u0440\u0438\u044f \u041a\u0435\u043b\u044c</a>"
+          ],
+          "photo_reference": "CmRaAAAAhEQyukISaTFNWe8oz58CjHH8H4rzYXBc4ilBrpzIq_Z3Vwzl0T7QKz-n0VKs8esSwacFyBS3xY-xTFZdZ3AO_61ur5UaNjE6WY-gomMCz31_HDBMqH5E3DM-RM1wzf4vEhAveepQGt9kCHjEese3maz5GhTCyAQvIDtxhfIKZKuG1dq89QWR2g",
+          "width": 4032
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117334462918028499196\">\u041d\u0430\u0434\u0435\u0436\u0434\u0430 \u041a\u0430\u0440\u043f\u043e\u0432\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAASOmt9teVsxKkNeYmZ2OMzEOz071G4u0qwW6BVbX2f8QaN898WtmgHzH6i-lxGI53mm0M_H2Rh25VM-lPvlfaX4tyEuRXi2Ij42PXCfBcxx2MNTSpDJ60fP9FmVXaGt3fEhBMw0W00eF8okFgTgcShxbyGhTIKUCLeiYJPC2itQA5DFAFLzdnqg",
+          "width": 2448
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111800376413580119428\">Tamara Igumnova</a>"
+          ],
+          "photo_reference": "CmRaAAAA6uSSuzDg-gvRVRdJHamuSO9uVqvvqB4Ubs7YoDkPFBRaHBeW5lHZPvH4I1tvSbEtntEeC6MtzvF1AVx_Gea5GSAjT7i-a4ixSvZTPabFXu4jxVjcl96kmF1iLVPYd371EhAFti3mdzkz8C-c9tTDaZT7GhQEcJbjQgm_RyTbqYqERnvmbEbqIA",
+          "width": 3264
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "popularity": 0.8908719274843896,
+      "num_google_reviews": 4755,
+      "mood_params": [
+        0.005353658607680365,
+        0.028867810371388587,
+        0.0833007479765961,
+        0.08971592900473584,
+        0.0589177948056152,
+        0.12165816132995569,
+        0.06854145999594101,
+        0.020137931777775418,
+        0.1130441928321339,
+        0.029373746821004302,
+        0.07794855870178291,
+        0.017081627650342376
+      ],
+      "top_cats": [
+        "sport",
+        "walking",
+        "hiking",
+        "beach"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.3841209683257849,
+        0.13080381137842753,
+        -1.280587640762161,
+        -0.6847925653542674,
+        0.42678033948347077,
+        -0.9648800210515802,
+        -0.5622297316699445,
+        -0.8386566994763904,
+        -1.252904691618697,
+        -0.1601899475373264,
+        0.019882631660872337,
+        0.02810306853344248,
+        -0.19974178382458915,
+        0.5879312106998597,
+        -1.1549249722996475,
+        -0.4269769945635311,
+        -0.3645171006875951,
+        -0.5683672753230804,
+        -0.22519981337179432,
+        -0.790055378148813,
+        0.09928927566264116,
+        -0.2404530970264838,
+        -1.1165322430208178,
+        -0.4729972567416987,
+        -0.6558482091673407,
+        -0.8704659237340433,
+        0.9841137602742537,
+        -0.2417976281102504,
+        0.6362062700390934,
+        -0.10930436626081202
+      ],
+      "global_mood_params": [
+        -0.37823368473344854,
+        -0.6489027019983916,
+        0.3675893133967845,
+        -0.5596864390546024,
+        0.012751218275885136,
+        -0.4033812769378498,
+        -0.8470820595477669,
+        -0.3769889161475496,
+        -0.11596207083769916,
+        -0.5575449483659357,
+        -0.3166989417156898,
+        -0.5771102383934251
+      ]
+    },
+    {
+      "name": "Far Eastern Art Museum",
+      "orig_name": "Far Eastern Art Museum",
+      "place_id": "ChIJpeWPzC7q-l4RzHs5ijGEpNo",
+      "cat_params": [
+        0.08160751994739311,
+        0.0322966336628242,
+        0.1684609292236488,
+        0.22343652308732184,
+        0.13920414490129857,
+        0.1240428565712071,
+        0.24953050022522247,
+        0.1614275680477863,
+        0.1395679551558478,
+        0.14684370678733327,
+        0.02869301006422994,
+        0.048329815869316756,
+        0.1033727629201884,
+        0.06459559879676316,
+        0.18510563255125081,
+        0.05223880913276884,
+        0.18112171953947326,
+        0.23797181764289352,
+        0.07753415423847472,
+        0.061191895772950027,
+        0.22084109420175638,
+        0.10788622010808332,
+        0.10940978138152982,
+        0.0830651509759327,
+        0.024193642536844306,
+        0.17941991575533134,
+        0.17054759645675063,
+        0.1705915795400569,
+        0.07238198240905618,
+        0.19460689095244882
+      ],
+      "noncat_params": [],
+      "quote": "This long-running fine-art museum features works by Russian & international artists.",
+      "phone": "8 (421) 232-83-38",
+      "int_phone": "+7 421 232-83-38",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.4731273,
+        "lng": 135.0525317
+      },
+      "address": "Ulitsa Shevchenko, 7, Khabarovsk, Khabarovsk Krai, Russia, 680000",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106936086925124579296\">sasha show</a>"
+          ],
+          "photo_reference": "CmRaAAAAsJJV0Fbar0_rZTKcafhB-10IYegqQ39fFdcmmay8_rIRnbp-o9PGu8TEJ3DsySRD1bqt2S2yDS0okVde2u9TIVf5TykbJmfBSJctG1TWr0eKPXFcu9y228DCPSWr813AEhB0RWWzVxffBR-0ApMYIUEIGhSAKaIpWFwdj3M7G3ixJZroOYfcHg",
+          "width": 4032
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108740383597982653333\">\u0420\u0443\u0441\u0442\u0430\u043c \u0421\u0430\u0438\u0434\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAqiOpJtCbMjeCdUdMGJM8fyDM3HkShahjv6yKIiTBxYOikhdFw0pIvzc2TQOFZ25SCwht31Fc9GHaDoiAf9UmUIAWvOA083d3NsyGKoVQ_zFNPEYDIVbCrgndhhTziMtSEhCh0LYhRTl2s4A0FVjnzcgsGhS38Us7GJlbxG7tvBbfIpQW267Gkw",
+          "width": 2240
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102587470151687060751\">\u5927\u576a\u5b8f\u8f14</a>"
+          ],
+          "photo_reference": "CmRaAAAARTCT9DJCxG6CZXSLePw4jum99h-q7CTULD-LohOvTtQVxNU42Yu6PCOjGFEsIxELs7IomW_Z6AF8nSOBt3UST-zpBgcxfVsF0K7o-x-oZFWYitBmHVlEcFjhf5rSjfkgEhDH7WwuHP54JT2UXySk6iaTGhTWgMA30nHdUYZfCeIsV9N2kiIQkA",
+          "width": 4160
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115792449221059982619\">Ammar Vannus</a>"
+          ],
+          "photo_reference": "CmRaAAAA5Xu1odsc3vAOuVLRR0gwbAgww95saiYYweoQ-GSKxbIotFflZGbAdTTGQFK6-jb0Fak4_xez2YUHvVAij3nqjNCdJVpYBxWw7RR9sMFMCPRwVBa7eQGPmEXjS5J1ljeqEhBLJ-kHz8GCTAXV3iQa1FppGhSF2s4tFpk5uIGWBm14jNAx2-vZlw",
+          "width": 3024
+        },
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109808497943890461697\">IPAAT</a>"
+          ],
+          "photo_reference": "CmRaAAAAckBWfdzuipTEgyGy3U1104swoOVRhG9Vsiy0XWmG7Ejy2Vd974z9vTslKZs_eaiXQwG78wk2O38ZGPsOzzGnEnW9shJ9dytFHx27ddoiXF3BKNp3uqqHNCxkiygM6sswEhBqWglRLj1J-38V_UTOmCMlGhSjq1HgyvrdEV11a6UKSUPhTZ06Kw",
+          "width": 2048
+        },
+        {
+          "height": 3916,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107355530077651147655\">Kota Seki</a>"
+          ],
+          "photo_reference": "CmRaAAAAzrD3Tt-7FZHmzaRv8d_HQ2Hp4unwLQdWgVIw_yQZYoZkaXVLfBeEhYPIyh4qt7tXYVQRLqjsyUPdofp-GYClhkQg0qEawn4S7ghJEubt7tAxZVLd6nX-OZkpQ7PmFQXDEhAeb7Vlbm3spY7zqwXRpZn6GhRCIrWQkgX3lq3bDrx9KSZYVal4vA",
+          "width": 2936
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102520511684492173160\">\uc774\uc81c\uc11d</a>"
+          ],
+          "photo_reference": "CmRaAAAABBoKhhplxUSIi8n4TsUsR_fKMngCqrti2F9PjiuDcUDJVocIcuhpsAY3_ZMhDerYugrnUqpfjm49bo8JZ0yWoWL6vUlLFwne0oK_iSpzigc-8MaXnjdaVOeY1bwk9sawEhBRHbiDAhwMNc3gK3m6TTHGGhSVq-R_8d2_KSeKt76sHQ-SzYy_Aw",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115792449221059982619\">Ammar Vannus</a>"
+          ],
+          "photo_reference": "CmRaAAAAfvl3auSCm6hpBl3haW05u7cqtJLQ7lA8NJYWMpiyFSSrMB0OIssxx6nX9MpQhyarX_ge9aGXVvqPtiHqkzeBX7C3rU0RR43BjhDoN5NtVyQrk1sh01cM6fKQacD9yCuYEhBhomJZ0uUYKUpVntxBRg4VGhSH6O4fG-LOGTgeGucmMdowFyKHPA",
+          "width": 4032
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105396609413846723771\">\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u041a\u043e\u0440.</a>"
+          ],
+          "photo_reference": "CmRaAAAAvLR2uoFQgXHH5wH1LKmpu24DrnO6zqgZ-tTLkuNWWD-eZOOOT5r-XhIqh4QMToZjo6p0eYVICDIiMF6K7pszjaQsEQl-5kRpEq9858lKd2igo1L0jLjbDANgtkr9hT6xEhC9s5iQnKLrfjiHZIyx0VYVGhQPjCE2hnxIXRywtQJ6MIVOj9uaWg",
+          "width": 2448
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103071145487374151869\">Yosep Kim</a>"
+          ],
+          "photo_reference": "CmRaAAAA4xQWNUvFY2dKejOFYY1P4FRhFd-LMp09lKQvKwjqDA5Haad5zI_zFjUR68Gxa73yoAzs8yxznwZM0sSl8gCHFRtulGFHVjopWrJX21e-UpQg8mKg86btwO-PSYd8NfcQEhDGQTdaKgov_CMks4I1pFP-GhQHZgIMW508bSwuCeFv7VJ1qWZcSw",
+          "width": 1536
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://\u0434\u0432\u0445\u043c.\u0440\u0444/",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.0012264482008689658,
+        0.019772551470308316,
+        0.01247403246945973,
+        0.04902178276872825,
+        0.010549486336278242,
+        0.04627203057432111,
+        0.030812074662444806,
+        0.016241341189806146,
+        0.01969794878507814,
+        0.020980607304214572,
+        0.05060667588435137,
+        0.0053763232176829824
+      ],
+      "top_cats": [
+        "art",
+        "science",
+        "books",
+        "architecture"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.9659406873119177,
+        -0.956035313987921,
+        -0.5518861713340164,
+        -0.056000186439211765,
+        -1.0218236211415446,
+        -0.2813015552971403,
+        -1.5830635539814248,
+        -0.5520905074159645,
+        -0.9922845134007545,
+        -1.8555240134192088,
+        -1.185812942749101,
+        -0.8791347464401772,
+        -1.6225415903602889,
+        -1.0370730064484088,
+        -1.1421010170185153,
+        -1.3836416881290454,
+        -1.5628260578201425,
+        -0.5852089391581007,
+        -1.1266106091288868,
+        -1.48369283917557,
+        -1.5447221861219171,
+        -1.4398631100104533,
+        -1.6645336007923488,
+        -0.7943079482421498,
+        -0.09682409904827663,
+        -1.2989824683842763,
+        -1.1209966427780325,
+        -1.6230702167886069,
+        -1.3692040060781008,
+        -0.9291302474513761
+      ],
+      "global_mood_params": [
+        -0.6559201124911537,
+        -0.9213877096895142,
+        -0.9076193074400922,
+        -1.1870459630609562,
+        -1.0487999068321505,
+        -1.35136315265253,
+        -1.561095695266266,
+        -0.5323683119555305,
+        -1.350810107454377,
+        -0.8837290106010048,
+        -0.9493956560758431,
+        -1.292689129571975
+      ]
+    },
+    {
+      "name": "Khabarovsk",
+      "orig_name": "Khabarovsk",
+      "place_id": "ChIJyYo2sMbp-l4RUH-6Xw68l_o",
+      "cat_params": [
+        0.08730992038319989,
+        0.02195217911759162,
+        0.12981548104066037,
+        0.08793509770399727,
+        0.14995570599643893,
+        0.0946471292175018,
+        0.2290541086093878,
+        0.10968382601125239,
+        0.15571704251605548,
+        0.09025916296787352,
+        0.009702941278273869,
+        0.025834937720679987,
+        0.06472144038056421,
+        0.0680276042716057,
+        0.1419665092693275,
+        0.014469950822534284,
+        0.05457967081154569,
+        0.22042573098649687,
+        0.05364208692172364,
+        0.04331438780236273,
+        0.1651097837999101,
+        0.10316556277322314,
+        0.0438044054836332,
+        0.07988342685746247,
+        0.0297074528897101,
+        0.134366599375934,
+        0.16968953272820256,
+        0.10889452279011909,
+        0.04675475316733341,
+        0.21535938149814482
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 48.4814433,
+        "lng": 135.0720666
+      },
+      "address": "Khabarovsk, Khabarovsk Krai, Russia",
+      "photos": [
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113482343908983147932\">Randolfo Santos</a>"
+          ],
+          "photo_reference": "CmRaAAAAwCZeJ57MuLQOFyQVc7h4N12LKiheJX8XjaaLpQNgyAzQY2Htbcfr_Cswi4elOrBwQMLZD0qOyvugeKoAEXfa0k4YPgSMCeNLYv19Y3RJtjxD-div0kT1s7Ag7tiyEc2_EhBWv_Yhji_ISWh3mQajceczGhRlSjlWefmA1OdD3W4S2Ft8Smpi1Q",
+          "width": 299
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108142364923073021024\">\u0421\u0430\u043d\u0434\u0440\u043e \u0413\u0443\u0434</a>"
+          ],
+          "photo_reference": "CmRaAAAA1-a43jcuxy2xA-62G7Es6OyGIWrjvYsh71lW-hkBLZAtyWQBMZdBbhNrpcjnsSUsFsE2bBEicsb7IWR0N3bBZ1ZsTvNl1V8dTbdXS4gsmmPhPCiLAW1-uU7LD5zNm1BJEhAO55NtW7hrZmxeP2JyTaqUGhRTpE3fD3m1S78Abz7km4GvUJqy8A",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109231286654829172239\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0418\u043b\u044c\u0438\u043d</a>"
+          ],
+          "photo_reference": "CmRaAAAA6wg6s5T9m_gvamPHyImuAglg3cKX5z2kc4Upasr58ZvA6t6Cb5JaRpM67M1qJ4wWo2sxtbN90B2oyqXwWtl2CT2c0Dc824GCkpK3JVzGK9HTxx0MlhMITIxhiOpEOMqvEhDvUsH8rSeRGaTRb3kBuZHOGhSxuKTjx_WNmnpio6xpZSoxM0lDIQ",
+          "width": 4608
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108142364923073021024\">\u0421\u0430\u043d\u0434\u0440\u043e \u0413\u0443\u0434</a>"
+          ],
+          "photo_reference": "CmRaAAAAjBcajjg270nplP8KcKUSe2YUo_9tN5oqS_Qf1FMYgY7B7PEhVYUmQluA-FxrCvBg3dJgL6foAhdaYe1xxPJe5jcfGo7j5EQNOiTKsqeI_MO99K65B2dzSj7Wr36EMp41EhCUgWuBbEZ5w-nwUVKcWuGnGhSLwjlIukrU-N0z0qVaSh6pw04LxA",
+          "width": 4032
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105465771483384783758\">Chris Myung</a>"
+          ],
+          "photo_reference": "CmRaAAAAc9uZ_aGiDm7Hy1uOJ5SBmGLqCyVWmL3Y0THCdUTD7yXZIUEuepnEdqiU1riC4CI1_ApNjsbgayHvwnXZD2ccXCBbJRM8Nn18ogb9uFVNEh4YPbMdb-WmrrjqvpCmhpU_EhBTkShLV5PGUK8KO8sc-IisGhRT7i8W7U0eSHzlpy88Aev4INY88Q",
+          "width": 4032
+        },
+        {
+          "height": 4743,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117340124469863116002\">Dmitrii Rud</a>"
+          ],
+          "photo_reference": "CmRaAAAAnx6xDHKv5iyLcALe9OPlzLSeQyObzUSmrXIh64nSG7F0-hjE65RbLqll6wTQ7VrE9LoIgX6bLsOzgBMxnAiROrZc6H25m1inY4wvgw9roNrhwfSIc9RDK1dqXXFPcN06EhBFP7U4nCd63TWYaoY-eB_UGhQy5jdN5cEk7wAaLduDaHJFJDU6wQ",
+          "width": 3162
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108079064097213584261\">\u0411\u043e\u0440\u044f \u0428\u0442\u0430\u043d\u0433\u0435\u043b\u044c</a>"
+          ],
+          "photo_reference": "CmRaAAAAc3otvFxjs159BCJVbNBek32bEq31FiFfCpR2QsSe-_jbizqkdRQLSQ0rJDw5lkCaapPyWuIU5apnvRKsTkxDGRvTuR9fhRjgy72WObk-Rx_t1Vk_mCsW0LC7hoG122IIEhCQfQs33Il8dGo7a5TApImqGhT2JHogisDUplxc7EVj-emkELFVUA",
+          "width": 2268
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107043359893502566357\">\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0428\u0430\u0439\u0442\u0430\u043d\u043e\u0432\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAPbyDd4zmLa1UeJS2kUEdoaQeUw8U0AvroC-aACiss7utJ3rBthrRhpw32NeDKJ1GeolQQlLV8bErVOy8gAMbEZQHA1XO2zz-H2FoOrUOtALhxEjeu1fABBsAybADWzTlEhC-2t9mJ8yjVrOXwz5kRUSvGhTAOmmDwHPqvZE_q26rbCICfAHf2g",
+          "width": 3264
+        },
+        {
+          "height": 2805,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109185370006042563622\">\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0427\u0435\u043c\u0435\u0440\u0438\u0441</a>"
+          ],
+          "photo_reference": "CmRaAAAAAfoCiRoiWHj_jSjFR_xJVpBPvmZ0M42f9qyt24QyZFEyYoZqhHASVj4k9SaTkF_ehCizJer5SSQTE9pfUAsy9YKQcBnMwAoHjWvPjxzdKcC-YzXpahD7NERUZsYdsOFDEhD8AX28R-XuSYRLeFl23SPLGhSHXEvuCrCDZYTrOXdZ0Z26VlR1Hw",
+          "width": 4224
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107421694919631829997\">\u041e\u043b\u044c\u0433\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAIpp7Q70UdIGBAv7iNyRCo-DMz2XApn6EvXWMT4LaAgtDdsZK7MW-bl7HShZw70t7oh0pDqFZxKXbElencQB1EZb6k9hZdxaFzxCwTjjpObvf8TFL2UNn49kmIuK7H23cEhCJ2ei4-ouSt82oRAcrfR91GhTFAy0VsQx_vbktfo_7rG2tT6ACSQ",
+          "width": 4032
+        }
+      ],
+      "rating": null,
+      "website": "",
+      "popularity": 0.06379037378009328,
+      "num_google_reviews": 0.125,
+      "mood_params": [
+        0.0,
+        0.0,
+        0.0009773103198357455,
+        0.006787629130235188,
+        0.0,
+        0.002255283089650148,
+        0.008504006089875294,
+        0.0,
+        0.001206153516273359,
+        0.008545165934783005,
+        0.011848459425102547,
+        0.004240364531011496
+      ],
+      "top_cats": [
+        "science",
+        "books",
+        "engineering",
+        "military"
+      ],
+      "duration": 1.375,
+      "global_cat_params": [
+        -0.8967510134473945,
+        -1.0797210261067476,
+        -0.9315154361503968,
+        -1.0243232988269628,
+        -0.9555042811327238,
+        -0.6734602273591203,
+        -1.800969930799659,
+        -1.1267466315162056,
+        -0.7532937282193387,
+        -2.457167037530035,
+        -1.5763718884654059,
+        -1.0927728432121098,
+        -2.040215155085731,
+        -1.0118545335832287,
+        -1.611196307241198,
+        -1.8259862965743041,
+        -2.2494485480469555,
+        -0.7687343581229834,
+        -1.4315828382608948,
+        -1.8399178341401932,
+        -1.8165242444677134,
+        -1.4859804654319064,
+        -2.404222875769951,
+        -0.823988448891219,
+        0.06193128993903435,
+        -1.633162220561411,
+        -1.1290366261362608,
+        -2.0238782650133875,
+        -1.523900951155405,
+        -0.7864333532809251
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.5137538971787086,
+        -1.1146135057675524,
+        -1.8381469437718294,
+        -1.280332070018868,
+        -1.9048745004976246,
+        -1.983267034835289,
+        -1.1800036547536363,
+        -1.5954322378283672,
+        -1.3670097631076288,
+        -1.8462686465705747,
+        -1.3621335478790297
+      ]
+    },
+    {
+      "name": "Platinum Arena",
+      "orig_name": "Platinum Arena",
+      "place_id": "ChIJYVPCQh3q-l4Rs9siMtYIs8g",
+      "cat_params": [
+        0.1553020928235742,
+        0.023435789228932764,
+        0.11099751638530823,
+        0.09928721452803876,
+        0.2651025870729372,
+        0.028278673912218295,
+        0.18094861186848518,
+        0.08072505866706635,
+        0.05432708800992757,
+        0.0915810452502027,
+        0.0,
+        0.09942329172792817,
+        0.05181947598216992,
+        0.20463127994001637,
+        0.08644223258489842,
+        0.22481210929350842,
+        0.22982582849121386,
+        0.07515669846598977,
+        0.10530678126244643,
+        0.04997991415583542,
+        0.30200648613451286,
+        0.17078475321173014,
+        0.08232487242818318,
+        0.05331241312722173,
+        0.0,
+        0.3052321084898342,
+        0.8437237821658505,
+        0.2538762238477985,
+        0.28689083519693787,
+        0.30051963472669607
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (421) 231-35-02",
+      "int_phone": "+7 421 231-35-02",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.4840347,
+        "lng": 135.0860222
+      },
+      "address": "Ulitsa Dikopol'tseva, 12, Khabarovsk, Khabarovsk Krai, Russia, 680063",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117472170788085421740\">\u041a\u0441\u044e\u0448\u0430 \u041f\u0438\u0432\u043e\u0432\u0430\u0440\u043e\u0432\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAYzOUC5ypvgaZdqmSViFnQ7fUQc-E_yKRc2bvqLhdrakR8IfVovmT4NUZXZFeYTZiQEFY1Q4DrX7A0DKgxBJeuOIHvJ5rkfp6lafhaVtk-eihPgOdQLjOj3lgxT3Rdx1JEhCbucLTjkIYiDOoTpxrd1GYGhQPhMiiX3WsSkdbFsO3-wk1jivBcg",
+          "width": 4608
+        },
+        {
+          "height": 3418,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101415132295919526877\">Andris Malygin</a>"
+          ],
+          "photo_reference": "CmRaAAAAp8u8rECmHGaQrRBkxhkxg31Ju2A2mN-kwDnf6HPTsUeYbZxQBH5xvM3YSR5ytOCvSsZqV5m7qLeSAgU_2rlL7ijVjmxybTUvE9m-FuvlSR3Bs2ipcVEdHC2iRNf__yxlEhBlpTIaNQ2dI72PyFFaEm69GhRhAeZ29sghCHJkLoANr7ugMr7f0g",
+          "width": 5771
+        },
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101842587709615461348\">\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d \u0418\u0432\u0430\u043d\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAACaZYAm87lweFA1L5g-efwBT-xcDaZdXIiqDzvR8FxlhDIVRDvFJQllBTJfmKzwHi2txWicFZ4fOkgVmGdV8KvI7VKnvvQR1M9t4wjG2q1EEPkgAdDnU9MHChRPhEwyAWEhCAH7gmlJ1j8mAy6sdVvIPTGhTH5qG3WjoMEO6DDcwNy5Fpt-MF9Q",
+          "width": 4160
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112723131824029480519\">Sergio Of Oz</a>"
+          ],
+          "photo_reference": "CmRaAAAA9Vh1DimuN5LTu6_rLigJu_Xn9GyEJrDO6v4oqG8Fom1roMJTUgkHb2lpZ1MBRdPrDmFw7Jph1HzPSHf6QpdNOqTDXbPlX6CJIXbZtSI84IBHVkYEBy5tyRB2fvsnVCcmEhBP7qqY7ZKeNuSLQXDCt6IOGhRPkKLsYjZFKUfQIozAtiBvjwg19w",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114279434118079033786\">\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041a\u043e\u043b\u043e\u043a\u043e\u043b\u044c\u0446\u0435\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAATR7p1zDXuLD78h_m3sJej_nf-eU0pdfKR1YM6fPj3SLBNOn75Xki9zPV1hSbvZAALz8lFwOMLFZZZLVWKQYKQHFZSOr-x3pAwYLnjn8ITWSgBLHnwFVFcfYZ6t7dcGqYEhCEh7E6F8ZaAB2C1SD-lvbFGhQWm0JfwzcE9P2Zw1QGXTeQwIqb-A",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112335512187486559553\">\u0410\u0440\u0442\u0451\u043c \u041a\u043e\u043a\u043e\u0432\u0435\u043d\u043a\u043e</a>"
+          ],
+          "photo_reference": "CmRaAAAAe51VktnvibaZOytbGNZ6TmnT-Piwp0_8fzl53nYo0O9lF5SfxMAwQkMMVlXRnAJ0GsbwzC4S8ieIgNaJ4hW2QQ3Rt18-JWAWbSvudWS4JOC5Zy4doJ15_xLoor1dIz27EhBPrmE00DZPpip2kw-UCXxWGhRbCALyYDTg_eszfkT6kS3SvNm19A",
+          "width": 4160
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102216860903378758484\">\u0412\u0430\u043b\u0435\u0440\u0438\u044f \u041a\u0435\u043b\u044c</a>"
+          ],
+          "photo_reference": "CmRaAAAAtQ3wUludUO1JOb1-Qb0ah4J6Y_ddxiHG2sP6KssB-mf8WMM1SicKP9pHVkl_4UON3Sxt02vI2fHvPlHZf6d9hWFkzNahkaz4hSsTaGkT76YbH7i7fTAN8HTj5SLLdVS4EhB6w5Dvg9vSrqq5lj2yeyNPGhT39b8234Wjzhb8LsH1mkSamV2LCA",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109170703344669887638\">\u0414\u0412\u0418\u0416\u0415\u041d\u0418\u0415 \u0425\u0410\u0411\u0410\u0420\u041e\u0412\u0421\u041a.</a>"
+          ],
+          "photo_reference": "CmRaAAAAZVJx0gN5Ew-TL724Xh319Ud69xqZgi4e5gTugp4zSO8PCdhp-A2Vo5fwOPEPdO6hiORDPWs3fRiqHGZIvZQCoShUnOqqJyn1qWfl_jCMMT7_57Idu1Vqka6n5hiqlmkvEhB5igUUcPoIK_AhO1I2oe90GhTaoRP6AWY6bPGAjCbIiwB1Ua_aqA",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107437641194500152690\">\u0421\u0435\u0440\u0433\u0435\u0439 \u0421\u0438\u0434\u043e\u0440\u0435\u043d\u043a\u043e</a>"
+          ],
+          "photo_reference": "CmRaAAAAtEghcdZ3AnhmlVpUGiyp-dg1XH37o3ohuAqRrFwnkoEn-_Sym3WZ9kt7GlbT9McwRJlLCdDEQKc6KG0fnnQNjtAKmCDRwODzuMbvWd3DnWxOv7_fRlBt_NnbHYMSnTyZEhDsMAUvpcCRtVHVS_301pAdGhT_hYxLJF8ZaRSlBoZthQPjjfnNWw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105040038981150053737\">\u041c\u0430\u043a\u0441\u0438\u043c \u0415\u0432\u0442\u0435\u0435\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAeRsaDn7aU9w16C_LIskm9j6-PVVQhJBzu0dq2qUwGmdgR_eK8U1gR5YMBm4SPPOtRQ_qauX7oE8HJpTaLoscJbIKDplYTdwS8hB90QjLM0_3pI3htTfFEBygpthcRannEhClUz0i0cehAZ1EbuwuR9uDGhTiYqmYDkDlL1TmDEgMMO9q0uN7jg",
+          "width": 3024
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.platinumarena.ru/",
+      "popularity": 0.8001247803803729,
+      "num_google_reviews": 3094,
+      "mood_params": [
+        0.0,
+        0.0,
+        0.056471343182592997,
+        0.03144394051445954,
+        0.03011732475183263,
+        0.15322095230997362,
+        0.09283793881717423,
+        0.0,
+        0.09945575283700736,
+        0.0,
+        0.0,
+        0.06149599710380971
+      ],
+      "top_cats": [
+        "sport",
+        "hospitality",
+        "hiking",
+        "amusement"
+      ],
+      "duration": 0.75,
+      "global_cat_params": [
+        -0.07177278025455974,
+        -1.06198192035443,
+        -1.116371620341234,
+        -0.943198564794475,
+        -0.24523857278650305,
+        -1.5588598293541422,
+        -2.312900679953001,
+        -1.4483571750478443,
+        -2.2537664358371594,
+        -2.443111940498652,
+        -1.775927274952073,
+        -0.3938903780212301,
+        -2.179636243632278,
+        -0.0080868783799003,
+        -2.214967888677137,
+        0.6375173381956322,
+        -1.2985555097383514,
+        -2.288193402070529,
+        -0.7721046611896667,
+        -1.7071013870375622,
+        -1.1488779033534344,
+        -0.8253906327966801,
+        -1.9699112682828215,
+        -1.0718543734346753,
+        -0.7934151832810495,
+        -0.36577952645602063,
+        5.1866063360996435,
+        -1.082020813615665,
+        -0.0743365857524971,
+        -0.20086008843712128
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.5137538971787086,
+        -0.11546412258794275,
+        -1.458033998680172,
+        -0.6193397594066404,
+        -0.006478643839235488,
+        -0.3872808455877652,
+        -1.1800036547536363,
+        -0.29571925999902143,
+        -1.6991020548543,
+        -2.1204444009817767,
+        2.1380677758776545
+      ]
+    },
+    {
+      "name": "Lenin Stadium",
+      "orig_name": "Lenin Stadium",
+      "place_id": "ChIJR7zPZjDq-l4RzDCI-uRZSrs",
+      "cat_params": [
+        0.1751965768107892,
+        0.07528226305898922,
+        0.09717983548803656,
+        0.15469006088537457,
+        0.41134403192632263,
+        0.06180211115420031,
+        0.3788919026435206,
+        0.16610253875330963,
+        0.12525181859329665,
+        0.3106613853986503,
+        0.10117682092444931,
+        0.20776631695306175,
+        0.24024322208167495,
+        0.2519229423386523,
+        0.17085108546760272,
+        0.1804262256768206,
+        0.5319821821112406,
+        0.23456772761520273,
+        0.17554217302639105,
+        0.11277025233829331,
+        0.5315364954808406,
+        0.2996222145090853,
+        0.2164868608748275,
+        0.15864294720738384,
+        0.0037851236405011526,
+        0.3268819938138192,
+        0.515622752023528,
+        0.40570321254887154,
+        0.4385087135649654,
+        0.3569045343526183
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (421) 291-78-99",
+      "int_phone": "+7 421 291-78-99",
+      "hours": "",
+      "coordinates": {
+        "lat": 48.478964,
+        "lng": 135.0464689
+      },
+      "address": "Khabarovsk, Khabarovsk Krai, Russia, 680028",
+      "photos": [
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103355658219672216071\">Konstantin Frolov</a>"
+          ],
+          "photo_reference": "CmRaAAAADnHfLnGwiIZps_INYtBDkPlX2_bAeYEor1Nx0Qu5A2UpHTxK1JXmlZ1kgvJTqfQLDj--V7_LejxUmG5RaZnP4DAn_JLf-oU551Esi5nrZjfAtKa7v0YZoA3YuxB3HVQkEhDP6ofpOz_cTq1DMt0lHYu-GhSji9QhrhH125jl385kL5UmlxhQxw",
+          "width": 3264
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102209925563637751574\">Ilyuha SP</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ_oj0Y1_hlYZda1VdOmkGUN9YER8gYYKoIqRV9s8zZhxW1S033BERJYC9Rqq7yuM6Yplc9tH4-Go4Oy4Nr4agUs8lIStf42Hyo71o2r8KVdhfBrRoyG8f5GEu7rb2agTEhAf9qLn8e9T0rzldsKv1EFQGhSAHBPw5oBqCe3csuvI7gJynYS03Q",
+          "width": 4618
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117948324762056376788\">Roman Matveev</a>"
+          ],
+          "photo_reference": "CmRaAAAAdG3mCOE5YUO5VHO8FsH6a9dxCvd6L6cPMoyCM2D5Zb1KBYy0hxHlH_0eXmmuzQB08DI4YXKxUuD87G0NPilrEeB4BE3TRZjsiEoNtmW8syiD_FBWhQW_kBX5LdhNrsQPEhBa8fPPmH87AtGgiPBbe2rhGhQsQlLpWedFpwy4hEEXPTKgjSfHww",
+          "width": 4160
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108142364923073021024\">\u0421\u0430\u043d\u0434\u0440\u043e \u0413\u0443\u0434</a>"
+          ],
+          "photo_reference": "CmRaAAAABSLpQglUSqoiTCoDUJGhdUfGFnlqMRZT0BdOTilOF_buoxU-iqa4udYfDmNiTuoaTOKn54l4oF6SAIIdG8H8G_MOEc7tUU8t_ZQZU_SCGjyeIx_oP-gLxMWqMqjPmZ87EhAdP5a5ekzWhFNz_yxvHhP-GhQsbtZCAP1CqKFSQC--6nUWmkwAgg",
+          "width": 4032
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113248906871719573597\">\u0414\u041c\u0438\u043d\u0442</a>"
+          ],
+          "photo_reference": "CmRaAAAA0JL7Tu_s1Lr1dOiOD07L2UsIcj-oOMDibRJtQbBm-CnV85smENnUnOjqXHUPthy4DU4GUe3d9NBCExD50PW8KbMWOA6g0Elv9PQjLUuGBW-DfJ_PKlz5QPNEhNC6Um6eEhCpxgWtBQkBi61so47s0r3bGhQHiMLYfe7JCRRGJHzcwv0ojQ-p3A",
+          "width": 3264
+        },
+        {
+          "height": 1936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110676641681019461492\">Dmitry Zlobin</a>"
+          ],
+          "photo_reference": "CmRaAAAArHze9hVE87Go_lr80WxSp1jfqJe2Y7oTSTHgEdslKtXq1LOvg5JWG0OK4qFYK1g_FPTC4Yx2TOtbGN3F-UrB7DaCNmAIq-Nfgx2OwU2_J667cvGGd6zNxa9YFfeV5WknEhDArAtEmg7mocgSIUdO1-_3GhSqX7EmOWsCMN1IH7XIheIuh0M0UA",
+          "width": 2592
+        },
+        {
+          "height": 1611,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111112271823978724099\">\u041f\u0438\u043e\u043d\u0435\u0440 \u041e\u043a\u0442\u044f\u0431\u0440\u044f\u0442\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAIcXOyBjVS-1VB6rm8RvOY_vgo7Pkmr9mTY7DNGiriVw2F_Nn84VDIsIqC70z2aRYvym8TZYwpWQF9T1p-2eL_ShGWxOfgOIuEStORYRfKhxH6PLAar8rREW282JQ5zKgEhBy2c9l0nGxpaMHEJY5LhYhGhQB09d4cXl_QvEp_DU-mInbCOh07Q",
+          "width": 2417
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107966394140848735296\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0421\u0443\u0440\u0438\u043d</a>"
+          ],
+          "photo_reference": "CmRaAAAAY_eI7wrkRdieqiVKEhTlG1HfMlergAHWMOhxOMCMO2w92JWEwnsra2xXS70Uc6BQowpaG1Dp966HOuzHra2gKnklgsI_KJyD38g5Nwv_oNDG3vxdmSaVQFWDJtDm1IxAEhAo1343tM9xbSxZz_5g68pUGhThdvErHra1cx0rb1LlqSGa9k1o_A",
+          "width": 4160
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116441176039924744205\">4txt</a>"
+          ],
+          "photo_reference": "CmRaAAAA4D5BLZHCeVXyFvZ0m-10e4JvfoNYS9CYW9NlZrWbMgbktrd1umQ0FrjbuUa3yX9bPlAT5Viy9pEDpfGj2RX86QtFeciixFKMIQqKDRKWrVRi54wpBoYt90ep2qVjiVIiEhCDyRs4ceQEbrw648qxJOkpGhQxrRNASREsL3tv1iLOmBeltuqL9A",
+          "width": 5312
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115748342768758428321\">\u0410\u043d\u0434\u0440\u0435\u0439 \u0422\u0443\u0447\u0438\u043d\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAA1XGxyKgwjkPZ9bURPijsQbCxcWfgEXrrjPy1iqgCheWOjcgW0X_h6uVLEDoSm2mNeg-kC0lv3PxQnBY4QJMHiFPEUo-z9GYLwX0EHpr3v32r4QQyPN9zNNjF_Oq7v_N1EhA-4m06CV-FtbTHW1RbZWF-GhSCb-JgAEMEOfJ_t_NjTKjPKDxy9g",
+          "width": 4128
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://fcska.ru/club/stadium/",
+      "popularity": 0.6265021595434418,
+      "num_google_reviews": 1163,
+      "mood_params": [
+        0.008127245305350762,
+        0.029586222987050728,
+        0.11152182956225207,
+        0.09916441166422922,
+        0.06989306803086101,
+        0.15633844810704206,
+        0.1029379318667183,
+        0.022410362291678643,
+        0.13235709532118542,
+        0.03354971788865097,
+        0.0909244308979745,
+        0.01624701912453693
+      ],
+      "top_cats": [
+        "sport",
+        "walking",
+        "beach",
+        "food"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        0.16961553932662013,
+        -0.4420683223507518,
+        -1.2521080728119207,
+        -0.5472775885530108,
+        0.656829138012871,
+        -1.1116347454641295,
+        -0.20642088031336467,
+        -0.5001711749482548,
+        -1.2041494096350192,
+        -0.11370978448425802,
+        0.30492419307439395,
+        0.635063748988065,
+        -0.14349329841684993,
+        0.3394135885312073,
+        -1.2971051152125728,
+        0.11767487571907313,
+        0.3409576010893587,
+        -0.6208144311837756,
+        0.12442068784081715,
+        -0.4559489367255378,
+        -0.02945816348679363,
+        0.433256748865857,
+        -0.45725803513773916,
+        -0.0892855306538741,
+        -0.6844326943203064,
+        -0.2051930503949328,
+        2.1123278945374584,
+        -0.095693714484081,
+        0.8408939442983354,
+        0.18685000529909435
+      ],
+      "global_mood_params": [
+        -0.19162158933814394,
+        -0.6273797668919652,
+        0.8756993714403946,
+        -0.414024319754576,
+        0.2536282307108726,
+        0.03272391880212516,
+        -0.1961424876661447,
+        -0.2863740895973688,
+        0.1395222281122683,
+        -0.39525344780213834,
+        -0.0164346270996673,
+        -0.6281322555395726
+      ]
+    },
+    {
+      "name": "VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+      "orig_name": "VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+      "place_id": "ChIJydGL3Bnq-l4RgF96Vr4huD8",
+      "cat_params": [
+        0.1530133604297784,
+        0.0614340734335202,
+        0.0571492667266315,
+        0.05361198350691563,
+        0.15621251415108436,
+        0.08259738683637782,
+        0.4050470602760245,
+        0.1258649415471366,
+        0.09108507732025287,
+        0.36560669707980514,
+        0.07515614107532177,
+        0.0850306959237685,
+        0.29594871364842834,
+        0.05800615861241165,
+        0.28198737252367523,
+        0.18436113934740145,
+        0.3891798207764554,
+        0.14727183236831268,
+        0.10378696990137903,
+        0.09688216460596778,
+        0.29881317387441275,
+        0.24751670864565217,
+        0.21082103312250433,
+        0.09456596910946699,
+        0.010584577041362517,
+        0.21605485810317615,
+        0.285851618231764,
+        0.305979085983103,
+        0.15390719092490615,
+        0.17533340164540434
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (421) 294-49-27",
+      "int_phone": "+7 421 294-49-27",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.4765345,
+        "lng": 135.0526912
+      },
+      "address": "Ulitsa Turgeneva, 92, Khabarovsk, Khabarovsk Krai, Russia, 680000",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111116580117485940357\">VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAA4aw4QDtQrYMUQqQkMiIL6dbsXCz3xAojphB3BcVz60yBkwNEF4zkr2XLnnhNkiR-2uYwgn22EI9Bje9MJra2lo_3vRENiyy4Z87P5tnZQtr1Sg48Bz2uDeVuv9shFtWBEhBvi5VclpTA18wS867dHbGZGhQtOM2Ih2sHB-CMIUOUFZu_Cp7Qaw",
+          "width": 2560
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111116580117485940357\">VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAAQXP2VtB97yVTvM2rH9V7FtyNHjpTEeYulSX0yZGMSlr7gtvOgipYaDfxiDx7ZJ5NbANHF5HE6HkFyo52Ft8Rsq6v3JTLbcbEydr7kGTUznaNC3QnSbbeELgFHoqcEK9FEhB7FH48vf2W63ozgKG9raRIGhS75zjmILNaRyJIA4nUAqkfoyTiTA",
+          "width": 1280
+        },
+        {
+          "height": 1037,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111116580117485940357\">VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAAfifK7am5kynduvvxL5xb3X9v5JZmZ76MzQRZ278cFXvr-UaPC4Bh7zO64WLX5nqaoDs8appMmD1UFBM9JknYNED_KpZbX4s_UUzxCNCFW16x-362vF75kiyVy8nNYkq6EhCHq4WQ-v8R3L1WWe_9So61GhRBrNMyl8-v-fuplwGvc6D6nxLpmw",
+          "width": 1383
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111116580117485940357\">VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAAxs3_jcKdpKr2pADD4r71tboVTHbNPrRENRF3osVs8HxsVgLB9jRBj4XK6j07T7dyYXV_9eIMoF7F1GneEptVbAoilgkDAmItkNnwN9Sg62tre2oWhmMChI4Ga4htTu1nEhB5KbFPahKyXMcNQMvzcKg2GhSsLd_kV3pSMvM3NQXEyFWMtFs3Xg",
+          "width": 5184
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111116580117485940357\">VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAAne33dB5PAdX5P1ZqqUr3z8Ugpcaz9KA7DFwCZ_FWDV04BsrYDXFAHiMOnU5XLxGyVync1gkcDMxg2sICwFDT7GSr6KTVTZAXvmYEEMkhyMb0i6qI4Iua2O4j6GhfQIV4EhAzJbtttkBqSC_DPD92UWv5GhS6hqKztqxAju65wX8uYatqvRVNEA",
+          "width": 5184
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111116580117485940357\">VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAAZxn4OYwUuZz3SChyEd3_mphn50IrOEjHUFGQxyPhY2Lk5gIL7Hx6tz_n1ROEawr_cJRmNM-Ne4xJAEQsCVIrLMXO94_AtBCcM15UN4vIunCi0k2M1BxeMA3vJ4ZmqVS0EhB_qw-5ywRUlipQJcgAH-0KGhRCB3ABT44CmS-BOSGqtAB5wzLQ5w",
+          "width": 4152
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111116580117485940357\">VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAAHLLux2cqvBKTTYB2Kqjt0EXEILKKAT2-sBYtCalbSY83IFWW67KCFvDcpkJB8z8KJ6oALKlVVl6XHgmbquUZe1TGOI3Ugc4OKjDRJZSEOH6aOGTzQkAh1MqgD9wsKX5lEhBq6CW0pR-V5gyaD1FzcQaOGhTmu0W-IBlnaBapQKxJMpGTM-nGxw",
+          "width": 4608
+        },
+        {
+          "height": 797,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111116580117485940357\">VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAAJNb2K8mRx_i7EV1lD6WLpPtOygVXAfZn7-yxtjPD0-3MNrVwLgz_VodbeyqGaYq313kRiQauwts0EHpLl8mOXZ1LE9_GLSm3g_NR-h-vcwi5aCq4vzHrXum2dFq2EMqZEhBH11UqXbuwc0lRb9I0k6ZnGhQqbmRpHotk0lEx-edmV2YzZpfkCg",
+          "width": 900
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111116580117485940357\">VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAAHPBgrWkbApZCzTGyC04KqqTKorjawFo5lvRBAx_F9awWT6LK9qRRPsVV_Hrz6jbJI9po9RHx8I5GNJn_9G8McQtQjHGRopVJV6XucjQqLZPe0Mw_y4_QDW7cyVFdlWXREhD9tkZSR7Zzs4oBtGbpTEX5GhT9coIbkHlZktJwuuJj7562-6skRA",
+          "width": 5184
+        },
+        {
+          "height": 1568,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111116580117485940357\">VR GameClub, \u043a\u043b\u0443\u0431 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAARQ2CSO1vMiDEQsy50zz0kUis8jU392FK1ELkSmlFyOk7ud72dZRvNAfjm0_qCCFeV2EWsE26ND_WL9r_f7tDRZ7YlQtyPAkk5iy1nKrhWFPdtTStPoeUYnzRF4eHeidaEhBqiv7PmE2crgRmV_ZdZsStGhTbJSC6TQSB2qbxA3ZJ6a0zxYVo7Q",
+          "width": 2000
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://virtualitygame.club/",
+      "popularity": 0.1953780698841243,
+      "num_google_reviews": 11,
+      "mood_params": [
+        0.017942392024066167,
+        0.07886621952435399,
+        0.018956329215526348,
+        0.10493959132268887,
+        0.010940330503625272,
+        0.15181968822845238,
+        0.14056425102325712,
+        0.03028574030984011,
+        0.07778572369570015,
+        0.10834107991759875,
+        0.13947975072739546,
+        0.043672735129985256
+      ],
+      "top_cats": [
+        "family",
+        "friends",
+        "hospitality",
+        "cosmopolitan"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.0995429534776715,
+        -0.6076472021160522,
+        -1.6453439156753842,
+        -1.2696038534199219,
+        -0.9169101287388498,
+        -0.8342118534036757,
+        0.0719179863061479,
+        -0.9470422504356082,
+        -1.7097839474761725,
+        0.47050387615840794,
+        -0.23022970253510525,
+        -0.530579572552151,
+        0.4584708701731533,
+        -1.0854923984639242,
+        -0.08860793528297257,
+        0.16376014079597168,
+        -0.43389403072494126,
+        -1.533896422788972,
+        -0.7915044164515275,
+        -0.7725329920511874,
+        -1.1644517134608552,
+        -0.07577577835732892,
+        -0.5211392638465936,
+        -0.6870233354450753,
+        -0.4886606600148832,
+        -1.027245403531379,
+        -0.04060787284769506,
+        -0.7435403806832258,
+        -0.8770828881361131,
+        -1.0616573317493636
+      ],
+      "global_mood_params": [
+        0.46875982124846455,
+        0.849000441910083,
+        -0.7909079699988679,
+        -0.3249915153662001,
+        -1.04022195406268,
+        -0.024099563483965157,
+        0.5159206615793182,
+        0.02766236113971137,
+        -0.5823852443859253,
+        2.5113764536661227,
+        1.1071453226028203,
+        1.048480562338052
+      ]
+    },
+    {
+      "name": "Mamarada",
+      "orig_name": "Mamarada",
+      "place_id": "ChIJ_7O5e5Hp-l4RRWNkyPDYwn0",
+      "cat_params": [
+        0.38039772929237314,
+        0.28244122376903297,
+        0.0,
+        0.0,
+        0.0,
+        0.21642941648460395,
+        0.35261935271036865,
+        0.21027443301567902,
+        0.11169446446927221,
+        0.7600966493203186,
+        0.1965091587383456,
+        0.0,
+        0.4341047133986214,
+        0.0,
+        0.13112894892533425,
+        0.09578424803150305,
+        0.33721600178823696,
+        0.0,
+        0.23309618721338157,
+        0.10020978144616285,
+        0.23290168001714964,
+        0.4958356252930105,
+        0.0,
+        0.0,
+        0.0,
+        0.2110498196508313,
+        0.10185142218236033,
+        0.21031997918053078,
+        0.10270818703059509,
+        0.20948314850911212
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (421) 266-99-99",
+      "int_phone": "+7 421 266-99-99",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.4835979,
+        "lng": 135.0921658
+      },
+      "address": "Ulitsa Lenina, 85, 5 \u044d\u0442\u0430\u0436, Khabarovsk, Khabarovsk Krai, Russia, 680013",
+      "photos": [
+        {
+          "height": 3333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311176520163876709\">Mamarada</a>"
+          ],
+          "photo_reference": "CmRaAAAATrIk7nOqTwuwne-GTVwiF3MCjIJ050wjMy4zsQL7GUYlatROtOERd6LyUvkMtuRbNCl8DJ0zZIexcNVY5JLnJ0bVd9kY7EOCpLYM0TaOlj7hPYrIhSWaf-mQwfwdNS6rEhC74ol1Nhd7zlAMWugMcz4IGhRWhj_V_0pMIVCtCcAHeTO3ZgoRhw",
+          "width": 5000
+        },
+        {
+          "height": 691,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311176520163876709\">Mamarada</a>"
+          ],
+          "photo_reference": "CmRaAAAAKO1UGDxjClY2fao9hWaPRtO5vMw0Tvmc_dxQzt3bG3maj_uooZJR3d0RmcG-35eyDkhv6lj8MZ6cE9zMQy1SBCoEcvmwVQiZLGSALDg6SNU35Zxyy8WRXld54bLLylAEEhBwaSY20NuTWfpR_ki9R6J1GhS1HOFiQil-JBNOU4WePCpKpD25bA",
+          "width": 1024
+        },
+        {
+          "height": 3904,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311176520163876709\">Mamarada</a>"
+          ],
+          "photo_reference": "CmRaAAAAeZkB9EryqMQKTLfq9WXOCAhtrDw3q8tciXmWB4DDXsLK4mHrQgfVZecL5djehA-wUyVdsHLK3DJGd6Hsv1fwLKpfxbNzblgU-TP_tHDgeaBwniPeazR-SiICvvsOlBkPEhCnny4U0DwzupzS4AWbpBagGhQX09xmBmN8ijax3Xw2zjuOSnqeTA",
+          "width": 5616
+        },
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311176520163876709\">Mamarada</a>"
+          ],
+          "photo_reference": "CmRaAAAAwJ3o1pVYLowctRXL9qiC1x8Pqy9PZxx5N14iXACT1ASLVGVD65LAqJ4EecriMCl6S3Zc-z3TVPj6pDqj6CkP1_dO_UrwSCUZIOsNi03KhJfMboT5m-s7_6Ji3qHL-CfTEhBopwO-Ib_UIDj0njfTEsPCGhSJ2IZX85EKaNaSuwNO-R1ubjk7aA",
+          "width": 500
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311176520163876709\">Mamarada</a>"
+          ],
+          "photo_reference": "CmRaAAAA4hOT6Y4wxvqOWt4MO4cPOBvbzysJ_7GpRgrHdCooAHqroSvtJmZhQDJCX37Mp20qivRIVpMstvXvjnDv6cM5r-yI6DQKXx1BiHA3RPOOpwqBb0raTZo1nio6RWvfmeSwEhCoXuf3g7zVyjk5k_-x4CiIGhSF8gnRrJfps8yYoXL19J_HaMY85w",
+          "width": 6000
+        },
+        {
+          "height": 3436,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311176520163876709\">Mamarada</a>"
+          ],
+          "photo_reference": "CmRaAAAAmjvJUzJP5eEfjPkzCMYgJVtNrWFFEBXBelrvo7qFiE-6dFOcDAjh6VWIT7whdZFUKfjE3hFPKgl3fPxY1Fmf--yztgYHYpZizV3tCes8d5bjDKXsUuEh6i11qMlm8YMiEhBMFMpJoeXkhV1RmGQANLevGhSBHCIYtTS8l7SyA97CzTspbYDXJw",
+          "width": 2409
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311176520163876709\">Mamarada</a>"
+          ],
+          "photo_reference": "CmRaAAAAPw6xfp2GkOQdK0ehiVt5qXIInJjn2QmPHghMHQE8qrN1tkrDQ9gG1t14jdrHszoyNPUFRABq_GrxoRAi5TdVTR5bLaon7N76wOkTaipppZ6ZOHxB7rIQg3r5SC_ytfgDEhDobkP497JLrM5wD1yBDm47GhQwxnmQzXjXQKd7THn4Hn3xPre3sg",
+          "width": 6000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311176520163876709\">Mamarada</a>"
+          ],
+          "photo_reference": "CmRaAAAA-rWP4B0v1j2NM9up0dENRn3zhcCSy5QMolJRc2COrkrewqEirMR4y-X3kaBw0EKSsjGfg3DlsPSPfaNq6kqNOoyhDjJMVh0tAeLNXLW3P84WayAaM8yb4GUZH_39tO8IEhA3gcyz0l1_6iDBu9To6NNhGhRX5QEBaqMK_wVKjsF9Z7rkNvLTBw",
+          "width": 6000
+        },
+        {
+          "height": 1500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311176520163876709\">Mamarada</a>"
+          ],
+          "photo_reference": "CmRaAAAAb1eMoNBTw7-xY8B3dY0-ARmA3vcTK82PZ9spNqsKlFNwfEHY9PC5qNoR3r5m479V4l1hDtLtunyBxDpK-vu_7LZw2vPB_YDkFqYo-acxa54ixqXfQasD82e47YG9YbgcEhDZ1PNc8ugt6GhJ_apwEua-GhRwDXsGVwjSbkB982Bft0_aAnP_SQ",
+          "width": 2000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115311176520163876709\">Mamarada</a>"
+          ],
+          "photo_reference": "CmRaAAAAwMOI0AVrvfrMn3I1dKP7SIbS5apulpv2NDxqWGobFcFTP_XOOpaXwPjY5GbYdS2-B6BWLmftCMP-QFkE4k685gEeT5q9JS_8p7aQmf5h2vS4L5EPOlqTYzSZmIdfpfkGEhBo6PzNkux573VJFhkgM0siGhS3Xw2vu6m3lW7LnylYVtZlaCtWmg",
+          "width": 6000
+        }
+      ],
+      "rating": 5,
+      "website": "https://mamaradakhv.business.site/?utm_source=gmb&utm_medium=referral",
+      "popularity": 0.12758074756018656,
+      "num_google_reviews": 2,
+      "mood_params": [
+        0.095991797328754,
+        0.22279885256976756,
+        0.0,
+        0.12294757149696021,
+        0.0,
+        0.5173584480667667,
+        0.0,
+        0.10644274768462914,
+        0.11722708112620768,
+        0.0,
+        0.0,
+        0.1227865914948996
+      ],
+      "top_cats": [
+        "family",
+        "amusement",
+        "nightlife",
+        "fashion"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        2.6594092633298683,
+        2.034872676827051,
+        -2.206743385271305,
+        -1.6527269282055697,
+        -1.880482836733887,
+        0.9511969713108597,
+        -0.4860090164028351,
+        -0.009606547189855992,
+        -1.404785063824795,
+        4.6649731044442895,
+        2.265575192759091,
+        -1.3381321151493957,
+        1.951410958955726,
+        -1.5117232852452318,
+        -1.7290440549028117,
+        -0.8736424193924025,
+        -0.7158519028635444,
+        -3.0743039943694486,
+        0.8590735652749725,
+        -0.7062273137601799,
+        -1.4859026100910724,
+        2.3501176776936514,
+        -2.8981099770867864,
+        -1.5691756538185757,
+        -0.7934151832810495,
+        -1.064369918307532,
+        -1.7646738890760618,
+        -1.3649790993544118,
+        -1.1861420306108725,
+        -0.8268391154283903
+      ],
+      "global_mood_params": [
+        5.720069643472037,
+        5.1610805101008665,
+        -1.1322096139050504,
+        -0.047372277333130694,
+        -1.280332070018868,
+        4.572556555148878,
+        -2.144201973285331,
+        3.0644786561268655,
+        -0.06062796018274771,
+        -1.6991020548543,
+        -2.1204444009817767,
+        5.884937908676578
+      ]
+    },
+    {
+      "name": "Arena \"Erofei\"",
+      "orig_name": "Arena \"Erofei\"",
+      "place_id": "ChIJZerBq_vo-l4R3pzJmawZ_14",
+      "cat_params": [
+        0.14802044561349195,
+        0.13427917945862283,
+        0.15116905386844792,
+        0.05435722840916581,
+        0.23480356020389279,
+        0.12695468240633992,
+        0.4430489836703482,
+        0.24238906385079434,
+        0.1264643293898662,
+        0.408958023336727,
+        0.17541247512777816,
+        0.19601517857083886,
+        0.3391190910253244,
+        0.08744137895442675,
+        0.3375585068491933,
+        0.16455828920991725,
+        0.5153407271696732,
+        0.20028007270099465,
+        0.1752762923898014,
+        0.258288867790571,
+        0.4354128530770872,
+        0.2409056209973072,
+        0.21888608001325974,
+        0.14666206940438437,
+        0.0,
+        0.32261809250489143,
+        0.5022955204229499,
+        0.36983478527117536,
+        0.3323188329881149,
+        0.24319952842568762
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (421) 245-67-97",
+      "int_phone": "+7 421 245-67-97",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.4319198,
+        "lng": 135.1003103
+      },
+      "address": "Ulitsa Morozova Pavla Leont'yevicha, 83, Khabarovsk, Khabarovsk Krai, Russia, 680023",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111871208224892947682\">\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0412\u043e\u0440\u043e\u043d\u043a\u0438\u043d</a>"
+          ],
+          "photo_reference": "CmRaAAAAf1mq5KK5nQ4l3lujXMmiD_nE3jZKgEt42R41YnTtg-oRs0S-x-ITnqioplL2XuNI4JXz7okAQT1j4KAfv5fjD1qUf16hzbSb8VlEx-TytcNvwdVisqkTbcqB4nBA6K2AEhAf5719XR7OIxdVEwZVv-nVGhTDuIWGpjaaL8hwOZUUbp5wUO3GcQ",
+          "width": 3024
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114997563846279190826\">Dr. Evgenij</a>"
+          ],
+          "photo_reference": "CmRaAAAAoVzAi3bx7rKdjEmNwBDJbTvTV2HuczEWOO6YNl-DJBusykNWw0CNJJbyRnpVnAY6uDH4OFozLbjcHRWpg_k4aogfnlN7g1XiPYpd3C-PjWaX8z9vigReSE5CamVk6MylEhDVNvzufvxkP9GuuPd-4RsGGhRt8FFiGebFyttKBB4gwwjsgVdeBg",
+          "width": 2560
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116054026137547027200\">\u0421\u0435\u0440\u0433\u0435\u0439 \u041c\u043e\u043b\u044f\u0432\u043a\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAA1U0yRhEOOTZeoEb1VbluLQqCEdQGys2ikgCQDq3m1RugSszVeP00M7Dce1-YZx7aGjYUvGNjMdN0yWw1gTIEJdDVVHEcH3oqe4ih8wFMDjLj0aBZJAybI7_JsOfZUQmaEhCBho9OdpQ8W7ga8SdXzyG8GhTjsdx0kRTnqvJ5JQY4mev2ax9tmg",
+          "width": 4032
+        },
+        {
+          "height": 3280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113794369878120587057\">\u042e\u0440\u0430 \u041c\u0438\u0442\u044f\u043a\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAi7UYOQ_rcT-lW_vZWXToPrKBqTYbiS_mVdo-B4IIRAL7BcXgCtzsVWHnF7NVyrxIA5rxxlJMFA9OeLF2Vzcmp6jEYro_TzWeyfbfb3dlwPqS0qX_rFtvtTA7NESN_3MOEhAtl5nYuzai7Yl3sH5FYYvfGhR6AjioG3PtgIaKvrdStigLlhNbSQ",
+          "width": 4946
+        },
+        {
+          "height": 3021,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112309907419298557152\">RadioKOT</a>"
+          ],
+          "photo_reference": "CmRaAAAAZbwe7PmCf1RkYnLuUOS-bf73tR53HA6Z7F1zCWFSXY7ZlqOYbl_vkDlfeSxelibjxY1Hb1JA2ABCcauujxLo6wVGPYhnFzS8t6mOG7mALrOwOCZB9EOhkoH7SMpd4dYJEhDeEOh5K5y_c3RL6GfcCCKSGhSheemDLNgnwrQKPkZifP8-ZPqrHQ",
+          "width": 4028
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102692942514511216759\">\u0420\u043e\u0441\u0442\u0438\u0441\u043b\u0430\u0432 \u0425\u043e\u0440\u043e\u0448</a>"
+          ],
+          "photo_reference": "CmRaAAAAnXJEcjABmfwMFAOb6QM_j3HXmdZqG8e444feAu687j0eHdHY34sZVr_p2e_y6kk7_N1vt1GVv-_afUR5c8_PcUOtfg5Y_LLJLN0DAq0D-He9abdSbX99gcijq7hbnz6JEhCRagKs0u60A2Ua6V1t4yPHGhSLF1gI_ylnESeNjNvZYUyXn9lAzg",
+          "width": 3840
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101909924722332865139\">\u0435\u0433\u043e\u0440 \u0441\u0443\u044f\u0437\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAMM_LyLETLveCNM0qdxQEud4Aq6cXq4aNaVuByHjwcqfh4KiBFk2gRDl480bdvGYEiZAHXksBvKn2uzBZNNpwkjCWhXJa89B2zHKAXq0jOb1T2-f6peJ62ty1J8cLpTfwEhDVSeOpmHPj39HPEmncj_u4GhQkTuQjD0voeR58esjBUn1j2wRRBQ",
+          "width": 4608
+        },
+        {
+          "height": 3394,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117340124469863116002\">Dmitrii Rud</a>"
+          ],
+          "photo_reference": "CmRaAAAAPzqpkz75NmpvqcqAv3pcDIJBCnsGvcWH9624MhXSrIJuTSCGPstQfLvz3K17Xt6v56QlFbdmky_Eo9dz_2WCvC4XyUfMErBEh4ORJveymjdT5tuDIIFAXwXQF1Vb2AuLEhCfie8-FqJWMejdkuemlQiNGhTFynVgrRKsHAvr7QWSspU5VPZJqw",
+          "width": 5091
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111362936293310565745\">\u0412\u043b\u0430\u0434 \u041d\u043e\u0432\u0430\u043a</a>"
+          ],
+          "photo_reference": "CmRaAAAA2_WBSSIy1ACB_w6XOTz2GwhXYOlrS_gFEP_j-fcODYnkVE_183EDJ4w1hnvfQiyQLumU2ThLbWqRkRjwBcjmQl6hxg-0iyrUdhutqlSfaMwpyMGelrl-2HCmbZM29KFzEhBysRky56Vg9zskiZw4SjgsGhSLyGASI60ID0BP06RbvmHnH8jfWw",
+          "width": 3968
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115752293895657543219\">ZeRo C</a>"
+          ],
+          "photo_reference": "CmRaAAAAIRW0Pzbn9ZJ_EALKOyNT9Ii8MFtzksKxXfzAoLCfwT7FBpSgM2L7Rl7FsurrZBj8pWzDDMaUzuf54YbJAOltP6G5l-bBpvOqPgygLPIq041e0iqdkarhyU31Qg2geGa1EhBlQ-gh3vvTRyNn8CegTqDEGhQQguQ_innbx3keWHLjJ2FSrnZ_xQ",
+          "width": 1920
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://erofey-arena.com/",
+      "popularity": 0.7676166723721075,
+      "num_google_reviews": 2621,
+      "mood_params": [
+        0.0,
+        0.032068414641285674,
+        0.033112382359635685,
+        0.035804921182006,
+        0.0,
+        0.13996675921829074,
+        0.10039978175243872,
+        0.0,
+        0.06739463010043166,
+        0.0,
+        0.1029187843730942,
+        0.0
+      ],
+      "top_cats": [
+        "movies",
+        "sport",
+        "fashion",
+        "family"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.16012413357210825,
+        0.26334109153337976,
+        -0.7217509869083656,
+        -1.2642781687550075,
+        -0.43213342899234225,
+        -0.24245585030601965,
+        0.4763281770439271,
+        0.34705241399596837,
+        -1.1862054292199318,
+        0.9314428758903412,
+        1.83169058697256,
+        0.5234609733564999,
+        0.9249782035526456,
+        -0.8692015705742155,
+        0.5156731766457897,
+        -0.06816860638016131,
+        0.25066036512834056,
+        -0.9794503114619166,
+        0.1210268329119501,
+        2.443636852414156,
+        -0.49825395659934746,
+        -0.14036124965380314,
+        -0.43020725399777116,
+        -0.20104834797171128,
+        -0.7934151832810495,
+        -0.23682023341351416,
+        1.9874528803456677,
+        -0.328708951958604,
+        0.19988628918211593,
+        -0.595000788063672
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -0.5530157472031231,
+        -0.5360335080513233,
+        -1.390803131126744,
+        -1.280332070018868,
+        -0.17315034727055892,
+        -0.2441759707212517,
+        -1.1800036547536363,
+        -0.7198457459348587,
+        -1.6991020548543,
+        0.2611171452217458,
+        -1.621359214904648
+      ]
+    },
+    {
+      "name": "Khabarovskiy Aeroport",
+      "orig_name": "Khabarovskiy Aeroport",
+      "place_id": "ChIJ30JqdWLB-l4RXRJviTjtYDA",
+      "cat_params": [
+        0.0684709992711134,
+        0.054287531799952646,
+        0.18152310621660922,
+        0.08203437461968652,
+        0.09740551017508657,
+        0.05303090121473121,
+        0.3321482602045712,
+        0.09597229629407578,
+        0.37689786156204197,
+        0.21669173003244926,
+        0.07624022735535009,
+        0.10546010241967836,
+        0.14796429745292194,
+        0.05907877265591616,
+        0.20453116665267754,
+        0.1162898939392148,
+        0.25940694502515627,
+        0.207371919314481,
+        0.0752714768863636,
+        0.10745522658807947,
+        0.3210521817916236,
+        0.12165395757907906,
+        0.17726276536445093,
+        0.10156878278434772,
+        0.011572678783136064,
+        0.2145253928929441,
+        0.18180906615434167,
+        0.2310874263853581,
+        0.1636413588008392,
+        0.1693670612384677
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (421) 226-20-06",
+      "int_phone": "+7 421 226-20-06",
+      "hours": "",
+      "coordinates": {
+        "lat": 48.52572010000001,
+        "lng": 135.1709372
+      },
+      "address": "Matveyevskoye Shosse, 28, Khabarovsk, Khabarovsk Krai, Russia, 680031",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112734353562293008547\">\u0411\u043e\u0440\u043e\u0434\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAwApw029ESxjOIvmYJoDv4nxsBvMJ-qW_1G7453q0BvFvEfga77hqeN9L5uzcJ5ZlQwgYx8gdpTTLB0NCnn0Mi63PZMgLvzDCL98i_ZfEjARSET1cm2KzeyINQoVx1j3ZEhB5s6dA6KP9azWHQ332TAreGhT4gDb9FG7Wk9hl2QfS5tTQ-P-TGA",
+          "width": 4032
+        },
+        {
+          "height": 2999,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109625255660097521614\">Sergey Zhuravlev</a>"
+          ],
+          "photo_reference": "CmRaAAAAn-0OgOho1raZnbryZlH4PaKnSCOa2FhNpUp-2GlUemtz1emW7rCvRO7kWRS3IcBYetHiJHV0U_aLcb_hSU5HaYS7zezcNC6RjfYOQyfSQUC9EAjvaaxz-um_Je_qcwQSEhCleZ3cHGK21Pym41iBYME2GhSshuNtaGoshnxqJ9ipvTAk7g42tg",
+          "width": 5335
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114279434118079033786\">\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041a\u043e\u043b\u043e\u043a\u043e\u043b\u044c\u0446\u0435\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAo1bcZ8MVtnw_df0KZX0WP2yun03hWM9BhstH5RfZ1U8qN5t34X0kZnec5o9PuRedsqwDQV01-E6Jdx0aL5Q_3478800c4egcCBSSPFoqo2Ez_VkEtKKFI1I-_8dhjzetEhA-7YJFsIrvCO0iTseuCLPpGhSkIBRgAe5w4Van9Lsw5RXH0B52gw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110514625100432053166\">Faye Zhou</a>"
+          ],
+          "photo_reference": "CmRaAAAAcVkcp432eg1iMo_FdiPWLEV_Dd9UNc_N67hpGoHjSHFCUfiZOmHK72gsRFgak2AIKHu6Wn1rYo482lZYlKGsLrtzkJg9knyw2oO_FfNQooeZe2a0JIngtt-1HuqkiWHQEhDEWJG0HvBvkoHSNJ5lmqjAGhQxmPpt15s74TaseeUW0noxYEUpIA",
+          "width": 4032
+        },
+        {
+          "height": 2475,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103598935414661001919\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041a\u0443\u0434\u0440\u0438\u043d</a>"
+          ],
+          "photo_reference": "CmRaAAAAaF7uSdyPfm98KEeE5c4crtO8vUfvV6KbcJeE7fqnspYGi6_oJpsUs2H9ZZPxTH5DK4Sokj4W-kNN1f1ZsoPanVIhQ13VHUMZRw8F-hDMRzaUUqVvNkwYG9lj0mYnWr7WEhAKPEgZq9NQ05CrN4VTU3vQGhS5sJ0d2ez48VkLUQh9a1PKX3bZJA",
+          "width": 3507
+        },
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100050499591245254411\">\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041a\u0440\u0430\u0432\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAA2zaGRDbWh-Fkf14xp8dZkT2Xr6lVU3ryyqzZ1_YksPF2xTtGdW9AXUuiLNSQBARe1He1Ols5rm2xkZZTNnK0XNcV5OoLFw1_SOOQs9P-79wd31Ey34p6PjxJDdIEXTaZEhBiuC66HTmALbiJKGxJG9lbGhSVQGjIdbDmk3fvih2kQWBa2by1OA",
+          "width": 3200
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117951030792955527554\">Zohid Mamadjanov</a>"
+          ],
+          "photo_reference": "CmRaAAAAJhnKKFiFVPtPeTPyB9sZwLa-NkuEU2dcgwMZkYzxO8qFki1k0hS5XbnhbQT-aZ1Fd4GoxfKqxilgNFxh3OtFNpntkpMt4eqiATiiGlnyAMemwvh-2GrebqmsxbgkvPPcEhDRZzZ7uEHSLiv3LIPdDvAkGhT5MF-ql1HAXLoL9i8gr5LGUPv-5A",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118320848547154457809\">Vittorio Vitalius</a>"
+          ],
+          "photo_reference": "CmRaAAAAU_hFGAuk_CASOdXeq0gWL1mb0TWfAvQxcjlxCcA8DgBcReAwV4QvonvUVDEfPwvVBB_JOkl3kEackr_zs0ZBhqotd_5I94O8ZouG5yPxgKiPO9Un24j4th_Gg6d7HwvVEhAAAl-PIKR1DnvYqdcQ-KZGGhQq-hIrnfyR8mbEeqSQuVol4AoJ9Q",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112723131824029480519\">Sergio Of Oz</a>"
+          ],
+          "photo_reference": "CmRaAAAAhTgpz2I3TU7ZEsTWta83nUamTh4OP4AoPsneny8q0E_FiQpDl0x2atOgRY1XKzEpeTXwf5rz1PMliDKt3x7m966o96qgT1a9ECKEkDCIEZ0LrE4gNd93pvV0fnxIVMdgEhCm25WQT4jiU7n1tpVLCTmRGhQ2eoioyDNCaPyQG2gE-pb2FmyhKA",
+          "width": 3024
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110426406232621853353\">Ledi Star</a>"
+          ],
+          "photo_reference": "CmRaAAAA2f5-tjbKRwQgD2itVo9a9NTtsS9bQYvQ10GyznmRerm-fcZkxx0NwKb0g8BxXDhU5d5B6A8F8NzAtReqDPxUzYVsJCY1lWaIQ-mRJSQtNJc-a6H9Q0Ksyx_kEXcT-Hu-EhCUFSNXC0KkIfwFwc5SEigIGhSFl4pY-PxqdF4RChMfZOirkFMr6A",
+          "width": 5312
+        }
+      ],
+      "rating": 3.6,
+      "website": "http://airkhv.ru/",
+      "popularity": 0.5606764960151133,
+      "num_google_reviews": 746,
+      "mood_params": [
+        0.003472306744865186,
+        0.009056865093592097,
+        0.027513024879306583,
+        0.04250233335589503,
+        0.018644553814482823,
+        0.04575301985407016,
+        0.049574865306450215,
+        0.00789177114215105,
+        0.0366256348693998,
+        0.049329382682799905,
+        0.06073474593108788,
+        0.0216311994166764
+      ],
+      "top_cats": [
+        "engineering",
+        "fashion",
+        "food",
+        "architecture"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -1.125331735264124,
+        -0.6930963756098848,
+        -0.42357132749370513,
+        -1.0664911692104224,
+        -1.2796520279917,
+        -1.228648555017152,
+        -0.7038590009674808,
+        -1.2790242637986695,
+        2.519967257483148,
+        -1.1128552014652502,
+        -0.2079338594096453,
+        -0.33655764928910664,
+        -1.1406769616462011,
+        -1.0776108002703286,
+        -0.9308675504158738,
+        -0.6334826074262055,
+        -1.1380471245620138,
+        -0.905272282681905,
+        -1.1554927375245334,
+        -0.5618554771797087,
+        -1.0559918892815527,
+        -1.3053624256226146,
+        -0.8995029330997196,
+        -0.6216980564191424,
+        -0.46021091903081607,
+        -1.0385901023458848,
+        -1.0154776399983332,
+        -1.2300656947407242,
+        -0.818323276666885,
+        -1.1026826845261222
+      ],
+      "global_mood_params": [
+        -0.5048145533216499,
+        -1.242419130183589,
+        -0.6368478530189884,
+        -1.2875527695362212,
+        -0.8711354761076139,
+        -1.3578897212821683,
+        -1.2060173327238057,
+        -0.8653135162237531,
+        -1.12687908442199,
+        0.2179944498369918,
+        -0.7150300608398661,
+        -0.29898184467074407
+      ]
+    },
+    {
+      "name": "Tayny Remesla",
+      "orig_name": "Tayny Remesla",
+      "place_id": "ChIJ7b1-8Sbq-l4RvKUsiK--Nl0",
+      "cat_params": [
+        0.08178531230752134,
+        0.031722906228509366,
+        0.10955428974285675,
+        0.5571355648140343,
+        0.130060135897465,
+        0.15615894251877283,
+        0.1718887918391932,
+        0.17017594765611216,
+        0.07287370443075228,
+        0.13643164683313305,
+        0.19393735407253562,
+        0.1518516710855921,
+        0.115342489819343,
+        0.10137005011940689,
+        0.1728790612229305,
+        0.11621193538032965,
+        0.4458203941959246,
+        0.07868304299037784,
+        0.11967115543793917,
+        0.05615363455416493,
+        0.30173259204662223,
+        0.1622073145214837,
+        0.25584266311071724,
+        0.06819592039944987,
+        0.01140327557773149,
+        0.7343170924517455,
+        0.08516481685931131,
+        0.2592287651667123,
+        0.1509037711835298,
+        0.19383632982954868
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (421) 232-73-85",
+      "int_phone": "+7 421 232-73-85",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.4759089,
+        "lng": 135.0625879
+      },
+      "address": "Ulitsa Murav'yeva-Amurskogo, 17, Khabarovsk, Khabarovsk Krai, Russia, 680000",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116677235813078531750\">Sergei Gaisenok</a>"
+          ],
+          "photo_reference": "CmRaAAAAmiNEDk7hQ_vu0hArhIgzbVPsbJL_LbDwp6v78sBz8JhFVxZAt2YCA6l6G89VzJ-GnbKL4pBUg0OFPnLgJ_fh3KMUsEy9FwjFQG69jkp-WIgG_JJigQJ2mVidIsjLM0BcEhDiZeFCO02COOpjqArF6jwlGhTIaBSoYTvMnIwfmsLR0_vnEWsM2Q",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116677235813078531750\">Sergei Gaisenok</a>"
+          ],
+          "photo_reference": "CmRaAAAANCeEZlFRNt4a-GR1PY3zqnZOfW1FaQp1roFh20RbDtpPUKpYXnCeFRO_DD5bUE0KSBBS8Mk0qFQ040iqsYkHD2R5T8Dmzd8Q_S6J0dpxGxGVCKuWv0b_yj9Ef5x61_YGEhBOCHKC_4PVvY6GzqNuLG4FGhRp50n52-0KOaTY0tI4kB4qpPVMUg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100732594686310591590\">\u041e\u043b\u044c\u0433\u0430 \u0410</a>"
+          ],
+          "photo_reference": "CmRaAAAA-d1JsYkJJd0fiRUfc3XloVRchMVANHMuEPpRWKelZR65E0_F2ry98NlFcEA7lIWdYVdYKIlOYaEhaJom5cXzAY9XmFYtOFTgUOU3XCnbCDOmuwO9YgFgmK1CkhNoxzPtEhAyKqVrT8HcG07aV6ZVtl2bGhTvtfldg-o4t7-bIpRkj0onRC9tBQ",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116677235813078531750\">Sergei Gaisenok</a>"
+          ],
+          "photo_reference": "CmRaAAAAC5wX9uL9VwDBB4qORA9WV5ot3CHRmUa91GVT14VW7wvwb6HMVfts227z-o-2QPK1QKyuScDk6CY4v8vBL0ttsGG2jbAtjOs2zS5N4KInmuK3kXxa0n7UhX-Zu3s11quJEhDGGDnU1ZUPF_eKBJI7zzurGhQupCQhdfZcZRM0ifb_QWDX1Jr2uA",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116677235813078531750\">Sergei Gaisenok</a>"
+          ],
+          "photo_reference": "CmRaAAAAF0Jbwu0ay8cNUu7x5MYZhFzjSKD4_NhsKxUdTBQ4IyvX3jzvJxhn0J8fzgRcHSS0WQEWH3vDEJTya_gobTZRQLolYfJ87v5qD8NftPSq6YcrZSevvhKyllWSRRlTP79HEhDIK2WI3fIFm8SgWdjTSF4cGhSTxVY5fIYR7zJ8I4jkcWm9WMxGCA",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116677235813078531750\">Sergei Gaisenok</a>"
+          ],
+          "photo_reference": "CmRaAAAA4qQ7VEZf8ekVexpmJU2hBekGCXaXYrJUqo6TLscyOjQHQpLMxH18aA7UHPySGOTRuBo04S2vQgGeaRpQH9VowL_x2Mk0U2Rjvmnh9umf6drees5aiOZStALUHVhmKkKmEhCVkxeFW1fndyrSyaTCiHUxGhSbIl3rpZ8AkRjEskdNbE-1fIIvMQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100732594686310591590\">\u041e\u043b\u044c\u0433\u0430 \u0410</a>"
+          ],
+          "photo_reference": "CmRaAAAAV1TFrz3aBMl-S8vY7rv1PDLF6VX2LxEXIe089JELrQ76aYE2kHPBYRDMvdQNSwUE9XLeWjnog9qjG6c2DviEFrZ7Rmk43tgxu6eYYXPoZRaiKIBd9400MN21MS02GdyiEhDGZv-Pf7Poli_D8ozzMCplGhT5pYjWBWer1N5EWFnQyRRHCMwQRA",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116677235813078531750\">Sergei Gaisenok</a>"
+          ],
+          "photo_reference": "CmRaAAAA1MbQjz2oXuP56GM0-Et70MQzcQkGGb1x1sG5AZah9jxQjTSAaW3urm3n0I6m02UHqfd0X7ut2yqxpTCPqbA4j34oZ1JIzoMdqRfnhKi4ODdHhbk_Gc2Im2qIiHOFYemqEhC0wsxd3VJsLLAwrjs5A9IxGhTVWJ6WoofdUl1AY9nHSI9nk0176A",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116677235813078531750\">Sergei Gaisenok</a>"
+          ],
+          "photo_reference": "CmRaAAAA35jiyE3cuhGdY94apjDWiw8qQiIMjI-PlsabOh8SdbBIzIAVrQDQnFImG9o-XRCJOsh3cqPR_MlKiuWpo0JepOWT0JzbVZcJRCdV7HeDQfgECf4QxDzp0rmlQiVrE8-1EhB1Eb9MT7HmT3XWozL0pme7GhSYRazDZUaLMlgfHq_afej9b9JTmQ",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116677235813078531750\">Sergei Gaisenok</a>"
+          ],
+          "photo_reference": "CmRaAAAAehTX4p7-LO8NZymhZCjpkvpFSS-zdmbrJf1SsPr_GMTwieeTZ0-LGZHjCsQSA3SfKythJ_gQRqoD-4GbSfBdzci4SOr4PYfppettl4_ASRuoT5yDJYCgrDI7heSSs8bwEhDngwSuX4Ku_QLyVVBGw4B7GhRYa_6DPyqYrI9feFvO-VCu5r7gbg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://fkhv.ru/projects/roots-crafts.html",
+      "popularity": 0.2763063162204069,
+      "num_google_reviews": 44,
+      "mood_params": [
+        0.0,
+        0.08504204121868399,
+        0.07281254275918533,
+        0.20310500023622108,
+        0.09245988972311052,
+        0.18592702797506824,
+        0.0816841023912736,
+        0.09968356896948916,
+        0.10685203836813537,
+        0.053998867451372876,
+        0.09388627154569111,
+        0.015598149798849473
+      ],
+      "top_cats": [
+        "shopping",
+        "art",
+        "fashion",
+        "books"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.9637834562385557,
+        -0.9628952103667051,
+        -1.1305489968499234,
+        2.3286868659036775,
+        -1.0782270249638095,
+        0.14714852064351353,
+        -2.4093137879969797,
+        -0.45493267305739477,
+        -1.979294552565705,
+        -1.9662316875511314,
+        2.21268221326605,
+        0.10403182048096453,
+        -1.493194438069843,
+        -0.7668533026600496,
+        -1.2750528850526548,
+        -0.6343956492746446,
+        -0.12655989191415185,
+        -2.2513091743263955,
+        -0.5887494431456058,
+        -1.5840846040817846,
+        -1.1502136870685604,
+        -0.9091859097304025,
+        -0.013528166607856757,
+        -0.9330145712376872,
+        -0.46508843023424773,
+        2.8169276553152547,
+        -1.921025946200826,
+        -1.0472486258957299,
+        -0.895212817610477,
+        -0.9344287285548478
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        1.0340219833725954,
+        0.17875308663428674,
+        1.1883712138262879,
+        0.7489077994124879,
+        0.4048008136085162,
+        -0.5983627709430741,
+        2.7949514678820386,
+        -0.19787613026617779,
+        0.399465460453587,
+        0.05210296626145746,
+        -0.6677995017241055
+      ]
+    },
+    {
+      "name": "Gigant",
+      "orig_name": "Gigant",
+      "place_id": "ChIJsb3--Cbq-l4RKAfhep609gw",
+      "cat_params": [
+        0.16867957603787032,
+        0.07034243563887706,
+        0.15815396454806332,
+        0.07108682664401501,
+        0.08859546846842159,
+        0.05261778878446596,
+        0.2752606647113027,
+        0.08358368822367106,
+        0.10058417315054874,
+        0.20896207272408834,
+        0.093567464017238,
+        0.1691935027996969,
+        0.15402207439142812,
+        0.04530376806490154,
+        0.187941360158098,
+        0.13384474659764325,
+        0.2823814097602537,
+        0.21633616709088244,
+        0.20539969506236389,
+        0.3807146766144866,
+        0.2613362137316799,
+        0.14307897528153665,
+        0.1974318511128707,
+        0.08157233704353295,
+        0.005634975708621761,
+        0.19654959655827203,
+        0.27399690954231676,
+        0.21479198554381473,
+        0.16958879633118681,
+        0.12561208418734998
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (421) 290-50-50",
+      "int_phone": "+7 421 290-50-50",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.47695539999999,
+        "lng": 135.0638885
+      },
+      "address": "Ulitsa Murav'yeva-Amurskogo, 19, Khabarovsk, Khabarovsk Krai, Russia, 680000",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108150321704275173482\">Andrey Hardin</a>"
+          ],
+          "photo_reference": "CmRaAAAA1tXHuYXcNOFCnID2qEPI3cQL1hrHAU9GA0fQRTDP1WcF0y-j5I1aF4b1LlzgkUBWt1RC3l4P0k6uxIlZ-Vj-90zSRF5o79W6XDDlGrDDuFS5SeK1-n8Jc8jExq0rJ2BLEhCQDAogJUAsuLNe-2DAQAcfGhSdokjXvkuZjj6RGJf_9MVMtXWQHg",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117506213608551226550\">\u041f\u0430\u0432\u0435\u043b</a>"
+          ],
+          "photo_reference": "CmRaAAAAiELz0Jf0JDxjU9RpdqsQORibfpem2xtdjGkFhxe-0DE7eSXmZ_0eXaifL186FpVZQBUT2sIur62oB0Vpip_QsF6A0LGcZb0aqT9jxAZ6pbprW68_F6sdHLslFdXDqhHJEhA2zEIOgYy5Pkg6gEbhuRztGhRx4_mimSSFKV57iJJn6KPPU4Ypiw",
+          "width": 4160
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100895392245399466355\">\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0413\u0430\u043b\u043a\u0438\u043d</a>"
+          ],
+          "photo_reference": "CmRaAAAA_D9_0Hwyy-dxUDOL4hVTIQsQ3RQGAN_CW0v0GZz5fYa4fPQ_RBlsb00ZXFmA_ZwMICHD6JYAeK0eOd6Gw8ThdLxCTZBWxe-MKHZ8R_kzMxleethuHbMbmfepXMail5s6EhAHgWdIvi2evrr768tw9x1SGhTMa4qO6Sk_Es6XFM2WwZmliKAjfw",
+          "width": 1920
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109648721342897917857\">\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u0425\u043e\u0434\u0436\u0435\u0440</a>"
+          ],
+          "photo_reference": "CmRaAAAAC0tqgHxUn65tfF_qt13p3DkrcchEdgRTdmiGc7v5ly2-ha4i-4SMUzRLUvt_Vw31Le3_GKXygihFspVAs1bXYctLuiKPPYOnTSrSdvFGviGFWQg_l4H3_269lxRG-zBvEhCaduADbbrWoSFGTIzHiZwKGhRLrryjM-oFOmJ5DqQI0-ZkUrNdWQ",
+          "width": 4128
+        },
+        {
+          "height": 3783,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117141443045488107778\">\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f \u0417\u0438\u043c\u0438\u043d\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAsWcy_1r436AdEipb3SXTjKXZ6BgVIXJYLSwg3i63c5nheeOzK13qxlGvEZcMpV3u0F533yWiw2J7-lJBdEmZ54it63X7abyM_SVyy0eXyD6xlbIgeJIk_umZgJdtVb3mEhDHFYNUYfaBBjVqqYvsHRhXGhTWheFmi89kb6ZEhYlq7a1yGOoicw",
+          "width": 5674
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114527025843626468708\">\u041c\u0438\u0445\u0430\u0438\u043b \u0422\u043e\u043a\u0430\u0440\u0441\u043a\u0438\u0439</a>"
+          ],
+          "photo_reference": "CmRaAAAAvSaJQCNXPc9zk7SP5JVVTYUI34U7A-xoXlOLJWQNZTGP3gM2lEgWJ0UGjP2GZ02sxGHgyOQd9Lh_CN1R9F_LZT6DnMJq1uZl-q4CMrYo7tgmVMfAxmdcUtvVs4mvu58tEhA1P7yoLX3bSVLvj34gaqRcGhQ8N2on1HbzNAHWQRThoJsTrffWPw",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100292728371558154060\">\u0410\u043d\u0434\u0440\u0435\u0439 \u0420\u043e\u043c\u0430\u043d\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAA6ILWvds2GMbHla009Y1IUMAxGHzT70Mv4KaZa0iMWwncwUcZa_7se3OtzPCKOkeGO__wOjrTqsrHOMEARo-MWHv2ePg2hLOYnUyubUr3iwtA89jUyC6vl6doEFAGHNq4EhCmMgJRjDmn9I1iI1OJq_YLGhQgycy1Zx5wrHH5oq4jG3Eh6ZhQQw",
+          "width": 1920
+        },
+        {
+          "height": 3006,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111971948971461995457\">Maria Bluvshteyn</a>"
+          ],
+          "photo_reference": "CmRaAAAA2gsfErh9IOrzT0SfbD8ydtF5eaWX0iHxkG9ebckN5FephKrvpZetJYWLTaC5Y_G3pXtXw2MFaVzA0nSzqtYW7c4aDiNcmFQpHcuEkyVYIW8-JnEkIkbvzTVzNV4aMrkVEhBlyxJvroK4lteqLrBAZCrIGhTs2j6F2H6HxRv1Cln6ATGVJ03DJA",
+          "width": 5344
+        },
+        {
+          "height": 1835,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100548291111219554994\">\u0422\u0430\u0440\u0430\u0441</a>"
+          ],
+          "photo_reference": "CmRaAAAAoTxhmL_GGYI4uPEqlZJexfc_UZqI5hxouxMOWWZxntn3SyoH6YfM_7z6wd8HOhE7dBRAt1Wyd2c19dKWPQ8hLHgNRsCKoGMtxRVLrM9qLVMa8yIuPxBP-nNAOlaLi1QdEhBamE8B4quAjNl9hi6GHr5EGhT3Z7sZNSAUmXCY6iaMsAVJ21UL4w",
+          "width": 2451
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109092036602073016405\">Sasha Krichfalushi</a>"
+          ],
+          "photo_reference": "CmRaAAAAvWqo3qNWclt1cpCEFoDHpzYHesSf8mTNY_EJKzo9GlQsxvrpgRmKTILDWX65k1U2y63B8zUpt3n801koOUuPIGkZV4sQr7sm4mlTC6B3yiYYFx3UTPdnAtQ6fukbgScuEhAEZMZ0EMLBEwocP0aK9gI1GhQyvUWOPUjOWYAWD_KgL1BMQTrx7A",
+          "width": 4160
+        }
+      ],
+      "rating": 4.2,
+      "website": "http://www.kinogigant.com/",
+      "popularity": 0.8434192021466966,
+      "num_google_reviews": 3820,
+      "mood_params": [
+        0.0018426300367358974,
+        0.017109196041568353,
+        0.04611139862032002,
+        0.03970224158837389,
+        0.009221239968434406,
+        0.057390705443282286,
+        0.06699297504876556,
+        0.007992883475372888,
+        0.02520903757350763,
+        0.10686769014095161,
+        0.10651037187891305,
+        0.017949819656873242
+      ],
+      "top_cats": [
+        "movies",
+        "music",
+        "food",
+        "fashion"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        0.09054196967308716,
+        -0.5011324392192686,
+        -0.653135493214137,
+        -1.144724764900118,
+        -1.3339954062477468,
+        -1.2341597512571965,
+        -1.3092473942160898,
+        -1.4166097807430993,
+        -1.5692065686832493,
+        -1.1950418567678114,
+        0.1484264760436178,
+        0.26873046421044866,
+        -1.0752154684301904,
+        -1.1788299218721587,
+        -1.1112652845435378,
+        -0.4278821531651216,
+        -1.013386710520849,
+        -0.8115096471104385,
+        0.5055394470904422,
+        4.883078255745639,
+        -1.347227155737208,
+        -1.0960557367005677,
+        -0.6720999770153231,
+        -0.8082335631728476,
+        -0.6311711626662785,
+        -1.1719242860876702,
+        -0.15168547397305207,
+        -1.335927208769397,
+        -0.7824219933754013,
+        -1.4035477453218625
+      ],
+      "global_mood_params": [
+        -0.6144622472539739,
+        -1.0011792178123018,
+        -0.30199106404792747,
+        -1.3307202616924227,
+        -1.077951255531871,
+        -1.2115456271728626,
+        -0.8763865222951769,
+        -0.86128158808297,
+        -1.277905651153149,
+        2.45411584675723,
+        0.34422720861576445,
+        -0.524035166579826
+      ]
+    },
+    {
+      "name": "1000 small things for mothers and children",
+      "orig_name": "1000 small things for mothers and children",
+      "place_id": "ChIJKRhUXQPq-l4RKcZ2IRYQ2Fo",
+      "cat_params": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5514341412882567,
+        0.0,
+        0.5115504407009003,
+        0.0,
+        0.0,
+        0.5466622501460177,
+        0.5186531576726676,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9431471805599453,
+        0.0,
+        0.5671145693978994,
+        0.0,
+        0.5290621596846617
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (421) 233-33-35",
+      "int_phone": "+7 421 233-33-35",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.4880779,
+        "lng": 135.0845746
+      },
+      "address": "\u041d\u041a \u0421\u0438\u0442\u0438, Karl Marx St, 76, 4 \u044d\u0442\u0430\u0436, Khabarovsk, Khabarovsk Krai, Russia, 680000",
+      "photos": "",
+      "rating": 0,
+      "website": "http://nk.ru",
+      "popularity": 0.06379037378009328,
+      "num_google_reviews": 0.125,
+      "mood_params": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "top_cats": [
+        "fashion",
+        "books",
+        "shopping",
+        "food"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -1.9561197800668886,
+        -1.3421970121383826,
+        -2.206743385271305,
+        -1.6527269282055697,
+        -1.880482836733887,
+        5.420384157350325,
+        -4.2385259142378775,
+        3.3363072975905306,
+        -3.05775449599869,
+        -3.4168601285438385,
+        9.46699314236765,
+        3.5876146596406095,
+        -2.739607386495214,
+        -1.5117232852452318,
+        -3.1549416548779248,
+        -1.9954567284904738,
+        -2.5456001424387757,
+        -3.0743039943694486,
+        -2.116301603151584,
+        -2.7029949253196697,
+        -2.621766015498425,
+        -2.493832251354399,
+        -2.8981099770867864,
+        -1.5691756538185757,
+        -0.7934151832810495,
+        4.365909899007321,
+        -2.719012957508291,
+        0.952897163394994,
+        -1.8061326904748625,
+        1.3706288095129204
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.5137538971787086,
+        -1.1322096139050504,
+        -1.9427881311204935,
+        -1.280332070018868,
+        -1.9332347236867466,
+        -2.144201973285331,
+        -1.1800036547536363,
+        -1.6113880624749126,
+        -1.6991020548543,
+        -2.1204444009817767,
+        -1.621359214904648
+      ]
+    },
+    {
+      "name": "Khabarovsk-1",
+      "orig_name": "Khabarovsk-1",
+      "place_id": "ChIJI_y63yxQ6F4RkfzExmBH2cM",
+      "cat_params": [
+        0.08037197764481972,
+        0.03127909752399589,
+        0.13730157756453,
+        0.09942543533269509,
+        0.14119789173407726,
+        0.08406855561560678,
+        0.23512871485076944,
+        0.09625855053958363,
+        0.2545476365257009,
+        0.128963996520015,
+        0.036131750741513466,
+        0.06004176265032795,
+        0.09439803362525069,
+        0.07693472897423223,
+        0.15615740420968177,
+        0.05706208042961983,
+        0.1461892316575385,
+        0.20148494862317362,
+        0.05338443641730116,
+        0.056674616933240475,
+        0.2218752991780596,
+        0.11796587178234445,
+        0.07377086865418762,
+        0.09077104071829824,
+        0.021768868827941414,
+        0.15261348703445035,
+        0.17468395575430468,
+        0.1512776814713434,
+        0.09989791069817776,
+        0.1906990601454886
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (800) 775-00-00",
+      "int_phone": "+7 800 775-00-00",
+      "hours": "",
+      "coordinates": {
+        "lat": 48.49658119999999,
+        "lng": 135.0727633
+      },
+      "address": "Leningradskaya St, 58, Khabarovsk, Khabarovsk Krai, Russia, 680000",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113705376980775060737\">\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430 \u041a\u0443\u0437\u0438\u043d\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAJ2NtaPaHTCO7L7c98apFKh24bRH1xpTnw7sF-N3239ATslmvJ3hwMIYRpJTjzCz3HloBcr0eIPh1OGHGMH-5nkWL_DEmM_mPussjXLHRBfp4MmWnKsh4LMdD9ezkuPEoEhD2OqBgD8FiRT7BYkLHD023GhSL3zis0IIj8L0HrIMcHonXMTiRAQ",
+          "width": 4608
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111708488863434611968\">Joseph Nombreuse</a>"
+          ],
+          "photo_reference": "CmRaAAAANNBtL5dKIiv9gQyp9qqyy4UwRqrIfo7GobUybIuNz5oDBtpOGPvRPJhWNZxUW7wsg_oQF0Y--j8P59YI0NbY9wrW7CaTakxbsY-tUz5xmGaIHt2hGWokywyiTwLL2dBUEhDZmoTUPjiZZ3j5r0zdKbaKGhS2iY4wGRhZLcmhljWuCgqJNaL0jA",
+          "width": 4000
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107413747991531724411\">\u044e\u0440\u0438\u0439 \u0435\u0432\u0441\u0435\u0435\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAIjBrVMCJZ8J4Q9gbymjP5NW7XlBw09fauGj5HCzi1bhURlzXfzPwoJ-vJL8xLtYGO9h8dgMRB2xiVB-6oQM5z3xVQadWK5ivtGmobsSwLSrfamvb1EKnyn_pg1keIOOOEhBm3MUto78GuKoWT1BfRgrGGhTSs0FiY_YiJjZoVfLuUCjgBHpIIw",
+          "width": 2448
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116677235813078531750\">Sergei Gaisenok</a>"
+          ],
+          "photo_reference": "CmRaAAAAGfnKbtp1GL0AlqtktUoCBiFj6si_K2oLK41EybQF57Q0Yz2cuISU36AQNJ1siJNVUaW3i40-7MMYQ6SvaUxoQa-duKBpieYPU-Z5H50nBu1rsbFUnmB4IAk6HodB5YxQEhBTtHdqwTyYuiCESZqXC1PeGhT_dTheDqERBV5y-y1Ivhh9cuyXYw",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108722763156520580391\">cdt30870 MIZUKAZE</a>"
+          ],
+          "photo_reference": "CmRaAAAA9jcXxBeCRTikLb5aVBZqCF8o9NPI3x_BcTbxXh7RquCfAQ8SL1uodkUc_KxMoTm1Lnd5OSH3uQVB-x_lFOYRuL6RA55rSvh3qDblPivOP1Jo_tBh5wST_UDYxyPhowZrEhB3IgcFX49D21RNU3xOLVj7GhSfLV-YRuAFiTF8q5ommPg-q-L2Bw",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110490584064623213169\">\ub4f1\uc6d0\uc751\uc57c</a>"
+          ],
+          "photo_reference": "CmRaAAAA0FSxsBwP8GG1AEb6johvGrauV7VGfmcyNFgos7YSdJmOEuLCa8JTY5vN03g4dJSea4LIEgh-qBgMUUrLWENGaC6iHCM9AEX4glyCb1e-glx-2YB1tKgGeNIXGjLpo3Y8EhBXrj_FpWBwiW6XeoZJc2Z8GhQ0_WTbzGodxrdykSSQzLS1k1-LKA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101758574922431870748\">Maybe HHH</a>"
+          ],
+          "photo_reference": "CmRaAAAAHWy731McfTItOXcdvCIZ0KnMU-qMIA7LMfBZw82VzGX487j5uNXb4QePMELnMNG-ZoSM1viEqesyd64aA0kOFS6GVFlWDRAemAgwdwuqR0RE8oidht-bCEhZhrdEeVhUEhDgFZJAn9CubdZSBcKTzJlKGhRTS592Ky5NjIRqdDjJD8YTuUtoXw",
+          "width": 4032
+        },
+        {
+          "height": 1824,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108722763156520580391\">cdt30870 MIZUKAZE</a>"
+          ],
+          "photo_reference": "CmRaAAAAhzHNry3JijRpqc8ekqwuzs7eJOlSLeM_VZGh8BcOMn0wNLyPpenPkhfm-HNerdq8dmyRCPYerEm569fk4kOhjeEZt8oHuNQ6slz-yMIzKM9U-ynFPs_4YpTaD_MofrX5EhA9PRdYNHDrD_hB7iSyRRSfGhQDEXgbN9nnfCgc8L-4bJOuCySx-g",
+          "width": 2736
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115349685529069824592\">bd db</a>"
+          ],
+          "photo_reference": "CmRaAAAA57M98edE75kEQG07fNIZNsg4vsz52pSawjpLrYgV5YIt3X9xRENsyBH7C1GgIfk_B32zl5mDpD2JdDWAuSjtBsBArvt4dSLuAIG-qiHn5gBlTFkNcwGBczuAJVe4q2e0EhAf1wqDwljE3LxN0YT77vufGhRnGzn71oLKuqr4fyEqNd-slOqknA",
+          "width": 3264
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105359048683990450336\">\u0421\u0435\u0440\u0433\u0435\u0439 \u0429\u0435\u043b\u043a\u0443\u043d\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAA57tl2xCU9XjHKg0sh32JMHDfptFDEhiX2NFsXTu39ttKCbJ6P3jcr5RFaljBNQfK_l5rD5suhjEYkruGDM_uIuTUqkcC4lif7tvm4fap4iuf-7aOlg24xJc1JYwd7h5wEhAqc9FIMqsscjfNfFJ_NTY9GhSlRQ5t5eKvA4xOZKs8VTmpXTWmpA",
+          "width": 1728
+        }
+      ],
+      "rating": 4,
+      "website": "http://habarovsk-1.dzvr.ru/",
+      "popularity": 0.42828816423460964,
+      "num_google_reviews": 254,
+      "mood_params": [
+        0.0005302665255793665,
+        0.002308087339178656,
+        0.020030374418461557,
+        0.03155915269638302,
+        0.015398849673560712,
+        0.024779788546271827,
+        0.019877850204939398,
+        0.0006350457099119671,
+        0.030007756778380128,
+        0.026894947572367548,
+        0.033315169265246934,
+        0.008553596428770332
+      ],
+      "top_cats": [
+        "engineering",
+        "science",
+        "religion",
+        "food"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.9809320527769038,
+        -0.9682017053029297,
+        -0.8579765990215239,
+        -0.9422108083972052,
+        -1.0095255024846803,
+        -0.8145854775055895,
+        -1.7363249747209095,
+        -1.275845178777825,
+        0.7093029334663862,
+        -2.0456325170730865,
+        -1.0328242016801163,
+        -0.7679041808306886,
+        -1.719524227195539,
+        -0.9464047304676703,
+        -1.4568843631374442,
+        -1.3271520787342956,
+        -1.752371209494445,
+        -0.9668477657918267,
+        -1.4348716390008636,
+        -1.5737035741491914,
+        -1.5396783599623698,
+        -1.3413923154129226,
+        -2.0663561824860386,
+        -0.7224240711416103,
+        -0.16663895823417674,
+        -1.4978172363125828,
+        -1.0822393118135132,
+        -1.7485408015510027,
+        -1.2031060636457127,
+        -0.9560010135345575
+      ],
+      "global_mood_params": [
+        -0.7027605164023512,
+        -1.4446058714646544,
+        -0.7715701863370874,
+        -1.456257835121117,
+        -0.9423697406828974,
+        -1.6216284614943852,
+        -1.7680215513239934,
+        -1.1546807432265118,
+        -1.2144249075098976,
+        -0.6538789610161665,
+        -1.349524626611455,
+        -1.0984532893645582
+      ]
+    },
+    {
+      "name": "FourRoom",
+      "orig_name": "FourRoom",
+      "place_id": "ChIJF45Cb_zB-l4RUgN7FtR8I9E",
+      "cat_params": [
+        0.19778079028908546,
+        0.050778220567084364,
+        0.11137579974035168,
+        0.06738581967147166,
+        0.07999388623629543,
+        0.052381050286370155,
+        0.1964471905443459,
+        0.06698421137981667,
+        0.07171576688464112,
+        0.2185397940734334,
+        0.07987742127740478,
+        0.2020853675622788,
+        0.1641503214525967,
+        0.03211036735233583,
+        0.12367075994645545,
+        0.21127516252250458,
+        0.3252430296799265,
+        0.14405663303894736,
+        0.19593707297160734,
+        0.4419685853196536,
+        0.2837445024884641,
+        0.09859220980612146,
+        0.19735492760319534,
+        0.05670704092638236,
+        0.005175416641053332,
+        0.21535589416607123,
+        0.1714254129852055,
+        0.2599937077317583,
+        0.19812412347444044,
+        0.09527774555934622
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "8 (421) 246-02-22",
+      "int_phone": "+7 421 246-02-22",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 48.49754,
+        "lng": 135.09797
+      },
+      "address": "Karl Marx St, 91, Khabarovsk, Khabarovsk Krai, Russia, 680009",
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110603736868463651242\">\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a 27</a>"
+          ],
+          "photo_reference": "CmRaAAAAc4CIH5SxUg3ccV7Wty-AvsG7zir6X6f-O6Hb0MCxLuPjIu06oL4PCijisVPV6j6KWW30P5j3V4qh39ra9PZBt2p_aZ5f3AA9oVoegbBvwDtYqNrmoKoWR1W_qqI-xqQ_EhAT25ArSN8Jln9RGjDHeH2JGhSWO690weyOpphIrErrFq1sbreLWw",
+          "width": 1000
+        },
+        {
+          "height": 2840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110603736868463651242\">\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a 27</a>"
+          ],
+          "photo_reference": "CmRaAAAAR-2xgyJ2XINwSipi0PCD-VQAzYVcCrWA0N4fPMRBEg2mAa8pYhG3U65Xc-xoiPngWGXz54ZKLQ2L_njIpI5KyOirOknkEJici-75efBAtgeCj1-tGI8G400yM8cIUlDdEhCZKPlOBvM8U_52kG1PQCj_GhSNH-5H-Y3-jXg4xDKf8ZeHmYRrEA",
+          "width": 4259
+        },
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111526903018459212096\">\u0422\u0438\u043c\u043e\u0444\u0435\u0439 \u041d\u0438\u043c\u0447\u0443\u043a</a>"
+          ],
+          "photo_reference": "CmRaAAAAcMTGBC2l38JD-jVmOkXS2dFMjoTv8DwwUQhh5WL8VCwwqPrVOpCXtK1rmihPzTUleK8rdTNWJxlsWjo0N9Nhe5AH-96ycqxsqlTXk4ABK85yMiW1-vYISHQQxwlOP0KVEhDTHT5VsjVhOURxgHOgVMTpGhQfSOA7YJM23PbpcwTGH4KhLtqFXw",
+          "width": 600
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108233399971342218149\">\u0410\u0438\u0410 \u0421\u0421</a>"
+          ],
+          "photo_reference": "CmRaAAAAcyK7yIxSvww0KH7RRIQYPKeqOkKeJbdP6kssWsumXfTGzOom48ji07JtJgPczLRt-LquQTLj5Oy2kStk1FPP2MvLV9tmr-7RShzoFwtlA_NAMSExvYgh3Gp6htP_vwC4EhBK4X93IxQHxdGa1SJ8X7qtGhSKVf2A8SO1c_r9GzhXgi12RxohTA",
+          "width": 3096
+        },
+        {
+          "height": 935,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117571351949650740088\">\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0411\u043b\u043e\u0445\u0438\u043d\u043e\u0432\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAZBgr9edTSKiX1c0UmNRACzO1MXmVkLgS8HZP3F6_yruKy0pDlT2bt8LJZqhwRVnggQhkgdXDOZLuij8G5z_YPg_hlEoxhHV5iWaCGBgJQx2XWyLEPmdDqPIb1wvcdQtREhAVMtX18ujFfKuUg_fWt2WCGhSBfuQedgC3_6Jet5NjPdxxm85wnw",
+          "width": 1080
+        },
+        {
+          "height": 2388,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110603736868463651242\">\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a 27</a>"
+          ],
+          "photo_reference": "CmRaAAAALNA4TPZVFtQaGQ66EWhlTtrN1zUufR7MfrIjt3Ha2IUsKytVzsjlO2LMjQrD9HFZ8y1i1T8BDw4_TC_oEmCploDn2XVyPHf2J8KR8tyW2KJPd5Rj1d8zhrzSkweJyF6nEhAsdwNC0rbGj4GEcSJOE8yDGhQRrQoEvzqu91Svkg2FysqFTQcRhg",
+          "width": 4288
+        },
+        {
+          "height": 2472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108192795718248504963\">\u0421\u0435\u0440\u0433\u0435\u0439 \u0428\u043a\u043e\u0442\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAKoKArXfv3QoQadiccodjoxI2DfEXE08ZfwFPpHe9x-AY1vEgMuJVpNKVGG6bUaFn8vCaLO5DRxq47ft3lSMLhNaZA5O71_1oYYCk842E_HasX9YoglfWiy1OdhKQWqjIEhDV5zVBg17FLrI8rxrP6-bCGhTvOd6oFV6JBi96KpaCVd2WQkFzsw",
+          "width": 3296
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102773153501247130434\">Greg Smith</a>"
+          ],
+          "photo_reference": "CmRaAAAAGdFl9YUKT7nUhR8quBEW-ZNMe7JCnZ0QUGKtcEqwRHLWii2BJMSfAAUrVzbGdkcgCqRZAkv2wjeEBrznMvwlowjg8J-TJQMiXGAKNRAOM7fCSopqFQg4rmPjt3DXTPToEhCx7c6UtkcQ2L_G0xYhQ_PhGhRBukwKI1SIR5bPY5h20FD6rwVcsA",
+          "width": 2976
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113515907518167052030\">\u0414\u0435\u043d\u0438\u0441 \u041c\u0430\u0437\u0443\u0440\u0441\u043a\u0438\u0439</a>"
+          ],
+          "photo_reference": "CmRaAAAAqnnieQhw_yySziUfHzQnSwft8u0d9C0v_aoHLoil4yoP-sPPfaB6WV-K0vlNkfHaU2n1wjjOXkJhhyAkVrufhYtMYi97BFfXzBcE0t-_LpulDZ5wfJ9y2WRL1LjzafbkEhD_jzTIZ9SI_Na1qob4UUumGhROvNHOdc57bhwBl5yubcr99jqJUQ",
+          "width": 1080
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102360046886566589522\">Roman Karmacov</a>"
+          ],
+          "photo_reference": "CmRaAAAAoZ-RN2mqFkoiOGEfjKRhqh4OrY8WSY2kQrkAB2YyuYp8sgX5ON7Y5W8wXoFJEpyk71liPBZx5s1beRJ_BYVxwjT0oG1TODldwY53qYn4_hYwkMA5dj5YKSNnnYIekDJhEhCFrFZ41eoTurAEKAYlr7BCGhTf-Fozc9Qd4Zx8umXnAobW57H16w",
+          "width": 2448
+        }
+      ],
+      "rating": 4.2,
+      "website": "https://kino-khv.ru/",
+      "popularity": 0.5396008649536246,
+      "num_google_reviews": 640,
+      "mood_params": [
+        0.003205779785530484,
+        0.018188903692483504,
+        0.08369622482173614,
+        0.036291527388753304,
+        0.003746942487007124,
+        0.05557514401981622,
+        0.05455663454673866,
+        0.005555853785600665,
+        0.044543887341651656,
+        0.11918070893719022,
+        0.16030315932035602,
+        0.011224029237960462
+      ],
+      "top_cats": [
+        "movies",
+        "food",
+        "hospitality",
+        "amusement"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        0.44363950215430464,
+        -0.7350562157334948,
+        -1.1126555958488429,
+        -1.1711729781235853,
+        -1.387052934509763,
+        -1.2373180012274083,
+        -2.1479673660932734,
+        -1.6009604026684718,
+        -1.9964309019558286,
+        -1.0932054037764014,
+        -0.13312956883151011,
+        0.581110702090672,
+        -0.9657676985609582,
+        -1.2757754017987464,
+        -1.8101444820190205,
+        0.47897414449413295,
+        -0.7808177541917437,
+        -1.5675261896727608,
+        0.3847530406990411,
+        6.103616003845705,
+        -1.2379417475136263,
+        -1.5306587653572348,
+        -0.6729672762925814,
+        -1.0401878150390411,
+        -0.6444029341392585,
+        -1.0324299185472212,
+        -1.1127715773830682,
+        -1.0422792618344459,
+        -0.6101705223246019,
+        -1.6121307054923282
+      ],
+      "global_mood_params": [
+        -0.5227469851445179,
+        -0.9688322389342366,
+        0.3747097266286127,
+        -1.3833013878422662,
+        -1.198097004566474,
+        -1.2343763429350445,
+        -1.111739328029916,
+        -0.9584599269959789,
+        -1.0221310185665888,
+        2.932638869197117,
+        1.5890032212163567,
+        -0.9352020591585837
+      ]
+    }
+  ]
+}

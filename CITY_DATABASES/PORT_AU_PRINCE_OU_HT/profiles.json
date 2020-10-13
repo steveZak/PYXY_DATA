@@ -1,0 +1,1595 @@
+{
+  "sights": [
+    {
+      "name": "Mus\u00e9e du Panth\u00e9on National",
+      "orig_name": "Mus\u00e9e du Panth\u00e9on National",
+      "place_id": "ChIJk7lA1VvduY4R0saMNuKpKUU",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "Museum dedicated to Haitian independence & culture, with artifacts, art & scenic outdoor fountains.",
+      "phone": "34 17 4435",
+      "int_phone": "+509 34 17 4435",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 18.5427528,
+        "lng": -72.3370194
+      },
+      "address": "Avenue de la R\u00e9publique, Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110974022495045315890\">Jeremy Thomas</a>"
+          ],
+          "photo_reference": "CmRaAAAAMMjgOfRW6v2JkTW7A-VuF6-KZ5BAoFw2mQv2k69s1QiCQGmPIcJxBz21ke59ejpknWD52uX6QP1Ma4KWRLqFse0OuzDSLWLtVoZduVWXtU-0_A8Q-W2muFnc6NlZXUlsEhBZIonWXKjyCbYi_rUd80miGhRgBGdHAPehrLcCqqURUe5ud4u-PA",
+          "width": 4032
+        },
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101889548037834305534\">Haiti Loisirs</a>"
+          ],
+          "photo_reference": "CmRaAAAAdOhEhZPD5sEXJj2hBjPD32byS87MZW5J_sHlw4SXqj2hjFaodZ3EM_1SLdI2qpmDMNed8lukW7gA3iLlFv85h4zyLrGuoIcMOq2L4vB8IupbW2UwHn6aZFEbjnedvDR1EhARCapoWTJD-9jDLv6mxlyiGhSLrylqfWI2N_p8XYys5Gru-nqarw",
+          "width": 960
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100069358245001819257\">Randy Miles</a>"
+          ],
+          "photo_reference": "CmRaAAAAb2hcUTlzbDPjy2cFfAjIkLr9pssRsDq8o77Zn0JfR2ySffrz477sOD_7cTY1HNHnYaoeOb_yl6LK1NRx3gdcXUShIxNWDqzo7zht4-rNRowsfQQAtKMPTodvAhhpkfPHEhAAK8Xrpb7cBS1OBZcnL7wzGhSsI6OvYgOimKdjcL4tS_JpmgO4uQ",
+          "width": 3024
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110982622605096746166\">Melissa Severe</a>"
+          ],
+          "photo_reference": "CmRaAAAARWyfE-iMRR63AAGDXwKmo_gnSSKvtFeDjFwhMniwrqzi_9aYH5jutnQKiVg7MdteOnW39nsTrX2uHXOCPAcmez-tKJMuUuNVknufYE1cPE67ILy43eNr3zT1FRhwmDxbEhBke71MNLB73cAUpx8PJ0n0GhQvopKpeVUsS_EBVVgMBjYCsKrE7Q",
+          "width": 3120
+        },
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101889548037834305534\">Haiti Loisirs</a>"
+          ],
+          "photo_reference": "CmRaAAAA9f93cp3N5vgpyohgiaYDOPAXQrGUPGYGBi0s1Uy_mzUHjqFxdjj9FDWGEBkuIEapVI6_8aECGO_R6pctC1PJ7TAxNywfXzBwBzLsk4PWpgJJDMCyCdpJmLM7t8eFaBgFEhBtMNExnpIsG_DbX-VdHMOaGhQsE7o_Y8SnxeMFlAmFxbPJhziaEQ",
+          "width": 960
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117188888190353611874\">Smith Vixamar</a>"
+          ],
+          "photo_reference": "CmRaAAAAPmlO-8U0ytj2hPOEDIhN-rQANVv8ZdNttkxZY9Yb_jV4RsJQE4Bab9f2pMEZJtsp8TzDFEL0hZwKOGSplKq7lIHRgQoCmmCi4wgvAALEIP3mGMDoYOF8vwSPg5uGdJQ0EhDkXtk2i7oOIKzI3NjibvWhGhS6rZA1iGP-Ccds34HyPYVRbY2ueQ",
+          "width": 4032
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101061627410714599673\">Abdias Noel</a>"
+          ],
+          "photo_reference": "CmRaAAAAUJEy8pcprKme1TThL3BMGFaxXGLa0CrfZy60hOnKRdXJaQD8CkbH-JT0BoTaG2GIXk3r8PF-3u5i6jrf7q7-kTR4W66OdVoiyZyj8aDx4eoFGntJ4zThVTXiUWkWSM-qEhBLBW2BIu42pmlM5TjzCtUUGhTbfHfRIO0KVELH7WUL1bqjvXb6Pg",
+          "width": 2448
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109391933466985218169\">ed camb</a>"
+          ],
+          "photo_reference": "CmRaAAAArSCVkyGWXa3p6BH5nM0AQwXCpiBc9byV1oyBbdci19FJMKKc983qdFhWpvCXq2b8SqiexzlcKqSSpXSyaTfx6zju8KMbCmJqTeufLvC9T8xKxCTNsvck5HJxktPZxpPDEhDKDAdCPk5cwDSLD6QIpiCRGhRUNHrsyb0U4XyF-jvu7jCCZAOmPQ",
+          "width": 1920
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101995182528134399885\">Andres Suanca Sierra</a>"
+          ],
+          "photo_reference": "CmRaAAAAstoksJEDZEKlOW-j0ociJBdXbXJ0LdyOjrRU_ob0URwEXyo6CzavKo7eL4qtqF9FfJIRxk2dzvSsL5E67ik-NBrHVAJugAWu1kC2SnV4wrucBDlRSCfL1cYdv4L6FArAEhBnnDJXMLcbzLXIb_2iv6AQGhTkUCMsi7C-ls3TMWYyFo5v71acow",
+          "width": 3024
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101361661880518180257\">Sun Tex</a>"
+          ],
+          "photo_reference": "CmRaAAAArLj5fN-8WN9yxtXHUrRQzyDV1VnVxvFEdRajjMAinncUrnMfnrw9tT0AkzSXxVJp_a57L9T3RI5H5LIlAac36fq-k4Lp3sgurwvsZCXcDoQ6dh35F4CBAIIOY4xHtvjnEhA_t530vXjSjMniarKBhVUEGhTdPpixB5KmHY3OxyqAvZnMCFGL-g",
+          "width": 2048
+        }
+      ],
+      "rating": 4.3,
+      "website": ""
+    },
+    {
+      "name": "In Martissant Park",
+      "orig_name": "In Martissant Park",
+      "place_id": "ChIJ_3BcmM7CuY4RvGu5XkKJXKI",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "28 13 1488",
+      "int_phone": "+509 28 13 1488",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 18.5246541,
+        "lng": -72.3623041
+      },
+      "address": "Carrefour, Haiti",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107781353453888127876\">Cherizard Thierry</a>"
+          ],
+          "photo_reference": "CmRaAAAAfnISGB1pstT8wI0CR7la_oDanvKDWsuxKkOzyEMWxhEzhACxy3STVI0-X4IVUQbvv0QE1WbWxfbh-JSLu_u_LoUl0_r2eugyWh2tEsGtjZHdl8W-EMc1LUmNNetuSiTAEhBPmU8rtWlkFfl-TbolBO4oGhTRyaQhPuB6sOFzRRYdvwHhc5s05A",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107781353453888127876\">Cherizard Thierry</a>"
+          ],
+          "photo_reference": "CmRaAAAAAT5LO0TOMCYOvRFMvL4Obc9fSBgEsvX08nx3jn_IttaSZKkD0S1PeGmfGrAXh16-MnODlkvmoq07FFY24N98j8HwwL8OEOX8XVdpRqTiAk0-quiMIG942cioS-80IzO_EhA1ORFmDKN9GJkMo5QrpVErGhQpyVP1_jrfthojSdSYIWc3JLTxzg",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110685037104892314153\">Johanne Barthelemy</a>"
+          ],
+          "photo_reference": "CmRaAAAAsLNAqqHH7K40xtm62lASGJ_HBA0xZ5_wRrl64SsSMcB5QogNaV8i-tsaXhBag1N7JILoiAl1LL8NKtceQftomhdlQaI1xt4IhTeHNJN7L41NEywFectfZPLxZefkPj6GEhA5sflfbri6j4H-3QmXd7FdGhQmm-V8bo4AFe10T5PsosS0_K1-0g",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107781353453888127876\">Cherizard Thierry</a>"
+          ],
+          "photo_reference": "CmRaAAAADth_K4UL8VLwG8MYBLofq5bDY89-K68OsGOzg8OFfXtZjFXTMmA2x3e041aDAOgJkhB0GPzdX0CE-tIHEGqkkn0ByPs82REnLOURb40TEIvY-uOfKN3qg39FdR5uQH1yEhCr9PuNvy1lQ5jmkj2KGFoPGhR-NsRAJHcKDwOH2cMaWZwk7mYQYA",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107781353453888127876\">Cherizard Thierry</a>"
+          ],
+          "photo_reference": "CmRaAAAAmkGP1WSahK7LJealc0evBk16YcbGo3ThScWx6-tpIn4_7qFuzP7e1VfQxtmYzbNomnNIHaCGG0OateE1K8pVPkpoShJTLDKTw4KoWMT3W2owluXYBP3t0wKlR0ypV7ONEhB8H2NQxSJ2L4xWqI4b0sVRGhQq-LQc6JrJuxZ91OUyBUPXGls91w",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107781353453888127876\">Cherizard Thierry</a>"
+          ],
+          "photo_reference": "CmRaAAAA_eE9rDVzBfMUUgJPLK5ohabIK2DCHw2liypxX2hQE4-sQk-P9vo_kyc4LOI0YjLh-gRoFJR8tqMWktL_PTM--d9-w5Ur50JVr7O2yMqxdiLv476zDdJfWI4GdHDBxXDWEhAIyDAyLBP4JjXG-5tAR21lGhRgCMlMQ2UOa5BWfEsnAyw39yGQ1Q",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107781353453888127876\">Cherizard Thierry</a>"
+          ],
+          "photo_reference": "CmRaAAAA01rp9j7xGCQu1HAVtVPFOsBgKxbqA5_kYB6PDdVzxzHMq4-MG1OPvlwnijvsaak4c0VksxiWQPmarF06o41bK4G_DnZt6rLuhbN1AhlSxHJvV50M256RjvYbC86JMlUlEhAKGdRO9GVP-wyBbxn77GujGhRsn22RqfYUVHz0G2pZ1IacbAdQgw",
+          "width": 4608
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104338748544748163177\">Yvens Rumbold</a>"
+          ],
+          "photo_reference": "CmRaAAAAG61q3B54xjAu6PHJzzkxQJI8l6-_Vs--1fLMbwchwPhU_i_h1fTClSGC9Ug6zGewFsMA08wwMlI69JzAxN3hK8HowgnxGgW4fSwZcJ6zyQiTImvdsh9JCIcrL-ukbZICEhBZR6zE__zc-yppb5E5JkiOGhTuxaWlhc-0fxd_XTS-YUCSAr1_hQ",
+          "width": 3840
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111710091644035094878\">David D\u00e9rosier</a>"
+          ],
+          "photo_reference": "CmRaAAAADy0z6A3QmaqEAGQA5xCgdMHORRK1ibcwztpS7AMn_RR9JRX4Bzst7tENYEB3PonW2LT9fqm1ZAIokfZ-gyl5_-cQ1fwRUj59ahJxk57Opl4f5y3dhQ5QiaFSJzIn7TFjEhBIsZxF1-xzbvaVTjpjTgQcGhTYTTrWOVQtPmx98CM-UwG6gwraTg",
+          "width": 3264
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107781353453888127876\">Cherizard Thierry</a>"
+          ],
+          "photo_reference": "CmRaAAAAW1UKxdY2htbEt-ygx_EMkPED7VevXw1Tdx_hSVAHG63V-4RNn-VFlI6z2zGTp69ZhGRHR6-D9D4uHo3CBV0fGwR6e2YKEx4wBkhjI-e0f1kXgtnGmJqLS1KqQbXOQoycEhC786SlG4rBCrCP4MxLJFO6GhQJp6D37KoYYyME5uG9-BdNYfK2Iw",
+          "width": 4608
+        }
+      ],
+      "rating": 3.9,
+      "website": "http://www.parcdemartissant.org/"
+    },
+    {
+      "name": "Champ de Mars.",
+      "orig_name": "Champ de Mars.",
+      "place_id": "ChIJmZKJhlnduY4Ro9rS0ThC7-s",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "44 86 5629",
+      "int_phone": "+509 44 86 5629",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 18.5416519,
+        "lng": -72.33618779999999
+      },
+      "address": "10 Ave M.Ambroise, Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117174870621392045469\">Alolakay TV</a>"
+          ],
+          "photo_reference": "CmRaAAAAxESlnpfnxLmrkjqxoEPJZoX9tyUhwUeTuQ8l8_j8skWqJev86h4QCQMlTcW_QV04Aw99Gbj8waO4YJn8u3uY_CYw_k6ILNh1Qt9bPWdCPdNH0cSZqnC4pLMINrhqNmVPEhCUgpxyX1GuB1Gi7TCS_ZYIGhTD5tNwPX-A_QxTfAC8ihpjAOj4yw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100406626907059919615\">Rob English</a>"
+          ],
+          "photo_reference": "CmRaAAAA6dGcpa1uOvrdNwvwtylGOqpGj1IlxGSKKqLrLhnpre3hIuPaKewLtngi-1hTec4KjCcNIkXq6oTHThoX_wcpKpO9l181mEHPtKHg9pYk5_7jLRlLOWq4AIzGFPXIerjyEhACwq5cEcd59kvEJo9Oqo6fGhTNLMUqNNMRVaOis6x0ot70JtqkMQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113011603002090139786\">Jaysn Schaener</a>"
+          ],
+          "photo_reference": "CmRaAAAAf4kDXnfCyT4dBxdMKRF3JMNYrK9ZIQSaaXkALsGObfINuud1dl6Ngqi2dGwCbW5-hPobLNs_RYKLsSHXMNocrseWwYNutDvZjS8805CYvi7ytOLcw3q9WPvsHS4H8KxsEhD_kwWgG9KwlK-L50EYLV-XGhRPGX5HNreLzc99MGzt9rrWTfaJaA",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106517757555039180713\">Dumond WALTON</a>"
+          ],
+          "photo_reference": "CmRaAAAAv2H0MCcfK97bITufvXjXSBLY_qNq4HzzH15SwdwQZPR_RQvzJ1No1ebKWPtSFZVTJS0XxrZrXEBselCd54KS_sfrqdpUCTn_BvNLU_nAYYjXSsPu1-oCbXv_HG03-HrcEhCf6yXErNcsWhAeD-kvcxh-GhRoeIyS3xcaZ5mKDX4y3BpIfuYB1A",
+          "width": 4160
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111177174325426584804\">Jusny Mackenson Louis-Jean</a>"
+          ],
+          "photo_reference": "CmRaAAAAAgkzRxQoKNgGpH4I9_pa2iYE8lcYG3e74BXdrx41hJG7M5pmxAXH2a56UuligFFUC8i2O5algVqggrseyX19jlYH2IPtLAGkJ-AnWv7TDCBa3muu0OYxwCHX_Vv_aVJqEhAxskFWP0bUX8RGYBdOSt4_GhSbFcPH_uDWet6E8H_ronexeE4yjQ",
+          "width": 3024
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114102127003081143417\">Samuel Jean Louis</a>"
+          ],
+          "photo_reference": "CmRaAAAAEJ9evby4IF2DUHDz0CkCnchSy6eLDotG28hS3cz3LAu9jBHZ7rSJQhYidKwwJnQBt0ypAby-KfZK85KJsnWoWbk2QmQ3vzOIB2DM02c8ELreCxUc46tE5zP-d7kwgqEWEhB7veG4QcBnaW64kDZcm4IJGhRn_KSkJ7kuWKYg8dWjdJqNIzhVfg",
+          "width": 5312
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111720408878671853530\">Louis-Robert Bassiany</a>"
+          ],
+          "photo_reference": "CmRaAAAAbptrx9V__19k0mcFIjWGqpP-zlqgQArFxb3BrXzrvNnneLY6ePARvkv0LTEqmwX8mpXbC9D8LfQkwuu1hor_tuy6PlNnRJTldISXClUE9DNlo1Tia9rABmW2m7iG4OdXEhAoF01w0nih9GCRlLQSyyc1GhRzgW4QG8tE6O5j9uZ73p08JRxzeg",
+          "width": 2560
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117174870621392045469\">Alolakay TV</a>"
+          ],
+          "photo_reference": "CmRaAAAAnwPx0eAviyAmFp_u4-pBASx1K63zOnTXIInAAM63q-VvN4cveQYRUjowCg3n855kRPOP89rc0ZaqAcqSazOJKYCutb6QQE_lperkgIbFENV6XJsv7l2BCptXMbgXdFv9EhDA_llQGZn-AfK0AFvj0AKCGhQENKTSKy-pIduiqKGmpFPpMuzXlw",
+          "width": 4032
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109527094223432649525\">Edris Cadet</a>"
+          ],
+          "photo_reference": "CmRaAAAA05fa1-PQsmRVgI_iOFC69GzLdrX4h4bCbzhIuygyFZ6yXUQtOJ_aQYQrIxGwMms37uR8sQlpNdKEzRp_LqyMfFt3a3902qW-Hl6B94Rl4guj0g4ON9M4wqlSMTNR14nDEhAJaZNOMe8Mq5X6KX42WbSuGhQICbwJpVIDh7B1BkHyH9mUUPcmFw",
+          "width": 2560
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102125525558031224485\">Jeffery Dugue</a>"
+          ],
+          "photo_reference": "CmRaAAAAALG2WAeKmMfWVLz1FkxnoulnPc19agxYUZQ2jVM5liWGVvn0wW8_1IMWKhTtMQliecjv727Vxwl6Cb8j4Xnuh_yKgtIqaAeT9d62d6NUBXGUc2e79NayB85nX5C68plLEhBcw3ADlB-Bzo1kQc5ZpWK-GhRNcDiLxZrwaId04JV2k2RRM0a9Dw",
+          "width": 4032
+        }
+      ],
+      "rating": 3.6,
+      "website": ""
+    },
+    {
+      "name": "Cathedral of Our Lady of the Assumption, Port-au-Prince",
+      "orig_name": "Cathedral of Our Lady of the Assumption, Port-au-Prince",
+      "place_id": "ChIJhdzauV3duY4RVixfzDSh7d8",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 18.5495455,
+        "lng": -72.33831789999999
+      },
+      "address": "6 Rue St Laurent, Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100037466939768929232\">Stevenson Dominique</a>"
+          ],
+          "photo_reference": "CmRaAAAAgjQ4oCMl2ZxgFBHHda1rPZgYKGSH-lO3OZEBctmMsxKzIF5lH4f1B6KUTHnE--QWAhQrENulzcfyt2E6HMiTYa_0jy03JxMBwq8eOgVjNA7hYbvSaEkf27690sKujvmREhAGhEpxfvg-x4uQSjN1y6KbGhRTiUTRYEAeah1pqMS7KeMJBg0qYA",
+          "width": 1200
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110746531018805633045\">Andre Paultre</a>"
+          ],
+          "photo_reference": "CmRaAAAAMS-QYL1lVQwlcgu26SJoLzJhljNPCprKMjt6ArfNfPQ8HOYi09nR0lmL6HdkohXraMkJReS_DR4TjR0pXJ3fNji-C4uIimloNprpaNysseZDIWm_Gz8Je5dyAWoXa2TEEhD0lNqW0xpylqXuJt5tef1YGhRS9FEwHFipYmcLPh9tOhrDiAjTfg",
+          "width": 2560
+        },
+        {
+          "height": 453,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107210670444657235030\">Jonas Laurince</a>"
+          ],
+          "photo_reference": "CmRaAAAArXUOMIFV7QecdaHND5gIRl9LzU7yE1nycmHj8EdJL3MZ-uZH1Agi2IRQ-puTEaYuSZ5C2Q65-nzkOb-kIB7aNJtn93saipQGdCuSro7UrRRV_lro9jY3_AGBVr6whkQ3EhA5aMGyjdsYLaihrVhLHdfuGhRXBnLe05H7YhgftmjQk8cRaBt8Kw",
+          "width": 604
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110746531018805633045\">Andre Paultre</a>"
+          ],
+          "photo_reference": "CmRaAAAAvupIgFKrUKE_SUNgfChjxjH0AL28XMblW1S3ly1m7oxBeO7Eyq8iB8Qv7jMtcZsr9eitFfBcEdf4Ui02QzjNwOJFJr1BUC-qlxmjTZVfi8nPnHou1xqzCM_PgqdjUwjNEhC3slvv_I3jihCcEHzw_ZqEGhSU5vv3mJzyvomTK-ankw11cAXAPg",
+          "width": 4128
+        },
+        {
+          "height": 520,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100037466939768929232\">Stevenson Dominique</a>"
+          ],
+          "photo_reference": "CmRaAAAA4qUieGw4AzIoNpx3ow9IcALvr6UDXLpcARxlRf1LJ07wMoCbfWumC1_R3RCco3mzXZmyjt0TVqpemKqkJzUsQyXMudZJTcY3OoZuVX32R9u9rc9JoMp8y_X78CVKEi3kEhBPgpOJ8HnOaSgYmUlO06qYGhT6x_jy09UR2GoPKuGAHIsTyUglBQ",
+          "width": 780
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101770803701042748390\">Maddalena Haiti</a>"
+          ],
+          "photo_reference": "CmRaAAAAbSuAUFAqo7tIDFycf7ZNtwX0iY6N3hKvUzKb5siv9KoG2v_os6ZBPP9D3yOI8IKE9onCLqV76QabhFpZrSbOuKhNIq9wcRPZtab7DxezBjuZSHrKIsj_RddGGilAcTGDEhCgjihlgoHcKLEVpb4zygG1GhR1hwpUjmh_oaT0TrRk88bodNhxKw",
+          "width": 3264
+        },
+        {
+          "height": 618,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100037466939768929232\">Stevenson Dominique</a>"
+          ],
+          "photo_reference": "CmRaAAAAv6pr6mgHAxxhvurilkzgXCYGHP8yPlO7InI9Of3Y3FQYR69xtB_3BMFaHxr5sHMw4f_phDCjNlJnOp0loHuJwdNPvYhUB13QMyuFDz7GYigDBO7AWrh6w6XRv3_3R8xUEhAbPlX_QkES2mJNLvmX1D1EGhSUJY93hXtmAii1sUBdkam8_Ra2jg",
+          "width": 825
+        },
+        {
+          "height": 3984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112290815334858426606\">Solano Christian</a>"
+          ],
+          "photo_reference": "CmRZAAAA14yO7g1GgEIwGpUGfCbUgpU06nqp2wblCsHO9qjLkJnsuUMmwRl9t8BwCFgUmVhivEH8JkVNynqjxbvoa0sNThsZRH9c15FIVfaKfXauIpsHZBc-hi1JEHeyJ6OVvBakEhBydtfzpfTAw-SbzDUFY3MmGhRbGdeTPzBDPUj79IEhhjDCcG5QJg",
+          "width": 2988
+        },
+        {
+          "height": 540,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100037466939768929232\">Stevenson Dominique</a>"
+          ],
+          "photo_reference": "CmRaAAAAhasT49_hd55H9e0s18wPX1birMatNdyjVvkTxv5IIJogeMBq8rJP7qGURCIp2Wod_l74o87opIPpK94q5ETsjEGpjZyakztgmEgUfqVD7D0azFY-c1OZ4cQjS96lLygVEhCYWLr7n7ODUaWO1L1SUX0oGhQ-poOMTPh4mFP7_dfCXbx9w6dl8g",
+          "width": 720
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118029050618706991226\">Joseph John</a>"
+          ],
+          "photo_reference": "CmRZAAAA__irBCK6aoPGqhA221zoWdAqdVg3ZREz5KqbsGwr7a8M-shs70cv3rv6b9Ak4DwpJ3uf86HdzJRwRUVjH3BId271qmYwZSCfOywqRVZm1xZsql1pJJV9zaDr7WyX3TiHEhAZT4XORmZZ2_UdSjhFjRM1GhRb-cNHt8DaEdhhaqf5K5CyiQGyzg",
+          "width": 1836
+        }
+      ],
+      "rating": 3.7,
+      "website": "http://archidiocesedepaup.org/index.html"
+    },
+    {
+      "name": "Place Saint-Pierre",
+      "orig_name": "Place Saint-Pierre",
+      "place_id": "ChIJd_GMHGPouY4R5Ng_oElzaoE",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 18.510487,
+        "lng": -72.2870805
+      },
+      "address": "Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 350,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106193816972636166187\">Ayiti Peyinou</a>"
+          ],
+          "photo_reference": "CmRaAAAAqiifRltmZZEyU4NgiLK3thD9qTDKWUoyL8pHRvNrb3JOkWt3C--Zolm-pjCdQWKN9Fq99nuTshoP4IhEW66QXt4w47L1FHEWGUp3pIlFiTw1ZD31RsBTvX7iTDHYgaHdEhC2ZE41XDS4TQYDutN9mK99GhRl_KDSiWhnmsIzZRTON6euoUpF1g",
+          "width": 467
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100450247862538943567\">vladimyr jeanty francois</a>"
+          ],
+          "photo_reference": "CmRaAAAAdRvejsvVleG4NX712vsDPExtRnvSXenCB_wmiqrcnFgnytcEI3qjxmxibq2NFrilLH40FAe8AHwYUKdbzdrF3jYAV3nptegriROpTaeRHlyN11aHNwUoc6_FIfqhevMfEhDce5xpJ1SPTpVYpWyyY2x8GhRCr4QrAim2arFomH1mWX5O_HLAdg",
+          "width": 1944
+        },
+        {
+          "height": 1961,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102826984125558615820\">Greg Tibbles</a>"
+          ],
+          "photo_reference": "CmRaAAAAO_IEGDkDDA4szrdndG-CCqpH6lSuzVrp3ixhtSHO3_aFRTyT8dW-qKtZIA7Um6X-5m3X89V8ieY3ixbelBV1JWfTRlZ4ns2u8TZBxVgb1o35xv-4xHyKic-AiSlnJ4MXEhBqRHMwNmNpmZ4UxJUC_-yDGhQCppaY7xfJiWinBni1VpZIbRX8oA",
+          "width": 1983
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111646295450585136542\">Laurent Soulie</a>"
+          ],
+          "photo_reference": "CmRaAAAAwarq3306kelLGm0vm0lRo9nbCD5hVaXveeTGuxy209ThF6L8b2wnnfJTNwVrKcxI6UzXsJahX7edVf815X2YUKu-ElXClrWRs20v1AHgEasw91eTDBuXxf7kbcpwBgqEEhDtvvk7GuiJm3LLnR9P_EIqGhSO2L_lJ69aWSNv-vO1twaM61csJA",
+          "width": 4000
+        },
+        {
+          "height": 2273,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111720408878671853530\">Louis-Robert Bassiany</a>"
+          ],
+          "photo_reference": "CmRaAAAA0_QJ_hBOdGNvZYhLjU91FeWA9tLQEoVUmADSrIX-pPSXAdP8y2DHYDC3tNbfG2DCB1eOzjqh7G_BgNhm9cSmXj1SdsBlEOmOxeiXxs27sSGweguHvhhVDtak1aEJTs1nEhBntgiXII5meoBRTGxiU7yTGhQetLNNPdqxeug0QspIaCAvG5sYjg",
+          "width": 4042
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111646295450585136542\">Laurent Soulie</a>"
+          ],
+          "photo_reference": "CmRaAAAAph66NR2StAym9jEYgbKT8Og0ZWjScJkjkGcUsLRtWnu8RY3v_dP0g9obKB-6oN0mzgCdnWoNc1b031ShSCIF56aMVrP_YY--0860dh0SHxc4zDR5tV774HHq6x5Kz7yKEhDN3XmM6sCAGPh_sdpEsnVZGhSys7D0pynBHUzaQ4X9qOFjFMgqGw",
+          "width": 4000
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116170217358336720084\">G\u00e9d\u00e9on Renouvl\u00e9</a>"
+          ],
+          "photo_reference": "CmRaAAAABuIzhf_n4PlI9ylNiFQtOxCOEgepdZu3i3WKJZw9WO8P-cxaJSCJUZbJT09fFqjY18b4evp6-JvmiKU2LlaAz1kn3_Wcg9ZmjsFH6w_rzsM4C7r47RMyDR7XG92iUsTvEhDxNsZ9E_B-JTjaRtRPHQ14GhTWrynchJVQDawr_FaL8UEQIolIGQ",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116170217358336720084\">G\u00e9d\u00e9on Renouvl\u00e9</a>"
+          ],
+          "photo_reference": "CmRaAAAAA7R0cV_bTU2imL4bwTQPMitlhme6OOwsp3aEghyFzaVM4B1DMtJpyVJteGlplR7Fl-x8ADpV0GHvQggXriAXMO1B-U6rvZO3vw2DdHhW5oUBuPet-JlXPhbbsdm341xYEhB_LVsOLpWbWw-MSpIpfuu3GhRMM_ULfWb5Zy5Gm6xAhiqlnmGjoA",
+          "width": 1920
+        },
+        {
+          "height": 2201,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111720408878671853530\">Louis-Robert Bassiany</a>"
+          ],
+          "photo_reference": "CmRaAAAAbA_WRF6JnYB1t0gnenmrjEEyiaDELH-bNGi6KQVy9CY_su_GBVxZnw-8W-qkEu9Y-R7mV17MmSs0xnU6keaI1pHcbuOIr1G17EVvGPAjWHeN9ePMs38hw0mdmstSh67SEhB_o3tGxJYueawBDYrGLDavGhQTfXU825-Lp2QZjt55jNKeDeHjGg",
+          "width": 3486
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111646295450585136542\">Laurent Soulie</a>"
+          ],
+          "photo_reference": "CmRaAAAA7FcZKVqvKPs8YUV5a-gReCAIrQy3B9Uh6ra8D75mrgnGvfPwkvS1Marn-aFa3kveCg7xiWW3T2FCutU5dM1AnGwTCLNptgVEKW9GwTtkXdl0pl1JXr63I5ZoR-NfUTfhEhAnyaEX91d3Z0Po2Ybc_Te_GhSxxc10YuNc3a40pL-kheWfrlg8qA",
+          "width": 4000
+        }
+      ],
+      "rating": 3.5,
+      "website": "https://visithaiti.com/things-to-do/place-saint-pierre/"
+    },
+    {
+      "name": "Evolution tech",
+      "orig_name": "Evolution tech",
+      "place_id": "ChIJS9EtsV3duY4RNTjvjzvScVA",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "38 13 7919",
+      "int_phone": "+509 38 13 7919",
+      "hours": "",
+      "coordinates": {
+        "lat": 18.5490763,
+        "lng": -72.33855489999999
+      },
+      "address": "P au p Rue Dr Aubry #138 haiti HT, Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110746531018805633045\">Andre Paultre</a>"
+          ],
+          "photo_reference": "CmRaAAAAK12UdxKurvXA-Xf7_STk5d2lCbhnq_tWYOS1zGy-exADdc45kq9kggYNOBRBTpMlP-hc5yDIbA4Lqmxjv9uCjkAx-NrbCDn2QnwnqA6w1Q1IZ2b_j6c7Fg4UGjhJV7cTEhCFynBy4AEmgWwGf_w8pKTJGhTcKUpX9reyPBwBJqoDlkf8Ee_kwQ",
+          "width": 4128
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101770803701042748390\">Maddalena Haiti</a>"
+          ],
+          "photo_reference": "CmRaAAAAdjoDDo8Z0FgZ7Iy4u15ZfqgpuG2rdY5e6S99c5VgNSZR5DL70tZ_dk1uB-n3CeyiF6xRjRxJHY8LZqLIVe_-jxt-mKhwIyul6dbr0XTHnFMiMj2_ePc-6TucHltQ-38yEhBg4yYSmvCZmgqNESfYUZ5tGhSoEwfSQqoICBMrxhuUCjb_dIgQ-A",
+          "width": 3264
+        },
+        {
+          "height": 350,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108953084708006718002\">Rosemond Duclair</a>"
+          ],
+          "photo_reference": "CmRaAAAAsrFTL_Hm2OQSARHbsEwYsy6gxid2ikc9QmO2SjDn3wgmCVJqYQdWYxKgeS-4lAXzgYFkrYafU1R3Hxd0RHS5WdXVUQ0VJlALJNh5wfXDMTC-ALKVLhchCe0WLIvHolItEhCvdJvK9OghkjzBXeT4mMV2GhSnYUCsd2lSYmD9RWJI130YL4iJSw",
+          "width": 467
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102760943750655832447\">F&amp;J Promo</a>"
+          ],
+          "photo_reference": "CmRaAAAAX4RNqjS3rX78Vt5WMFCL-5xvbzucC-PcrK_2x_irW_HVxfuCEzu_sTETjXZiGgv-Sb6o6kncP9TPfzZEy41wNbQ0T1mLAFkGb2x_STU6vb6scM1HzMLvgut4eaEZPJ5EEhB2AblJ6lbmsC35S9utrdVGGhSaVtTxiHTmzfKyln7qdkVBN4uYzg",
+          "width": 4160
+        },
+        {
+          "height": 2752,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110746531018805633045\">Andre Paultre</a>"
+          ],
+          "photo_reference": "CmRaAAAAT7xE7mTS2el3EU7K1ybMtR3tgPcDGPVQ5PH6cA0YlPnQ4X8d2lhU-6Y_3CCl6Pn8KR1mqWznCj2i0tHrAzplVh38VY18FUqY74_UtgF2G6r7nAiGUVUkePBsZKmrL9cxEhAKN3LzKehbwzdPyLVtVu9YGhTh8kamd5C-v-PPWkUeR-_CUdvzJw",
+          "width": 5664
+        },
+        {
+          "height": 2752,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110746531018805633045\">Andre Paultre</a>"
+          ],
+          "photo_reference": "CmRaAAAAADf9yZGcQ0qWvEi_x4JnHgsLPfhtYBZTUNFur1DHicJeeCm8RK6xMHzVZZI9fQorTUYDKkxK8xK0VWUTam8KHi6WlMhzncv7Lds5ynus0EolpxTMnyFwfOhqacl4fia8EhCe9uUBc61LkhnjcUsFn_OxGhTD-VdpeTh5D9i1HvBXjS3DJipHLQ",
+          "width": 5664
+        },
+        {
+          "height": 1060,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108953084708006718002\">Rosemond Duclair</a>"
+          ],
+          "photo_reference": "CmRaAAAAbe7rp5jyTi8R_anTyQu_o_6jPlhxUEQ_2Jk_V2Erx35C0LmKcPYS_gYq1D54uEXGoT-JO4WUTsumGnFhR3fyE-mJzv6rQjiMa7ZxbQiaT7x21ve_2dq-wwL1vylDjcUPEhDCVTVR6mO4Y2Nz557X9aa8GhQ-33XoTr5PxXxRZCBDqJOsqPP1zA",
+          "width": 1656
+        },
+        {
+          "height": 3864,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115778061033414836303\">Filippo Aragone</a>"
+          ],
+          "photo_reference": "CmRaAAAAErdpx_pFVN4SWMUvQpDBE1fJI2_o8mHVHfwh17d6-f7XdHBgacuS-sPAxFg4W_J9XjIDD8dr5_Hg8sSLifiW89zjiPBSq5VH6m8irWCfPd_pj4SORSV4_COXHdIsDflZEhCyUjueM1Es5tYnevwzf4bEGhR_sjDs3m07qN12zISUjv7yQj4YTA",
+          "width": 5152
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110811295212080507539\">Joachim Segui</a>"
+          ],
+          "photo_reference": "CmRaAAAAOHoIYTJNrzphE5s7kbUNqDfxQccE9WSkSfmwr8dhjuEJFKrm5sDzbxmz1TaLldFHvg3igJDhEgbXfyEo5iPCyUdl_upMpOv2UosEM1N3dVtvNdeR0Lf3nLggjh6PTo-BEhDux1h7lsvpSpXp07LADS9KGhSVhR_DJ25lu-tC267SM3JKxAsrug",
+          "width": 3072
+        },
+        {
+          "height": 400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107210670444657235030\">Jonas Laurince</a>"
+          ],
+          "photo_reference": "CmRaAAAA3Lf2io332myjVzxzaVfQOCMs2nHnhSXy3Uwof3V0daNhk4v2YQDBr-Bs5feLfMynZNQYZDhU8_w_slWD7DOPKxkaoZDCy95Tn1lk-WdXx6e6_VBOUrOARskhv_vsLoCsEhAMJlHjtz_8Gn6ouET_b1X0GhRjTdUAYEvcU_ns6bQTxjRJ0UNHFw",
+          "width": 533
+        }
+      ],
+      "rating": 3.4,
+      "website": ""
+    },
+    {
+      "name": "Sainte Anne Church",
+      "orig_name": "Sainte Anne Church",
+      "place_id": "ChIJWfus90_duY4RUT8ovkbaJ10",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 18.5404151,
+        "lng": -72.34392369999999
+      },
+      "address": "Rue Carbone, Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 2120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107210670444657235030\">Jonas Laurince</a>"
+          ],
+          "photo_reference": "CmRaAAAAxO9F5UXSB7GewzsI_pKfnSs4O9cXHrh5X1G98QsWTDQ4igZ272ylJoaBWU579lGg3C2QqFwKey6GQ9Jkv_xyjcsFFPe1cWZ905elDEebsirS82rt4xu5YSid3ojSKVjFEhCE-sh8NVRvpGwkPBOwPggRGhQqDw0P9cdeQxmTbwWvGqMkKo5-vg",
+          "width": 3000
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107210670444657235030\">Jonas Laurince</a>"
+          ],
+          "photo_reference": "CmRaAAAA9tRyyvqIotKwH7cbBiXT80_Ve4pZ98XaujlVGOb6axSJb_DyQgCtp4bLg9dCZE8K4HrNnZ7UqWj_34awbJdJlwLiOaFhcXfCCfN9vYJbn9e5h9p_RZd9LnMToCArSNDIEhCNDBrl72imJu2khyTMOxB_GhRhVjZJjsFV0Ptk-y7ZqMvandu3xA",
+          "width": 3264
+        },
+        {
+          "height": 2324,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107210670444657235030\">Jonas Laurince</a>"
+          ],
+          "photo_reference": "CmRaAAAAdlTjcOICM5pGjvhtFOgOh97IVBhind-o1wmWtGte6kePBw8S7f8kTUrjtsbw8qqGp0S-GldzP2S3CaUsm5n_9iJs08o75cOnXteKwjdn162jXJkfuuGQJVOUqwjPcpMJEhBykmjonV86LWrlHcyxIeO_GhRNLAAE40F-lXu3CABYgHP5izwMJA",
+          "width": 3000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107210670444657235030\">Jonas Laurince</a>"
+          ],
+          "photo_reference": "CmRaAAAAhXPA0tJVvIBxvSz9atuuDjsVegky7TsNy7HwcWVUd9r033m6hPUXwdDkqKixUrnWipq4bGETCND-t_KugnJ_BsTqZk2kAvIfoJA1-agwWPkaHK65nMN35Jlip19zstU2EhBVt02I04ldpY1Rho0r84iWGhQDfRmZTWhQhMH_MjTiwaaWAlmsKw",
+          "width": 3000
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101333117859214392133\">dorismond peter</a>"
+          ],
+          "photo_reference": "CmRaAAAAU43EvBTyNkpkj5sJzAYOVrq5Erc8u6p-F7krgBRy4queiipzO_pHVzQGUvLz7avDdJNHk2l8IXMYCGtsG9PUKGFweAGdtdCt387WzMt2cmwUycJ1-Y--u3dnuV-jU6QtEhCBKRdMKUYanH6UslsjAL_aGhSHt_bUxc-_-NgFrtli8bWSSoGqUg",
+          "width": 956
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107210670444657235030\">Jonas Laurince</a>"
+          ],
+          "photo_reference": "CmRaAAAAipyGmqvRWqlW0H71eKiUJoRqUGuNPSJWNN0y8Hn5azcBYHQpFEx8tAIq7OjuhV_V_kDKPCKJocOH_O1mCyJhpUyiKHnwi2q-Y8eato_HvK3fpu9uW49Sjg0_2yB6zN4eEhDKnkWY--7X39B-fXE3J46RGhRE5xxLW4MjYlNb2Kda3iGnCyllXQ",
+          "width": 3264
+        },
+        {
+          "height": 2229,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107210670444657235030\">Jonas Laurince</a>"
+          ],
+          "photo_reference": "CmRaAAAAVBWtY8T9-vq6nOHcI_pYasaZ0FnnWo6WwMwMbC1T0kzO3Mtk4HFnH20szRjKFs-6FLs7VggYYXZpz1vVUaSpUSS1jP2SxaysWp6uvL-fu4cF3HxXGThpyE73Ubj4zQWBEhB5Oda8QBc1IiseHaicRenPGhQqgIeo5ySMahk83uxEl2z1KlCKXg",
+          "width": 3000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107210670444657235030\">Jonas Laurince</a>"
+          ],
+          "photo_reference": "CmRaAAAAI5UyRIrZI2PLfYq2Ho6FTIOLKxAEY_T7bZjSHK1yygpb2gsEY_iHnPggm-yswO9wcGYgTCwRZIAxyCJmKztegCFzA3CXozHgOEEaSBFQkDCPgIXLKBNWl-Zceoqe8r8DEhB8cbkaMzYjzlyZ3KFqNlusGhRW6fm_OIxJKl4nvGLWG57NQj6qIg",
+          "width": 3000
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107210670444657235030\">Jonas Laurince</a>"
+          ],
+          "photo_reference": "CmRaAAAAuGsyS1kK7y08xMIE6ouylHrCPOdThRQ29hBwIgRMyS8-BUVkFekvNueyRHAVOc5fyk6CEIIYvbyp7mYTrWppYBmKe1aCnhrnCnKDunQ76ak-3-wDJ5KuRSlgqYAD4BQvEhBdM22hN2zI8dYljtwVbWjeGhRB6l9AY38ppaZttynW1iz_f4l5yA",
+          "width": 1836
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107531935915165266174\">Fong Cherline</a>"
+          ],
+          "photo_reference": "CmRaAAAAKv93P8lbEPlS3EAUlaDFZZTB_VX1w5Hh_oN_wIxb3pUPl1xaFwcYEuz68hItjZB2MYvnojTVZJUfGdssWDQ95cb3lmGGVGG8lAKVCbvmVZs2gJW3S7oSSEhsb0Zm_yEbEhCou_Ds2lHpjMkswVuWf0YFGhTTSDD80CbVTPz0Ift-w8ObaBStjA",
+          "width": 4128
+        }
+      ],
+      "rating": 3.6,
+      "website": "http://archidiocesedepaup.org/index.html"
+    },
+    {
+      "name": "Bureau d'Ethnologie",
+      "orig_name": "Bureau d'Ethnologie",
+      "place_id": "ChIJU_zUFlrduY4RhcKedXFHol0",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "22 27 5619",
+      "int_phone": "+509 22 27 5619",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 18.5411503,
+        "lng": -72.33797009999999
+      },
+      "address": "2, angle rue Magny et Oswald Durand, Rue Oswald Durand, Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101686416210321365566\">Anne-Doris Lapommeray</a>"
+          ],
+          "photo_reference": "CmRZAAAACryifMPCIS2imY5luaxX1jd2xQZNwyI3-7DShkq6R3x5vS4iOr_1N5t5Km9A381-XitaxyDqMPhKLWkzWpGWxBEcbsHv0sgXQUJF1tjsiBvD2CZ1hB0AirSUdomLvjMTEhCKXfG758-QQWOrcLzHnffXGhTWbiz8CvEfxUu92Yjdo0QncndofA",
+          "width": 3024
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115325318159157086394\">Assedius Belizaire</a>"
+          ],
+          "photo_reference": "CmRaAAAApzROGEQC0cmrBTYfMEWjY12NbZTeyQUhuhRtGxhP6fEMHFK0IGkN2agXWywhPqpSLrBmvMHdvR4mvoWOLK1Bv6Uus4yjvITgVERuj3oZWozGnjxvuk74Q_Jq7s0BIT8sEhDfHkZ43I3QxcKLH-EgqEC6GhR01_0rS9hgcOSv-NAKuFNtOLOz7g",
+          "width": 2560
+        },
+        {
+          "height": 756,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100037466939768929232\">Stevenson Dominique</a>"
+          ],
+          "photo_reference": "CmRaAAAAWJHw628e7THKcVWleMNVF-ptXZvaWMnSpKNTxojzTAxmM-UX7Z1meTzY-qqnpt0nDkLUOTCm5imuh_jRgIFOd4fHiWcCawh_xuuZtR2VB4PaJ0ysCh1nbuxkrds01yZHEhBTUbhI7qrGLMpLbCQ3NUm8GhR1ryieQgnHaTXWrMYwd9pp8TsChA",
+          "width": 1008
+        },
+        {
+          "height": 1008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100037466939768929232\">Stevenson Dominique</a>"
+          ],
+          "photo_reference": "CmRaAAAA8PI7p-09ooU-VUbiCbBDj0jN08_IGy3jgXPB18A7bYJ5KhctlnNkE4QM0NWO3PlH053dTp5RgDvG1OKINaF2U_nFXLy-uy_OFecLWjphw5ODeoPXANer2_1znDFM--IrEhC6crwJFxdkOME5lvjamvQ3GhRordwL7yj87z1YuMqBBaF30QuxmQ",
+          "width": 756
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103451729594388446402\">widler mesidor</a>"
+          ],
+          "photo_reference": "CmRZAAAATpk6XqSCuNt045I3CWPuxA3RLyWlNYRDnosLn0yJzyneWSPO5GsyV3sCZKEMRY3ybnmiGXWLJptkWzJ15tuvexKNkBfUq2fRs1xxpen5Pz_EAuhJbcA7gsbR_cl6aYVpEhAHOucHqrZYsZn0thkDJzyDGhRTLz2jlVfE20SRtgDPe44ScW_JNw",
+          "width": 2322
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114251744291977447298\">Jean Rothschild VLOG</a>"
+          ],
+          "photo_reference": "CmRaAAAA0dwLFgIw23-qdp1ngmpVq3brJFBFVRhGVaplStC-lrjcIeG_1FCmadkGGb5tmXYajHXOEouOTUD8aj5oSI9aiiMB5kjJa-4uCFhuvKtC0e6InGt7HGHyF7uHsI9M57h_EhDMYTqoQnF4HpKVMa_n4Ge7GhRvD1hrLHMJCyuAyWK4F-5zYz5aog",
+          "width": 4608
+        },
+        {
+          "height": 1008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100037466939768929232\">Stevenson Dominique</a>"
+          ],
+          "photo_reference": "CmRaAAAAbN19aWFu2UJZj3lhQPRLI5LCptLCRPIGIoE61vAP79NfqgFLHW1zPy2IWMfuWNGF41b09-UEwtPWnw0yAviTTUmavLjNpIGASiHXLrDR65H7XE5f5JW0CkFj1f_0gobzEhBQzgZ39zIrkpVVaW6sPT2sGhSLEHOLnogFsLUFizTInHmoMbj8tw",
+          "width": 756
+        },
+        {
+          "height": 479,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106805156519190817401\">Clerger Photography</a>"
+          ],
+          "photo_reference": "CmRaAAAAHHEFeA4-W1HmETwdrMTuRK3VOsT_1idE9ud-O1qOsG0LeZxOZnhSQX7SwtnfQUXLuJWfb6BFmr8LertekfyJ5Ffycjak44XcmezLlZDUdj8Hq3KbkCHpnBYDZ1soxh1fEhCzIQoiKYP2Lj-aZhYh0hh4GhQlCA9-UuQrIx8gS0qosmvM3CcV2A",
+          "width": 720
+        },
+        {
+          "height": 1008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100037466939768929232\">Stevenson Dominique</a>"
+          ],
+          "photo_reference": "CmRaAAAAp8L3CywQNJwIzY0oMNL9ZWYjbIiAQldbhA6abnq_yw0cSr_dfdTtZUwRq-udwdbxEOq6I-7rKQjn4exmRiC7IEWmO8tV7ZvApCkUlBZtZf2t5OTBoX17z5TYfvtfYizREhCVinqOr1DnAFPN58QwaWDnGhQJ0xeik31ViU-fHs_V0kksI6Ihqg",
+          "width": 756
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117847918847313720995\">Ed Gomez</a>"
+          ],
+          "photo_reference": "CmRaAAAAf-xaIMg6YgKhYpq84vm9mq9GgG2Ft3m-QRn5Hcn3e9sGX7KV399Ujqidol_FKgWcXDouVte7tKkfZDiF22TEsUN_NyEYM60xkrcVHooWroXWVlet8aSO_jAwGwN2dvUtEhBDgJLN1JQtB_KhDDfoaKWkGhQIwwy1AHfO-KaTTFUvvkzj5xGGww",
+          "width": 3024
+        }
+      ],
+      "rating": 4,
+      "website": ""
+    },
+    {
+      "name": "Bidonville KILLICK STENIO VINCENT",
+      "orig_name": "Bidonville KILLICK STENIO VINCENT",
+      "place_id": "ChIJb6mqhaHpuY4RFj3BOaneFKA",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "48 35 6808",
+      "int_phone": "+509 48 35 6808",
+      "hours": "",
+      "coordinates": {
+        "lat": 18.5107735,
+        "lng": -72.293819
+      },
+      "address": "Stenio Vincent, Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 3132,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105641216475593190951\">Hjr Junior</a>"
+          ],
+          "photo_reference": "CmRaAAAA9YeVfXlsvOqbcItbhmnTsNQDEtA347-mg6bZSckWd5nqjAh-Y3gDm_hr_VzjWeI0ijpsqUCPmuc6vV_KoIPlvJ-MoBFuoWV_LCc1X7tPGDenmpq0NLI8iSB5iN3rkZWwEhAhtbHoQVP8Aqvdp7P6uU4EGhRbwG8evBgbiJYgHwqTKFT45ZDnEQ",
+          "width": 3120
+        },
+        {
+          "height": 830,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105155675533592773791\">Jalouzi Post</a>"
+          ],
+          "photo_reference": "CmRaAAAAf_QLOmnEgXIYip_IYCO98YIB-GwsAY9wFmi7xmVBXRDyccLuU0R03WskVQuINRF6hyw5pycDe1WUVOgjJQB9tL1nXB9yOV33EKeTNqzmu6fC2_yHgEizYN7f8joUWVTmEhDt2tsXDb3Fu1pCnfs5zHSCGhRY5FE6L_AyYEhhnG6J3ByJOxk8zQ",
+          "width": 1139
+        }
+      ],
+      "rating": 3.1,
+      "website": ""
+    },
+    {
+      "name": "Papillon Enterprise",
+      "orig_name": "Papillon Enterprise",
+      "place_id": "ChIJ95Ag2rTnuY4R39CF9uWURZE",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "28 17 0369",
+      "int_phone": "+509 28 17 0369",
+      "hours": "",
+      "coordinates": {
+        "lat": 18.5496193,
+        "lng": -72.28460729999999
+      },
+      "address": "Rue Cassagnol Prolonge, Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111842999111443131491\">Jude Belzy</a>"
+          ],
+          "photo_reference": "CmRaAAAAlqL4voO9zgyxRzc_DXP8zNjLjJSS6U3XXbWbs2GWyd5yebWhD8SMunWUWD2d9PViG80zfR68rRdNxNRS1-Ovx6NTx50iJELTbRW1SwG-beb_V5pUnhNw7tbfOUZvK7cGEhA_Hk4mJxsBFo_yjrcxTlc1GhQGmBKHHW6329oBkFMUT7G6aJaBPg",
+          "width": 2988
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110746531018805633045\">Andre Paultre</a>"
+          ],
+          "photo_reference": "CmRaAAAAxc6-QIvflhIq2F9lt-ZOQ_9w-uaT2FkvtG5ohti9dbCOIbCZYvgfr56y7mwkR_a-JTZM2snI3J0wDEEP3Ke6Ixy7kTyL5TzVbhnpmCkhuioMfe-us8b5CJzX9KU48kBdEhC1pBGO5gvDAlsWaUxJytnaGhS0uPADv_Whx5_ZZOaPDo6-1Y7yUA",
+          "width": 4128
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106252179771305428886\">Josh Thoreson</a>"
+          ],
+          "photo_reference": "CmRaAAAAzokNMA_7DfMxIGYnjiG30LRdU1U6wyueIpqGRJv6FqF1kWj28AMmWcXfzv8LiFW17Y6c4g4GDkh0rPdw3ILF7Jtm9UkdnpPiQFXpMKi7KoIMc-UkZZ1QVu3FIVPY5YitEhAgnC45yTv2pSnvB9UVxYl7GhROaNls-nPNva5Oaaz6TAP_KPAMcA",
+          "width": 6000
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110746531018805633045\">Andre Paultre</a>"
+          ],
+          "photo_reference": "CmRaAAAAOfHg2LyBw1gb-zIJLyEJ_XKSCWBkDwaIJy0fr7QEq3qcRwYuJ1oe6oH8rBJJzzu6Yrdvo7X_5sQtZhYinOeRo17l9Vrid2zaeuCrLiS6-f476fiKBrNHwB0QfmXl0Tz6EhBk_lvjd0ccA4aS2zmhlbV2GhQnvWnGR-iCibHAhmFRNJNgZvpWfw",
+          "width": 4128
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106252179771305428886\">Josh Thoreson</a>"
+          ],
+          "photo_reference": "CmRaAAAAaOhRdkgJ-qzzQ8qz6cau6-usmXEPZngSSLCfUWUSkAt1vjhiQRlSPj4ZSQG2CwfFK7YcqdpTP0q0S9vezXStRku7H6klzFodJpvDBIPBwy35VvIGcdixLy5DkLnJBZP1EhDdrd-lNZiUvLLZtFgFAdytGhQ7cUgixjQsr15S4gyjzU6VyE_KrQ",
+          "width": 6000
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110746531018805633045\">Andre Paultre</a>"
+          ],
+          "photo_reference": "CmRaAAAAYQQJCQxY6mn5ufUE7NbFwvOu5bMPr6yK2JN1z9gvYZRuYcETZegG2mWBNxcc2BcKgk_AGwpFqXqF6NncwbEPp6V-uri74OzRTZR-xPpkdMJMksIrM9j9yGtNHlDL0jNwEhDNW4_3dO68695LXU0h9u-TGhS9jMr27HaPol30OqHxjmUEXAvi-Q",
+          "width": 3096
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111842999111443131491\">Jude Belzy</a>"
+          ],
+          "photo_reference": "CmRaAAAAm9nKafXhwgBJTuzRBY2_FZfv2cGyOBTRwfhN6Z0ePrnpvrlr_on9rklVpDWV-e_HAm940ehCZUffM-_eHNUHtP2N-y38qFJX5EhGZ64pPlAiQNJBh9pjSJzlAObMfP1SEhD4bSCll6ZbQrVYia-xVdBsGhTsHrq8VXVMBWc-_fRq_ERhQ3OVzg",
+          "width": 2988
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110746531018805633045\">Andre Paultre</a>"
+          ],
+          "photo_reference": "CmRaAAAABV275TL4tQd7cEjqprZgQuYTZWR7T_JqhIXeh3CW9hRLW8mm5buUD7aNUcy3bjVP8moyvaKANNWeyQbEp-FkoFjgFmTZUGOeD47kGr-xPaNCDo1ndyfrC2ySPKgpe2tKEhDlLrNsCi10ObcY55cdewquGhS52m-DKR-c8QrITpyPfwdu06wT1Q",
+          "width": 4128
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110746531018805633045\">Andre Paultre</a>"
+          ],
+          "photo_reference": "CmRaAAAAaP73saKVE7eWZ6O-1kpUsoFM6kmMmTqTH4sBn59vOxsQl7VBHBU3z3HsvEwNXkNIDosChORILH-5_xcMOXUTD5d6hcct8xBsXFFdnakTwaZdR4akwG4VhGHCoxzc5zmmEhA1X23mWjIxaGaIFM3yaqwMGhRpwLLT2DWgbCM7tWGqr_KcKBmFWg",
+          "width": 3096
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111842999111443131491\">Jude Belzy</a>"
+          ],
+          "photo_reference": "CmRaAAAA1gKGwdnBo4qACe2tZ69TdjOXitVb7Bf0TX9aMuUl49SAJnIrHQzGN8rGglxJJV4rtifHLs7GAALUYmAbf4LneFBW3e7cs7gkI-ZnN9G4wBf5QIrCMHv4H0Jkpp7z74t8EhCU5ZWlsy-Di67PuL61FpM-GhTMuHLAJen-XDOHocna1RJLePkunQ",
+          "width": 2988
+        }
+      ],
+      "rating": 4.2,
+      "website": "http://www.papillon-enterprise.com/"
+    },
+    {
+      "name": "Bassin Bleu",
+      "orig_name": "Bassin Bleu",
+      "place_id": "ChIJ43GOrwuxuY4RT-_EvS7qGIo",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "Set in the mountains in the jungle, this popular area offers a series of water basins for swimming.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 18.2350177,
+        "lng": -72.58790379999999
+      },
+      "address": "Jacmel, Haiti",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110974022495045315890\">Jeremy Thomas</a>"
+          ],
+          "photo_reference": "CmRaAAAAW1j3d6g4YOng9my3iwEPVR2YlWmGvPVxeyc4jT_muSkHZilj2UHA11c65vsushr5qdNy9VZRGhGCXysRh_JOKwupPderNPgGegN9KrUtP1eCDG7VYgUiAh4g4YDcyrZDEhCOjGQM7X8zdwAmM34VGVYgGhSKmBr-zlw-_2c7JD9G0EY-ttIn6Q",
+          "width": 5824
+        },
+        {
+          "height": 3006,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115735003372418745482\">Gary Jefferson CORN\u00c9LIE</a>"
+          ],
+          "photo_reference": "CmRaAAAAh2ydyGy0CwsztmZqc_hOemvQSUsNHHmn7rZpfyvIaj53QBr3dcGugSe7kSJxtFuXb3RuAtkxk0f8dUacVVQRyPEUgcHx8Bd4_ksokj5OqbO3wANQ_RIXFyL7oQsd41xcEhA1Teda1n8tptdM_UCrVZSNGhQowQ0ss17eW2Xdq14K61U2vwIW7g",
+          "width": 5344
+        },
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101184821429354593438\">Kim Sorrelle</a>"
+          ],
+          "photo_reference": "CmRZAAAA0FYZ9FGetvVSAsPmm6_jrxSLNi217X6ihtRyGcTbh7mHS_W9Vcwm5zkvdV6wh8fYCMy9VTMbkssLOmMCRujeoCSy-Zv5Vo8h43IANWOWR3h0KNJAKngu27Yu2BVO1bZOEhAm704oVud1jXjMRLkFF-b8GhRXNJLDcOKZJzH520XWhx1N2molog",
+          "width": 3036
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101184821429354593438\">Kim Sorrelle</a>"
+          ],
+          "photo_reference": "CmRZAAAAmRaz7FJi29uVb6LXMWeIFdTfpKCy24o53Js3x64Z3LIHeLcptec-6QjFe1JwrmtBRVzC_bRqaylynoXNaL6kePwYlzV7t3XkdJaoWv4sUOm0bSvp9pkBO2gDm4PNtvxxEhBTRMADOjDNJLFfjkoc1vKpGhQEiacMbHp6nQC4nI5Cc6AF_3Ryng",
+          "width": 4048
+        },
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101184821429354593438\">Kim Sorrelle</a>"
+          ],
+          "photo_reference": "CmRZAAAAoA8raTjvrOJXZdXSqMR5tXd0_o5BaES8Fit9tFyEIJmvBIBE9pv3hAyrCAeZNXW53J4JdwQg6bDvEsPu7Dx22RnbCO6ZApveJ6XqGN9LEkQIPY0tW6WFk6Pd60j1yp2KEhD2zwH55iVeZogLX2FGwx1VGhRTleWY1u53481VcEu4USfuOyuCUw",
+          "width": 3036
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105861907678696002737\">Yves Bruno Dany Jean</a>"
+          ],
+          "photo_reference": "CmRaAAAAvAIumeSND8R_5i77yeztdJOLmsAiGM1ZNNFryGhwlpll1gBTlt6YeaB_NbIvx2IJEYdCd582BxCGpFInrxEhX9w1yn3rDHM7RML0e3CFZk6TAlusGWvsDNQjKCfvcNfcEhCKiPKvxCUsrYDmSY2BP4RBGhQLKCOPI88fnM5CVUEwQSgCzcyTkw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111177174325426584804\">Jusny Mackenson Louis-Jean</a>"
+          ],
+          "photo_reference": "CmRaAAAA8gF3Yu57qpGCxwioTzB7IC-cCKkRJfbzh6_hoRcdLpRXjaU4wio3VYm2nFkEW21ZVnoFzIl0LqxbgVw-ZH_BE7lL6veQo88lE7IuvAhZITK7SJHir82_UGJd_ufVs2OQEhCVu7X4f0BT1ZC4XSvQ2WLZGhR2CVyOvA2DI1KqtUX7XnJeNXv2-A",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104684016156892978449\">Patrick Stives Henry</a>"
+          ],
+          "photo_reference": "CmRaAAAAKjBSl4m1FkADRE8k9SczSjoVolr9_0ADDJqBPrWsq0P8xOW6tJ8cd-vVFou83qkYA1LTBNM0L0oZUfW8UPvcBQR3C_nH1GMuuDwQn-lVv0rgvAztnjFBjGb0NHq7yrfbEhA4DN2-WW4tN0U2rdobNyq1GhQOn5XQOl21h2CvZh3bgwtkV17mBA",
+          "width": 4608
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110947968474111744816\">Jessimene C. Agate N. Thomas</a>"
+          ],
+          "photo_reference": "CmRaAAAAdinIWN1IYPwQy-YpW-ZnDk1Ol6d1uxdwU14zqhZTpxoG5g-zKYuDlfgoJPjXB4s5eddrFaCDxCI-Q_HIPQMborgOisiLjOtPrjhJw_JYf0_JHMtepznMOFn8AW_sCaWvEhBrm7HlTlfeNemrNbZAW8MPGhQWtyb3_QA7RgQWSmX16qtqs47icA",
+          "width": 3024
+        },
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100460543690956052307\">Jn Felo Colimon</a>"
+          ],
+          "photo_reference": "CmRaAAAA-fHxfGPM7OOWvRINusH8mVwe2hyZgpnW5FWEMYs2ca9yqW_m12Tdt51Awpxv-XbHxKyUb4rj23QCwCPLbp4q2FiJXbn3onggZM1F4i4gbwO5vuQorhprSROiqziUdyRxEhC3srg6L3ETT-nI-DILbggSGhQUsgS_cghIIBAynEIDSbMcoVogng",
+          "width": 3072
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://visithaiti.com/things-to-do/bassin-bleu/"
+    },
+    {
+      "name": "Port-au-Prince",
+      "orig_name": "Port-au-Prince",
+      "place_id": "ChIJkao-UFfduY4RCKop-V2B1Tw",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 18.594395,
+        "lng": -72.3074326
+      },
+      "address": "Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112560671412947754531\">Elyjah Money Sign</a>"
+          ],
+          "photo_reference": "CmRaAAAAUvwUm_zlwtMB6SbbFeYgh20kZ63n6MLzf9Blzvj55r27nA2acpsnW4l0OgVlkzFbSQh94RZUw6DN-YnzrnDhxF0Mxph9IcsM8CH-EBBWgABYEJRPNZQLD6OwgNVVzp60EhCYRGy4KALTgRjuvh0ku3f-GhS9ufd5F6ke3GJbNIv4DNtb6MYYUw",
+          "width": 1080
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110974022495045315890\">Jeremy Thomas</a>"
+          ],
+          "photo_reference": "CmRaAAAAswMfrm1tuJDhjJEVcgItLYIt72C350TlYU9NTKzhargDzaP59pzjW9YbWKy4WAapFG1RdxK_1zrWkcsPSNw44294ODKewgg69dIHMfGtmjdcQlq4q6ZfhmL1LjPdhsQ6EhDPvZddtcY3A_TERGQUtAkXGhQnKnSl0ATi_U1KeIpeAK1JhWplPA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117188888190353611874\">Smith Vixamar</a>"
+          ],
+          "photo_reference": "CmRaAAAAaJ3nCKs2LuI3I8bdEOY5yFvduD4_4-SurVAnMnLSIXWyY5EI1qsujW8rLB15Zz8-G1RtAURkCmNTBKNOzFYF50wKAEAVHvDzgDM6WAt9DYtlrPKh_1Mg0FvGrUSshwi3EhD3wU2W_udEdqR4SpXsX7_WGhSl-PvydnZvhp8bsv2QH3E2tCbdMA",
+          "width": 4032
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111720408878671853530\">Louis-Robert Bassiany</a>"
+          ],
+          "photo_reference": "CmRaAAAA76mZIXkngfo-CksHT7zQg8vpH45y3vHb9KlhF2QmT2MfdV41v8lXYktb8PWHSAWPUfuWq8V9bf1gwfLr4NjuY-5pCg8MmvnnDvV34J1gMYAkk2zqZGIvHsNiG9J354x2EhDxpwORdeCK80xBV35Wr-JJGhTuRIjyr0biKgjustPzaslo_njv9A",
+          "width": 2560
+        },
+        {
+          "height": 412,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107937661468231047366\">Alfred Francois</a>"
+          ],
+          "photo_reference": "CmRaAAAA5iATtiT0apsrav3utadloHivOub-lFMc-vZ-I3hc2aCKu_etAfmvDJNF55qK9wH1DllJtLV590jO_Orj4hMmg7IvhAcsSXiVX9IzYLKKUHqkghzXdcgCAfkE6myJUwALEhA2DaZq1U6BM3YJQ6t9LCk0GhS4b0f7TJHVMPuW7I1xtWcY5fP7Bg",
+          "width": 550
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107131667243378906359\">Madarah Joseph</a>"
+          ],
+          "photo_reference": "CmRaAAAAR3lr73pn-og6sw9eWYNehQBO8hiGSkFK2Zirrt1F1siXUql44BZAd-kpoQHuAsG3m1dZGfuzDBsqsp8dKROvuQFz1aYL4tp_0N65BpazsfnfhS8eC2omgHPu0Q0CzDk4EhANjKtLPm02lJ_boCli1P05GhRmW3lfwxJKY7LlhQNXQQPhAiKmAw",
+          "width": 4160
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102760943750655832447\">F&amp;J Promo</a>"
+          ],
+          "photo_reference": "CmRaAAAAS78HtoLyY7-eA9Qd0Q5JCojvIBCTAkqMlSagap0hK_PoXF0dGVN-u7hCBH9i4l92zweGL7-eDUKbG0jFuiZHahcY13wNqb0O8LWlRO49fw7QVN3YDaR1TyOyrSWVE_K1EhB1gGWXzw4GHRHxGrnne76cGhT-ktfkI17nP6nLKkfDHiesQ4rjaw",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106887161990442255476\">ogu ferai</a>"
+          ],
+          "photo_reference": "CmRaAAAA4Hq14qRSMTEaiuHSdZOeuTaum59DYqH99A9j-_FmHB6e_ZV5gxVMnhuuIYQwN3poakhL5Tr39Yc5IUloayoOo2dPbdQ6OsE4LFIORnfnW9nQYHBVyogFueeI5DXipPaFEhCEL33gB17drjz7JupJtOWYGhQVC3hWUAcqLVNAywgyNwSYfpGyrw",
+          "width": 4032
+        },
+        {
+          "height": 323,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106805156519190817401\">Clerger Photography</a>"
+          ],
+          "photo_reference": "CmRaAAAAgO_ZaVNHQTh80OA3TyrP_jTty7pszYCQEZ715ufWcI9-hWP2DVJpNqob1Uda1e_lw7Tyfnoo0Zx05UTgXZ3n910D3wreo_JIab8393HM5cfXttc306esC-Wwuo9svs8NEhCGKndAdtItaLT-mIjGgvnlGhTvLJ_CpKIolrLv9oB5CimZE2zyyg",
+          "width": 598
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113046758759076147945\">Martin Conceicao</a>"
+          ],
+          "photo_reference": "CmRaAAAAhI-wfTzrTqDUVZGzyzLvUfI43GxP0CdKYfQSKea5Rmgybq3rbpZN3OLRuSjUrXN1wwQT6IhebcDOFkwhyNv2Xcur1J8E873CeIRG_Ex6BsRLhEmFFKDT7nrv_GQDZkZCEhBiU3oxfggiV7hmE0FbqodcGhTaK3fyVRROWX2uon_qOR27UtWA6g",
+          "width": 4032
+        }
+      ],
+      "rating": null,
+      "website": ""
+    },
+    {
+      "name": "The Peabody House",
+      "orig_name": "The Peabody House",
+      "place_id": "ChIJkcDZLP7nuY4Rv1CwofJrh7g",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 18.5281887,
+        "lng": -72.3281013
+      },
+      "address": "Port-au-Prince, Haiti",
+      "photos": "",
+      "rating": 3.7,
+      "website": "https://visithaiti.com/destinations/peabody-house/"
+    },
+    {
+      "name": "El-Saieh Gallery",
+      "orig_name": "El-Saieh Gallery",
+      "place_id": "ChIJlYtszVTduY4RoN8zIfEXtEE",
+      "cat_params": [],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "34 27 7797",
+      "int_phone": "+509 34 27 7797",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 18.5283873,
+        "lng": -72.33495359999999
+      },
+      "address": "Rue de Chilli, Port-au-Prince, Haiti",
+      "photos": [
+        {
+          "height": 2755,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100663493612158823937\">Tracee Laing</a>"
+          ],
+          "photo_reference": "CmRaAAAAvNKtBCXtxHPDBSEFgXoVGKDOqZRdZQRSyuWSaFl4K3kXdhmMURye7oeZRFZnLzGfPCTiKnDMKer704wh7uxXMd3NKcRqBJbGt7vppHEdWHalUpc9C6twgjCIkpXCvlW3EhBCUCdDk4_4M5W96WE4nK7IGhRX5iR4oX7VhiZSWtUc0RHLNSr4Qw",
+          "width": 2749
+        },
+        {
+          "height": 2423,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100663493612158823937\">Tracee Laing</a>"
+          ],
+          "photo_reference": "CmRaAAAAM38bg5HbHbkAypiU65aEMnMu0jdYUkjDdqVcSu7h2HodSqUA2OKXPjSyQYxSzTQyJU9R3TXXAq5fSmmw3sZeB2jaozW5lfH1IEB2VV9hZjY1yM_8qd21GPWzYEX5QL5YEhCLGrfI0UCyijzlPwL9QI9VGhTMNKlhhNB-7z_vPXoBvlIf8HH-zw",
+          "width": 1213
+        },
+        {
+          "height": 2432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100663493612158823937\">Tracee Laing</a>"
+          ],
+          "photo_reference": "CmRaAAAASg3ytCQwy2R02YJI9lEBOlBteJABEQFyGFszOV9DCQCncw8bWnw5PAHHhWdcI7_ANFGLyqrycT-L6bgxAeSk847f_YeOMYZRFi6EzYwgdiN42Or48iC0KoLr5c-_wghHEhD2utgl0XJDHRIB697R9qKaGhTiHoNI_SUAN0Hy0Yjj7BdyO-Q0Bg",
+          "width": 3688
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100663493612158823937\">Tracee Laing</a>"
+          ],
+          "photo_reference": "CmRaAAAAPYWXYSRBQ2IR-1bWvFS1Gf4GxOtYsHIYtm8I1CI2IsjeTOwk2DzB2jEi8SJdedZZkdexNN_IVWOFoDsO_VrztDlhdXZCB2FBwjHIVckZIs_cLikNERLtbQoW0ddX6CzmEhAgpTI5bJh8JBdZpyGs3g2rGhQ0SsFlTAu19CWl5G0xWBRdmoblpw",
+          "width": 1430
+        },
+        {
+          "height": 2626,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100663493612158823937\">Tracee Laing</a>"
+          ],
+          "photo_reference": "CmRaAAAAjHaV5j9rxwwmxmJfP6Xr_XfgGnEIdQPPKzMb895R584a5J6cDCEjjoDwVUSJqMxMzWejyXFivCkxal8oENAm91UjStvMZNg75l6jyrZDn3t2XyAYi3YibvKp73uumqMrEhDPl1RiQMECJ7sJXSj82g80GhSP9S9wYBKGW4rzZVBG90Q6tCzD0Q",
+          "width": 3227
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102905378367803636358\">Gabriel Damy</a>"
+          ],
+          "photo_reference": "CmRaAAAAcwUK1UWSlKXonAToZo_AycyDGSxlkAUF7mxTkTemjcVLv_FfAWC_WxObBgNdxEZtwCAHLpV-eZiDbXovlZh6KMdTW9LELgG7EclbXCIdi3-h0kzYaoyg5iOXGHj4qAMeEhBgmor72HL7DzF2fjcfavPfGhT8H9NMDhSunMMWuXr2VR2bkM8foA",
+          "width": 1280
+        },
+        {
+          "height": 2949,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100663493612158823937\">Tracee Laing</a>"
+          ],
+          "photo_reference": "CmRaAAAA3fX8BXYyHocVZNYNQs8uAn0mPbSbLBXHDEQOBOkrwzP4BdoLoohFGe2pykZ61Ap1emMkMRAdLhWclKSma2awHGKogA_NJ7mSLmJfifs9KURka6dTlOSZ8U2ZjgbCCzoKEhDug7yoeu3YJY4kNsmOwd8AGhTALPRncpyVSyO4r8vhpqewwBowLA",
+          "width": 2928
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103864483548684598861\">Jean junior Dora</a>"
+          ],
+          "photo_reference": "CmRaAAAANzW0kPBmBKxkyWM6NnI2gnL_RFMiVp6rU-y_Z-nlvBt5iMJMVQBIB9SkJvc1AkYFVNnJV3zgKylaGI9Kfg6DKQqIq9cEqWl6M5nKsAy1Xc_B0pAX99uvcDqNNqEPmWrcEhA5ZlzPgMbldtXquXpjLdY8GhSDEId28ms8LR35ChTjmlW1BkzKQA",
+          "width": 720
+        },
+        {
+          "height": 2939,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100663493612158823937\">Tracee Laing</a>"
+          ],
+          "photo_reference": "CmRaAAAADViO319kctRje7mkq2xfh_QX_yC9PYn4KKYANpf5vQUA10sL2MThMj4kgGotDF9LjXtilsW4HxdEz85QjFZuInrPDz3kZx4ZuWdUxgwD1s12anRNQx5IlGftTHLu7s-LEhDFnzxb7wKnvbDnAjvcff6OGhQpDk4k37zGN7uRmcqeCC2-H6ivhw",
+          "width": 3650
+        },
+        {
+          "height": 3251,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100663493612158823937\">Tracee Laing</a>"
+          ],
+          "photo_reference": "CmRaAAAAdIZWUuxdMqTXKpSjxCMZMZu3dv_Q1wyWbBNfE22QrcIDp0jlEIwbLarY83VxY_0h21SIPQdIEGzKnQr4MvduWJU0bgHW704uuTL-okiJ9Qq7Wwu1qXEV3v_wz4GOacEvEhBWwpot3tJZk7sNyN9ABMUbGhTq8vPa72Kvb-CLIISGg5IP5tnfhQ",
+          "width": 1639
+        }
+      ],
+      "rating": 3.6,
+      "website": "http://elsaieh.com/"
+    }
+  ]
+}

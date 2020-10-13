@@ -1,0 +1,4594 @@
+{
+  "sights": [
+    {
+      "name": "La Citadelle de Qu\u00e9bec",
+      "orig_name": "La Citadelle de Qu\u00e9bec",
+      "place_id": "ChIJO_wtXNqVuEwRBoNhbzRrcZg",
+      "cat_params": [
+        0.11444878596165979,
+        0.042612039705055386,
+        0.21322097224515815,
+        0.2053446350101003,
+        0.21177757626645702,
+        0.1762614725450706,
+        0.38036266759781207,
+        0.1885224099355987,
+        0.1746090744811911,
+        0.24408088600367964,
+        0.056183434700409075,
+        0.05812615110700401,
+        0.19233965175803688,
+        0.20806315842425718,
+        0.3433127210943148,
+        0.12551549424457928,
+        0.4115933004510553,
+        0.39045222774497595,
+        0.21252299009981526,
+        0.11681258675036357,
+        0.3928993456865663,
+        0.26529081940088545,
+        0.2711017110450395,
+        0.12474396569496256,
+        0.04523385493524892,
+        0.2868175309628843,
+        0.23378122405790444,
+        0.36093586898394187,
+        0.20749337533238868,
+        0.23683052838210042
+      ],
+      "noncat_params": [],
+      "quote": "Complex featuring a long-standing active fort, plus a museum & changing of the guard ceremonies.",
+      "phone": "(418) 694-2815",
+      "int_phone": "+1 418-694-2815",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.8077997,
+        "lng": -71.2068986
+      },
+      "address": "1 C\u00f4te de la Citadelle, Qu\u00e9bec, QC G1R 3R2, Canada",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106265508567303587241\">MEI CHEN</a>"
+          ],
+          "photo_reference": "CmRaAAAAQlt095eEu--EvMxBhfqQHwRVAhB3to6RJHreFRAv6ItEUzp3j7YHsq7--lFCiw8MGS9XzSTeWzw2FWAoiqG5Qy9KQQfqldPViGj7KSJqmM-V1l-Cyt8NCYy1Mf5PUKEaEhAYraiq9J1-arO1DikklCMrGhRNZSuj_VafqD4I1yDVCMF3aDnskg",
+          "width": 5312
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107792389188527879557\">Fuentes Sandra</a>"
+          ],
+          "photo_reference": "CmRaAAAA7I-Le4neZtuOkangqU9d0F8DGB_8WZkKuE1hAeD2X-7vu6ATr9kgCwKo72K2Vqb7ykh8zxamgvSH-Dio8Gk911iKP8oSROJpLH1DAv-kc9mSXcYghH2UIZ0hyNtaehitEhCmEpw1rN7Z73AxKRKihHndGhQePt1pi9cKvLuPoOktXxq5bLCDGg",
+          "width": 4128
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103632419745410274908\">Gennadiy Rozenberg</a>"
+          ],
+          "photo_reference": "CmRaAAAAMRHtzCXfV_MeBC7wakuBya5N1stZoA7PTZKuT9rJCZv3wiCSbo2jLEeV3DmX1JmzIFxkm1r1GRrSEf3pueRHZst3K7kCfGyA9iLI7L-f7hNrsOGlJq5uJjzpTfFhOSjVEhCdl62F67UarmZtJ6O7gWTsGhRoEs97p4FtWkNd32PynLFHv0sbsQ",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106928729850655310667\">Scott Kerrison</a>"
+          ],
+          "photo_reference": "CmRaAAAALCGuDeLIrhPY-cr9VKNw7cPrAE4oMZ2v6yNQLUv0Wl3Dytl2nLFF0atr8ZjSpdXP7hitjpVu3vguJbDNuVKev_ufr2mIvdFze_Iq8KWM6uFO2ZYyHnRSobDdl7VDpYJWEhAXtqG0o_h4xepW0sbS2Lo5GhRO1_d2OznUjUzcD4IylcAqeZn76Q",
+          "width": 4608
+        },
+        {
+          "height": 3376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105452161420327863990\">X. Jie YANG</a>"
+          ],
+          "photo_reference": "CmRaAAAAH2JugWwdKC7WR5l__vFmeaWVvRKihDUN5V8TthHSJCR0dGM-cqg_FqGPkdRqeXeou21G5_Az7vDiHG1Jhof5U6ruBQlTmaq86BpGk9vw73GLnhcXlrWPEVQ5s2uBrydYEhCv4syuho4yQQo16eQA9TBzGhTQCQKYt_Yx6bBtFTnBv1hIRDg7OA",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109673894620742446582\">Krisztina Leiszt</a>"
+          ],
+          "photo_reference": "CmRaAAAAlf8a8Rmwx0UgEWodZ6eb7PjATOvoStc27QZ02k_VArdWnnpRATX4-ejFv0F6rxoT_dTmAwIhGTAfvKOe-V_S0isa0UI4C5DPTQDw7AjgFB0K2a3nGUwd0fhMMh-jlui_EhBnb7bLm3-RBjp9jDs4lIRvGhSi88O13yPOT2dF6K8o6oYdpaJINA",
+          "width": 4032
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105958178751793834168\">Jacques Grolet</a>"
+          ],
+          "photo_reference": "CmRaAAAAEdSZR5JH0cm4rHpp-kmzYoFtbdEzGNXI51EyQDC189_jLNIYTFTB-7ZyzR4aHcbFpV3U0Q321N8IpAMLoSxLV6OOd-4V7jzSpICG87hqGC7Dl672zQc05Tt9mi65OCKKEhA4_GUSUeCy7JrSRqjsOsQDGhRPtXgjqJv34c4Qp-RBBT8pUUJ2qw",
+          "width": 4898
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104414467250572910020\">Mark Kopalek</a>"
+          ],
+          "photo_reference": "CmRaAAAAwzaZpX96wvtt_wx51aCL8gRg4rGSQZmA9_pPA9OhnM1QkGxt3CH-mLUIm9lkEQpStmw2gwtWcCpRfkPFaqcxelOeubnGWfYrMqe4DRPocyRnIIvTxxFinuzIqbLjDZS6EhCZySKylqorZEkR7VCAtIgYGhSxQbiOaccGOvGfR0aBf1qoCOW2Bg",
+          "width": 4032
+        },
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109187952336439275257\">Roberto Nu\u00f1ez</a>"
+          ],
+          "photo_reference": "CmRaAAAAZP4B0W1s1wShJgrH4Fc3IYPIxmHV8b-Adu7FLQETlLoyj8ln2KCm_Dk7gcNgXLXOfhvwM6Un3N1Vpt1a4Ofp981UWksix3Yk4wDrkvPPNaRdR1EDlIpXYOaTulumxawAEhA09lNQ6iS2iuVME7f6GVZ1GhQMKh2qsgXd2PDElBkxaIRukLbIBg",
+          "width": 2048
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112453485323008550518\">\ucc29\ud55c\ub9c8\uc74c</a>"
+          ],
+          "photo_reference": "CmRaAAAAbkHVOqj6UeDlu9ZdW3UWkO0rsFitmOyXtg-I5eZMtazoVh8QW-J-l3AxVaDvjrtEW1wLU1d_r5pO8RWsSSSIT136FjZic41mEizK1_h3UnmSxC55QK2aZTK-kfD87ILVEhDzGtJg5FJEzgifYxc_g_8jGhTCtBVpUaeZQ25VmjKRxW1NkYh6Yw",
+          "width": 4608
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.lacitadelle.qc.ca/",
+      "mood_params": [
+        0.010033976158396582,
+        0.07153873629789603,
+        0.02582241640838325,
+        0.1354566279004688,
+        0.039802078092820874,
+        0.13681529580900223,
+        0.12271394587419493,
+        0.048229187968784365,
+        0.07449163594390652,
+        0.0349695993399109,
+        0.09741434223347897,
+        0.015794939172805122
+      ],
+      "popularity": 0.7535096950360824,
+      "num_google_reviews": 5940,
+      "top_cats": [
+        "military",
+        "music",
+        "history",
+        "science"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.5674635003088832,
+        -0.8326969265892142,
+        -0.1121908637535221,
+        -0.18528881438055256,
+        -0.5741656459207911,
+        0.4153297221270456,
+        -0.19076924264430115,
+        -0.2511803642847291,
+        -0.4737100308677813,
+        -0.8216361951063601,
+        -0.6204315645026028,
+        -0.7860971046405415,
+        -0.6611484177116201,
+        0.017130661354762634,
+        0.578244564192969,
+        -0.5254334172381327,
+        -0.3122775452679188,
+        1.009678382210501,
+        0.5964653237647227,
+        -0.3754018852039187,
+        -0.7055926811497755,
+        0.09786423083084923,
+        0.15851496170152896,
+        -0.4055099125672739,
+        0.5089724173205317,
+        -0.5023683383113191,
+        -0.528502989126066,
+        -0.3865197691400145,
+        -0.5536137004218759,
+        -0.6387948822322801
+      ],
+      "global_mood_params": [
+        -0.06333317486722864,
+        0.6294762540850586,
+        -0.6672866285734479,
+        0.14547304311076864,
+        -0.4067861032861784,
+        -0.21278005321299062,
+        0.17811072469568742,
+        0.7431704426320217,
+        -0.6259616928469355,
+        -0.3400723443857453,
+        0.13374323760263337,
+        -0.6557692018868795
+      ]
+    },
+    {
+      "name": "Fairmont Le Ch\u00e2teau Frontenac",
+      "orig_name": "Fairmont Le Ch\u00e2teau Frontenac",
+      "place_id": "ChIJ7Vz9a9yVuEwRjUKqbbOLHw4",
+      "cat_params": [
+        0.10120500670721558,
+        0.037656639873741696,
+        0.22866951360281315,
+        0.13250671396956734,
+        0.19563614267960547,
+        0.07012453883594437,
+        0.2382725637781675,
+        0.13136738035850767,
+        0.1965718611458943,
+        0.17320111947495395,
+        0.048911551594987106,
+        0.2422058050830084,
+        0.10327781214037265,
+        0.09654602737418265,
+        0.18302063527391482,
+        0.2725552653882324,
+        0.23524333670011194,
+        0.22316750785306616,
+        0.08082784377460722,
+        0.08139756952553896,
+        0.2660090399848852,
+        0.18442160932111204,
+        0.16219360565601712,
+        0.08752056198723669,
+        0.006817789681497387,
+        0.19844647750863167,
+        0.15046461403182165,
+        0.21445650884701986,
+        0.16242310898277976,
+        0.2325499972957185
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "(418) 692-3861",
+      "int_phone": "+1 418-692-3861",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.811978,
+        "lng": -71.20501
+      },
+      "address": "1 Rue des Carri\u00e8res, Qu\u00e9bec, QC G1R 4P5, Canada",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100557740916750737992\">Fairmont Le Ch\u00e2teau Frontenac</a>"
+          ],
+          "photo_reference": "CmRaAAAAaNKULCp2qTBeQ83SC7EK1vxZsKELfJNF8kuGVny4PTo6KkcFYLEyetwMmBUcUGG0TkM6rC-oqOYtzc5Or0KV0QJxqL_HsGN9NnbHUaixohX8d5kpcCAZuV688HCPtv7dEhAfUHA03nqRGMGwpgfEk8ztGhTIyapMtToOOpNNJLDntMX8J71VDw",
+          "width": 3000
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100557740916750737992\">Fairmont Le Ch\u00e2teau Frontenac</a>"
+          ],
+          "photo_reference": "CmRaAAAAXOz0ARCapnEQ8VYKCmFuonw694kRIlvPPWZPqVLLNt-e8RZLFfW8Hz3zP0iOTl-wCpTyj24i1cBVD2qqggqaq_gE8fTyaxcjWXeGkLxQU5K_SjeNMuFC3igfdQqKxTGGEhATWtJg2o4TurXUySK9CKzfGhR2MxsAz-LpVswii3uGRbqc43c5iw",
+          "width": 3000
+        },
+        {
+          "height": 851,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100557740916750737992\">Fairmont Le Ch\u00e2teau Frontenac</a>"
+          ],
+          "photo_reference": "CmRaAAAAVCJOm7BHUcqJoY089GspOo3I6RA0oISVIMtid4ptyhSgMgEV8OWBenkfYH9Bu1CMJK930GOUFSOlZwMIiHxuZXEvqDbaV1MESsNJxoADZk9b_ExBKUhsCMop-hAwv7KcEhALoKdy_CBOAcSqIR931KKSGhQxvqDkLMvd9cvjEJqod0gEMKFsdg",
+          "width": 1280
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100557740916750737992\">Fairmont Le Ch\u00e2teau Frontenac</a>"
+          ],
+          "photo_reference": "CmRaAAAA58aTdSsysB5WbR7gpuKD1E8eXd_koI3jLTXBivxQgUm8gbSjGxrf4xSd0ISiKBLzlO-1D9JaAhQnJ4B3xek6An2bjalCSU68C4lJl1ituEfrHOGN2vwnMgayomq5y8zwEhCKBXuwsvqpKmHN8Q_yz80UGhRoyctZKsM4xbuK2gumJBe6v6t5dQ",
+          "width": 3000
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100557740916750737992\">Fairmont Le Ch\u00e2teau Frontenac</a>"
+          ],
+          "photo_reference": "CmRaAAAARSHd_zjEZRKjyiRzSxr1Uva0cKlptKzpYI9ikR0oOoNiI4cdc8-11KwLyYhjqW3WKepqWg9WnSDX7xBOJhiRdjB_OwPhO31qsmii7bJSs8DIAPARDFvRZ0Dv4d9B_XDnEhALE6Gyde6K2lIKG1ckfgB4GhRVvVYZfOTVT0WSVJETKyWJccbR2A",
+          "width": 3000
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100557740916750737992\">Fairmont Le Ch\u00e2teau Frontenac</a>"
+          ],
+          "photo_reference": "CmRaAAAA0jjPiCpLaoFatxszN-8rGARz83UWhue4cTDvsmCnzyGBOXAXfbOwHbRuzP3id48XFBDAjchvci7zQgYgm8XNjbd_T7FJhBGAMbub5hEHn126KZbrztYLMw6lcm7y1aD6EhDt21NeaoKSVTZUgSVrLEtZGhSjnC1xmv_B5Y0rY3DIH3lT3sqESg",
+          "width": 3000
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100557740916750737992\">Fairmont Le Ch\u00e2teau Frontenac</a>"
+          ],
+          "photo_reference": "CmRaAAAAsEmG3OgXSwDZzz22nDuJFCyBR1LxKLB37LHGstM8Okbt1q2FrrTf5sUAMXGoE_7AbizPFpHQ62mXeryzW8xWViSl5RrEiVeqDOZybZLqfZT__02_oYlFPKOn5UQfMY8tEhAKhZqX-ATeLsa06vVGuLDAGhRoE_2nagyLdJwbO_FyczShvsQG1w",
+          "width": 3000
+        },
+        {
+          "height": 2240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118029014853272473684\">Fere Zohari</a>"
+          ],
+          "photo_reference": "CmRaAAAAoH29tb9bVihkpQbevmy_XGLBQObGRXQNOjJI5pK-slCHGEGoQXVp-B7-Sdxcoc5Lxbo_Q9tNgCsXcW07YgDUIn3XWJfEedCe8zlOMFe8m1WO9gm1OoCE4hdAFlMCFfysEhAtej5uoUQggBZSHnCR3WkyGhTTV6OgkyV5K814X2u-88uFGRlZeg",
+          "width": 4608
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116625153144741240388\">Moustaf Diop</a>"
+          ],
+          "photo_reference": "CmRZAAAAPJcOxYpZGGU8xb8QM2ycmKuuRd0trvkWh3VAiv_rGEkGd-Vuaxl92upZLNLdbwF97zOZ5ZPitW7kW686CuaIYOred1N6C-AICaqF2VaJVZstNmZnwdR1PMFJASMVmXh8EhBJ5QA8X2Rq8-k7NAKuCjOoGhRY4QxWPNsyCOOtrO2HtHQUvPxloQ",
+          "width": 1080
+        },
+        {
+          "height": 4208,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107958830640914358571\">Ambre Mariette</a>"
+          ],
+          "photo_reference": "CmRaAAAA5uJXZBvhJ86ZtOGMvCLKuCEE0GAuOtHTR5IqvMnfyo6hyMraTiuEfKhVoTe21ZnZcKSZsbXtlp3SyfqGue0K2Tx4Tz_oaHsNS8cGnlknCdgH5pPmheaPWnEjzhMLXQ7EEhAfQV9yHNzxlWgFkjIBpUzoGhTJvBsnBR5dfg4XrtEG1ircfr1Giw",
+          "width": 3120
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.fairmont.com/frontenac-quebec/",
+      "mood_params": [
+        0.0016187806429587561,
+        0.015913233315084485,
+        0.03482215973101436,
+        0.0524941938452801,
+        0.04667740201802764,
+        0.08384550697516245,
+        0.05928099444700917,
+        0.0018535604171023617,
+        0.06326481957935147,
+        0.01856380704412193,
+        0.040039241992076924,
+        0.021155896832242508
+      ],
+      "popularity": 0.9450704428135468,
+      "num_google_reviews": 14699,
+      "top_cats": [
+        "hospitality",
+        "food",
+        "architecture",
+        "engineering"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.7281559626612032,
+        -0.8919472383663603,
+        0.03956616518096545,
+        -0.7058046849870471,
+        -0.6737315799096759,
+        -1.0006079915167323,
+        -1.7028686538082234,
+        -0.8859332151012737,
+        -0.14868215079680183,
+        -1.5752751608754227,
+        -0.7699886319907512,
+        0.9621420576263915,
+        -1.6235676466003683,
+        -0.8023003576234542,
+        -1.1647732998216123,
+        1.196679797256216,
+        -1.2691598818454006,
+        -0.7400564108405385,
+        -1.0845680421719939,
+        -1.0810771031001154,
+        -1.324437743739614,
+        -0.6921685631956033,
+        -1.0694051044797097,
+        -0.7527459445960076,
+        -0.5971152049262921,
+        -1.1578543072971499,
+        -1.3091724613191988,
+        -1.3381065957150697,
+        -0.8256771549741018,
+        -0.668228385169278
+      ],
+      "global_mood_params": [
+        -0.6295232527241859,
+        -1.0370090843689916,
+        -0.5052496035869942,
+        -1.1335136897087663,
+        -0.25589168338079094,
+        -0.8788760482135138,
+        -1.0223326928828533,
+        -1.1060915792607247,
+        -0.7744777074627808,
+        -0.9776535456180653,
+        -1.1939282198171224,
+        -0.3280384572774637
+      ]
+    },
+    {
+      "name": "Montmorency Falls",
+      "orig_name": "Montmorency Falls",
+      "place_id": "ChIJqwAQnqK-uEwRIxnWIPF1QtU",
+      "cat_params": [
+        0.12532928290797427,
+        0.07371954795749683,
+        0.132631856937542,
+        0.1265018155467444,
+        0.292416774054209,
+        0.054980140850787285,
+        0.32082842417570623,
+        0.08577601106713356,
+        0.29572588062862715,
+        0.258152374235612,
+        0.16757781691454005,
+        0.07420189726598439,
+        0.19654945661477038,
+        0.2900239544602742,
+        0.2130108707194273,
+        0.14130825013417597,
+        0.4608583913413731,
+        0.1897786775236463,
+        0.10704742796295041,
+        0.09960747228187684,
+        0.4840632087563925,
+        0.2155698288750098,
+        0.18133158657007914,
+        0.09231525157927982,
+        0.0028051006512814346,
+        0.30128503324096484,
+        0.24656109778329346,
+        0.41880080889861265,
+        0.3393668608470502,
+        0.3349313161206322
+      ],
+      "noncat_params": [],
+      "quote": "Towering waterfall with scenic views from trails, steps, a suspension bridge & a tram.",
+      "phone": "(844) 522-4883",
+      "int_phone": "+1 844-522-4883",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.890804,
+        "lng": -71.147684
+      },
+      "address": "5300 Boulevard Sainte-Anne, Qu\u00e9bec, QC G1C 1S1, Canada",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118292662600885622988\">Jisan Samrat</a>"
+          ],
+          "photo_reference": "CmRaAAAACvqIPfy24HBc-IEf3ER1TXflkrbEXZwMY7RJlK-HAek1mV5BjuAbpiwmCwEcfeL1XqZuWIXE0S63Y07U1XnBt9Pe-4HAGoQ6tanCHCB1HtEhQBz0J0hm-tUkKjs6nuzGEhCmJZ3eflFCEGF2yeXP9JQoGhTc_uvokFzjM30-R5OfA29jmL46VQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100018377218357117333\">Raul Garc\u00eda</a>"
+          ],
+          "photo_reference": "CmRaAAAAbcCrHF9p2GFbHK9lTuNKaDsujY6-hh8r6djHeJ3q71UJrPV28UYcH9adI-DsYIsYj2Msb6JwwJgq4E20CNmlI8o8D1g5ijdqxAAIw0XYgtzSYlJ9NFSNaLAWqbVe0ezQEhAFZED8Hg212UdPjfAYF_1WGhTUsIVow-PsaQ-meEA6Xi73E_77YA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110884734307199299197\">Ambar Colon</a>"
+          ],
+          "photo_reference": "CmRaAAAAMA6WkGsJnCNAC_ghHqA0RvFgMIf_ChabXrWxWs2mE5RKu_hfIzNZYnI1xeU4Ttm1qJKQA-gxNkuYLPNXQchRLskxEro-mhuEC9k06XLJtPSrbnFYPU7JZfVh6v-_f2j3EhBjMIZwlsXWgOTXBRa8lQ1NGhTNuuqHk-Yf9iBz_xPXmKK7NS2B1w",
+          "width": 3024
+        },
+        {
+          "height": 3333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101506400271390830980\">Mariko Ishikawa</a>"
+          ],
+          "photo_reference": "CmRaAAAAwiaFgFwW4hiLBki4S66GDwtXnIZUpjM_3DAEOT00-3hOcycOxQMFwR1l3wyshoASfpFm5Q4geR3CH0KFGjPBTnr_znrjNa7wd-B_GNe9ZF_Al_T5JEFoZjtypClpBpItEhBHjL53VChoyuCp2yc6TGFBGhRXjPXlJEiid0OoN4mpSqNZ8ajufA",
+          "width": 4999
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112945067101068557103\">Marcel-Andr\u00e9 Thumas</a>"
+          ],
+          "photo_reference": "CmRZAAAAFnRn3E3-859dqk9Bv-uf8LB9M9MgoBS63CB3WLQVMeMP252_TiGMZx5BmKugZjBwk1SyR42WYiv1-80kIY-Y6p2B3mPEw2dafoYUo05bUBAyMdhWWPELw6wYvUtRbaKlEhAC1yWwZySwlRCPFV86-V_sGhTrkhoX5_dbHPhgqVo7SZhtVN6Nxw",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101628535512605466793\">Michael TonNu</a>"
+          ],
+          "photo_reference": "CmRaAAAALb9-5PYRmhW6FbDFYoEGOAQlKF21M85dYyQJIsJP7RRcaBOqdL0233U6GTIdXfgTU2kv9YIzfLEkEwOONGCNw_TQIFHvIHnHEYStnBTMHYD-y7ppLFJ3hFeQlgvkz5uFEhBxLvJ7sgScdjSHeOqFk-GjGhS5oWVJdH6tzUnIUrVDtsHZEJRYyg",
+          "width": 4608
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112619085829362428432\">\uc720\ubbf8</a>"
+          ],
+          "photo_reference": "CmRZAAAANM7-5wka-H8pyLveJdkCcL1hGrjiG8bo7vgoV2XD3ipgcic-Tus9G2dz4gmPeN5I_vO8JnX5qi1nwjrotwsboHjEr81nEw3RauSTMHwgBBtOaobZXOk-5iMnJDIygToxEhCm7mm-wkGSlBU6_v2c9nLoGhR3JbPa2CgnPzq7c2ikBeFwhMRkhQ",
+          "width": 2560
+        },
+        {
+          "height": 3269,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111265514156293829610\">Olivier Morbe</a>"
+          ],
+          "photo_reference": "CmRaAAAANfTVmeuMZo-PUN-ovnBG9ARfSYRl8XDmoJ3WkZQBRoHts5PqcZNc-msuCsLxTINTdExxctye9GYI6oJZT8IHs7NO6BMMgZcuI1v4wrt6InTTZqAC8ll0FJ1ShtFwINugEhBWiqhWqtchn0ALiLy01BlqGhSWX-2Kyrn10SP-7qStjXA2MKkf0g",
+          "width": 4894
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105661771260836643925\">Thomas Kelly</a>"
+          ],
+          "photo_reference": "CmRaAAAAGO1vwt2uXYvZ3YPuYp2IZv93pdEbE3tcreT8QF1R7_VVKZ-uy6OpAVH51JIb2AbUdb2w_qUBfnMAGOwYOrIsYoNP8TbGC2xrFDnCLUMw1MmtZDI-tjDON3TcsRrAZrDGEhBJu9jHMK9oJUYijhEzUIr_GhQdUNsWZRAXMK1ln242KrC--CW40g",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107847744631406482996\">Sabbir Hossain</a>"
+          ],
+          "photo_reference": "CmRaAAAAcWEkaTyfUksRUXAfyV4nQfcm1K3vk_mpCvwyu_V6XhnLyxSDP3BEV9ffx3qW70oF39DDHTF2-JEd_ayMTEPb5RwMcqbe2ZA8DG9LI4jWZxerGgdrz7TKe_TITOsqPFD5EhAljgC41BF0JpXwXbCV2IHLGhQdU_cKCcJE01wS8kKBkoyAAz1i5w",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.sepaq.com/destinations/parc-chute-montmorency/",
+      "mood_params": [
+        0.014623661351039152,
+        0.036512642931831873,
+        0.05377033698831952,
+        0.11249935854473098,
+        0.07234820306376932,
+        0.1412176383496508,
+        0.11327956621765528,
+        0.01672059919601657,
+        0.1285270017830442,
+        0.0358134803928304,
+        0.06046288259084978,
+        0.015527868736135103
+      ],
+      "popularity": 1.0,
+      "num_google_reviews": 18426,
+      "top_cats": [
+        "fashion",
+        "engineering",
+        "hiking",
+        "walking"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.4354457573120375,
+        -0.46075326405761147,
+        -0.9038490805652027,
+        -0.7487170153474907,
+        -0.07675523930163468,
+        -1.2026443940039366,
+        -0.8243228259179165,
+        -1.3922622616341978,
+        1.3187008933040245,
+        -0.6720191413644127,
+        1.6705592142377343,
+        -0.6334227140125841,
+        -0.6156564633416817,
+        0.6193808984228397,
+        -0.8386591572550127,
+        -0.34047044158042844,
+        -0.04496308554165692,
+        -1.0892909264879482,
+        -0.7498860353442678,
+        -0.7182288510755557,
+        -0.26098577256518507,
+        -0.3878733326765891,
+        -0.8536276772016566,
+        -0.7080190034000049,
+        -0.712649829280202,
+        -0.3950566748324905,
+        -0.40875667116172465,
+        -0.010606640547105296,
+        0.2424312076480551,
+        0.03575922466581562
+      ],
+      "global_mood_params": [
+        0.24546942060354557,
+        -0.4198710403727597,
+        -0.16409473265095345,
+        -0.20844669492657944,
+        0.30751168123774403,
+        -0.15742052093044775,
+        -0.0004311640674471102,
+        -0.5132575489025606,
+        0.08885512807075248,
+        -0.3072764461007405,
+        -0.721321033677112,
+        -0.6720959850165588
+      ]
+    },
+    {
+      "name": "Plains of Abraham",
+      "orig_name": "Plains of Abraham",
+      "place_id": "ChIJn3Ir_NSVuEwR6Vri1JjUvsI",
+      "cat_params": [
+        0.19036898559153168,
+        0.09494651012649204,
+        0.21270003724259223,
+        0.21610781118520334,
+        0.41298657488238744,
+        0.14718047186165578,
+        0.4029727786263609,
+        0.22157325672379455,
+        0.1933455942160522,
+        0.24955366273439172,
+        0.056756966009215155,
+        0.09816394829902636,
+        0.2180809975711804,
+        0.35620071250584356,
+        0.3069753737167573,
+        0.1832513308452895,
+        0.4940097824170701,
+        0.38236152146808366,
+        0.1663305728155532,
+        0.1021654781137093,
+        0.6351067205951161,
+        0.2662249734635217,
+        0.2231602406385198,
+        0.11653238319919147,
+        0.03725170258282173,
+        0.3059774882138572,
+        0.32853369389944337,
+        0.4886151455212635,
+        0.43907374650474873,
+        0.4117913348634655
+      ],
+      "noncat_params": [],
+      "quote": "Set in a historic park, this battle site in the Seven Years' War features gardens & an ice rink.",
+      "phone": "(418) 649-6172",
+      "int_phone": "+1 418-649-6172",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.8015014,
+        "lng": -71.2173968
+      },
+      "address": "Quebec City, Quebec, Canada",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102929980580111717738\">Nathalie Thibault</a>"
+          ],
+          "photo_reference": "CmRaAAAAR8M5rAymlziQhNHCuK52t15kKWDb8oj-FZd0kWVVvaD_m7pgXLXtRwVczpBXPMi7YbIr66OFENLe2GVkGNZbTLJC1odEEw7VlEjO4zQLcNiQeSZGXeK8wI9DYiu1kVj0EhB3eBpWq-LBAVAyOKTusEEaGhQvtC7gsYiors-ZyGPnvm-U587iCg",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109719864182424064864\">Veronica Almonte</a>"
+          ],
+          "photo_reference": "CmRaAAAAv6Q3_Ynbt4ZIGbQQcIbAtfL47yu5NFpIMsNqai1vSvWMFfS-FIx4QLyDa2iaHUwSWn6cpseCiFA5KbkVSdYVYNVoQsIN9sRuUpVDAjgktqK8cg5ixkRApTPMhZFR2sMWEhCnGfYSIwvL9JYlRkqDXBVfGhTaU5LNRpchTZzC3irDYQo4ozPC4w",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102595638894339008111\">Mario Zaltz</a>"
+          ],
+          "photo_reference": "CmRaAAAASXtgybQfQyIfoy09Lw4SDicTo-7jBuw_qEfpE0uMk7cN-YehXn0Tc7uJwOdP1uLZ8gIbPU37yo49EksjtVwUtolrK7uYE2v3yT4SLwxET4B4_DF2aAEXOrns_oJ6pLcfEhB-NtqXv1475RWz46XwT1lXGhRNBXnTocRNbh7FFYH8rv9I0j8Btg",
+          "width": 4032
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108683558929091921192\">Marlene Beadoin</a>"
+          ],
+          "photo_reference": "CmRaAAAAyrYxJdvKBaf_wjy0r4GDNa34tuZN8a7BymcgGeq_jtuNw7i2nK2owvGknPVsW8xspNpG7IsfQ9mTOAWOjsHmyim1fefYNBKEu6K4GQWL6ImPaDkpMVMeELlBzVeDB_doEhDLIJ7SzCKEXuaMc2ozPjiZGhSzOL4pei7krPkqGygvFpoQZ8H6iw",
+          "width": 2560
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105721301898220037659\">Nicolas Martin</a>"
+          ],
+          "photo_reference": "CmRaAAAAyAwUDZ0ZQB9AfjJo5YwLq5jdCHjRrX6RhzNEnTUdVn_-VKsNWbi2Brt0K-XmD56FeInixed2cukxmkKZRPhAp5X2-o9jcDYcmC--h8sV_MugVB0VojJkgsIqnJAtLntREhCDgZlVn99zEeFR--uc64ntGhRDvPe7PUvHhzV-JKUpJM0z57yjFg",
+          "width": 4608
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106589300261397746207\">patrick m\u00e9ry</a>"
+          ],
+          "photo_reference": "CmRaAAAA3UPKCU04QaMmdfvrJ80iree_3BRpK_5_ikULvpoTUjX5a2HGYlx2UVYH33O1_noQLl-dY3b3TvwkyGM3ky5VhTw9pfn-c8zFZA6HoJnPXFnQUK9opos2E2R5tAnMaktTEhB3Cjdztn_7sQdo2Jmnu-PuGhR8gOUMWwac_G0_JqDrolM2vu2tgw",
+          "width": 3264
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112209662041098831484\">John Krippel</a>"
+          ],
+          "photo_reference": "CmRaAAAAA8Agm5PuSAGwVCGS64hVipswJ3v_yWN6puhnhnf-12gPRZVF0Amv4UiFSzLxcopz_KwjZrxBo52oXxuqjUxDgfHFasjWRvJlO3LupIQJk47KPlCF8IdwsRl0Udlgd0OOEhDaNevu6eFLvXk4Nv0soZY1GhSZHtWvrldsJsEwpSdmiTvXmWtGrA",
+          "width": 5312
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114359873098910343589\">Chris Smith</a>"
+          ],
+          "photo_reference": "CmRaAAAA5oBJOtrYvMHJ8_As4aRXaeLQGArRCSzNX4zBVn0bm6vQibGi_EZfaii-EjKzFgTGbZiLGXyPIykpn9ItDtKePdfip9xP6YtGJ3Qw2yrTziyAKQp5aPcUoF2S7HjpbrGwEhDmGnGduCEzeEJgfC4zVYblGhSeUOgaWQCrzjjB43gmtpWCm7MZBg",
+          "width": 4618
+        },
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106876923217563240780\">Plaines d&#39;Abraham</a>"
+          ],
+          "photo_reference": "CmRaAAAAa52-_0KT5NQkiIpNPonklnmpj4UaSbnzsoL3k_Wum1_Ci5edlUr-_XvxUg-bTevrQcq0zmB5OvwvrmH3thi7K63tnAqqNIQB7YsjyHq9Qu-bGRj8PFTCNSqqk2L-GCZDEhDs4mU_BPXftn8-izGUpmjCGhRD45RjnKenjItqaE75s5jnaOJ1Xw",
+          "width": 667
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117347997036818922798\">anthony courbet</a>"
+          ],
+          "photo_reference": "CmRZAAAAf-9IxiJlZa7AIOq2dRQCajbjX-mOo9NXIwsnfxn4XZR53hXb7mN-ut75H44sFcrRhrCN2VsFa9S1Ip3xR3hWdOjaFPZE3DSmkUCLi04f9pmmATeC3JFBgoWPFpvVqP5xEhCO7H8lJ1NeZjFQUwLFIdMzGhQ2bfbxm5CSq8Tw5zwxsnDQkhJy6w",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.lesplainesdabraham.ca/fr/",
+      "mood_params": [
+        0.007075511922017089,
+        0.05044148091011072,
+        0.08412742039987996,
+        0.12462799442404637,
+        0.08093229809188149,
+        0.16897174772697596,
+        0.11881788732812461,
+        0.023842177162818865,
+        0.14697428628813683,
+        0.029750934652540976,
+        0.06876939242178642,
+        0.018295429245157886
+      ],
+      "popularity": 0.7259322448133333,
+      "num_google_reviews": 5117,
+      "top_cats": [
+        "hiking",
+        "military",
+        "walking",
+        "beach"
+      ],
+      "duration": 1.4375,
+      "global_cat_params": [
+        0.35370889213415196,
+        -0.20694849160573237,
+        -0.11730821084973908,
+        -0.10837278029774017,
+        0.6669609099312385,
+        0.027369714435520297,
+        0.04984382366758954,
+        0.11587603260526612,
+        -0.1964277632620429,
+        -0.7634461361203828,
+        -0.6086360420204383,
+        -0.4058505998795169,
+        -0.3829825242785071,
+        1.1056495799010795,
+        0.18311185825917786,
+        0.1507621887984949,
+        0.134917759787619,
+        0.9250526597764254,
+        0.006838470574818178,
+        -0.6672583457868335,
+        0.4756546746363344,
+        0.10699023000195114,
+        -0.3820168316312133,
+        -0.4821111106978024,
+        0.27914773700541584,
+        -0.36025072566022004,
+        0.35931950625670406,
+        0.442934411066523,
+        0.8443047254182164,
+        0.564258969616169
+      ],
+      "global_mood_params": [
+        -0.2623841765058494,
+        -0.0025767593722571267,
+        0.3824732423384487,
+        -0.021466110840483704,
+        0.49590891950179444,
+        0.19158787627185328,
+        0.10437936377202882,
+        -0.22927942579729188,
+        0.3328884395828873,
+        -0.5428862311040394,
+        -0.5291067113158394,
+        -0.502907059456412
+      ]
+    },
+    {
+      "name": "Aquarium of Quebec",
+      "orig_name": "Aquarium of Quebec",
+      "place_id": "ChIJJU-AUz6RuEwR3rx7gVATXEM",
+      "cat_params": [
+        0.15802228760007883,
+        0.2359903469379617,
+        0.1331734246163396,
+        0.1401069099868911,
+        0.23533968754756984,
+        0.08618662047379345,
+        0.3314733439099556,
+        0.11884202231679027,
+        0.16106560886239782,
+        0.3170295306270618,
+        0.08084727347137206,
+        0.10743571059303343,
+        0.24804163268673837,
+        0.12159318070277289,
+        0.23417163259010154,
+        0.13840280547356446,
+        0.3893291641007792,
+        0.19711201939819764,
+        0.12885229555895203,
+        0.13976747465608433,
+        0.4148036450804803,
+        0.22547709464545804,
+        0.2019658310439218,
+        0.1242912121852515,
+        0.008896676210083786,
+        0.2812491526669113,
+        0.26344755914164303,
+        0.35145096171055934,
+        0.2528096868560085,
+        0.26381064808863003
+      ],
+      "noncat_params": [],
+      "quote": "Indoor & outdoor space with roughly 10,000 animals, including fish, marine mammals & amphibians.",
+      "phone": "(418) 659-5264",
+      "int_phone": "+1 418-659-5264",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.7516292,
+        "lng": -71.28876199999999
+      },
+      "address": "1675 Avenue des H\u00f4tels, Qu\u00e9bec, QC G1W 4S3, Canada",
+      "photos": [
+        {
+          "height": 4912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111918876784492303492\">Aquarium du Qu\u00e9bec</a>"
+          ],
+          "photo_reference": "CmRaAAAABW3sXi8HyrK4NMJ_Sy_pjPD6B0pqmaPScXn-wzp2g4S7sqyncQEExALmtFQEizyjnbs3Cxdn5r9e-OPpI8J-wKXY6AC5GDQnUUtfbxbHUg9172-LLEXledQOddooVCaLEhAR4lqY6VKJgmN76fPj3xvLGhSMMk2IkH3rAAtX121KB-Z0FxVWSw",
+          "width": 7360
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103880040739319796665\">Chris Black</a>"
+          ],
+          "photo_reference": "CmRaAAAAXHms23SkOJEXH5x-rVCr5AP9Z9YXR1EtyDx-k7soMhiY9dlz9Xrys76zi2uyfEGNo4rg564r7U2gMXpNB8py4EGvNy34GCVWs98J3A-jCaLJE5NfTTQMB7R4VG6op6AgEhAfSXnAJcDtTESrqAv0QxYeGhTF6nrhRSJPrnMUxD4P_MNIrKEo-Q",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107703595149122728030\">Nancy Michaud</a>"
+          ],
+          "photo_reference": "CmRaAAAA0kmyeTPpxI-nO7A7q4F-pBg68PL-85EddTWZj4T1JeF_72d4Rud8cyzfOGv16cECzDIuxBMjO3S4W8Gw6zw_OAq2_qmsBakufhQhHACE4bkvqm4-fpv9Nhy9qpfjCfcqEhBfZrEGQsSbc3mllLjIb0J8GhRwmzWwmLZ-l7fx5w2QP_o10sud4g",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108064194463894889367\">Laurel W</a>"
+          ],
+          "photo_reference": "CmRaAAAAZMe7jLAL3ITFP6k8uTSpbC63syfnJgaZ4hLTimrtyZC7vj-9It6tCf_R0BNuHSiUV-SMm_KRCc0SpDhqMEZmMniP0FBSNS5eLKH6IcXuiVmcUPatb3LpqQrkTM1EB5edEhAHmNnIHfGoNG2NWiuNZDOKGhT7QBht6uUpQA6KR3QAAQqbj69miQ",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105834559890484455659\">El Hamdani Chaimae</a>"
+          ],
+          "photo_reference": "CmRaAAAAJejrnlRtthiYbX7ynw_6juQ0GhdXVmfUDqNFoWvnE_yvFni6DlYkTKa1Qn6ngkiXGYwe7FvB0zZUVOneNtOE7hwuth2X4NhA0x6s6W9KUSX3G_46fzwRQjrAGcQTe0ZvEhAfsDItwR1A6v6CIEEvi9Z1GhT0mFBJ9ZZ2sdMOJGoEG_vI19nyNA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104976596467659914843\">Claudia Picard allard</a>"
+          ],
+          "photo_reference": "CmRaAAAAZPYf0pR5E7UJhEXvMeL49AjfEJtyrtSPm2o46YikCmnRpSN-KeDIx4iZM3AsDmeZta80Crmjr82DwIekhtGDuR62OWangSjvuy5lUVuSroPNJNQvFaS9JQ4nVmk_M2EzEhBA4xObJpOOtDpMnFXkFQ2eGhSfGAy5u9tAWZOJB2u2go-IEiHAtw",
+          "width": 4032
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110235079946779612355\">Denis blouin</a>"
+          ],
+          "photo_reference": "CmRaAAAAsLU68ULtgUvstzFtUYQVb7I9xY5vhrpnYMX8eJMbB99Ip-1ya8T4MpLxUYdoKtuwgyAFHw_czUb2Oq0Et3fOae-4VBhrcbiUemdEXoN8L6M19gGBOyz9wWrZ57gyFjhlEhDGQBBK38gaccuTo3H8mAzXGhQQKGfwPyrb9fxrp6w2CD27YqOjlg",
+          "width": 3840
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115289283647285446423\">S\u00e9bastien Bouchard</a>"
+          ],
+          "photo_reference": "CmRaAAAA_P5rC0yUaKgHB0y8JP_Rpon1b4JkQx0g83uMIOgMCtqrLHj1iO3C8M-LGiXHe7FrFz_YdQVFm_KKbLlagFLfL0rBfHbeGccxr5g93ZzcvZEvBzEaqr9iogONmA2-eWi3EhARNPFKcfQu34EYEeISfMCUGhRrsKi_DvN9FOBCJYbeSOiEMml5mw",
+          "width": 3648
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111199965414833936176\">clochettedor</a>"
+          ],
+          "photo_reference": "CmRZAAAAKZYtRVIkh34VyHDqmOmntYsH2SSWu_HIy0zfxQV0asBt5-H4JxoabxsHn-dKqonloLMgYQWx_TgvqTg157pmWrTHhchbcWu9ztRr2YPrrGJBY4zuP7jkMJ32j5IzF8VOEhD1lAFVAmCzAy328qILbj3NGhTQULvMil7l1tCpHYYdoQsyy2eREg",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108749129188365299483\">Andrey Chebotarev</a>"
+          ],
+          "photo_reference": "CmRaAAAAr0jNfOAy-_F0QJZnOOHQodfjkLXTE9PUauw0fmPAmltsosdmVvMVEAjA6cYhPR6VjanhRecXuEmw9wATQXGpoubjqEl4oCyn_wftwqWpUp3FOrZgLWBV-4dPLb0VHnKMEhAqJy1w56ochsNBFVGK0HOCGhSVMmArhpL5YFxluIjISGNec6eJXw",
+          "width": 4128
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.sepaq.com/ct/paq",
+      "mood_params": [
+        0.016489429959244073,
+        0.062566758251581,
+        0.019895930506696042,
+        0.10606847451601525,
+        0.02727588098972615,
+        0.13500949667160692,
+        0.10575580132427996,
+        0.028201149387436463,
+        0.08931551544455062,
+        0.051758076839208314,
+        0.08567103959384594,
+        0.0349266075966894
+      ],
+      "popularity": 0.8205212910741272,
+      "num_google_reviews": 8352,
+      "top_cats": [
+        "animals",
+        "movies",
+        "amusement",
+        "family"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.03876748861412684,
+        1.4794727034139754,
+        -0.8985290506673286,
+        -0.6514920056817738,
+        -0.4288264104785921,
+        -0.7863290750654256,
+        -0.7110413486767105,
+        -1.0250374511292573,
+        -0.6741401486890826,
+        -0.045999595542506704,
+        -0.11318311920850337,
+        -0.3177949261779246,
+        -0.0592221857461165,
+        -0.6182531697045482,
+        -0.6085568052395164,
+        -0.37449868173004675,
+        -0.4330836875522427,
+        -1.0125869487694121,
+        -0.4715560361642229,
+        0.08199434933179636,
+        -0.5987652331863204,
+        -0.291086621763142,
+        -0.6209801368793304,
+        -0.4097333934029751,
+        -0.5372592399247611,
+        -0.5436713860893456,
+        -0.2505319801702699,
+        -0.44813741140852204,
+        -0.28006501169113274,
+        -0.4532759789473331
+      ],
+      "global_mood_params": [
+        0.3710018187046549,
+        0.36068461950450087,
+        -0.7739907988711411,
+        -0.3075881370346661,
+        -0.6817016223299127,
+        -0.23548800806188716,
+        -0.1428154271113718,
+        -0.05546222449931613,
+        -0.42986126391928714,
+        0.31238121944556807,
+        -0.13799916746304297,
+        0.5138046572056879
+      ]
+    },
+    {
+      "name": "Museum of Civilization",
+      "orig_name": "Museum of Civilization",
+      "place_id": "ChIJW_IFg-eVuEwREN8gqw0H_DE",
+      "cat_params": [
+        0.13307604565418596,
+        0.08557804411633667,
+        0.2665217594420575,
+        0.3753478484048512,
+        0.1574294379621686,
+        0.2066243330183466,
+        0.44423230155386395,
+        0.3198842372324025,
+        0.1624563823991675,
+        0.3547517321713786,
+        0.07819050771466401,
+        0.07541012710200957,
+        0.26264787808990253,
+        0.08887037855160396,
+        0.4136098422094524,
+        0.15103252850164298,
+        0.4277042520718042,
+        0.3300661583583106,
+        0.15668802062433168,
+        0.15094937135380526,
+        0.3659633476435679,
+        0.20233283692523318,
+        0.3210060356198713,
+        0.10703948570483544,
+        0.05930536509723677,
+        0.275301358464938,
+        0.23116750800290978,
+        0.3816046849957849,
+        0.18814204293505124,
+        0.18943261877630813
+      ],
+      "noncat_params": [],
+      "quote": "Exhibits on ancient & current world societies, including First Nations, New France & modern Quebec.",
+      "phone": "(418) 643-2158",
+      "int_phone": "+1 418-643-2158",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.8152288,
+        "lng": -71.2023284
+      },
+      "address": "85 Rue Dalhousie, Qu\u00e9bec, QC G1K 8R2, Canada",
+      "photos": [
+        {
+          "height": 390,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101136764899831263374\">Mus\u00e9e de la civilisation</a>"
+          ],
+          "photo_reference": "CmRaAAAAIn79nZyj-mBRJBUAvtFP2wABzQ7OOhtYLdW3dp2X3vCleV2scpd5zxSyunf2t-CkoslwW7FEssQ_9xuT2khiU300oUsaEsWmgtjpCXj2on0GFjM1O0rBraMMSUOdKDC3EhBiyqRv3KztUgaEMERHDBC5GhSdbjF1_hVF94I8szHSmnyxBszyxQ",
+          "width": 690
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101402164093437530516\">Patrick Au-Yeung</a>"
+          ],
+          "photo_reference": "CmRaAAAAjV4LnDVUjOtsn2WHTUWyy22WZv_Rn_kA4h27pU7loJeJQKgoo1pcgfjjVTVPF7dLzzmcquOPNKI3v5gfH4LUJfTZwp8tXICN6vJk1GaY6yzXEpOe4qyyevS16Kh6AlhrEhBuHSQ9ddfT4s7yqVJ9tPXdGhThkMYKtobJAra99ykzl19LY0mReg",
+          "width": 4048
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106582793521970524215\">myr oliv</a>"
+          ],
+          "photo_reference": "CmRaAAAAsEaTb8poej4Dmzmk9nDkiLY54Z1A9J0OBO2EWhmXt6DhLCEZtoOHmRbsCQGMC-27VtS4U4FzXIMa4334gHbjy21jjrLPIh-MRC9dDAWnkAVZhRMQ9oYXdnLpTJQfYHxnEhCUtOwaDw62wS-5PAvvJRoGGhRfdo2Go8SO4ZEYxyIJh-WlyFQYLg",
+          "width": 3024
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106515690430864731933\">Monica Marovich</a>"
+          ],
+          "photo_reference": "CmRaAAAAveWZCe3rHKpwZT4nHRJGSEM1-AYhJ6XSYhJZZIjnPdyPzz4oTy1Hj0hATS3g7C8nQTTWEPJWJANRbvaUeK3jj11xGX6MhW6sn_UfoNhao2v5vZxdXyZt7E6Y-jaoe4mnEhDSV5495OX3pLtyioJgVXs6GhQOLyW0bo7he5_E98u2itbUpGBVvA",
+          "width": 4048
+        },
+        {
+          "height": 1992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102736721041413187114\">Yves L\u00e9vesque</a>"
+          ],
+          "photo_reference": "CmRaAAAAWtkfhiPvZoWAMLkp2n7V__OtTBqL4xu2f7udVWEaaZoCviDYHukEldpeis0_2l8PAHHN25fHmvZIIxHGwlZro6IBYSkTUx_JH_3oWoQ8L86c_S7-NHZFAu4R6lB90Fb8EhBYhwGXxxaamAb4PqhoGZemGhTtw32xQzW6m7yqa5efF3bGHaZRig",
+          "width": 2858
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105277716869637241656\">Fabiano Yamada</a>"
+          ],
+          "photo_reference": "CmRaAAAANGKhpTGg6_FAye4od-ENzOaj8Q3yhCaOOhgtTuPG4fyDJtZG8D1BY-WrMwphOO4Jzioq8fAL0Sdlxjb4f-4-qXepdxBRUUVBJOkKFtFvS6iM6lm_BAFuRJ9m1IaLjLkzEhDQZn5CiSDAbU-W5-0y4iuFGhSV5uy4HLl-EEpxSqhVSgAhH1Dwtg",
+          "width": 6000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115007118738179816600\">Mario Cavallo</a>"
+          ],
+          "photo_reference": "CmRaAAAA4HSF6vx8CCX25ueY2vORV1-V2Uvvs2HSMBxJsAL_c5mM7g0D8YZDhHO6a4Jg3sUnd1Z1IVyQenGkcgTywY7IDC1Vqohy11lRj9fgLNPllIJdBFa-9or2E1wkDysb0h6fEhBZsSaeB4TYxdvHhwLwE6tdGhT1x-tx6l5LS8grPziOkyZCY9Re2w",
+          "width": 1960
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101250509879758567819\">Patrick Milot</a>"
+          ],
+          "photo_reference": "CmRaAAAATTN4vwoot1R4E9jFS-rwJ45YjXlPDp7uibSAcHW2RTkcmjSeZm1gJv3y-vn0PuiPi3EAs_cSBmuKvxEbvY82Wa5sZ7nQ1DF-Jk0S7fcowg_Bf21jjVykcFw5RpHPGPIlEhC1Fg2sz0vhC90sGwVhlv2XGhRX48s3Izo7zL87Ycb9ftGm5IkiUA",
+          "width": 1620
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101540219632219513463\">Identit\u00e9 Remarquable</a>"
+          ],
+          "photo_reference": "CmRaAAAAD32BgIJgVX2pSM5biH48ONcyOFo0gsf3ENRJpfj3okAgWqRKQTBacYD4_mb3i2VnnHMBWh1EZPyicy9osWCFiT4k2ZSeEfWMe7igeiO3kCxy0nVrUSSw-_IACHVgxofAEhCVobH3XPwRyIEhQWyMMG1uGhR6n3Dc63hrrF_sQ5xSICJfZ9ycfg",
+          "width": 3840
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113602746511236685981\">Emmanuel Sangoi</a>"
+          ],
+          "photo_reference": "CmRaAAAANnffh7cAQK7N8pOm61gOn1xLRUSK6XiN5T7Syiy5n-S6FI6tm0dOyHr4J_4bA37qGo4PZzXdYTE4jOw9sdf4qGHoCWv6CAYmi-Ldct33jLpt4XlXKjtviqMT7GFHny8LEhDqUOAkzW200GTBuPVj6jBQGhQfpsE5KKVRw18clN4tajuFFeIZ3A",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://www.mcq.org/",
+      "mood_params": [
+        0.015418913607182496,
+        0.09427976427729466,
+        0.01863807720851933,
+        0.17208744454777766,
+        0.02742748925667389,
+        0.1637946047321383,
+        0.13926454312474834,
+        0.06554722640458174,
+        0.07349250392847316,
+        0.049554163512248166,
+        0.14554090653838442,
+        0.02499550231007841
+      ],
+      "popularity": 0.6914556408497867,
+      "num_google_reviews": 4212,
+      "top_cats": [
+        "history",
+        "culture",
+        "art",
+        "science"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.3414509574115298,
+        -0.31896458533598276,
+        0.41140349493735245,
+        1.0295916951390385,
+        -0.909403722619965,
+        0.8203905971287394,
+        0.48892085047285994,
+        1.207699020120982,
+        -0.6535580531100391,
+        0.3550869535627247,
+        -0.16782344961754542,
+        -0.6219479275778272,
+        0.098615688457023,
+        -0.8587012412973748,
+        1.3426562147455094,
+        -0.22658079017668778,
+        -0.2248588426867197,
+        0.3780629741223383,
+        -0.11624466816289908,
+        0.30480342884075207,
+        -0.8369597647316245,
+        -0.5171890230891915,
+        0.7211775965510575,
+        -0.5706649700997447,
+        0.9141238328464939,
+        -0.5877887242155347,
+        -0.5529932838281263,
+        -0.25224711107140646,
+        -0.6704266409394487,
+        -0.9647092333808982
+      ],
+      "global_mood_params": [
+        0.2989754783054378,
+        1.3107750770503381,
+        -0.7966379787960864,
+        0.7101904243906737,
+        -0.6783742385233015,
+        0.1264852151073195,
+        0.4913242056926538,
+        1.4337398745455616,
+        -0.6391788953190222,
+        0.2267301468804321,
+        1.2474016975000448,
+        -0.09331234261726848
+      ]
+    },
+    {
+      "name": "Quartier Petit Champlain",
+      "orig_name": "Quartier Petit Champlain",
+      "place_id": "ChIJVQoHldyVuEwRaz-G5nNKUhE",
+      "cat_params": [
+        0.17507427731802097,
+        0.09782196750619922,
+        0.17746280340071982,
+        0.2668261835664029,
+        0.31095411626953584,
+        0.08428846078078243,
+        0.3968172815339891,
+        0.19040401905144688,
+        0.1868290797724321,
+        0.2933469238478331,
+        0.21023810072325716,
+        0.3210153961866838,
+        0.2556208181858787,
+        0.22336928168119727,
+        0.2718782755988649,
+        0.23307202052374112,
+        0.5151921395117702,
+        0.2585758941188513,
+        0.14749163812074015,
+        0.10719224934646021,
+        0.5649714222235893,
+        0.35204039734300646,
+        0.23553465965885798,
+        0.1460343158494447,
+        0.008313629368927836,
+        0.686371142954769,
+        0.2298502854937329,
+        0.4117245038333401,
+        0.35608376157565413,
+        0.31100452183945043
+      ],
+      "noncat_params": [],
+      "quote": "Cooperative-owned shopping quarter with independent boutiques, galleries, restaurants & a theatre.",
+      "phone": "(418) 692-2613",
+      "int_phone": "+1 418-692-2613",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.8116667,
+        "lng": -71.2033333
+      },
+      "address": "61 Rue du Petit Champlain, Qu\u00e9bec, QC G1K 4H5, Canada",
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108448809743943885349\">Quartier Petit Champlain</a>"
+          ],
+          "photo_reference": "CmRaAAAAHOui5Dfprp-3IZDJPStosvV9PMXufst4TRITLj4fjEsbB2zc2epRe-96k1s9u8zH0P_6cSrh-eV3UOGB4ckbaI14sGrGOzv2gjFR_KTFIAeaa7haT0Qo8mtSZWiY1WUbEhATAdRFZOewAbteclviXrKnGhTKLNQ9VuQb844R0TnvpU5-pqI1Bw",
+          "width": 960
+        },
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108448809743943885349\">Quartier Petit Champlain</a>"
+          ],
+          "photo_reference": "CmRaAAAA-WhHep-p8ozuXB95EhQESeI8WyryujFag_c3f2OQuDXwj3iPASIBtistiGhmFGhv5F655xrhU_dYaE8i1S5_C_pa7fzITERbsQKqdf_XFvAcndllSHvjGtCWab_fifauEhCM6dpTzE-TpQzaY6SaMEUUGhRgET8f3eENON4mDAvw9Vlmc4Q52g",
+          "width": 960
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106076333581587243438\">Joe Schlesier</a>"
+          ],
+          "photo_reference": "CmRaAAAA0rPdvHw9ifFArSjc55VdDYIL54DRR7-Cn8bB9is4NeQP89Cp5ZI5ls9QhtxdKsbvLqPxZhoe1Kscq3g7FBow3bpSJTkiFHpphm52ebF8NTyfxPd2zgk97TXExnZzfEFSEhCtPcx0pF-UL1Fm10awAaziGhS4cGxOHu0s8OUZOO1mfEQK51xeow",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109176670047110950455\">Subash Raman</a>"
+          ],
+          "photo_reference": "CmRaAAAAOk6cooiBZA15OoFAgsh9Re4Ll5bWyFh-3NpS8SWSiHDUpyMIK7-5P2EmxQuBoXVFy3cBW8r0iAik3qAuSKMig2qI9cKJ4uVzOrS42ojn9Js93Bxtqo6a90dQO6-GCXk-EhA6LNH5agHk161srI43gslMGhSkew1J8DUW7dYBlGV5B3IkmDYLAA",
+          "width": 4048
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104402747303084302445\">Manon Cote</a>"
+          ],
+          "photo_reference": "CmRaAAAAFnkglJIurERL_DCa0DnivdXNuet5OTo-n1TZQDgXYIgZAYhcjHNQ3FGfM2gAHFLXhN7FnMJmpOupxEzPI0hyeN_FsQWtnS0WdUzjk6y-gL17Doul_t5_T07ZL5AyNlKFEhAGp4oGiythhNsAlnYTBwg-GhRqbudiQrc1hK6rhnXUwxJgb9erGA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100588552030500609345\">Dariana Vazquez</a>"
+          ],
+          "photo_reference": "CmRaAAAA6N1TheTUil5p7bW8_tP00hSkUtMHfWR0BW2uiJr6UnNk1FkSr4KUIEOz99lvh6KDBvTZdu0b_7EHUoGwDFxk6xXKHCkdkQpMS41_uQX6ClqWkZQ2KCUzgMeDK-kMA7IiEhDs60LyClVDBeRYt0N7silwGhRRcDX-EOtB7HE65Rg9IvdjlNjr-Q",
+          "width": 4032
+        },
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108448809743943885349\">Quartier Petit Champlain</a>"
+          ],
+          "photo_reference": "CmRaAAAA584dVhZdhE82t_WoXqTATh0OlZZwhsxHCx4GZr5GmEFPMtxjWdOLy8YP22L7b50sGEXJfDCHnhPyPh45UhrDM7E0o4QQ17CcEmLS5ZHzuUbI-nd6QEF05w9_6w2wJ75bEhAW6jCniivt_rL155ikyXP-GhS5CQNOiHbckPNTPCvgmE1cvQvl5Q",
+          "width": 960
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118434647672316994793\">Francois Lorquet</a>"
+          ],
+          "photo_reference": "CmRaAAAAtXqpRXYCNSTcO3IUap5uGU8-Ety-QkkckRXXMZsxPRI0HqtG2A2H7JUUEyZ2fxwYnNIVOVb7-OUqNxJsPrs7QEq_pJXyL99iqWkIS_zlg5kIysEkhSk2hcbyvvg7ZrNyEhBfiqBQ5IcGSicg2e7F1wI4GhR3XquDCwnE-FMQLtI1397NW_TRIg",
+          "width": 6000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114369358113168136167\">Juan Jose Arroyo</a>"
+          ],
+          "photo_reference": "CmRaAAAARVKOzdxaXOh0b4z6IQLjQXRGP3-X3XEOgO2VXDMVtimALNAFWjttrVHigUILPCRcDhTz4wmdOCinsVq9Mm6tXVpWlOEhhB2qiiY4-4kMnd01UXhgqesGgsNfKZXH6cJQEhDqAnkKygHc7pNtFqCWKCBpGhSo5ZXrpxJfNXvgdRiP5zQPUpUTBw",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116182442852508211032\">Sun K</a>"
+          ],
+          "photo_reference": "CmRaAAAAwxYgBAOA7Zsz4rxLentWe543KoDtXql6i_1tfh3t5LdTZzN4m-jqIjiVXyJNdefmaBOHknLRfCWQl4f-m52UUpj0OuHUh3g98baKHc-ZnEY1StEk_Xwcp_CIGGIIDLC0EhD2UgmbTk8nBru3VlpvtFmOGhSe-yaVfEB9X7Svb9PFygjbWewIhA",
+          "width": 2268
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.quartierpetitchamplain.com/",
+      "mood_params": [
+        0.01034517927705863,
+        0.05240818964038212,
+        0.10434978614027972,
+        0.14925684095567393,
+        0.1021962620479313,
+        0.18729146971380617,
+        0.10531021431958365,
+        0.029462031958340122,
+        0.1902871675206346,
+        0.03449145862035075,
+        0.06893146737183843,
+        0.03258653424970303
+      ],
+      "popularity": 0.669048584773149,
+      "num_google_reviews": 3692,
+      "top_cats": [
+        "fashion",
+        "shopping",
+        "food",
+        "nightlife"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.1681316270490297,
+        -0.17256746241552473,
+        -0.4634572609063365,
+        0.2540719103058471,
+        0.03758948611631418,
+        -0.8116517954599917,
+        -0.015661959484000922,
+        -0.23028357253701304,
+        -0.29286583860271526,
+        -0.2978082026233429,
+        2.547931258335471,
+        1.710611595425767,
+        0.022679938609292082,
+        0.12960048602599383,
+        -0.19853436389493817,
+        0.7342564868592759,
+        0.2498541222334935,
+        -0.3696981052220282,
+        -0.23363263777172955,
+        -0.5670955289098356,
+        0.13360424871550336,
+        0.94534390046807,
+        -0.24249739579003465,
+        -0.2069043050255241,
+        -0.5540465108212704,
+        2.461292003860214,
+        -0.565335545481332,
+        -0.05657706719728558,
+        0.3433415889258456,
+        -0.12876460556371105
+      ],
+      "global_mood_params": [
+        -0.042394847568552003,
+        0.05634389910735483,
+        0.7465694021169684,
+        0.35822342355342623,
+        0.9625943500272672,
+        0.42195869166681543,
+        -0.15124798423998395,
+        -0.005183611022007921,
+        0.9058608917278238,
+        -0.35865441155073646,
+        -0.5253562640967249,
+        0.3707492500997539
+      ]
+    },
+    {
+      "name": "Funiculaire du Vieux-Qu\u00e9bec",
+      "orig_name": "Funiculaire du Vieux-Qu\u00e9bec",
+      "place_id": "ChIJdUT179yVuEwR1WyXyFB1uHw",
+      "cat_params": [
+        0.13027371894622258,
+        0.05330066462747471,
+        0.14519592471488502,
+        0.10527738228857092,
+        0.24414270437050767,
+        0.05043699298623363,
+        0.36518441487541353,
+        0.09709264961541614,
+        0.3135129816483451,
+        0.3016707008102428,
+        0.08086526348710332,
+        0.05601624023372385,
+        0.1855299150429195,
+        0.30098903709696856,
+        0.30823908069844147,
+        0.1225011308287279,
+        0.4177983877648043,
+        0.2492099509119503,
+        0.09553962565290199,
+        0.10940987598804766,
+        0.467756406332276,
+        0.2554293906006419,
+        0.21032345262239074,
+        0.09788778507304884,
+        0.005653315021006703,
+        0.34219222119812565,
+        0.21570018827875725,
+        0.4209511488170783,
+        0.3005693961982907,
+        0.2949315719216675
+      ],
+      "noncat_params": [],
+      "quote": "Electric funicular cableway opened in 1879 & rising 195 ft. between the upper & lower towns.",
+      "phone": "(418) 692-1132",
+      "int_phone": "+1 418-692-1132",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.8125625,
+        "lng": -71.2039565
+      },
+      "address": "16 Rue du Petit Champlain, Qu\u00e9bec, QC G1K 4H4, Canada",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100300797420588305392\">Roland Krocin</a>"
+          ],
+          "photo_reference": "CmRZAAAA4Jc-aj4Xs-3ADhRQE6rSROd0-MY_5NgNh0dZRTHLQTxsN5mkZSz3qP-Bt5B9aMfm6v5ke55TAQh5AMAdmsiqGilXcMc268qnYsxniIFUSG46HuWlaHLui6YBaAjJH0WGEhCeRzmt7QT5MyFh85kQWG73GhS_jnHSyVobUc0P6InQ5kFZeNt_oA",
+          "width": 3024
+        },
+        {
+          "height": 2705,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115642995737149483159\">Rengesh K</a>"
+          ],
+          "photo_reference": "CmRaAAAAXkxGSReGH2Dq8KlxSm3vdzOn5m4hW8uobviO54B3ti4zLgifr_TIWs_W8NTL6-Nd5KszAbdDYCg1yaDOMXINYzGiMzmQ4TgshV8krRKi56x1v2pmU7_MyNsp-HTVhhPjEhB8hQW8xpqJ_hRztINdn_F1GhSewOtM-riyi7Vm4a2jznYFV8R5cg",
+          "width": 3515
+        },
+        {
+          "height": 1361,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101716965167414739632\">david lamblot</a>"
+          ],
+          "photo_reference": "CmRaAAAAP6hXt1JXoBHMhNXwbpHod0S9hlBZaLzC3F6Q41o0hyAKBmvLuAuY4C6twRV8loP3XZYNJWwxEOtZC4YJJUW4vCdUpsVBDfzvCAk2-59moH6HXVREZ4uLHxVba8iVv6t2EhC4fgYQiR4FHgS8GSq-T3iUGhT-YwqofllEyclMxvvTjsCjRvwzuA",
+          "width": 2048
+        },
+        {
+          "height": 4928,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110272484025442251513\">Roger Weeks</a>"
+          ],
+          "photo_reference": "CmRaAAAAim2IIzFcI-xO1tpvxp3HdPVBFAd7OpGhOPtFwY-0nM50roSncOq127w59aYx7AUAx0YwYvoeAhAYXIj04PRqma0tGTG1XYrcOc3ogb4eH9BlCQREZhhRuJ8BxjFmm33MEhCvqFF0DMaDSyBv2QB_gGpdGhQMb_L3cwfBLXCYxrmIvLf8p6E6VA",
+          "width": 3280
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114733194243435502846\">Melanie Moss</a>"
+          ],
+          "photo_reference": "CmRaAAAAn2Jy_YUf6upzATRRgHPSL5CDsLVdGnWx5n3XGsiaGVuKnW3T6zdItlwJFSuAt1ClferNbL2FczmbHwdIdlLGDbGJwprcm2tjPOJYCPFn2qDVMp6T6WqkerJrVsrF0UTSEhBMPETNi932akVMpy36ycA1GhTEg8gr40vDYdKVgZhjc9pjtvXDHw",
+          "width": 4608
+        },
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100000801062191340594\">Funiculaire du Vieux-Qu\u00e9bec</a>"
+          ],
+          "photo_reference": "CmRaAAAAAmYd8tuIIwoIpPbtyzuJsOHvMl2aeOr4JvjzRUoUAnPfI9yxdcdyy9uWU7YaVufZ4g96OGx2bXGHGANHApf026NQaj_YMm5fovQoPMuRNbQViiNs5EKJ_vM0eoDODR9REhDtjjti2IK2dOOfjOSnFwJGGhQVQ3GGKk0WqJHBV09CGHWzhJAXcw",
+          "width": 5616
+        },
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107489013935229612347\">Michael Braucht</a>"
+          ],
+          "photo_reference": "CmRaAAAAGoxvKMGwaWaxJy14Mc5k3AYDJqqdbmqfZ_BECEq7yhGYdl-6ViYrk3Pui6ehd9JWBydrmsPcahv7DYkWdcpsY1HlJJzmkSv2ZU9HKkJJnA57yZj74uk-l_RkB-SqcE8dEhAANgUiFWdZQvz6YDRFD0h6GhSKfTnY7HzqcFHhvHQz5SDmLdU8lA",
+          "width": 4000
+        },
+        {
+          "height": 3268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104330268162146517118\">godlike v</a>"
+          ],
+          "photo_reference": "CmRaAAAAOqmqNJTMFJCD9WV1pwDQjtSyhvK9EgXPmxjhqgZEY1LqOAaKUcCkm2du_fWNg87zWzYWSokDgDMrpr9_Jo6xKyWdaM4Btf1-SUI04UpZFgb-fUSo69LGHXniWPaW8crFEhARpKv8-1oWJD_bwgo9RfYPGhRXgi2avHefQA01PBK8Re2nXFWUqQ",
+          "width": 4896
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103715496491059327031\">Gigel Vasile Rusti</a>"
+          ],
+          "photo_reference": "CmRaAAAAwCAoNICgi1SM3BqsXckoyKNHokwvdpv5wYpbGVp_9M5cjBUOF1FzU3eA_LwIkXij-bxdR_QwsK8J-eAoeKXS0Nj_d90HYcStJk3U8J0sAMW4NukgrRYSQxeyEjg4dOwCEhBb3SJI9bIdf-iS3D6vIjGkGhRNEFklZBahNqgJnZbzmzJtzHXxiQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101800243150349676790\">Chaudhari Karashan</a>"
+          ],
+          "photo_reference": "CmRaAAAACi56xHj4lvrFdJQD1OzZ5RTmg9c9J48n43VsQ0t6cvqxKkRk2sJvA6MxhRj9Q_--Moj4JY87WsmPC1ep2mrauZtkKJUHG_b_V0Kg_IrTyO-8ucBQapOnNpDgjrK2XNK8EhCHnIPT4atCIGkBJYGvkdElGhRRCm5cCF8UEXDWWLx3nlTjTAKGVw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.funiculaire.ca/",
+      "mood_params": [
+        0.02040675626979119,
+        0.04437777004588848,
+        0.026440414936422907,
+        0.09120529310015744,
+        0.02665889271837047,
+        0.11821912596009602,
+        0.08955990871709767,
+        0.026227578808673244,
+        0.08963246544063547,
+        0.03580178296921317,
+        0.06986074676063994,
+        0.01574439440006125
+      ],
+      "popularity": 0.5379398466208338,
+      "num_google_reviews": 1543,
+      "top_cats": [
+        "engineering",
+        "hiking",
+        "history",
+        "walking"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.37545279105483786,
+        -0.7048960667836336,
+        -0.7804273572400868,
+        -0.9003915030001487,
+        -0.37452636413019147,
+        -1.2632530264118709,
+        -0.35229370062603244,
+        -1.266581833624027,
+        1.5819326873977368,
+        -0.20930448755113773,
+        -0.11281312783792885,
+        -0.8061353258012681,
+        -0.7347357317221295,
+        0.6999526343844852,
+        0.19685342156020955,
+        -0.5607373015637854,
+        -0.2786084799550789,
+        -0.4676623228113194,
+        -0.8967783103566246,
+        -0.5229073769295598,
+        -0.3405141818553112,
+        0.001525313454705087,
+        -0.5267493979908567,
+        -0.6560359973880653,
+        -0.630643131325861,
+        -0.0916305337096396,
+        -0.6979207397281739,
+        0.003362802910031979,
+        0.008233074041929639,
+        -0.23928435394641795
+      ],
+      "global_mood_params": [
+        0.6345668523026157,
+        -0.18423957067255958,
+        -0.656159795358356,
+        -0.5367257226764542,
+        -0.6952428151969591,
+        -0.4466272051727993,
+        -0.44931626357991544,
+        -0.1341597928451991,
+        -0.4256684323344004,
+        -0.3077310451391003,
+        -0.5038525505469585,
+        -0.6588591490679212
+      ]
+    },
+    {
+      "name": "Terrasse Dufferin",
+      "orig_name": "Terrasse Dufferin",
+      "place_id": "ChIJKRaHYtyVuEwRkAOg1c9lDVY",
+      "cat_params": [
+        0.13725157046919206,
+        0.05499299025739562,
+        0.12508332615023857,
+        0.17970896667982864,
+        0.4415340444703217,
+        0.0600706398631302,
+        0.36345464714349707,
+        0.13463949502850592,
+        0.181089466280257,
+        0.24756240726164158,
+        0.06031103823706841,
+        0.12781851120115756,
+        0.221130421105601,
+        0.318276008644596,
+        0.23321755906468528,
+        0.21273806071550913,
+        0.5923142130779967,
+        0.25145340575478065,
+        0.15107633474832136,
+        0.10275550533644613,
+        0.5425850539900064,
+        0.291535181353835,
+        0.2043194771403049,
+        0.13219273413071544,
+        0.008502335743408416,
+        0.3721670520581205,
+        0.2595246413217294,
+        0.5229705766119535,
+        0.4218095177522878,
+        0.44700687967573854
+      ],
+      "noncat_params": [],
+      "quote": "Built in 1859, this long, popular terrace overlooking the river also offers scenic city views.",
+      "phone": "(888) 773-8888",
+      "int_phone": "+1 888-773-8888",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.8118111,
+        "lng": -71.20427819999999
+      },
+      "address": "Rue des Carri\u00e8res, Qu\u00e9bec, QC G1R 5J5, Canada",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103192688564300582462\">Philippe Bueche</a>"
+          ],
+          "photo_reference": "CmRaAAAABxwMG7JsXwytnxZpikPOOluM42yzWJ0XiFjVArdyI0cfa7Q4lWpoIZT7mti4PEXuv58lRbPM7dqccBsshkZG_rGVCRYqbU96AjR-NlbYYInmuuYZz6f4GndMNYj6LkTVEhAcAlnLZYypqE6kmSi6C5uyGhTqUULYK3_tNEeaAxNey3yfLpG_Og",
+          "width": 4032
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102172416566215085606\">Yikah Parla</a>"
+          ],
+          "photo_reference": "CmRaAAAAnsdshf3i5w3dqxPDeY2DLXvKsA6r8DazBnvKl36IubDJOWmhsUSV8ebnLfovGI9ZfqBgoMcWzz9erYo0f_2hq8RFPq9ZYNUWUU3OPiKBj7unyzUwL5c-XGLIC0xr4qHAEhAIaHETvqjzlo8IXwNr27AkGhQ28vAy2L8JeSHtlK0ev4-4KqcfUQ",
+          "width": 3648
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115385811325854928844\">Mathew Kwan</a>"
+          ],
+          "photo_reference": "CmRaAAAAJEVbutdqDo6KyjS7HAEs4a_Lntsy_tJg0S45Bfni5853VQvtGeLPW2J2jh9sysBccMjsvCrzhCgJ_DPHGJbnr-nPLSly40Sn9ihMqlNztDM_K6W_pLlrfztWfyacYOP9EhCsUts1HUex2kqayUdvjOdpGhTRjwsQPY9ijP-SE7eGLX8Rb4M-7A",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102615239261282492783\">Jan Abels</a>"
+          ],
+          "photo_reference": "CmRaAAAAu3ggKawooJ1q3ulDq1huYH0gD-CTgW4hEY6b9ZJPCT-eMc7s2NnscQF3ljQAQYRiJZlv35m5UGF44z9l3TsdJmIaRjm7eL3BCrdXMBy77NPmOGruBzLsE_9JLOBSIudUEhDLnMs0f2vLXNs1lxmtGdupGhQ5zDuyeyX7_1JsI4-sLA93rI4hEg",
+          "width": 4128
+        },
+        {
+          "height": 3715,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101506400271390830980\">Mariko Ishikawa</a>"
+          ],
+          "photo_reference": "CmRaAAAAy_hyvebezyBz7eBUEFvaA-vZCLTc3UCRJjbyCdurIUEiTAt4l6nA77H8b2MXztCF-FB7t6xN3-uVcknyhaGfKqZDHmJxgkujOcWq9RhmLHmfkHieDafP9Pu47hyRq0LyEhBFQgVGn5KBopUNposH1ReGGhSyYdb9h9QR5WiFxmTIzlon-WSt2g",
+          "width": 5573
+        },
+        {
+          "height": 2030,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101506400271390830980\">Mariko Ishikawa</a>"
+          ],
+          "photo_reference": "CmRaAAAAyXdw7EnOIGS_Mr4PeWC9NtbTGtgPBl6lS7haSwz3MRnAKHYOevzg_uO8NQrSRG0zrOnKM6TBJMU-EXHjROiojV1n9OPjNWL0beiqJrCwy3CbQ5MEHZwc7qcdIbHn9vB_EhBM9YErlQB1ycsjRpVm5i4MGhQcge-D3MQ7EqOavH6ns0bLyaosiw",
+          "width": 2707
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103835090223588760426\">Adrian M</a>"
+          ],
+          "photo_reference": "CmRaAAAAMuxVu1MZ7BAK-hC0fSUgluWaXhDFZbLwFloVmE_0YV-F6-QgOqECWfvvfCoQE11HCpL0uiPjsDkdIrjAa3exbVK9acsWPK0vy-nvbbKKmkfhI7HLGPEYVeR0pkkIHkNhEhCJnJtMGgO854C8BBxBkyH1GhSN-v_Ff7y8yjFT52Fb9_2f-B-nrQ",
+          "width": 4032
+        },
+        {
+          "height": 3642,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101506400271390830980\">Mariko Ishikawa</a>"
+          ],
+          "photo_reference": "CmRaAAAAfivMZx2hKnhl-b9Agr0iq1tLTjo_EXMVZhhBTpM8s3YuvPKPWJSrYIDGyif-LGnwzZssRAjPCDu6_6ucEoyM-JGtuu9QUlcwcxvp3zpkHTXvjkjT1ayftqvUATduqhAKEhCdw2fKIavw_3vOBMswez2RGhRcFGwJcEQ4x5G_9gqG9yICQ6DXMA",
+          "width": 5464
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107925798380055042452\">Jean Marie Fecteau</a>"
+          ],
+          "photo_reference": "CmRaAAAAJtd8NkQt_FW-YFVDtgfnRdfsJhF-sPCtQ2DLfqYkExXilz5-JT0XBLQ0Tod4EUMhoIWJ27h8i9HYzw4c4daYX3HV2Orcb7BlnAQt3BHYyBABLP3R4ovFL8zjbyB0rVrlEhCrObyASNE7a2zNmnrSIZ8XGhQYEDtxdZRt9KvLsQm6XY8ZqMu9Sg",
+          "width": 4898
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103725279120167160709\">Bunsen L.</a>"
+          ],
+          "photo_reference": "CmRaAAAANJAabkfkJd6qLGbVqCkQLmuDDYqd5gpSngtf8RC_z72qhd9wbDYm5Mc5eo2n_L0QFx_Ez2R8GZP3tWP5EISOMhZEOX27Hv_ZXvFrwhtQd6LtH62T0R_Q0mhY1m11MxroEhBfFN0ziqpQdZwFjvFwjJEuGhRWOa9MqyQq90sy2ohewxeuDftocw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.p.gc.ca/fortifications",
+      "mood_params": [
+        0.006611672377913197,
+        0.05178918169639995,
+        0.08803269431809455,
+        0.1156021389788065,
+        0.08916260837228435,
+        0.17360694712293886,
+        0.11543103752311644,
+        0.017014616493210274,
+        0.1658491206449479,
+        0.025895919683144236,
+        0.051073814204270616,
+        0.014839882756901073
+      ],
+      "popularity": 0.4592992078449372,
+      "num_google_reviews": 820,
+      "top_cats": [
+        "beach",
+        "hiking",
+        "water",
+        "walking"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.29078752129971247,
+        -0.6846614087107074,
+        -0.9780012337414018,
+        -0.36848696211578424,
+        0.8430515562327712,
+        -1.134733731042859,
+        -0.3707016030665937,
+        -0.8495937340381317,
+        -0.3778065355310609,
+        -0.7846184366027386,
+        -0.5355412724355855,
+        -0.12421562781371803,
+        -0.3500298718389074,
+        0.8269777880710436,
+        -0.6189314110091811,
+        0.49610744312509847,
+        0.6683217441490464,
+        -0.44419663510430407,
+        -0.1878754872170368,
+        -0.65550153690753,
+        0.024425747063527126,
+        0.35425237386671293,
+        -0.59444318391229,
+        -0.33602457437949085,
+        -0.5486132166076819,
+        0.1307056304917005,
+        -0.28728938284148103,
+        0.666120637553644,
+        0.7400904374852333,
+        0.8064057548498045
+      ],
+      "global_mood_params": [
+        -0.2935921677055232,
+        0.03779903015845493,
+        0.45278624402966605,
+        -0.16061281619304635,
+        0.6765415571655373,
+        0.24987558746822666,
+        0.04028457607456162,
+        -0.5015333944234878,
+        0.5825776733052836,
+        -0.6927043581802573,
+        -0.9385859805996465,
+        -0.7141545446207898
+      ]
+    },
+    {
+      "name": "Old Port Quebec City",
+      "orig_name": "Old Port Quebec City",
+      "place_id": "ChIJ72wiaeeVuEwROo0O7uGbCzI",
+      "cat_params": [
+        0.15481069925255775,
+        0.07267629074955471,
+        0.20365398849115127,
+        0.20780503356981073,
+        0.3153203731238159,
+        0.09120891827854036,
+        0.34524437058219404,
+        0.1775449610738417,
+        0.21080095561110318,
+        0.22805873587884007,
+        0.10035311399329346,
+        0.20974756687680501,
+        0.20591806289274392,
+        0.20767184153386173,
+        0.2558566572555087,
+        0.15759444998389058,
+        0.3678958094119124,
+        0.2817410340142814,
+        0.11731557799413093,
+        0.08769598290479824,
+        0.4915756936001145,
+        0.2758021245903553,
+        0.17079174065472155,
+        0.13409530928761915,
+        0.011318864957017356,
+        0.47973302523313505,
+        0.21905479569878378,
+        0.32556597127062825,
+        0.28871276767578974,
+        0.3725252945263307
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.8178534,
+        "lng": -71.2016648
+      },
+      "address": "57 Rue Saint-Paul, Qu\u00e9bec, QC G1K 3V7, Canada",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105798253971668050566\">Deepak Dhyani</a>"
+          ],
+          "photo_reference": "CmRaAAAA2ht7vrNQ3-vYWWHWSEncux5PRg_x1S7CXi9E5ajyRC_TASNwOQEDl4i-YpjZr6Ha5wTf3vIPm4LKGK4wJCkW3KTrnctvGua2AZTl2MI8mlQyKxTFi3No5p60c8Y5nKOJEhCAUBMXEHu75RFQRM9GZVCVGhSUCwPKJz0At8i_mEeLnsoJq_chSw",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100517004134115173907\">Ga\u00ebl Grasset</a>"
+          ],
+          "photo_reference": "CmRaAAAA-L9nTZZ3JlbD8LEpg7f9H1L990oK2aUolFSa-bMf65gF5ttDqqJ57maQZPb550E9dMqQ0uy8mEB_t-KtBpWnjQC-Ep8az3QkJ9ZSwI4E1tpNLneiNZxmYKWOMJm8-GRnEhAvAk6--YLsgokPKZkkklFuGhQIyhiOMfZtFSKgUHsLUO2vvKUBXQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110651052643832320627\">Raul Adolfo Diaz Vaquerano</a>"
+          ],
+          "photo_reference": "CmRaAAAAw_orzlAaGVm__lVPnsONYljH9HUBeGa0dn_SuCLkcdY3O3fjXtjiTWr0P8NL3jqS71wch4yYFq6c7Nk0GanXnn6M2IS9OT-HsSRGNH_cwHgyzoJi0Ksim4BlXIlZEUvFEhAEagL1MevTo9afINNLIt9SGhRkbXsuvgnWXy2Zl7hSzLf31yaS-w",
+          "width": 3024
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111047614652803942545\">Linda Sparkes</a>"
+          ],
+          "photo_reference": "CmRaAAAAGiwORUygkWzfFmDWhFv6VgU5q3lBXtWzuPqhqY8YCOqhihtibMfvOubhgtv40oB8cgDrELxeseiggSKoIZ6k0NLLmsG_NMFXgf50JLy5xVeLmiRZzTmItyN8m78clGWEEhC6p2KfD5S-h3q6eXgMXDuvGhTy9TJIexFvbaSpLU0rJ4NsIbbTPQ",
+          "width": 4608
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115094842220292706463\">Lovelie V. Eri\u00e9</a>"
+          ],
+          "photo_reference": "CmRaAAAA65qMQ_jBLzZO639BAJb5-ZvJmM4MJogrCG4x3UKQXYte-FHRu6cjtnXqGbVRJ_TMqIWwpNYHdjGdS-ET-QsTKG4egmCHbivw2PFmqaUJCjCQEZZAd7Sew0CQ9AbFD5t5EhCP2oOC1dPn2BiG7V8YYIabGhRPL9eCuxtv63DYEsDUHc50kgg9kA",
+          "width": 3024
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118312755437903851855\">Luis Espaillat</a>"
+          ],
+          "photo_reference": "CmRaAAAAuoTDp4bkrX3DSPSYrCfUyrepilrqMinrKTvWpkNReMThBLmlEVEBvEthZOGfmqHSFeESODHSCXNzWg4NbKoBHpsP_2btSNEw0FWVwEzW2jB26ME2U4lAgfN9x6HPDsz0EhAoXR22M-v-BmvRHOr5QckoGhR0KSnI7p1IiNRiQaMeDTv_7sFvCg",
+          "width": 2560
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115094842220292706463\">Lovelie V. Eri\u00e9</a>"
+          ],
+          "photo_reference": "CmRaAAAAw_F4Q2JAjFiLvvTREG1Y3l6PQEP0hXUivSYdPGenGqZziIoYdsbTBpjeYqg6dm4ZyJDyKv9lsqvKrKkfhftXMhl_zS3CcgdYmUFf7euxRoTIoT0NNUsHKMHXk43H34AXEhCKH8jZXorg3GfKn0yL1iSkGhSP_K3IJ5R1C4HTOBq7DUTdU6dtVA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112073929526414141059\">Hugo Villa Quintero</a>"
+          ],
+          "photo_reference": "CmRaAAAA80-8Mr7boZjB2J7OXxkGWDtFmhfSeFl3neyS4i9RvDj3T8nY115FOS8q0_GZZ_LHs9YbVFf7gFb9preWbffO48Q0CK5ogKuiGujMN02b08h1jMTxGBXLDu0juYnoip2hEhAHMYj_IClXA0zpT-ovk3q_GhTnVAs7EF08AGaYNKpAsfazjc9vtw",
+          "width": 4032
+        },
+        {
+          "height": 2409,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103166088236406698274\">Carole Beausoleil</a>"
+          ],
+          "photo_reference": "CmRaAAAAdw7JRxmKWGpUHkU3fQ1KQT7f7lsSid1XQCz2U9nWOHcQnRzy9ffiH49VsvDmy_GXnDR3HtkLbBZ7_E025pu1BVTOCq37vWGXGzHh3guerYfkoSS6D8VF-ILgTvjsTzBCEhCGyP_5BL03qjN-QuPJ3IiLGhSmfSTPVCmDCiVgqpe9Ko-IqIMdtA",
+          "width": 3951
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108229227202015075940\">Axel Guillemeau</a>"
+          ],
+          "photo_reference": "CmRaAAAAqkwhh7D41yBoV1ucspuCj0id7anYshBAzrTOAUhYE7ScN3pymGfXgGctpHrpE6XbG18w7K1kfU03kZG8pVeoI6hjO-LzqHdoiMM5JmPxoRVQlbjt4ZUeTPtuKh-yrBa7EhB9mt505IYVu4cxhYDv73MVGhRBRiG5E41cU7e5Mgh6xWqv09iQhg",
+          "width": 3024
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.007191892720660645,
+        0.04635848857456084,
+        0.05763484487772535,
+        0.09002164414122711,
+        0.049234020722307766,
+        0.12288649394029208,
+        0.07848919724244566,
+        0.019117467083787636,
+        0.10467104625239144,
+        0.02784232358648875,
+        0.05076572211777148,
+        0.022773023495359652
+      ],
+      "popularity": 0.3931021348788993,
+      "num_google_reviews": 440,
+      "top_cats": [
+        "shopping",
+        "food",
+        "water",
+        "fashion"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.0777350695221219,
+        -0.47322719490850274,
+        -0.20617106529877524,
+        -0.1677062628737082,
+        0.06452206551780455,
+        -0.7193282618482256,
+        -0.5644923578430819,
+        -0.3730938163684981,
+        0.0618946070601247,
+        -0.9919939324528441,
+        0.2879834376596817,
+        0.6538800528658301,
+        -0.5144175166893685,
+        0.014255253825706405,
+        -0.3727536139593694,
+        -0.149728305919127,
+        -0.5493819735237763,
+        -0.12739951819555675,
+        -0.6188174022889992,
+        -0.9555757033522823,
+        -0.22434732230998372,
+        0.2005519632757423,
+        -0.9724626183448938,
+        -0.31827652927037126,
+        -0.46751880778961075,
+        0.9285685437478882,
+        -0.6664883566392865,
+        -0.6162963648995463,
+        -0.06333862003575706,
+        0.29426043666211577
+      ],
+      "global_mood_params": [
+        -0.2545538589185555,
+        -0.12489919241734201,
+        -0.09451570811795933,
+        -0.5549733950359765,
+        -0.19978094583615796,
+        -0.38793497348287154,
+        -0.6588250822403943,
+        -0.41768069117897055,
+        -0.2267277874431414,
+        -0.6170609197895246,
+        -0.9457152939739286,
+        -0.22917885809780122
+      ]
+    },
+    {
+      "name": "Parc de la Chute-Montmorency",
+      "orig_name": "Parc de la Chute-Montmorency",
+      "place_id": "ChIJqwAQnqK-uEwRUuSryhHGN4s",
+      "cat_params": [
+        0.12697311812693443,
+        0.0763544140397536,
+        0.13126350371875728,
+        0.12631706953175414,
+        0.2961658287431276,
+        0.05378246012243189,
+        0.31577374680302756,
+        0.08610035244845522,
+        0.2898660895137484,
+        0.2552317707379736,
+        0.1613722704058883,
+        0.0808771622807392,
+        0.19704234206695942,
+        0.2855017846805106,
+        0.20423166699357126,
+        0.1432457267961569,
+        0.46126809792071227,
+        0.1933434049563657,
+        0.10389702032316118,
+        0.10044263550230242,
+        0.4868195960931462,
+        0.21545813548783221,
+        0.17867266167699833,
+        0.09895355866346633,
+        0.0031267332046604522,
+        0.3072755348643962,
+        0.24901350848471426,
+        0.4290508548491132,
+        0.3367409674498812,
+        0.33948030264633233
+      ],
+      "noncat_params": [],
+      "quote": "An 83-meter waterfall is the main draw at this scenic stop with paths & a suspension bridge.",
+      "phone": "(418) 663-3330",
+      "int_phone": "+1 418-663-3330",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.8854356,
+        "lng": -71.14494719999999
+      },
+      "address": "5300 Boulevard Sainte-Anne, Beauport, QC G1C 0M3, Canada",
+      "photos": [
+        {
+          "height": 1156,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117083111763543205147\">Parc de la Chute-Montmorency</a>"
+          ],
+          "photo_reference": "CmRaAAAA4ngJW2C97BxxICwoS4iR56gUZ70ClWzbdAX7qqBGxnT08B5F7In-tiaRrVZhfGcdokslWxaiU_Px5xRY04gp-ExKjofkoqtSfYod4yKyZG_m24WJ6R12av4TBjqMZi95EhDNHYz0JjMR_7bA-izarZ10GhR0NRnnJ3bvwTmBuWGSRa9ZKudlpQ",
+          "width": 1906
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110140264841188568296\">angel alvarez</a>"
+          ],
+          "photo_reference": "CmRaAAAAOUMHJ8nlLPuQ1fGviA9eSmBpreEOaHHETMHZekkgDkKBJQHx5V8vfm3ynipYvqDH-95fJuzV6qrom9Ehl9J_5cF9aKbqaR2PsgkPYkfRFjZ5w2ttvwT3BuMRfxjMut_TEhCAEEz-LNXTUXK9ujMPOBrrGhR0FRA6nALviHym1pvPu1awelu4GQ",
+          "width": 3648
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113331678988490770433\">Tom Lombardo</a>"
+          ],
+          "photo_reference": "CmRaAAAA6esbU6MKK4UyA2EIaTEwXzq64Jau-zvSVDy-NLvU8h7DFXFGxUO3ZSyoiKfTWyeqm8OsDNR1RVEdRST_mklxVUlHVM6ohm4av5a9S5H3zAw0kvgE2pjjRY5E1Ly4JMCtEhDg8ESd1nQt5_-aadM4b5wKGhQ5KljgIYJhlOEyene0JrAtwnOZRA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107876064085368101626\">Herve Ayissi</a>"
+          ],
+          "photo_reference": "CmRaAAAAX17jEncZabGhzzx5hrqSA0VoRlBYbAs4KFzM6c96Kro4RAT-q9v5mMvX5FR-f2eiKWf1B2N45f74Beh7k4a2Br0JTO7_PwSe8KYpFj0ypNu17LAg83qGZklty4dALTBlEhDCjcgkYNBrbh0yttAcSAacGhTSRVN5O6nG8WFkulySt276BGWtpw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111360483918161414769\">Disha Narayanan</a>"
+          ],
+          "photo_reference": "CmRaAAAALbWkTqru7OiO6ces0dcCMxOIkk4ML3x7p1C1pDmd31pYSxxG9zZM7QLohNItoRW7FEPah0Kx2qseDp152ZLV9XtidKFoH3ZQMnxJc9hG3HksUnXOqUQh5E36-XN9ipG8EhBhUYeExyX33mESe5E_xPU0GhTEgdUodLc6i0121lPSFw3xO5lsVg",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115270817838168039451\">Silvano Greco</a>"
+          ],
+          "photo_reference": "CmRaAAAAAmyQKAsVDnhi-lpW_MW5fZAw2kAvJLRgtR86NyMUNIm6FEAEJweXyIAXh66DLrnpscIHfIjMqjahhim9usCPmHq_5xeYHf5ec7p7DZyAf8pejXQypajzHrYCdMinGxvAEhD-UfSbJxHeK3cZQrjVWcpLGhQOqoOm29-947pai1gvl-oZFd5zqQ",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114194367672328334995\">Amanda Velasco Trindade</a>"
+          ],
+          "photo_reference": "CmRaAAAAp4tE-2_1d0HUo0Z7lbEA_CccweyRI2AEg1jGpgp_U3SW2Uq0r4tUJRI_rJnyDBg4N-TgohGr_9wnW1hlRADcyJwFdXMaYh18tf9_xEGLsAen6UoKXekSv_cAf0LsFjv0EhBkha9V2xA2j5U7NpAw6k1BGhTbE-bSFUwpUvqb2MeXKED89Ah6hw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111232914208861923922\">Donghai Ma</a>"
+          ],
+          "photo_reference": "CmRaAAAAwJR-1JPDTLPEsKON6a6CFQ5ZybezCZruaEJe3oT4ZATolN1IJ2UkuV8DVZHbfPg247SaeuGZdOUwKjOhKrqT8t8pXbF7u2YI9mPwq8NhOLN6gWqNNjdyXyfiMsQKCM5OEhAPjSVM_K5i--j7lMi_7hF4GhRpy1gVz8P4zTt9S_h8hvnDy8g6wg",
+          "width": 4032
+        },
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113747446741540628451\">didier dubois</a>"
+          ],
+          "photo_reference": "CmRaAAAAP2rL1YFSuKGLH27tRhoyK8ooQ5O6bjB1aawOgSxT-c0b5lyc5DwCID8B4RymlTZMIaeaODBkAZ2xGeG5HtUjFpx4S3aG9jiMpOMEemttz6TU8nybBBBVtRRT0LczNp5nEhDXMoyOtbB6v7zhsJrIDAylGhSgsTkRBlBnRkhlg5s4qB0eXxpFeg",
+          "width": 4608
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117899643851815466167\">Mehdi ghanbari zade</a>"
+          ],
+          "photo_reference": "CmRaAAAA37OD5xdlNEd_sHDU1H1Pm1w8jlDhm7kheR3hbDXCoEF_mGOtZJ_RBJQpgjCnTf3nvlWwXquPAdTBlQ_Pdce-yLvK9U46v5xy6ISwC7qLX84e4w_GwB9vpvk4INjFl3XQEhDInWuaJ0CynyfcwZUq9QTBGhQd5wb3kip2pko7gmYgp0xKGQ0Gng",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.sepaq.com/destinations/parc-chute-montmorency/",
+      "mood_params": [
+        0.013738825114701616,
+        0.03550270660602559,
+        0.056050480057853354,
+        0.11495895434152761,
+        0.07435312272964566,
+        0.140939635177282,
+        0.11661017921575764,
+        0.015666595263369783,
+        0.13067621618661387,
+        0.03790119205999615,
+        0.06151333297809617,
+        0.017159261226611728
+      ],
+      "popularity": 1.0,
+      "num_google_reviews": 18426,
+      "top_cats": [
+        "fashion",
+        "engineering",
+        "hiking",
+        "walking"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.4155003985166972,
+        -0.42924891684465327,
+        -0.9172909463186201,
+        -0.75003725117328,
+        -0.05362977589907491,
+        -1.2186222563080267,
+        -0.8781138674710462,
+        -1.3886601881516882,
+        1.2319816844529592,
+        -0.7030728638465497,
+        1.542932941298434,
+        -0.5700264642628646,
+        -0.6103302491194889,
+        0.5861518675490068,
+        -0.9341243129279883,
+        -0.3177789334502093,
+        -0.04274000037276552,
+        -1.0520052280643095,
+        -0.7900996689257959,
+        -0.7015874928683486,
+        -0.24754284889578015,
+        -0.38896449504430786,
+        -0.8836065958415527,
+        -0.6460939997275779,
+        -0.7033892820624094,
+        -0.3506225574619329,
+        -0.38577779375325094,
+        0.0559816398028902,
+        0.22658018907678631,
+        0.06703866302581839
+      ],
+      "global_mood_params": [
+        0.1859359853288048,
+        -0.45012773899979747,
+        -0.12304160632437638,
+        -0.1705284439973826,
+        0.35151414471879583,
+        -0.1609164155486643,
+        0.06259936439003809,
+        -0.5552867255729389,
+        0.11728640791076894,
+        -0.22614133914708687,
+        -0.6970133986452838,
+        -0.5723642748224096
+      ]
+    },
+    {
+      "name": "Place Royale",
+      "orig_name": "Place Royale",
+      "place_id": "ChIJe-AHHN2VuEwRV_Nq2B_lBSE",
+      "cat_params": [
+        0.13236261640652205,
+        0.06945212585578632,
+        0.22277242807627726,
+        0.25005148167951097,
+        0.3307121685478793,
+        0.09014615744844551,
+        0.4135004065915673,
+        0.25261686894315294,
+        0.18546848526476287,
+        0.2911721412189584,
+        0.10623402193261994,
+        0.22414293250509895,
+        0.25114845082159765,
+        0.2083827889494007,
+        0.2861579744008711,
+        0.18516792613609281,
+        0.47084018486741036,
+        0.3581227054544469,
+        0.13285652967701478,
+        0.11278955675209637,
+        0.5734680166079712,
+        0.3016012833577126,
+        0.20041366025365023,
+        0.23427440965554563,
+        0.016045312812584235,
+        0.4935846021418426,
+        0.23857066683314618,
+        0.38161414518945946,
+        0.3377383499496552,
+        0.34740062442476244
+      ],
+      "noncat_params": [],
+      "quote": "Picturesque cobblestoned square flanked by cafes, shops & a 17th-century stone church.",
+      "phone": "(418) 643-2581",
+      "int_phone": "+1 418-643-2581",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.8127931,
+        "lng": -71.2029692
+      },
+      "address": "2-4 Rue des Pains B\u00e9nits, Ville de Qu\u00e9bec, QC G1K Rue des Pains B\u00e9nits, Qu\u00e9bec, QC G1K 4G8, Canada",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114218718670047260780\">Nali Yan</a>"
+          ],
+          "photo_reference": "CmRaAAAA7jGQfhSyP_OGQ5Q7lpA1XeEp9xs6BtFg89BJmP6eU64Cjtgtzu_lNJ0yktjY6mjcrtvmaKnbwifHlANUcNicQt4ssDv-2Jiaym_xqk-HlHry7hOPFgG6zQzkQsbGNmwqEhD1d3JJYcZB-BP790BGIrAAGhSvKFoqU2Oq23YyEiqXuiQptcxzNg",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105661771260836643925\">Thomas Kelly</a>"
+          ],
+          "photo_reference": "CmRaAAAAv428lt5a7E2L_VsmX_9rn3NbP8t7TrWPUw-L91bNNMQJeMp_4vBOL4UVbs4wqXUMCzk32-0cWkJLpsOEg0ur8iT-6ChkbuGqLlcN3_LReZksiVcKSYKNLYsuq6NmY5ZZEhD_I6j9h_fnL7ViVbjtA-xrGhSYlFxpqIPPQZ705bWqe1WgkU-b-g",
+          "width": 6000
+        },
+        {
+          "height": 3136,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114315894602253792205\">Jes\u00fas Gonz\u00e1lez</a>"
+          ],
+          "photo_reference": "CmRaAAAAxgXwbyfVcvmymU-bX0CUcdGA0lA-jmQvuBM4s748Yg4O5KzS-UQ4BZ1i1U88-cVIWlzmk3HL96-GuWeKL0kyogpWU2ibH7kAAa8Nv34rlG-hHtd2YuFgweJZhjN89963EhApUBv9K_Rzf0ybnis7C6U8GhSCKB95VXsebRLlXHLlz4cjcT14iA",
+          "width": 4224
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110833775573208224765\">Erika Montoya</a>"
+          ],
+          "photo_reference": "CmRaAAAAE79NV6f5LXJ-Pb45fLnJLYW1Kp7mweWURsGUqhdtTsF9Fz6sSuAvnmr7FDcVLa_X-ukUgMVVmoATvXaxM38jdRG7E5fIzO6AQ9h1f6W6If3Rd7qbKt47dQcWWFQFiwshEhAaPeIwDZjGudCnneLbMHhjGhSE6CzaKoxDrmVU-P4lLe0YxuxcjA",
+          "width": 4608
+        },
+        {
+          "height": 3708,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108669987161448760948\">Valery Joncheray</a>"
+          ],
+          "photo_reference": "CmRaAAAAt4HHowegBNupu79V_jEPHYmwUrH6BoRozq0yoixA8n2Ee9eDUWdXRGAITpQbcutMRHWQPDmiVFn7JParn4WvyiOldMRI3LCANSF7W0jOssnafYUBZCk_yS3FjgYsVopLEhAVYhUfvZAcrkOnjNJuNly1GhTgNcidBmivso-AeVy7gu9jEEU4Tw",
+          "width": 7326
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111473758655270581824\">David Noonan</a>"
+          ],
+          "photo_reference": "CmRaAAAAk65zqocpLj29mnZo7tmsfk3SniSvIIpsUgYfIKqvG7Pz841AKQDQUA_G7ezb_x1RAA2B13u_6ippXqfW_aapjJ6ut9xYCs33vC6TCC2ueCqeN_wRgZhZ2tS3vUS0H71sEhDSx9Qv3rH2zsG_bV4hUR8hGhRG31Sbx_UtXzU5P_dlGwyD2uAxaw",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115346079316158934845\">Woncherl Ha</a>"
+          ],
+          "photo_reference": "CmRaAAAAhjqnEFJyP5JTas0P8EkenbwhAISu5eYJoppnjpEsoaKGTSQrq2FtftITDw4PX3_Dk8JGmDXpJSiPHucP-ZfzKVLjpjH04cWa8EOM9e39sShi_XcQSmf8nSjbeRmyZ8XxEhDBg4EMJLWPQuwOQlQQkSMOGhQI0zDFIPuENYaaaNz4nLuKCh5NfA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102705664750754909625\">jaeyong Kim</a>"
+          ],
+          "photo_reference": "CmRaAAAAi6fC-OmE3lctcVDhoKYdj3b2zVZFc1ZXl6zIH7i5xhLX2bRxDQO3UPw3BvQnwCnTXCQ7mW1w_uTu_YNI9RTyRwsKZU-QD1agTus_yrAbyPK0d-BvfeUC_E7sOhtsY8RwEhAek_j_FT6P4hgskl_zvnybGhTZJ1_xguhrg7s3FvvXE9B1WJMZZA",
+          "width": 2268
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108060254733457627406\">\u0418\u0437\u044f \u041a\u0430\u0446\u043c\u0430\u043d</a>"
+          ],
+          "photo_reference": "CmRaAAAAb-d86eRhIaGndQ1yAxzKsH131L95Zz8BDTqEieVIRVnAl0Y5YbkHUHfDHZr3oXE7HwkVbp9deakOtuZ2qmIHWiYyE-xffn7WIiL7Y2K4V2nhmsb1kjIXNm0TpZqBiVycEhB1hyGjNpjePObE84O-lfw1GhRzG8vYIiF4PDCrhi7R-yg1dx6mAQ",
+          "width": 4618
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114218718670047260780\">Nali Yan</a>"
+          ],
+          "photo_reference": "CmRaAAAA-sZTKbjNDEaB2m_Yv4NCdNbwFu2SykUmglQbernnlMOD2WDatceUgU6sFyx5AJSYksEfinmE34m7n8OKz3KcQRiGJATseaVtqGKprPB0HxZsVa9dV3jWoL216LzKgkvSEhBPpq_6YKuYMmgDrFRgtZm4GhSFtmDGU8lnPspNqj2Kura_FyZk9g",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.placeroyale.ca/en/",
+      "mood_params": [
+        0.0033907294828648153,
+        0.04129701044424297,
+        0.09644545826709128,
+        0.12879245297958516,
+        0.08526165626765951,
+        0.14857984094764154,
+        0.08136381684693476,
+        0.020667213491908958,
+        0.15490814914567078,
+        0.031068016830107494,
+        0.06477613606004172,
+        0.030103355123472408
+      ],
+      "popularity": 0.4564726169598144,
+      "num_google_reviews": 800,
+      "top_cats": [
+        "shopping",
+        "food",
+        "military",
+        "religion"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.35010730091580605,
+        -0.5117776210455725,
+        -0.018363199032841455,
+        0.13419618579194928,
+        0.1594639725619879,
+        -0.7335062024324022,
+        0.1618771012795705,
+        0.46064046544144915,
+        -0.31300131390534003,
+        -0.3209318810927609,
+        0.4089330366593759,
+        0.790595552938507,
+        -0.02564931630523194,
+        0.019479315453452595,
+        -0.04325676564512649,
+        0.17320913666476614,
+        0.009198546869664996,
+        0.671523827323426,
+        -0.42044366531903243,
+        -0.45556427938285315,
+        0.17504220927937025,
+        0.4525907981351569,
+        -0.6384805942852028,
+        0.6162375086478515,
+        -0.3314334113361819,
+        1.0313116248483771,
+        -0.4836263221292129,
+        -0.2521856539782766,
+        0.23260081753932038,
+        0.12149985244903003
+      ],
+      "global_mood_params": [
+        -0.5103032239340693,
+        -0.2765360971242882,
+        0.6042549241175544,
+        0.042735082176198244,
+        0.5909264048746055,
+        -0.06484069811319673,
+        -0.6044240476895687,
+        -0.355883421203278,
+        0.43784301030426587,
+        -0.49170023400287616,
+        -0.6215114735095716,
+        0.21894537554284743
+      ]
+    },
+    {
+      "name": "Observatoire de la Capitale",
+      "orig_name": "Observatoire de la Capitale",
+      "place_id": "ChIJ-WwxG3iWuEwRAJcGS1DuX9g",
+      "cat_params": [
+        0.1766732924750183,
+        0.04615616459121108,
+        0.24806974862901396,
+        0.2643275119316435,
+        0.32469304032991275,
+        0.11770158671794727,
+        0.4340059954615828,
+        0.12643808505686466,
+        0.26077392734032473,
+        0.2463533546243176,
+        0.057613638797491276,
+        0.07607457049576545,
+        0.17686950705249976,
+        0.1688451236918572,
+        0.26329189945837767,
+        0.19534702491633504,
+        0.606291052752049,
+        0.3033152044447151,
+        0.12225993550033987,
+        0.11300093122689564,
+        0.5258139643814006,
+        0.2919132091687108,
+        0.25716539580056946,
+        0.1857335960523554,
+        0.03514222345046231,
+        0.3952327578767236,
+        0.29044378668432125,
+        0.5706064942658035,
+        0.2314141619660891,
+        0.34761301320144516
+      ],
+      "noncat_params": [],
+      "quote": "Viewing space on the 31st floor of the Marie-Guyart Building, the city's tallest skyscraper at 132m.",
+      "phone": "(418) 644-9841",
+      "int_phone": "+1 418-644-9841",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.8079699,
+        "lng": -71.217834
+      },
+      "address": "1037 Rue de la Chevroti\u00e8re, Qu\u00e9bec, QC G1R 5E9, Canada",
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116726076229256706691\">Observatoire de la Capitale</a>"
+          ],
+          "photo_reference": "CmRaAAAAOMOtUZz9aEAD9AkEJts_A4_sl9wW2YBJChawGvTR00QQHvlLBePQKZA26rg6wc8cmF4oOnNXD2PH74S3NuNJGDuac81GcQAGVC6lpdQUZbEsYoAJigC2FIV5qp9YtNo4EhDX9DvB8oEFeYHG1t6Hzv3TGhRF639TEcHXWHiCLDpP6iPtWdzzSA",
+          "width": 1600
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117114029531565617209\">Lizbeth Rodriguez</a>"
+          ],
+          "photo_reference": "CmRaAAAAKpeFNx3R3ySYK4Ki1a9EBjcpQd0r31Zuh9Z6GvUrm56EDKUvVEIx6uPOU-22TE8xFWeAJWzDCu9aGL4kmNZ07plKbvMHhCtsB2TrK2NQfAEamcyYS_Jx6XLEGaaQbnmkEhDJwEn61xBKGKYKqeNH5aGOGhTC-JR5ZYncITBrFshG7t0fXnYmKA",
+          "width": 4096
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116714977105189453426\">J\u00e9r\u00e9mie Henri</a>"
+          ],
+          "photo_reference": "CmRaAAAAwuqYhDD-s3hm3wTVUtqiZcjaOm1whOAbkTH-2GWuRWX43sz9_1Mly9jHELxGePQmmGOKSvvXBplRT24xcbZKSkEm8ZfjqfIJvA7vmYevSKIhTG6wPBm5BJSKYtw6H8yHEhCJ84Vz99zZ0lOzP8nUtK66GhSDdmH0YnIlB05FgmjDoPcDqoVyvA",
+          "width": 4608
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101112120117747264721\">Robert YONG SAO YOUNG</a>"
+          ],
+          "photo_reference": "CmRaAAAATjnxEecZfSYsvK4syw9iin3alUw6BkJnbmegIxwo_xkor8DZ_1TMo1GFwhOiFq6Nr-t3BvgBnxAoFMbosalZ-UX0WbwHgymMps3BzYS19DC8jGfwqgXg80lO7WG5Me_qEhB5gW57SQ19dMG85NI6y25JGhQLjdzhWacspF9Av5peU-FBDZ0YGQ",
+          "width": 2448
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114849033633805735017\">Sanjay Kak</a>"
+          ],
+          "photo_reference": "CmRaAAAAsgactcS60732IZZ554k2zK2cPkieSk5PFjAZsw50gOlnCIBrZq1F0wgmL3Qcr_n56rFG6HUhPcjs50wMqp-YhhvjD0nK9z_fy9flbQ6Z7D9iQBTpaByru_U03i3Yh4JfEhD5SMSnpB3b4z82vx-ZK_QyGhSue-7Jg8gjnOrW47wshLWDhfkfqA",
+          "width": 3456
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116362668411132576093\">Marie-Merci</a>"
+          ],
+          "photo_reference": "CmRaAAAA-YswlQ_X8d2Pd4Ar25x2q-FeqH8RhByXK5xHfKo04k1aj3tvu0B0dwKNaCrcL6LQlAZtN55Jw0PpfwcBFH8F3P4nF7m4DlepN0xyY7kd2vhbklrblNy7HNC7IHOYAtBkEhD8m8xiqZTOCk_qqTaqVtoeGhQ-ctXZ3MLDXLAFMViRC2jZX9p1RQ",
+          "width": 4898
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112958012193680478514\">Yan Laupin</a>"
+          ],
+          "photo_reference": "CmRaAAAAOCJHgAhguPU1QAqrePQVYBjXfK6qsOCELLgLceJgu2FkkBVYTgX5Imz04_m5DDif7H-Nv6gO1wGKVBSSosbSCfDsET0IaIcnqcK2RQjHs9UBzn82gWynXNidk86hBYF0EhBVmFX6K-Y_Dx7kwHrJLx5PGhRKDFW3dPSkLVUfhpyyCdG-ji-mXA",
+          "width": 3840
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118140505055009645903\">Bousemha Larbi</a>"
+          ],
+          "photo_reference": "CmRaAAAA-BFjpFXqkOJRUu5918vFFXant_0kGD4lhQwPjzgVw6a3lZ_7NsU_m-6PFOTyuk81EyExGVlta6pIQYGOwBYn-rFwsuHzDzIRS5q3gfu53Py3_K_ypxoLgpzx6nOUUotuEhAu-TYHmTSPGkbuWNBmUFLVGhQW4PX2v-cvudHx2uJeNdCq8ehGgA",
+          "width": 5184
+        },
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109802120749015672380\">Albert Riezebos</a>"
+          ],
+          "photo_reference": "CmRaAAAAd4JUIeHsIovstiyiv519lhEBG2vmUyU1LGyP4aqDfmW60j77jFChVYLixABPjGC-vGDpX-dfV-XuNO_B4mtXo9iHkbAKvgK5CYUxC6B21dDLBd-97MJtS7oFFzpp8ESQEhBmsWqimoDzaqU3tzREe-BQGhRt9-HQVzUbd8ODjaRAuDJpAEatGQ",
+          "width": 2592
+        },
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114146936200095763256\">Jean Marco92</a>"
+          ],
+          "photo_reference": "CmRaAAAAoIEmJB_1TDh4j7c1h9ygpJmJE7zljLtp8yvIGzOUGBbyldEWm7rkXal2UMpng-nady26qKFnxRTByR5ltfzGNLE2vlcSd41h8ogR9rZhoueHoUNx5k1s5UAEfDIC4KFkEhADhQ5FZIVc5rTMBiFxeS4sGhQM9LI19_kscZzruYkdxD2JBTFMVQ",
+          "width": 1200
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.observatoire-capitale.com/",
+      "mood_params": [
+        0.006029936710886679,
+        0.04316957393322358,
+        0.05118016697975837,
+        0.11798397008543224,
+        0.06254408398410669,
+        0.15274210367579047,
+        0.13001341130778973,
+        0.02357588835925655,
+        0.12110063395864412,
+        0.03825366969407061,
+        0.10218219930432507,
+        0.018124672491288837
+      ],
+      "popularity": 0.4752522664785435,
+      "num_google_reviews": 940,
+      "top_cats": [
+        "views",
+        "engineering",
+        "instagram",
+        "cosmopolitan"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        0.18753316478081875,
+        -0.7903208294769458,
+        0.23014221764097037,
+        0.23621585095178077,
+        0.12233591205880745,
+        -0.36589833818734446,
+        0.38009419045332876,
+        -0.9406770279972891,
+        0.8014459813900338,
+        -0.7974738567568658,
+        -0.5910172948329397,
+        -0.6156375834578574,
+        -0.8283217525789071,
+        -0.2710445621332177,
+        -0.2919027103321215,
+        0.29242559344211405,
+        0.744160665353273,
+        0.09825813097726752,
+        -0.555704750281824,
+        -0.4513524579508672,
+        -0.0573669946368341,
+        0.3579454280032801,
+        0.001385415868504514,
+        0.16342777530474495,
+        0.21841093998368352,
+        0.30179385381672835,
+        0.0024203507076981036,
+        0.9755820638518317,
+        -0.4092175746770428,
+        0.12296026601830988
+      ],
+      "global_mood_params": [
+        -0.33273243034133154,
+        -0.22043593744258938,
+        -0.21072977849064792,
+        -0.12389342120561513,
+        0.0923382759840353,
+        -0.012500173553869776,
+        0.3162502095288895,
+        -0.23989788633961578,
+        -0.00938595083683466,
+        -0.2124429386499401,
+        0.2440724173232026,
+        -0.5133459104318668
+      ]
+    },
+    {
+      "name": "Notre-Dame de Qu\u00e9bec Basilica-Cathedral",
+      "orig_name": "Notre-Dame de Qu\u00e9bec Basilica-Cathedral",
+      "place_id": "ChIJyxIHyt2VuEwR8XlC8k4i1zw",
+      "cat_params": [
+        0.07907780156096957,
+        0.051750895576590634,
+        0.22251728664496595,
+        0.2731314297449195,
+        0.2404492004627653,
+        0.10405297454681808,
+        0.3218768814117262,
+        0.17880801120757928,
+        0.16051927449706274,
+        0.24707300005538158,
+        0.06975368300796524,
+        0.057638956055042656,
+        0.1980544406967852,
+        0.16583555637179817,
+        0.2600115468294201,
+        0.17507493142807018,
+        0.5335232291573765,
+        0.245125831971636,
+        0.12480942228507785,
+        0.1171248053260668,
+        0.44333682658890544,
+        0.17953979220984181,
+        0.21397958282813712,
+        0.3570444478072277,
+        0.020470977736837263,
+        0.2981987772370234,
+        0.21588955740938703,
+        0.37628552982064334,
+        0.26843389165050363,
+        0.25348312952487073
+      ],
+      "noncat_params": [],
+      "quote": "Dating to 1647, this opulent church has been rebuilt a few times & features a historic crypt.",
+      "phone": "(418) 692-2533",
+      "int_phone": "+1 418-692-2533",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.8137772,
+        "lng": -71.20605619999999
+      },
+      "address": "16 Rue De Buade, Qu\u00e9bec, QC G1R 4A1, Canada",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102705664750754909625\">jaeyong Kim</a>"
+          ],
+          "photo_reference": "CmRaAAAAiZY1JixZscfVTcHn38ezaOIcNfs9fwIDFHvfErJTxHvqK7h-QCsYQjQt_FNhKSuWxUCgBXOnkXosEIgtUkXG_l8Pp9qDeHUpd9ID48c85g5J_kfPhsmWfQtmETiYQSGXEhARJhAmLN6iWLZWhT41f0SXGhT2N5AWRfY-RFwFzTy6NZPLaaB7Ew",
+          "width": 4032
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115946438452518280366\">Patricia Dunn</a>"
+          ],
+          "photo_reference": "CmRaAAAAdML823FkjLYQcn-5l9aq9Gz59lAteNAEhesVWnXHh6hYGWHoaaTWz2PkfA1zOG-468XKzWFoVdVF5msPgJxdrtcZivCJB9bPP9m_R4qs2Lr7pfqaN0LU0PcjWxBA6qvxEhDb6JM1aCcBxf6Q29ijKYq7GhTxRfc9qQ2ww-w6AtoEsAdRwPl1og",
+          "width": 2988
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107952384522586364248\">Joseph Trayah</a>"
+          ],
+          "photo_reference": "CmRaAAAASctEgv58Fsm87OmAsST3iB4xGwLGvIgvGzRQpZ7iJalAv20nPs4iy7ySl5jyGrqWuDJ2pBU3YkvwCy4Tz1QJK6RexqJlreDuW4ExjGrxLN7xp8ndqPieOMd4rfxz38ZWEhCK_tt8WN_W2KAO2LvLi8FpGhQWJx3KJlw89cmkYBoThFe03yvUQw",
+          "width": 3024
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102296368187101634547\">Boby Rios Martinez</a>"
+          ],
+          "photo_reference": "CmRaAAAA5DziXh9yVAT57Hmhp5EHKr6XiyrYZcm9G-FTRWrNszhAHmZjv0HIs6SPBDi_oVeViya4xX7OQJWe7_qYYPHn6uQKH1sTRTo5ZPDbNj7T7DCT6Z9yAfkuNmO5jCVcH-anEhAUfRWxJZn8mrmiZoPeVKZPGhRE5rOK1YDWAkzuGvw17Spq9Taz_A",
+          "width": 2736
+        },
+        {
+          "height": 4016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113733399560772974032\">Leo Li</a>"
+          ],
+          "photo_reference": "CmRaAAAAQp5pU1P1K3GTodlXN7aA7dKpHGKMuUetHTOfSdNGDKn9uflqlCxqaFyfnFCw1vHtn6UhvFNymR3vB890zHpIHm78qdh4Sfdpb8xKHGAGms2IHy7hVou1isg6REz_OLMUEhAXBn-skmTHmZoRg0HDUNdUGhQuEfWqUlJA7BOYVSQOFr-hkNmpZg",
+          "width": 6016
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101930534646277753322\">sandrine sobgo</a>"
+          ],
+          "photo_reference": "CmRaAAAAb5LRxNY02Dbg_0l_mZf03AnJQ70hWF7TtEJnwf9xppXKAzShRtK6buhZxHA6Kq--f48JN9ZohWHMuTAJbfB-Uyip1E6Nt3UHnRVRf0ycJKz6yhCk2aNmXMpPPwsgVskLEhArXTMjHeO9Fc_Jn3x_U8OtGhSlWZBFETv6jZbC8-LjPRXU_Fzjfg",
+          "width": 3456
+        },
+        {
+          "height": 2833,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103168688055597045223\">Peter Colon</a>"
+          ],
+          "photo_reference": "CmRaAAAAwOKDDG4Jc0k8142NMZ7OEajJHyTAU3ApV_yRRZWrZcvbN-rzVSQztg9J6psCVkHPXuLhg4Fq93yaRtY6uv3srLQc7q9c5qHGoi3JlZStjO5PzokbWFtBzZFcqpoI7mxQEhBs3tuWo6dSwII6ht1ZWyUwGhTbJHW0NrsyrOxZTzhz2Wt965swEQ",
+          "width": 5035
+        },
+        {
+          "height": 4896,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111700382447339799359\">\u0412\u043b\u0430\u0434 \u041d\u043e\u0441\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAA6t4JS2oyd8LZ29qEoNfIH9TdrAVYKI2d92A1zUXJKlm2QlkdW_QvANesms626xEDHvoi7GFtQKvu04ThH2NC4euIhiTCIkNq7n5qCde-UHQ8koha9Vmv1RNU-9nTKWO2EhBZroFARq-VOvnftY0SAv2WGhTTo1PB7nU6a63LqDnTKvI8rpWQMA",
+          "width": 3672
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112062316289289063465\">Paulina Gonz\u00e1lez</a>"
+          ],
+          "photo_reference": "CmRaAAAAqBdqTTCBLBxm7310DqURQCGAMosVKxVTw60fTP_LEGWOUrEOWyjzRCEouVc4Z3kFFcuiImSocsiqx7AZgd81XsD2dqvOH1-rPbvT4F8UGYUC3fNOduTJh-BdGWwN9v5aEhCKKcmaEpj86V7rTdrd7alwGhT2mH5aN2SkGsr6dOcMR06d64GSQQ",
+          "width": 1536
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100246644172344275093\">Teresa Sanders</a>"
+          ],
+          "photo_reference": "CmRaAAAAXN6_AmBME7l7awHXFaJL0MIvICWWpTb3SkPZ9WcT7MuDR7w9YCFiWEZ1aYzZ897Ndo-X6jvKaNBRGVvnPvgftJNPxT1jpUE0Wpu1KOt5lKcSvGv-pqP4hkrUXtjYGdvJEhAQcfn3eu_h8iIsi490lrUtGhQiJ3FBaoOP_ssVAGpwS5maqixCPw",
+          "width": 3120
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://portesaintequebec.ca/",
+      "mood_params": [
+        0.0029723519544680157,
+        0.03408203922279337,
+        0.14005602011218232,
+        0.19115235544152498,
+        0.16003730662415644,
+        0.19159569255726044,
+        0.13896381169104186,
+        0.01951432950837008,
+        0.21537642297098433,
+        0.03343817699023933,
+        0.06119690612096625,
+        0.03230105742360752
+      ],
+      "popularity": 0.6232933315413248,
+      "num_google_reviews": 2781,
+      "top_cats": [
+        "religion",
+        "instagram",
+        "art",
+        "hospitality"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.9966348470953441,
+        -0.7234262162313544,
+        -0.020869552524571625,
+        0.2991305920627367,
+        -0.3973091711396955,
+        -0.5479799570605829,
+        -0.8131653172202757,
+        -0.35906662262813327,
+        -0.6822253658924244,
+        -0.7898221267223475,
+        -0.34133926990137664,
+        -0.7907240878573425,
+        -0.5993933182514777,
+        -0.29315894754232713,
+        -0.3275733000763128,
+        0.055001121069268764,
+        0.34931938731782025,
+        -0.5103806596291955,
+        -0.5231616196445263,
+        -0.36918065678994033,
+        -0.45960867273179973,
+        -0.7398603312806189,
+        -0.48552716179300043,
+        1.7614895988256842,
+        -0.20400825312193294,
+        -0.41794875802270764,
+        -0.6961463672565606,
+        -0.28680240943181634,
+        -0.18575061163747794,
+        -0.5242893746788526
+      ],
+      "global_mood_params": [
+        -0.5384524457723525,
+        -0.49268953598180326,
+        1.3894468397132513,
+        1.0041037885919788,
+        2.232045937035754,
+        0.4760843670892377,
+        0.485632982725261,
+        -0.40185551212605725,
+        1.2377587431016932,
+        -0.39958828142148645,
+        -0.7043355803025678,
+        0.35329723149999626
+      ]
+    },
+    {
+      "name": "Mus\u00e9e national des beaux-arts du Qu\u00e9bec",
+      "orig_name": "Mus\u00e9e national des beaux-arts du Qu\u00e9bec",
+      "place_id": "ChIJn5duwH-WuEwRo6FhOQuuTIw",
+      "cat_params": [
+        0.0926298088392318,
+        0.053109600125671765,
+        0.42455816165368687,
+        0.6146176897268669,
+        0.16622112019755603,
+        0.24684171548376235,
+        0.31661234917497444,
+        0.34366285612170033,
+        0.1908538428123592,
+        0.2703740113845364,
+        0.05730603100503925,
+        0.10157541805139211,
+        0.20814776592130074,
+        0.0953431684983086,
+        0.26381219081266866,
+        0.19878626449933418,
+        0.489187745179508,
+        0.29534707724291753,
+        0.2185280971658108,
+        0.10951775418738709,
+        0.47043258489817086,
+        0.1521670405988253,
+        0.3210382669095468,
+        0.11277885997482615,
+        0.009073543701347137,
+        0.3428498166443321,
+        0.17913498750510756,
+        0.32773950007116526,
+        0.1911823718439347,
+        0.1945077338651418
+      ],
+      "noncat_params": [],
+      "quote": "Works by Quebecois artists including Alfred Pellan, plus paintings of Quebec & touring exhibitions.",
+      "phone": "(418) 643-2150",
+      "int_phone": "+1 418-643-2150",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.80084129999999,
+        "lng": -71.2248613
+      },
+      "address": "179 Grande All\u00e9e O, Qu\u00e9bec, QC G1R 2H1, Canada",
+      "photos": [
+        {
+          "height": 3375,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102517541107923093186\">Mus\u00e9e national des beaux-arts du Qu\u00e9bec</a>"
+          ],
+          "photo_reference": "CmRaAAAAXwctM5arPVoiZNusYgNPsMdOizYX8W_gw2Mgh2-OoZsLID_S5rWheotezHYyl2agB2Dreybj6CCyZG7D6T9mLfJ5aWCm4YtYY2SyHpWt6xSuXQB5dlZ9kyMFE--BM3TFEhBKb748lUSNvtRgIFR-XKcPGhRja5OHQyB9IgfDLpSMocZcz-fLPg",
+          "width": 6000
+        },
+        {
+          "height": 352,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102517541107923093186\">Mus\u00e9e national des beaux-arts du Qu\u00e9bec</a>"
+          ],
+          "photo_reference": "CmRaAAAADFFae_nZ4PIy91f5ebR2D2asU2P4MIVx-sVC_0DBcdON9ljtUUGNLYn1__qKHw3zXOjHUsO_ReTJuPeVt_S-5tsVf9bnbE_MN3UqBhfj7G1EspJvKlNGE309blWkebhFEhCvuwVT-43bxdJ_GJsWq798GhRCI4ZN7GT-cJMP2E-aMaVgI44ZaQ",
+          "width": 528
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103883651165579225234\">Karla Casta\u00f1os</a>"
+          ],
+          "photo_reference": "CmRaAAAApyFnUACgY4iBUjDK9Gwr85-S8jq_s7DE0zHHVVMJetROFU46q9dSZNUVp-3z8c6X6k8mnG5ZeLRWh77miVaA8K1dbO3cxmfb1JJDzueyLC2Hgm6XGhR6HlEGmMG0t8msEhCWtUKZAvkjv1Kzmen1S2ytGhTEaJKFevQuijdgkjw3EzcJtKdqQw",
+          "width": 4128
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102517541107923093186\">Mus\u00e9e national des beaux-arts du Qu\u00e9bec</a>"
+          ],
+          "photo_reference": "CmRaAAAA5Pk1I6XYd5E7CK8sgwih1VJcC0r4Cvb88R1rh7qRNckUzBsi6mv6_AXzry7mWRcpOoszTi3NkV9zjld_cTdWd_kE_qjwsKM1TF2FE9M6G1ploohy06LYFqbIYQXXFoxrEhBOPV17CdTRfPc4j6hdgzL2GhSvVDBithUiGMKe-z7rTwTcajSPuw",
+          "width": 3000
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101506400271390830980\">Mariko Ishikawa</a>"
+          ],
+          "photo_reference": "CmRaAAAA5iT5sACpBEsxeA4P9R-0TGV3bB6pcZr1AZqUrK8_KZN_fdmyuoqSSlvbxx298yCBU0Dc5dFfWPG2Iffsy7riwSZlmctB-xCYuyduht9gDswl4gvDj_tmsiTG2u2nS88sEhAQgPt77bhAgkMJxwgfC5FlGhTuDXKyxmkfqkgfAqvNfCwsamLoNg",
+          "width": 3648
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112765090654619097447\">Daniel Green</a>"
+          ],
+          "photo_reference": "CmRaAAAAvkb8RLWzZ_-41gE82Cen3fBf618o-_3fhWzY3UJJqf1RoFbQtDZ-wroupofGoc-LlcovXCe4LIYtn4XfOolk_PeDAdBLOo_DMqk1-cKVn5YWQtQM4C8lWzBI-REZWQlWEhDj9Cgw24dBYMTu7e5YNb4YGhTfCX2uLIzFDQ_3_D-9OqAPeDfwnQ",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113600243315527057224\">Isabelle Roy</a>"
+          ],
+          "photo_reference": "CmRaAAAAvF2z3TikW8K1mmUyEGt8H3MZ6AOv4vCcRPPqO7AjdLxPsrhILUztH7zqEoELrZr_9L_0Lz7xnkZLMbw1OcylExOiRM4xf2r4_CFlIUyf7mDz8X3PCIEIXpZqiRHTJkW-EhAkW39YpabUUjY6lh8CnopaGhS6XYe43JbVkwwWwrb-3ndsmKQA5A",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117109136169073115758\">Josiah Richards</a>"
+          ],
+          "photo_reference": "CmRaAAAAVraLtNmYbgR2sC6LGmK24MtHPfoXRBbG3rxcZAlTGlsE42tCgFPOz3E289UFawD9wpwRYOjHr9Xy6KzyCCDerxllDSiKMcSlCXm1BUTJPsSVZrr4SpZ4rpIUlTcEHLKkEhA_HPjSySR5NIfiaFGdWqBxGhQJjW3fuWhzw9hRlLAh75ZBvhRGKQ",
+          "width": 4048
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113848224494744888612\">Rene Villeneuve</a>"
+          ],
+          "photo_reference": "CmRaAAAAd1wAHiQ0OSIQyAm5_KbKmEzduuQ4iwO5VjPQjKcTIqd6ereojMWOsII4EjG8okM_apju-bWiqkz9dqmX2mNUVsnoBnUqRINLXxA7uFBkVgH7VNJa6cGB-voc7wSqm3M_EhCgF-XuBXmS36mdRLhv8RfwGhTktbu0yOqjQQYTG4WK9dIUTjZJ7Q",
+          "width": 4048
+        },
+        {
+          "height": 3227,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105132793464098373345\">Prntl2</a>"
+          ],
+          "photo_reference": "CmRaAAAAB0tH9CyGaYmUB4xbWTj-UPGxEutJywqjJ7D4_sv0Pwq5RCVZsTUu91WGvBbgDPijbZ9X1BOZ9esjPtEQc9ugEtkg74BychcqkAjuU9eO5NgAC2c26hbL3cF5dD4Pv6C8EhDBwHEqSjgOtU1TwtSdDicoGhRXtQBR-DHcy0gVKYbgNqo2fUUpkw",
+          "width": 3632
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.mnbaq.org/",
+      "mood_params": [
+        0.005823422021206217,
+        0.06385109832199125,
+        0.05773170127280207,
+        0.1450118572475759,
+        0.06676978270899847,
+        0.15026293728983672,
+        0.12532733833314696,
+        0.03592634279434856,
+        0.11536271694862855,
+        0.035180367599643284,
+        0.10668968414104615,
+        0.02165932893045547
+      ],
+      "popularity": 0.5966421823103468,
+      "num_google_reviews": 2335,
+      "top_cats": [
+        "art",
+        "architecture",
+        "culture",
+        "books"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.8322025217355152,
+        -0.7071805708976777,
+        1.9638565264495167,
+        2.7394668259284045,
+        -0.8551735919199956,
+        1.3569173893279538,
+        -0.8691895995682577,
+        1.4717798235103614,
+        -0.23330326038226093,
+        -0.5420708862839269,
+        -0.5973437055725908,
+        -0.37345122877491704,
+        -0.49032292041102093,
+        -0.8111389985126453,
+        -0.28624505655352106,
+        0.33270557951410334,
+        0.10875318248462339,
+        0.014914539228718944,
+        0.6731179994755857,
+        -0.5207578093791101,
+        -0.32746243701984384,
+        -1.0072720126128727,
+        0.7215409987717653,
+        -0.517125601064942,
+        -0.5321668146185244,
+        -0.08675286651649633,
+        -1.0405335270183043,
+        -0.6021762774562428,
+        -0.6520739119027584,
+        -0.929812064815058
+      ],
+      "global_mood_params": [
+        -0.34662712453046624,
+        0.39916218432920153,
+        -0.09277184481580505,
+        0.2927808180474118,
+        0.18508072197261544,
+        -0.043675732999723896,
+        0.22756813924622385,
+        0.2525855051677003,
+        -0.0852910461775255,
+        -0.33188122031206607,
+        0.3483765307328125,
+        -0.29726220667284126
+      ]
+    },
+    {
+      "name": "The Battlefields Park",
+      "orig_name": "The Battlefields Park",
+      "place_id": "ChIJVVVVFdSVuEwRJ_P7b8Wllu4",
+      "cat_params": [
+        0.2062208333320826,
+        0.11473172870446287,
+        0.20868188838041088,
+        0.22257629347030372,
+        0.47066924841173724,
+        0.14687045350864936,
+        0.4310265936320212,
+        0.23771991155066435,
+        0.17864656393219053,
+        0.28130833192170207,
+        0.0608696096836643,
+        0.11925787944039462,
+        0.24086155323892422,
+        0.38007940966075293,
+        0.3163202497251522,
+        0.20722452266769775,
+        0.542154549297792,
+        0.40104011975939385,
+        0.1545828988381534,
+        0.10475156466985142,
+        0.7156493440761231,
+        0.2607919011312122,
+        0.23562034949595223,
+        0.13357618942550217,
+        0.03805634274051602,
+        0.3222920397184808,
+        0.3773611092718291,
+        0.5517063717116861,
+        0.5080344707910897,
+        0.4629600610678943
+      ],
+      "noncat_params": [],
+      "quote": "Public meadows & trees covering 103 hectares & site of a 1759 battle between the French & British.",
+      "phone": "(418) 649-6157",
+      "int_phone": "+1 418-649-6157",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.8015014,
+        "lng": -71.2173968
+      },
+      "address": "835 Wilfrid-Laurier Ave, Quebec City, Quebec G1R 2L3, Canada",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115742638627379980117\">Jeannette Aycock</a>"
+          ],
+          "photo_reference": "CmRaAAAAWjSQ3-bQkfl2FLA1a65usBBMtNrk5H94utOiCwim8PIQ6FrM5Cldf6G-aIEciqj5Hr-7KwEzNft2qx3Qlvx6atpswTwIBR-omI6iSqeoChIgxX3HGm8j9uqspOb30_l5EhAAoJ_WfpKbAzfF916CV5GJGhQiUNFDww77FfsMavQJ9XcofzP0KQ",
+          "width": 2448
+        },
+        {
+          "height": 3984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107463289783001173793\">Kamal Berraki</a>"
+          ],
+          "photo_reference": "CmRaAAAALPSyfln7-NpB5Sv-OQ0gNFzfNWNdipDxUK1ThH7bJKxeIvOQQFDx19Lxtbw_1NCXZxB68sydY1R7Rq1HdpDjvwkEHrYR3GMCc9-LB738Q_9qx-TnyezUsgmNvSJpKHFGEhCY92uC46-XKozm6cC5E396GhRxos34FkjajVWXzB1uGwqMRK2GsA",
+          "width": 2988
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108499167991569373245\">S\u00e9bastien Mourier</a>"
+          ],
+          "photo_reference": "CmRaAAAAZH_A6Qxx_i9KBnNideyZJWM6SuCTFYSNS9X3cENXkqNRqO6MKviDxwgoP7qy2p1mMDT6GAS4sbdCeIHNQj89nPdGXHBKSN9GiWqH7ZZ8t8iqnBAZhOEtexE6C08dHN0uEhD8Zk8Njv7webifa1N_lAdjGhScsVEZ0x2ZYvtv0_hm37wlevdwYw",
+          "width": 2048
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111644797072853274369\">Isabel Lau</a>"
+          ],
+          "photo_reference": "CmRaAAAASU7Pf2RbKQcJrkZQ2wnamkTj0ZIkS1pGLJbeWPeFTpuYKGqEoct2AVok_B5pSyRs5fNkYAuiO7w45tcJFRiMAiQGrZTd1YtGf9ORtjhGFVsuIKFWNgVRknds0tz8SG9JEhAzadRHKdNryL3Pyjl0fvULGhT9h3dQVvgriS5B5shSsMvJbndbdg",
+          "width": 3840
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111199965414833936176\">clochettedor</a>"
+          ],
+          "photo_reference": "CmRZAAAAr7s7QFZ1EwcxqTERRhW-piD4HlWeBOOcmaq8yTFnIQeFDA_L1gTppd68HUxjWaXu-g-dMlN6q4Htrvzdr6hoASR__CFXEh_v9V9Ozb-k53zIRFny34u38e_Wk8492GK5EhC7FadSeUhRkoQ4GL-bNlSfGhRIooa2RGa1jTvI7wsVnZHowudh2w",
+          "width": 4032
+        },
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111872682828002257356\">Gaetan Martineau</a>"
+          ],
+          "photo_reference": "CmRaAAAAsRaM2LORf1VMRzNZOmQaEh4pkValfL_58t85_RwDJd5fKumPXPsJLatCqgxNxwKNiPekipvQfgmacScM7IyZJYHU0jhwLRWCjK05IUkIjnrKx8zf7wVOEoCO9pFgJ35YEhD4zFYir5WvD8XwGcjC8UDGGhSdNmMHiFMdPgPCWYFspdgQZGYXog",
+          "width": 2048
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102361534409107900759\">Silvija Beri\u0161a</a>"
+          ],
+          "photo_reference": "CmRaAAAAOqvjAXs7VBYpeMh1niGNFIt3qPuk5hcj3jO9q4t7VkuBgmw4Ie08MIi68KTxXKuvNjXKqMN3ThTSY5XSC1cwPPOith4zOzccbXH556KmTIezKDt_f_Plxtfo_UWtt-HOEhDvC_PatQfq-PEL4UPsh7TWGhTVhVNRynBTtlVGjsXVe6ijDD_iSA",
+          "width": 2322
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109211336370914656765\">Conny S.</a>"
+          ],
+          "photo_reference": "CmRaAAAAU0kCyuHEVUKYG4js9jmUW9zn0jZyCY9YmQFvhn70lNkucbSfNHnNYKL5tc0EvAJ90lySuI0WokIaQFIqdXh-AGKqY6_Ar4y28RpOtjLOyvOh6wSeVCHvscXm6UquYUe9EhBcnFrXtCWggSUkamTTOlasGhSjraIIgj0jTmXwMXa9KVUAdmI7ag",
+          "width": 4128
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104553932406462134010\">Guilherme Amaral</a>"
+          ],
+          "photo_reference": "CmRaAAAAKTXbcfMxKzOZSNUvnxZW-FHiqFhZOHCSsks8WR46k-pHKUvrsJSb-gaFz8pgigXedFFaTpCR4k2E3xYlyMwlhFsF-Vl238Hi1bs7yBmG9vwWTrSOCRizH5KMZ9m9RUC8EhAAkDsX69wL-ouGcqasLqmSGhSZs1fFiYjbVDbPYNSgKhzv2J3q-Q",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103249646112598020474\">Liduo Luo</a>"
+          ],
+          "photo_reference": "CmRaAAAAHwG20nF6E5S_DVXO93LgNVsbLzBGqYKngxkxC42KS1jyFJ0xtFbcIzE9p8bV2GcgPrUUXo10V0_XUL0wCdCkl7XEeQ4JLTrw3hLrFMr5MrkC3Qe_-CN5SCCmAh5XnhxQEhAMqQFiis3FujbAUphbO3n2GhTNlI_bLu86cWKA0ZbFATvJDGzc5A",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.ccbn-nbc.gc.ca/",
+      "mood_params": [
+        0.006752340147823947,
+        0.04244292063169559,
+        0.11033041686664226,
+        0.13178579658269496,
+        0.09191113129357663,
+        0.17408424174589665,
+        0.12175776533015593,
+        0.020649278405429038,
+        0.17050509493294388,
+        0.02284113249555768,
+        0.07533230598292831,
+        0.01705576791674425
+      ],
+      "popularity": 0.6293674183402602,
+      "num_google_reviews": 2891,
+      "top_cats": [
+        "hiking",
+        "walking",
+        "military",
+        "beach"
+      ],
+      "duration": 1.4375,
+      "global_cat_params": [
+        0.5460461696834136,
+        0.029617761215279634,
+        -0.1567800495834961,
+        -0.062147577271172864,
+        1.022767550897995,
+        0.02323386216804724,
+        0.34838788838869533,
+        0.2951976996281523,
+        -0.41395911414206793,
+        -0.4258102039398716,
+        -0.5240534217201075,
+        -0.2055175608337724,
+        -0.13681149397498774,
+        1.2811109189551975,
+        0.28472814041227096,
+        0.43153350740074875,
+        0.3961532942154334,
+        1.120423721382332,
+        -0.14311566577117324,
+        -0.6157283074864482,
+        0.8684617105531314,
+        0.05391310323629901,
+        -0.2415312576861719,
+        -0.32311910418598516,
+        0.3023151934565024,
+        -0.23923870663847732,
+        0.8168281900039438,
+        0.852799525572442,
+        1.2605812286949336,
+        0.9161019588685836
+      ],
+      "global_mood_params": [
+        -0.28412777731178573,
+        -0.24220575538940087,
+        0.8542484298071764,
+        0.08888183279589282,
+        0.7368640636127644,
+        0.25587757546528583,
+        0.1600153875833054,
+        -0.3565985958766496,
+        0.6441700894411841,
+        -0.8114230917503796,
+        -0.377239560304685,
+        -0.5786911182074255
+      ]
+    },
+    {
+      "name": "Morrin Centre",
+      "orig_name": "Morrin Centre",
+      "place_id": "ChIJ5VH7596VuEwRY9ackQDg4yU",
+      "cat_params": [
+        0.10561475322360037,
+        0.05070891819130594,
+        0.28833219076480004,
+        0.18443681384280847,
+        0.1445556755080959,
+        0.3913613291778972,
+        0.3612552280024392,
+        0.2152201219829388,
+        0.18155345937961406,
+        0.26673838898156044,
+        0.05250878034884523,
+        0.05254138188419212,
+        0.18931593385670434,
+        0.16769756431602117,
+        0.42090613301548846,
+        0.12377249191243926,
+        0.3394395435912199,
+        0.2980659738565067,
+        0.216471214075285,
+        0.10942357140654056,
+        0.3436613470502159,
+        0.25627509738812937,
+        0.2665939301658513,
+        0.13146917261407542,
+        0.09450403501332003,
+        0.2405966614277305,
+        0.19456577285042265,
+        0.28636318388699117,
+        0.1403120366350963,
+        0.1722578152176748
+      ],
+      "noncat_params": [],
+      "quote": "Former city prison, built in 1808, hosting English-language culture & arts programs & tours.",
+      "phone": "(418) 694-9147",
+      "int_phone": "+1 418-694-9147",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.8127273,
+        "lng": -71.2104537
+      },
+      "address": "44 Chauss\u00e9e des \u00c9cossais, Qu\u00e9bec, QC G1R 4H3, Canada",
+      "photos": [
+        {
+          "height": 1290,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111095063542666910673\">Morrin Centre</a>"
+          ],
+          "photo_reference": "CmRaAAAAu9dAhnXDqpc-UDsK42qTajtJtIaXH7f7lv74jSbtRdVPXctbf6mfhTXNQ1Y8XgBbuokkh27si353u23YjYE-YA2iM2jSZo-hwpJhVG_R4opGLKHhJLctoRfeMAO6wS0zEhBwUZ2tcmyt6M-tL6SzWQGGGhSWiHMJDqYXO9OIHZr612dVvHTG9Q",
+          "width": 1800
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101828205780359312676\">Deirdre Piggott</a>"
+          ],
+          "photo_reference": "CmRaAAAA1ja87D30isbBRBklIFqb3_MnXMWsdyjODEo6SozfGJR1WmykfyaCD1cHwwqDCD7Zk1MsN0MqpYds7rX4bVz8BhSXbV5pjjoa7b-EZ-QgWPwMHFvDFmFIouThFnP1ru-_EhAGXenvamEad6mqShB1Qwm8GhT83hRmFo7Ut_Tf-z16EmSgwwueqQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117729922563901738970\">Kyle &amp; Steph Zook</a>"
+          ],
+          "photo_reference": "CmRaAAAAyd8XhBcv2kSz1faDb6HN_V3xh3j1eAlyiVrrKJVPlQeFp-weOLzmqNTt6Lm4MGB7t8GRUsRBNNZjkOupEo7o-ld4Tsetm-BynhPlwtnItgIqJsOvgfAVbL-ExZtjDf27EhBc73WkOZ-ZLkPlBOGUJYprGhRpBNZqNZZqEN-ry-eiqccSvI3-6g",
+          "width": 4032
+        },
+        {
+          "height": 1667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109682457632409140849\">Patrick Matte</a>"
+          ],
+          "photo_reference": "CmRaAAAAzcoRVrITCO0lDNkaaMFw4o-wGoX8EcwaGrxS776W5Pq8lJFg6XmIxqAN4Ettn9BSogwqlyjVlxFVt_TGzfeRrPpReMm_wEnuBDfsK0gHhwpgNaL3sgxFOOZRataVLB9sEhBM-VyF3oHWGCPJ3EIZHdcbGhQZx1C8en7vyL5J520chSQQfoR07Q",
+          "width": 2500
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111936859120778406832\">Shayana Varatharatnam</a>"
+          ],
+          "photo_reference": "CmRaAAAAPArcUcWOaDTdKpNztdpkgyvv5nmzpZM442TqvezUMF-k3bI6aPcA7WYH_73qIxUb7-UGCMMGoEuVWY8K5MxarlB38P5wmWD0q3kHjYdya90W2IfiMFdG5CJEHz7lqbqGEhDWabCK0jE1l-nGCgDUzKg-GhT03D2vQSMJoGD_3hPPKP3My0lwwg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101484867227412979707\">Kelsey Hubsch</a>"
+          ],
+          "photo_reference": "CmRaAAAAX6JynFVucpfjEQaUwC8E28KXkiHaRtOav9y91LEC3f68Pe9quQKJhNd9PvT2Wr5uYP4tylDXlK1IQvwf6LoxeKOhqXL-18VnX-OkOZAneg_Lqmx7imI5oEYrVAPbbZVcEhBuTRDQlbze_SvVpgfJllzFGhRMFhdLigiNT5e-k6x_4ld1CQviGA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111936859120778406832\">Shayana Varatharatnam</a>"
+          ],
+          "photo_reference": "CmRaAAAA-qziCQPrHXfvoV29a-ZlGjM22j-Q7PYfqfHkol0jg7_SGTxckmgUNWRxVj28WdcMfyBP068-xl0VczNBsE9MlPH1_5Kl4q9ar-6L3ZY168-Jihmtx5JcNIg72LZytmJiEhCBXw6yVOIpWLOp6ziAEdJpGhRx5yZfOCyKKJPCHMTKMRkaJeQQwg",
+          "width": 4032
+        },
+        {
+          "height": 3174,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112829990952542346298\">Miguel Angel Cuesta G\u00f3mez</a>"
+          ],
+          "photo_reference": "CmRaAAAAxykWQvC_Jpg_GRjhYrH19OTPrpB3682pC0xhBx24tEI_J8aiJiIY_2q0YMxqE5Dek8UoI-kf8ayUM1g-yYgoYdyGff8Te3Pe_1jPce4B6V4dNpbrZQEN8DBOnYC46I_TEhBsApJVWX8el5R5GmnAOeAIGhRRTd-8dfgpCraF3g-cXcYHq5c5Tw",
+          "width": 2610
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101828205780359312676\">Deirdre Piggott</a>"
+          ],
+          "photo_reference": "CmRaAAAA9_eSIkpa-l2KKxi5zsXTpAd0aNEryKUPsgehlx4dh7MNZlUEZRAfNokbN9TLwVuOQzvyav4QZvJcepmAId75fjQzqLbJYT9X9qcw7MDVGhVfBBqwAcZyjo3zp99KkJKMEhCOC50gVt_kHOGgx7JSVax_GhT3HmcA-9iMMXGDsE3gdAbIZU0WCQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102178112744537406451\">Chris Fehsenfeld</a>"
+          ],
+          "photo_reference": "CmRaAAAA_a8jN38L3k4jlyoKgZR2itPSurgKFKNF2Ml2mvWOykie0jS2o_jO2Go61besjE54KxlCWACPjKZhbcKrQbtKOazO3CyanIVh_oG2EnbzDMLbQfxQkJjUDzAdTz3_W4UYEhA6lbZf8nKyCYEVXIhu7uY_GhRQoTAHkKOo1kdxY_uIcySalfN6Xw",
+          "width": 3024
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.morrin.org/",
+      "mood_params": [
+        0.012510669135197364,
+        0.09040961354461319,
+        0.026367164273945434,
+        0.16975214039650308,
+        0.03439472812588748,
+        0.13553322403710508,
+        0.1041493952780575,
+        0.06624730240120279,
+        0.06674279706584997,
+        0.04589656830280094,
+        0.10731300294253357,
+        0.015756280680121002
+      ],
+      "popularity": 0.39062187142122246,
+      "num_google_reviews": 429,
+      "top_cats": [
+        "books",
+        "science",
+        "history",
+        "music"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.6746506140402914,
+        -0.7358848446053411,
+        0.6256558428251346,
+        -0.33470072210539964,
+        -0.9888135331423031,
+        3.2849057364527776,
+        -0.39410745821550425,
+        0.0453193306278745,
+        -0.37093988897322844,
+        -0.5807271466229785,
+        -0.6960062844046168,
+        -0.839136710358268,
+        -0.6938232901763071,
+        -0.27947686073904426,
+        1.4219961593901604,
+        -0.5458472639527082,
+        -0.7037868713168359,
+        0.04335316773333982,
+        0.6468627486065334,
+        -0.5226344837281304,
+        -0.9457268047095941,
+        0.009787247701209723,
+        0.10769051134743061,
+        -0.34277426959649826,
+        1.9275751807803985,
+        -0.8452083325216629,
+        -0.8959483951066545,
+        -0.8709729009277009,
+        -0.9591490692535067,
+        -1.082805474427632
+      ],
+      "global_mood_params": [
+        0.1033033562496192,
+        1.1948291690085933,
+        -0.6574786462411684,
+        0.6741883101736333,
+        -0.5254625388057299,
+        -0.22890212753808875,
+        -0.17321602365873123,
+        1.4616559162540486,
+        -0.7284686396696012,
+        0.08458437877513193,
+        0.3628002542317871,
+        -0.6581325066166867
+      ]
+    },
+    {
+      "name": "Parc de la Plage-Jacques-Cartier",
+      "orig_name": "Parc de la Plage-Jacques-Cartier",
+      "place_id": "ChIJIWTkPB6RuEwRsSbCfJWyWqE",
+      "cat_params": [
+        0.13941946636240468,
+        0.11027940884508093,
+        0.10936534955782408,
+        0.1570169708298989,
+        0.6906679969614102,
+        0.06309625341819064,
+        0.40553172600471354,
+        0.20906693374218038,
+        0.18247204256765368,
+        0.3688696853935109,
+        0.07494846669447201,
+        0.21300718732181634,
+        0.3109100207166273,
+        0.47323773764965843,
+        0.18605092782614463,
+        0.30062800028537284,
+        0.7257909656355056,
+        0.2783002074731303,
+        0.12095616849856952,
+        0.08785179393581531,
+        0.8081499723999984,
+        0.3233753725682813,
+        0.2007496930666813,
+        0.190960007826268,
+        0.002243127914588019,
+        0.3873655645673734,
+        0.3538057068272558,
+        0.6272462324982321,
+        0.7118697859450324,
+        0.6484266152204745
+      ],
+      "noncat_params": [],
+      "quote": "This green space on the St. Lawrence River offers bird-watching, picnicking, hiking & snow-shoeing.",
+      "phone": "(418) 641-6300",
+      "int_phone": "+1 418-641-6300",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.750331,
+        "lng": -71.3133991
+      },
+      "address": "3636 Chemin du Pavillon, Qu\u00e9bec, QC G1Y 1W3, Canada",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108169254639362557768\">Anas El Hajjaji</a>"
+          ],
+          "photo_reference": "CmRaAAAAmDm2EaBEHvM6QartDwOOcqJ4h7Iy2U5nP7oerNSEa-YV7HrssTe2NPiqZI4A8Q2lEOOYwk1A3Uw1AW4uWKmKiKQFgkqztLHh6NpN8O55SJx1DgvQ6pK4QaHvI3A4bLmrEhCB2WE62zXE78p_FCj7DO9fGhQDei79fjU6AoUTmYlu-DV6JRMlyQ",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105404232933133139446\">Philippa Parks</a>"
+          ],
+          "photo_reference": "CmRaAAAAwBukAS6ILkLs76ydZlZJBjLb25gI3e_6_0d6KNpxNjhx7cNVoBf56gz9e_4s2UnnmWLc1PDwNg4tg0QcE25kQUNcfF8X8aqPuwyiVKl-k6mfLZnm7socB7P5yrwV7D0YEhBOGepaIuT00mTwNlmYkB7nGhQgP5W8A7EsTcdJhC_x3PMzXyKJyg",
+          "width": 4032
+        },
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113425188445281191503\">Nicolas Mouchel</a>"
+          ],
+          "photo_reference": "CmRaAAAAJe87HuSh2ELQevbJ2RqI08DQk2_ps1PE79CEDyGSCtCgw2NIYl71Me-0GGvDqxgL21eanD1411hNipPYQ2B-jn7OYs7gLK9d9jrWM5U_TpkIOKPeAHV_czwiBKZAkwuSEhD-v0LpUm572veyiSQn5SORGhQHUUdF1wZpuFakcBHweWXWGCxyxw",
+          "width": 4640
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110596407316203891031\">Issam Alkawaf</a>"
+          ],
+          "photo_reference": "CmRaAAAATbfN1cyk-VYknrux42kNj75dmYt4Nt2Ln2HJcNDaFsrUfJm-g9rJbRPkVZIPW80C_5Ss8GGJQDFZrBU9-BBhoqOLBfPBDqlKU_aL_ZhkvR0ktpsfjFoB9YgnDHP8LJQsEhBsb_blDM8om0PUj2VxoetMGhReIaveynfW-v-Hc4THBMFrEU0rlA",
+          "width": 3968
+        },
+        {
+          "height": 2200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104141761119418744932\">Jim Photographe</a>"
+          ],
+          "photo_reference": "CmRaAAAAJrQZ9Edwza8CQ2_QhVL_sD3QHyT7zDTcFwY1brcVZyrRe6EQJNR2NWmHGE2WWkVMVtFRNSpNtGFqEFwqcJG-UzInv5kcHgUBd5AF0lQkBQsENYT77sGXW1WqL5TWS_WrEhD7rb_eZIeMsQVTBJzGLbN7GhQYQpUMYr1IGkMZ1kDfm-lAqCJhyw",
+          "width": 3911
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101139180180622266210\">Vin\u00edcius Gon\u00e7alves de Souza</a>"
+          ],
+          "photo_reference": "CmRaAAAAIGy61-DuMapbqlEcT0yso4RZW_IyjkvEcavgpUu0MQ_Jh2dItzCOYCeMP_72NnJtXxwZY7spIdbbSYdXGUzPqz7rPQ-Zj88OVAJRv_2Xif51lgG7Tvzz6HPxOk10YwGSEhCY9Rjuk0wRH2a7qpgz0ocZGhR9c4sB963OKzMD8IeOJJeC2RZ1-A",
+          "width": 4032
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105391218663072060796\">Michael Boccacci</a>"
+          ],
+          "photo_reference": "CmRaAAAALhnaJgNZJg3DWvc3IAueSUHdSR9kxaEop236OecZN7F5HcpS-PZ5VR6H-m_-4d87IPhVKEiyxm6BYsxkTtR0OeFBE5CXnie0aWAaCnn-mu6NdNgF0Cx2kGh_euDUpnQ_EhAMGtrBDF0bTKkhtw5QfMI4GhS6LkHYSM9aWI5WGcMOtmFkBretjw",
+          "width": 3648
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107432790542671053938\">Daniel Pelletier</a>"
+          ],
+          "photo_reference": "CmRaAAAAXGzxZ2zXL3xBBgS8SnpYR6NEfvFuTgRnfOMkdEE2nv7P-D11rLwaXe9KLnuWugNV08HVPlRYUPWB15tbTXXHTxjrzPfmNEElQXNXmdiAa1QbDnarjscG636oA_L495AgEhAZV3O-7gYMZfIzWsUbVY-EGhTRlVrTv58bBAclkQFiWpBEZtgHXQ",
+          "width": 3024
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104967403241192483377\">DaQuan Zhu</a>"
+          ],
+          "photo_reference": "CmRaAAAAneejwD46vG5bDRW57OYoxdWmhEVxes5outcmvQuzaFWJq-NlchYWOzbO9QdYZQb_CnVWsVvZahxrBkAUp3y67K-RA5kT-Qsv3Ao5D0Ju-qksrZ8e6PlRPMtp-LYaGdvtEhCE-536SoHkGakQbaTQkPmLGhRz3PcGa5AnHQXC3VvAMNkrOVvdIA",
+          "width": 3648
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112284274175532449701\">Denis Boies</a>"
+          ],
+          "photo_reference": "CmRaAAAASBHUjlRUWeEs07oYtgU8ZMoOh_MxPQjjp_FBJhnvQ74ext2zzU_Dvtz86E5zEdqEZdIc-2ukNndaGb_7hjxNg2-kHJY_8He13amU9DPUngWSIRaicWBkn5hStXpefGjNEhAj_tv0FezCtuozKUnHtFUkGhTYDEG1BaGi5qbZaPL0gncRum7aNA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.ville.quebec.qc.ca/citoyens/loisirs_sports/parcs/parc_plage_jacques_cartier/",
+      "mood_params": [
+        0.004047965122648839,
+        0.029412694447823275,
+        0.21329538799900738,
+        0.14457877990785198,
+        0.1380993194676104,
+        0.20234595975645953,
+        0.10766721837100375,
+        0.013583770827087404,
+        0.285151575272367,
+        0.024971521253470793,
+        0.0730547863845504,
+        0.019656544684675824
+      ],
+      "popularity": 0.5175473593828277,
+      "num_google_reviews": 1322,
+      "top_cats": [
+        "walking",
+        "beach",
+        "water",
+        "hiking"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.2644835092416047,
+        -0.02361736587435917,
+        -1.1324050297570485,
+        -0.5306489761723391,
+        2.3797957701000874,
+        -1.094370021730673,
+        0.0770757189227154,
+        -0.023016803677928636,
+        -0.35734575126951046,
+        0.5051980527688956,
+        -0.2345008343646514,
+        0.6848372824835998,
+        0.6201456084623901,
+        1.9656409361054616,
+        -1.1318218660393793,
+        1.5254645019476514,
+        1.3925722296574126,
+        -0.1633892602341347,
+        -0.5723467898143296,
+        -0.9524710321737934,
+        1.3195880342556487,
+        0.6653076593415134,
+        -0.6346918823932615,
+        0.21218200800123002,
+        -0.7288303278292058,
+        0.24343951008076975,
+        0.5961160944452664,
+        1.3435358063603846,
+        2.4910185988748976,
+        2.1913947335740183
+      ],
+      "global_mood_params": [
+        -0.4660831820613616,
+        -0.6325785111894371,
+        2.7080943676296414,
+        0.2861043001981018,
+        1.7505675540693397,
+        0.6112691598592134,
+        -0.10664261849437273,
+        -0.6383408712876198,
+        2.1607922374173083,
+        -0.7286294174874963,
+        -0.4299418257780004,
+        -0.4196981619365236
+      ]
+    },
+    {
+      "name": "The Fort Museum",
+      "orig_name": "The Fort Museum",
+      "place_id": "ChIJJ9khTNyVuEwRzT2Bjflz-f4",
+      "cat_params": [
+        0.15427350311270557,
+        0.03342228205691766,
+        0.25538039269816226,
+        0.2512020064009679,
+        0.16172723690019386,
+        0.21495383415946936,
+        0.364979582563403,
+        0.22581569951384434,
+        0.17190049324834733,
+        0.21579061332766503,
+        0.045337630041432896,
+        0.04867847515750561,
+        0.1363762596196974,
+        0.07513164126684246,
+        0.36283576865183764,
+        0.0947687826947768,
+        0.3050616127832341,
+        0.4325325217479489,
+        0.14619430009721165,
+        0.17270074068172858,
+        0.3098686247800142,
+        0.19056603387608578,
+        0.25324604316525384,
+        0.09367786032536843,
+        0.09002793496673091,
+        0.2270280802886981,
+        0.2247207282569327,
+        0.2331682647130435,
+        0.11605132496243102,
+        0.20946624306098902
+      ],
+      "noncat_params": [],
+      "quote": "An animated diorama show depicts the city's historic military battles at this quaint museum.",
+      "phone": "(418) 692-2175",
+      "int_phone": "+1 418-692-2175",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2201"
+          },
+          "open": {
+            "day": 0,
+            "time": "2200"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.8130951,
+        "lng": -71.205182
+      },
+      "address": "10 Rue Sainte-Anne, Qu\u00e9bec, QC G1R 4S7, Canada",
+      "photos": [
+        {
+          "height": 1463,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103727723363077507326\">Le Mus\u00e9e du Fort</a>"
+          ],
+          "photo_reference": "CmRaAAAAeEeau4UdXDss_E0ZkialEvYHU9wDy-KX3VUlhEfPgINMaRv9VWIbBR0_4LMUF4rYl8vyqbg-eeRIhbxQe8ZR8MRUxZFXJ84EBbrkX0h-XIDkknfTVhCXQ6RnJmSSHTi8EhAZa30qHIjjpjOzoIc_GulWGhSxC3DmdXuYO19qlwPB4d53n8zHMA",
+          "width": 2048
+        },
+        {
+          "height": 2743,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103727723363077507326\">Le Mus\u00e9e du Fort</a>"
+          ],
+          "photo_reference": "CmRaAAAAASXYYxJsLj3phVG9vIF8p8TsCw10w8ifZ1b5ZbC4XpJueA8Ih0PhTvY1d83kK73jaW9_MD1dVr_yptuX9xIcPe2bkOYqgeThsqKwcl5HO6lJmlPH0sMAazPdu7pPzGNcEhAohcIWk9FTnL8lj53G2gqzGhSTdk8enGMvRzeHPg9dwQvuW44Dyg",
+          "width": 4437
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103727723363077507326\">Le Mus\u00e9e du Fort</a>"
+          ],
+          "photo_reference": "CmRaAAAA0Luq_MZuR58qlj9uzLhQALrt6vunwyh-OY7lvL1aAYZCIcI5IpgNSXZqUsxEsqnxzp8TWntYh3cphkXFW5cPIHxXXpAh8R-RYLUm2qF3wX924d9O2dHpN7I3HXm_Izh8EhCK5WoOd6Gr1lh8cAaIkpiSGhQ4yQ6vsXw8izetDOqMHHZPriIccA",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117297710199888913686\">Hiren Bell</a>"
+          ],
+          "photo_reference": "CmRaAAAA4gVoCCHKrA5E_xY2BmIlWiDZtmhXdc_FLhQJ5lJRjFJ18AxVtDeRY_eQCoiq5ExdR4ZeA8dk_5VqPMwuo0En1tCn8h3qFyG-TFuATMeSRCNgJQmxZmEhuF-rPRvqUI4oEhDuGmcxzw2GQTpu731BdRnVGhSlWnhv4f97YLS4YxeirRRyMVHltA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117297710199888913686\">Hiren Bell</a>"
+          ],
+          "photo_reference": "CmRaAAAAgPWRkOnb4Qdq6553PUXNoCW_BhkAqVrlcBIqXWfahBQ6Nq3zAKU_bO2dWyMj7vIYtT5tQZ6VMq4pdLOAncltCge781GlQnNyCDsLzLLVQ4ZPIhc406kmE7ZDUbiySS_DEhDGuCi91U12Cws8dCbkGgxoGhR5bAMCDoAoq2m46ilTa7kpIireIg",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118434647672316994793\">Francois Lorquet</a>"
+          ],
+          "photo_reference": "CmRaAAAAtJNOEGM-mzCSAvvAa2Y0Inp0w-tJ9xKgIR6zhjrznl7Ud9GKxVP5y81vdjM0Yrbmo7XIlAe9MpZhpJcGd1hWuaYzJ1HW9XfV60S3xVTM4NuGD_HOfUr3gvcq1uZSgSrBEhBsAaprimqHCRQ5QYOzL9pPGhT0DZvWiDPBlJ94V-EiTz6NrTov2A",
+          "width": 6000
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102444362218314270635\">Benoit Jolin</a>"
+          ],
+          "photo_reference": "CmRaAAAAJnkBjVBtDLyjYPySFHLZX2Q4KC0AMnhPl62BprpIfhQx_26B5jWwZPxyo2QkXygX9XrEkY8uNaCBht2djgBtz9q9gqP3LFmlXVZ__zqXFsrnkohAHybMAQ57bM398sEEEhCHw7z-rlcua8lVUjhyF_U4GhR0sc9bg6b8kGN1YgO5G_p-MSnT5g",
+          "width": 3840
+        },
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103727723363077507326\">Le Mus\u00e9e du Fort</a>"
+          ],
+          "photo_reference": "CmRaAAAAsZdwqabddTjB1bKNByFLvonTLlzuh0BLLr0D9aCoPy1lZzOWn9cXqM19HmL0TnXhi1BnNkYuWOIjwgA_-pz2k7fdNd71uIjY_IiWXsGCyVYqpuDTlxd61ff_s5auBet7EhA96LKUw7-PpfnCC5JqQOGDGhQI7hSrw_7Qnxc7vUDZosjBvUPSJw",
+          "width": 2592
+        },
+        {
+          "height": 5296,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103727723363077507326\">Le Mus\u00e9e du Fort</a>"
+          ],
+          "photo_reference": "CmRaAAAAHNrYZ4niDUuyKMcmVRm3dR9HNkWfYwPU0TIXiyedFP7Kdv4dIelnicP9ltN3llyEXk0qaSZyujgalg5ezWwWp7XF04MAtqIu4irZK7UuLZ0SQjJ49w9jfl65udv-B2lDEhCxZCQtceAPzrpAxhDDQeC5GhRpQulgHsxOAKMoE_fUqZNHEfe0ng",
+          "width": 3620
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117297710199888913686\">Hiren Bell</a>"
+          ],
+          "photo_reference": "CmRaAAAAmpZqrbxKRoDPmcSklD-cBl0BHpJ36m9XsNjbNirqJ3u5FRqsZQrk_xwY43M7VBHC7chVJtL3GtKl-wTv0QYx39G2DcnUpCFPYufyvP0ld-oyeLyJxu4q12weJ38x7UjnEhD1UVHk_5XJuHgrgnCJcWSiGhSrCynr56XXDLgpgv-q0cCwbG3sKg",
+          "width": 3024
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.museedufort.com/",
+      "mood_params": [
+        0.005401360315543981,
+        0.04743741134941461,
+        0.01466689140388744,
+        0.11065841398716665,
+        0.014443750208205182,
+        0.08273492094528336,
+        0.08538051861906759,
+        0.03792999278719247,
+        0.035934585664906586,
+        0.048840202181380854,
+        0.10955049228414374,
+        0.017921138336219077
+      ],
+      "popularity": 0.3028483123330325,
+      "num_google_reviews": 155,
+      "top_cats": [
+        "science",
+        "military",
+        "books",
+        "history"
+      ],
+      "duration": 1.375,
+      "global_cat_params": [
+        -0.08425310103114451,
+        -0.9425762550679871,
+        0.3019575170822819,
+        0.14241808955427923,
+        -0.8828934152759202,
+        0.9315117157572164,
+        -0.35447349225157443,
+        0.16299179258887345,
+        -0.5137943985553342,
+        -1.122436450031519,
+        -0.8434916324149088,
+        -0.8758234634779692,
+        -1.2658995090768703,
+        -0.9596538697116672,
+        0.7905383931652645,
+        -0.885535434878184,
+        -0.8903229729329525,
+        1.4498223150598013,
+        -0.2501926140905557,
+        0.7382185022425399,
+        -1.110534188636536,
+        -0.6321420476149252,
+        -0.04280460773124007,
+        -0.6953079988418363,
+        1.798697878413073,
+        -0.9458523127395262,
+        -0.6133990557391743,
+        -1.2165477606167152,
+        -1.1055971282989376,
+        -0.82695535954552
+      ],
+      "global_mood_params": [
+        -0.37502422469895935,
+        -0.09257572765382241,
+        -0.8681376994417709,
+        -0.2368275361084425,
+        -0.9633315428240866,
+        -0.8928416864177086,
+        -0.5284095616181166,
+        0.3324825121203862,
+        -1.136020756506234,
+        0.19898334168135318,
+        0.4145762114438515,
+        -0.5257885381174325
+      ]
+    },
+    {
+      "name": "P\u00f4le culturel du Monast\u00e8re des Ursulines",
+      "orig_name": "P\u00f4le culturel du Monast\u00e8re des Ursulines",
+      "place_id": "ChIJY9RsA9yVuEwRF9Me6K7evco",
+      "cat_params": [
+        0.07691952442731227,
+        0.06599107397177184,
+        0.2752001377660442,
+        0.29893575717506216,
+        0.13071085981358022,
+        0.3177522372900561,
+        0.346697222306541,
+        0.3328153440109216,
+        0.15159468181551924,
+        0.33211437362236357,
+        0.08500115024211594,
+        0.04049769490221205,
+        0.19484215703350471,
+        0.0670112434768063,
+        0.3984224056099736,
+        0.1247165090092095,
+        0.3786594533393761,
+        0.2969888110734218,
+        0.12000535866470745,
+        0.12546135887061421,
+        0.3368015048958117,
+        0.11656012471837156,
+        0.2712240514303127,
+        0.18017965804210334,
+        0.13292425126966356,
+        0.217963606137123,
+        0.15523498775824346,
+        0.2740515263377384,
+        0.13649846836703053,
+        0.15624441082719392
+      ],
+      "noncat_params": [],
+      "quote": "Art & history displays on the Ursuline order of nuns, who have taught girls in Quebec since 1639.",
+      "phone": "(418) 694-0694",
+      "int_phone": "+1 418-694-0694",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.812205,
+        "lng": -71.207741
+      },
+      "address": "12 Rue Donnacona, Qu\u00e9bec, QC G1R 3Y7, Canada",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107432790542671053938\">Daniel Pelletier</a>"
+          ],
+          "photo_reference": "CmRaAAAAsAdO_4xzgRHsEmPphXTeOWGbxa9_7YdvYMTyWLtX4cL3X_BlBOA3nws_ljSKRCJEbxM1fAuIw6VnC2kEnsYb0f16_xoDhVTL4-fD7ulKyr511N0k8V5vVvuCoq-CEXMIEhDSO2L4NDX8xpns9l0vrZ73GhQoQaRx8gwpjsuloWBXVXof03Jgzg",
+          "width": 3024
+        },
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115322582549432025051\">Yohan Bonnette</a>"
+          ],
+          "photo_reference": "CmRZAAAAN9P0CwUnZ7ui0qJkcCtKfje69OFpQv-F9oZc4X9IldXU_kSrL6UUpVhF68AMI1gIXcCSfjFPn3Vy7heWuHlKLRuo6GtkW3f5Vh1hac4g-v9Nypmdlr2TL8S-JxXIdlLmEhBkRVLKr9WQLJQNIDBlKZ2QGhRIrFtY-IDb8fS-PwyWlhvRVNiRlQ",
+          "width": 5616
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107432790542671053938\">Daniel Pelletier</a>"
+          ],
+          "photo_reference": "CmRaAAAAgvrrGmLlv0nWVwVikgfeOuRB8yJxC6ESBHbRZ88bihGn6zTMkYyW11Vx-PtrQOHAIRogaCFh5bgijP3xFvKvBzFPBOD2z2MCSYsrDf0JkTf9gWuAQjV_CEu0DezrPTQIEhAkzL6FWE0EdBhyOQqq4C12GhRfMNfpPfvILAAzfiJw2PpWanWhEQ",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107432790542671053938\">Daniel Pelletier</a>"
+          ],
+          "photo_reference": "CmRaAAAAjQME-UilrsZOvkJGPfgR9q0T3KZyXgmmixpgvujniNhl9EmsjZfexJyjVHa2rAsl1MciVK1GAaTcFoluzii9k1wuGPFvVXKSjXEDhZUzpcYI63KaiyE1iuxFF_EGJbmaEhCMFkfTxcIFt635tTiSzowRGhReXEL5S-YBK9eRlO3LtPS7XvHdHg",
+          "width": 3024
+        },
+        {
+          "height": 3050,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101506400271390830980\">Mariko Ishikawa</a>"
+          ],
+          "photo_reference": "CmRaAAAAbcdUlOmwYxdyKC1xweALm6EXMA_HFrR6y-0G5go6hb1EwxRb2WiQwaRJstm5KOm7wmpcl09wgFmjJZNx98eTDBicDOv1xpwDV_j0-TrIe-IvBNdyHxgOq0wEUn-aVCNWEhCDmpYlWqUhQxhpQq-Xlp-kGhTsSgee-yIaeHwYBLW-L-8eRRFF0A",
+          "width": 4575
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107432790542671053938\">Daniel Pelletier</a>"
+          ],
+          "photo_reference": "CmRaAAAAZple-M8-khD0HTNQ96GgXK4IzfrFTPNjdJEox_Dr3Wv02TNUtEEziRbuQT-P5pnzm18MtSuD5P5SlLjR-KCfMk5UOfuA0ejuBx4eLpVJbZ9Jy_vIMHzN5WTGvot_cVZhEhDuC7o5Ke1lCcy7RU_tQInQGhQtannqm5pJxgG9vz596go0HR5a5w",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107432790542671053938\">Daniel Pelletier</a>"
+          ],
+          "photo_reference": "CmRaAAAA0QAajsyOFblygLDFQ6PXqDi_CQoyDwCyCWYCXLHeJJpbJS_2Y2akHNRhn_kCvT4F8WeEAv5ogfz8RGazGY5SrhRaYW9YC49-3vqU6ogsuD050RIceQigjfjz_rYe6vxxEhCfyd922xZHjEp0M8Pj0tiOGhQy5cXxKl4KdHJnzpe0cFXCYmkvUg",
+          "width": 3024
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106422457178403351188\">Emily R Majusiak</a>"
+          ],
+          "photo_reference": "CmRaAAAAM3NIA1Iyus31M6W-UZ-vMSqBdbKEfobOQCC48NBZi57RJKYrpzzr39n1WTZ8VD9SU-urGY2Map2Pe6-dqw_LOVIMV03fIt8QpHFBARwnD-EK1oeAjnPWwO2G97aveGnxEhAYbQbDw-Htz7SoCE6MTKaTGhQz_wyv89WN6txKHFJuv3RBH2--6Q",
+          "width": 4128
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101776397233501479138\">Marie-Eve BROUSSEAU</a>"
+          ],
+          "photo_reference": "CmRaAAAAeA-xSow2_Mtq6Z-uen3T_ubRgeWbm7PRPHDAIoyy9XorhcCqk0azGQkBUylop1phL_KB-n5IQai6gXLIyjDxmTg2NefVbuLkPmglohui4GbHsxE0hOeMMe5x8ZiwBm_4EhAsVKreeAZz_RFE6EnSTuxjGhR3PLEfiynTpox3bmhNKCkn_l1Ahw",
+          "width": 2160
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107432790542671053938\">Daniel Pelletier</a>"
+          ],
+          "photo_reference": "CmRaAAAAAQWsvWhVT1pjDTwaEPD81uDILzOiPBTlsouOBXvHEyBLUk1YxJUfB2EhZFkrxL0NDoc3pIw6Sw2rUM_a4MOPaqP9oY5sUAPnMENvjkBXdYV0pkgPPJcxbtdehCZ80NdPEhC0Pl2noaPDWAj9dyNriRKgGhQ3tK_IWOwonxTDfTsyLIr3qihbAQ",
+          "width": 3024
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.polecultureldesursulines.ca/",
+      "mood_params": [
+        0.003091396592206393,
+        0.08163138225039043,
+        0.05152273804683278,
+        0.18687884988570516,
+        0.04972663754791973,
+        0.12869232531773672,
+        0.11458039020622958,
+        0.05570749606599112,
+        0.12597962399246618,
+        0.04950930309140128,
+        0.12573937237196747,
+        0.019375459373414682
+      ],
+      "popularity": 0.26796195312066123,
+      "num_google_reviews": 95,
+      "top_cats": [
+        "science",
+        "books",
+        "culture",
+        "history"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.0228221506121795,
+        -0.5531604378081852,
+        0.4966545798085514,
+        0.48353401497538867,
+        -1.0742131352353474,
+        2.302911197617682,
+        -0.5490313498077722,
+        1.3513094241853711,
+        -0.8143006568863898,
+        0.11439209351815853,
+        -0.02775247909323656,
+        -0.9535178751703587,
+        -0.6341058683117301,
+        -1.0193227813213992,
+        1.1775078659297042,
+        -0.5347910421943898,
+        -0.49097798787881525,
+        0.03208645311313331,
+        -0.5844834789785297,
+        -0.20306753021130586,
+        -0.9791823112112421,
+        -1.3551254318802337,
+        0.15989432840196602,
+        0.11161823601714856,
+        3.0337823200198297,
+        -1.013087401497046,
+        -1.2644744696701884,
+        -0.9509542111015101,
+        -0.982169402639882,
+        -1.192915779818953
+      ],
+      "global_mood_params": [
+        -0.5304429001134436,
+        0.9318419964898821,
+        -0.20456191407882782,
+        0.9382214772691436,
+        -0.18896936358272762,
+        -0.3149265452202001,
+        0.024186413380526278,
+        1.0413734402467867,
+        0.05515667029852032,
+        0.22498672842823783,
+        0.7891901803913919,
+        -0.4368817146169324
+      ]
+    }
+  ]
+}

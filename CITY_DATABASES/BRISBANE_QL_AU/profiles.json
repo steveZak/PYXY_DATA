@@ -1,0 +1,4676 @@
+{
+  "sights": [
+    {
+      "name": "South Bank Parklands",
+      "orig_name": "South Bank Parklands",
+      "place_id": "ChIJfUOr1IIQlGsRF2r0OSCTg-o",
+      "cat_params": [
+        0.19214711404220644,
+        0.09995672210752671,
+        0.1633042758708865,
+        0.1405134758411501,
+        0.5047436411053412,
+        0.08678198147211157,
+        0.3966778468652515,
+        0.16248799762133123,
+        0.19463560567674248,
+        0.3014569636748631,
+        0.07796405914463274,
+        0.25017792764610863,
+        0.26826498267528853,
+        0.23817402972264506,
+        0.1793478854120616,
+        0.18573464579316368,
+        0.4054453422408506,
+        0.19081442344341643,
+        0.16336505020064673,
+        0.10081187114969282,
+        0.5550327781441031,
+        0.3521111316360034,
+        0.20194242657800412,
+        0.13994662583950584,
+        0.004550815781636679,
+        0.4200422612141616,
+        0.27313843353628753,
+        0.37544983656866465,
+        0.4252127238586148,
+        0.45886382946121246
+      ],
+      "noncat_params": [],
+      "quote": "Sprawling public park of lawns, gardens & playgrounds, plus a river-swimming beach & a Ferris wheel.",
+      "phone": "(07) 3029 1797",
+      "int_phone": "+61 7 3029 1797",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4777164,
+        "lng": 153.0226593
+      },
+      "address": "Stanley St Plaza, South Brisbane QLD 4101, Australia",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113146810177991977261\">John Pellen</a>"
+          ],
+          "photo_reference": "CmRaAAAAbb42YZgeohCuoF-qBjBS3omSfyH0Qw4DVDZCYvL02Usb24wmt3SOHTqWxK04bzTo8IYbAlNSzAwXJHHGStz0LrbdF1kunWUz4pOqqFuK4LKrZBLsEoyl85uFRIxm1Q_hEhDe-fC6AesxhoG27V5zNCH6GhRYaPC0TxDI_-Hax-8i_NkOpfp3Xg",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101667516992713108768\">Ragu Nadarajah</a>"
+          ],
+          "photo_reference": "CmRaAAAAbOj-U6utE78uW642LMWk2tjriw1QtykjCHHa5EaLuRhJ1iqWXB9D4NtAwbap0PTdUjsZTBKBa20HvifKXacEJ8jIVKQJIgZhfvu-jB0MVZtKOAQXRY4YFPysNfH8awsKEhCuZ7vLwEEEj-8I9GMVC6O1GhQ0F0YwR3VEi3jaAoECEnkyXpFWqQ",
+          "width": 4032
+        },
+        {
+          "height": 2916,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113575377172104523522\">Aruni Mitra</a>"
+          ],
+          "photo_reference": "CmRaAAAAu1ewJfZBSCDpX6msXmWd9czdD1bdcoWEFQ9OUW_xuUXq-od26KAYbk3_3aCciYadh5RxirOS1uHGlSLVey4mFOoWwlPtFg0yyV7xJqN3VY7SrQ0Xz7sfSFThxhM6F1WAEhCahAQuWAeMWo9CuUZjmFadGhTXtqycX8k6b57NyGHXs9H57Wh0Zw",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108141037484513736681\">Bernhard Bolinius</a>"
+          ],
+          "photo_reference": "CmRaAAAACn-kicUcHbGE4t98E2r667uCUSf0YLtqIh2lomjNcjkhB9Jgg4G8b74UsJbzp4CAzPytBn_LPOb7RI60V0JrJE0oCT2OUdNvspUnkrIPjXsYUHU_5UYxMB2l6evTHBSXEhB-vQoTqzCKda5ACNNW3etlGhTEujrEe9CY4F6l1UxSXeOK8Y7zIA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114243478280093354505\">Felix Ott</a>"
+          ],
+          "photo_reference": "CmRaAAAA6A8rODMYP7yxbLg1pAlJP5tyGMfmKt979WwA3UjHIqB1_PwTrvBoMtEuZdD2de5Pt_YaP63kwKaB1k8opRq_w36WY-51MNYazHHQIf4JcOtELPRlPGH7Ac7LjHL0ckLKEhBDOY5xP6d7ilF7o5zJKXOvGhRvhuDmADTJ_eYFFjemHdleksm6Tg",
+          "width": 5184
+        },
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110646758955670610971\">Andrew Finlay</a>"
+          ],
+          "photo_reference": "CmRaAAAASVxyFsygR0o3SQm0e0zWlGO8TYlQQ29g5_UAgFWVmLO-WruRxOFqla-Hqdkgg73Rlz0-MzzTxo2LhHYf-pGozqAL03xOH0s_N8WkoCJCYWsIRewWQtiF7mXmGDe2odMiEhCQSEs_CCttjf9c5zgv9w1tGhRLKHwdneBbYDpFGMlUgpvchg6RkA",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102752201335810830820\">David O&#39;Connell</a>"
+          ],
+          "photo_reference": "CmRaAAAA_v4_veN5wreg4niCraN79ZqgwGs8SPGqQyyOy4ujqBfDhCkRTZ72e6a87IoJzv48emrd5UtBC4Cek0ypgyno1m8zMVqkIiXixA2FKcp0UfDBjOyXUmNNk1cvrIxb2GKoEhBpdTNnwNEij3wkg3Oz6-ByGhRIRyzn7GC6M0oAqhLYV_KtYhRHng",
+          "width": 4032
+        },
+        {
+          "height": 2704,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115900500034639881264\">clemens hendler</a>"
+          ],
+          "photo_reference": "CmRaAAAAaQxFio6uE8shefOVq5p9lxQDZvNHlLK9KhKUgoWsy8wkqnHPd7GBKMTSANasU2LTkaklXfNVqDw_wcZDj3u_tsr2NO67gPq9YEUcXAAzlgppTZg0WkU4YejfgSjt-mteEhB0c78LGD3m9nlAwLOxUKrCGhRES-E4hc43Mz080d2xV-Dgi8I95w",
+          "width": 4056
+        },
+        {
+          "height": 1996,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113799111167026410622\">Evan</a>"
+          ],
+          "photo_reference": "CmRaAAAAHerVkQ4FcifyL_xlD0hxftwPA25puGZGv9w6Kg_7UI-vi01a9sIlo8Ejn31ybkNo7OEmD21JwNpQeQnGtpbLjLei_j2fWsjTsDrwVYZokP07Pno5dK78GLEWlz0boaCwEhA4FNxkOM3EzSd7nSINhwaSGhT27TzoLOuyKEobUO0T_aczJv3ijw",
+          "width": 3000
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114389342210806642170\">Shaoping Sun</a>"
+          ],
+          "photo_reference": "CmRaAAAAjbQ7Z48uJzWj2ElyTu5SZ-uHTN-_xWMIQ07TZlr-hK6lLRWLN5w-hIKKhQhdIG4Uk84v4Za8ZhSLbLyXu5q9YQXui84ltaRsKu6f1q2QMm_llD7-zYur6Vuxb01ZncFbEhD3CCu4HCyuVMrnqNNKCcVuGhR3YyHxH9kFfjE4A7PtwHuQJ93MKw",
+          "width": 4529
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.visitsouthbank.com.au/",
+      "popularity": 1.0,
+      "num_google_reviews": 16496,
+      "mood_params": [
+        0.008300581922329481,
+        0.042390102577244945,
+        0.05891759888275618,
+        0.08534119078412444,
+        0.05152821757956446,
+        0.1458983227737737,
+        0.11168305210792591,
+        0.016073148990130865,
+        0.10728613113899507,
+        0.024762807198284213,
+        0.056293744755276674,
+        0.01673738461642909
+      ],
+      "top_cats": [
+        "beach",
+        "food",
+        "nightlife",
+        "water"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.3752836883934419,
+        -0.14704280648421525,
+        -0.6025419823871746,
+        -0.6485865962938434,
+        1.2329501666729832,
+        -0.7783865609820482,
+        -0.017145800193707227,
+        -0.5403135789482796,
+        -0.17733684840062078,
+        -0.21157707734005468,
+        -0.17248070050837874,
+        1.0378548078960135,
+        0.15931519215986856,
+        0.23838619149641108,
+        -1.204710821293758,
+        0.1798464933660491,
+        -0.3456366256568985,
+        -1.078457416566938,
+        -0.031015183126187194,
+        -0.694230149392468,
+        0.08513339995036971,
+        0.9460349225650427,
+        -0.6212440181876675,
+        -0.26369291414547386,
+        -0.6623866416033649,
+        0.48581657052697247,
+        -0.15972932033583018,
+        -0.29223139744007387,
+        0.760633648893359,
+        0.8879357237466233
+      ],
+      "global_mood_params": [
+        -0.17995917787276558,
+        -0.24378813233212912,
+        -0.07142020024475389,
+        -0.6271293993226006,
+        -0.14942964490976546,
+        -0.09856083473177803,
+        -0.0306445596446,
+        -0.5390750987670184,
+        -0.1921336538411447,
+        -0.7367407086473926,
+        -0.8177957288506281,
+        -0.598154804121789
+      ]
+    },
+    {
+      "name": "Roma Street Parkland",
+      "orig_name": "Roma Street Parkland",
+      "place_id": "ChIJeSeo9gFakWsRuITQQsDsPGs",
+      "cat_params": [
+        0.2080441582119853,
+        0.11886472995717443,
+        0.20316220879353541,
+        0.21157177643610328,
+        0.48124322300220473,
+        0.07911639705293402,
+        0.36670532588892807,
+        0.1343435397427794,
+        0.22535381842418703,
+        0.31634342288973616,
+        0.060334075344808155,
+        0.2074659530695825,
+        0.2860921509089592,
+        0.2673708724440976,
+        0.20781616964302832,
+        0.22936789079385597,
+        0.47928555776484294,
+        0.214661896346507,
+        0.15925336503591397,
+        0.11131903423166241,
+        0.7848669674204048,
+        0.26870211420685763,
+        0.22774702002520114,
+        0.1171435562286422,
+        0.0029170227013781747,
+        0.3643312804716684,
+        0.3024695724673294,
+        0.4470075666568883,
+        0.5304846613621627,
+        0.39829376834830543
+      ],
+      "noncat_params": [],
+      "quote": "Expansive, acclaimed park featuring contemporary display gardens, waterways & an amphitheater.",
+      "phone": "1300 137 468",
+      "int_phone": "+61 1300 137 468",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4637221,
+        "lng": 153.0203148
+      },
+      "address": "1 Parkland Blvd, Brisbane City QLD 4000, Australia",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113715405439300840912\">Premshankar Ramachandran</a>"
+          ],
+          "photo_reference": "CmRaAAAAC2UI3VAxvusgD4AQK48p5c6bpnIVcwWYV3uZMRvO2FrekKwa3FPr2-W6118x13utcoq7rNYm6LIfbbsStTpLtV8kZ8fY0WZBGLq9r0cvUNa05vFWQvUnexKxZ-TN_Q41EhC04MO-bOAuYbqCIsM8A_THGhREPYCW3dYZEhueMoKmUIMOwGMxnQ",
+          "width": 3648
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114243478280093354505\">Felix Ott</a>"
+          ],
+          "photo_reference": "CmRaAAAA5dYCOLI-DwHrXKQ3BfhF3thll73k8JMYgRtFFxRs1ePYRwONVRMrrce8zDHbiza_5EHIycLgHzEe8FfKWGCTJdNXD0sHr-0e1MrOMB4z4u7TKzRrbtLY3mFbsIvrUtFxEhAETzJIJCQUWrTM9xl8qkoYGhTMGLN1XlMajuqvGUVBHd3MP9yA4Q",
+          "width": 5184
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116506400968343845666\">Veronica Blackwell</a>"
+          ],
+          "photo_reference": "CmRaAAAA3NAQZ8hkF2rGbxWLwfeTkdWbJuXX9T-nOHp2S9f-viq9IpjpiCN-dGr1WHATCnjhwTlKObu_zIRXbjXfgqZcgP3buUJvMccsx8K1X2PPhhG37FC0IvQZ-We8wnysA45FEhC8VyH2XjB4Gk0soU8isHnvGhTzHIc_akxwh3mCh1HXsOws0AKCxw",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110740320679121806219\">Isabella Leow</a>"
+          ],
+          "photo_reference": "CmRaAAAAVo4XwEilboo39Ecs1bfXAV651AOZg3JzP7vHfkDoqeIG1TXUJ-Ri_oVk0K4emrtJ8UwUBAeVHgvWNig2HpCNDMXGVCT4A8CdF3CfPZ6RnYR9O-hEYT8gKJeiVpZ1t2ybEhCs-jMYKLyEvGfOTtVG3pqCGhQ0ij2UMK7STJObJzllZU1sbXqA7w",
+          "width": 4032
+        },
+        {
+          "height": 4640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103004975068072072509\">Rajagopalan Venkatesan</a>"
+          ],
+          "photo_reference": "CmRaAAAAiAM5sbfl4Q_WqgfuVJqELhUDjCAAZfsh7t9y3RYdszsflHFnsisVx1JmG0nena_fHITk7snR0cT4wELMRmKB6yOsUq3cbJdAwDreEkJ9poV1-9plffzikW673CUj7zJVEhAWA9qRaNT7YeX44o2dbmL5GhTm9yDTNooO7nqLhxmfm1-ZTDIPXQ",
+          "width": 3480
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112013305862291535657\">Mark Brian</a>"
+          ],
+          "photo_reference": "CmRaAAAAhNGMrPT4XGbEj-bviYDK4ntksCrNuWy4WUnaMjb-dR7uANbuc5-jLhkGC_6yFnO31HNDeqVrd_gVHmPQ0ZDMdkvFUIuZ69oULLB8o5JPJfjNJ6PjNVjM4ok1zH6yMIKVEhBQvOuB_84Q8LXOg6KxNFaXGhRtxmBiwnY_cTgYzXRlRg6VkTFJIg",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110110755159059968323\">CE Tan</a>"
+          ],
+          "photo_reference": "CmRaAAAArh4NSU49J4AwLj9a5NGtw68l0IttileoNBGavzS6Tqo_Nrg1HioqjvWWEE80P55Lk3EFsKccBhNMHFk8xEC3xjdzrS0Ud9T5CPGnhAUASg0beENg3yjLsTEWyK-lONzNEhAlHHNlW2MqtzYZFv_n-HthGhQ6pbEd_wxPUe2jrD8pY8Q7_1S3GQ",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101449143158368175129\">Danny Hunter</a>"
+          ],
+          "photo_reference": "CmRaAAAAkBs55XGVtFVd2khafgiSD02dVnMlAAuZ5c91gmOJt6DNi_GRwyXl1TrV6aqApwSw_0Z_KiITcf_G-Cx0Lpl23DaQGGciqfsemgmnNh9hYF3C9lODgMCh7hScEc_DlmAmEhAhFPkY2_FCwWBqzshk8IS-GhSIHZmK3PlupaOTYmsSa_Rh_vnmXw",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105139656707402362626\">Esa Elf</a>"
+          ],
+          "photo_reference": "CmRaAAAABb5t0Z6yC7gunuvvqaaPQ2iIG_iye5w6V4nYN8qFGtK23V-RXJFD1bJdhlIoaLcQGTNYIyzlLVudsz_ShuUH2uOHiDDL54-YiZmagn9P5DIZGG1c2mljrqBQHlYvgYD8EhBs2Ve4w3coronORJ4hEtNRGhQTAGWoNW5YlZv-THepqWTo2k-IEA",
+          "width": 6000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103985491253636687689\">Muhammad Farooq</a>"
+          ],
+          "photo_reference": "CmRaAAAApCl6JhHzNLdQQxNafAS3FJvi1AcAOr_Db-SE18RRkTUd4aGpJOQGYGuQESx7H_sgr0cDJ9HmPDg4WEwm_fXqUwI0wt1UygQ5VdJBZmhquaUUwHdKk4dXIDZ1vGt-Ah_6EhA5d7nuEkx0a6zvXKpc7LIzGhTAI-_JMcE6B5fasYDoFAZt3h07FQ",
+          "width": 3000
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.brisbane.qld.gov.au/",
+      "popularity": 0.7672014177147556,
+      "num_google_reviews": 5715,
+      "mood_params": [
+        0.00547689463731074,
+        0.04675119516917317,
+        0.13167225133014726,
+        0.14645263337664496,
+        0.1224650052310868,
+        0.20860242101701332,
+        0.13696343411476253,
+        0.019400596285031643,
+        0.18252542961434676,
+        0.034726365927653,
+        0.08107339537201762,
+        0.025515931777285207
+      ],
+      "top_cats": [
+        "walking",
+        "nature",
+        "beach",
+        "hospitality"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.568169353631945,
+        0.07903488619701422,
+        -0.21100200849740294,
+        -0.14078828643519883,
+        1.0879914760475073,
+        -0.8806505863022025,
+        -0.3361084168789873,
+        -0.8528805569602639,
+        0.27726282154550413,
+        -0.053294731388569154,
+        -0.5350674801280062,
+        0.6322111365852978,
+        0.3519589729123647,
+        0.4529254139181537,
+        -0.8951463925919106,
+        0.6908741372648618,
+        0.055023496189056026,
+        -0.8290218847871017,
+        -0.08349912156287471,
+        -0.484865727789353,
+        1.2060366278326031,
+        0.13119007591022636,
+        -0.3303016867580733,
+        -0.47640982396712644,
+        -0.7094273338619238,
+        0.0725843551381585,
+        0.11510092949012389,
+        0.17263541538540944,
+        1.3961002059901484,
+        0.4714479011648271
+      ],
+      "global_mood_params": [
+        -0.36994213439653706,
+        -0.11313408923368376,
+        1.2385002068021576,
+        0.3149924801692896,
+        1.407437426237898,
+        0.6899442665620827,
+        0.4477766314111855,
+        -0.40639070747867706,
+        0.8031833077268948,
+        -0.34952516741136874,
+        -0.244389587331757,
+        -0.06149699400989581
+      ]
+    },
+    {
+      "name": "Brisbane City Botanic Gardens",
+      "orig_name": "Brisbane City Botanic Gardens",
+      "place_id": "ChIJC2MwhxBakWsRMLgh11ujAg8",
+      "cat_params": [
+        0.1770391010686056,
+        0.10541134811569886,
+        0.2348287608228388,
+        0.23265081394243411,
+        0.5303672635381939,
+        0.0915090365176725,
+        0.40466204347959056,
+        0.13093247946762154,
+        0.21250432865602736,
+        0.3033820120653281,
+        0.06286066560575795,
+        0.20750861034732457,
+        0.2797108801651638,
+        0.30302801271295227,
+        0.22439497771095404,
+        0.22809362752820156,
+        0.49331089048924526,
+        0.2220194380375139,
+        0.14561011370861446,
+        0.10401451934835937,
+        0.8257591585143201,
+        0.2734588464934346,
+        0.2013266593054655,
+        0.1474130303829985,
+        0.006649888471507272,
+        0.3744219793889819,
+        0.294234023304096,
+        0.43187683153688017,
+        0.5510924786213557,
+        0.4315614232417642
+      ],
+      "noncat_params": [],
+      "quote": "Landmark botanical garden offering an array of plant life, ponds, picnic areas & a concert venue.",
+      "phone": "(07) 3403 8888",
+      "int_phone": "+61 7 3403 8888",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4757456,
+        "lng": 153.0300037
+      },
+      "address": "147 Alice St, Brisbane City QLD 4000, Australia",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100506509094237468796\">Pablo V\u00e1zquez</a>"
+          ],
+          "photo_reference": "CmRaAAAAdXmCenhr_Iqkf4n9CFnj1Wa36z1Cbg87YmLJE_7zWfq7qmBKvAjyk7DVDV3lqSkV4zGFXHoofVu1x08YcUZCImvBxJ5SeNDeBfuxOlk7JuKGR99X3fqgV8gMFx7gDRgrEhBbdL6AQseHmazy1_IiIbzDGhRlrcCWqadmxfwaKJzbcMHA5tzY2Q",
+          "width": 4000
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108465602447924447561\">Stamatis Stamatopoulos</a>"
+          ],
+          "photo_reference": "CmRaAAAAU30cU-hcCRswVSwA27ma-tus6DrAehuT_YRkL2aKiX8Br_-Kl7JFxwTBukaMIJt1BmyROHMYcNfNMFoynkt27XK2bJXjLFN9YejnbIm_y8m6AEP45Hbs9i6tM7vHxMFaEhB_R_sjH0mdmQWPFwaVx_h5GhRuNy7GQc3sWUbZ9KT6vyvPT0o-Xg",
+          "width": 4608
+        },
+        {
+          "height": 2832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117845286355262037534\">Przemyslaw Kielbowicz</a>"
+          ],
+          "photo_reference": "CmRaAAAAH3aDHpXKVfyfv4mBVsyTMmzkjufA9V61mYyqXm_rzhIlwlVZkJJVkAwHgwY5G3Gtawq2muSabefSUktMKsp6ckwQV2GmOMV452lr1pwsRcbh5jq8OMrnZoh1X58hWcypEhAQAKfTd7UYrh1pKVP15LxiGhST2ACpxcmpIoPw49JdOUAm1PeBPQ",
+          "width": 4256
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103621149761716498638\">Michael Martin</a>"
+          ],
+          "photo_reference": "CmRaAAAA8ffFIYU5e3QbV4C7jU8qszi0uPiG4mK8sdCdS8BacxggVPYwrsqSvE77DYJghH7yEdqWpl0t-7YasAiC5tA5TnuBFmDJ2cOgP7LuH4XwMCfWjvPIXCgaCO_Yk3fmKRHdEhB6FsNzn75pD4B6GjUzlPm1GhSI7eyf0W2_9twk2gOodMhBUNFBEQ",
+          "width": 2048
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111395237784534131119\">Tony Naden</a>"
+          ],
+          "photo_reference": "CmRaAAAAHqpGYbjc14z6EL-dEXMwqna8ItvlbV_zfx1ekbpix0UiQeYK4FGtyU5HQNew3GZLc_JNtSEa3a0eWRsM8FOqXKygN4QI7OULdRbh8X3PGHWYbO3wxm999KfROYDJL_PaEhCtnWd1krH0-Pa4Kq9ChQ9pGhSjaarOBl6fjVeTPFFlJtkrPgqI3g",
+          "width": 4128
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111441218811421729342\">Saurabh Kumar</a>"
+          ],
+          "photo_reference": "CmRaAAAAIWAlbWVg5Yb3jAZNcadFXKo-XLn6Z2p2mNvk2wCEzxmW46grpQHO5GZfUHYbiGf7eHuMTWotxYYi4QpmkwuwEcsPdRLJtwdtYoFTmtYurDigVg6zZZgRmayZlgNVKNihEhDI8rhuvgevP93szDpuOtr0GhQ-Xma10ViJ6LyXE0SfEPDGFYdU7w",
+          "width": 4608
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109213325708602241563\">Manuel Schmutte</a>"
+          ],
+          "photo_reference": "CmRaAAAARI4sQgf78LkGxNb3rgKwf4Anl2rCh9qYiTNsneMjZVZQdRuZDY5rymD3GTYDIKS6v8jWo_e-52MiAmnuHpM-YKQ0OdaZ7Kl_-1skFBk8PrBIocXCJeG36SoKErS940Y2EhCx5LmBrgVfcC-goydqw-r2GhSOR7jfZ4RD9uNe1U4BYtqTn87Tjw",
+          "width": 4160
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103076707487796993473\">Heidi Letzner</a>"
+          ],
+          "photo_reference": "CmRaAAAAHpiE2FxdFO9k2AlyUKSD45SqkzTg4yEF4xa1f9A8HAFgAsq3wbjdzRLtbTmHKiqyXbZMp_q7sa6YlNUsSq8QIPpYhTk3HNdubxm0E8YtTVkNa_QpXUxhtmAcMfiZqWNgEhCb2CE1S-gz0u1enjJiW7Z_GhRyHt_CTRHSEfC957Q7I119HQQWkA",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112895911613822665930\">D&amp;T Steel</a>"
+          ],
+          "photo_reference": "CmRaAAAAGMLyt8jlJmLs8K8unjN67VmniRnNNKPp2WgWpV670VLwgzRCWK9ct9R_qve7Ba9r-l5MeNSdkhFPzsSONVgIjP7TLHMyGO1xn7qwOuH1J1e6jM2GSAacnWotCaAO7jtSEhDHUTIE5m6c45XemhmWB_cmGhT2S_Ch7tkNZxlfLsu9bLTjbAhLnw",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118240364224771653144\">Sam Hoiles</a>"
+          ],
+          "photo_reference": "CmRaAAAAbfxPC_YK8MVfF2s8tbPmaUv3RcVcu-o1RE9XJVHrH6XlozbJ7WGAt6LDywl_R2XhrHqGALh0S1EhnUDbfd8RyXbHdi89wjOTwL63YR6fBwYAtWBFrMvCcRnFKv_Q_rIlEhCR55Wh4XsXm4ZJ73mS5WvwGhSPNx6I23uB8on4Bv1lqbjmJddjQQ",
+          "width": 4608
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.brisbane.qld.gov.au/facilities-recreation/parks-venues/parks/city-botanic-gardens",
+      "popularity": 0.8569230524349557,
+      "num_google_reviews": 8895,
+      "mood_params": [
+        0.004718864381593789,
+        0.048172548886343515,
+        0.1462141000897263,
+        0.13843260216427097,
+        0.0938156764501719,
+        0.19589968511615802,
+        0.12030710678619672,
+        0.017352680315784755,
+        0.17718206765831693,
+        0.031236617972420142,
+        0.07926353186199794,
+        0.025047882443781918
+      ],
+      "top_cats": [
+        "walking",
+        "nature",
+        "beach",
+        "hiking"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.1919716775741707,
+        -0.08182338875536341,
+        0.1000708456517162,
+        0.009847171062950284,
+        1.391005514481972,
+        -0.7153244837241641,
+        0.06782070116435548,
+        -0.8907631413974413,
+        0.08710287130336516,
+        -0.1911087328590172,
+        -0.48310440196878424,
+        0.6326162607904646,
+        0.2830017439247459,
+        0.7149350846227991,
+        -0.7148682554738901,
+        0.6759501096262149,
+        0.13112554272849525,
+        -0.7520647861567149,
+        -0.25764950858181446,
+        -0.6304145806722394,
+        1.4054681794945862,
+        0.17765985711735313,
+        -0.6281866877653541,
+        -0.19404305870612318,
+        -0.6019494701979599,
+        0.1474313927032768,
+        0.03793454194183877,
+        0.07434028217935572,
+        1.5204978279351025,
+        0.7002007353934651
+      ],
+      "global_mood_params": [
+        -0.4209438263613826,
+        -0.07055173036218793,
+        1.500320775048793,
+        0.1913520200713934,
+        0.778663583128409,
+        0.5302071466794449,
+        0.13256225067150817,
+        -0.48805285257278885,
+        0.7324976568183321,
+        -0.48514785805499633,
+        -0.28627019606217474,
+        -0.09011019454747884
+      ]
+    },
+    {
+      "name": "The Wheel of Brisbane",
+      "orig_name": "The Wheel of Brisbane",
+      "place_id": "ChIJDdaL-qBQkWsRr3o8gfZIQuo",
+      "cat_params": [
+        0.1469825445016265,
+        0.051475538632001515,
+        0.14400664109393496,
+        0.1380273126460495,
+        0.2508461779708413,
+        0.07780370546827438,
+        0.3370911628115422,
+        0.09338386263614248,
+        0.22352517136336544,
+        0.23781660932731688,
+        0.05274146814110245,
+        0.0774418229812324,
+        0.19874060154817158,
+        0.19280923851180518,
+        0.212047090900275,
+        0.1430351048810213,
+        0.3942103014496349,
+        0.17041619692060297,
+        0.13402556507070298,
+        0.09776376730389463,
+        0.38372798928015633,
+        0.24459906912360876,
+        0.1925867793034914,
+        0.0934578107721876,
+        0.01347956970099432,
+        0.27463916607362115,
+        0.2245372805090532,
+        0.37304809430200425,
+        0.21640761087854665,
+        0.3212147449553515
+      ],
+      "noncat_params": [],
+      "quote": "Enclosed gondolas carry visitors 200 feet into the air day & night for panoramic views of Brisbane.",
+      "phone": "(07) 3844 3464",
+      "int_phone": "+61 7 3844 3464",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4751412,
+        "lng": 153.0208245
+      },
+      "address": "Russel Street, South Brisbane QLD 4101, Australia",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110063341086679499593\">Boysie Sabino</a>"
+          ],
+          "photo_reference": "CmRZAAAADQgm-wdrsUP8nsqaxZgt5DM03WSaXPTJv_jIF8dpKylDGcbq5ime00OqlCBBRvJ5rGsuFrivcLvXlRjQHt7PrsKqnpNxzxDyl60Eu9sntS_b-EVfGlylD5nVqatmtkXOEhDCRMBukkmwqgdJ0gm4M-WdGhRBzX7O_SAFcs1iv-nVCnauw5cSKw",
+          "width": 3000
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111541111600246592327\">Andrew Wong</a>"
+          ],
+          "photo_reference": "CmRaAAAA6E5I9zn4fHQGQX_T5BzKc_W7a9u0A0GCo9EMdHaETYj52nRtihIL77usNc_yWuLnmWfGEz3eTo70miDjmhtoogaXB5m_OD1a6XLWG9Iss0Popj42deG7HV4bgWUB06I-EhCw2aOfcZUSbQC9PWJpzv6qGhR8up6WWLnSIOuC9QlOIe9XnNAXOw",
+          "width": 4032
+        },
+        {
+          "height": 9072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111547849523945050730\">lizard 1337</a>"
+          ],
+          "photo_reference": "CmRaAAAAeTi3Yq15tOc9Te0FLVRbYBd641lD-hUlOZCHrumyzctbOgr0M1fysG6g2ZOquOavkr6mK8TtqW2l3XvgL9OJwbUCydoidMceuyJxnbdH_fwjTIwJQQp5MerChrhC7IZKEhA3GXQfovTWYDQpxt7DABDYGhTw-Gml0c2eGIf4rC4FJD4NAmGgZg",
+          "width": 12096
+        },
+        {
+          "height": 3672,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101473463348329118380\">Jeffery Li</a>"
+          ],
+          "photo_reference": "CmRaAAAAdIdUBKcOxu1M2k85f0tab7jHyNvDiC_4CdOAK59l6F6AGTPuQ_LX1KdwGUlQ_CFsszLmI1ykrkoDTbBUIRuMAJXel7Kz7ogyLnro1d75Mlb7Wkdqu07JTzNIIny5dMR4EhB0MFiKG33Tz2R01SFc2RqhGhSw0CJAq86QMLalD5Lg2r8wcIlmTw",
+          "width": 4896
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104973301371811812103\">ionel b</a>"
+          ],
+          "photo_reference": "CmRaAAAAw_RrI5hmyXyKZWZXVhHHSRI0JDxl1yoCksVICISCH7HJ9oMRmGmoodec3htzySlEjhDgTo5yqM7WAWnam5cJrJlWXf3Y88VNXMGSqyO_WgnWG4Q3SfMnduA9Hk6e1Iz8EhC0jDrbAIm-xdL_tbxGO4paGhSml5Sq3hF-OHNqU6RGERB2pd9IJw",
+          "width": 3968
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106050301892372321829\">John C</a>"
+          ],
+          "photo_reference": "CmRZAAAAtY2EquUek3dR06XVmdhwAJTCoYJheD5HS7kYMFcb_GE42nJhw4KdcD97UdBsaa6H_HTikwJ2TRTWrQ8ESazyl72iI_cZnsx8fgzuBQ0lXN71io5vYu4RlTSe0as-oXFbEhAq4zGWVoyWCwXEr7mW6vn6GhR0nv4zhx_kgw6xAGec55fTmSetWA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102188919611381000007\">Ash M</a>"
+          ],
+          "photo_reference": "CmRaAAAA_v3q_4fy9XiSPJj5gkZchDiC6M09MhsEVIk1NjAdg9ZabAavr60j79jYibnV4Y_O-oqV35io7QXQ_qqKzSwml40PRMjMnDixLXwdua7qXhm90ST-SdmrqSIfRETOBAyWEhDGpuuTlLfChcXU43n2ZZDmGhSGcSHkUAby5_kuAO7K596OCxsbtw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105669749771683288560\">Alexander Bunt</a>"
+          ],
+          "photo_reference": "CmRaAAAAAuEA0Ihp1qdIVu5L7jAiwoVwtcQXc21Ui8knt03obWYxJ0UbL8Vqh2oH2JZ4YrK6P1h6GAXnMHhHRYUBxAGasHl2zTCJIHcolSV_wjdD1oGsRrNSrIQVsCzOK7gQ1bE-EhDIoa7rDE85BtqE23HqGczPGhRwcCpwj1Ax9DmuqOTk4_xi-5zJ3Q",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102859641299700453724\">Leny Bak</a>"
+          ],
+          "photo_reference": "CmRaAAAAT3BUMSJ3wKLn-vqEwS2HsyLzpxl0_bQ3wNwn28zT5Yq_E2cau2aVwYhfYMedH709kcl8hkAqWKlWfjjglwMClvLjkEjkkF7-Jbw1q4mQkRhkMuCgDaMkJcTokWBH8QhXEhBSddU6NR8_POzPKDe7HprYGhR423xJstBEuPHHFjQaPA6Hg7Qw3g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111547849523945050730\">lizard 1337</a>"
+          ],
+          "photo_reference": "CmRaAAAAo2qO62R1kvQEu0QFZh6fncBDDQcw8ZUq1Ec_6TqlhOy0ZivUfUtXXdbPYPkP8tpMMpyhq32kxlCctc-4FD_JG_4aq9IdXtm58xxTIZIodcfn6X8qKCm5NGOKS40KZZQWEhDztjshPCvoPKv5LZgy410WGhR2gSGZ1Yz8egvZp2FCU5yXf0Dnaw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.thewheelofbrisbane.com.au/",
+      "popularity": 0.6987289143248533,
+      "num_google_reviews": 3932,
+      "mood_params": [
+        0.010270109420661568,
+        0.04290024195871375,
+        0.03083963983983058,
+        0.08839463698931484,
+        0.033801477402273836,
+        0.12257359549898574,
+        0.09776295898531095,
+        0.019028339822025436,
+        0.08223765885848014,
+        0.04202086577593919,
+        0.07807978056552148,
+        0.024042355326299343
+      ],
+      "top_cats": [
+        "engineering",
+        "water",
+        "hiking",
+        "nightlife"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.17271743357655384,
+        -0.7267185812013436,
+        -0.7921101527026111,
+        -0.6663532675755165,
+        -0.3331770250894058,
+        -0.8981627703850424,
+        -0.6512574480055064,
+        -1.3077709140179044,
+        0.2502006237173899,
+        -0.8882419872367842,
+        -0.6912207146497434,
+        -0.6026525289547036,
+        -0.5919785331951634,
+        -0.0949555716712645,
+        -0.8491393093670855,
+        -0.3202457135634806,
+        -0.40659843055426004,
+        -1.291815137980855,
+        -0.40552141831459076,
+        -0.7549662866050775,
+        -0.7503214616344087,
+        -0.10427897384159493,
+        -0.7267273243149076,
+        -0.6973607163820205,
+        -0.40530710659489966,
+        -0.5927004889202755,
+        -0.6151179453635516,
+        -0.3078340482138498,
+        -0.4998035520955385,
+        -0.058557748983376456
+      ],
+      "global_mood_params": [
+        -0.04744568777305941,
+        -0.22850485839843576,
+        -0.5769533902376711,
+        -0.5800560795690027,
+        -0.5384827578924168,
+        -0.3918696767011504,
+        -0.294076794550224,
+        -0.4212347058412724,
+        -0.523491997517499,
+        -0.06603773249772178,
+        -0.31366244117203756,
+        -0.15158095627927512
+      ]
+    },
+    {
+      "name": "Mount Coot-Tha Summit Lookout",
+      "orig_name": "Mount Coot-Tha Summit Lookout",
+      "place_id": "ChIJddUu-gRRkWsRDLQ0TLIl_zI",
+      "cat_params": [
+        0.16957044045397518,
+        0.07584339474096688,
+        0.1339719588312916,
+        0.17736722803442392,
+        0.3536670006664391,
+        0.06988732110562357,
+        0.4070787371088308,
+        0.09475714016836594,
+        0.2471720106513231,
+        0.27987597670265,
+        0.0783577667153899,
+        0.3096059482758829,
+        0.254316219559309,
+        0.2751033230618871,
+        0.210471040261692,
+        0.20151455462706003,
+        0.5777717790161332,
+        0.2084446543661622,
+        0.1706262809049858,
+        0.10736331936182925,
+        0.5365962388941514,
+        0.34072082207441073,
+        0.24308356005684428,
+        0.13863447708084745,
+        0.004127307871324896,
+        0.4970533464134796,
+        0.29900503476492984,
+        0.6036341564231845,
+        0.319362876020685,
+        0.33775754190080176
+      ],
+      "noncat_params": [],
+      "quote": "Scenic mountaintop viewpoint with expansive city views, plus a cafe & restaurant.",
+      "phone": "(07) 3403 8888",
+      "int_phone": "+61 7 3403 8888",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4850152,
+        "lng": 152.9591263
+      },
+      "address": "1012 Sir Samuel Griffith Dr, Mount Coot-Tha QLD 4066, Australia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106395820006348585884\">Santosh Sapkota</a>"
+          ],
+          "photo_reference": "CmRaAAAAZPIN9z2lDM-aLNFehv2MXwiCqMH8b2ukrQpj-m3EpVUPkYY_nDS6LITtNs4a2FObFuik2ze2vfuvWdq1TOOpj8tezSslXolnu2vWdQSdN12bWeQTtNxVoYQ-EOsfWwEvEhDWvrZixpXoG0-mbhPxjpNLGhQbygYAtj2TOf0l8t3NQ5TysLV35Q",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104344945146596552432\">Janet Cheng</a>"
+          ],
+          "photo_reference": "CmRaAAAAiMtlaqFKENy-6lR1MiyycjJOoD3K_B1p8REYEGpPL20vBPo_5q7oPBXJ2X9lpz4Xrmt9FQm83kFyLCXlpGMOHEVgLOdSP5Uk_As_fuWXDHMaKzOZDD7JeoBplUhmDA3yEhBvGNHzq2p8N521nS7XCvtfGhRXbmyi5Y4uzMBj_ZpEx_13NI1Q5g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114808905881416706964\">eric lim</a>"
+          ],
+          "photo_reference": "CmRaAAAAbBORuUQ9ziKYyoFOvapxl8QiVGlToonlELtactBQNJ9p700fgUDxQzjFlIK1wMFXGUkX_uuHdtdxjoUAOGl-fK3ogZAKDaqyhkoUaOJZ_LhjN1wRSe5Jw4elEvvxlXKnEhCMyMdB95CiQfbk8Tr7UZOhGhQi8Zs3zMt5iLM-92rOaxzp_iDl8Q",
+          "width": 4032
+        },
+        {
+          "height": 2468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102524574145832012947\">Suzanne Bell</a>"
+          ],
+          "photo_reference": "CmRaAAAAw0C2Zz1iQ_jJcKFHPCkTqlDt8ZTkxfMyPmEN-D2P4nohOCqJemDG54yJLi1xWGE-kaX3f4f8VPap1iV5uCAYK9VOJi5El5AfT3WWWC9XyEEsqe9ANJRUZ0JPuVwixiKhEhAAPqkVLqEf2lQUFH1eisphGhR3vKmrvP3DFdE1g9RzaMJDtD24pQ",
+          "width": 3291
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104447094263251380865\">Alan Simpson</a>"
+          ],
+          "photo_reference": "CmRaAAAADzb5B-FM29B9PdjqYHbkn3oNQRNHfHDvepVk4oA4gaC5MFaBP7_59sKg8Wdu_w_0cU9Ex6bhmRSuwGWwUghVx11z_L_0gpn60xfL5yGjjz8JkcV7l3BsHTLcGfvnucifEhDkMew3TtwUCnE-R22PmJe_GhT3Kh6O_EnZlZLYWnutCXwmGK3gSw",
+          "width": 4898
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110348317525585091306\">\u9ec3\u4e98\u7fca</a>"
+          ],
+          "photo_reference": "CmRaAAAAiwj_wmdgLmVckE5iPAJwIhsqa3dZkaN8-G1vM1F1Yqa3HksxNGDVaynJya62KZlwmbZ3K45VuReykf13pKc4QY6_wTiQ15uyxykmdsDu6t60Dvmjfh-7ZXAMUmpAslzdEhDTT26DGjRFB_0-rrz6x8OoGhQCjffsxEHFJn5s12XAnrcVGqoJgA",
+          "width": 4000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116068946614632131750\">Michael Malczewski</a>"
+          ],
+          "photo_reference": "CmRaAAAAfo6d82PdGB8vRiSruPkNo3DxyWpyb2j0TnwX8PXGsVxnT2Mc-7jb75qzqTyNACZPkiO22NyOByf8OUeeTnSnwFQmPzu1Fc-Fnp4i_RDpEA3Hyx7sFZhLxR7jcffDtKgdEhC46cKG40sZNntSoThT1K-0GhRMIAux0rG-qjKZjG3ay6qn_eVMmw",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115223855651630427520\">Jack Hsu</a>"
+          ],
+          "photo_reference": "CmRaAAAAWcG6KLfEZQTYaE9WVkKKu5Zwm9zr5D50zpQh2zMR8AvXjFuITzfwQufzdpYIn6gbA_YbJzqw98eoY0pLSy5SQ7kbcGYoaIObQnQ1Y2Dtf4ui59uBLjqMV_-vrQ-e1NVsEhBb5HOoL62TieY6RczJbZxoGhThuZx3KvgjeMV0qWL2CDy8hBDCiA",
+          "width": 4032
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107938151289591216794\">Kate O&#39;Rourke</a>"
+          ],
+          "photo_reference": "CmRaAAAAjbul0dL7_3tRFyD_h1mjvD21S4vRG9EKCVxYgvlgIVqI1ZMRHPOU3bRA6huih3cDgh01XxQcHiHX-3EL-bRi-5k4tNMNI1QMPZzpby0_KurweHez_Jw_Z2LRWnlDCKQUEhA2kq-dqNc8TwvAgKXMJZFBGhTcq9BlKwEyzCXqExGk-KrvE6NQew",
+          "width": 1836
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103938211149438621610\">Peter Nemere</a>"
+          ],
+          "photo_reference": "CmRaAAAAvvUmDPvusRhYzkoFNJ407KhOu4odMDMS40Wfm9F70yONqJSkHKGw4_M4Kjhsogm3vnMbU3IHNaJ5yX7ntfDLCpCeEtrquR400cpXAdw2Pc2ZsVlbKOYGjt0eC8iqwh0sEhCKTrpczKRePYSmMulD-MobGhSkkLH1mKwtclQM2Z3KlhYgyrL6dQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.brisbane.qld.gov.au/",
+      "popularity": 0.8256798836204101,
+      "num_google_reviews": 7667,
+      "mood_params": [
+        0.006048587687810396,
+        0.03611623969774671,
+        0.05413884873013127,
+        0.10756158436023489,
+        0.0726054391712749,
+        0.16850877360064723,
+        0.1486125573998569,
+        0.010753409690460819,
+        0.13574221476102086,
+        0.03333648954927138,
+        0.08170975454408769,
+        0.014899651969993705
+      ],
+      "top_cats": [
+        "food",
+        "views",
+        "shopping",
+        "nightlife"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        0.10135121029055773,
+        -0.435359029813928,
+        -0.8906847385631571,
+        -0.38522154366798705,
+        0.3010573005117547,
+        -1.0037726347654878,
+        0.09353875552214637,
+        -1.2925195558261393,
+        0.6001508445833122,
+        -0.4410399198202537,
+        -0.16438352005639645,
+        1.6022539185903526,
+        0.00858219697738129,
+        0.5097436787826692,
+        -0.8662773009502739,
+        0.3646590057564562,
+        0.5894138839563875,
+        -0.8940518804547035,
+        0.06167138454439134,
+        -0.5636868091115453,
+        -0.004781753323039227,
+        0.8347599629247238,
+        -0.15738484844399242,
+        -0.27593320608560623,
+        -0.6745804166405867,
+        1.0570407874099061,
+        0.08263850910745622,
+        1.1901425875471647,
+        0.12167857720085468,
+        0.055192730257186524
+      ],
+      "global_mood_params": [
+        -0.33147755776502896,
+        -0.4317468912378354,
+        -0.15745981605665493,
+        -0.28456967448414844,
+        0.3131573051593263,
+        0.1857659687633336,
+        0.6682316639064765,
+        -0.7512035889375699,
+        0.18430290607812788,
+        -0.4035401783852939,
+        -0.22966410701242096,
+        -0.7105006808979373
+      ]
+    },
+    {
+      "name": "Museum of Brisbane",
+      "orig_name": "Museum of Brisbane",
+      "place_id": "ChIJPbZTLX9akWsRB3KZOZSp5gg",
+      "cat_params": [
+        0.15189360101003915,
+        0.04729007294146175,
+        0.297509455880863,
+        0.257955206757868,
+        0.2432248980267562,
+        0.1712618622190552,
+        0.3551347237218703,
+        0.20629955942638808,
+        0.21659475056970695,
+        0.2332000164729676,
+        0.04764198725247229,
+        0.05418526349503023,
+        0.17739906304281627,
+        0.14497431125545773,
+        0.2632974197195546,
+        0.09910543356704317,
+        0.27288805621403917,
+        0.29107687378890146,
+        0.14906696464341868,
+        0.10873438599098839,
+        0.38077981547120654,
+        0.19804196381228148,
+        0.19997840199418823,
+        0.10574130202473547,
+        0.040013439291626714,
+        0.29455009291943773,
+        0.2262077522873434,
+        0.27556581116837053,
+        0.14797394531542502,
+        0.3109688265320734
+      ],
+      "noncat_params": [],
+      "quote": "Tucked away in City Hall, this museum offers historical city exhibits, artwork & a clock tower tour.",
+      "phone": "(07) 3339 0800",
+      "int_phone": "+61 7 3339 0800",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4688172,
+        "lng": 153.0236158
+      },
+      "address": "City Hall, 64 Adelaide St, Brisbane City QLD 4000, Australia",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101412779575087581729\">Craig Chiffers</a>"
+          ],
+          "photo_reference": "CmRaAAAAdMNIjXu7VOYLVxIePA4gfpGStJqi4S6ThOr-xvFdBai9s-hUvJZFM5wQcFl018NUJZpGL57k-gn_yTIlbW48fzQOeCItUSxZCNTN7n4Idbq1qJ_tV2VoBFhpaJsCEC1QEhCxEZiAqh_vt7kbJIVJmkX4GhQgAmqD5Uowly7ZPKJED56oANUrJg",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118274858941105756346\">Sean Woodley</a>"
+          ],
+          "photo_reference": "CmRaAAAAaXSRELnXxQ6l-7mrZ-PSW_bzLNMMqEuvN2I9E-p964QpmVtRF67lfdZhCysAW7aiTnrFAn8uPV73g_RCPtN3d5Wl6RXCBoaxPHvG2XTdMe7gtlUXkVBCHcqHmU7CaN3VEhA_p5n7Sr7jSVXEu6EhPlqeGhQ86AQyFYYPbtEs2NzmxdWtYqC4iw",
+          "width": 4032
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106120988670366404163\">Dominic Toon</a>"
+          ],
+          "photo_reference": "CmRaAAAA-8Rrd-dq11bdSt0dWC6nRZ8UXZmMhtDkd8NvvYd1l9Gb8hKDKtLEHYzWpJfZQHE-DPFL8tO1RJm5gBj_7lfcyVDZMP9yn49c9oE_2XQAAoubWucuaBsAbJfZFY8lT9D3EhBaXZJNjp0vzhElnpX2zrH9GhQ4VGocP-ltB-WxoB3zsvGccKZWqw",
+          "width": 3840
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112472595887472342751\">Will Wood</a>"
+          ],
+          "photo_reference": "CmRaAAAAgN7-A0natq9o0O1P5m4KmqppQuVhxkK1DEzhdE98MLxQ54y-DnjcRcDJ7Fd2rr053ymycMm8cNiNYkigC0b7xNRIsi15R2r2JUGME7M7pZGEhmf-fs_86_m8vgD5tyuTEhARKky4pGY60_HeCw0S9rd_GhS04Rkls15Y3cHm30DPtNeLinoXHg",
+          "width": 4032
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102549013895515953367\">KH Hoo</a>"
+          ],
+          "photo_reference": "CmRaAAAAO_GtC1CFOhs3azvj6ZtkM6bVErIvU33nEI7CjqdOCs1-C8bdlPLaBWb_wZl1hVZMGg_H6fyZ6LTCTaQSHsXE6GISeTPtVsL4tCvT_4ZVpPPnD1EIKKwqeaEGCApsAdHUEhBmfVECcepV-cNG0gAkjZRJGhTTphWEcvqSifqkevnz3W8lGztqZg",
+          "width": 4032
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106120988670366404163\">Dominic Toon</a>"
+          ],
+          "photo_reference": "CmRaAAAAO2axpbPmnPCEwa6CPxqMysk21Pk7drZmfth4Y1NkELuAJ3SnahpFyIu47J72v32RhggqLW5CWc1SV6uzQyWnX4aE334EB2kJuJbA6MlgMvy2lOVfhL2NNd2tlxAk6oXzEhBTV08LM0ZDxubxJXPpBWZhGhTvRkCjfAgoBi6qvDySEB4Ozef3aw",
+          "width": 3840
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116275378972947388279\">Ann Burlingham</a>"
+          ],
+          "photo_reference": "CmRaAAAAMlrK6qpVhvlynISzeiztINTDWm4syuPOKPwi3liQ0-86h--djnWkeG229xeVyQhojwGpu-C4TLhkRB8e-6gRqk73qF6EKun2F3ooUb1RYHMZ2TP0LQNfr7Z5hhk3f79YEhCOq9yj-zq0KdFGXgxC8N0gGhTUztiXlTgw4PbHvDzyXRGr04mcPA",
+          "width": 4032
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106120988670366404163\">Dominic Toon</a>"
+          ],
+          "photo_reference": "CmRaAAAAHDNM0NoeChJ8ZPDEdRduYFPjXTlN-De2rEV8oI3gSfpdci7CQYraOFcDuAEesSmz6TgPAJdCj3BCgGU0nM-sl10gocXBlHzoDyEnol2EcmUnpwVprmzw-zCt6jbfu-9REhB_-Nw2TIoIhiM6xQxfuLi_GhRkgj3UQHNsV5YPhFBGboHRiGj5gw",
+          "width": 3840
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104073305529620977712\">Dean Huang</a>"
+          ],
+          "photo_reference": "CmRaAAAAMq_F9d3bxt1nwrCjn5pnfJ3eqILyvY6e5fUZ1NMU6nfCMrf8-Q3YialUXwgvgq3nUdDoxWFjBG75GPNQhRX0ve7IT-CBbEFNbWJluxVMEplcF-rJ4QRzkwNUGvmqlf25EhDPrS8HDHE-BL9oukc2lWLyGhTxBB7404r7Ri_6joCDq8X4G9q9yQ",
+          "width": 4032
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110818850943978077619\">Prong Kongsubto</a>"
+          ],
+          "photo_reference": "CmRaAAAAu7JIk9IIMHCdVYjhGJv-koQs_viKVD5NEWM_fg-BihUosOi03V7GyxWdOvmX_YygeOnR9p8A364pebgreNrmYicYmvux1zKPHhlesQEYcq_67Z93mp5XYQBzdGqK7Rh3EhAL81T8zsWftVuft5lSFgIDGhTDAAbrBj_9O18eboo-zQeJ3m25JA",
+          "width": 3968
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.museumofbrisbane.com.au/",
+      "popularity": 0.5230847724180863,
+      "num_google_reviews": 1235,
+      "mood_params": [
+        0.005450926162540569,
+        0.05058537218522697,
+        0.014698589603185742,
+        0.09667766750971028,
+        0.019727001949310173,
+        0.09460557479362267,
+        0.08001672255874548,
+        0.03633691058419962,
+        0.04166082303795083,
+        0.026068914912142273,
+        0.0879540126511076,
+        0.011967888187067292
+      ],
+      "top_cats": [
+        "architecture",
+        "science",
+        "books",
+        "art"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.11312947549250518,
+        -0.776763008601521,
+        0.7158076866474462,
+        0.19067795080424296,
+        -0.38018771046258765,
+        0.3486315750566883,
+        -0.45924085364479905,
+        -0.053750734693681766,
+        0.147637136990871,
+        -0.9373285521977254,
+        -0.7960991067194312,
+        -0.8235244569227403,
+        -0.8225992695262131,
+        -0.4464479640537124,
+        -0.2918426829527521,
+        -0.8347450690085162,
+        -1.0648980470135923,
+        -0.029750171103022468,
+        -0.21352425473133824,
+        -0.5363671063950411,
+        -0.7646997295031501,
+        -0.5591077022860603,
+        -0.6433880559369816,
+        -0.5827749897385134,
+        0.3586645425224921,
+        -0.4450126130063326,
+        -0.5994657684319278,
+        -0.9411168285845123,
+        -0.9128985029075193,
+        -0.12901005126035858
+      ],
+      "global_mood_params": [
+        -0.3716893419005073,
+        0.0017340816530686922,
+        -0.8675669851749752,
+        -0.45236110215214276,
+        -0.8473787214936805,
+        -0.7435680124897321,
+        -0.6299172721845813,
+        0.2689571956712495,
+        -1.0602701674012214,
+        -0.685981214066069,
+        -0.08517070784499041,
+        -0.8897278243740576
+      ]
+    },
+    {
+      "name": "Story Bridge",
+      "orig_name": "Story Bridge",
+      "place_id": "ChIJnyg2D_VZkWsRal5z9mIFSEg",
+      "cat_params": [
+        0.13272806837901632,
+        0.05846672965710778,
+        0.30068867279344635,
+        0.1603504644401531,
+        0.3328236454854295,
+        0.06396020268446634,
+        0.3666127087066913,
+        0.08521305221215643,
+        0.2116266160188731,
+        0.22114660101393122,
+        0.06923273785584848,
+        0.12799792981172312,
+        0.22072485123990854,
+        0.2898453332617818,
+        0.27564071279674457,
+        0.15924377080232222,
+        0.4839988426301926,
+        0.17576338258685384,
+        0.1857294229726143,
+        0.13615251151031665,
+        0.4498843371495151,
+        0.27206876647779743,
+        0.23971537195821646,
+        0.10534460431653181,
+        0.009692855498971312,
+        0.2933993897064263,
+        0.2287901411549733,
+        0.41556859424851667,
+        0.31015144125868865,
+        0.5441023498274475
+      ],
+      "noncat_params": [],
+      "quote": "Pedestrian- & bicycle-friendly bridge offering picturesque views of the city skyline & river.",
+      "phone": "(07) 3403 8888",
+      "int_phone": "+61 7 3403 8888",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4635918,
+        "lng": 153.0358212
+      },
+      "address": "State Route 15, New Farm QLD 4169, Australia",
+      "photos": [
+        {
+          "height": 1707,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100356192376533811063\">David Edwards</a>"
+          ],
+          "photo_reference": "CmRaAAAAOFmpXxxRHMtSShjo5H05JqYDa4e0gJLA89RK3Ops1mZl4ExhCe0CWjESyO74H_-ZRjQF5XFCEeuD1kznIelUEftUTxfwLlOxCFXMc4E80EBg1rj2_r-zTLz4JYiztLIREhCRqUO7luSLT_8qs5FRv0SUGhTP_yjvbwWLAugg7petT933A_XCfg",
+          "width": 2560
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108093408089432966223\">Adam Bolt</a>"
+          ],
+          "photo_reference": "CmRaAAAAVJ0xknI58hTBnKjFF3uBlanA3QHDqCITR2R5emKdys2ESNsKOhI_1Edbgt5XF3Qf8iNOPcq_f8TExD1Qa7t5rdKCig-xrDoXF2zi6KKsoz_HzPxu4N60ALAm1AkKicdKEhAAjrzf4BDvok2pEkpsGDtzGhSUv9tysTeHj58pcqKEJFg38MznMw",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106163940790398630723\">Zhou Dong</a>"
+          ],
+          "photo_reference": "CmRaAAAAd-7MHwvfO9Nm0coh-8Mrjp-LMYORSTKMGkgdtIy9iR0pQ0CH-043PjOAiBDihb1z0lJTNz7Q10L1P6Jh_rinBCWINJe9Z0bmsGH-axa-mdpy8SVpcAQ-DHgWm6A1NxywEhANCoKgdS6cktdGkAssTLrBGhTBNL14_hJRHbASPCpgyG3COafpIA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106163940790398630723\">Zhou Dong</a>"
+          ],
+          "photo_reference": "CmRaAAAAl_8O7nkqDhnQUQ19Og-lT5DIO5P44olX5KkzFxTwMkDh1px6vhPAOSFIXL8rY1x_FPngy7maKHadoXOtfqkyML70NoIjoBIq8iKT5e10UC60wNR4aJR7u7Q7pfGI4kQbEhB45Ra2bz1zc8-_2zCl0udYGhQ-Vf7u9gmIm_IHCmWoazS_2Bf1yg",
+          "width": 4032
+        },
+        {
+          "height": 3640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110867438199297325398\">Peter Bowring</a>"
+          ],
+          "photo_reference": "CmRaAAAA0V1M5XJeZC69X5R1WmmuOqU9y8aNN-IZh88XpMiZ4Hlc-myVkNDmTTgpee6BOW-3vu_0ZgOWkYEJGABn0u8kR945y1ElEYkNixbUUKUm7EvuB4KrHuhbhaUq13lHLrXuEhB0NnruGhDCPKuUfn3yywEGGhSFBDSlSgzgou7nYe7JP8AsyKuERg",
+          "width": 5464
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112710513138581843890\">Lachie Harry</a>"
+          ],
+          "photo_reference": "CmRaAAAA_jhD-Rc8LQ1r1Wcw8DDMn_MZzii2fB4LJRYvnK3Xz15YzZTpF-9PhZRkTFdIO6AUmJ7l-q8Dl2gpw3aopexo8QQfCO1revR_SFI9ISgIrmqgj1TrytX2rwJBRIA8Agg-EhCduY1zAisoOB85R-lF6GsYGhTMrJif5tH21eRbf8ibz86IJLifPA",
+          "width": 1800
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108770113415476419530\">\u694a\u5b50\u8abc</a>"
+          ],
+          "photo_reference": "CmRaAAAAQETqfO1EHZPuoWxphNVM7oL90MEFd_Aq4suM8uK4rU36FWvnhYUENqWU_5aHFqhZo8azNizUdDilZcbd075th57C2mnSK99-Tkrd-r2IVKv1Sv9EbKAoikonjxeD7_rZEhArn3UZbOVR-TIH1srqZbCNGhTHNvQpMZkzKOGk5GetMmyLMgo0sg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114125856901064947894\">Mahesh Panjala</a>"
+          ],
+          "photo_reference": "CmRaAAAAxmTCDhyUXOUvJuudWNve8vhW_chxX5F9fNQAlW6F62QwS8l8QzaPZ8iJvpCKZWSALnDvaNqrfpyQ7eaK4sUf5907XFVnYxzluBorm61jegg2tk1niGusRdVLK27CfmchEhBUJwBOBycHDFgTUPT-KKWUGhSn8CQVOPJ2LiVe0EvZekD5iAPbBg",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112286530756710915997\">Hari Raj Bajracharya</a>"
+          ],
+          "photo_reference": "CmRaAAAAc-TVtnbpnz8sFnKYnJQacC38Uw4SVGjOqV4C3rgUI38GRHmz1-yONEj2QwilPPI1RRHy7p2VOnr_9RHB7akF3bkHsoX2y88_2buc76y3FddhClkwt8k5hCHQ0a5tst1gEhAT6bo8IXQh9XW4aQWqKn4YGhRvXaOK9B3dKTLDn7VxVq0dZiBtPA",
+          "width": 1920
+        },
+        {
+          "height": 3640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110867438199297325398\">Peter Bowring</a>"
+          ],
+          "photo_reference": "CmRaAAAAZck-Ss47nLaPBBB9jm4HzqU78hrs12ujsAFxe8pAuoy5oixgF7ZQ7g1-aGseYyGynt49nYbsTTzHPZGxcXBNu4qQ6wv2cfakDfpO-x27tUcCYq20tsnDIuwKc3YCGPdDEhAvc5_F4UqhKrJF_5njZ_PFGhTBW09B5foRA9qIxU2QFrfYtW-NmQ",
+          "width": 5464
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "popularity": 0.5203096889999494,
+      "num_google_reviews": 1209,
+      "mood_params": [
+        0.007734922025556764,
+        0.03434908489199562,
+        0.046913861252478734,
+        0.1456781308481053,
+        0.05951582324325399,
+        0.15647926142399116,
+        0.13381630255795807,
+        0.014159313821306585,
+        0.12040980174612814,
+        0.07092607464428022,
+        0.07443622929678692,
+        0.022726587851736563
+      ],
+      "top_cats": [
+        "water",
+        "architecture",
+        "hiking",
+        "music"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.34567311515935667,
+        -0.6431268909176318,
+        0.7470383706209107,
+        -0.5068270946041229,
+        0.17248829114261388,
+        -1.082844360435924,
+        -0.33709403363173174,
+        -1.3985143752405285,
+        0.07411357799914874,
+        -1.0654881667874763,
+        -0.35205328003372577,
+        -0.12251165545905945,
+        -0.35441253717656374,
+        0.6180683848268255,
+        -0.15762158136689025,
+        -0.13041164652643208,
+        0.08059797853644433,
+        -1.2358856017315885,
+        0.2544566652066766,
+        0.009963044380512143,
+        -0.4276764099771169,
+        0.16407979620676869,
+        -0.19536058714777874,
+        -0.5864755577788009,
+        -0.514335391511062,
+        -0.45354787179428363,
+        -0.5752690067818929,
+        -0.03160436253892171,
+        0.06607440696384122,
+        1.4740471638729795
+      ],
+      "global_mood_params": [
+        -0.21801783264873129,
+        -0.4846891104834358,
+        -0.2875430233742761,
+        0.3030523958429491,
+        0.025876295023700487,
+        0.03449464865639656,
+        0.3882184163728027,
+        -0.6153906740101845,
+        -0.018524752402614635,
+        1.05731050085023,
+        -0.3979749565801361,
+        -0.232017602409505
+      ]
+    },
+    {
+      "name": "Kangaroo Point Cliffs Park",
+      "orig_name": "Kangaroo Point Cliffs Park",
+      "place_id": "ChIJe23onRBakWsRILch11ujAg8",
+      "cat_params": [
+        0.19535414784402333,
+        0.07492481609705559,
+        0.16016062604929024,
+        0.17259204595071265,
+        0.5038703157617176,
+        0.06779732301201387,
+        0.4135854621231365,
+        0.1143242516750041,
+        0.24785030688423668,
+        0.2709639096259123,
+        0.06669178343439192,
+        0.18911162149218055,
+        0.25270621024976514,
+        0.4417239212664972,
+        0.22338416384434784,
+        0.18405806249568052,
+        0.5533630912549304,
+        0.2329918628980351,
+        0.1842730586470208,
+        0.11236236825616708,
+        0.6192571739016053,
+        0.3410563318753836,
+        0.2123813029176523,
+        0.16099143729572332,
+        0.008566910031171486,
+        0.41434523379049587,
+        0.3219415137932302,
+        0.5574225382520169,
+        0.46432542166615964,
+        0.5312534578713315
+      ],
+      "noncat_params": [],
+      "quote": "Riverside park offering rock climbing, BBQ areas, public art & views of Brisbane's skyline.",
+      "phone": "(07) 3403 8888",
+      "int_phone": "+61 7 3403 8888",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4782072,
+        "lng": 153.0341202
+      },
+      "address": "29 River Terrace, Kangaroo Point QLD 4169, Australia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115898952411034222735\">S\u00e9rgio Ricardo Suess</a>"
+          ],
+          "photo_reference": "CmRaAAAA2puZhuBvdWMaM2yqch_ihXkn85B3ZwA30q-rggMh2IJGFlMvUdFQED3796p0HI8ZG8iyblujW84nAP0XVCA91m4Cf5AAmuCSXS6ER3fhIwhtcXM-C9T_mb6udxOWXPuZEhBXfgaVuoqpD0Qxu_2J2ZD_GhQrDANkGKzbnViU860awVf_UGMuHg",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112052420748928529858\">Alan Cunningham</a>"
+          ],
+          "photo_reference": "CmRaAAAAbas9pbLX4Sx4RHYs1m4Czf0RDroE9egjIgEwmbLPybAGtMqY6oxe2g5pCX6FHbsI9aJwkGzEtmBjgm2xndrLwMISHnCZexne3DQUoCkAA_THKHF9yUN1rNKjQ3gLdsROEhAdy6IA3EEEVLmkC-9mwo_YGhSazIHqV12A9rTGcbV20MrDqzZZHw",
+          "width": 6000
+        },
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108093408089432966223\">Adam Bolt</a>"
+          ],
+          "photo_reference": "CmRaAAAA7wQd5ZkPdN9CZiEI6YJ4BACXBQPP896YfHljc7sPvyYIhgvZSxVC7Y5nOdq46K5_5fAGYFDVJ-Knr2Cqrr97QX2kb9UIIN161roCLvMVNosL0RI3HdNpd9NKaJ2AhCIVEhAyc5X766psDmOvlVg4SwkIGhTgJAIIumra3HUvF67ynUffBJKCdQ",
+          "width": 1024
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113896889720228013423\">Hermann-Josef Holl\u00e4nder</a>"
+          ],
+          "photo_reference": "CmRaAAAAQEXAoH_mFaedw9ETuRWwdG6mqJo5JbJITGJf_tgCsh4ZNqkRuSOGzb_fnENvskA3QPLKltAj5BSyijn9P6p367KiWiTmyIE6AQPqA5q1dY3WaFQoiFAZ6K9wW6ZOQuUcEhAy9UnzyTFjzboXmsOLJaRtGhT4cAWJ1JYpK0J8kHtxcjABrKyJLQ",
+          "width": 4160
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113800322237708817253\">moon kim</a>"
+          ],
+          "photo_reference": "CmRaAAAAzYKpNcLoG6MqbuzzgLhLFvPoafg0JiYhRWhkZBer2GW1oreAbF1O9BBbI-BUnyELColbN0LPkIp84WDCaEObcmuX4VhAwGaYAVgoj78yYifHKUj9EjEC8sZH9-0cEuEREhBS8W4iineS_Tll3cSiWahwGhTupZA_Uf9SORXb5hoeEvE4FOVzOw",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106484353471181211022\">Jan Dorazil</a>"
+          ],
+          "photo_reference": "CmRaAAAATnWu20WzT6CaIM4aRhdvMKUd5ShdVeNCaNv0D1Sem_xFs0XZyaiyBQM_s4XcBdTVkTBac8uMsW8vwRY8YNgdchn9MY2yLAPsW5R0S1bRU742z5IKt20CY9sDaQRtO6wREhCey9yaAfT3QJjoHn7U3faqGhSGpxPlnhvJIpCSoBjdrpruvX3Tew",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101667516992713108768\">Ragu Nadarajah</a>"
+          ],
+          "photo_reference": "CmRaAAAAbaHhhocTPwHpRIP1PSm1baLXegb8HeyxWLG2umi35oqo6eUrJyItYOr_WJkG1Iy0oUL2qR2g1Wq75IaS3s71cfHis8v5CxnG-N6CWQzHDEGCbg_3E1LgjchImiuKvN6SEhAEoJ5xfsZHGaYD3Mv9epqSGhSSzEIReH2h7q-0012NL0Zk5NiFNw",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103311618468817757091\">Jon Ralston</a>"
+          ],
+          "photo_reference": "CmRaAAAAxgwhdi6gDwKSwpvtvp7ZA1GyfxwbDpmVXzgNCuxt2FOu1nhso3mZpuxAYCsQp8rLAb4r3-P8EXKtC0D6-GcvgZIycjYGmlVrHXe0R_5Kz8e2hvFY3mDKmTrMC61fdvdjEhCHbeU3qZCpEPmRc151m2G4GhTmOPX8KQSdcm7h4-C0XOAYJFZc9w",
+          "width": 2592
+        },
+        {
+          "height": 3792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109951759172688348325\">Jacek Lebiocki</a>"
+          ],
+          "photo_reference": "CmRaAAAAYP9CbToasSLKU4gu5Fckh1bzkQ54gGnQ2T3L-Co1WNgZXCrYNy8tnAinNr38NpF7VRZClpoBqBcV_3VWFyQxtNtiaB39r3pyqAQgKFPL6l10EArBfcoKdMdLBEbAunwdEhDIJm-JqMt-4XXzQggN6wy7GhQcEL8n-qRXscsv3uoA5LzUoTtLbw",
+          "width": 5056
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103234645816205552148\">elaine huey</a>"
+          ],
+          "photo_reference": "CmRaAAAANTX4osZSxOHlDuVP3H5dxqp89dDGhCpMWzIdgL_Dwk0modj5j-NsrbgfaYeHTym9LQNEeLlcTVpPAGK1cALiMWOCZe6Ykd16TE4yQnE1gxbc2x5sNEOotf1qKs2I-vyBEhCwMPLuF3AV-74GJZLQ5iisGhQh3DC8x3AOymgtQKrED8sktRDCZQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.brisbane.qld.gov.au/facilities-recreation/parks-venues/parks/parks-suburb/kangaroo-point-parks",
+      "popularity": 0.7059034834107561,
+      "num_google_reviews": 4096,
+      "mood_params": [
+        0.009105449941991355,
+        0.03783981577423465,
+        0.07662532838966093,
+        0.10849285373799453,
+        0.07468360007107067,
+        0.17654024877272748,
+        0.12168936509811623,
+        0.011936539926359215,
+        0.13945911707690062,
+        0.030931846793258697,
+        0.06295283793355223,
+        0.013738004638164217
+      ],
+      "top_cats": [
+        "hiking",
+        "water",
+        "beach",
+        "walking"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        0.4141960070420741,
+        -0.44634221439968996,
+        -0.6334232769955801,
+        -0.41934604947622317,
+        1.227563194503121,
+        -1.0316546077862623,
+        0.16278224819511727,
+        -1.0752109496897144,
+        0.6101889690713284,
+        -0.5357987112710565,
+        -0.404311778470086,
+        0.45789659085592865,
+        -0.008815870756755008,
+        1.7340765259777409,
+        -0.7258598563234938,
+        0.160210538893735,
+        0.45697131532214846,
+        -0.6372973790976756,
+        0.23586678476995165,
+        -0.4640763840935165,
+        0.3983563052981296,
+        0.8380376472896925,
+        -0.5035474915604529,
+        -0.06737779792913791,
+        -0.5467539730870781,
+        0.44355927704485343,
+        0.2975513454720969,
+        0.8899339639889081,
+        0.9967346650230375,
+        1.3856964682476918
+      ],
+      "global_mood_params": [
+        -0.1258061536345377,
+        -0.3801102478430807,
+        0.24740087116829576,
+        -0.2702128008894882,
+        0.3587672119587807,
+        0.28676190557649134,
+        0.15872094035256035,
+        -0.704025406609759,
+        0.23347263512203442,
+        -0.49699223417577787,
+        -0.6637029619901476,
+        -0.7815155198910833
+      ]
+    },
+    {
+      "name": "Brisbane Botanic Gardens",
+      "orig_name": "Brisbane Botanic Gardens",
+      "place_id": "ChIJ6VeKZd1QkWsRU_1KArQXuYs",
+      "cat_params": [
+        0.16747999927441218,
+        0.09747363637534695,
+        0.24080726493414867,
+        0.2396222409291356,
+        0.5107127963868573,
+        0.09796544025733708,
+        0.4081463986620366,
+        0.13726399272286377,
+        0.20887434026255672,
+        0.3164784724941839,
+        0.06804564024067393,
+        0.22878472042832598,
+        0.2866904277215668,
+        0.2760127339986649,
+        0.2257033316903696,
+        0.22543985004359254,
+        0.4988739690409286,
+        0.21708513067341084,
+        0.14595017876927183,
+        0.10810927161082039,
+        0.8330418207253824,
+        0.2651794806826438,
+        0.21502646955758928,
+        0.13916171676220634,
+        0.007805005230081153,
+        0.37979124350684973,
+        0.28408282134687673,
+        0.43492786481302276,
+        0.5413172552865988,
+        0.40172444617037956
+      ],
+      "noncat_params": [],
+      "quote": "56-hectare, subtropical botanic gardens featuring native & exotic plants, plus workshops & events.",
+      "phone": "(07) 3403 8888",
+      "int_phone": "+61 7 3403 8888",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4760486,
+        "lng": 152.9773735
+      },
+      "address": "Mount Coot Tha Rd, Toowong QLD 4066, Australia",
+      "photos": [
+        {
+          "height": 2432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107771813936196078009\">Lachlan King</a>"
+          ],
+          "photo_reference": "CmRaAAAAumTkDVczR4ss0bhUlFBZq7wjHA16zGoMjq2IYbK9zubPK9sI4WL-h6eoJU1c1_P_Pi9sVZt6KNZthgSUwXOWaWLog3wpqU-OTHTs_8kfiHUy2gD0Mu1iOft8a4v7dBDNEhBQHyKvRLYUR3xc5KX_wz47GhReKQ5hoW9xzcAwlBxk3--4hPAQOQ",
+          "width": 3286
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117732531531575602317\">Charli B</a>"
+          ],
+          "photo_reference": "CmRZAAAAtI1BRrNk_dypCaDMiXZLr9PRRmn-TU1Ad7g0mmbB3RryBCbH3PO1ubcDz-hn94O8yxmW2giApSuqGs9983AbqH7NhmSDLT1NPQ8ryaz8NwmJP2cAXgwdloGzpZbIUXAlEhBeqTa13X85YEGXeQGo6U91GhSmn1QbmcK45ehafPzDku4hpKwfbg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115430129350400517652\">Lucas McBurney</a>"
+          ],
+          "photo_reference": "CmRaAAAA4WQjZVz1I8JqiBeDZ-CPfgF4__oCmawjdFHM3Iphdvzk-rrPHncTGyEvmKBNvJpZxu-nEGd2LOTSK4OadxvOXkZsXNTpVtN83gX2RAe0oWbxu7mCIA148_fUB1ztOXyFEhBXYXofplRpi7_7gAQHe4G-GhQelW_hERLKp3I_mljo2sGVUaHxAQ",
+          "width": 4032
+        },
+        {
+          "height": 6240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115774031705623240559\">Mike L</a>"
+          ],
+          "photo_reference": "CmRaAAAAI7HL1_0eL40pRZX0IbjS3_zTf77XPY3CPu7sC_hSCPwok3pcNnQpY4GqpW8_mGTfaRKtiC3vYntllJCkC_ibj6RItocUZduzNtE1xIWs1KDNzPNn0vS0bTaTv_hwslcMEhCjDOtcvoXy9wLc9hiOHrj7GhR-d-abjed7U5vHYRDDUnMoh4FcZQ",
+          "width": 8320
+        },
+        {
+          "height": 3800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117365658294868404453\">James H</a>"
+          ],
+          "photo_reference": "CmRaAAAANP2xpqZIR7PPBlVDSI_rBCHIdma_qzXW9289c3moM-NRaCVPOlfWgFp6H_RCmLgIOz5Ji-xnGH1auNasJTA8xhXrQahoLpn-3mEnK6MzzHMLeT4AZ0Rysydc0bkvvXbXEhDPacMJkPtRhKsvSXSeriQlGhQC84xfoPS8YBRrLCzO7F58czCLYw",
+          "width": 4408
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110181449894610269920\">Oliver Weber</a>"
+          ],
+          "photo_reference": "CmRaAAAAHb5p3y7BWS2VPSkwidISHL3SE9f_aWK70T013UbwFnrL20HGz11wj21ZgHVDI4RH1R08sbXMZm5TJCdTI1ZTyjnllqqXajZZutbQTztb9CRXw9fr9nZlcq-5epEr_yAVEhD7slFMgHNdsU33YJAlPl4-GhQ98HrW0Ex6D-GDzoGpr6P4wvwlJw",
+          "width": 1440
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107132301636919730526\">RAFAEL A</a>"
+          ],
+          "photo_reference": "CmRaAAAACzSnB0NhOkxtkd012x3lL-bds0pjXjKJkpKhvSI9EidQ2wRADUiHOlA-6gF67pq9SXZvpjDAzRYgMTmGGJm7zoQoDObDoQdRGFfuZHiuSyszFLye0D3R6q4tJpQHpT66EhBDmUbD3aDKA0skBwH1x3VgGhTX49NHVcCREVvDvA84WHWhjkQZBA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110115869568663891811\">Md Abdul Quader</a>"
+          ],
+          "photo_reference": "CmRaAAAAWqq6OPg9uvCotiKl8cduwuZQ46bmKLSnDxw8SQ6ZgvLfd_c7qU5nMbXnvB5RxpA2CVTrXWfDJBZ4A9fOVmO0Eb4n5n4BzypexJGcRg3CppwHvcE8i8-KXbldaGqT1Q_cEhCbzzBbCrOhqgiApJtq5RkYGhQK2GE4n_sp42qVazevjMrQ3dJr5Q",
+          "width": 4032
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105139656707402362626\">Esa Elf</a>"
+          ],
+          "photo_reference": "CmRaAAAAdZx8vzcW8q3T8ALEzbIPEz-6OjoVXHbUZVVDW5CusqFxiY6guPrAVlmVBvdxh6nwmTHXlRzVFw9JWZyS7BCyIgxPCkFKGSEkQzAQRu1b9Ut78XiyhNM4QAaTCevvVhP6EhAkd2i1fb9garCARI5tvPanGhQxQD64dqtTyptpR7nhxAnmplrnXw",
+          "width": 4898
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110864894140989698976\">H Hansford</a>"
+          ],
+          "photo_reference": "CmRaAAAAQLvDUmfqsL-AX3oFRD6UR9YT2tqViFjfLMdyfxyMrAIlRWP1XbemJmc-vgpdIn_n7wo1f2J0bk5Io65ZLF4phJkMIuNb89_JJU_j2IwafNzD-7GE5oFBYupW47K0MXTyEhBuctS9EV7mmCwKkXjXPC7HGhQSxgknRD1JqXtGOvYU7SBdwwpxOw",
+          "width": 3024
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.brisbane.qld.gov.au/facilities-recreation/parks-venues/parks/brisbane-botanic-gardens-mount-coot-tha",
+      "popularity": 0.7253361366669758,
+      "num_google_reviews": 4566,
+      "mood_params": [
+        0.005244782960915233,
+        0.048390918605264996,
+        0.1372101623208001,
+        0.13869837031756016,
+        0.09557532084693413,
+        0.1911759890840001,
+        0.12559559136209222,
+        0.020304675291145935,
+        0.17444689726168025,
+        0.03032728325459757,
+        0.08397871853916172,
+        0.02718037103105233
+      ],
+      "top_cats": [
+        "walking",
+        "nature",
+        "beach",
+        "food"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.07598698954262105,
+        -0.17673235905499757,
+        0.15880001628344276,
+        0.05966652800661156,
+        1.2697699768547106,
+        -0.629191737751348,
+        0.10490063339067157,
+        -0.8204465635129531,
+        0.03338257386459899,
+        -0.05185879770526211,
+        -0.3764677041345898,
+        0.8346794875561863,
+        0.35842406628033985,
+        0.5164260559526767,
+        -0.7006412002396656,
+        0.6448693670554998,
+        0.1613110414372829,
+        -0.8036757717874271,
+        -0.2533087205611028,
+        -0.548823057598868,
+        1.440985782883619,
+        0.09677653331817408,
+        -0.47372369484697885,
+        -0.27101488597923834,
+        -0.568690979499627,
+        0.1872575253052082,
+        -0.05718134757391756,
+        0.09416097958208557,
+        1.4614903881111625,
+        0.49503769965342126
+      ],
+      "global_mood_params": [
+        -0.38555904167917715,
+        -0.06400958844110849,
+        1.3382082306197556,
+        0.1954492231722173,
+        0.8172829301406614,
+        0.47080658877859577,
+        0.23264472130015032,
+        -0.3703398967606006,
+        0.6963149498591077,
+        -0.52048749367018,
+        -0.1771598199349561,
+        0.040254959772833054
+      ]
+    },
+    {
+      "name": "Sir Thomas Brisbane Planetarium",
+      "orig_name": "Sir Thomas Brisbane Planetarium",
+      "place_id": "ChIJ9W8ahOdQkWsRhsUxp_Yhros",
+      "cat_params": [
+        0.16671624331028323,
+        0.06833321402302499,
+        0.12626964600874666,
+        0.17569175462460018,
+        0.17595919761314419,
+        0.12296577662555173,
+        0.32081211899792406,
+        0.10984207557534315,
+        0.15702869200301947,
+        0.3089147523107425,
+        0.07293246721924844,
+        0.10594603004772131,
+        0.24081207712321145,
+        0.12052164950719758,
+        0.2851699521084378,
+        0.13724710614151509,
+        0.4323146611499687,
+        0.16962234054567674,
+        0.2234323550124391,
+        0.21229310043788607,
+        0.36400072372529146,
+        0.269152433083159,
+        0.2430639092603387,
+        0.0856455879647265,
+        0.039884986051626936,
+        0.2620916638350595,
+        0.294365427761342,
+        0.33895480723910293,
+        0.2107972866043176,
+        0.19330542694136824
+      ],
+      "noncat_params": [],
+      "quote": "Planetarium in the Mount Coot-tha Botanic Gardens with educational shows, exhibits & an observatory.",
+      "phone": "(07) 3403 2578",
+      "int_phone": "+61 7 3403 2578",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1045"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1930"
+          },
+          "open": {
+            "day": 6,
+            "time": "1045"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.475731,
+        "lng": 152.976926
+      },
+      "address": "Mount Coot Tha Rd, Toowong QLD 4066, Australia",
+      "photos": [
+        {
+          "height": 745,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108786521976655938640\">Sir Thomas Brisbane Planetarium</a>"
+          ],
+          "photo_reference": "CmRaAAAAgx4n9mKHZhhQ9E2copMHon_p0ICplhM9LG8eaJ5-RnP73_hGKetezJUkdO69UCXSysa4hqe8mgOIgRBYuVMDU6suVQaocik3ZKFAq-M_jhlKDOatUuniElVkTM28o54-EhD8olP06yuCkN_RTObs7oUgGhRzbzyFTsAIICTnQfuJqmvquGOlJg",
+          "width": 2175
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115790795623241214818\">Nilantha Wijewarna</a>"
+          ],
+          "photo_reference": "CmRaAAAAuk-NPS6uCC0O0ETssWtjxGbKalPw37PIpuJQT_7V7d7_MGwn3tVE8OCD2K6etuWo4hKPbzpXI7wBTwuHEVmx5slQFB25ik-7MGx6cp6oTD3PIOObespUC0BKqpn04lQHEhDqVVpJzI0GpWDgLIH3WSiAGhTAEkHXCFfXC7X7j4azzMXAmM5fNw",
+          "width": 3456
+        },
+        {
+          "height": 6144,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103394353034911506631\">Shiv</a>"
+          ],
+          "photo_reference": "CmRZAAAA1CtTcsm6XHdQA1-nBnO5ENPKZ-xo_VZXUud5W2H24TridKK1Fs-MTt7Az5txkH1o9xKIMoBa2bnxmwX3yH87M3WQjlfXOeA5nIkRfbVPQR5sTaEmh3mKTwWxHY_2__TnEhDNWxB4AMCfsGLhujcBVDzKGhR3HgUgUQcIsYYD6uuXJVx63zrrmA",
+          "width": 4609
+        },
+        {
+          "height": 4618,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109390055952178683930\">Khalid Alhamdan</a>"
+          ],
+          "photo_reference": "CmRaAAAAp1qEfPcSu3uf-OpWriq3lSZQtCw217zCaC01RDgLr-UaTNOrYOautIvJBAApFsfH9GKBCyJSbhLSr8qFKn6tjpELGeZpvq_l8vY8GxqTz4_Ysxmz5HbvU227rdAv8etkEhDuta5AEFiiUMEP7r70gv0SGhTYRL8JpFj6IOkm2hfkxn59ZrtG4w",
+          "width": 3464
+        },
+        {
+          "height": 571,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108786521976655938640\">Sir Thomas Brisbane Planetarium</a>"
+          ],
+          "photo_reference": "CmRaAAAAZu_uKO6qDJV-4eLInr1WVuPT7P3Ghh17Ts9ktsMenCXt9whoxQPY0d0KTE0SS4i80q3QscJMrp2y6kO9_jbj7TJk_xojD_8aHvoO3JhVI4sVAWnXrQf95FAqItJqk5QNEhCj9QKnGmz4Sk6TkVcaB62oGhRho3elzP5nmpxAY0AUC4WABpzhhw",
+          "width": 750
+        },
+        {
+          "height": 6240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115774031705623240559\">Mike L</a>"
+          ],
+          "photo_reference": "CmRaAAAAMpGqtJMfgvt7wVvedrT3Tk4nLPUcyqHVbJ3oP2JIPaQD0lfPn4LtJDyk8cWhgAjqvT7l9x6y3qaEYMQeXGzHR1P86u1Yp3_8Q_3Ihd0DhAMldiz1CGm33XXDcG1_OICoEhCLa1eZLyb7-guVlJOPv3guGhRRw3nOKlUazBk9h9MIwXM8zwYasw",
+          "width": 8320
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102549013895515953367\">KH Hoo</a>"
+          ],
+          "photo_reference": "CmRaAAAABZywt8WeP12kg0eudlQKMVGfl5rxUyBI-NDL49eFRgQGKNERQOiRik07l31CI2JmhU4pJVJEMiNcCXdM9VbBRqNgmt1Nt3jyTm2LoIIoG0wJ2XtZjjBNw4q6olhHc3qxEhAHxFm2RI33-pqSJ3UrQDkZGhS2HQBMeCHxB_NCLagSi3wFbIsY6A",
+          "width": 4032
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113583261997875285014\">BAI Bruce</a>"
+          ],
+          "photo_reference": "CmRaAAAATc1lqz3tu2dMZk5ouGDRznYOPgWGJbXagLaW13s9GW1SfAbhUx7OeNhR2JtTSV0Uq5-qdjKxbjuKyZxdHYM2yBFhtJEiFGuVEcoaucr06WxGF3ur4cYRb3HpwbanOlSJEhBIX5T6M-P79DxKFGRzyNDcGhTHhUg1WtwIZPKL_0yezwuybSGp8Q",
+          "width": 3648
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107196666935907612644\">David Schacht</a>"
+          ],
+          "photo_reference": "CmRaAAAAp4czfGMWeaDrECvAmmzlqr8mxGi-_lCgS-MaMO_-tk-80TWoRt0OOWQ34vVFKNyrUfb_GDSVoxKMj6lYxawkt8E89jSirj22YPXWhT24wzmAprwnC6ok6RlNMWs9yDu5EhA3j6sdmNHrzxfbnFIIskQnGhTkN_nHB-E0s7YSqu4l7wru561BXw",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102470528592457581284\">Scott Patterson</a>"
+          ],
+          "photo_reference": "CmRaAAAA8b3HG0loLuhQNV0nCLRkct1KPAz3Ep8gwgVmqQxtrssJ9jAF6QEJnakt-Mu8vIMkmiObVPScDF78fSgqTEswNbccCBbGxcNIv0fihmyoyakGmLQJLaVmFJFJw4OD6g-0EhCi0Y5AvdSBM0auOzNLi_u-GhRAmbdyUMXdP9Qc1RS3GDUWaC77PQ",
+          "width": 4001
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.brisbane.qld.gov.au/planetarium",
+      "popularity": 0.3018807913668735,
+      "num_google_reviews": 137,
+      "mood_params": [
+        0.009406735242730745,
+        0.07367926894319649,
+        0.023933286636323627,
+        0.12804003612764656,
+        0.03221144769691741,
+        0.14937652895642015,
+        0.12260170509063265,
+        0.04133321608308002,
+        0.06536061341286245,
+        0.05157643386383331,
+        0.09520006783646226,
+        0.02681221526743584
+      ],
+      "top_cats": [
+        "movies",
+        "music",
+        "science",
+        "nightlife"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        0.0667200103704209,
+        -0.5251561328103178,
+        -0.9663475524698065,
+        -0.3971948466965993,
+        -0.795105769076249,
+        -0.29567052246404923,
+        -0.8244963429262132,
+        -1.1249891420583162,
+        -0.7338825916157471,
+        -0.13228110347153738,
+        -0.2759628553021549,
+        -0.3319427030360954,
+        -0.13734614231974576,
+        -0.62612681110107,
+        -0.054000530672212235,
+        -0.3880341019515602,
+        -0.19984256869687891,
+        -1.3001185749043906,
+        0.7357187961289481,
+        1.5271309266128041,
+        -0.8465314976928605,
+        0.13558936062805999,
+        -0.15760640777843746,
+        -0.7702365143688696,
+        0.3549660758038741,
+        -0.6857706894181476,
+        0.03916579040778045,
+        -0.529317285260849,
+        -0.5336698752134229,
+        -0.9380792876567857
+      ],
+      "global_mood_params": [
+        -0.10553511565688749,
+        0.6936045060305329,
+        -0.7012997061806865,
+        0.031135480716347707,
+        -0.5733795296855911,
+        -0.05482233286018383,
+        0.17598661243573893,
+        0.46818852679570155,
+        -0.7467531115041071,
+        0.30532199643780544,
+        0.08250447891732758,
+        0.017748540172618923
+      ]
+    },
+    {
+      "name": "Brisbane City Hall",
+      "orig_name": "Brisbane City Hall",
+      "place_id": "ChIJ10LrOO1ZkWsR58WugSps4oE",
+      "cat_params": [
+        0.14261239804367765,
+        0.03908297420698525,
+        0.3581341257160583,
+        0.23099584913357984,
+        0.2446604642210556,
+        0.13890228957166414,
+        0.3369144138946093,
+        0.15916508957371128,
+        0.24410345652313856,
+        0.20314176764252517,
+        0.04428683250644447,
+        0.07143235507599371,
+        0.15879445683307236,
+        0.17048029820543698,
+        0.21764035897397774,
+        0.10470976647947078,
+        0.2746911172802756,
+        0.31357936201773573,
+        0.19641800284684854,
+        0.09033072365935277,
+        0.41024926016661645,
+        0.2415844383409998,
+        0.17069755810421788,
+        0.14728250668270648,
+        0.02697329348324176,
+        0.29667742224270566,
+        0.27039988776593765,
+        0.2816500210689773,
+        0.16812819616228578,
+        0.3023623157062386
+      ],
+      "noncat_params": [],
+      "quote": "Active historic government building with guided tours featuring the clock tower, plus a museum.",
+      "phone": "(07) 3403 8888",
+      "int_phone": "+61 7 3403 8888",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.468993,
+        "lng": 153.023494
+      },
+      "address": "64 Adelaide St, Brisbane City QLD 4000, Australia",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107090712241001666415\">Esteban Cadena Torres</a>"
+          ],
+          "photo_reference": "CmRaAAAApYjHUVc6CSaYlkQw6_dBJ7ltlKkmNORX4b-lqf1HtS0SFIOUnD_ru01E9mBPvVy0BqvwAc37VB_hLvIz9psQ9cWOlAwmtMvZPbTbDsEcT9JUaqancOgr47EubMtY_2AxEhCgX8OSz2cgjXBOUHMzIMXzGhQdVBQBTgu5tAk7ssObRgUOX8LsQg",
+          "width": 3000
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111462673989508629224\">James Wong</a>"
+          ],
+          "photo_reference": "CmRaAAAAGwecoilhfRbTUsMpBukO5A2aa32AblIoA9vHtlDgs7fyyptUKcQTIhJG-Ppf0IsxhJOtl_mCyI0FT9khYQzyCfJWyPf9rb32GWtJjzkjix2-DhjllKhjtPLN1kLwFrpNEhBCXgwwJaFCBlto002JZVPpGhSuttZxa2BkIpyfNuZMbP13_VlBPg",
+          "width": 5312
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116204362322870672113\">Behrooz Farahnakian</a>"
+          ],
+          "photo_reference": "CmRaAAAAuTmIjkNIz2Bz6AunURMx2xvr0J_-8S5Pm9fkDvB5eS1dghH_w3E4Lp5CO-XkU0juibfq-zzozzvm_q8lV6WZa2zzlEW8rXJBCiLhkTdR4bhIrJ5bwTtYSro9PCZvULC3EhB-NILL-FfshjRaxkiP3FxxGhSR3_PRhJa6hqNlMQTg4L417fE9CQ",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106148026253269989395\">shermaine tan</a>"
+          ],
+          "photo_reference": "CmRaAAAAd-_1FeUHvH5NDa0Ym2aX_7S8cg1UtLJAIdjyN0pBkEr6y4waMKGI749imqHquKPDGNe_e1DIGVj5THdcQ2UpDD6b_upr6rnlJ97iKy9g9fUvJSUP8Xryr3lFpyrpedeLEhBhQFcSd4tp8-lmRXiekJSwGhTVjZJdYm3J34lWJbAI86lJgtLpIw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101219148163204126494\">\u80e1\u963f\u98fd</a>"
+          ],
+          "photo_reference": "CmRaAAAA716Vd7p75S4_i0WOJm9RIUzxceJh9dOzBygrhh6NjGPpCYLiukfAfwXQFzYBW_7G1UKTovXtgzNj7QXliY6MN1Nb5tzM-b3UVd7r8jNSlONwTOzyZQN6gZWHVdw_QktTEhD-yyzy2WL63or_aFv11mZ7GhRtzq69M66N3v1Xrgzi5uGgG4NiaA",
+          "width": 3024
+        },
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108038295646937482861\">Brendan Short</a>"
+          ],
+          "photo_reference": "CmRaAAAAsT8OCGoaEsjiXTtb93F9BaHqedAJB3ck7yDkgx0bqEb2ec__2VvT_gHCFy8GdmO-ww8_f0fyRmwgL_qrL09-NXBpikX45fvkYD5YNBkZaBgaVNTCQvpbeqXgLVPVuRXCEhAoHjJ3BE0BYhLsdGE6-PCSGhQTq15bHMDv6Fk4mOM2AgQZLkp8EQ",
+          "width": 3200
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108937347395712223333\">Cami Ocampo</a>"
+          ],
+          "photo_reference": "CmRaAAAAbXos__xPnOethFGBNHuT3awDvDMcq3bhdID39MCrmCdD0cD5f2eMOni0JM2_rNRQ84187_4fp5SPHWy_-mHuI9jpePmXwbih9gw9nBm2XX9hoPPvOp9Lmnu3dmvUvZkjEhC9KTpZmW6ML4mTxRx73Q5pGhR0TFPaA9WLVansjspWwMLxu_II3w",
+          "width": 3024
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113564251884717243226\">Tony Tsai</a>"
+          ],
+          "photo_reference": "CmRaAAAAgZfcl9QbYLJ3oH2me1ZJZ4MnYFTkUXos3IrAoQ2o8KL2vEpQroioeb4ytmfBzL1MKTEXALu05HVY0Ij_SLomRuiD-QU8K9yQRXoZXiBa2YoF3T6RdjhdoAr0pv1_RsYuEhCMAdHnuJqBSFztGEux03GsGhRV8AbCb_DCbo-BUKMoph1rtq858w",
+          "width": 2048
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110485102550269042372\">H Zheng</a>"
+          ],
+          "photo_reference": "CmRaAAAAAli6EsmMkArpb3n6a4fx4bpOH1xOfFJQkhbZs7WoYYj6wlVzlG7OoApR_-0OpyiKSW3xgwNdJTRA1CMkdrwsYoBsAPsmN-APuw6KVtuLHMRPRim3LD8lfSzpwGmQiiuLEhDMx5izgEHEXMxL1spLW5MrGhShAYj1ozRxMmHdGH4GtgTmMPAtiQ",
+          "width": 2448
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112437566925095313624\">Stf Scw</a>"
+          ],
+          "photo_reference": "CmRaAAAAn07gj-V6ZOD8O2H1GvHSdZy8ovdmT9DjBnCWP9iTg2SLGWuBfC61V2via4eSBPf1fwZQ-LUu0ys1SlaHsivA1SZhmB7qlS6k8hMmrUGhHcntfyPc66adif29i9OfXrJvEhBPRJFxeEfnpMtAf9gjRWQNGhQCcwvn8gYSbW6956wAO57V5MVIZA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.brisbane.qld.gov.au/",
+      "popularity": 0.3789004030724993,
+      "num_google_reviews": 340,
+      "mood_params": [
+        0.0036007481955951533,
+        0.03329206466616966,
+        0.03299580845282095,
+        0.09073739644720263,
+        0.04191165393730217,
+        0.0954624174000236,
+        0.07516577476855592,
+        0.02265802132533106,
+        0.0667287995408737,
+        0.022149773018801222,
+        0.06245709802579882,
+        0.010434559094852242
+      ],
+      "top_cats": [
+        "architecture",
+        "engineering",
+        "music",
+        "military"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.22574229767887713,
+        -0.8748929628648972,
+        1.3113473923921977,
+        -0.00197957297364184,
+        -0.37133264265406785,
+        -0.08306677638058195,
+        -0.6531383807800885,
+        -0.5772171615697016,
+        0.5547392281799276,
+        -1.2569270592303787,
+        -0.8651028430983517,
+        -0.6597255780907803,
+        -1.0236441933569718,
+        -0.25902925376532016,
+        -0.7883180522177473,
+        -0.7691077540708577,
+        -1.0551145616680047,
+        0.2056173305412025,
+        0.39089190905915394,
+        -0.9030761875602364,
+        -0.6209770057996237,
+        -0.13372970271347742,
+        -0.9735245103246917,
+        -0.195260640315021,
+        -0.01679150107999174,
+        -0.4292332998906854,
+        -0.18538925873762654,
+        -0.9015914375251641,
+        -0.7912388023240848,
+        -0.1881895681374641
+      ],
+      "global_mood_params": [
+        -0.4961727725269613,
+        -0.5163563964283856,
+        -0.5381323778050648,
+        -0.5439390309439259,
+        -0.3604867249932714,
+        -0.7327932021490714,
+        -0.7217195328823944,
+        -0.27649850473759124,
+        -0.7286538085150207,
+        -0.8382915171044465,
+        -0.6751744840103072,
+        -0.9834646372806634
+      ]
+    },
+    {
+      "name": "New Farm Park",
+      "orig_name": "New Farm Park",
+      "place_id": "ChIJv7XPGShakWsRdazsbeW1Scc",
+      "cat_params": [
+        0.23259879267593167,
+        0.17395513551520658,
+        0.1893519315274279,
+        0.12189198968561907,
+        0.44731656148770454,
+        0.08119711904117025,
+        0.3472176401015787,
+        0.11772361089216986,
+        0.19474457253814,
+        0.2654632784945365,
+        0.05518817676163362,
+        0.1637259092213191,
+        0.23940740157999074,
+        0.3368449925489252,
+        0.20217296110239186,
+        0.15317567522887748,
+        0.32364556635962294,
+        0.2831959146992459,
+        0.13617181951430526,
+        0.08200057687922134,
+        0.7262003104304781,
+        0.2262641629942439,
+        0.20054862479017935,
+        0.08817764466418825,
+        0.004933976876402977,
+        0.31801090773652657,
+        0.3468269893919129,
+        0.3952364965251357,
+        0.4364580493295793,
+        0.4703482050190501
+      ],
+      "noncat_params": [],
+      "quote": "Sprawling public park featuring grassy expanses, recreational facilities & an arts center.",
+      "phone": "(07) 3403 8888",
+      "int_phone": "+61 7 3403 8888",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.471322,
+        "lng": 153.052161
+      },
+      "address": "1042 Brunswick St, New Farm QLD 4005, Australia",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111144896743405449564\">Dan Ryan</a>"
+          ],
+          "photo_reference": "CmRaAAAAn1g-Ea3KWgshlwayGCvikJctrKDg3ysFntdwlMj7O3qlv0wDG-dU8_wUo7qLpw-BZWdJdppP_cBOwaqi1dvUU5kyFSWyCpgnAK8WHqNvuKEAhQ7k77MRc61iI5AY-88pEhDIpFCr-lkisb8CxiTOvGyJGhSaEnWi8Iz2iNpBh7tuMy9ue6WAXg",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103150823373559123335\">Jeff Muir</a>"
+          ],
+          "photo_reference": "CmRaAAAAGzv_GqJktq5FoV91712O1eMSLgMLFiFafDiwpM_5THsjAJ58LqGJyem6vMzulHx8x9oUcirIiVso52jBNtvtQ45GfA2Z7JHqiGmQtFOFDur4ly-oAjgMNM4kTSVEuwZ7EhCSpL5VQiBwNR2CoHmK2tw8GhSc7r26yQz6IEgXO3Q681xdEzSdeg",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106782035888116182290\">Angelica Camargo</a>"
+          ],
+          "photo_reference": "CmRaAAAAyp5M7-ay7FOhTyzRRzOkybWgWyAnctFraiIv61NVg5uoXDbMETPfvMNOjrTlA_8Rd7apnBRXdGbOdF2MqcF-sA79q9mz1vqhLW96NaNVtaKuP7OkKuwol1EJfisjbbFYEhA9xKfXoHEYyEVSosaiM7RAGhSVnQAlSOogHVAr7W19tLtx8ETZeA",
+          "width": 4128
+        },
+        {
+          "height": 2944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115782253298875535686\">Ryan Lorch</a>"
+          ],
+          "photo_reference": "CmRaAAAAcyRIBWsmiJVjPD7BowRZClCBeX64v1-hhsou96UHcrEv-dJsqv0whESrEQL7uI7dlUccw35RCJSk7yyvM0MY8fTRN-GxSq1TyLgc1M_28YCzejBFH2XEy5eHYG-9E0zAEhD_cZyzQhf0BRPYdYHBZbtVGhSbQm3KxTWSkrpskNWS506EXpL5zQ",
+          "width": 3952
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103022511780767591563\">Sam Jensen</a>"
+          ],
+          "photo_reference": "CmRaAAAAtW0faSwSoCH62ICP9JcEUFsJnT8x8uPriBpD5yRg1HD4sBNKeIOltEyp_XqLAeDSVeHQa9TCMXGeKuKMLQLqba3V5AnOaqAH86-oorgfRsoSgCKQEmy1w96DXXqnlE-UEhAsY3JqIT5OwGiX7HnNMA0TGhREo87cXO_PRrNneac3BAfu867fvw",
+          "width": 4032
+        },
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117587413207252203020\">Geoffrey Aquino</a>"
+          ],
+          "photo_reference": "CmRaAAAAO9CoNk9qVBOzJcPUctdAiiipNEYd6Vb2ePhTWCESFcLpNd8Oj8Y-xaIE_uw-YuPpHBHoPWHAKgBf3Lxt2c3a72hHCle6o9qU8QA7i9YD1RnbyMgRCRxhSEoFTtBol6VXEhCsqpHbxy6v0-nf0Qgo7wjXGhQrH9spgAos0vXbG8Ia7AbN9P1h8A",
+          "width": 640
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100455812522136575912\">Tim Roberts</a>"
+          ],
+          "photo_reference": "CmRaAAAAdUOnB_avUutrByiW8kPaanr45cKtjdFv4fN49uY6FfGXDoh2WJz-2Wx5IpGeg2W2YaVTYPViPLWGecPQ4TAb2CeNdvKynZxcRGAQHJaZaQu5MJ7yXuQlOHFDlPbmFWSvEhCPqECwxH1JO-3L1b4uNnf4GhQ0XyoGr29bt7FAmAYE-JmFTg8YoA",
+          "width": 5312
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112247302197790864007\">Lenita Cendretti</a>"
+          ],
+          "photo_reference": "CmRaAAAAPpZZM9biLpDnD-92vURPUUjHj3S-EWo8OkrajIHIkBgUW6AV-LSQaX9v8fzrb7I-_xONlTVqnumGH2IHe1R9lPGnss-oVPhJSZlJxKgbLiwsShl2itc2mWtYOuhmWr9wEhDx-86kzWHKsDa1nUs0FBtgGhQSfJQcGcHF2-B8-kYVHPncNI5EOg",
+          "width": 4128
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112247302197790864007\">Lenita Cendretti</a>"
+          ],
+          "photo_reference": "CmRaAAAAW7Vxxjpncfb50uhtqucQHB4_F-YH8EUnAkBeI8RfTq5KDMkBiFObf62v_uRsswzTnVKFcQNq310s9WcmU7nAoi-_XkuW2-zYG5a-x5JkrilpmNl5wRSmE34mnkvYevnKEhC8D8F9GHIJ_d6hYZzGUhHqGhScybv8OoeuG28bKSQ7yI-Bhmz3Kg",
+          "width": 3096
+        },
+        {
+          "height": 1348,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116762565337999963639\">Lenard Gaffel</a>"
+          ],
+          "photo_reference": "CmRaAAAAX4y8MLwykLCYNgTxZ1G1X3iEthhJ1ekUtcIbzEj_H7rMt8Akz4ME3mouIeQG6GZEXi0yn7Yy_Rz8OhZRH0X8g9ZbkUL368ZDycrBUESntXtntAEyS6zU_c683SyxfnNfEhAQusOGxRfaFBuw0-t7Mt_TGhRVr2w_crn9L152Pa9fGTJ6eItguQ",
+          "width": 2137
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.brisbane.qld.gov.au/facilities-recreation/parks-venues/parks/parks-suburb/new-farm-parks",
+      "popularity": 0.5968971528540582,
+      "num_google_reviews": 2094,
+      "mood_params": [
+        0.004517591080381318,
+        0.033479059216032295,
+        0.0693615141039983,
+        0.07001131792330516,
+        0.054622316747491885,
+        0.13867955565293716,
+        0.08460024370839897,
+        0.011192314600677626,
+        0.10220085901002755,
+        0.015673393297701486,
+        0.043945257361501455,
+        0.015592510202291094
+      ],
+      "top_cats": [
+        "water",
+        "hiking",
+        "nature",
+        "beach"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.8661012806420249,
+        0.7377352567738721,
+        -0.3466657322202557,
+        -0.7816598490688528,
+        0.8787201171783945,
+        -0.8528923627339047,
+        -0.5434931496074643,
+        -1.0374583149695265,
+        -0.17572424484084823,
+        -0.5942849360422278,
+        -0.6409005209695424,
+        0.21680369766880114,
+        -0.15252533420427128,
+        0.9634232046526641,
+        -0.9565107029154412,
+        -0.20148049744047883,
+        -0.7894856575018215,
+        -0.11218201742283156,
+        -0.3781253795678327,
+        -1.0690616537498736,
+        0.9199188600795475,
+        -0.2833975420000566,
+        -0.6369588924611285,
+        -0.746616392789005,
+        -0.65135454496754,
+        -0.27099369694195047,
+        0.5307261121220705,
+        -0.1636895678000631,
+        0.8285152556152436,
+        0.9669038225385224
+      ],
+      "global_mood_params": [
+        -0.4344858701409901,
+        -0.5107542237017284,
+        0.11661860164032722,
+        -0.8634617131955908,
+        -0.08152269184789793,
+        -0.18933695398560524,
+        -0.543175954468196,
+        -0.7337019350616915,
+        -0.2594051157861111,
+        -1.0899842051360566,
+        -1.1035422318814416,
+        -0.6681442664651813
+      ]
+    },
+    {
+      "name": "Eat Street Northshore",
+      "orig_name": "Eat Street Northshore",
+      "place_id": "ChIJz2icig9ZkWsR567-MsUtn1o",
+      "cat_params": [
+        0.2505950480733428,
+        0.18582353888838604,
+        0.11483373516429439,
+        0.12403084192533684,
+        0.22432012411614152,
+        0.10393764039202835,
+        0.3666052122264893,
+        0.13062870934916976,
+        0.1505128633897738,
+        0.2577897830532276,
+        0.06724747576387577,
+        0.3247535165458119,
+        0.24587542360669495,
+        0.1417855078491096,
+        0.21743754808001972,
+        0.1505862567220638,
+        0.3446995724228271,
+        0.16638817469896325,
+        0.2411433904670099,
+        0.13030100548875903,
+        0.3872540369392049,
+        0.36921459065973233,
+        0.2565964943317726,
+        0.09332546244970573,
+        0.007991501452397055,
+        0.4013561089608903,
+        0.24921636943392356,
+        0.29101679065026553,
+        0.2176303388170218,
+        0.26468400458437596
+      ],
+      "noncat_params": [],
+      "quote": "Lively venue at a former container wharf featuring stalls with international street eats & beer.",
+      "phone": "1300 328 787",
+      "int_phone": "+61 1300 328 787",
+      "hours": "",
+      "coordinates": {
+        "lat": -27.4438961,
+        "lng": 153.0797179
+      },
+      "address": "221D MacArthur Ave, Hamilton QLD 4007, Australia",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107698588392253710751\">Andrea Leck</a>"
+          ],
+          "photo_reference": "CmRaAAAAnkQYEQqUghHFoRCmdXGMLAlQTKSuvpjHnHpQsRolSVUAsA5vEwNUQP6il_JEzzj6OhaNb2zMzb4TZepdk1dv28di4zeMMontPdaszP3KrJ7orDMZJekGH60ClviTGE85EhCpwFok5q4NAKnv9XbAXSHjGhTG5M-3jLz-JKSd891PyK-sbiAXCg",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107457910230408088572\">Chloe Abernethy</a>"
+          ],
+          "photo_reference": "CmRaAAAAUPvKbqc9mr-RClqMZrm0J6R6ynMX_E-Yk78Z3wSI1_FdYGHVHUL8NVsOF4SMFsD3vIRS8UDZeRXfwX3km72xqOdUgDuQU9luklRcSwYIVzpypujAPn7-YpT_6lSJnCJJEhCkOMsZYL_BL_XsneuDf5vHGhSrf0oTlZv59_Da4jRCsrBqlR5_6Q",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109369542534812126600\">Twenty Six</a>"
+          ],
+          "photo_reference": "CmRaAAAAUVlF4aoX_hd_pC3GJSEs9mptP8i7cskO7UbMzXbsNZH-tE00p-uo9SDr85sB5PZfpuiJ64qQQ1J9SRoEk6zA4w_tOZROPR7Zt27aRHPJYeIL6Px_zE4yt8cOKHUSsNfDEhDneiXduVSbxEXFdyKj1lpoGhQ8cusfFlh3nAsc9Hz384RfdZSh9A",
+          "width": 4608
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118145094501185425680\">Jules Rommelinchen</a>"
+          ],
+          "photo_reference": "CmRaAAAAiA1FgfOtazbq20THqozHMHA2MrgUq_iH_qyMnvN8fTyb6-xs0Dri8dCPDe41an7DFksIuFeSG-CT4fw7L_cmpzNXWR8TLs7lHko9kl9RThFhlvYQY0Iqs0HkwgvjocdoEhDGRW1WIdgkX1EbRW6VqqCyGhRI2EUmaOUUUuWoxzNw7aXn3likfg",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109044113278323563942\">Heshan Hewasiribaddana</a>"
+          ],
+          "photo_reference": "CmRaAAAAGk4GNcOMHZH_gorSdGN2Lb01MyZ2sbq9fFpy9hIeLMt9mgeNyaogC2cxB7tiWWdzIIYkBw0fpfVsvYf6pTyKUdzR_RkVESxS7ZdEmw0gEI20GJbzK6CKXHRYm8jJhFrHEhCeA2Yr8p8ehvzr8vZCMoV9GhT8aY8m1SpC9L94pVoBfNtipGZIQw",
+          "width": 4032
+        },
+        {
+          "height": 679,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100507386912649839459\">Hamish Wanhill</a>"
+          ],
+          "photo_reference": "CmRaAAAA3nhaUG61J-BEiqXt4QCkclg8qbO7wif3qojikPGt9lluo8tKcVXURLPpVgQGAD6kvfVfrviPFbJJHQu9JjjRXj_j3zEaLEA3klGKrHTw2Qo5UlwAi45nW1IXRv380j0BEhDLysb0XG8M1sP7vAn6fPjPGhTVmaKQffGLyaqBWqpYMtjnG541yw",
+          "width": 1048
+        },
+        {
+          "height": 2432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105739750689669289044\">Daniela Alves</a>"
+          ],
+          "photo_reference": "CmRaAAAAMb3WYqWl3QSnr9KTlpstTa4buvVGFGDZj7tZqWL0ZrgAVkFzpBqrFjWsoa3oxgQs8uiy_VBWmuHfmXwWzaFUc0AftCWMfy3whCrcf30BE9s_XUmtpjLnDR4dia1Zg1SsEhC9c_xL0NzsznEu_EfyKtYPGhTGWVNjuaSiMKSey6fMUNa8WEQImQ",
+          "width": 4320
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109624319222795825632\">Brian Smith</a>"
+          ],
+          "photo_reference": "CmRaAAAAx-dvSSXbtJXlAbfOZK-Kbg66AZXpeHto-7T62RLeNbXsqVAB9qHa_EYwD-PPRCVasacwUnK8R53alkMGHqOEKNscBWCSkRq9pZIUuCfDO3XYePWak81rbNPqNLtJ9OdgEhD-CPMuBZGacwO870c5Jh0TGhTd1oHA5FktCQDGMrXSjc2NtHJ0uA",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116318555608868408783\">Johann Stoltz</a>"
+          ],
+          "photo_reference": "CmRaAAAARwAqKcQ5PjRViydhZflZVl3M7WT10zgBMv0agAu2vSi1U9fMjRqoFjj0cexM1dAqPLyJdEwgtdHpoUHGIf0l8_FHnNjiVfYwGeFqNRKcipaI2PAqjjCy0n0pOxnnKWN6EhDsRDgSZhvi_c9-IID_LZKwGhRjGAaxfrCQL6vSRsQpT9UuCEASpQ",
+          "width": 3984
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114814276350345021444\">Fiona McNamara</a>"
+          ],
+          "photo_reference": "CmRaAAAACtBWhjxPNxwCfKXLqU5did_98R2f6FepcuIddiOGtoImh4wCy6PVU5BR7cWXW_ECU6Uu-g4bfzF223WegSnOMkThbeEhD3vioa7-6y2StsN4hxtnccsCtPgCxN9gtpvrEhAtZuALnylynNjJ9m-BKdOFGhQ5J6ng8N0IRH8YachXgUAtib6igA",
+          "width": 3264
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.eatstreetnorthshore.com.au/",
+      "popularity": 0.8523588487414688,
+      "num_google_reviews": 8707,
+      "mood_params": [
+        0.009853914269129353,
+        0.040820466708453206,
+        0.030292457046183614,
+        0.07649962853970704,
+        0.035038886206765964,
+        0.1488952624463102,
+        0.12482352390525031,
+        0.016990547974949092,
+        0.0682086861615913,
+        0.034231153292052285,
+        0.07593432934705285,
+        0.02143005318819795
+      ],
+      "top_cats": [
+        "food",
+        "nightlife",
+        "amusement",
+        "music"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        1.0844575773887262,
+        0.8796423932503638,
+        -1.0786869515583686,
+        -0.7663751385808116,
+        -0.4967988814054405,
+        -0.5495185918574536,
+        -0.33717380993560225,
+        -0.8941367543604102,
+        -0.8303105173339652,
+        -0.6758744424901355,
+        -0.39288314107060723,
+        1.7461132288976933,
+        -0.082630654304335,
+        -0.46987938127168,
+        -0.7905234200584383,
+        -0.2318074749225337,
+        -0.6752457331629229,
+        -1.3339467243740402,
+        0.9617927432347935,
+        -0.10663333507540758,
+        -0.733124898254786,
+        1.1131231568473403,
+        -0.005028849871591993,
+        -0.6985953188569877,
+        -0.5633213206931653,
+        0.3472133725613282,
+        -0.3838770041016048,
+        -0.8407412635976832,
+        -0.49242264193320145,
+        -0.44727066314332803
+      ],
+      "global_mood_params": [
+        -0.07544807521817781,
+        -0.2908128785687843,
+        -0.5868052125427999,
+        -0.7634349566123666,
+        -0.5113250434674862,
+        -0.06087426740569801,
+        0.21803365125469656,
+        -0.5024931441690633,
+        -0.7090768549196814,
+        -0.36877070346224083,
+        -0.36330861754580496,
+        -0.31127849154288806
+      ]
+    },
+    {
+      "name": "Epicurious Garden",
+      "orig_name": "Epicurious Garden",
+      "place_id": "ChIJNeLo2A1akWsRDQ3K0SrU8F0",
+      "cat_params": [
+        0.1621886733405079,
+        0.12422050352074539,
+        0.21883463419273166,
+        0.28573367211532297,
+        0.46035939506433765,
+        0.08111850714998266,
+        0.4130379528219562,
+        0.1326011556181258,
+        0.12732278018013285,
+        0.29478174815983543,
+        0.09479523436479556,
+        0.2654053255045745,
+        0.27896476715367735,
+        0.222668610027405,
+        0.1922198659027582,
+        0.25036666649408046,
+        0.6135637995459012,
+        0.18465730454885437,
+        0.1521762434568998,
+        0.08713467215944262,
+        0.8885173178765187,
+        0.2626246138601547,
+        0.2675226747407248,
+        0.1393258869627204,
+        0.011133373180494326,
+        0.3709741115554121,
+        0.2604312410595408,
+        0.44039218548126524,
+        0.436109187691063,
+        0.3682399123600024
+      ],
+      "noncat_params": [],
+      "quote": "Volunteer-run vegetable & herb garden, with samples & produce sold from a seasonal harvest cart.",
+      "phone": "(07) 3156 6366",
+      "int_phone": "+61 7 3156 6366",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4800898,
+        "lng": 153.0244831
+      },
+      "address": "Formal Gardens, Clem Jones Promenade near South Bank 3 Ferry Terminal, Australia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100660626116279458917\">Bijay upreti</a>"
+          ],
+          "photo_reference": "CmRaAAAApjEnbPfBAKdoohLUu98rIAshYIj2DTs7w70xmwan0DlPjTUp2pUNIVxyKcFV8M66nXWp70z8_kP5tCtARfiE7lqDfCPd8kfrSdEqV0LOkHaJTQTpMXzQbqcOa6EFvAhiEhAVzmD3TJACM7i-cxRVKqESGhRQ19dpo-yiP6pQtU9EBpPTJHbi8A",
+          "width": 4032
+        },
+        {
+          "height": 1387,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111722626838497556664\">Anatoli M</a>"
+          ],
+          "photo_reference": "CmRaAAAASGBsTMD1aP_P9qZjmJPiTNQ95EpcjqB6eUPpmeduYTQfXrdLoD9cOU7d4QDLwwg7AU_yR7mzBV09FpDrgo715yZAOtjmrp-yaQA6slOQmZfzZtl6AXZj59XKDTztwLewEhAcuYO-ub3IHF1BSrC83xNXGhS5PXyCZXbxQXaJ4F6FfVZ8tVXu7g",
+          "width": 2048
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110425586308811890829\">Max Luong</a>"
+          ],
+          "photo_reference": "CmRaAAAA6hSD_hl7mprTuEUrvbfCt5P4eTdZWAd2w3jmcrVdy4GDB3v_2dOacRqcGUnGj9Os_Gr6AhOmzJc7t6qvsVFsKfdUiWxQ5HxyjKC5HsNaQW2CIp4Rz2Q7Jm7ve5JGcTtpEhBfhtARUBgM7dnV4jrL1GTOGhTEBruS42pdDeYVaWyX_KC2NsDk6g",
+          "width": 4898
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100996076637105106366\">Mindaugas Tijusas</a>"
+          ],
+          "photo_reference": "CmRaAAAA4Icj93xF5DW3Hdi8PnHsvrGaAe3n1XEQzyd6kP2zR4W4NA-KKiOvhfF48Ow_t48wNLSkLHLKNP5gWtM9jHT1-SebYeaG6GF0DUNYjkWL9tx9HiQMKiCLv-qcKrSevxQUEhBnz5V3zySvqqnA2kU6UrGOGhRZI27tlHwNQVj57gPLg37gtfzxow",
+          "width": 4032
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101208935043015428058\">Brian Clatworthy</a>"
+          ],
+          "photo_reference": "CmRaAAAAeAX_y_cHwia5CrLGp4RMdgwlObsZGlAFtTE0jZeKmznglIQ3bVRwXEQMYvRdGz0myQCT4QYi0CiqVDllu5p5Aq04y5XBKXwlMdLlFqqZ8nUzaZ4139G97yTmt4vHl_wfEhBGT4TOZKW6p4V-Gp3F-5UQGhQVxuYOcx-IatliFJD0dM3MmRUb1A",
+          "width": 1638
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116334960989162040470\">Sudhir G B</a>"
+          ],
+          "photo_reference": "CmRaAAAAKZpGqZBsAVhuNLeHCEXyDwevyio9fSEQRWSOnGK-B-JqDCUZVwXvuz38K4FnPpG4dqdVY6wnWq1154aJQ6sRSK16Rd65xjAJ_ciPiRwkgFTVWfLT4iRDmI13AXNUa6O8EhA2Vo5r8CjY1GCUwhkjqCmvGhQDs1XSliBj_-c6SBg8BFnjjG_AUA",
+          "width": 4160
+        },
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110646758955670610971\">Andrew Finlay</a>"
+          ],
+          "photo_reference": "CmRaAAAAnXnX8QKhyiSkh0M9tOt-1N-v-VhubbLvwkWCLeeunwi8E_8DS1OJBXMGs5Wsr-SJWht3ZmSD2uxmHDL9lkYJEdekptdPgP_3oqtArPwMHYb6l1eCdi3HfZ4A6hNIsYNpEhDEGAclc45RNnb4T_7xzaiCGhRxQ1GMwA7Gci98vm5-HjKPtrFMUQ",
+          "width": 3036
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110456765907439923512\">Alex Zemcuznikov</a>"
+          ],
+          "photo_reference": "CmRaAAAAOjdvUhzdXiPkj0U9QLAbv41cuqSp_PEfFc8BXe74YLT6Zeu3wDgM4LYozNGtKcrn43kqjtMnoDRDexWvHFtePxPJ_CgSZS23U19D4yH1J_XJMLn93SH-SBfc-iOZqubcEhCGMjCEGNxo-hZ2qHprj_DSGhR_oGB_is312uwdOx5E1sfU5woCKg",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109734309136048371272\">Nome Timm</a>"
+          ],
+          "photo_reference": "CmRaAAAAn_SpG2CMZ_1p8qtlNS3UIbyPieLBJYVzgzdRxzH2B9PEI0XWFu06jYZAnvl8d1laTp6pU6_tybAzt-KQf-ZUm6PW6KpOIuiERCvDN1G_pPxgo7VIVY0CT50x54IgGTQ2EhAKHnEOpQR8-buA_VlQrwGCGhSU5bcgg8KLTL33jn4kZ4PJj-5ykg",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513872323240819840\">Aleksei Omelichkin</a>"
+          ],
+          "photo_reference": "CmRaAAAAyDipHvbW6BlfBA_JfXMaWX-919ltzTgv9YapwO0mUEPXLUbG8n0dVnQ0IkOxbxN04unCQR_i2TLZGI3YWvD7lOdpAnIkcXztRSkkNrbnTW-uM9ozW0ldWlkv9c8utPNZEhCZQNiEsGPQBZPxzz8O2tXsGhTdvRWV9RhtUayG-PQckw_RbJKEIw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.visitbrisbane.com.au/south-bank/things-to-do/epicuriousgarden",
+      "popularity": 0.35156487110825807,
+      "num_google_reviews": 252,
+      "mood_params": [
+        0.0018139087082255855,
+        0.043277019546637416,
+        0.16140314278791415,
+        0.15678942308966679,
+        0.11852751915487034,
+        0.24813962267159878,
+        0.14197011044176727,
+        0.022965842216637822,
+        0.21150132723592627,
+        0.030484962929850715,
+        0.07870546632700347,
+        0.04011958662861413
+      ],
+      "top_cats": [
+        "nature",
+        "food",
+        "beach",
+        "hospitality"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        0.011785059180300934,
+        0.14307235325348194,
+        -0.05704567956535868,
+        0.38918899934998313,
+        0.9591728167438711,
+        -0.8539410979628534,
+        0.15695574466203274,
+        -0.8722311425259596,
+        -1.1735011925142116,
+        -0.2825522337691073,
+        0.173677395243997,
+        1.1824722748489873,
+        0.2749391043895499,
+        0.12445193098490039,
+        -1.0647407670911446,
+        0.9368094297391003,
+        0.7836228960076895,
+        -1.1428585475353152,
+        -0.17383561338570463,
+        -0.9667603112834807,
+        1.711540237905651,
+        0.07181736069678347,
+        0.11816194591853502,
+        -0.26948343524325863,
+        -0.47285954627194815,
+        0.12185707962809604,
+        -0.27879462124969195,
+        0.12965932937840394,
+        0.8264093771675933,
+        0.26479357705208645
+      ],
+      "global_mood_params": [
+        -0.6163946719012179,
+        -0.21721697258234007,
+        1.7737938289988517,
+        0.4743491462731995,
+        1.3210204539149022,
+        1.1871252494476128,
+        0.5425259928309872,
+        -0.26422392186096294,
+        1.1864963231833736,
+        -0.5143595606240188,
+        -0.2991839457386798,
+        0.8312663856858162
+      ]
+    },
+    {
+      "name": "Lone Pine Koala Sanctuary",
+      "orig_name": "Lone Pine Koala Sanctuary",
+      "place_id": "ChIJo5L_WytQkWsRNnlN6kJDWtk",
+      "cat_params": [
+        0.15066663316440043,
+        0.2538769097786029,
+        0.10474186845935501,
+        0.1350815895047181,
+        0.2372400392976431,
+        0.09784798683538937,
+        0.3668223472019489,
+        0.13173999834787037,
+        0.17815283668439072,
+        0.35919222003463663,
+        0.07701974358898639,
+        0.09441152406262276,
+        0.28856801323878456,
+        0.14006510673123537,
+        0.2526949404644786,
+        0.1654705681646224,
+        0.4548092961080453,
+        0.18844453979943973,
+        0.15822224896523487,
+        0.14614432328798438,
+        0.46703700098330975,
+        0.2512247746638945,
+        0.22927662064082294,
+        0.14288939794715833,
+        0.011403204832328272,
+        0.37749644927809295,
+        0.2635802675914733,
+        0.4026378060468761,
+        0.24515607591014302,
+        0.2644245080152468
+      ],
+      "noncat_params": [],
+      "quote": "The world's largest koala sanctuary, with a zoo housing Australian native animal species.",
+      "phone": "(07) 3378 1366",
+      "int_phone": "+61 7 3378 1366",
+      "hours": "",
+      "coordinates": {
+        "lat": -27.5337818,
+        "lng": 152.968815
+      },
+      "address": "708 Jesmond Rd, Fig Tree Pocket QLD 4069, Australia",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114243478280093354505\">Felix Ott</a>"
+          ],
+          "photo_reference": "CmRaAAAAWBaedP--6q5rv2ownXPNQf2oc_kJdPn4AkfJlBF7eeQ1IP5O-J9oh95eLU-Of6Uc0FgAEXkFxY8E7xHZjCIPnwsPGpCCYP_It5cRaujLFZwEzDe5AF1INutE0myq5aKmEhBOQNZgCemTf6Gj30hvoZgvGhR4AD3I2TDbLy0kHWREyzhBLfTsLw",
+          "width": 5184
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100579299875950586794\">Szymon Liberski</a>"
+          ],
+          "photo_reference": "CmRaAAAAQd2uamsNc0074egRS64RdQHD2DS2hwgOyV8Ugr9RDZZQnK0sS5xSZ9UDjFrQn6opGJFZCrNGtaNIgsbi0wwOpSv7ZFwk6CY5hP28CJzQ-Q5atpBwfv_sIgh_xT9RKtupEhBzB9YvB5wcBFuD0qF1i8GCGhTdp37YcOnsDnhHaY3cdnfCptUfaw",
+          "width": 6000
+        },
+        {
+          "height": 2610,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115220017545719274936\">Noel Miranda</a>"
+          ],
+          "photo_reference": "CmRaAAAA5yB7zsU4IvZHDZ64kzTNQ6U-pUquAj8MurBcTUbnGSnibGb4Fi0DDZ4GFAEpzoKn7GwDJwZH8R2JGotEexE5os_KGxUy1gOsabXlqa-tM2giUyR2LYDucbyWe6tMTnyTEhDBPuivISYp7vOsSae5_WADGhQe_LWpZfYxaQxYge2ugpXyV4wdRw",
+          "width": 4640
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109822316146101894829\">RamaGoma Master</a>"
+          ],
+          "photo_reference": "CmRaAAAADfXQ8MxU01OaVDJAYIAd3mu6rGz46QQL5_zZNKCQ2F5JJcNGr5yZXl_xGyJoLtEysVrqdzHVXND9Mtwf7ei_NzPi685KAisocjrIEK1vBz8QKPM5aPnozzEgNhEfIxqwEhBJzhEX46bZQCDyLDzb0WEAGhTgoTj_4gO9x-atp7MpzEvwgzyojg",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109593659355153066270\">Alice C.</a>"
+          ],
+          "photo_reference": "CmRaAAAAaKGmA2D4PCnUaqot21mN3nVx7cSNsb4vjN8Tt3wrzE7N15M_8VfoZA0jD-bjiE8Sn84UN5kQWGQGVXjGtK5exD-P8obCOgOWk-5MSfKrjUqE00XRky6FqFPvIUfVaH_pEhDzcPlJ10UrcsFrKd4qsyCKGhQamDYNKKkxNDiE-2GzAZTDrbSUiQ",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106780895931533934043\">Andreas B\u00fcrkle</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ7MnpstRFQ-PWGeqBW4H8nOUf5edj2czMY0iScJJ0USc6kZV168WbP-DeOgvnH6EI-HnkiLr9urycR6JkA5r7uNQ3MADGFN6K_N7yLrES7utQ-Dn7L7dfY9QX7ex2ZROEhCNGeRGR2MjKIJvLQF5HnEbGhTg7i_3XUSrKoDovTSyKX41mc1VAg",
+          "width": 5184
+        },
+        {
+          "height": 2678,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114544648042556817991\">Donna Jonas</a>"
+          ],
+          "photo_reference": "CmRaAAAAKAHZJxvE5cSk0uimrIoUnsUeEj8HhkkHRBdC56fNhLbm82MD3z1KKwztedUyRMTm3savKsUF6nXS5y5TZ-_vse-xITM2HkIAneo_b_8GozmQCzD4Fo4L5Y2bAnVmcenkEhAaN_hdkuH1Ja2MrI8lRDWKGhRSc5eLoczQlGmK0ONmCeX96cgrNw",
+          "width": 2268
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111465398059809932544\">Betsy Alan</a>"
+          ],
+          "photo_reference": "CmRaAAAArbNuPsEbVQNVBebIlGxwltgIbmr6hJBWIGXQ_IRq_h4X6vlEDY6zyT3AAWzg3eMproLep6zf6QMiGJK6yfw9Xk4v50A9NDwEsiZ2WOPrGrdJGZlksdEpDAJJ2ZooMUCMEhCZGNDRqNj9ffRT8YhAbcNeGhR6Wqis5I6cq7JJAVxiI18n_F9dLw",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114243478280093354505\">Felix Ott</a>"
+          ],
+          "photo_reference": "CmRaAAAAR25zUuI2yTx7Divi3z-ay2iVZ-Jds4xB0CgQyMAwXln5h3fu1QOkWAiK2IHp8T0-AWTfOF-12Y2fXng1fASbZgNozS7sGOLqZmw6aXvZYqwBgu8inFPmbFacqAm7PdTAEhDgUneK2tTYHQ6cYgTOTAakGhRO7RY6zJ1dwmBvJjmRi0A9uzo90Q",
+          "width": 5184
+        },
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108880714002171992138\">David Basanta</a>"
+          ],
+          "photo_reference": "CmRaAAAAaaJhf4BVOSMOJXMyvdoPXbQq1FAiErw83tO0neT5wNlgliFl5TnZdOy8uK0Z-ga9xDiRGfhqa_hVJCgDHS1hsOHQ6acof2bVhKNyCx98PdnapuhA-MaQPXXBozgpySEqEhDliYdzS6RBBrPk3UnKszNUGhQnKsgPd5oHp7iI4M6wxCc_DUGF4A",
+          "width": 4272
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://koala.net/",
+      "popularity": 0.7922890928119115,
+      "num_google_reviews": 6500,
+      "mood_params": [
+        0.010646976698590726,
+        0.052637861774011085,
+        0.032876724614756,
+        0.1054716605835757,
+        0.04093100325592526,
+        0.16082752234365405,
+        0.12873456436192912,
+        0.02423306386045539,
+        0.08809300793902863,
+        0.042957888451123506,
+        0.08968907021079747,
+        0.03711936138787904
+      ],
+      "top_cats": [
+        "animals",
+        "family",
+        "friends",
+        "movies"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.12801680338847907,
+        1.6933372675269691,
+        -1.1778232824318067,
+        -0.6874040557305293,
+        -0.4171043849295367,
+        -0.6307586449901426,
+        -0.33486309539806963,
+        -0.8817949908231377,
+        -0.42126579717530765,
+        0.40230105773756825,
+        -0.19190195126811774,
+        -0.4414880799693887,
+        0.37871361355907157,
+        -0.4825209371276849,
+        -0.4071341563268515,
+        -0.057484098161850815,
+        -0.07778573125096404,
+        -1.1032455016354843,
+        -0.09666088619378083,
+        0.20905864014492664,
+        -0.34402272764804614,
+        -0.039550696475896985,
+        -0.313055704170679,
+        -0.23624146134848004,
+        -0.46509046715849583,
+        0.17023605322964425,
+        -0.24928851340593408,
+        -0.11560778594554633,
+        -0.3262654893536963,
+        -0.449054996179456
+      ],
+      "global_mood_params": [
+        -0.022089353147083934,
+        0.06322465025242573,
+        -0.540276437935701,
+        -0.3167888928977869,
+        -0.38200930593722904,
+        0.08917410363573008,
+        0.29204853888755067,
+        -0.2136925332210839,
+        -0.4460334303342741,
+        -0.029622054909307822,
+        -0.04502112397867156,
+        0.6478539965931431
+      ]
+    },
+    {
+      "name": "Victoria Bridge Abutment",
+      "orig_name": "Victoria Bridge Abutment",
+      "place_id": "ChIJb53ZAgZakWsR4ufatU_bwUA",
+      "cat_params": [
+        0.051082239679555844,
+        0.020491647700910137,
+        0.3420656991911762,
+        0.1187786961359466,
+        0.17993790737653725,
+        0.08657549510655299,
+        0.31199204905154077,
+        0.1283098175667319,
+        0.19927376657713006,
+        0.1907375324247067,
+        0.02815613742199817,
+        0.051719447084548176,
+        0.09327627253843288,
+        0.1340885399886561,
+        0.2267532638666231,
+        0.042692202944854096,
+        0.21458310712788212,
+        0.2111235369834363,
+        0.0507800125246597,
+        0.06705882007996757,
+        0.256799259678666,
+        0.10242384048245971,
+        0.1331673628452085,
+        0.07052337987174288,
+        0.028022303852880768,
+        0.1721940344921371,
+        0.12411239020065427,
+        0.24423884759832531,
+        0.0939049412816531,
+        0.45099406643072876
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "13 32 63",
+      "int_phone": "+61 133263",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4733304,
+        "lng": 153.019966
+      },
+      "address": "2 Melbourne St, South Brisbane QLD 4101, Australia",
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107357090791399153325\">Frankie Gonzales</a>"
+          ],
+          "photo_reference": "CmRaAAAAzp1AR2DUAhKpO5o4_--fpKfjk0YoDJLK14Yk4astu13ZySU_VruoBlx-1_Gbz8bAPnSTF3hdPv7vfo1ZH1L8b8IBTvm1DlL7SQRX4blYOAGw7StuSSPq38qYhc81PoJPEhA4JVi1f2690HxG4birgx5FGhSzzA82KnsK9HXyrHHXq83rBaUitg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104674579049435699955\">Massa S.</a>"
+          ],
+          "photo_reference": "CmRaAAAAUhIGKRsLIyCpLQ2-veiZV_y0X8ZOtFvnbA6dR7NA5itdYkdPakB791xrKI6R5GR_HNlcnnLZvOtLuyr-wgyvfVI1yJFt_VGCJIbiQi6ad3AZoO46Y2GZNiIcYnqrdiI2EhCfppZXQBiddMSS07HHoegrGhTWvKhHcOEOy9VeOObONP30XDjBXg",
+          "width": 3024
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106167065391273677492\">A.J. McMahon</a>"
+          ],
+          "photo_reference": "CmRaAAAAmuUDc_j9P6ZL1c4PJPQscda4ej-kzpb1znmAvXfMFDTjclTVkMCD5cC1EIj1FZuUl79DLMwUdl9nz3q96TRgGQ5hZq69KJs7dBrMZYfpNne1HF3hnOihwN97j9Be1DJYEhDMbU-csjcoc-yZwFrP43UoGhT3kBxzQPxnZtoJXIcBTYYYf7Vq7Q",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104012028156367341044\">Chunfa Chang</a>"
+          ],
+          "photo_reference": "CmRaAAAA84LND0wHy2Km-e9s1r2iaar9FUrxLjRGl4UeSZXxylP6F7VMNGvQpxjc7Em2xks0sfTxbluMPbOQKSOPlT6mLwfI4EyZ7xofsIDiXpFqBgx3gV59l2-5QtcA_iSV1HHwEhA9sPN0DUMCDBcxqV9DQIvgGhSjhL4IvmDM_Nw-VFzE4uu-bUbbeA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109205104561104861405\">Dissa Aswari</a>"
+          ],
+          "photo_reference": "CmRaAAAAseRDaTDUJcoSF-Nw18nhIA19t5oXQKAgKz0zUSBLUKOOH_Q1cCbNONFxECd1_dp_W58J_rlgU0yMmj6h6lzUDkya2oMOF11aSiYeySv4NVcDBJZRkKhINy1zkNibSbtVEhBU9rLKo_BEdlCbBARLUG-WGhRMd4CBe57Sm_Zt3Fe8A_LqxHLjCw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113379033036068802783\">Brad Smith</a>"
+          ],
+          "photo_reference": "CmRaAAAAywoH8Q9kDaG_BbIYCamSr6nQXCC6Dmc8H1mlWK_F3Z4SLBbMEQoSaI56BlzbVITxYSETR7ZmOBb4P82zsVUs4uA1GWwaj76EQM5z5CDybUHCAtYEtH_tycVqtVpGQTSFEhDGDQrXuYiBJtG7l8Vr3NulGhSE5Vb3FTAJDpvXcE7HUJlfEOviLg",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104128027337983582639\">HELAL UDDIN</a>"
+          ],
+          "photo_reference": "CmRaAAAACOzRRgHlPtkJTNyFPo0HvbhyPt6GN4Sshbh3IDBSTc4Vpymzo7u0-fd6h8VB-G-k6R_O7IbaZAXRLJXR7uXTC3rtHN6i1FrgzyRK1cPzGLrm1bhgfBTbsxGVK8d6qoAqEhAmkJb7Dltrp4qkRqNTttsPGhS-qwEM-Go8h7cTSlrjrwhmOJUfgw",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103390666663866251344\">Ten Minutes Memory</a>"
+          ],
+          "photo_reference": "CmRZAAAAU0RH_8fD9cCQoiKwJ5HEAgSyLtRDptB3uxIdAvpfMisGhiwTr1Lg58s0Gyv-coe_gd2JQDViD5EI1TVIlujHtLW8qJr-Kh9dqHu587PPAXol0ict-DKqE1LxrU3QL0NHEhD-uuPmsggEfs6kNY5qUozQGhSQWQrtmG5PDTRj_hIV8s93EhkziQ",
+          "width": 3264
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104725481485491702724\">Kznnz</a>"
+          ],
+          "photo_reference": "CmRaAAAAvTGfuOUIghEVxY7pjlTTYV8eEKApaFVMrrsL8t4peB8FsRiNfWM7m6S6hdL6cijsza40wxq-y6zzvhV6jpwLrVvqEixZ7wNrUGaBMk4RiGzIx4qBZZs5AF6lmmJ61UTUEhDdyve0ocPyMtvW-gmjtlC7GhS9i93HpzVyPOS-GLeftCR1D9asSw",
+          "width": 960
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106171681300441592834\">BEE Bear</a>"
+          ],
+          "photo_reference": "CmRaAAAA-Mlgd6_2sCxNq0jmFH68hc3AOSe7juKdzcvfhW5JULz2oVODjH6jyQ0mEUzwaq0BiVRTdlMucp2cxb-dT8-eNezXF7YJD8kgB4_cDN5khv8Q-iw-sYsskNtDbm8G3zhOEhAELZA1XrJNlSltm6hHYzO7GhQdsDCXtVbGAC_M4fx75DN8tFhC9A",
+          "width": 3024
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.brisbane.qld.gov.au/",
+      "popularity": 0.1888905197891766,
+      "num_google_reviews": 21,
+      "mood_params": [
+        0.0,
+        0.008784272514316158,
+        0.01820695965333207,
+        0.03397556293377553,
+        0.009595768758770787,
+        0.039814494001805506,
+        0.012897505003239678,
+        0.008892075992791713,
+        0.03447777644714129,
+        0.01877819204920078,
+        0.034878416452973016,
+        0.008415103287156393
+      ],
+      "top_cats": [
+        "architecture",
+        "water",
+        "science",
+        "engineering"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -1.336317024458086,
+        -1.0971841864458707,
+        1.153500990417172,
+        -0.8039081323711667,
+        -0.770563713903057,
+        -0.7811412272620152,
+        -0.9183580701952653,
+        -0.9198899239507111,
+        -0.10869657847968864,
+        -1.3888168136488597,
+        -1.1968545253519527,
+        -0.8469427800380539,
+        -1.7316461914936858,
+        -0.5264369178361913,
+        -0.6892242264705175,
+        -1.495450463006149,
+        -1.3812631583463388,
+        -0.8660317831919478,
+        -1.4681160188033033,
+        -1.3667892368858325,
+        -1.3693539178990506,
+        -1.4932265475091948,
+        -1.3966709757013884,
+        -0.9113030212082368,
+        0.013411940573964772,
+        -1.3525799258824307,
+        -1.556090532793211,
+        -1.144628953582781,
+        -1.2392821969269772,
+        0.8338221830207674
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.2505857356500616,
+        -0.804400089731663,
+        -1.4190053524779678,
+        -1.0697313803419215,
+        -1.4325667848213286,
+        -1.9001218124859727,
+        -0.8254256296707704,
+        -1.155292426412692,
+        -0.9693218633317147,
+        -1.313350769602,
+        -1.1069197730243445
+      ]
+    },
+    {
+      "name": "Queensland Parliament",
+      "orig_name": "Queensland Parliament",
+      "place_id": "ChIJ5Y8TBhBakWsRWLsl12xHfGU",
+      "cat_params": [
+        0.0781449558748323,
+        0.018349631197672273,
+        0.28243279923667663,
+        0.1763650892145243,
+        0.1665688676921317,
+        0.10867317169576872,
+        0.24458156323134417,
+        0.11883680986319196,
+        0.19386087685056,
+        0.1714528860935143,
+        0.03126974632960678,
+        0.08084961254249592,
+        0.1459422271997525,
+        0.13020629780827053,
+        0.2192764099172879,
+        0.15687162947989097,
+        0.24627751355293548,
+        0.24950851810353764,
+        0.1258835379282764,
+        0.0660784882392635,
+        0.33612670437455205,
+        0.19487196999201342,
+        0.17285855405165707,
+        0.11482430690243123,
+        0.017086518151460454,
+        0.18202738922368092,
+        0.14286899612678747,
+        0.2225698985589889,
+        0.16812869726153798,
+        0.16898340904427464
+      ],
+      "noncat_params": [],
+      "quote": "Home of the state legislature, this 1867 French Renaissance Revival building is open for tours.",
+      "phone": "(07) 3553 6000",
+      "int_phone": "+61 7 3553 6000",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4754275,
+        "lng": 153.0273952
+      },
+      "address": "2A George St, Brisbane City QLD 4000, Australia",
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103333912972384524777\">Queensland Parliament</a>"
+          ],
+          "photo_reference": "CmRaAAAA0HtGzMuOWISg6E2EQLqOzIpbF1o-SA6w-ZklWS-OXqke2hhqFeo21uuZ2h7QbNLImU8MkvgG5CH33_5NZmQX9FimXbU7TcHgyhfGFiYRC5uKwUNVVG9R4HInlnu15bw7EhAvnvniK5MRutWwZUoNaVbWGhRp_jxK3EwOPz_Mzp3q8KykZziUdA",
+          "width": 720
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106616425709900346843\">Erin</a>"
+          ],
+          "photo_reference": "CmRaAAAAvx8z_OOC3B_2ctrTJudlUtTkJYAmvqXiRz45P8wXgsvX1CuXDEFywOUDBxTwVe6E9_oL1xjf0-nBpioZ4OpJjBoVPDJyOwzC3tsArr4Dy-cGruO4V7oYKX9STpIVCwo3EhBoIgnG8BICYuGjU93mqQ8gGhRCbkalzJiCZShfPaD87YCEvnb6zg",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110144907974550025099\">Alison Cav</a>"
+          ],
+          "photo_reference": "CmRaAAAAwj2tcSp5sGvAGHbktkPtC7yFEbEfSnBN64QE6wX2D-gusOyc8gwcSQgPW8LxLs4-sD-X9FtC7HL9bJc-TqInp1eenuvQ6m2dNQc2IOW_U9gaabrdEKi3j1f3LX7WJb97EhAQN9p9_cvTY0Snwnacfh8PGhSfq0sRkJQ_-3DWcH5Yd0Db9f7gfA",
+          "width": 4032
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104816584526813582567\">Tony Corry</a>"
+          ],
+          "photo_reference": "CmRaAAAALhYBeimXvPxYxm-MPORcxOsmneqbu3ZPZFZH_G_ZWBYSUSXQTsDicRZFYzfS3fLUlJIenVegIT-lj81Xv86NxbwBPeohDouVO0ruQQPCHwcjxG52LshqhUkJ0aVtt_kSEhB0gmvetRJqqJn0Kw71iTOTGhTQ1Au-S6dSGXqaD5d-vzlooidYyA",
+          "width": 3840
+        },
+        {
+          "height": 5184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108632468091770555906\">Jean Seah</a>"
+          ],
+          "photo_reference": "CmRaAAAAb41AJMvlrCu0o59aPl5kawd1HFIFr5-bQexbG8EZvsYMis0GsGqqHtrhR3ElOVI23vnQbgksTJuBzVVxUriTZgN6RasNZKQTbrCCjDTatr0BbOLYPUa4rgS6HJccJrkUEhBtaFr_TKUanJeGOKj9AB_kGhQpvs1VVH_1JOqQth5LZoBPpz8QXQ",
+          "width": 3888
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116544669495033757873\">Richard Harvey</a>"
+          ],
+          "photo_reference": "CmRaAAAAuAPKDneV1wh2tWPS6iQbsCB3teOc7wzSt6xL_LVCQJ8GXWg0TPtdDFpze44v9ToDNvDD8uWxtQZMsbyrz3Byw6zU7xPTOtXZIAbdF8VWALp7us1TTJsIrmoItBRqP8mgEhC7OpQ5VeRQro4B7jvMOxkYGhSEBNp8ywL988w7S_WXkpWLs9XImQ",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106616425709900346843\">Erin</a>"
+          ],
+          "photo_reference": "CmRaAAAAUIwNcjvt890mb7QADwBCHVpa9J4AGVysUNBm6vMYlq6FdW0vqvYBD7V66hc_FnD2FE8r24F2EbNTjjsooFL3ev99ZP1WPI2_-OZlqWWMaNN4I-5Cmr-43MBTZ8SzYlpfEhCjPx8dCw9_0wh1B02wdlkBGhTmV62yhzBU4yZQSg5X-Q_27Q5pUg",
+          "width": 4608
+        },
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108250508046566227502\">Simon Neale</a>"
+          ],
+          "photo_reference": "CmRaAAAAxwcJveSghhOL7uSeWvy0pdgYEql5QMLA22G8oSM2pVo4EgAyFZ4ZoBQDT7efjC0sZJHrkJNLV9smLM91T04P7kGFBiID1nO6F1aS5PJyvJrMDX5AOgrWIXI5NXnEjE5nEhCjJGjWUnAOOowW9VAWsSatGhRJcnSZdNRw4HzhrCKDicO5dNTE8g",
+          "width": 1500
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107870836346034795930\">Huy Nguyen</a>"
+          ],
+          "photo_reference": "CmRaAAAA8PVl9CfWFoHwsM0tkobF1Qal35XoWXAbkvj3rUL9eJMWx_co9TKEHVYxXydkE_0kRXtfrCUyIlLBilwMkskzxC1i4loR0uaPgLYA82ywiH_0JnsaX7TXQQKCAvwq-QkLEhC0JcI-8dZ7LZVuMSLjIAPSGhTmgkckscNlvfqKNKVEcfrdlVFw6Q",
+          "width": 4032
+        },
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104613916212715208539\">David</a>"
+          ],
+          "photo_reference": "CmRaAAAAH7pK7rLyI60OUyP_qdo5xjErseB5Au8lIkkozl1hhINE9M8BV9lCq-3o1RNxF06RNaw1XGKbEtN-bpplz9VdgOXnI7Yf2tEnZkjJhl4wqBguGS5dK1BnOR1WP_wdQ3ZHEhDb6Am4mOfahL5t3zSUuFQVGhQSJVgPHAGX8i0IW-is-EOAca7Asg",
+          "width": 1200
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.parliament.qld.gov.au/",
+      "popularity": 0.23580221593991296,
+      "num_google_reviews": 51,
+      "mood_params": [
+        0.002713764545643489,
+        0.04061631954547533,
+        0.03783918762398479,
+        0.09479229551009055,
+        0.04364907221785019,
+        0.09443285102326451,
+        0.07342782644017298,
+        0.015471585995594252,
+        0.07846695062641791,
+        0.022857742764893853,
+        0.07472262483923785,
+        0.012693777478462382
+      ],
+      "top_cats": [
+        "architecture",
+        "hospitality",
+        "engineering",
+        "science"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -1.0079534644945154,
+        -1.1227956708808189,
+        0.567703825861043,
+        -0.39238304900554805,
+        -0.8530285653395855,
+        -0.4863434356438524,
+        -1.635729323891969,
+        -1.025095339644157,
+        -0.1888020814718256,
+        -1.593863495206027,
+        -1.132818537592507,
+        -0.5702881093185065,
+        -1.1625278385444169,
+        -0.5549637426911554,
+        -0.7705276166760784,
+        -0.15819389813246823,
+        -1.2092879731442996,
+        -0.46453942310164215,
+        -0.5094509834861329,
+        -1.3863232069219815,
+        -0.9824733188930767,
+        -0.5900762139408978,
+        -0.9491596544921672,
+        -0.49804478619793563,
+        -0.30145469462115265,
+        -1.2796417204108377,
+        -1.3803427480008992,
+        -1.2853988643216334,
+        -0.791235777474119,
+        -1.105320728207312
+      ],
+      "global_mood_params": [
+        -0.5558506898020482,
+        -0.29692892670761634,
+        -0.450929140596817,
+        -0.4814268570495819,
+        -0.3223551800030583,
+        -0.7457400168380571,
+        -0.7546095148863657,
+        -0.5630628625624063,
+        -0.5733735080651454,
+        -0.8107775639218414,
+        -0.39134770563600685,
+        -0.8453521263951482
+      ]
+    },
+    {
+      "name": "Boggo Road Gaol",
+      "orig_name": "Boggo Road Gaol",
+      "place_id": "ChIJhc4V3RxakWsRmNKYR9sPAHY",
+      "cat_params": [
+        0.11876076127467702,
+        0.04918833810467103,
+        0.1642023933358579,
+        0.1551583037891934,
+        0.15975763797450193,
+        0.20186160001448497,
+        0.36699484477408295,
+        0.21614640250863862,
+        0.14478507248919348,
+        0.22113237857510518,
+        0.04830571764400912,
+        0.08245521414598248,
+        0.1794488664905415,
+        0.242781735770331,
+        0.3968644527418823,
+        0.14887486323833296,
+        0.3863872178465418,
+        0.22262561753515095,
+        0.2696100515624732,
+        0.10416801927101675,
+        0.33275497033187373,
+        0.29716952120081186,
+        0.3289150119083884,
+        0.0676733811064652,
+        0.05904074107796667,
+        0.23414344183213903,
+        0.21434797579716097,
+        0.31326021076449484,
+        0.19660162969140924,
+        0.19519938424963412
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "(07) 3844 0059",
+      "int_phone": "+61 7 3844 0059",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.495129,
+        "lng": 153.028877
+      },
+      "address": "21 Boggo Rd, Dutton Park QLD 4102, Australia",
+      "photos": [
+        {
+          "height": 655,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116254276636876446227\">Boggo Road Gaol</a>"
+          ],
+          "photo_reference": "CmRaAAAAW5hKiaLkEEo7oQ78s2mdblua08Dakdy-IFcuw5lBY9lKPk98gZYNA7OpTBPWMrcun5DwQWhXrcGXl3BJz587dYdQCYQoOb_9OZ9NSYYckLe6-ECnECjOvp38qE-F5MNSEhCoRNTBSTZQ49F91Xorl7WMGhQWfw-egRHJJOdHXE_0PanJouvAhg",
+          "width": 873
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104087982078230220908\">Claire Limbrick</a>"
+          ],
+          "photo_reference": "CmRaAAAA7vtJp15SR3V5HBQLJkw1QaDGc-D134UV8T0noLtWHTcEuJR1IytN5GulbeUpyn4FozZ-8mz4-x7-X59q6jHzn0FsOKkllZfGCEg2wrFKRpBs-GLIFtQzQ9H7FvOaRqFMEhBvS3ioQo_VsQHe14n4UrrJGhSRJyZKG5_LW5gpRAqf-bv-r7G93Q",
+          "width": 3648
+        },
+        {
+          "height": 1456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110326757811392818513\">Axiomsense Productions</a>"
+          ],
+          "photo_reference": "CmRaAAAAKqiD2Bwq35660cNNxYHLASmPOqg9v-vavZPsppgIYoNvUlKnuhmzWNUXB4bditZGZRl6Act5XjVJQgGbYt3hmsYuJitBxUit6IMRsYsD6w_eNWpZ81j7xla1UL1tyM9KEhBnDS6dhMbZC9pwSYXjvF2kGhQnl5pepy9daHfx8RTdSp8SR3VIfg",
+          "width": 2592
+        },
+        {
+          "height": 4672,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115584768186529786758\">Graham Wood</a>"
+          ],
+          "photo_reference": "CmRaAAAATKdvdCHS-sdk5lvKrw_w-XDbE7GKESDfBWsyYH6exQf71x6LOf9vnsJyN4OuvCuISN5DSsYPtH7QKVNsY4gE7P_E5Xt5vI36e4uUFMh1nz0GBSoiroEk_OhUyUgCOSimEhCGjH_LJq_KQFEyadEIJEO5GhTuG-sRMo9zjmWGmWBRguMzZQ_hmw",
+          "width": 3504
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110539215867520325421\">Tara King</a>"
+          ],
+          "photo_reference": "CmRaAAAAxWaBn5PSod6SfQ1xMn_lhIEnw8OlUnlUFhmq672PA5GY5BtgyZvFqmQGT5HnryVAwUQ8jvEBXHVbDXfUkoH7BHEi3SDIrXkFWfE2rSbNUNWUuyS7nMxTcjs8miKaHMqMEhAUKkgdJ9zmuqDjDbyXdIsRGhRibqeLCJYmDL7-iNvjEyktCcPFIA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101605356164298760340\">Sarah Williams</a>"
+          ],
+          "photo_reference": "CmRaAAAAGlHYZGALnPBaV2iJ8Q0CPa2Kh0NVQe8UQqiNk1kg7FtNGMBUYE-LhvNHImV8cEnBTUvSpOTzszv4ZvZxL0XtCir06am2A6xvgPUfq2JkL6T0mt9W5KxUQ3QwdaXwUeQGEhBfSuM7En8mzcSH13mWZ8zjGhQRIbvTfXiTmVih2PWf7zRHA8qMlg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116741260453640626297\">Christian Zaymund</a>"
+          ],
+          "photo_reference": "CmRaAAAAhvX8nnDfDjcLUHsbX_j5WutiOjYXqFKSuyPWoX43kGnSJK2xQ74y8o_KL1dsQNeI8CPdb_YixfiU2xbCb-D02ksl_MZyB8OBHi9WYz95Bm9Abd4hfV5AtxIB-Ohy_blqEhD7fQtdjPMy8o8jr74VYKG3GhRFuuyccrXAS7UG3g9DGWOJRS6iZg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112856997788995221450\">Masuyo Hayashi</a>"
+          ],
+          "photo_reference": "CmRaAAAA1-2bguKApFPq2qK6KJ1Unlq8OyCDe5Rcm0lMUAMlxu8pOdBMd8QXPp8JuAw8P4vL2f0zsk93cy4HZDmQSNtQBlhy3eTg_F3wNRQRCeO-Dzdx9O9YO5hs-yK0QGpDNTm-EhDqXUSbkXeAOmZYw5C40_BNGhTtW-LbkH8eGD7BiaN-pXDmDj2fng",
+          "width": 4032
+        },
+        {
+          "height": 695,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116254276636876446227\">Boggo Road Gaol</a>"
+          ],
+          "photo_reference": "CmRaAAAAqO456tGFD5usR-g-Ap6F0iEp0rKkluB1txxmFGyYRzvcMdV3CNxpbDluqJj4LFhA_R1OIcNrI4GA8-gkzq0Lff4NiO16-4WDOxCmev57SM46fAyvQDtsraSI-JdynpB9EhC_N_aC9KCGNf18eeJpRdbIGhTEJrWxNCzm2HjlJiz9-PI4VZm78Q",
+          "width": 1119
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113409481461076515564\">Kate Koppenol</a>"
+          ],
+          "photo_reference": "CmRaAAAAITnwr8zwneLxx6NqOfWgvVik6vnpD6EaPlkCL1gwOfXn0uJA9m2hnjDQMGq93iyOkZ5iSGnsIb1XvyZWY5Adxd8fToASQHWWF2rRXuI3LMk5u3UlKqT00QLdKwKtlV4eEhDx4hSoTtixKCXFWOAQczCZGhRbyng0Rmp4fiSYXBgHfVr4JG0FLw",
+          "width": 4608
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.boggoroadgaol.com/",
+      "popularity": 0.37114312691844326,
+      "num_google_reviews": 313,
+      "mood_params": [
+        0.016121558257759475,
+        0.08492144499809073,
+        0.013449665368072567,
+        0.19599179550668575,
+        0.03333059132646312,
+        0.20561880786658387,
+        0.1452591660960015,
+        0.08099128141436253,
+        0.07405374329463378,
+        0.09132292243986503,
+        0.11602818434335847,
+        0.02860838561554291
+      ],
+      "top_cats": [
+        "music",
+        "history",
+        "science",
+        "original"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.5151444516945204,
+        -0.7540659898775993,
+        -0.5937194252950322,
+        -0.5439314213470448,
+        -0.8950425813066105,
+        0.7568525520344168,
+        -0.33302740473250303,
+        0.05560642537166716,
+        -0.9150762514062003,
+        -1.0656393888443834,
+        -0.7824485062460825,
+        -0.5550394083263823,
+        -0.800448702437074,
+        0.27224374527540823,
+        1.1605666696973556,
+        -0.2518511223698156,
+        -0.4490468119326696,
+        -0.7457243782668903,
+        1.3251577453140444,
+        -0.6273559603507909,
+        -0.9989172934988523,
+        0.40929573644451867,
+        0.8103499373325975,
+        -0.9378890440854626,
+        0.9065046935533232,
+        -0.89307462735863,
+        -0.7105908544144324,
+        -0.6962393655904163,
+        -0.6193609476691673,
+        -0.9250561844785977
+      ],
+      "global_mood_params": [
+        0.34625072326987466,
+        1.0304090392603646,
+        -0.8900534006466619,
+        1.0787108045035232,
+        -0.5488174100519287,
+        0.6524252804780319,
+        0.6047700650575054,
+        2.0495828485685443,
+        -0.6317544366656449,
+        1.8499967962996602,
+        0.5644713196142778,
+        0.1275535942368326
+      ]
+    },
+    {
+      "name": "Reddacliff Place",
+      "orig_name": "Reddacliff Place",
+      "place_id": "ChIJySkjUgRakWsRIhdY6TH7BGU",
+      "cat_params": [
+        0.21642054344304482,
+        0.10692606403580161,
+        0.14740267918533975,
+        0.146431889759475,
+        0.3252216743769329,
+        0.12422452316201724,
+        0.43534145441689354,
+        0.18353885423529082,
+        0.16229952223728264,
+        0.30294587872061984,
+        0.07753908814212501,
+        0.307209130424059,
+        0.33265784314509644,
+        0.1632472226932687,
+        0.19883851743893818,
+        0.20626566045762143,
+        0.48635897655541327,
+        0.21692587501356156,
+        0.2042640029364382,
+        0.08778260708435721,
+        0.5065704900742687,
+        0.40815418642414286,
+        0.20974332365084428,
+        0.21202724216371838,
+        0.002425714326510235,
+        0.5802415549539341,
+        0.3197120521268944,
+        0.453564081743179,
+        0.35467615569810607,
+        0.33171206407039383
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "(07) 3006 6200",
+      "int_phone": "+61 7 3006 6200",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.4709958,
+        "lng": 153.0230389
+      },
+      "address": "266 George St, Brisbane City QLD 4000, Australia",
+      "photos": [
+        {
+          "height": 1548,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114386620539959259707\">Reddacliff Place</a>"
+          ],
+          "photo_reference": "CmRaAAAAto3o1QETqTMv4a9T6oFmdwYjMYick1bx54KP0iD2k3J6L1tXtYHDgT8HWN_ThH8gU_SOjNb1UN0TYm1T9fF0vw1BNCp3vnai4g36DkQbWEBB28herxFBhY-0rXodvRs5EhBABj5FRWgCoGg89679PuH-GhS4IfIWbQyiw7AMnoRbfZDsFUb4Uw",
+          "width": 2048
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106167065391273677492\">A.J. McMahon</a>"
+          ],
+          "photo_reference": "CmRaAAAAvJU8KEB5blkZvuLvfFoDXERUFSBCWSvsQw68EJoQDmyZ8Q8FEvWlD-8VyHxRRP9Zr3hONUtJ1nC_n9gQI7Ex9EFBnorE5rEJgd-xwOyduf5N6yL1dqG4aGidj5p6-ewcEhDqdjEUmePg7wr3vUksmfvuGhQVl3-mYMeJE1Kakl44WGUc8xFjog",
+          "width": 4160
+        },
+        {
+          "height": 517,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110432765697399070045\">Christine Sanders</a>"
+          ],
+          "photo_reference": "CmRaAAAAkvGtmo4yOiS-tY7DjShLMl4OKRMikfSQsLF_s6QaRrsN3GMciGbmdfDCRZjVA7jKrqkrrLfJIl5Skx4-KLbmzSvOuPCzNARI5GL4vnB_BAF_RJZfCSDsWIkSe0OmDIK7EhCG4Ico2chTEy78oWR2EVHPGhRdj6wtp8Xrt_1A24EHm3YAGhb9OA",
+          "width": 920
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115895988927770048147\">Darshan Pandya</a>"
+          ],
+          "photo_reference": "CmRaAAAAjYoiUemCg81JPhIxk2mZ6PKoswyTfa3lnCWkOX8cGsgtV7jtQ_kdfnSUUONx0J-eZ84AEZjbJmBAt3uBIjHxlN5mi4GWzr9C3yBqaqtah0zYy-X1NKI081njix1QMAtjEhDqGj0xA904SRJiAZhEstyMGhTXEWLJetZhCCEBkWek3HCiMFq6gg",
+          "width": 3264
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100297773551847161790\">sujal Risal</a>"
+          ],
+          "photo_reference": "CmRaAAAAmFlhLIMmz7aQyFNRCqKqMEiTIz18KR_9oWV3oLCkbEo14weq4atLuyTD-nOTQ8bg0DGtdv_5GTKXISlxL-gSSoiQKTNkcvvO8hEBnvp9gMocHPtsGae60EkTJzIbgy6vEhBs5D5Te_5fI-EsYH6odqgJGhRtI4wsTbjvphaNWiotneXW-U7hWw",
+          "width": 3456
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114386620539959259707\">Reddacliff Place</a>"
+          ],
+          "photo_reference": "CmRaAAAADyJxNxnkIL0Yxw_0WiQrZC9Q6c3L_Q38NSvnok2g13jfqJ7Z4qQcPm4xuXrrTaUVpEvM5_7jhP0Zcs375Z8nj3njJKLTaKc3WES0fhG-QCBGMGV3ISb7zxxKaRUJKYTiEhAU6suRAX4ZV2AJD1ypEIADGhTVtm5mt9HZGE2vX9fdo-tRLeogWA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100062218684515050103\">Richard Pearce</a>"
+          ],
+          "photo_reference": "CmRaAAAAhjIMSythR-QamfRTmYE8VjBzugw6Y1-bmlH9z-37dYdEv5J8zBKZoyplZsJGWlkpjjr22wSEOMUDvikgDD3gROP7cO32ck8zknFGeHbChWvdnpkeoZ_cxwNR-ky9Rs5CEhB-B-V0Q6LhCpqJ4OIq4cOqGhRMoFwAZ7CiDQEgG9x29wTk_2Q1Dg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109231465704059971682\">Elizabeth Evans</a>"
+          ],
+          "photo_reference": "CmRaAAAA8TjAbjJJIxbTQiQIaDSjgV0qMdkzSI6BhKxhRXXw_kj-k9ocGPc_jCYKevajrBgnORQgEFD-4Y8B6TxCtHHMT75PPtqu3aqie59fN_q7I1jRUFGGBH68r-tsafxqsGesEhC5Z9lii5xMSy9ZqUoURHbaGhTNEr_QUf_ytWL17qRA9sTOR6iouA",
+          "width": 4032
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110635584128392964410\">DANIEL JAN</a>"
+          ],
+          "photo_reference": "CmRaAAAAfTTCccmETPJ_O9Ly5KDfmexWTOcX3-kp4SjgUNMJ4wtLzjChoTTJkhxvrCAW2Xl9ehe3dGnqNE6AYGEhWrnyF8fxIFNNpvq1AbvWuZ-HZfGVCxPOFJ1CdNZJO429zVfUEhBQvqBSSaJBCNPVZG3_9lNnGhRCZ_0fnDgCjZS2gvb6mV1MfaJK-Q",
+          "width": 1536
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110066646150937252993\">Robert Goh</a>"
+          ],
+          "photo_reference": "CmRaAAAA7vxTm-UiUg30NqQuA3bOBMHRiEuP3tTXWQdiX9r_oV4k7gJUuV6hpaNtToMGLyl6vBAptfHoFWm877du6oBVAs9twXtK0leaxhcCwsC3YC9aAT2Cjg5WW3Zda1xN1SKIEhDU6A60UXFHOUWAOHdhwCbTGhQfFxQmBRYfyfHYAtcyI5XlA-Bn6w",
+          "width": 3830
+        }
+      ],
+      "rating": 4.3,
+      "website": "https://www.visitbrisbane.com.au/",
+      "popularity": 0.36753352669917516,
+      "num_google_reviews": 301,
+      "mood_params": [
+        0.011063066713388909,
+        0.04067948012618951,
+        0.06057408779567966,
+        0.07744659180015329,
+        0.040203762550902515,
+        0.16440060346520632,
+        0.09282438167361143,
+        0.02974821332712707,
+        0.13562345245502727,
+        0.03394371910646448,
+        0.09160100965150798,
+        0.01634627488573075
+      ],
+      "top_cats": [
+        "shopping",
+        "food",
+        "nightlife",
+        "friends"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        0.6698036335855977,
+        -0.06371235966084475,
+        -0.7587495499784864,
+        -0.6062923033033534,
+        0.1255967093322763,
+        -0.2788780014196361,
+        0.3943059240341706,
+        -0.30652678281307166,
+        -0.6558794309325975,
+        -0.19574598124371853,
+        -0.1812208598290319,
+        1.5794908877888865,
+        0.8551567263718093,
+        -0.3121780962926718,
+        -0.9927694791501085,
+        0.42030342134982274,
+        0.09340416469586084,
+        -0.8053415256542994,
+        0.49104281292901114,
+        -0.953849640750158,
+        -0.1512175768084966,
+        1.4935344111389448,
+        -0.5332902518840583,
+        0.4087062945655302,
+        -0.7235732415325321,
+        1.674083374907896,
+        0.27666148135270546,
+        0.2152290844082866,
+        0.3348446762445859,
+        0.013623217996671707
+      ],
+      "global_mood_params": [
+        0.005905960502123474,
+        -0.2950366978542261,
+        -0.04159573461825048,
+        -0.7488361389622892,
+        -0.3979702359980904,
+        0.13410565947681122,
+        -0.38753740914637264,
+        0.006228080088397165,
+        0.18273183697001977,
+        -0.3799413089421935,
+        -0.0007784575072202383,
+        -0.6220644656801321
+      ]
+    },
+    {
+      "name": "Daisy Hill Koala Centre",
+      "orig_name": "Daisy Hill Koala Centre",
+      "place_id": "ChIJn_____5CkWsRHtievFe7BXI",
+      "cat_params": [
+        0.15938388097022765,
+        0.13412862029810738,
+        0.08572722436284805,
+        0.09565262901171355,
+        0.27353330268558895,
+        0.08972211112038382,
+        0.3326011222615939,
+        0.16908585377900517,
+        0.14252343751426352,
+        0.3155158643180131,
+        0.06750002965129205,
+        0.14111555839482712,
+        0.24072941026561295,
+        0.263494503382838,
+        0.17290205277072154,
+        0.1471922490259678,
+        0.41163059505779886,
+        0.19864123165946534,
+        0.13477971352372192,
+        0.09263813411418158,
+        0.5546275538059641,
+        0.20109812400563232,
+        0.20156173897580396,
+        0.10771620841067717,
+        0.016728149932940847,
+        0.31757291717471436,
+        0.24886703223231374,
+        0.4305107945684966,
+        0.29343822303409817,
+        0.2820153593053187
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "(07) 3078 3101",
+      "int_phone": "+61 7 3078 3101",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -27.6228513,
+        "lng": 153.1569364
+      },
+      "address": "253 Daisy Hill Rd, Daisy Hill QLD 4127, Australia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111223731602509264541\">DR ROADWORTHY</a>"
+          ],
+          "photo_reference": "CmRaAAAAp9SI2pQX6JXP2mGuq7zCkbAP7K0z9_1DPijS_3OFx5RtzKEturiRq78ku1DgqGbyjzureuG7ohXKe-8EhuyzP9fi7CIZMPeF4XKZ9K6R_sWqZPI095K7ykS2Y3Gr6t5EEhCNb36bwvMPrrQBvyVp_4-sGhTI9gYFyx3r7a91gKAhk1CZt8CLzg",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113149047269557739461\">sitti nurhaliza</a>"
+          ],
+          "photo_reference": "CmRaAAAAfVO2MPdI2MZfS7jcZL14XQA0T0OkV3JFHITBHKREkCzCymcpUrLTzmqvK6AoBj9JZyF2MtV-iwathxqCgn_Yqf7OQ72HzvdEbOdRg8jPXcHkhflnr6WFU7pRxx8ACj-4EhDtCeb9nQeBGqIM9SEGZ0HNGhTPUeLygNRVFSyjEuRgphuGm5avWA",
+          "width": 4160
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100431930204352875476\">Bruce Wang</a>"
+          ],
+          "photo_reference": "CmRaAAAAUbeY2kVXPx-anzaBBcfVuVUw-CGKAO7KcZO_v0tiNA6itd3-4TTKjVBH2dfnAV-Pgcnt7xJIOlu6UVwE1_aOx1qetGh-q1JV5sQWxK02L6gL4UGfokGbc0KdkZLfjtSfEhA8nvRAZLPWfnLwhnCUaWTAGhTPcg-L91LDAsIOgZ92rPyzhx8bog",
+          "width": 6000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112615104568827828444\">Manatchanok Sitthiracha</a>"
+          ],
+          "photo_reference": "CmRaAAAA2iW_CLAKlCyLdtGtBOOAVkdgoXRCCfPbgdF3n3IuId8ujVfhpUj1NQf-lm9O_jJUjLOwtOyWzwcNyEIDS86i3yqZ4MxgIcbn1gz5U3Vu_B-X_QJ1n3I7xcD4LtYxb3AYEhAOAKgFbr2ECKmh8rg9fXeMGhR_hhYzJHaIxI_m3gn6TvLP7X-Cfg",
+          "width": 4000
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116766542364216573843\">Jerry Li</a>"
+          ],
+          "photo_reference": "CmRaAAAA-W0nCMaSiId8aPNs-TvX0s-4HYLl1il02OwSVHQ__vwQ7hx6kiPCJFG51R3NznQy8SnuV2FWQSZpElVqyyJBgUZx9YFM8HBP0-24LLFgOT52fqzEJSLSdLGWUa1ArFutEhBVnDk4KYTsbpawECITCPYWGhRTMuGy0aopdLzyp5sjdcWx5H5CZg",
+          "width": 2976
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114741871752266922822\">Timothy Blick</a>"
+          ],
+          "photo_reference": "CmRaAAAA_Gi9lLQ9JehyewPS74-HbOVW7LCOkFUa54IDrIX6Jw0QFk5TMoTo1_INg7KYXEBBarhKHIeJGxAoMKt6DsZXFzL1UNdpAGsHLXcDUgSKGz0xIKE7iq3vPS3YjE4s3hzHEhA3U6xgekeEmsSDDtyaxkFHGhTlM1hPkk-wdwJOz713qEyXAhm3eQ",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114243478280093354505\">Felix Ott</a>"
+          ],
+          "photo_reference": "CmRaAAAACmKNLdxyKjB3qmVEku8mjkawNxSMffXF7FLzF55XHZrnUoZ6ILyjGEZ-3ZMp1TbmBPU_MWq9PCPTTJ_aKun2cpAjmvYzva3iCY_b6nHRHUSUHJF-F7WM_nDKisKGfFZREhAfuN4kdXsEINTXMhPy_2N7GhRvYicVqwug2IUL6d7KI68LjPz2DA",
+          "width": 5184
+        },
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102895691236512635518\">Max buzz</a>"
+          ],
+          "photo_reference": "CmRaAAAAI0yhPdig24Gf97zB66ddzkDlsD_48k3MhaJMOhw5yri0MkBV7b3j4HFqPn762NDRyuL8f8M4iDkXkTepBe-I5rDs5N-KcX8zn1uc4oK86IIo1e9YSr6_af9rd_6ALtZiEhBT6fQMlvJ7r1m7IUDJnLDYGhTT2ffGvK8-u3VbKcBnOIwH27LIZQ",
+          "width": 3264
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114741871752266922822\">Timothy Blick</a>"
+          ],
+          "photo_reference": "CmRaAAAAcfaAViUXNccxIr1_KAi8xaGdc8lU-feBbPXMVqD2cu1mxYVcSSvPvJL_i1ndXAJz7QoDw4kgSbbAkwThedwusrxSvmEqZJAot0dIU7JjrU89ZXJNLWW9HlXfeBwCC8OHEhC3chfHSwvGbLNyhnyLyxT5GhSD4CTmrTjTvSQxMyVSrQLOAm2XKw",
+          "width": 4608
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100168457363706044420\">sam yang</a>"
+          ],
+          "photo_reference": "CmRZAAAAIq_VdKgDhvHhk_05WgtCiT0nXQwZ0FqX7RVmSvNp-Rc3xTPwLFXzom5K2tR_yZeMZdAaBSN6XQ7VGNtjUwjs0V4hg5afWrDvT5d3zzjGGhNbxvSEb4NM8vIBd-m3cntqEhB95kloMybGx8H6I8GpHArDGhQK4OQsJkfypSJHseir_2p9_qcXFA",
+          "width": 3024
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://www.ehp.qld.gov.au/wildlife/daisyhill-centre/",
+      "popularity": 0.3152842231196706,
+      "num_google_reviews": 163,
+      "mood_params": [
+        0.0134340369500496,
+        0.045371129386892056,
+        0.04709679078624276,
+        0.1050280181141078,
+        0.035208110111733464,
+        0.1441071576537434,
+        0.1100745097710085,
+        0.045751065904062894,
+        0.08629407142683347,
+        0.029627395137735085,
+        0.08527744529379952,
+        0.023862979005472254
+      ],
+      "top_cats": [
+        "hiking",
+        "animals",
+        "nature",
+        "views"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.022246691402984384,
+        0.2615408983087936,
+        -1.364611525252073,
+        -0.9691721156220855,
+        -0.1932350088123521,
+        -0.7391632641851017,
+        -0.6990397177707309,
+        -0.46703904761919995,
+        -0.9485462492083121,
+        -0.062093862884775926,
+        -0.3876889955876376,
+        0.002068935115300818,
+        -0.13823945615298963,
+        0.42444174490789843,
+        -1.274802874714864,
+        -0.2715577102369792,
+        -0.3120751831597364,
+        -0.9965919678696069,
+        -0.39589502928075493,
+        -0.8570990145110047,
+        0.0831571175266505,
+        -0.5292512615694559,
+        -0.6255362051100113,
+        -0.564352207596743,
+        -0.3117729468443543,
+        -0.27424246061052826,
+        -0.38715026364388316,
+        0.06546597536566381,
+        -0.03481374514060631,
+        -0.3280979554146248
+      ],
+      "global_mood_params": [
+        0.16542926812210115,
+        -0.1544795021998238,
+        -0.28424944528313834,
+        -0.32362828760729223,
+        -0.507611044934184,
+        -0.121084766563551,
+        -0.061085584645075575,
+        0.6443535152535879,
+        -0.4698309943686924,
+        -0.5476873690697941,
+        -0.14710701940188192,
+        -0.1625467461482682
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4935 @@
+{
+  "sights": [
+    {
+      "name": "Ahsan Manzil Museum",
+      "orig_name": "Ahsan Manzil Museum",
+      "place_id": "ChIJVVWFegS5VTcRV1uIB-Pha9s",
+      "cat_params": [
+        0.08968807135615275,
+        0.046793311793931563,
+        0.274860037035537,
+        0.206591466539975,
+        0.3267575476140481,
+        0.18100502730356563,
+        0.4679524177294512,
+        0.43884542352196476,
+        0.1643774561199954,
+        0.3894590208579446,
+        0.0643219115478589,
+        0.19796804780862556,
+        0.3232870146062427,
+        0.11849887772405827,
+        0.33034754465581634,
+        0.13040837617669998,
+        0.5012807200688008,
+        0.450770012399475,
+        0.10079969406897561,
+        0.10589406681440011,
+        0.511069668585011,
+        0.28026101793940256,
+        0.2057814036995616,
+        0.25135886679687475,
+        0.027572744136106435,
+        0.39390460385293485,
+        0.2977989009303453,
+        0.3966209772650483,
+        0.2768137916909199,
+        0.3639348399013639
+      ],
+      "noncat_params": [],
+      "quote": "1800s palace of the Nawabs of Dhaka featuring an iconic pink facade, a dome & period furnishings.",
+      "phone": "02-57391122",
+      "int_phone": "+880 2-57391122",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7085915,
+        "lng": 90.4060074
+      },
+      "address": "Latif Complex, Islampur Rd, Dhaka, Bangladesh",
+      "photos": [
+        {
+          "height": 2692,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104647786011795608044\">Md Shahid Khan</a>"
+          ],
+          "photo_reference": "CmRaAAAAgxtMPA3-TcM8EXP2FjqsmbsILmgOlhsCBfZkHOrxVzjLcj04fqVNQTHpz8TSQYTSeKZ8G7VfqoYOXRUl5rtK_IzxUkkdeR51mPPmHabEMl-0ADS_05Jn4BYDLOK7PWZFEhCqNYZd5q5Yhx3cfbduH9zWGhS7moFmii3alQaWYtsOMjbhG6hXHA",
+          "width": 4032
+        },
+        {
+          "height": 1932,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117327889703583170866\">Nadim&#39;s Diary</a>"
+          ],
+          "photo_reference": "CmRaAAAAPLGtzF9BM9QpJ1z9fq-uR8VvY5iTB5uFN7ER-4M4pHebYt4rlGODB0yFVpJAAPy2H9nSQQnm56pPLYn3DT4DZkj8FR5wvNr3U9M2xqMluNhvOFUkjd4as1nctG25Ejn6EhAn1NWCccsRBR9l85QdGciNGhS6JXfAD5MrZ07WviuwjVkJmTfNtw",
+          "width": 2576
+        },
+        {
+          "height": 2474,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110372250190707541826\">NIRAVIMAN SINGHA ROY</a>"
+          ],
+          "photo_reference": "CmRaAAAAxHAynmAIspwCUXfkCgtuXqlwE8LYuX6anTESXRn4pj81ZMUJ_gwhBDKpBSvM_km_6hxrt12mvx83XvUPSz132mevTIMwrwOxtmxIN6NkWT2t_Oog0iPcIQ898NYPnO6KEhAeDPFZ9h6HBTPJG9m7mD1BGhRue2AXMw6ATZqYVwO1IIKyT5ANiw",
+          "width": 4141
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108219443307477424350\">Kefayat Jahan Anika</a>"
+          ],
+          "photo_reference": "CmRaAAAA1ma4V-hPRTQ0RafIOVO0vh_Nv8tFB5LHsC1I59T8_yRkeEuuR2LHH2y4NVHhYAV6R0WCHKx3RwbRRMNlYNI59JkbnAEYbSJOpBQUhDAS-vPvlOIhD9csU1IquliVsYvsEhCeud2emw4Aj9DhUUbXbS-vGhSIVkk9iyPP5mQYXeboQLNduHS1RQ",
+          "width": 4000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113334133365885434560\">foysal Parvez</a>"
+          ],
+          "photo_reference": "CmRaAAAAUrsepRAGrtDanb90Vwr6c96eDfN8TaWA80_ysG28TIx0MHSRer89atPQmQHwvzKPet-aLbVcFru7oZSbS23dKiKvqZpWAOvazQuvz5lEDSwobuMzQKAKyDqJMft3yYSIEhCPjp-Dlwz-QbwMAGDzHEn3GhS3iGGJ_eMlR4TESjh0ypBVTAJktQ",
+          "width": 4000
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100651219459105168864\">S Islam</a>"
+          ],
+          "photo_reference": "CmRaAAAA1vvxMyRMxrx_7fRiLVN-3D_Tm3AHYcs0DohzqkRkarfkdkE-SIv2CQCrv4yD_T_HwIyFG5WAvvm-PSGxFZZi8PuDFmOKyeoasjT8pw2XccsHzGya9SuViGjagZ-lyoEOEhAWiZSTovlRCnam9pkc9syzGhR5nMIXfo4WFQQfC5yat8S12t7d7Q",
+          "width": 3968
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111840642174601150829\">Shaifullah Rabbi</a>"
+          ],
+          "photo_reference": "CmRaAAAAZZtZfrdpqtDWRliy6W9KHAPq06V6iU3w1LLRIYBPTVbrR6Qmc58LitS49IlrvRSPSc6PvBqAbhnGJK5TWPO6uyuwhq-PWaf4ase8P4Zo7dlPx2WMCRVIWDeNH1Ly3UQAEhDnteRq--Wja_gM_LeB7HRnGhRQVTsahTrg0lK1M_jsvUr8z_oVvQ",
+          "width": 6000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110040326442387233835\">World of General Knowledge</a>"
+          ],
+          "photo_reference": "CmRaAAAAGkZ9IZTJ_rIaGBTCEhzktwnI8_I1aryDp-wtHoJq_jtsj2QutelT-TpMvA-3OsuLx6qs58D51-QgCJWpZpgdmAeEd3NaWTq0rEgX54UeKUIcOlTM-ByH1K-MGRXShA0DEhCK5TPwDWsB78oFX4N9fmcTGhSpUXmVaBIx-FX9X5QcLeD4bIiuvw",
+          "width": 4000
+        },
+        {
+          "height": 561,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116448155036724633043\">IBRAHIM BHUIYAN</a>"
+          ],
+          "photo_reference": "CmRaAAAABRBk1bGQAidCFozfOCQSRPiXyDyRz1lp8mkxrxRSS52Zk8-aeZxXLPdKF9E_BNvtlDbdutbN1G7Xen1XmsF2tM16BAKkiUrwP7snTZW47GN0qalMTNiaXy6xGOHiJ0PjEhBH3QocH_rW5fuC6JxfTXHvGhRyU3fwLyhSxZyJVk0rW9vSYdrWUQ",
+          "width": 1080
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100549548673925970100\">Kh Anik</a>"
+          ],
+          "photo_reference": "CmRaAAAAkdyIGHECLibGnSxdbb_fy9e63yzVwEQkAf_gxjXGNfmJo4LjWtzjbbIopxGljKhIcdNI-PeTsvenRWQeaoUyLNU4YbO2LmsEy_sQ9ZUPjJ5XLeQAggtjH9yox2VLJ1mhEhCdLs9PSlsn2y4RSedi8ht5GhTSYUE-V1jck9FwOcBQCSz59WsopA",
+          "width": 3264
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "mood_params": [
+        0.0008788888156282629,
+        0.02443856498664687,
+        0.048042926015985477,
+        0.07799354445354591,
+        0.051361276934563806,
+        0.11474606310876359,
+        0.07062273794270904,
+        0.010420681760618314,
+        0.107883318913471,
+        0.03024004003040041,
+        0.06536518933363727,
+        0.01925414124274561
+      ],
+      "popularity": 0.6648624163389154,
+      "num_google_reviews": 9849,
+      "top_cats": [
+        "culture",
+        "military",
+        "religion",
+        "friends"
+      ],
+      "duration": 1.5625,
+      "global_cat_params": [
+        -0.8678958861950188,
+        -0.7827026408959616,
+        0.49331363808432566,
+        -0.17637868089512257,
+        0.13507050560440395,
+        0.47861191659569907,
+        0.7413464081835616,
+        2.528859252082162,
+        -0.625128030614567,
+        0.7241170228109244,
+        -0.45305171069042327,
+        0.542007740511604,
+        0.7538937655444927,
+        -0.6409901951193869,
+        0.4372610962522971,
+        -0.46812853593473575,
+        0.17437017396062726,
+        1.6405795578703661,
+        -0.8296357408598387,
+        -0.5929629521942833,
+        -0.12927504627642375,
+        0.2441120767891404,
+        -0.5779602146146207,
+        0.7756087245017312,
+        0.0004680736031974251,
+        0.2919423663305431,
+        0.07133713878352392,
+        -0.15469544308163027,
+        -0.13516594155558542,
+        0.23519132436469153
+      ],
+      "global_mood_params": [
+        -0.6793045573359995,
+        -0.7815985357127972,
+        -0.2672146330261189,
+        -0.7404040673248509,
+        -0.15309353217675667,
+        -0.4903010295656902,
+        -0.8076947008463983,
+        -0.7644713581681866,
+        -0.18423364502631395,
+        -0.5238780424885557,
+        -0.6078806612763558,
+        -0.44429824051110817
+      ]
+    },
+    {
+      "name": "Lalbagh Fort",
+      "orig_name": "Lalbagh Fort",
+      "place_id": "ChIJAQAAANm4VTcRYuhm_G8xFk4",
+      "cat_params": [
+        0.10937444656513619,
+        0.04453950022789691,
+        0.2247234418505876,
+        0.18238071362143038,
+        0.3606687263131535,
+        0.1859107692529273,
+        0.5280974481472813,
+        0.45547394989661016,
+        0.15644496148431888,
+        0.44655324525530665,
+        0.04767379591022724,
+        0.227381469396875,
+        0.37780374211946216,
+        0.12638351042971013,
+        0.35512009574349535,
+        0.14618194100714765,
+        0.5561669485835246,
+        0.5235165499946787,
+        0.13494171285136167,
+        0.1160153445696491,
+        0.5769052193298413,
+        0.3326894367007879,
+        0.20726667727171533,
+        0.282784443515508,
+        0.026132351596426552,
+        0.43287832918703817,
+        0.3515293970032056,
+        0.4560927230688472,
+        0.3336981420839422,
+        0.39472159053287187
+      ],
+      "noncat_params": [],
+      "quote": "1600s fort complex with 3 buildings, including a mosque, containing paintings, antiques & weapons.",
+      "phone": "02-9673018",
+      "int_phone": "+880 2-9673018",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1330"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1330"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1330"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1330"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7188605,
+        "lng": 90.3881596
+      },
+      "address": "Lalbagh Rd, Dhaka 1211, Bangladesh",
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116123256616832270828\">MD ARJU Hossain</a>"
+          ],
+          "photo_reference": "CmRaAAAA960wcQnH5wNtyQEZG1E_bq6PDnKrJpi7Yp8iP3Ww6Md5gtPx7BTZBPXuvNqI7H69WkPaPYyZltS3EOzRocmD3LZUprQXfwVHiJSJsruSUOPN8t3V2EpCxiS3DPc8h2qsEhAensqZQmnV-Z78Ifz-_QULGhROg0oYkMhhjmTn1O8L1JlxtdnmFA",
+          "width": 1440
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104238149098014136211\">JebuLive</a>"
+          ],
+          "photo_reference": "CmRaAAAAnaBvOWxgU1TlGtMUsEGemzQCS3QxWvxIIXRR5afqjjvtWIQwzdH1eTtxFAU3RBssxG2A1QGQnXwy6IxEZm354tLI4MCDbELsAE2mgtc0_K7v4oFGa-N162_HLSmDgjzeEhAmkIyrpVXdH-2aHrY8WM4wGhQz0XYWeziSvshPf7SLvno5GoEMYw",
+          "width": 4160
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113639407354570985116\">M\u0280 Remon</a>"
+          ],
+          "photo_reference": "CmRaAAAAaAgX4EWqt6GzE27U8hswM127_vrlKs_4P6Ob4qH5giiqIIGxrkse4JhB-s3S4t4Fu2UVQDM7s55ZxvT0vdTBNOR9x3_wELxue74BHoXELaskSeF5qF0K4ySlM-42Z5OZEhCdQgg74pSiEtG185DqRwVeGhSVJTjaawHLFaAsNelwPhA3BIMTvQ",
+          "width": 4000
+        },
+        {
+          "height": 4312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104071216443138035020\">shahadat manik</a>"
+          ],
+          "photo_reference": "CmRaAAAA9QTLAocZyoYAlslDelx60hfhRqX36WSDcNKwmghnRbD1eV7F1MJaxc1MCG5AWKlcBf9O9gz8DPz7K6kDBiNx-JrjSrStLn4o-NwFqhFFs3SuEtYdsSfiRVRwQvbUmtbBEhAc87korNAi36LTSEXSBI_6GhROpl7sQfNer8n67cSWapTc47kEfg",
+          "width": 5760
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103641604593439550002\">Mohammad Monir Uddin</a>"
+          ],
+          "photo_reference": "CmRaAAAA6U6jXduuxduySuanzbuHCdF1IaLk2U_Zy8n_RPz6rn-EsFQqeqV6RUgREg8fY3MKcugEyE1Gsqf2t9b_CIbghQtu8jB_LWl5qVkI4mhTrT8_0EmPW30AYoVCCeHFUXIxEhAHA3EON_jBfI_zGGnSX87KGhTJoA7jlNtq56F_8Ne4dYxAdavvuw",
+          "width": 4000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116121748845570854527\">Khalid Saifullah Rono</a>"
+          ],
+          "photo_reference": "CmRaAAAA3lXcIvWExyJt6iMuHD8VcV9vcolaUFW03zckOK_X4_noy6GJO_LkMG1E-Hy0Zv02KCZGcSppwa43fcs8HxXFB6SijIdAOkA0IBzC-4giBoKJwbGI7E8OuxQv-HqdzgSaEhCF_EPuuXwnvWQsjCmvm8tMGhRnVLcmTKxGntHqPYzNY30sfF5zgw",
+          "width": 4000
+        },
+        {
+          "height": 2849,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110680470125301340966\">Shah Jamal Choudhury</a>"
+          ],
+          "photo_reference": "CmRaAAAAoK4fdrR5UY_0ntTdO9HcetFBhGCuQ0C5WyMk7__joKEEGOzTS_7y5bK2u_riFZFwHeN3dCUeJct_vEUALN0-ShJuMjOG8rSO1k0RemSQEBc6rD8mZXXpFzwE8TP-GC6MEhC5_XTW5bdG507fTa8Rln2sGhQ6sIGsnZ_TeJap8Mn-DidfxfAIXQ",
+          "width": 3852
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107589499716850923416\">Gazi Abu Bakar Siddik</a>"
+          ],
+          "photo_reference": "CmRaAAAAP0qY6VcrlJxArgfO5lEyU3e-ss4yQeFA259d-o8PbxvGnvoCY9p4Kx4MrOKrmJ-cNrEBDDn6lTAE1FD5wKKS0Y5OqzjUM8GeG7qc6c1SmodwTdGxlAUPL6BuzUivSlKoEhA-yKTAd2DtToZlJWdH8pNfGhRgsgvfZTKLmNVZo7xtPb8HVdixAA",
+          "width": 3264
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103109563306265054760\">Jim Al Sadik</a>"
+          ],
+          "photo_reference": "CmRaAAAA_CdM1iAsj3-0WAu0YD7cU0I1lZLNCq9yNDtMXSnVhpjbIEl68ew-7keXgnRPze7sW56JElQTFekkR7TsK7Eiink_rJw95Ji8qc8fBgko4SaTN4e3vXbE0zZhY6SLGYUPEhBCJTadycyCp6IY4O4MYB7uGhQdoHp54Uix8WXLkM_TWBCXwu3pZg",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106895740021854684343\">Travis Emslander</a>"
+          ],
+          "photo_reference": "CmRaAAAAEwjDttC7t9AuJ-rtWjYJ55bRxwTBQPGVOU_IlfkDACuwHPUgsy7fWJDEMiZuJPgvcbe432OkAbeJ0pGpM6gTem29mfYY8Kge8Jd4JZ1YEPKs2CRSP4gKFo10cbkP8rw4EhAi8L0ERmw1SCAQsnXPoIfqGhRR0pbFWirMhOxEJCWaDZJTaHZuSQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.archaeology.gov.bd/",
+      "mood_params": [
+        0.0028632302955285734,
+        0.025465039364599616,
+        0.0637615673486325,
+        0.09960704619968701,
+        0.06607364031079892,
+        0.14894610004751602,
+        0.08619339570860146,
+        0.010880881381291906,
+        0.13409665594922215,
+        0.024749026592173082,
+        0.060092733450927936,
+        0.025210142512867816
+      ],
+      "popularity": 0.7529088374793299,
+      "num_google_reviews": 16197,
+      "top_cats": [
+        "culture",
+        "military",
+        "cosmopolitan",
+        "friends"
+      ],
+      "duration": 1.625,
+      "global_cat_params": [
+        -0.6290326398099917,
+        -0.8096508272220464,
+        0.000802367925548797,
+        -0.349394068393925,
+        0.34424636112387524,
+        0.5440577967126244,
+        1.3813998857619456,
+        2.7135324925525848,
+        -0.7425212355147429,
+        1.3311792964821625,
+        -0.7954449144688686,
+        0.8213525480781609,
+        1.3430119229961197,
+        -0.5830536919882211,
+        0.7066380830326578,
+        -0.2833903237971568,
+        0.47218516337149735,
+        2.4014807805676295,
+        -0.39382717573701653,
+        -0.3912876335016032,
+        0.19180547517101731,
+        0.7562992258856532,
+        -0.5612140117814928,
+        1.0687601152147714,
+        -0.04100416851199424,
+        0.5810271867218402,
+        0.5747872671162021,
+        0.23165612076610437,
+        0.2082123903547874,
+        0.44688512984036677
+      ],
+      "global_mood_params": [
+        -0.5457943548768363,
+        -0.750846373315532,
+        0.015793646995205638,
+        -0.4072004638156139,
+        0.16980231407640745,
+        -0.060234983706364334,
+        -0.513026185478801,
+        -0.7461205621589526,
+        0.16253432729243442,
+        -0.7372762667746463,
+        -0.7298863598551059,
+        -0.08019077032515114
+      ]
+    },
+    {
+      "name": "Bangladesh National Zoo, Mirpur",
+      "orig_name": "Bangladesh National Zoo, Mirpur",
+      "place_id": "ChIJu-Xs4gLBVTcRcGoylcidbkQ",
+      "cat_params": [
+        0.20087187983975052,
+        0.48517686954840544,
+        0.13172878039968167,
+        0.0711291207143662,
+        0.2730056317153366,
+        0.11854560609929121,
+        0.5160456514265869,
+        0.2994837734376027,
+        0.14779036599415823,
+        0.48556175902767235,
+        0.060683375694234334,
+        0.2049882114868587,
+        0.36585979931200924,
+        0.09737247476216539,
+        0.21714277393416284,
+        0.1285779201289217,
+        0.482878089988174,
+        0.27262961073115827,
+        0.09585615066364007,
+        0.1174288977094393,
+        0.5687434174239414,
+        0.26081119755589466,
+        0.22096420123281998,
+        0.19080057836959124,
+        0.011321601482194294,
+        0.38783053352276914,
+        0.3340668940252974,
+        0.43278595799826874,
+        0.26364579338190364,
+        0.32278697719861005
+      ],
+      "noncat_params": [],
+      "quote": "Large city zoo with a variety of native & non-native animals, elephant rides & a fishing lake.",
+      "phone": "02-58053030",
+      "int_phone": "+880 2-58053030",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.8122265,
+        "lng": 90.34693999999999
+      },
+      "address": "bangladesh dhaka mirpur 1 zoo Dhaka, 1216, Bangladesh",
+      "photos": [
+        {
+          "height": 722,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107260561261604967583\">Md Polash Hossien</a>"
+          ],
+          "photo_reference": "CmRaAAAA4nWV7bFKgQWP65rF4BT-kBTCmw85ottgHSSh8ZcdwMcB60QTmtSu7Vgt22q1DZESuXLnaGHSHQU7HPdCtoFvIzlAAsZuSnd6CVf8Y0gkIa2V4FYc_46IR-ExUrDECW4JEhD8fszevIXf33u9uTG8tVhIGhS3r7b8t8e_kIAFnmcdC1TqLNPzfA",
+          "width": 1200
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110749981957243656716\">Nafisa Nawar</a>"
+          ],
+          "photo_reference": "CmRaAAAAD0vG-5kGjb09-T-MD1wbch1wJmJDLwxtha703TbzLnNe8zr-ATvMJZilk7jpLwm5JIQBXYMn9ov9WDuzuSEEpoWXGL2k3Cnq7snwpIl0dBakRWSB_fVwVuL6Q9Df-hObEhAKTtkuasEDNP5zsc4cGXvGGhSEUXxuLOhKYGuo9_ZYAZFsrTiNOg",
+          "width": 3096
+        },
+        {
+          "height": 3338,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100935316934222057215\">Nusrat Keya</a>"
+          ],
+          "photo_reference": "CmRaAAAAIqaKNDbA2PtCjOSnn9C_KbOEj-QU4fZvSmdgVBVPSm-kMAnYUOb3r3cKdd4xKhPKIk6VsDrpF0HzYKLm515Ebb3edS4i98Oi-UM9sTOG6Pc3p32vFtyKFmHeg_iB5SlyEhCzUeLHSVWqdL5wFR7Kx-4VGhR4ZPLg306BL0V9t8kuCHGm8_jaCQ",
+          "width": 4793
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109086294698404669448\">Bangla Gan</a>"
+          ],
+          "photo_reference": "CmRaAAAAqhPubdZX5p_BRjWjqIcJw85FG91TvN_D7Dk_wl12R7Rm_L1xa7iOuboaaEq9PrxzVQuX2bg8BcIIdNJuVc5pAPSTQlpsCPSbHmpx3-Dowc5nPbIsGkHwrRu-sW_m9ypsEhCNVi3wpkxy4riD2yuhAMQTGhTIBhmRxDoVl1UZKyLNmOMRe96o4A",
+          "width": 4160
+        },
+        {
+          "height": 453,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108514366384512853942\">Hossain Mohammad Mustahid</a>"
+          ],
+          "photo_reference": "CmRaAAAAluuSz_EHp1VQAi8hoD6riG_LqVJfKdTV2j2lG2UvxMmJ3r1f3uY5GWvwimKQDGmELdOB4ohoQ5Mvb_FSfrlldxo1HunKA2nmV46EUz9MdISRdCEOSlTl94dlwVfFXK9VEhC4nADTNsyIzJUzV7iDv_XNGhTbxwqnokGzGDtMKiPqLVfqxnjj8Q",
+          "width": 673
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116906213288756052421\">MD MARUF-UL-ALAM</a>"
+          ],
+          "photo_reference": "CmRaAAAAbJCV_qfDruxaDCZvaAN5ebN64PO9Nrfi5E3Zh3OUmRTke6EH2i_1-9QA_8y8JWcB8sVAkssOXTFHIIMgWfNAxycjZiyJoIgkJJmp1gLfKLwWD5kVuELd1UurlU8jUvVZEhCo59gNHuiGcnWzpjjxhqCmGhSpydw69HY_doLldXibY5fB0eEOng",
+          "width": 3840
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111508373189882169515\">Mahadi Hassan</a>"
+          ],
+          "photo_reference": "CmRaAAAA-eN7TJStHLmJXLV7sukinQvwEXH-AYfuK8-KVK2bSDD2ApWPC28kr5YUw4fKBplb4N6YIFzuHFbc_DmecDivmWgo75q9pHHid_92EmW6eg0VGVfXYeq5g5WmPAjeOPO-EhCsKYYSNbOAK1atKLSHmjgjGhTbVTL3WP2fbwbAs8JJzbeAh3OPuw",
+          "width": 4000
+        },
+        {
+          "height": 3368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108803996764007047714\">Chowdhury Akbor Hossain</a>"
+          ],
+          "photo_reference": "CmRaAAAAfg2ZSqToI0-FOOcjrRKHVC3yZVYtxdPYwnYbvGLXMmSHs-3_sMlPjsv2jh5WlC_56d1q0FHCmU02POjRIvnBioVDkxkE0XBFxw6OWjRJqJwFBUIjc66kN_YVW4fvYTPAEhDIep3OpNqdQeaXZo8z1Rz5GhR00WqLUQ3CAgHALvpNx0D0e5799A",
+          "width": 6000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105817501673414219251\">Monjurul Hoque</a>"
+          ],
+          "photo_reference": "CmRaAAAAM-UReHZjyRIYG2NsLOA9R_vCfLxBlpKDtVxWu8gIQpTDOqSwdl3uE4X56Jw73HjsNARTSAf9mb50g0IykclEb5dBjWdGnLJKVD12irwXBdKsh8DqX8fYb5YxVnrlzRCXEhBHR9a4uliRXWRGPWkfxnC_GhTe78JWB-bDF56iZVl9-whTnGE4qQ",
+          "width": 6000
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103201089679554172416\">Mazharul islam sazlu</a>"
+          ],
+          "photo_reference": "CmRaAAAAY2M-hnfYfByPOSTJMcNeMCv3PHFoz_vKgIZPrwQaJjgq4ukBUhUHFwTCTOL72Q0Ne0EA4OXn7TJ0a04jtuif96-RkoEzQw2VEHDXPAH9Bm_tAU7XwtMW1xqXtRCKckAsEhDIeN6hM4CdVRB5KorTfp-iGhTIAkKAjFlbMmO08YAFP12pvoFAAQ",
+          "width": 3264
+        }
+      ],
+      "rating": 4.2,
+      "website": "https://bnzoo.org/",
+      "mood_params": [
+        0.004897423674365898,
+        0.036881016360682264,
+        0.035836534297092104,
+        0.07640088476889982,
+        0.029634600071674476,
+        0.11768273816133987,
+        0.08725265404504526,
+        0.012193164099855961,
+        0.09043587881456865,
+        0.05013198246172865,
+        0.1166610540234175,
+        0.028719822275974492
+      ],
+      "popularity": 0.7249258026585526,
+      "num_google_reviews": 13920,
+      "top_cats": [
+        "animals",
+        "family",
+        "cosmopolitan",
+        "friends"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        0.4811450194016729,
+        4.458925352629887,
+        -0.9127203525586728,
+        -1.144422522132397,
+        -0.1964898654958869,
+        -0.354638554892998,
+        1.2531466560510256,
+        0.9811353625121122,
+        -0.8706008306946921,
+        1.745942739074479,
+        -0.5278836000827103,
+        0.6086795578619933,
+        1.2139433985193329,
+        -0.7962275989460229,
+        -0.7937287972886895,
+        -0.4895666307026502,
+        0.0745167274604037,
+        -0.222701553808834,
+        -0.8927380012104525,
+        -0.36312134987122036,
+        0.15200030027312472,
+        0.0541016151346045,
+        -0.4067767963992289,
+        0.210694780977081,
+        -0.4674400168825727,
+        0.24688838405434604,
+        0.41116511567884867,
+        0.08024632084268342,
+        -0.2146536260014512,
+        -0.04774687028264319
+      ],
+      "global_mood_params": [
+        -0.4089300235101884,
+        -0.40883493489349926,
+        -0.48698616750700724,
+        -0.7649572356323746,
+        -0.6299342363184011,
+        -0.45337229086002734,
+        -0.4929801420756528,
+        -0.6937923302504517,
+        -0.41504033007360824,
+        0.24918602668570825,
+        0.5791160523806778,
+        0.13436603746434775
+      ]
+    },
+    {
+      "name": "Central Shaheed Minar",
+      "orig_name": "Central Shaheed Minar",
+      "place_id": "ChIJOcC-nOi4VTcRFtAHmzv5A-Q",
+      "cat_params": [
+        0.06839946637522794,
+        0.06536125178622551,
+        0.15531013662247617,
+        0.08150395025121229,
+        0.22698581741168955,
+        0.2628389974188321,
+        0.44451029175786366,
+        0.4016132156962826,
+        0.08355013879535109,
+        0.36525978330410225,
+        0.045170044881599675,
+        0.1499910732271877,
+        0.29032469957038304,
+        0.06438214132855469,
+        0.24542321357137636,
+        0.0677224656892828,
+        0.33273667632222503,
+        0.3443181284674039,
+        0.09535224177140267,
+        0.07133964390633714,
+        0.4180001566343267,
+        0.21795302687880014,
+        0.12585746081310395,
+        0.19298462887288886,
+        0.05928172924125295,
+        0.27663933539262114,
+        0.26297497459861585,
+        0.291145648610724,
+        0.19627612119668372,
+        0.28617545145363804
+      ],
+      "noncat_params": [],
+      "quote": "National memorial dedicated to Bengali Language Movement activists killed during protests in 1952.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7271353,
+        "lng": 90.3969188
+      },
+      "address": "Near Dhaka Medical College Gate, Secretariat Road, Secretariate Road, Dhaka 1000, Bangladesh",
+      "photos": [
+        {
+          "height": 495,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109209905238814078562\">Yousuf Ali</a>"
+          ],
+          "photo_reference": "CmRaAAAAvVRpB46erRLS75_XZNxM5K2nxB9PNTMREB79HZ05LEvv2ORI8w6cGEXWznJrygCHXJQ3n8j9ZyCIOocaqRP_86uPJuKfe60qCN0EAOOUkF-wXqw8Zrqjfc_JcU8mRTaaEhAnO2OSF-T1D9ItqoqTIEefGhSYdu6StpDf8AJUsSBsG-V1iAPKFg",
+          "width": 852
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110088084259136166458\">Sumon Nasir</a>"
+          ],
+          "photo_reference": "CmRaAAAAzekH-o99N5MNREVm4-edafn2BbVlpqhHLRnWr1ea09ofOy2KALkCMvkylKkBPVEk8a9PbRIjT895ySdAMW4_19hXe1vAy7-YxAJ4zlFWXJ7Hs-1F0sIAq1OwRZrm_CbxEhDPDAfDxcuKvPRrOyiBVTKPGhT-nMUyIBQBoWlzkWPRIASay0OMEA",
+          "width": 3840
+        },
+        {
+          "height": 3472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117197366848397143769\">Arijit Sarkar</a>"
+          ],
+          "photo_reference": "CmRaAAAANAXFnxbbHNbx1iZS_e5yx0sQCnLQjS7-miMxGbSmgTghWbCTzbtJq37YMgaNsN60KRvhTh-AWyfevQ732f0yXdD2slFZRJmViXekbcgRaPJvs5QoxoMBs4F13v7wilZNEhDuoMIOB1PIsqpQ47gyEuINGhR9e7wGZNvIU8bUHsGzE9N4MBj2GA",
+          "width": 4624
+        },
+        {
+          "height": 779,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116448155036724633043\">IBRAHIM BHUIYAN</a>"
+          ],
+          "photo_reference": "CmRaAAAAFDiHtS1sLXQqwOAPTx-7LH8dD6ZjzNnX0tohQfIDvY0lLiyYa1hFNaUKopaXIdOC0nxQUrN3kM1BZ0odM-BCBDdYJMxMNF2eidLe3M97164FwDGTctD_rAzwwqjeOLKWEhDMpM9CXcG55cZth5y_3v3TGhQedU_72znHNIjE98bcQUoFBeK1Lw",
+          "width": 1080
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114297818054101601277\">Mainul Islam Shahin</a>"
+          ],
+          "photo_reference": "CmRaAAAAyfXQ65OHsz0ps-_qxH4GNkympSYXBtexw-D4GSFPQoahq6SpUIzvZw_o8NvHoR0YR7ho3M1A3VNEJSTC4p9h9v2m_0iGIznjdZERz-xIpoEOO0mjuqff-UpFz2ftMrY9EhC6hObJIOv9Kcilqf4SklQDGhT4GkNgo8Jx1AD0GJ1U_Ngzh48dYQ",
+          "width": 2048
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105924827231817005935\">SR Bike Station</a>"
+          ],
+          "photo_reference": "CmRaAAAAAGnqLfXvNURe9436Pdw3So1myQqFzrL51pcJ1l5sdzzntFhS4dUnzOEojApOIqCRuC1gEuzq2yJuTA5UC-cpB-Jjo8iqIbefVP1SR0O6s2NmPYL6WpCZyfMumlZpuICOEhDmdbV3DWjXL3l0MgUP8ZEmGhRhHPR5YvTCt5TtHptQBKby_0Af8Q",
+          "width": 4160
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111744589244551847392\">Rashed Mohammed Ryan</a>"
+          ],
+          "photo_reference": "CmRaAAAAqR_yZqzEPhTwPYfwiYSwcQZPMGSEirLENuhVoSWmBphEJdZhiIVoti2PZaZU_eLN32t8Clz0YttF3nXOaesy9j7r058ezYtgYG-uUPjbXSsO5Xfx-wlnwtGkoVGyhcZzEhDU3mU6ek59S8cQpwV8d4oMGhTt81jzwmUmc1JknZk_cmR9o_sf5w",
+          "width": 4608
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107248220199821615225\">Safwan Raad</a>"
+          ],
+          "photo_reference": "CmRaAAAArBWOzLEJ5dAF2XrCcH3FUtwncAbmeLcxvLpMHMQX00GSle6LEyA9X_Chm7kexM4KWaLeIKcbZZPTFLvOIXzIyfpHvOBpBAcFFvv7nox34o2riPiJN96gSpQHX-tYdZxEEhCsF_SvdL-9ErQEnVD6Y7DyGhQqsZsEgnIWeHTIjnUa2Jy1f39xRQ",
+          "width": 3000
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106158706585037591250\">Md. Raisul Islam khan</a>"
+          ],
+          "photo_reference": "CmRaAAAAebmFG-iwGZlaJIEKe8HKv__mIK27a3-qLhKOAfW-mwy9WnQaYYUWfy2r5axXMChOzRkIa2nz-_1WoedL2__Fn95eyN5-nHJWEPFMP5mwiSz5pND4fABZ-UAmurz4nCfIEhA9M8-Zw_FbSOLeIMNxXm8hGhRTBSfPw9Dux6aNKVAnvE3-hkAccQ",
+          "width": 3264
+        },
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113169331646524198842\">ashraf uzzaman</a>"
+          ],
+          "photo_reference": "CmRaAAAAcpceQB5nQdziqNJd-BoFZdiah8v1XEwcv2rM_2OWrB_1OSbnEr4VTh3wjKfk31WZgeJUwVpEsHVdF8JuyVr6iZsuFbQ5c1OrI-K5pwFQLCI91q9wJm4Zl9DJ0nvNVKY4EhDtOT2tcCWfpsfBGP5ycJuaGhTgRGWXYjUSCE0B88LvDS1i4X80dg",
+          "width": 1200
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.dhaka.gov.bd/site/tourist_spot/d949d4dd-2014-11e7-8f57-286ed488c766/%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC%20%E0%A6%B6%E0%A6%B9%E0%A7%80%E0%A6%A6%20%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0",
+      "mood_params": [
+        0.00431384443561594,
+        0.010263009922456663,
+        0.023110670101484605,
+        0.030410695964025247,
+        0.019610698157817675,
+        0.08978699441076199,
+        0.043222400765060905,
+        0.005778497048069542,
+        0.06342345852533135,
+        0.011803060191375486,
+        0.03149292097541788,
+        0.035070626668628854
+      ],
+      "popularity": 0.6799831405182594,
+      "num_google_reviews": 10776,
+      "top_cats": [
+        "culture",
+        "books",
+        "science",
+        "military"
+      ],
+      "duration": 1.4375,
+      "global_cat_params": [
+        -1.1261996746157383,
+        -0.5606910432342042,
+        -0.6810715207520498,
+        -1.070281698896101,
+        -0.4803559650268515,
+        1.5703318343856396,
+        0.4918791762990614,
+        2.115365457495473,
+        -1.8212937086281993,
+        0.4668152672374712,
+        -0.8469382699221181,
+        0.08636137200371669,
+        0.3976967011745343,
+        -1.0386414979351926,
+        -0.48620699271824974,
+        -1.2022988489959903,
+        -0.7401569116485863,
+        0.5271331820021553,
+        -0.8991701870949004,
+        -1.281490075028273,
+        -0.5831758200970347,
+        -0.3645912383443278,
+        -1.479088857777087,
+        0.23106855003028606,
+        0.9134433017308727,
+        -0.5778643760422146,
+        -0.25496005670454275,
+        -0.8399041522288392,
+        -0.6213258565266869,
+        -0.29949260668691896
+      ],
+      "global_mood_params": [
+        -0.4481943250962166,
+        -1.206284217857923,
+        -0.7161106103622306,
+        -1.4739629680602704,
+        -0.8499312693213859,
+        -0.8041617427135745,
+        -1.3262352017104866,
+        -0.94958186428394,
+        -0.7723791228547547,
+        -1.2403976436710515,
+        -1.3916918216587622,
+        0.522608956863154
+      ]
+    },
+    {
+      "name": "Dhakeshwari Mandir",
+      "orig_name": "Dhakeshwari Mandir",
+      "place_id": "ChIJqQQKftu4VTcR6ZeYYvr8444",
+      "cat_params": [
+        0.08281794373082117,
+        0.05360646152327109,
+        0.14969334981274662,
+        0.09628325027440747,
+        0.2645830015023387,
+        0.10098663896657088,
+        0.5219168039029346,
+        0.41699890637722864,
+        0.1143664473344402,
+        0.38709848945421027,
+        0.039307088334358885,
+        0.17277572001220837,
+        0.32750783418788326,
+        0.0626823498085536,
+        0.20760887844221088,
+        0.12811575323082824,
+        0.44166079985813617,
+        0.35429822095024127,
+        0.11203293977708366,
+        0.09219013097321847,
+        0.5133531533729843,
+        0.26126604189739533,
+        0.15013100825391806,
+        0.7868388795882637,
+        0.003878791755308006,
+        0.3537713497555861,
+        0.3609034079592,
+        0.36136803237722176,
+        0.22500948821113367,
+        0.3479421144158838
+      ],
+      "noncat_params": [],
+      "quote": "Built in the 12th century, this Sena-style Hindu temple is considered Bangladesh's National Temple.",
+      "phone": "01718-473763",
+      "int_phone": "+880 1718-473763",
+      "hours": "",
+      "coordinates": {
+        "lat": 23.723101,
+        "lng": 90.3901065
+      },
+      "address": "Dhakeshwari Rd, Dhaka, Bangladesh",
+      "photos": [
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113982819494546161545\">Joytu Das</a>"
+          ],
+          "photo_reference": "CmRaAAAA6s5AwFIDHYZWTJ33g9h_NihYvgCbj1AMfG6JVT6uOnJ-mNEq7CjAkODf2eyLF3YGiHjTyc5qXa-hR9jWOJhPtOAT8tgphauOm0H5UCI7Fq_If_CnbcQlz6XIj_nN11KNEhDjMwqxkrlaOsCC5Wb-OG5gGhShc3YOIGzK1DPGOosVJcQK-MdG4A",
+          "width": 4022
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106335292785856130691\">Torrey Hoffman</a>"
+          ],
+          "photo_reference": "CmRaAAAAN1vnU30RmZ0yIYV346K0GRC6QJOepW7pMRF_AGApkbDveQvZLlKVZsyelDSUbInRu3iijwLYp11_w3kI1YKqv4to1MoIbH6iaS5c735eojQJo2J7BNwnyv7UK89vREwEEhApwjicoG4LsE3wgNjKDuM-GhQD6UGWGo7ullkKdAGos4olapkt3g",
+          "width": 6000
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116415046407969292209\">Rittick Saha</a>"
+          ],
+          "photo_reference": "CmRaAAAA1jKhjQ-EOAbcs1x05yL5poH3j2InySDy19cti-pfy4VSI-1nItM4_lCl_wdOo45jMUin00V1GyeZEsltWYjJvPaBIjK8Y0Q92ssF18T5J3ElaE0RwCQRYJgZv5fjYojgEhCT_8rtN1U0IarvMPEVF9G1GhRO8LQZ42bBDZApfJb_rdNk0nO2sw",
+          "width": 5184
+        },
+        {
+          "height": 1067,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100143308631311095209\">Milon Hasan</a>"
+          ],
+          "photo_reference": "CmRZAAAA56T5l5U94wGIE4gg_nvJ95ZjzhGR37u51Msw8G9qEPbNRbQj63DZNkxLM_5OvODcrrniGYhn6XXy1DAMfiaRGRSPkh5V1K-pbbwyOHjxyDA224UAUYIS8v-mZCU-ID89EhC9MtINgH6thEU2ldFZSNcHGhQawynW8XlYRO8iUNxaBfGqZHaR6A",
+          "width": 800
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103030206364101387022\">Pitush \u00d0ebnath</a>"
+          ],
+          "photo_reference": "CmRaAAAA1tKQra_mbZ6Qd2b7kym34z441cB4pDb98g6AWrFLpzjc_Cy850fOlf50R9Yp1j3e6DTRAp3R4HMida014jOlb3WOh9lM9yKeQMOWLaNWuBrMwOdjgLPxQOUT49J2z3PwEhDzIdQAO-QgMm5jeuT5XQ17GhT788DeNqSH_VmmdtqxTsm79PUqGQ",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114992162718231123856\">Arun kumar Paul</a>"
+          ],
+          "photo_reference": "CmRaAAAAJlSffqBhhM6BYuHA1COelKHvXvg7ZcJZsH4ujYiJe0PuAdFFPK2sKqrFMIEI2IFuYBFOO53hZffAFLoxbdlWoHqBPXweGUcNN3J1vTixNEP6UKpa7MMOE6EDjussmcoLEhCLoIxZct3b97flQE8c8JA_GhToZ0pZXtk--Cag_0xIui1_xp42Ow",
+          "width": 4160
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115786191465209941695\">Kanik Bir</a>"
+          ],
+          "photo_reference": "CmRaAAAApQRnYEuGel6-MuBH4AcRPd-9SLPnSRi7fxSoxJzHgend_8sV36HLNHVNSyPXCMsmnYig3G_b-yaRpXJObpbdWyid5eMIaqBFZO_-rsKC2_1u6w08lMUfXJnxZVwowhQ-EhCreukLN7rjdR-XmUlVRGLeGhQmBFV8lhPKXMXlXN6dKlFsKIDwPA",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104486231558080966558\">B M Sadikullah Mahmud</a>"
+          ],
+          "photo_reference": "CmRaAAAABzPujfmkM-S9LGa4KtPdGgrJIX5jMV1fERoT2700BkEn6UcE49t4k4Oqx_WSdNqX6wQQzZtKY46sURhHnBMZlCg1VBixk-CFeXn_EuyeTMLdhUH8aZJzslzRmva-CpSpEhCGHHjvf5UIXg2McJsye46fGhQw0mZdGlfLSatg4hNH4Tw5fiFcSA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117201845200559394753\">Apurba Pandey</a>"
+          ],
+          "photo_reference": "CmRaAAAALfIwNXa7XvdMH772SVlbtETf77Nzz1dkFdtm17lUwgezJiYGwp9ZsLCSsOR-ZftvkzF6oZfbdtvHcHYGj4Z0Ajn6TqSvMjTwoGz6BX3K9S3EVYZ3f19RV4R7bBwlNgNVEhBLagk0p4Frgmfb6WJNQSYMGhT--EAOp8s5f9qtfdq2D_iqYRnFPw",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104241575097599067995\">Dereje Abay</a>"
+          ],
+          "photo_reference": "CmRaAAAA08ej0FMiXiYNcpghge5ZGiqL1Tei0lM7STgsDNfVdvuGoBK6-wunyMBjSv6MbfQjIKMzSNSPgbK4P5zXsrH7tjqTSei7vjEYeMFFwcv0mW6U0EL5FjfIujlU3iJ0vBJKEhAwUfW98vImv7MkFr4r2SZbGhRW8Zkmq270Q1nHqH3JHyTV4FNjVw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.hindutrust.gov.bd/",
+      "mood_params": [
+        0.0004073250947601385,
+        0.010373044436263208,
+        0.09520176546819442,
+        0.052826682038244845,
+        0.038931895376613256,
+        0.09875319300966265,
+        0.06074744235898104,
+        0.005271102434939966,
+        0.09687247520415775,
+        0.013088289287466363,
+        0.055747083257161184,
+        0.03646817713338538
+      ],
+      "popularity": 0.5807366496176884,
+      "num_google_reviews": 5733,
+      "top_cats": [
+        "religion",
+        "culture",
+        "cosmopolitan",
+        "friends"
+      ],
+      "duration": 1.375,
+      "global_cat_params": [
+        -0.9512540956289889,
+        -0.7012397399415641,
+        -0.7362474016762771,
+        -0.964665556801009,
+        -0.2484435559340921,
+        -0.5888869254365353,
+        1.315626490773418,
+        2.2862360019388004,
+        -1.365242316380671,
+        0.6990183446845687,
+        -0.967518671903826,
+        0.30275145612015536,
+        0.799504747133013,
+        -1.051131613885715,
+        -0.897400479337545,
+        -0.4949794772836682,
+        -0.14913002612057968,
+        0.6315211683428744,
+        -0.6862480658390432,
+        -0.8660258692435704,
+        -0.11813847221962784,
+        0.05854511032403969,
+        -1.2054088054659184,
+        5.770798211533657,
+        -0.6817357720378523,
+        -0.005743175736391079,
+        0.662620943775128,
+        -0.38371226785390355,
+        -0.4478789318906167,
+        0.12522320988351532
+      ],
+      "global_mood_params": [
+        -0.7110322455807983,
+        -1.2029876920891727,
+        0.5818626987055738,
+        -1.1283879000370436,
+        -0.4258842167135969,
+        -0.6914116429191122,
+        -0.9945807484511149,
+        -0.9698145950890988,
+        -0.32989262546782455,
+        -1.1904495584966048,
+        -0.8304455868005848,
+        0.6080452321595267
+      ]
+    },
+    {
+      "name": "National Botanical Garden",
+      "orig_name": "National Botanical Garden",
+      "place_id": "ChIJ2dsKmxvBVTcRGddpjMs4Xm8",
+      "cat_params": [
+        0.12198940079653789,
+        0.1272327962304531,
+        0.19642835301340753,
+        0.16010636136625364,
+        0.43891024515932786,
+        0.09808001205773544,
+        0.5758286890675408,
+        0.3521412182819917,
+        0.15418928121313585,
+        0.4753061571133925,
+        0.08626204313137893,
+        0.3081664185656041,
+        0.4194706461990539,
+        0.21792564421041494,
+        0.16939301324699899,
+        0.15355178777040002,
+        0.6290907089210669,
+        0.3307366554665958,
+        0.10074904421373679,
+        0.12229708862446438,
+        1.0006760767401668,
+        0.33872633550820985,
+        0.22106140396522078,
+        0.26368704181062264,
+        0.01884559881359693,
+        0.48472315097945295,
+        0.39219711115929057,
+        0.5246685386910374,
+        0.44480673413939065,
+        0.42416672408518724
+      ],
+      "noncat_params": [],
+      "quote": "Acclaimed, 210+ acre botanical garden, with a variety of plant life in Zen-like surroundings.",
+      "phone": "01915-676656",
+      "int_phone": "+880 1915-676656",
+      "hours": "",
+      "coordinates": {
+        "lat": 23.8128753,
+        "lng": 90.3477083
+      },
+      "address": "National Botanical Garden, Zoo Road, Dhaka 1216, Bangladesh",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105346185517477892217\">Md. Shahriar Hasan</a>"
+          ],
+          "photo_reference": "CmRaAAAAw5D02U1z8GxI390BB_iTdb1ykFnRoKKqraVx7v88bXIQid7I0lzLUzmUoew5wTQrsvVZUNJ5vRwXG-9NQLyUdWOIvgdNAheE9jWK2sgr9Y_Kuma2gxqlRWuKHLWtvv8FEhAyHuY8hrwW3zgm5MzJCEsiGhQ7Mbvpor12PPQq9nxImF5bE5b-uw",
+          "width": 4032
+        },
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107260561261604967583\">Md Polash Hossien</a>"
+          ],
+          "photo_reference": "CmRaAAAAEt-sGlH0P3ihEG7Omw2aswcrTL3flEmrCnt6dXIxdK1I_1cmctk7mBVar_3SWK2ZPDTDM8muhPVBsqSYE2JZrQpjv2yaNhm3UWtDp3l8N1UQi30Ju0WIARAk-fqlbQRCEhD5pBpTuH9JhMuuh5qDMjLhGhSAX3SKjgnafKofhthvt5q1Kk_a4Q",
+          "width": 1024
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117909666914631437966\">Imran Hossain Imran</a>"
+          ],
+          "photo_reference": "CmRaAAAA6JQkQUMH3xw2u9f4BJhJRNhZCcQwR7VqdokFulDxzhCmVkD69ADU_3No3p7lQ3xD0qJbyHgexk_6hzmDj6b5QLGUQ7FFFDMBXtGN2UwM3P1K4AhqHvab1LfSwe_8Uew1EhDfip6KcUdGO_J2ruhXqkpZGhQaxyYKpEhvEpVe7yt0yDwCp72zmw",
+          "width": 4160
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107260561261604967583\">Md Polash Hossien</a>"
+          ],
+          "photo_reference": "CmRaAAAAT5XLAyzQl69K0g760CrCFbhwMQUOcxrVbudMvoOxE3I8gDdEx735nuz1TVDv4W_YLUqFgUBpn13LvDXYSSXVmd-avOPqzNH2FirPj8xdeSbHJPEfJ972sZ-9lIQcwBFBEhClpR3BHDNHWvMf5BYsdyDWGhRDcg5yX_bnS1Azcsbe81VXc_Cdfg",
+          "width": 1600
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106480570692856313265\">Mesbah Uddin</a>"
+          ],
+          "photo_reference": "CmRaAAAA1rkZta-DGazLWgLT17NNUPK3Pa9jCQX16IDRQEd9D0aZhQbFHwWu2UXbfoBWoVLd_HOEgCgA5IT2TgbC4rKU7ioRDlWctSdCzdewe6Njgu0YpT8kUZGS7dHk_WaVD0fDEhBn_123AlBep-0haqt3D1KDGhTe6lmF143-kISot2Mp-GGfBWZBFA",
+          "width": 4898
+        },
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100430367775699195865\">JJ Polas</a>"
+          ],
+          "photo_reference": "CmRaAAAAwnJTlrvldH8ohgG0xFd5THTGXXKXlOLnqoYsPqVloq_pOtxwLkEmllsf2Dtl07xkH25RcY9XsY61JycGeOEqrW_ilthn7uc4giZy1qsnmCTvlQpfpL_phLNH1Mz_-gCdEhCqk_ObtkEoLjAlptgtV8ewGhRy3uZclaN6388A7nQV1d49T0e7lg",
+          "width": 800
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106720544342383252833\">Habib Reyaj</a>"
+          ],
+          "photo_reference": "CmRaAAAAfNvK6TWZ-IVk_NNeX_hyvRcVWjD52RGDD3Iyt248ZHFa3rxgY7SLpf9sCo-jhJ06yIfxKLzW-hPzzImU8j8EVdlUIt6kD2c0h_MSu-Dzz4-sP5olrWtuAGTVAuidKHPeEhBvdzM3p9s2jcrHlSt93rJtGhSLZcue5znPmZrp1jMfnujNP3JP_g",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101795473114446977556\">Banglar Somoy</a>"
+          ],
+          "photo_reference": "CmRaAAAAlTQbD-_eLMnigqcz5ES8RHXfDbSUfPy1nWehGSomqqW130_WFboVVbr72dLKgrJKl1psXahpt-iYcyn72bAzDOjQPMexeUV8wBvQlqUoSk39YnIMHAtEiDL7yZIDM3aFEhC3mBH4M44yl1BbOzPX47kbGhQHQy677ktVHxrLpcWSMFRgAxW2yA",
+          "width": 4032
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112785831206546022558\">Meraj Farhan</a>"
+          ],
+          "photo_reference": "CmRaAAAAsbDmx5MRkOxKPwWWBETDUf7hIImK9ezd25Z4rplzW7jfbi2bxKAe1D-GM_fEMRm3jkVEK98qApDWCigcHN3gHnJxHnCeomxofn6P1Iq3z4d56WIZKX0QFHhv1GCMAzN_EhAcs7x_OeL3dERAB_iTWhc8GhT362yP-C3CBoPvZslUZqDaYwgcLg",
+          "width": 1500
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113903703802947352546\">Safa shayma</a>"
+          ],
+          "photo_reference": "CmRaAAAAJRVzqlrDgCyfWQph2T2Ov4DDsp9OFy6WL_406uwFbrmN65edWQmN9ckoyRaG6LAHhUAnZnyCHziAX3xP21XUWC2Ud0aQW7_nLk-Ibz4WE1HeKS6AhSjbEfSF9jrVDyjvEhBhfd3GoZcBVxmKPkiP-JAUGhSl5fyK09n-CfqzOK87wwQTDFmAuQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "",
+      "mood_params": [
+        0.0018579016699739148,
+        0.027355250470169516,
+        0.08582119705798835,
+        0.08338965247126176,
+        0.056928100008381805,
+        0.14023405149172885,
+        0.06656221620681096,
+        0.009312442696625027,
+        0.1526565074485372,
+        0.03806081106342974,
+        0.10600299926876756,
+        0.026727472738740283
+      ],
+      "popularity": 0.5851680685195938,
+      "num_google_reviews": 5910,
+      "top_cats": [
+        "nature",
+        "cosmopolitan",
+        "friends",
+        "family"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.4759699815641956,
+        0.17908948371516084,
+        -0.2771512922910578,
+        -0.5085715090823697,
+        0.8268670564116838,
+        -0.6276632732721622,
+        1.8893478663001178,
+        1.5659388956221383,
+        -0.775903109493368,
+        1.6368986267905496,
+        -0.0018203456690580194,
+        1.5885824336630494,
+        1.793272437113196,
+        0.0896004846125053,
+        -1.3129602082106344,
+        -0.19707550977724167,
+        0.8678725607465962,
+        0.38507611985235346,
+        -0.8302822650409659,
+        -0.2661183846344126,
+        2.258539425630465,
+        0.81527529387714,
+        -0.4056808523905049,
+        0.8906112806231936,
+        -0.2508066822838429,
+        0.9655824445935948,
+        0.9558402520563372,
+        0.677151258830047,
+        0.8789114971796043,
+        0.6493537972563346
+      ],
+      "global_mood_params": [
+        -0.6134347432350626,
+        -0.6942175084046183,
+        0.41296905992262667,
+        -0.6572152042916302,
+        -0.030917101280167184,
+        -0.16978914238846646,
+        -0.8845384623319213,
+        -0.8086632003149441,
+        0.40805675208622744,
+        -0.21993803764760256,
+        0.3324865035027017,
+        0.01256798591463309
+      ]
+    },
+    {
+      "name": "Bangladesh National Museum",
+      "orig_name": "Bangladesh National Museum",
+      "place_id": "ChIJ4TGJveq4VTcR5fJrsjE9WwY",
+      "cat_params": [
+        0.10584157832394821,
+        0.05752500513891243,
+        0.2740861744112757,
+        0.2412924933449567,
+        0.19345076811916873,
+        0.25266665068822397,
+        0.5184604170425444,
+        0.4433302130258593,
+        0.16673711892146814,
+        0.298515528049422,
+        0.04942196893369941,
+        0.10709474934565655,
+        0.21438952903497388,
+        0.07268709158770434,
+        0.2939779272090435,
+        0.06717566096455557,
+        0.31237748717077507,
+        0.4029634815571119,
+        0.10240885164914894,
+        0.10729620799008746,
+        0.3887105216399997,
+        0.2052048495926277,
+        0.20009073852951592,
+        0.1881432379325708,
+        0.080877054536716,
+        0.2993885669967919,
+        0.29428150696297595,
+        0.2670780039879518,
+        0.14334610889949612,
+        0.2935189236309203
+      ],
+      "noncat_params": [],
+      "quote": "Large national museum with exhibits tracing the history, culture, art & archaeology of Bangladesh.",
+      "phone": "02-58614880",
+      "int_phone": "+880 2-58614880",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "1430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7374803,
+        "lng": 90.3944497
+      },
+      "address": "Shahbagh Rd, Dhaka 1000, Bangladesh",
+      "photos": [
+        {
+          "height": 1362,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108985289101858019267\">ROBIUL ISLAM</a>"
+          ],
+          "photo_reference": "CmRaAAAAskT3vGmsemPkm3MncwM5jbhYC_rSz3-RxaoX_tmPfAPN8dtfCTNYvWJ-YnD_wep3i78GmL4tO9NIJj10ZzZltYUANtJk8vQiQl3O5AYfM7Mm2Di7U6QmHwOIKvFz29uxEhDDGnM16ssZROx3rn3_Sw5yGhTjS3bsViF47Z3Rvwy7iGi2ETKOgg",
+          "width": 2048
+        },
+        {
+          "height": 1376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106614460392401922806\">Md. Mohsin rana</a>"
+          ],
+          "photo_reference": "CmRaAAAAAZEVZE2AJ0_qbyniFgNFrRSNRS3WHf4E7MLZEHFZ4HTtbvV722r5NzGigUQEMc1HgtD_VzQdSGmxrjUtY3WqTfrR_LpQuZQUmKcKIieidNaxuNpzwTrfHLcXBYSDhSYqEhCUcwQ2tEO8Tn6GSslRiadzGhSgztiMh36QBYqVSRergiXPq46sUA",
+          "width": 2226
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101125599728268847923\">InviolateHippy17</a>"
+          ],
+          "photo_reference": "CmRaAAAA65y4WCcCz6mG_kXBT9_yjysOb625h0fhsSRIcoBG_JwY9_5M5RYQ7Q7EMIbKWHxOTpw5JiEgxf9hJQQQMTomH5fc7_0sh2eaoF0gt6fmzG-wRyvC3axKxumIFVcoqR7YEhB3AqKbdezvusgoJGyDxrCyGhQwvPmhSQyQISI3eUAjZBsi5NTzGw",
+          "width": 3264
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107965975345436117339\">Tanvir Ahmed</a>"
+          ],
+          "photo_reference": "CmRaAAAA7MVAo6VsUWS7ibjcqIapOO1C8CFUHwm4a8Pz0lYR77tMcigqY5mwJJW9prd6bjmiUJBr1Mo0A3rNtQxyTHg3Bqax33pUjIEmOps81AzWdpA58aUAgKVhhYuRZtrfpAL-EhD2EB0J_bzFbPEMtv7unZiGGhRQfnDeJzKiohFSBRHKqycuyBbYrA",
+          "width": 4000
+        },
+        {
+          "height": 539,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107238998194608539893\">Hossain</a>"
+          ],
+          "photo_reference": "CmRaAAAAy4jLQZnGGEfbC9CwYFnjvakDtALfIQuifN6RsqorDfY6SUL1mZJWNw4LGC239ccC9f-vLx0I7qtibpyTBO0eQR1iBZ9epw6WBgTdfhuYv2U_QsLrUxrhBlTXAc4FF15FEhDZZEUjVixTVIXLtWuchj35GhTjKw-42x4sgBxeTUgc6uqcv_UNPg",
+          "width": 720
+        },
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109401917570693781786\">Hamim tube</a>"
+          ],
+          "photo_reference": "CmRaAAAALrwZJsR_ba14QWhiWXiwNsUn5mKnZ3Mqcp0lAd95lvWhFBEF3wOCg1TtUaq8c8JKrjycFuEhiwfSMnPVDV1hvgayt_peFJc4vqQnf0tG7tqkMHCWrxw4YYelSukHn-QrEhACqcxkhg6UwsB2uCS2jkx4GhRjl8l5oAn15zzirK2NqmABIguEMQ",
+          "width": 1024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101302019606590538982\">Rajesh Bose</a>"
+          ],
+          "photo_reference": "CmRaAAAAAqV-JS4jnHJrm4LsOCM3yEOnYMpAXWMJXcyZW1pCf5BNXanFkH9rL2prIsi628lEM6mJI0YTb3k2pg-zMrbzsvuwyOpXrywQwl94PA3jL_RoVeEJhP9dzm--EHdMAvhGEhD63MjcO3K_4ORRuOLVCasnGhTagu8Cj8SAMGoGwgM9e2Atc5lI9w",
+          "width": 3024
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108583092284129887331\">Tanvir Ahmed</a>"
+          ],
+          "photo_reference": "CmRZAAAA6whf-77MwiwRDsZAVO8X9UZuf785gPhsYzH7VgruxJc6FYOeW9UOjzvjPmZ4kq8i-4T9BbEM2QgagmAVweARKOdtiT-4ELJeIpg_cJjSsrn7h1DOv2jFtNKcLuPbTrLbEhBMETF-TRYKrPXgqzhCzkV3GhThmpDa6ryPy_QJMFbemiQmBGXIXA",
+          "width": 3264
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116159327305889516066\">Amar Bangladesh</a>"
+          ],
+          "photo_reference": "CmRaAAAArSwBwOVuUKAdMZMmX8PBpzxhYmK5_FBgZppcT6HvbpLCDudO6Ta2GG-xht0dJHKajCEVTnXP8PERExzhcgXDvv-DOub73hsUwbbvhKFYz1Q0S03DARVxORWe8l6RxEY6EhBzY0xwUykT4-0wx90T0-_DGhT1bEVjlzdVUOKBv9hehVeJxfGHpg",
+          "width": 4160
+        },
+        {
+          "height": 4224,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109871475348247448440\">Tanjir Towfiq</a>"
+          ],
+          "photo_reference": "CmRaAAAAxTR7EdxgipQfJI-B3ta--_0d74DuENJJHGD86lIA4lKBHo9OCIdPe-QjXY_d0XvRv5CGOMXnYT8ir3dd2iwY2mxDrOU8YOqSk06HHg_RjRkWzVx1LrMwZFNYbYpfeiWaEhAxxNM662lqIR0H3If9iMFbGhSDtYfkf2OyPxUMkr6mHn1uOVcGhA",
+          "width": 5632
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.bangladeshmuseum.gov.bd/",
+      "mood_params": [
+        0.0014351633562075734,
+        0.013206399983965595,
+        0.010724465119417638,
+        0.036314843724393496,
+        0.014062910822895545,
+        0.06798491429486353,
+        0.05750885645748563,
+        0.007212018830335031,
+        0.037768901982058664,
+        0.03210000535498555,
+        0.05270582392166275,
+        0.017500519353417114
+      ],
+      "popularity": 0.6531123898920541,
+      "num_google_reviews": 9171,
+      "top_cats": [
+        "culture",
+        "science",
+        "books",
+        "cosmopolitan"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.6718984476685984,
+        -0.654386824164323,
+        0.48571168460907727,
+        0.07160252065898182,
+        -0.6872117245359052,
+        1.4346259225152032,
+        1.2788441928099752,
+        2.5786664684194305,
+        -0.5902073163284505,
+        -0.2428523003155041,
+        -0.7594911419642681,
+        -0.321033099395902,
+        -0.42287323748783007,
+        -0.9776164895859137,
+        0.0417774852390226,
+        -1.2087029642559408,
+        -0.850626730137325,
+        1.1405413571070235,
+        -0.8090955185448758,
+        -0.5650240619378407,
+        -0.7260216104122652,
+        -0.4891315684675523,
+        -0.6421214809157614,
+        0.18590595843023344,
+        1.5352228059546371,
+        -0.4091235775695293,
+        0.038379459742791264,
+        -0.9962569213036896,
+        -0.9408341080058711,
+        -0.248997912095063
+      ],
+      "global_mood_params": [
+        -0.6418773668610249,
+        -1.118103147668379,
+        -0.9391196156434792,
+        -1.3829419325745729,
+        -0.9716899181891706,
+        -1.0783232707769628,
+        -1.0558697006477589,
+        -0.8924191361559963,
+        -1.1117551641849472,
+        -0.45159388183854887,
+        -0.9008209447060853,
+        -0.5515021850416667
+      ]
+    },
+    {
+      "name": "Bangladesh Air Force Museum",
+      "orig_name": "Bangladesh Air Force Museum",
+      "place_id": "ChIJv0iFz07HVTcRqyjlIbm16wM",
+      "cat_params": [
+        0.12621607335118726,
+        0.06925316158788714,
+        0.13417080486920596,
+        0.10921590022785682,
+        0.28252603357608036,
+        0.12489927334705138,
+        0.44303968675800465,
+        0.3137211760476743,
+        0.3189674878189904,
+        0.4730258526019331,
+        0.052087849274833446,
+        0.23513297246673776,
+        0.38997933634626264,
+        0.13404223915672123,
+        0.22298939682331234,
+        0.15014964390969013,
+        0.4994737143403775,
+        0.39464695441656505,
+        0.09044861961409549,
+        0.1039442117075246,
+        0.4905763536155989,
+        0.2706724406950387,
+        0.20313475729106134,
+        0.20166784725074863,
+        0.020719720708536848,
+        0.36447326413438796,
+        0.32884820690717476,
+        0.43834419652952034,
+        0.3297258416075805,
+        0.33432335528791646
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7794687,
+        "lng": 90.3810029
+      },
+      "address": "BAF Base Bashar, Dhaka, Bangladesh",
+      "photos": [
+        {
+          "height": 3864,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118025047313174046798\">Suman Kar</a>"
+          ],
+          "photo_reference": "CmRZAAAAQn98-6iI3RhFqtLsao4WLB0TOIPNLOA6SESl0UJywvHrFy-NvCiWk0y14wzlV0TmBS-CmrwsIVkpMAHzL5YZe9sINblyCw1gf-uh7sG4JPey-jtv3PfInEx_TGdjfByREhAxe6uuNwwazJ4UaB-NaMXyGhTegWwacKx0DHdYjNvPAH_csxuEfA",
+          "width": 5152
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111298747867658901930\">Angan Das</a>"
+          ],
+          "photo_reference": "CmRaAAAAXs8znJZVRSWgO0AYKrrVnixw_i08DE_Ix66ASR4dIVRc4R64DFpCkrsQGi31MjzBAp7NpqRbG9r5zLcpWliz1M0dOPuqAJBk-UklG_xNTsLn_qa7dxYR-Ifd0QWpjA_fEhDxmxtVKI2BPo0R7B2YbAIsGhRCj1j6iM23tu1yA63h0U2YGNw11A",
+          "width": 3024
+        },
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107413780684611630613\">Rabi Hasan</a>"
+          ],
+          "photo_reference": "CmRaAAAAqbRAfJcKA2hHqGZ_t8K1E4QBd1iLlG7DlhKMi7cH4dUUOBOZuc80DchLE7WI1fqK8CulrnPiZ0i7mr3D0SQAlv9x5D3CgPilF_S2sHjrAfdGz6jJxLiWJ4DPbWR5gAFzEhBtOu6auUn9yRuT6iEoXHu0GhTiiqvB314Dn_8wok2dQIT3O6hmuA",
+          "width": 1024
+        },
+        {
+          "height": 1434,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111905356314844269790\">Dulal Mollik</a>"
+          ],
+          "photo_reference": "CmRaAAAAzQAS4RpjTMB72t7tSWycLwyJRCxNFFLUVIDLqEVNEd1-nLAWbT7qcVpB9Br5bsWNoODCLP0zVqhN1VLCmgr5f7WMRXszcHm9OfAYoP15cbFEE6V7KBZth4wJCA0Hja-PEhByTQnkRuw4YJbcKPzg2WbVGhQe_W3BaPRTSUNdfS53n-XPLO8ndQ",
+          "width": 2048
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105193883992097416508\">Md Asraful Islam</a>"
+          ],
+          "photo_reference": "CmRaAAAA2q541QvDmEaHQnh3PymDc5pCcIey5rSIkaVo8qnUXM2dYRSgIQask7jBozqOLVGPLfZ66RoNf4XOCgCdre7XRndpjaD97tEIb3FMB8qVtiOsEAl1xSedXxh3ds4dP89MEhA7Ad7C0QQojepr4vk-iKltGhRIHgCYrx46MOhPpYpmE3zM9WPISA",
+          "width": 4160
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107127069084658798982\">Tanvir Nayeem</a>"
+          ],
+          "photo_reference": "CmRaAAAAnQjBXxF4xbgbL1cpV9EAcxZmX9cSSWfQqkJWC2elmWmmGpsNnk3NynVTi3CRp8e7RVGxz4S2UPAtsmYBGBGxjMnUM1rE39LAJE0kZu0rHhO6hHW06v7nGjMj_pJ84ZF_EhCxkeouAhI_lvWM4FJFkZVwGhQNrmKs7mGtnooeuD-shQRa0kMjxg",
+          "width": 3456
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104802159100721531471\">ohid islam jibon</a>"
+          ],
+          "photo_reference": "CmRaAAAAqsXqN8J1mutSZ1rz7NzyxODazXEU9L2eD5JaGCrt5iTArdaj_jQuyYtgI-7-uJ9JlVbd1x_KAooMPP59yB2E6B0LWFnJFFh-m4a5pCTX-0eZkWBlMXHBCIDNmKjKLXLEEhCsyHKm5xSYJucNtUqsHBryGhRwIuSdh6BZQqO3Jg23_jsdsrrIqg",
+          "width": 4000
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104592274380258111271\">Nur Muhammed</a>"
+          ],
+          "photo_reference": "CmRaAAAAf8eW-2qMkO6gY8DbLZRzZxyujZoZc60Uy_OGcZt2Gn82b9v1qqllEg4wYmKBSdtlEv2sAiBHe5gRSGPSs2EPDo3ENJq89C9mtFG0sh_4ZD29VUkmfMvID7nl9ttKFRg2EhAMWOkGuyvAib5m7VNTRyQAGhQ5R-iEEMllAnTID0JHfxJE3x0jVg",
+          "width": 4000
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101721708267371371912\">Engnr Arif Hossain</a>"
+          ],
+          "photo_reference": "CmRaAAAAXMW3rsn4mMRf5S9sb-ZPg4EsJlfs1YXoauUqRmMJlRvVSVNXjLDLLRQWsNBYW69IP9M5r1Gd867TMNZ4EDgG5YKkoVvNag9-e0Qe4jMi6SocLLcOC1LyquOudLih9arZEhD23xW6OH4Gswh_snZaMG6hGhT_xhk-ZCEYqHcd1pd6pK0UOMOhKA",
+          "width": 5312
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113029950325268947460\">J. Sumon</a>"
+          ],
+          "photo_reference": "CmRaAAAAmzoSnAY10uQl2d5sXjySLeY0RV5XbzLq4MX8S3IQBfPjnvaxS21otTju15gWM5V5hvh-i8mhmioIzEBFhFKqLWN28CWpA8CCsiPgpsIR3JiiGFqQIfzId7fpY8xOcLQtEhCQxROkecczMJWcrr-AQ3bqGhTO-_G-pHpkEJsgqU-rrI6dyz1CFw",
+          "width": 1920
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.baf.mil.bd/",
+      "mood_params": [
+        0.00912260502414572,
+        0.04841153493430285,
+        0.05255947074168789,
+        0.07118125993875828,
+        0.03784121711559318,
+        0.11478677141024149,
+        0.06717771279398288,
+        0.01631477407203924,
+        0.12602699389916427,
+        0.023900621281106125,
+        0.10056766302675815,
+        0.018022989391490454
+      ],
+      "popularity": 0.6584760936711883,
+      "num_google_reviews": 9476,
+      "top_cats": [
+        "engineering",
+        "family",
+        "friends",
+        "culture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.4246859479575753,
+        -0.5141565804246007,
+        -0.8887313966112759,
+        -0.8722459839520985,
+        -0.137764740610659,
+        -0.2698763824648593,
+        0.4762292408386434,
+        1.1392532387836378,
+        1.6626540732830772,
+        1.6126529722431642,
+        -0.7046633566005244,
+        0.8949700334463858,
+        1.4745837169016152,
+        -0.5267771376529556,
+        -0.7301525571531509,
+        -0.23692103493393812,
+        0.1645652847117443,
+        1.0535536339929779,
+        -0.961762869440416,
+        -0.6318155219579904,
+        -0.22922111161836484,
+        0.15043871873815176,
+        -0.6078006954629044,
+        0.31206937194440887,
+        -0.19684636602338543,
+        0.07363750880216983,
+        0.3622664660966048,
+        0.11635479756156623,
+        0.1842338812921757,
+        0.0315788048547674
+      ],
+      "global_mood_params": [
+        -0.12465192765335827,
+        -0.06339194350790324,
+        -0.18589592822142242,
+        -0.8454253533301451,
+        -0.44982159992497656,
+        -0.4897891219826194,
+        -0.872890433823257,
+        -0.5294401221402995,
+        0.055783311861638527,
+        -0.7702479921024621,
+        0.20671172037146948,
+        -0.5195620904743361
+      ]
+    },
+    {
+      "name": "Gulshan Lake Park",
+      "orig_name": "Gulshan Lake Park",
+      "place_id": "ChIJR1H_VQbHVTcRAsnI-owguJQ",
+      "cat_params": [
+        0.2009677856743755,
+        0.13837088016674484,
+        0.15568688861350474,
+        0.07672059795463122,
+        0.5267706737190462,
+        0.10531770104218831,
+        0.46913532257232526,
+        0.24380937058083713,
+        0.17765987606548078,
+        0.38866221847432386,
+        0.058230924700405404,
+        0.23223041427049057,
+        0.362844436160492,
+        0.3370061600372835,
+        0.1735671435924822,
+        0.19951544242931762,
+        0.533351621171324,
+        0.3215738662864442,
+        0.15640924001119436,
+        0.11872739287557776,
+        0.8322863856586892,
+        0.30587079912213755,
+        0.20329274185729398,
+        0.2145258773168344,
+        0.008440508058911106,
+        0.38160994451427516,
+        0.4161528323433903,
+        0.5708244462455287,
+        0.5671467459588211,
+        0.47659013516762616
+      ],
+      "noncat_params": [],
+      "quote": "Simple urban park area featuring a small pond & circular path for walking & running.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.800439,
+        "lng": 90.4085024
+      },
+      "address": "Rd No 63, Dhaka 1212, Bangladesh",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110430580439508157159\">Harun Al Shahir</a>"
+          ],
+          "photo_reference": "CmRaAAAAniab3LQzkGGeC3l_AoyoTH2IFIAcbDHg6UxFXXKbY17qoX4U55G_LwNdb-qnT2yG5kzao5JDXbV4KZ6bsrnNLAg4k26z_LalGufJKamnDJNzrGsbGhaITk6Jb7F820uTEhCdjiguq38_SYFe7Lb00oWBGhSxegDJc6TE8-ectioegprdtBC5Hg",
+          "width": 2048
+        },
+        {
+          "height": 534,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118264287542702286881\">Md Meherab Ali</a>"
+          ],
+          "photo_reference": "CmRaAAAAInaDYlFdclUlPRtG0M7qz8uriZNTiN8V92qjGay7WtchxOdtql9sOnL2O1xLPl61qUoTukFqbDCvlXY3d9lwCkcJ51EetGsLUuO_OkrWdmPBiuKKzSsyYJgX7SGZLz7DEhDWRT5KuaF9nPSkJ2MGcLJnGhQdjXAmqg3quaP-XFh1Yazk9C6biw",
+          "width": 800
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108752591045977771340\">Mobtasim Hasan</a>"
+          ],
+          "photo_reference": "CmRaAAAAn_3zhSLAZWRDcY662PXEyMbLui7zDbJPkln7XF5-09lxMQHyE6rrO3gY7zDTZSb18-qtr_3worHExoJNkYtFNOZyqan9UR1niznFqAGCerRRFOvhVAdOvMFCjp5sJhu_EhBbpwkol_fq918zU3jWRl_YGhTIJ6FTev94qKUDMgLA9-BR_S2K_g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103010096332242893751\">Mahmudul Hasan Efaz</a>"
+          ],
+          "photo_reference": "CmRZAAAAf0jeu1Bpkw9z3jDHIorcLQbKSA-ai541DCFOZ3kjYjDV0EJJyPlXxNignipyqTaZOwJuCxujwRSuddJGkDN0K27d2rXvvlEFQOUn1coaQSLxiWK3UwNHlQ9SHeVW55BnEhDdeJGbugpsevz34bF0R6bSGhRzBUnUbZObPwJ8Iw6bytHX-ykYwQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101061875011345492151\">Md Ahsan Habib</a>"
+          ],
+          "photo_reference": "CmRaAAAAIe60t4jwTK1Lk7xsBEFAVcifS2YvWr8KSpB1V6xN3yd2PfSsgAi0Z4aJcohHWm2doBJM_VBJIbOPEouyru40d4G7jfvy81QpwrYDBQAfDMCcHTOqYfL0OolOw77n4jguEhDOxtr0xcY46VXa0XCOOOEnGhSLCvT4X62qn0iXVN06YTyBJrYy8g",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107523245736188765643\">Md. Kabir Uddin</a>"
+          ],
+          "photo_reference": "CmRaAAAAXDeIWwXdmPtY-y_N_NHeME3gsdzvFZ2b9_vZmxeBHxW1xxBQIizh5kwPW9pbpA7S8_N2Co71np8Os__tXIRmixolaNAoihbq80kTyiECAe5k6Sr8UOP9UcZGl-75SanMEhBh9I9wtwiPk5yVzEiX4fLAGhTitCSUPwXX8Q8XR2stzXpY4qPGaw",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108752591045977771340\">Mobtasim Hasan</a>"
+          ],
+          "photo_reference": "CmRaAAAAw_8AtBblDSqoWq82jDlvls6uyyLTC2FEAUY8x5OgFOZHpz2oD3-jbF8mxYfNTyPMi-dqFSkInRcYKVw7xMnhm5iAHOfuzj6XNYJlCT00UmwMsNDUXp3ByhT5EO_lEh_2EhAbsBrhVK1UaZXqRN4ggqYcGhT7i7ylzS1MvyXA9xNIdn1ZWOkWeA",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113172814236495604209\">syed jaman</a>"
+          ],
+          "photo_reference": "CmRaAAAAE0BBoA_gaix0jwGzDrBjlGQB74Sz3GuvVZCX0-Pq6lGG3JsDywgWOHMStE97ojrHKEZYY4qg7dOvqLSrMCM0B1yJCVKnukjjRtNAQ-yeny251TejRk7tsZOd1kmQ4zmTEhBFjlG4I8Xsi7mduXOSJt8OGhRfbe3khIUDeZNPyy9RWFWJsIZNGw",
+          "width": 4160
+        },
+        {
+          "height": 2554,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109996255483445005388\">Niyaj</a>"
+          ],
+          "photo_reference": "CmRaAAAA-f5UdR-3U-ztoxjnWDedXHWvuWUWk9Auab_bBTfrZWroemvKcFqpeaMJHmnkMrgqx6FZvubaLO_DYxoWAeo0OTujNFBw-dV2C-p0V1RAwG_YGnhsJZQgdd4dImVCp4bkEhALv7tYkW8WgKUjnNk06pMuGhQnwG5Nn218WD4dTGX6yDgpJQXTZA",
+          "width": 3740
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103010096332242893751\">Mahmudul Hasan Efaz</a>"
+          ],
+          "photo_reference": "CmRZAAAAQbANlELcUr2_BzigjFfe-HsHN5AR1xTjcoSUPKG2JKWxjJ40qEgKLDXuKMG9XzTyhhAY4Vct0Bn89EybaUYDT_ULC0evN29f2J6xLrFyddNAawrTkDoctE0ZmzlxJW15EhCa-StLLyxcRVfBPQUAOD3gGhTGFEBH_t7hLRxPL4dWYvrvapknAw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.4,
+      "website": "",
+      "mood_params": [
+        0.0019024757460903334,
+        0.028927356774445093,
+        0.12601263864971082,
+        0.06985236050481654,
+        0.054512390626182315,
+        0.10969109775583194,
+        0.08146262533822139,
+        0.006632106183940635,
+        0.14745524017615116,
+        0.021246142626725514,
+        0.11340060226900792,
+        0.020877220297785486
+      ],
+      "popularity": 0.5499021609193853,
+      "num_google_reviews": 4609,
+      "top_cats": [
+        "walking",
+        "nature",
+        "beach",
+        "friends"
+      ],
+      "duration": 1.375,
+      "global_cat_params": [
+        0.48230868608802846,
+        0.3122643976050774,
+        -0.677370539443849,
+        -1.1044645908499633,
+        1.3688205070232757,
+        -0.5311076593630921,
+        0.7539346861022209,
+        0.36282606948349766,
+        -0.42856113484665503,
+        0.7156449107580315,
+        -0.5783218941914227,
+        0.8674038912908836,
+        1.1813588090749534,
+        0.9646074678951637,
+        -1.267570669970708,
+        0.3412456291834906,
+        0.34838823515211176,
+        0.28923681641649757,
+        -0.11980318588763648,
+        -0.3372476970791044,
+        1.4373015198617505,
+        0.4943008317212559,
+        -0.6060194467823672,
+        0.4320146454855036,
+        -0.5503933790496952,
+        0.2007476099601897,
+        1.1803032997840635,
+        0.9769979645803621,
+        1.617408269915965,
+        1.0098241671530357
+      ],
+      "global_mood_params": [
+        -0.6104357161084252,
+        -0.6471187503515723,
+        1.1366009894092084,
+        -0.8659122732791456,
+        -0.08393526738439644,
+        -0.5538673048064009,
+        -0.6025541362271948,
+        -0.9155435765055605,
+        0.3392508269545556,
+        -0.8734094645014487,
+        0.5036685374410856,
+        -0.34507475451103603
+      ]
+    },
+    {
+      "name": "Ramna Park",
+      "orig_name": "Ramna Park",
+      "place_id": "ChIJT9rnV064VTcRcnhV2Y1e4nQ",
+      "cat_params": [
+        0.25679657321962035,
+        0.17791214838542133,
+        0.19447893762865218,
+        0.1178757097775758,
+        0.5187498800498779,
+        0.09242736943925178,
+        0.5135363798700555,
+        0.25354805055303836,
+        0.21228028367779325,
+        0.42007212516070486,
+        0.05182411206974121,
+        0.2322612588623628,
+        0.3921733490005389,
+        0.3274344191822893,
+        0.1972928674023422,
+        0.13751919509652274,
+        0.4928533744757597,
+        0.4061672743258327,
+        0.11122044346393523,
+        0.1105940574879445,
+        0.9360861037731693,
+        0.35425997889171107,
+        0.18597996402413608,
+        0.2704307432418712,
+        0.008214050515268734,
+        0.4087461322900481,
+        0.44315603685131283,
+        0.570550645101233,
+        0.5063395154353997,
+        0.5173892192421566
+      ],
+      "noncat_params": [],
+      "quote": "Large, tranquil green space with trees, formal gardens, paved walkways, a lake & a racecourse.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.737588,
+        "lng": 90.40128999999999
+      },
+      "address": "Moulana Bhasani Rd, Dhaka 1217, Bangladesh",
+      "photos": [
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116205048815972599991\">Mr. Safayet</a>"
+          ],
+          "photo_reference": "CmRaAAAAGdfhKJNPj3DeGkXvLJZG-f0Dp1YQxMqU2nS6Cocy5d4J7732Jk9gFzhCE9__FCIkuE40i3QkS8l0_-yZqKE3EKofahyUOJSiZv3xrUaKHYsN10AlXhJI8XMk5qos6h1uEhDmyjLv9bgxs0pVSStDyEa7GhT4aXZilQqxlviWd9C8WY4W3PThXQ",
+          "width": 1024
+        },
+        {
+          "height": 2449,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106198420005961427984\">Tarek Hasan</a>"
+          ],
+          "photo_reference": "CmRaAAAA5eRr9kof6tFlmA14IXh2q931Tax0OS8gQ6SHPT3Ti9x--AX7SNBH8LX2fZEqdBZ6TK2P9eR_X54sL0DvESOGDuw6WJBV17CIHPfc42PmzxsNDLS6Jwq0Ob5jbWlqk2AxEhBnW5UyJCMLGg2Xw4anO2icGhT13tYOlsgiZ6fcAcGrvcFOXd-HUQ",
+          "width": 3265
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114296968415227696228\">Sajjadul Islam Xilani</a>"
+          ],
+          "photo_reference": "CmRaAAAAlsUisLak64dhPucJvRIL68QFy3MuFLpZbpyK5Vt4lTI3UE9r7F7yHoLuRPyDGFj6dARFoqxEed4edXub2qF9weYWsug2RNR92C3CnB9nlBr16201TWwfB-_n4vs1Mn9HEhAtQJon7WjP6BN8SVarzHpIGhTnAKBzH7TLXQF-fCfCvf1_bGFXpQ",
+          "width": 3024
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107743447594897772076\">Sorif Khan</a>"
+          ],
+          "photo_reference": "CmRaAAAA5zrUmsWQ__u6SDklxpc4An0_2bk6sdJ6iujF2FAb5hJM2Y_3S-av5kHiSTSyzFBbZnRbcS4VPWm_XlS6oMTQTJSRT53e8v6NO5PWM4RT344kkwK2lN7OWdGYR8XDG7tLEhCbZGxFbrhk4sROYMDhuNQ8GhTOWifwwuLrz2P_nONakb5GZVarJQ",
+          "width": 4000
+        },
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108701730718353019683\">Rakib Hossain</a>"
+          ],
+          "photo_reference": "CmRaAAAA0PE77vk1itv4wIY6OfGyr8tjmlbV3w1lC2hLvNvHvDqhSIyciZW4HYx8LYi7Ta-znFSymZu0o4tUfM2-ddGHglB3Ms69hjf86H3-45mtby_wjylsdaB_ytKG-l3aZ67dEhAu71qgMTnFfApHe0n2hAAjGhR_A5KCU4S5VDLR49NanW4Us6nLSA",
+          "width": 1080
+        },
+        {
+          "height": 3711,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108143945502789006076\">Sajid Karim</a>"
+          ],
+          "photo_reference": "CmRaAAAADYLtaAlqkAN0d25_J8s3OL6fvFYdCrDZnU6RkQ4Fln_luiIHAkY6FYAr83WsQPFEf4xMjdAIwBFH7kAWvUToR1x1obu-uP-w0rzRWVcxwvuDL7h-c9zQ1-dNih2dWxHcEhBcBg4TZQbn7tgM-ZwGTTbZGhRR96B2wNBMQR8_wH8wnI4GuFaykA",
+          "width": 3096
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106260988024010359271\">monon da</a>"
+          ],
+          "photo_reference": "CmRaAAAAJz5kDiQicK0eRUSquGQpqRvdCMsrXTbolIwX1VPjcKi_aH1yeXwnime5jKGLKw5QsDTb2z3CI5HvHBBbTgb9HyTDwyxU327tTyK8xApShNHTm6jmL4pTv-_gXu6UlrxUEhCgLH6bR0IBwUeAnF-sotp-GhQohQbMtf0AId_gX7M-8OOznGHGzQ",
+          "width": 3000
+        },
+        {
+          "height": 486,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107058203228148038601\">Ikramul Hasan</a>"
+          ],
+          "photo_reference": "CmRaAAAAtGseOISP5MjtA2Mdk9y0w7XcLGUso2EHejoHLs2diDfFT47Urx14h5sIzhHKo2SvYDCxm2I93KDwGe_Ap4T_euYNFWoXQ7PB0Apq1y8HRd_i8OLSETXKXVJkygIuFbbuEhCW9vt8_IvEcU4SBah6dWsTGhTyUIskl4RO_37f5XuFM6bgGM-zmg",
+          "width": 648
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109867063786878803533\">Syed Tanzid</a>"
+          ],
+          "photo_reference": "CmRaAAAANLpuoO_pMnhJEEhSOVBVWt58xAIqWHVyJ04lAYEXKaA5RLXo883nACdkt27zCCF6JtKbctRMCg0Fqm6P1BL7RHyqfdgp7xN_15K4oREnfV3dtUKEoVJj4ymEo7bsLf1IEhBMwcmQA4KNktK9TjRWAPG9GhS5_NW-rs2NSY8XfSo029A6AYfXMg",
+          "width": 4032
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108892272850177627067\">Moshiur Rahman</a>"
+          ],
+          "photo_reference": "CmRaAAAAyIi4A6CBibKqBbC3rN_RUxJ0cNEmT0ak22BNJBYE72omCqrXaTtzWeHd4T_NB17bPcSsFUL7J-5k_RGylHBp_VoJMPJqFmteRnRLhJWfbWO45AJisHqOjat6bzHqwISoEhC-Buv6rJ2NRrdc_N_wUPioGhRDdRMe6rpyoG-G6SWajXqfYrhd5w",
+          "width": 2560
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://ramnapark.business.site/",
+      "mood_params": [
+        0.0035504075063265378,
+        0.03274104110779152,
+        0.10216191172733606,
+        0.07606499377414629,
+        0.05443726682514947,
+        0.11954771898041903,
+        0.05143101457039147,
+        0.010382243117582525,
+        0.11485193357874293,
+        0.017595753784039842,
+        0.09114550946785827,
+        0.02545392536640229
+      ],
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "top_cats": [
+        "nature",
+        "friends",
+        "sport",
+        "beach"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        1.1597033457566004,
+        0.7850481385286121,
+        -0.29630115764731424,
+        -0.8103610723200102,
+        1.319345483091486,
+        -0.7030733080786691,
+        1.2264434026851365,
+        0.470981990690867,
+        0.08378722354756313,
+        1.0496151077455373,
+        -0.7100875036074674,
+        0.8676968281923305,
+        1.4982926361869735,
+        0.8942740465782056,
+        -1.0095768942605476,
+        -0.38484742680039397,
+        0.12864304155472728,
+        1.1740518156879283,
+        -0.6966192408611681,
+        -0.4993115239990524,
+        1.9435335972308572,
+        0.9670275821902345,
+        -0.8012180247645634,
+        0.9535194484135354,
+        -0.5569136169848592,
+        0.40202834209485905,
+        1.4333210042264755,
+        0.975219245982947,
+        1.250349751343462,
+        1.2903641134122597
+      ],
+      "global_mood_params": [
+        -0.49955978816124835,
+        -0.5328645200756217,
+        0.7071775385706056,
+        -0.7701354844489118,
+        -0.08558402786481241,
+        -0.42992012535794755,
+        -1.1708904449500395,
+        -0.766004127135247,
+        -0.0920480383616112,
+        -1.0152751703035385,
+        -0.01131882414948703,
+        -0.06528762406149534
+      ]
+    },
+    {
+      "name": "Dhaka New Market",
+      "orig_name": "Dhaka New Market",
+      "place_id": "ChIJGYvdV064VTcR6CHngkEpb9Y",
+      "cat_params": [
+        0.1635984895456371,
+        0.07404875033394913,
+        0.1499183913881541,
+        0.08069811228086302,
+        0.1997816389695139,
+        0.15690548342450017,
+        0.4849612780586301,
+        0.2079841665371066,
+        0.16418994492816394,
+        0.36797589123810887,
+        0.2553803577166635,
+        0.2594253592959934,
+        0.2763326505029281,
+        0.048195864336431415,
+        0.20633957269608202,
+        0.06407247540849037,
+        0.4518323392790458,
+        0.2531431711222063,
+        0.11644284946745767,
+        0.15389341823209218,
+        0.44783844661623207,
+        0.3093842000676201,
+        0.3373580365636894,
+        0.21936354895047852,
+        0.013690873135219715,
+        0.850592932498885,
+        0.2878082763856206,
+        0.3084830565448496,
+        0.22298335340202813,
+        0.24987969629630025
+      ],
+      "noncat_params": [],
+      "quote": "Completed in 1954, this busy market complex has a central triangular lawn & space for 440 shops.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7331937,
+        "lng": 90.3837664
+      },
+      "address": "Mirpur Rd, Dhaka 1205, Bangladesh",
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111795931243991075710\">prodip bakshi</a>"
+          ],
+          "photo_reference": "CmRaAAAAKgCEbJ3mxnTic-o_HAaUAJe284K_9OSjPMXHw-TNjNv5G1I6uit22fI4jMbX0FxqPuRpK84awKBR5zpA5MpCc5xXYi2NDbryQlWJID0OqbU3lhiA_luMp1M4I-lBvu4zEhAmi_-2b4CMnjWWXZZxo917GhQrB41OoazsUw2PjPyG858N2cOxCw",
+          "width": 4128
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100795806519223604138\">ST B</a>"
+          ],
+          "photo_reference": "CmRaAAAAnaa9maqgZibnamBuuxmeEgF5dtYe2LhSDRIqbMpybieBnWNwuJWyGD4i0llNmTbzQQ47mREDgbvIpupEgkBMWHO-m5zemeXZX2hRZ84CPQYofoQb3E_Bc8et_woaQA13EhBimkR2l0DdqGQ4w2NANLQVGhQHDzUCRmFSZdNGG0jnEwXz_hE2Pg",
+          "width": 3968
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110483601507587223083\">caleb Kim</a>"
+          ],
+          "photo_reference": "CmRaAAAAeSllpP7ZNofVPy5-dlBv4PV23_dEkWxkAFdZy-5TLYHUiyxcv0LUHQdYI1U_bMtCj-5P02zWHXwkdRUeQYbim27ZYL1gp3ccWYNQEef3DXMxN43Yo_E4lxa6a9BBXPYbEhAGcKg8nkgmIyxJ3JbWSK3qGhR1_oK3JzVLT6G23Fqxzdo_4kH3DA",
+          "width": 1280
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105006498709372539475\">#PinikiO</a>"
+          ],
+          "photo_reference": "CmRaAAAAt539P1nBd0B3RkAZglqHBqiexQZkmFIAWZ4J62zQ4nRovgNnotRTPrEvHWwCYY9CKzUeBIsWgyUi5ljyoSJKjsEo8oKdpzwbtAhtX-NfBo_IPi6GuVT2bbVmihMjatGBEhB59tJgYzPoxi_r3ZQu28GeGhT5znZZAZseADhJX1s0L_-TD0z8RQ",
+          "width": 3120
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108145504225071505863\">Tanver Ahammad bangladesh</a>"
+          ],
+          "photo_reference": "CmRaAAAAm6YHjG7As9DwefjPxOlgQKpxdfuDTx-Yi6sRW9z-ijsYcVArsseLffqSokRioCbFKr0o79lGXYqnBdxt8ToLYW3TcsDr40eprspXZjKUCp4VmaeVL7BQcwqmjh1zFkdmEhD1Rc2qk7S2GfUp1JQcfGmMGhR7rqiUJdN_5DNF755hDp7FoJo9Qg",
+          "width": 2048
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100520102071117193271\">Shovoon K</a>"
+          ],
+          "photo_reference": "CmRaAAAAy_l3omAX1mrZIez2qwA7GCxWZc1zXjBmCVjsV-OJKzgMkMQOSLC3PfvbDIb7MUBOkx1SSwrw4NxXjU0y0LTCRAPkg4lLYW1i6OEc8MSuS5oI2UPb0jFf6F68HpzJB0PqEhABynhL6MuruNdfnWyrZLERGhSzLzlxT94A_-s1lKvmJG2Dpmj9uQ",
+          "width": 4160
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105390419299484814114\">PK PNat</a>"
+          ],
+          "photo_reference": "CmRaAAAA0f4s4OvCF30BbqFW4FbBQGRnf-XMHbvtKoYAbXzyN2v0t199tO3IyKiBncjZl7GX7Lv2L6hePd9KihTnaWRJPFsZ2eexL0Elz6DkzF1FU5VF2wC6-wu4UbKjwUyBSDM2EhAW4lvIi-ClvoB1y6Y1qTAXGhSswaR_5Dqw6Tr8sNr0tF1LLxx2jw",
+          "width": 4128
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101657165759219625528\">Khaled Issa</a>"
+          ],
+          "photo_reference": "CmRaAAAAEBRehu-SSUrB4b2FQfahEPycoYGOiPDk5uDpCtZzNsTISWVwB6hGlSXX6fdqsc4kmer9QgS7-KAQ8wVRRu5FGbEJKQLS_CUgfZV9FpcMPPZdY4XmpQH7wXpriVUkg7lhEhAxqSuflrfC0VefXuLsq2qgGhRBhxVUWjL0GGUZHbx7GYla3pgk3Q",
+          "width": 4128
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110860842800549232348\">Arifur Rahman</a>"
+          ],
+          "photo_reference": "CmRaAAAAS4_AzU2T6JZSqoNVRJgfEvuDAO9Y1sHj-cKl8kKN0bwUICEEtARRozplfkJbCDI14w5I0vDYd_ZlamEBPa1f0anbi67Uer2emKcrmf9mxqJYPVz8MOYXNfI-9k4lOJKwEhBWnzg9gzbGQPq53bb7T4oaGhTwOFSI1mFpppcy1HpakpdT0_RqQw",
+          "width": 2340
+        },
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106983118068966308367\">Tazin</a>"
+          ],
+          "photo_reference": "CmRaAAAAi2GYsEUI6cdiKrsRSs6MQTW5MtwXiD7kZDWrDPzrKUA1qEd6DCxX_TxFMaNZWPkvEPRkB36qVUwqqvMZK-pM6p4kSXhZ3aGUXhSkzs-znqMCUm_wcwSovMxUb4WMI6iMEhD06mcZFb_wUM9L19-2XaamGhQUn2Ix2jVNebdkXgEw2EgVvhGKBA",
+          "width": 640
+        }
+      ],
+      "rating": 4.3,
+      "website": "",
+      "mood_params": [
+        0.0022358791610940254,
+        0.0055839369222674285,
+        0.008084240292503049,
+        0.03797227938240276,
+        0.007009977627081849,
+        0.06442002995485001,
+        0.0719996627463346,
+        0.001930815214475096,
+        0.03492399075309006,
+        0.04998688083512615,
+        0.120397581006678,
+        0.014706056827213657
+      ],
+      "popularity": 1.0,
+      "num_google_reviews": 50404,
+      "top_cats": [
+        "shopping",
+        "fashion",
+        "food",
+        "cosmopolitan"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.02889096476162451,
+        -0.45681708451477826,
+        -0.7340367307734444,
+        -1.0760403950081263,
+        -0.6481607278703375,
+        0.15710787584868693,
+        0.9223518898951251,
+        -0.03504180961838085,
+        -0.6279030138669661,
+        0.4956946622263403,
+        3.4763487642076925,
+        1.1256794088854456,
+        0.2464959497429115,
+        -1.15757871703531,
+        -0.9112029236633232,
+        -1.245047123469212,
+        -0.09393882448576832,
+        -0.4265223295407848,
+        -0.6299574162810087,
+        0.36346613989191207,
+        -0.43765423490330213,
+        0.5286241787992927,
+        0.9055435811525371,
+        0.4771425417819913,
+        -0.39922319061883205,
+        3.6793953831940036,
+        -0.022274154183968553,
+        -0.7272736151917429,
+        -0.46010955043806073,
+        -0.5490670623947134
+      ],
+      "global_mood_params": [
+        -0.5880037113911949,
+        -1.3464646411213506,
+        -0.9866558798359053,
+        -1.3573901483093513,
+        -1.1264823723035056,
+        -1.1231517519508598,
+        -0.781636945691961,
+        -1.1030109877877314,
+        -1.149389598021082,
+        0.24354691656399055,
+        0.665580044681887,
+        -0.7223357082058622
+      ]
+    },
+    {
+      "name": "Armenian Church",
+      "orig_name": "Armenian Church",
+      "place_id": "ChIJBwtnLR25VTcRWpzma-vqKV0",
+      "cat_params": [
+        0.09361376639605744,
+        0.04358702836141112,
+        0.24799649764900314,
+        0.13387675548202635,
+        0.2254500096147444,
+        0.13163366877861749,
+        0.3755910339577158,
+        0.3739156981936742,
+        0.14956479972656822,
+        0.2741353936183891,
+        0.030550847973759156,
+        0.11576465674555404,
+        0.21333997347150463,
+        0.08542199922037728,
+        0.29981346833724876,
+        0.10066842759973432,
+        0.34601066819096327,
+        0.3736242976064099,
+        0.08060045205776592,
+        0.09706448879938098,
+        0.36639205410843395,
+        0.20088627419019062,
+        0.14790009146860242,
+        0.5699691115590197,
+        0.019472515953000907,
+        0.29651739213564304,
+        0.2261786644102759,
+        0.3082876137225077,
+        0.1832158865069501,
+        0.27839710731338874
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "01822-645475",
+      "int_phone": "+880 1822-645475",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7124471,
+        "lng": 90.4022119
+      },
+      "address": "Opposite Mitford Hospital, 218 Mitford Rd, Dhaka 1100, Bangladesh",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108717645883413416040\">Manik Chowdhury</a>"
+          ],
+          "photo_reference": "CmRaAAAAYlXv76mGNg8Tr6AJBhTgDNeKGTYc__ykek3w8FbWF-i2ydL3NnIJpe-9JEBgFi6hXOBt143N7vv2GmzAkoT2Gxlrd0xOqirbWGNv4KCh7YvFU3v4uI-tZEpYfN7qQoGhEhAZTbjimGEPnvuM35cwQULQGhQGj6huy21g04vKVtr9DOnLZmXZFQ",
+          "width": 1920
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110243622448571684670\">Akibur Rahman Sikder</a>"
+          ],
+          "photo_reference": "CmRaAAAA78heb4slI8pdcdXGO3moziYBb8F5Hur2kjkLoC7pPi7YvrHWvL8tG1ASHLNgGp8V0V_HcWMnk6seynTP6dBW7ilM4qhIl6lMWw1o5p8OU1Ol0xjMQ3yqRHcDPVf-WTbMEhAQIgM0Lna8UiXrld8jbt18GhTS-FsR4mN43i5gqnAAYmjO9bfClA",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111123225664885636760\">Sharjil Islam</a>"
+          ],
+          "photo_reference": "CmRaAAAAtmB9slzKWua7xvW_kOIxfzO2PXI7SEYXap6wYhfAIMFw9Lfj0J7ltwazIhYQxWDnL6E5vb1SVIqvSPmtx25agFUlub4Ik3lBsElkPELWCC9KADvI0grfO7Iy6A3rjXu1EhDajZbN4DQwdxt3Hr8pQK3IGhSLO4DANInw_oA0N1gEAlHn3Wwu4Q",
+          "width": 3000
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101903172466575498339\">Md. Sabbir Hossain</a>"
+          ],
+          "photo_reference": "CmRaAAAAYhuvJgQNxi2w5_Zw-0FOIwd3IyJ-Etc3ajrf023ayO9PNPA17wBYnbysLDi_oIOVSRbT9hldRDuYK3RkMaHts3OJry3qPYxmu4qMwii_r88Lf2mz-4ERzMz_1NffAtByEhAjA-IY4szQm4qjbw2DJwUPGhTIIjCDqtugSo4_PenRQojSE5DUmQ",
+          "width": 4160
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101040056104158747685\">Rifat Mahmud</a>"
+          ],
+          "photo_reference": "CmRaAAAAYgNWNoiZT-qXDKewXnqkmy2XUPMXtciAhVxjYw6uTKR2hAg9bqk4fhr9Mu_KKAa3ZWulI6hiU4g6dXjX8ZXMiZJ2aOX1wdJBVRWCBTQQoaf8OlNhyqnRejn3W1PkvYt7EhCN8HvE4eS_siGH1ujBTAXYGhSlpR8cUh_XJm7Px42yKPLA7gdckw",
+          "width": 3456
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107934719637368264279\">Mohammad Shabbir Jahan</a>"
+          ],
+          "photo_reference": "CmRaAAAA0icVo3YUaYow-t2rwzS74Jzf_xa6RacvQfRnQUVscEwUxgBBpkcx6FgIw04HXdNC2O6sSWRmO_fKqxP_f9DSHvpTWU097armXRL2XFCD59RxamXFOfaQNl__nBktf9MAEhCTDfqWWjNwjTIFq7G2atvKGhSAx4iIMOM1Y_29xomZWgx62latBw",
+          "width": 4608
+        },
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109260999802656035577\">Scott Schenkelberg</a>"
+          ],
+          "photo_reference": "CmRaAAAAtgZswB_XOnY4k3N_jIWhSTHj9H1rAm-4FnUqYElcBdQfy-KjFYg4tJJTxIOEczDHneM4Ydwqe7-kF4ThCOEEenuV01xCDcn2WxYUk44jwhViKoys_iUJPdIvtrw28TVtEhD65QRjx2l0I4wqqKjuNbG0GhQMSdcmO5jgzz_Qi2dv7SKH09Mnrg",
+          "width": 3036
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102235727808935451412\">Md. Asaduzzaman</a>"
+          ],
+          "photo_reference": "CmRaAAAA7IcVAcRzSSskQJxXTNC95xPq4EGmAyZr3dNvo-vQY4oj4U2V__fxj9iY_0N5u3gGhppdS5cRV95IiFpxh9IXI6iBIeMXP_NQa1LqRoOXR5JIQHUD0eqAgjdBUxVguoc1EhDjBSVT2Pm3UQF7CEilZsvlGhTBJBaNL1yqhSelzdxHNuVfF6BrFA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102949299780418864594\">Md. Nurul Islam</a>"
+          ],
+          "photo_reference": "CmRaAAAAhLe1c0Vc0MSfgDev-pWyCcdntr9nH4L6eChdXgqWjMdWfb-_FKnQoGhHPJwgqy0eHlwnsQ03BDm8uyxSAnEZCX5enMyKxr4EVfsMCSv-kFw0f9r5s8UVfoaokrZBRnfTEhCN-ebPHHbht-Na7Yib30pbGhQOfBcAggUa81acdxTEvFIBscZOew",
+          "width": 2916
+        },
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103336242426265944002\">Amitav Barury</a>"
+          ],
+          "photo_reference": "CmRaAAAAIHWCpp6nRQHgSH-lmqw72qN4785vYtc1YU-SW2JUkYfJZRL32spSk3d4Vj31iluJ4_gyFnjY1ewMKYJKK_eTwOSt5jMYSRgXimjWk94GVYe0m7VKDXk6GF4XopVRfJufEhAAdn1e-YZhT57StF5ucHkwGhQlmUUZ6yz1pqlwvBKYmho8JVFwsw",
+          "width": 640
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://armenianchurchbangladesh.com/",
+      "mood_params": [
+        0.0,
+        0.006471395647769891,
+        0.05675885365689283,
+        0.05951151824828221,
+        0.03638748659406188,
+        0.06363723932089149,
+        0.04877315592273237,
+        0.0050992728461337995,
+        0.07602658591865456,
+        0.019604528274482367,
+        0.06286811282779033,
+        0.008924384200624347
+      ],
+      "popularity": 0.3381466606464008,
+      "num_google_reviews": 659,
+      "top_cats": [
+        "religion",
+        "culture",
+        "military",
+        "architecture"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.8202637420549777,
+        -0.8210392634672167,
+        0.2294226447806192,
+        -0.6960140657541368,
+        -0.4898293576414217,
+        -0.18003504131327386,
+        -0.24154817955490937,
+        1.8077621140030449,
+        -0.8443409373953349,
+        -0.502077467069798,
+        -1.1476037491207915,
+        -0.2386933550387963,
+        -0.4342149351263058,
+        -0.8840400297203093,
+        0.10523322218694812,
+        -0.8164394591933078,
+        -0.6681316722614827,
+        0.8336646083433688,
+        -1.0874706021661484,
+        -0.7689000229042906,
+        -0.8348689597830855,
+        -0.531320878688781,
+        -1.2305620066614076,
+        3.747743084475603,
+        -0.23275628374643914,
+        -0.4304203117649882,
+        -0.5997383193390087,
+        -0.7285432876897342,
+        -0.7001630335557635,
+        -0.3529775389247366
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.3198772508915493,
+        -0.11028760363202554,
+        -1.0253314152427104,
+        -0.4817269801123726,
+        -1.1329953574792735,
+        -1.2211893644650653,
+        -0.9766664254489699,
+        -0.6056563234989524,
+        -0.9372078127794565,
+        -0.6656635181229242,
+        -1.0757859675386037
+      ]
+    },
+    {
+      "name": "Khan Mohammad Masjid",
+      "orig_name": "Khan Mohammad Masjid",
+      "place_id": "ChIJ93zvVde4VTcRkZ725BJis7s",
+      "cat_params": [
+        0.05628265702363204,
+        0.02812701741270372,
+        0.1974529103935307,
+        0.09439879595503944,
+        0.18844198742433574,
+        0.1384197889414886,
+        0.2892472272178891,
+        0.3151602547912887,
+        0.13636405137753888,
+        0.2401635829316785,
+        0.03515695019994464,
+        0.08572141411444706,
+        0.17363410232236132,
+        0.07098170435878316,
+        0.315196998878252,
+        0.08276356061708812,
+        0.2960037242857742,
+        0.3539601986321107,
+        0.06733641029377316,
+        0.06980358061860788,
+        0.3081586404618945,
+        0.15139015295873462,
+        0.12152052127572191,
+        0.4591477358159709,
+        0.011350337247081963,
+        0.19884419985852805,
+        0.18164221947243442,
+        0.25344304734428247,
+        0.12497059860542775,
+        0.2275135110101014
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "02-8918131",
+      "int_phone": "+880 2-8918131",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7208563,
+        "lng": 90.3841413
+      },
+      "address": "Lalbagh Rd, Dhaka, Bangladesh",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116012965922458029830\">dv ddjdj</a>"
+          ],
+          "photo_reference": "CmRaAAAAdf2xV5RW7bwd7UmEuoNw8bet2wLC_b1nfecyOjE6Kv1ly6TAR1oMvEPKr8h70EwQ78Zwo9ivPgiDzSkderMZgvziBGBFufr9wgtAZr7a3oUtNvx-GX8pke5w9GvmkBU9EhDP6TsIu_CUs9xz6BJJ1B4mGhQf6OkXVOd3H7DZF1rZCYMR-Q0AVg",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118277893635142681257\">Rashid Ahmed</a>"
+          ],
+          "photo_reference": "CmRaAAAAEJ_YA_WIvcDODzb4MR7YvAgCQOask2dfJF0fc4KlmO2sNbZD2Qa-KZWGyKkJvKGkqwj8QNwtTcL-d_hjMUczGlYcbP69cVr2y71zQ_tujXZTJTYVeJfIzhhYTciTkfWQEhAlT-75JI2Qaq0rDE_R1aoDGhRdP0aQA2uCcNfq6r41cru7nR8c_w",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116123783620057239501\">Shuvo</a>"
+          ],
+          "photo_reference": "CmRaAAAA5ZGbwzISBGI4p64oF8RomvUncVaMdgYP9TLnA_hrbF-CLGdIMnPdwU-0ABur3rZq-pi2WHjTzXuLO1ZEG7WIX8ox3e-nCEFv20sKVsmp08LMioLeu59wCZOTEGZmDdTwEhCpFkaHLeMIgXt5Nt_VZfPEGhTrSj5yNL8gskI05DKDxaAH8bMORA",
+          "width": 4160
+        },
+        {
+          "height": 432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117788487953980451159\">Ershad Ahmed</a>"
+          ],
+          "photo_reference": "CmRaAAAAEHZVxw34eyiWwdTNMkeFwktl4q_Fx4CennE76NVX7VlhicwazV1xC4AzlkvuEzhoz9-J2php9Qf8Ev-zvSG1UCmhxENHfsFYrf4ICdZQiDcD5VlgBElLKhL7uq5EgjK6EhDdLM-XRz3XhbVy_GXokIo2GhR6u3NeK4jQh2HR7JyTx5CK06ECJA",
+          "width": 576
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109253292287509354138\">Shah Rezoan Rezon</a>"
+          ],
+          "photo_reference": "CmRaAAAAu84_JlnpE-r9CUNLJm5g-lY3QNqVsfWo8EM2Ae4HeFSDXP4XXdxtviVQVzGxqPU4WFOKFKwUwG2xf0ve0Eqh67yW-IKqNqzpJbNVYFyJ-PuDcxU24z1OGRgNgos-Vc_4EhBp4QBLVBUgXEzp0yalSzdzGhTC8yxqb5sBwwCzND3DKzVhjkBsJw",
+          "width": 4160
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111534954615120837048\">md rafiq</a>"
+          ],
+          "photo_reference": "CmRaAAAAwOZMG0ZrgY9rBi6xKlq2-DTAsgTuomirjqy4dBgd-wfLNIKmOCCah2wO6DXQmlFsWHU2Inha-BvsdrCh-RrUmDzJAr9Z_ZNKhuW_5RAVWjHybOcSzyPCTNl839LEPqxrEhCljjg3ffYLwBuEXrsGwuDDGhRgMUci8Ww2YfBVlbyKc1ZXxyXrDw",
+          "width": 4128
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115738842673732634958\">Kamal Ibn Saif</a>"
+          ],
+          "photo_reference": "CmRaAAAADMlxdVxRtZM66gEood3J5KQ-ro1_lPCXcMGbt9sriC5j9vZsR7xucjhQPI06LMtSzjiiw23MCzJbnMItSptk5F2NwPDRlC0hgrvJzkOGylrgUTN5JukDg2AmDYYKpKgzEhBrCRD99SB0PqbgKDPELdqCGhTGqQARmes60kYxV_JLoSWcw6Edlg",
+          "width": 4608
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116012965922458029830\">dv ddjdj</a>"
+          ],
+          "photo_reference": "CmRaAAAAe8Z55ozIPqUb0dBGlCeow-oHImQ-hbjjO4eYLZf5ELlXRer8PQT2Eie-9b_iUT8lspQGuIrXd2lqRxfSUEIkI29EedniqJ6jOU6fOCA4mgU0xBu1fnp5cDlo4uJX6Xd-EhALGmBZfgMtjQ9MAegkQh9RGhQZVnuOXAtbq2-LXcXtzIMo0SINRg",
+          "width": 3120
+        },
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110064403532456991497\">NUMAN AHMED</a>"
+          ],
+          "photo_reference": "CmRaAAAA81w7zEMhrVF-Gc4CmcvFPTbH7zuodcdz2VS7Mzmhlx_lFcRH0tQVNR5tH6fLgmKyJgmfSmib1ziUwTN2Vh-Nq1dxDGh67dWhmdTO4Tbv_Cx7BLWtxV5OhQtpn8TLXmoJEhD3jawWeI8e1gq9mrbClCA2GhSxD1qsG7qbby_S4geOi3Whhb2AIg",
+          "width": 640
+        },
+        {
+          "height": 2038,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107717406533262701411\">Aminul Joy</a>"
+          ],
+          "photo_reference": "CmRaAAAAheYNGpqYVlBpHZVOB2bNLgN_R919sNIJNfkcJ7Sn8yirK9jXdEO9rmM7cG7Kgd1Fs6hvcovIaXYdTRM8lgQKUjX4HEFNxEPQ_6yiEugytIGDOuKCZqUbm3EjvuDE3bTbEhCKzUpSpergeMhIfIOyOkg3GhR8d5wGLweRGDv1oTOz-My4uTkOLQ",
+          "width": 3117
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.islamicfoundation.gov.bd/",
+      "mood_params": [
+        0.0,
+        0.008526647643899007,
+        0.041191879112528376,
+        0.05746855684817656,
+        0.036820504867757765,
+        0.07164515138765132,
+        0.035235860858873584,
+        0.004556180803590953,
+        0.08626639293809997,
+        0.025217773619349015,
+        0.035855255248414056,
+        0.017459579740215645
+      ],
+      "popularity": 0.3624629013292763,
+      "num_google_reviews": 870,
+      "top_cats": [
+        "religion",
+        "culture",
+        "military",
+        "history"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -1.2732181270645122,
+        -1.0058902341196028,
+        -0.2670866667461128,
+        -0.9781322835643687,
+        -0.7181076127693254,
+        -0.08950365763621315,
+        -1.1604047066404568,
+        1.1552353726713762,
+        -1.0396991729752945,
+        -0.8632874642960018,
+        -1.0528724214148633,
+        -0.5240196917345142,
+        -0.8632841532983424,
+        -0.9901477229631411,
+        0.2725138986304883,
+        -1.0261392417402664,
+        -0.9394714577160199,
+        0.627985582957413,
+        -1.2567805379886046,
+        -1.3120974805926808,
+        -1.1188737961938091,
+        -1.01486163432848,
+        -1.5279871015280335,
+        2.7139532924637906,
+        -0.46661264756069915,
+        -1.1549042302106058,
+        -1.0170409790619477,
+        -1.084834896459435,
+        -1.0517565678596634,
+        -0.7028599369296371
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.2583039232861173,
+        -0.3905651796452969,
+        -1.0568266402340525,
+        -0.47222342189045097,
+        -1.0322957271160609,
+        -1.4773772981115374,
+        -0.9983226173257786,
+        -0.4701971443709555,
+        -0.7190592683345512,
+        -1.2907465217357539,
+        -0.5540049412227233
+      ]
+    },
+    {
+      "name": "National Parliament House",
+      "orig_name": "National Parliament House",
+      "place_id": "ChIJGWyY0au4VTcRRIiNkfZt4BQ",
+      "cat_params": [
+        0.0892189319338337,
+        0.050920965361612704,
+        0.4365909215451881,
+        0.1976419069002485,
+        0.2789761280781623,
+        0.07097317527799181,
+        0.413679855836286,
+        0.2712812779311099,
+        0.19239971131130668,
+        0.24359236572907403,
+        0.05488982703883747,
+        0.09756215435243677,
+        0.2025092955467274,
+        0.09867069628767906,
+        0.1837047880193063,
+        0.09771714914434868,
+        0.35917708103250984,
+        0.3661066398712104,
+        0.08995564554065767,
+        0.09141122065680292,
+        0.55625766516954,
+        0.17011515855171955,
+        0.18022096103085553,
+        0.17713078111077504,
+        0.009828206638450368,
+        0.24284748135206624,
+        0.27751274364742484,
+        0.2985152640026629,
+        0.17655359729396308,
+        0.32755824830732017
+      ],
+      "noncat_params": [],
+      "quote": "A lake surrounds this huge, 20th-century legislative complex with unique modern architecture.",
+      "phone": "02-9111999",
+      "int_phone": "+880 2-9111999",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7623961,
+        "lng": 90.37857699999999
+      },
+      "address": "Dhaka 1207, Bangladesh",
+      "photos": [
+        {
+          "height": 430,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106919033022730898680\">Neloy Das</a>"
+          ],
+          "photo_reference": "CmRaAAAA830UYMx3uwJ8aVXQ0qp3ufqFU6GwVu7lGacqecVdK-mr2OP76OvlNdgxd8rP8FWCEjjYalWN-SAUYXhp7tfyGUug1L7Dvk6ujAs8xpMxWsVvHjwdFHi9bWGhFyASIa0-EhCJEpfosGfzb9h3ArDrRu5yGhS2GplqaimF8e6J-mtdBZCWtz7aGA",
+          "width": 750
+        },
+        {
+          "height": 793,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116890863494350925040\">Soad mahmud MD</a>"
+          ],
+          "photo_reference": "CmRaAAAAXUIem1M_dd5LdI-QvaR4cvaqIR86QgFMeu0Dv_Ns9S4U597urEoygfBX3RjDNxEx15FKcF_1s6f5_pmLEVYyXgsPDAIJYtxBp8yFQMHrNBT8Nw4PuLnyo5bIAOUC004bEhC4XVlKfYqiDXSpApbrgqyzGhSKJ9xq5EZiMSGystFtaVV8Lz6R2w",
+          "width": 1280
+        },
+        {
+          "height": 731,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106145349796291937052\">S A S</a>"
+          ],
+          "photo_reference": "CmRaAAAA-Ticbxse2ewXlIjz3foHkegMi0O1YDPsP4spuQoTpwPVSIUI8yttlS01MwY0PrL7dyO4dHm-sdSDb1aFrIeKQzXnWTFEJAnkc8nf2HQYPj3e3_iFUt5xtkKJfMTcYzFEEhBBnKAIwFFkxk0v53s-X0xjGhQs5UlIPRL5Y6H7LSYRPhHPuhHcSA",
+          "width": 720
+        },
+        {
+          "height": 6936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103540758206083077837\">ridoy mix</a>"
+          ],
+          "photo_reference": "CmRaAAAAsRK1ttAM80FwjXIsKSrUN1WJsdSkrHAPdhbAUBcTjD2HYkM0k9Yg_aheaIih4ulIhCg2S3oQdnxB1e_H4yjv1gdwaveMJd_AZCieqetklo5nduaT8tMqDfDMD6R32JPGEhDQ77Uo9L5fYEp5VeZLQiXfGhQV_d6eiB8rzbDdC5ckDK_ctyM3Hg",
+          "width": 9248
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100143308631311095209\">Milon Hasan</a>"
+          ],
+          "photo_reference": "CmRZAAAA5xMKY19xSnx5mfbMfPNDRxbZm84VvfnskywtVyLPCFAis2f2wY8NIzdkABsn3RLtL-v5U4zwbDJOuXuzMYeXWZ421PIPW2aC5RUeGrqoqfHKhgfrwrOy7IIn0TIssJ9oEhAaorMo5bPP8LTMkHx7AAnpGhR4IzI8yBLiAoEBgfDxrD5KXob56w",
+          "width": 1080
+        },
+        {
+          "height": 769,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111242204802468534691\">SS Brothers</a>"
+          ],
+          "photo_reference": "CmRZAAAAvHmKOsO4fX0YETgJmy06sjoRHgU9IHsOuEos7q1sXIvA-eKPlj_j1mDdxfD9ablKGh89Iah4DLbP9q0PbXcMNvUibKxVbd8Ozw9kR7clkPYbQt4yw84kkzHCTO8TZpfyEhBqfX8trKcvC4gAl4LUbVZJGhSSPf-CSdLApLccrE1xPEE5JjQEaQ",
+          "width": 1027
+        },
+        {
+          "height": 543,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112325250710961679561\">Hossain Sazzad</a>"
+          ],
+          "photo_reference": "CmRaAAAAxCLvnQUTqDur25KxngfRQM83OeI3W5CBa6kPe16ul5YsX3QK44XRFIhVlUTexmlNmsxRXXY5M7Ww_O3X4w1fwO-aWV7-wSDi77Ldg5Iu-uSyrSdWjKkIoFUvmliYLt4WEhBmGw6m9LyG6Q_25X9ZJGprGhT2UXLUTyV8ltEYChLY2IySYiV3qQ",
+          "width": 947
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117382937441713297633\">Rezwan Mahmud</a>"
+          ],
+          "photo_reference": "CmRaAAAA9k9uz1MIPbZY3MQYLgl5hzQTLSQLmgjEvrs_dkL_wnm8xnpAaVIoWEDOcRmx93CciIlHxAw1XN1_65I2QK4qmO-205tgO0ct7_g_SkVjR0qsu-MfxpybKPW2wDaQuorMEhCB95XP1SuKACVfeU0JYTbDGhSOB57dvnMcVsN_lX8Qf130cMDmRA",
+          "width": 4032
+        },
+        {
+          "height": 407,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104955130599175616719\">Md Ali Akbar</a>"
+          ],
+          "photo_reference": "CmRaAAAAAmU-tX5uogfOjp4w886Hmlcd6zwnIAML7N-YPeUu3GNd0D0DmCi1DNMLEYSueinKs-Qcp6MkmLYHlCJzPTtY6Wcrd9hCnhGVV-28dg1bQ2eVXonYWDjI8wl3NCJtz0d3EhBpLNZrlQZGnOfncth_R-iqGhRuqCQhB0A-BhWIpXi-HYJTUQwPcw",
+          "width": 612
+        },
+        {
+          "height": 1601,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110552499960254018118\">Muhammad Aslam</a>"
+          ],
+          "photo_reference": "CmRaAAAA1uwvySs5ZztEai-y4lG-U-VkHz1QG05JTRza1KTTnNUtGFFXUEYj-fm3rs68XSQEMowbIpxbV6mg4J704sBkr-PxbvVF25ypTASgvk1NFwIWWBNGue6ZmxdnxqyFKlW1EhDsvmfWcji2zom_SeipBoNFGhS62SXOn7bCp0fJB1L0c2T22a-UDg",
+          "width": 2210
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.parliament.gov.bd/",
+      "mood_params": [
+        0.0002898220726797152,
+        0.008733847456164753,
+        0.05139013242826802,
+        0.07382430819907275,
+        0.05527702819441716,
+        0.09311233658235658,
+        0.04768874006436454,
+        0.005643245656849264,
+        0.1081369770823535,
+        0.01484438750499819,
+        0.04650897274128027,
+        0.01594065030361272
+      ],
+      "popularity": 0.478845287546458,
+      "num_google_reviews": 2650,
+      "top_cats": [
+        "architecture",
+        "military",
+        "culture",
+        "cosmopolitan"
+      ],
+      "duration": 1.375,
+      "global_cat_params": [
+        -0.8735881563175139,
+        -0.7333494566689842,
+        2.0820590058124924,
+        -0.24033421066408298,
+        -0.1596617830617335,
+        -0.9892866135432501,
+        0.1637867704963475,
+        0.6679238296803204,
+        -0.21042591021936466,
+        -0.826830454801922,
+        -0.6470365257678078,
+        -0.411565950393921,
+        -0.5512533069076934,
+        -0.7866882306221243,
+        -1.157333815515019,
+        -0.8510044995775636,
+        -0.5966901612104466,
+        0.755032756551841,
+        -0.9680554769442969,
+        -0.8815463390987383,
+        0.09110718402891123,
+        -0.8319320808903554,
+        -0.86614978821217,
+        0.08317699146866447,
+        -0.5104383182672018,
+        -0.8285130367042425,
+        -0.11874241070758679,
+        -0.7920282677537942,
+        -0.74037946814373,
+        -0.01493897346857415
+      ],
+      "global_mood_params": [
+        -0.7189380684577705,
+        -1.252096420778176,
+        -0.20694942882879733,
+        -0.8046789155280043,
+        -0.06715357919750954,
+        -0.7623455083794394,
+        -1.2417115039809878,
+        -0.9549751122979552,
+        -0.18087808107177036,
+        -1.1222020035581413,
+        -1.0442173379752135,
+        -0.6468614618092484
+      ]
+    },
+    {
+      "name": "Baitul Mukarram National Mosque, Dhaka.",
+      "orig_name": "Baitul Mukarram National Mosque, Dhaka.",
+      "place_id": "ChIJK7_T1ve4VTcRat-OkxrPYVw",
+      "cat_params": [
+        0.08016141143406634,
+        0.045407181306127344,
+        0.19626742913298775,
+        0.12476684924632772,
+        0.24904743904447185,
+        0.09671416963600854,
+        0.47316630434985546,
+        0.283358981041545,
+        0.14554798259287216,
+        0.30631502710856995,
+        0.09279974228193036,
+        0.13567840023580477,
+        0.26540707877597725,
+        0.09268027912598904,
+        0.17937702639499617,
+        0.12165486567552147,
+        0.41648210830850313,
+        0.2947076839579495,
+        0.09146703282905563,
+        0.11830125399631691,
+        0.5140217631232441,
+        0.18877527819797446,
+        0.17316546402382826,
+        0.69934242934129,
+        0.0038082755620569416,
+        0.3582478208598828,
+        0.35866832119753506,
+        0.3360265527623106,
+        0.20854302596799015,
+        0.36112207956667697
+      ],
+      "noncat_params": [],
+      "quote": "Sprawling mosque complex with spacious interior courtyards, a soaring minaret & geometric archways.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 23.7293687,
+        "lng": 90.41269940000001
+      },
+      "address": "Topkhana Road, Dhaka 1000, Bangladesh",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111799800765562495014\">Abhishek Kumar</a>"
+          ],
+          "photo_reference": "CmRaAAAAuSVDb7DQybpCimEr4L6Zb_kmbYuni6fK8zbdYiAgb2mQ775QPuLKQIbBAeRV-n46J3c4bWfuf7aQZ-ONxs-KTmajTLaE-TbqAbT3R0zuQQ45-4InH7EV41uy6Yk1RY4UEhD1lfzKM-JRS3SRIOyezKZ7GhR3vefTIKm_5LgOm2qK57h5oFtAOA",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102485885684341393750\">Akibur Rahman</a>"
+          ],
+          "photo_reference": "CmRaAAAA9Ctirc0c8PoNqpzskBNj7fTOoGXEYaNlF7vSs7Qn-V81nEP6rBAy_vfqKGxii-uO94rt0WOxPpxYdc4YOX5wwUQvaIa5rc7tYo9sSrzJqGrSxsbS8m0reMqu1dtvsEwBEhAWF6E9Lib-8ZnQwEZqmErVGhRKB2akaeDp9G7tMjezHEOM027WTg",
+          "width": 4000
+        },
+        {
+          "height": 936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116966114751062781580\">Labib</a>"
+          ],
+          "photo_reference": "CmRaAAAAtd-PZQimUOry-9lU-IYoahliwbdzK6tAkhJ9xer_48y84eE1uu7lbgQQeNZjrm5p9Or2Asm5V_xouZ3LEZYO3b_yJE5VfeypLRzsQwjpzBnnA5OdcGyo6tf-f2IuZDqsEhD1wTFXs212T8vvludaUjpgGhSUMx248FKlwmPTWgCiEKI1dPlRgg",
+          "width": 1080
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104346859053301463876\">MD. RUHUL AMIN</a>"
+          ],
+          "photo_reference": "CmRaAAAAUFlJK6y7_t4dc6iUIGsA5675_TV2-HyAepdzx_g6WfSkw_O6cogFSJIH7lTV1SggR8DbX9VlhF9yMYaB5fFL8876Ei2nAApZ-6oKJSSEzp7RN94iAhZIZt4E_CM0aZajEhCCpAaR3pJqm0tpDtDSUiOEGhRJo2qzaiaLsonJG7doWB9PZ5a6MA",
+          "width": 4608
+        },
+        {
+          "height": 3192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111737615098458280302\">Monotosh roy</a>"
+          ],
+          "photo_reference": "CmRaAAAAk8cQzqUhSopMNFdXINCTD35NX6TOHtfiEh66AzaXIKNy_ZdOKt3ok1BxYAGLUQPqXqEtPrBVjKGTq2E3g6QqjsdfNUqxGa98GvWuexjusuQWIIgO5aabGuRBoGACl-gLEhDt-MP12TDcePm8pNcACzLGGhRuZf8C-B8oqnVi0YFSHg4UIz64Iw",
+          "width": 5013
+        },
+        {
+          "height": 1002,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100090980639976757277\">Md.Razib Ullaha Chowdhury</a>"
+          ],
+          "photo_reference": "CmRaAAAALSGwS_FtDBxRIGj80PiCYkkWtaOnzQ82fsm2N351H4qOuY6ZqFWNmEP3CpOefIC1m_gv5dZiCG6_RLOZHcTYOxppNVL4YwP8_QSP914frA-7N9cYUfP_iZBowaiYEbHFEhDMD1W4l2-0vyBHS1kjU3PlGhSCqYPTg30bEa9qemnaMSUF2e6ijQ",
+          "width": 1350
+        },
+        {
+          "height": 2826,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103890831413087144355\">Syed Mehedy Hasan</a>"
+          ],
+          "photo_reference": "CmRaAAAAmoAqlgX4zl9SyImMtfH-xrdq8qtccQr4AP2ClgteAMni9e7SRTxkZyEEk-xCpUrWRNFzCbj36uXs_QMTEnfhwNs9eOg2fMG6-Kk3nImnpeGxPNTwa5js08R_C7HU_u-XEhDuxCU0Zd6QnisFw4sf_svEGhT0GB0QZnIYcgM60pe7Sc43XouLAQ",
+          "width": 3768
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106673079000523364241\">Ar Sujan</a>"
+          ],
+          "photo_reference": "CmRaAAAALxE9HDivSlfl3o80kMLmnXA_bbRRbxM2N7mRN4AU7u9JBsYWsietLYu5L1_bE1zoA3yXmmI4n77is_T13rngg1qtQr_OE4BfUbaoR1Ez5jYBSSgtIYcOhGaQlIoTUPueEhCg2sZyDoYuFEkHMr_N52rnGhRLi6GihQ7nm2j2Qmmh-wXI7e7qPg",
+          "width": 960
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116915901386065710007\">Jewel Rana</a>"
+          ],
+          "photo_reference": "CmRaAAAAiWHojD6ipE1MI6W8gVqzO3L8nWikgUfMPMKXs92SmpvPziFTOQ6h2RrF8nDDF6HOBLQsVsc-HG1rqqqsSozidKjC_xCCOmuznOgoL_vsT2Xycv09xebFCfma6LGMZSC9EhBYJmq1WbioRpUYwrh-hPtQGhTy3vIKr0_mgy067AHFF9OtJTzDsw",
+          "width": 4000
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106906643854006761118\">JABER MAHMUD ALVI</a>"
+          ],
+          "photo_reference": "CmRaAAAAa2b1iahs79ZftERiWpnUvs7OElcSvokDeswOZcB8CkPO_voFC6yExo3SfFl9qgae48oG3mLJzhg7KfVabfJyvkO_lriy2GRPksPYx51wm0beETJvXYOk77m1KMUoCp7-EhCAsDOJCl--HMveMD4rhzzjGhRQMbOJYta3YN9tHnUyWzOo3ds-BA",
+          "width": 2560
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.islamicfoundation.gov.bd/",
+      "mood_params": [
+        0.0013513750358159443,
+        0.008967968462993133,
+        0.08549529584270123,
+        0.0826894088182322,
+        0.057663490008325005,
+        0.12339871349159505,
+        0.05539685382410481,
+        0.004751108784437945,
+        0.11951559216188136,
+        0.01649884182376515,
+        0.06572988042244822,
+        0.03435824948366523
+      ],
+      "popularity": 0.8035559067967987,
+      "num_google_reviews": 21015,
+      "top_cats": [
+        "religion",
+        "culture",
+        "cosmopolitan",
+        "sport"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.9834869430573956,
+        -0.7992762104084008,
+        -0.2787321101438069,
+        -0.7611154677117717,
+        -0.34427226766761293,
+        -0.6458845250855766,
+        0.7968317282491718,
+        0.8020564954735223,
+        -0.9037859239323227,
+        -0.1599230428937709,
+        0.1326371392631744,
+        -0.04956878051339722,
+        0.12843213743271478,
+        -0.8307059846002471,
+        -1.204393941932123,
+        -0.5706486635848749,
+        -0.28575066776699837,
+        0.008226727706694338,
+        -0.94876325144059,
+        -0.3457388872588921,
+        -0.11487765697878122,
+        -0.6496364155010642,
+        -0.9456992975977562,
+        4.954593427067566,
+        -0.6837660967993231,
+        0.027460728537037085,
+        0.6416783729961609,
+        -0.5483403638868776,
+        -0.5472775590780572,
+        0.2158504089732662
+      ],
+      "global_mood_params": [
+        -0.6475148016133145,
+        -1.2450823857693754,
+        0.407101329980618,
+        -0.6680104799144515,
+        -0.014777316645610493,
+        -0.381493803918195,
+        -1.0958385118430072,
+        -0.9905497217119595,
+        -0.03035396910762017,
+        -1.0579046533951628,
+        -0.5994416355081666,
+        0.47905929277284137
+      ]
+    },
+    {
+      "name": "Bangabandhu Sheikh Mujibur Rahman Novo Theatre",
+      "orig_name": "Bangabandhu Sheikh Mujibur Rahman Novo Theatre",
+      "place_id": "ChIJX70hlljHVTcRX3L6Fn8rEl0",
+      "cat_params": [
+        0.22268602824322598,
+        0.06383167053176173,
+        0.18345878940837873,
+        0.12897368637400486,
+        0.22344135414256147,
+        0.15615673451241918,
+        0.39009440611551455,
+        0.22899065937458274,
+        0.1431572773496206,
+        0.3525922299516975,
+        0.05160087622100108,
+        0.19192930666802457,
+        0.28358000889049273,
+        0.0744279183593446,
+        0.1891007471478057,
+        0.1319614547206681,
+        0.5133565856262765,
+        0.2430334992696908,
+        0.22142197086744897,
+        0.25525402117701534,
+        0.38481285952622063,
+        0.2796445399261185,
+        0.21141555632275275,
+        0.19212978685552656,
+        0.08565362984756535,
+        0.31615977536184603,
+        0.31085418688692656,
+        0.416919590437577,
+        0.22447451124285628,
+        0.2440076430295293
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1830"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7637431,
+        "lng": 90.3873522
+      },
+      "address": "Bijoy Sarani, Dhaka 1205, Bangladesh",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116833700090379252515\">Yasin Ahmed</a>"
+          ],
+          "photo_reference": "CmRaAAAAb6W8oF_iIGvFvIOER_kJFWzfb7tXfT0bW8i3v3geNaa6z50xiZbQaz4xykFxR0-uKr6jxdRmlRLmcPj_KKUrOXvFsyKV3VFFHibpxQ6pe-Z_tc0JxgYo6Piq0vms_pjvEhCQq2GCnDe7f85sFASDPj9RGhR97ngQBk8QJSIlBn3ylKlZdxiRrQ",
+          "width": 4000
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115676249729186162256\">UTPAL CHANDRA DAS</a>"
+          ],
+          "photo_reference": "CmRaAAAAMBLIQqpNe7psrWBFSeo6qXwILUy9-0IzG7tU0EUsnjfPNscTn_3CUiYubt3nLWJ8gDi3B3ZQCcx_-paLJUmaS0iWL2XrKVCTADwdbPJ8ZcDfDFMA6C6F8i69E1Zit-mnEhB71nOWhNVk5zkR1371DLHEGhQgRDcwKlKQy2uaRUPnon8Zyd90zQ",
+          "width": 1280
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117509872123081775843\">Lemon Hossain</a>"
+          ],
+          "photo_reference": "CmRaAAAA1Ww_aw6CLw_sp32BQYRrLv2wLKCO4o-gPyZQU-JeHv7tUtFIy39Qfa_1ovc8lUumd5nK_EDkkm8GBQljDbI9leAaDn2xOBOyVhYZd5oP1byVK9TTKNdTSgGSddKOzcZwEhAio8bO_LtfVAgZjWx0ms8_GhQxtKS3rfwxRnE9qHE9Ks7FJrP9CQ",
+          "width": 4032
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101580325226956209359\">Shahriar Jahangir</a>"
+          ],
+          "photo_reference": "CmRaAAAAaWpAWEDU1exUK2xGdqh32XwE0TSUtVfFC5HjuWkI8graHiarZ9YQg2JpT8Ag79GRIqq-B1G-ZYIqTQoGJo7pWekB7US-jMgJ6Fh_J3QluGQrX-MW6zdAWdfJiKdBSeUIEhDYywCOyqvH9j1_byPFZ4xQGhSm_9LI8k14hGJU2p6sJaLgWiLetg",
+          "width": 3062
+        },
+        {
+          "height": 2584,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100887442434472044129\">Md Shafiul Bashar</a>"
+          ],
+          "photo_reference": "CmRaAAAAb7y7FTBbqzXrgjCZASFs15UJTvfiinFC4F2ukn1IhMOAxsxDNw_77lPI0u6lNABW3iRgB3k3RUrQmxpMarM70UCf85yC77lSqH8n4jbaw1TinNBQ6rZ9wHHGxOP2Mjt5EhDcti7pwmgnCmWcCMvWbESCGhQ514Ma5D3_EtVtLbdE1dWC1G2P8A",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115984001715232915969\">Kamrul Hasan Noor</a>"
+          ],
+          "photo_reference": "CmRaAAAALBRTwuGlRVlYT6CjNrlpqBQmnreC_A88yBPSL7xvk4E59iZ_q_CmscdzPE8FxEBGJBl9KjUFNAPdiGcbbs_QQ4d3hsXa2JXwRQxhRZo5vxxQ0RiDmJGqoymQ3Iz32Et1EhBVH5dej4MGmqVRc-wbbYzKGhRK_qzeToSX3kopCdUujhjaEzSknQ",
+          "width": 4160
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106260988024010359271\">monon da</a>"
+          ],
+          "photo_reference": "CmRaAAAAM4kwYlPZEh3LuQTa0Wmb6v7cuY1HM0_AFOGhudpbZk_cvSyH_djX1Aiy_RjF8ZgH07rBT4SflmBHcNTEoEzOBcNyPo74ilSA1mUGmL6ryq98vG2Yhofw3CBBvx8eTUtvEhBXMw2J1XkD1hanFkp3DpJ2GhS2TnKkvTItp4EYvUwiZD98sej69w",
+          "width": 4000
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108882734938623055470\">Sazzad Hossain Sharkar</a>"
+          ],
+          "photo_reference": "CmRaAAAAL2-J-RWp0-lPEbd-35fPDTDJOzXQLDedXFUCdTRND4JCIpD32ZProXrzwf-7bqPcsc4UQ2g33zVoaDYjN-bQvoZjlulypU3SFU2nuo5BXnpZezQ3Ql3t4MbF3XKyifP1EhB9mxbPisj1eySj4hc0iXYOGhQJupCQyFH-mXImNGuLl0-ECA82Cg",
+          "width": 4160
+        },
+        {
+          "height": 2191,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100887442434472044129\">Md Shafiul Bashar</a>"
+          ],
+          "photo_reference": "CmRaAAAAs6Tq7OcQ05lT3EU3xHlkJ5kC_b5Om9SyC7YkBPStI49SLZuAzUgY32icg9ZaTVHQhzgaZX4zYQun0x1fOefdVm3HjuBTCnY7iTH4fYHfnt8VaArY1vwtXHeo3_CCTq3FEhBh-zbPWUKKHh-xn7VZlWLrGhSjtvhCr4PJaM912gqpIvObwRIMAA",
+          "width": 3264
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109245226261651186692\">ABUL HASAN, SFMM KPJ Dhaka, 98</a>"
+          ],
+          "photo_reference": "CmRaAAAA1-rNP9q74sWn6WMXucKuedxGmbczvupsB9q0DcB4CLbr-HaZ3iKvNFzIqb1E8zXPYvsV3mmDgXbwrHC6qmIrwlc5JMXCwfVPUgTlcdbWp7AAgKbmGh-bcmbHqXi3xZfHEhAGpHzXUE753QYvae6KXbnAGhS0a3bt8zzlpH6V9gwzgS1g6QgSkg",
+          "width": 4618
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.novotheatre.gov.bd/",
+      "mood_params": [
+        0.009746246622585556,
+        0.047737795343035495,
+        0.027477517610288972,
+        0.08046831207072948,
+        0.029401283559230964,
+        0.12669136452109006,
+        0.0796612559682902,
+        0.023837884498457754,
+        0.09769177827490051,
+        0.054896762235526385,
+        0.09504109433242863,
+        0.01852495289016032
+      ],
+      "popularity": 0.39619970536346233,
+      "num_google_reviews": 1242,
+      "top_cats": [
+        "movies",
+        "science",
+        "amusement",
+        "music"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.7458254519071532,
+        -0.5789798129199051,
+        -0.4045563588089233,
+        -0.7310524804829894,
+        -0.5022194379322261,
+        0.14711906436134264,
+        -0.08720568904948195,
+        0.19825229088174076,
+        -0.9391660361626815,
+        0.33212574616714285,
+        -0.7146786801172917,
+        0.4846566779429656,
+        0.3248122870292677,
+        -0.9648248454509046,
+        -1.0986580979564793,
+        -0.4499390552050484,
+        0.23989432948102282,
+        -0.5322656669962614,
+        0.7100570848177873,
+        2.3831648771583818,
+        -0.7450305405383094,
+        0.23808953932636248,
+        -0.514436117512465,
+        0.22309421344218103,
+        1.6727514881130552,
+        -0.2847243389441606,
+        0.19366404567356788,
+        -0.02282776647063475,
+        -0.4511082822779966,
+        -0.5894440842141715
+      ],
+      "global_mood_params": [
+        -0.08269215565189734,
+        -0.08357651875803647,
+        -0.6374871481667221,
+        -0.7022519206908258,
+        -0.635054891022456,
+        -0.34008866125166737,
+        -0.6366443362590152,
+        -0.22945059892410052,
+        -0.3190543234169063,
+        0.43436050390770736,
+        0.07882579978816857,
+        -0.48887561957930437
+      ]
+    },
+    {
+      "name": "Baldha Garden",
+      "orig_name": "Baldha Garden",
+      "place_id": "ChIJ89JPHFO4VTcRseu2Ji5tPDo",
+      "cat_params": [
+        0.08606146796384824,
+        0.08361339473511109,
+        0.25282944972255955,
+        0.21604992163132225,
+        0.41256610192585236,
+        0.12232451887399803,
+        0.462350069120755,
+        0.35179229810511187,
+        0.12291437745642983,
+        0.43106210703171377,
+        0.04953623569041948,
+        0.3219332915099765,
+        0.33833552898073893,
+        0.14157352045866853,
+        0.23674323183602905,
+        0.11735009321481109,
+        0.5247207711131778,
+        0.37002319577579185,
+        0.08360003408611853,
+        0.10903321242012137,
+        0.907728963214176,
+        0.26970985933477964,
+        0.20035003364052412,
+        0.2529020427698424,
+        0.022671192243159558,
+        0.4048711755858773,
+        0.308265771442648,
+        0.4564969492373551,
+        0.39941041712892156,
+        0.32372686169606296
+      ],
+      "noncat_params": [],
+      "quote": "Tranquil, spacious botanical gardens, founded in 1909, featuring plants from around the world.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1015"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7169973,
+        "lng": 90.4193131
+      },
+      "address": "Narinda Rd, Dhaka 1100, Bangladesh",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114977145097385673313\">Amir Khosru</a>"
+          ],
+          "photo_reference": "CmRaAAAAXNQTbr45nV73aCekRTFFU17NNAwolEWALErKDat5bYOKZpDN5gcotcsFIk4XoM2l9h7WVV7dRgvgRzDN10f5Kj3RXGZ3yx7VeTFQe0aTiDnkgA-lr6hXKZPmxOWo5L7nEhBdKuofoYOQ14pyUjF1959wGhSCj3om4s9TbQNFz75GjFFVVa4XQg",
+          "width": 5472
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106420004676885386380\">Shifat Haider Al-Amin</a>"
+          ],
+          "photo_reference": "CmRaAAAA27BAeH4vuPQ0EuRRAA8ZBUyRHyNdqyiV_joEMifK8xlNIQ5kF5DkkmJhbI1lSkxorzassRR1Fw0B8Flm6YZROlP6nKtGMqhtCdlV8GBc_dIz-0DFDzdUGcPlhMCUYM4aEhA6hLw5jQMycdLRp3MH4vFIGhRo6NkNiLJiU7iaWgcuEAHKl9I7rQ",
+          "width": 4160
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114977145097385673313\">Amir Khosru</a>"
+          ],
+          "photo_reference": "CmRaAAAAEmlcFHEl30lYFIzMTXibzPzS_BLFn2sy_-j9gbbAVkrATWI9FW4pFS1rLEClvMGwVwWNlGz8ktGtjWnVlOYj0uJ6lLLk5Q-5e18EaGtU5J6LUP0-KRNRd__SComeAqbbEhBzIwTeOjJPUmR_JO7sKpogGhRY2M7nResKK3fVWY1k7HpDtinSEQ",
+          "width": 5472
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102792865224037118031\">Jubair Bin Haider Navil</a>"
+          ],
+          "photo_reference": "CmRaAAAAUxi6VruQdpB-i-aX-5G7FDiM3MKM5znub389wnz4Pa28kMHsoYj6kRweEk9pMky6AZE9bD0TywjDgPupBPHfYGzQfDYFuFICoP2BpochSibWTqHF-H_BeyEwaFT04PzhEhAoT5ph0TaYr1oracV9FSkmGhT0EJo9YdGAdOQ47NXzCwYHXkYlFQ",
+          "width": 1280
+        },
+        {
+          "height": 2855,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106968815840808110909\">BD Luxury</a>"
+          ],
+          "photo_reference": "CmRaAAAAVfFdrON0BWI6UUKIlf66B-fv1KYPmmSO7o-tf_P1PJSwW2jXXaGlAleGtaA9TP56keSg-dIM9DMloVjHXX_D2w5YuSjya-bTKnMX3MpVKIQ_r99zeKh-bFkKIK9PIRwfEhDQt3uQng0whHp7KF-RDZCSGhRbsLUS8e1JqInVvXoQEmqbeTi8PA",
+          "width": 3807
+        },
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109693661545550218239\">Tanmoy Kairy</a>"
+          ],
+          "photo_reference": "CmRaAAAAhBd9boT-eACYrEx_dth0C37NRukZoXw_sKTzXxxn47oQmOfqJIQWHrKFV7x-IB9WxttcFz1a0Vr8jSnJ4Udq-ZwQTbgdf9BGIhLBejrKG5On3uid2cyzYdM28-wooPK0EhDyLjUjU27V7SDq5s9Zm-LiGhTlglqEabFiNq-pSwKNj4yhPK_adQ",
+          "width": 4288
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106336695698706918410\">Naim Hasan</a>"
+          ],
+          "photo_reference": "CmRaAAAAjO_oi5si7pmxBJtkSSk7wbD-pnQtbALpqIqvJT2RaRUEPB-14E1MieNXJM-hSXvzH_DMGrtlu5qxJGFYQMkxUBIBcaBhAYmkcyUPDdIwJuyl9m1Ky5jUQuryHll561XYEhA6Z7K860tshpOtjJZisc7CGhRGvC8BFywjCiV8S_NFFtzPJEEoFw",
+          "width": 4096
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102792865224037118031\">Jubair Bin Haider Navil</a>"
+          ],
+          "photo_reference": "CmRaAAAAnbzKOWgKzS3g7T2kLtnLZPPIGDmezoNkKhFIHXqA400yblcUcF5tvwlqfK9U6YIqcYBAuhnUaMZmao4SPittucJguzqaTyzvjahu1TJb-qjj1A_JuMnkr9TnSoMcyqGTEhCWqWy4dDiJUuDg2iDpiSf_GhSJlGzjXPYHSCvLVL8s7aJNmA2mKg",
+          "width": 1280
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114977145097385673313\">Amir Khosru</a>"
+          ],
+          "photo_reference": "CmRaAAAAPc7PB6iYMydKLjvof1DVnDH51i50MNtjiQ8AVPPiue8cYqOlOFFqqe9ou4cyLC-MxoJMeKzckB4CniqEzd7E3FxMQ0SJ7xlV2H4yA4dITVxPJuuG4jJAR0ZypdLLhTZJEhBjYLHyACDUF7IcAn5nK3qIGhRLIQ8p6e2pYg3CGEyDFymBamIU9Q",
+          "width": 5472
+        },
+        {
+          "height": 2208,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112671717144781976011\">Syeda Ema</a>"
+          ],
+          "photo_reference": "CmRaAAAArUi0QdvTmOXDHs_zoJRjdADb5nQrx4mrl9BgTRDxm6F3FCIIbgPH6P3Toc3sxrsU1PTATEPLBhqGfnxohVwOzm6I7FwgJ5IqD61jB1GE_QOTI9j6tQdNxgYwxLzjKMhPEhDusGHEikQuOqDAHQNNDZmhGhQj2FhKj0iIgrCKm7ehFCtPRHsc6g",
+          "width": 3920
+        }
+      ],
+      "rating": 3.8,
+      "website": "",
+      "mood_params": [
+        0.000545879926679754,
+        0.009995751972669395,
+        0.04141923019320252,
+        0.05370204493720604,
+        0.03183260346003249,
+        0.0717820897073453,
+        0.04785278545240473,
+        0.003758640046956919,
+        0.1369013250455204,
+        0.03582639482440836,
+        0.08905927671257306,
+        0.02000603565319004
+      ],
+      "popularity": 0.38125991895739736,
+      "num_google_reviews": 1065,
+      "top_cats": [
+        "nature",
+        "food",
+        "culture",
+        "family"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.9118990229045898,
+        -0.3424553413461861,
+        0.27689861229662444,
+        -0.10878647183515604,
+        0.664367287598425,
+        -0.3042253299458601,
+        0.6817271398135617,
+        1.5620638547268633,
+        -1.238741264899338,
+        1.1664676169553587,
+        -0.7571410765412289,
+        1.7193290202817002,
+        0.9165108826217756,
+        -0.47143707058563533,
+        -0.5805932074000053,
+        -0.6210656730940787,
+        0.30155687894070693,
+        0.7959984474984119,
+        -1.0491821943225277,
+        -0.5304127282239712,
+        1.8052355899318915,
+        0.14103500574561623,
+        -0.6391979733519089,
+        0.790004138359711,
+        -0.14065897422894844,
+        0.37328612786600646,
+        0.16941081551851342,
+        0.23428213098726797,
+        0.6048798610225802,
+        -0.0412840990615137
+      ],
+      "global_mood_params": [
+        -0.701710017603075,
+        -1.214291003073751,
+        -0.3864718081546617,
+        -1.114892906225398,
+        -0.5816941170390196,
+        -1.0305737254181424,
+        -1.2386070101520508,
+        -1.0301251375291185,
+        0.19963641064114965,
+        -0.30677455026722933,
+        -0.05959467327345281,
+        -0.39833277488785035
+      ]
+    },
+    {
+      "name": "Hatirjheel",
+      "orig_name": "Hatirjheel",
+      "place_id": "ChIJySsXbpe4VTcRl7e6_5waYqA",
+      "cat_params": [
+        0.15200049458118753,
+        0.06369112061659236,
+        0.22907728180614592,
+        0.12968048118760245,
+        0.3986944530351474,
+        0.08985869584178705,
+        0.4659565549962948,
+        0.19807133371992525,
+        0.2938219239789719,
+        0.3728010317679986,
+        0.04379932706950021,
+        0.21035270092625344,
+        0.3487519466890285,
+        0.1832877687255894,
+        0.15037910420200631,
+        0.13759606651043854,
+        0.5126412029689269,
+        0.2922194809563928,
+        0.1291489994870736,
+        0.10621253611248516,
+        0.6105935690686841,
+        0.34604647013418105,
+        0.1618185652196732,
+        0.22134794430442647,
+        0.009666029328834334,
+        0.4188709780755212,
+        0.30171324216217826,
+        0.45535501248189025,
+        0.3538090264915141,
+        0.4694131729210781
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7498318,
+        "lng": 90.3966616
+      },
+      "address": "Hatir Jheel, Dhaka 1205, Bangladesh",
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100314564014685694714\">Jahedul Alam</a>"
+          ],
+          "photo_reference": "CmRaAAAALEIGovLEArjT0AOpTAMvM6ekyIJ7ZRnnSc4f2cYzdR1RLWwRWeFTfUT3RVYc4INMUQyxClFcEOTJTnC68hT6_XB0VQpO4Uj7IkeD0Cp0yDw9vqTUxClxgdJHJZ5nTDxZEhAZft9W0hbILa174En14KkbGhTFJF4GOvNExk2I4Ney91JfvfsL_w",
+          "width": 1131
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101355610896300393761\">walid mobin</a>"
+          ],
+          "photo_reference": "CmRaAAAA8MmY0DYYatYh4kB4SGmDSxXcj65fEGizkDytxH2RfvLdlnYvww9e8UncTUP9qPW7wxvsptGCoJ-0M9Qo7zUkMUQGxKvI1RojIKIqXY0m-lcgY8rBGIb_43h-pCgcGW_YEhCZUU4qkJ5yK7XerhEbs1nsGhQA4XZ5H1hy9gPN1JndW7EiXrkufA",
+          "width": 4160
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101355610896300393761\">walid mobin</a>"
+          ],
+          "photo_reference": "CmRaAAAA1b3Ft5N3a0oiqV1rU-7qmuC8S1e6i50BKPhr-qFd4qEfATfONcPmNxlyQtvPTeyiIWRyPrbdhcVaIbF-uPv_2ZWZr4SsCJQ61AQA0anUqlWEhZQ-aMGSs4ZVpaC1NJAVEhAz_9joPIMAKNMpga_gBAhEGhR-pjIw0qWkEMvuRv26sERrLtu5QA",
+          "width": 4160
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117404259676749585000\">Golam Rabbani</a>"
+          ],
+          "photo_reference": "CmRaAAAAot3IFNTXHfJqbOuwvA6JXWwlIeZEHarpP1hSfFUDbTpPMOpXh7BEeaGlNCFW4Yp6WryTWorWO5i2w--hTy8kqAVk9PqU_um-N9-rfQ546euYUddMdrkLctx9i1PhsmoZEhDkvUQhb0V4sBwr2ShC74v8GhQEgpkblcIQmHqvzOt2MgtHityK_g",
+          "width": 4160
+        },
+        {
+          "height": 2248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104124127899574262512\">shahriar nova</a>"
+          ],
+          "photo_reference": "CmRaAAAAZNrhCIta6i4w2jjzXUO663qs677QiBeva1mGH3y4X-bV_D3AzMHyVW3Ahk2Qb0Bodcoj_UmHEiPvjvxli0-Lm1N4zrNseuj_-WrUUDhdz-N462R9URN-9IQDJl5IRVs5EhAd4l2X6E2yBybOp5POh-nIGhSVMilq-HJ5tu8kxMiibfeijZ2KUA",
+          "width": 3998
+        },
+        {
+          "height": 4312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104818741655821656579\">Shakil Khan</a>"
+          ],
+          "photo_reference": "CmRaAAAAv-MwFNthLmW52ijlq5NAmsPJ8ki4Xdj7lQn2Z3WfYlLtF0T7HMWrQ72PJSRUXf0knw5-pQYLMi-Msc6cwaTQTn33S_fDlF4HK0eryafBs6Vdv19RALhCSE4_zrayj4TVEhC63Y_rlzjkNoRi1TbTOXylGhQb054Xn-tPjf3nreCSdKCVHg8f0w",
+          "width": 5760
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114289545457429031657\">Dizyners</a>"
+          ],
+          "photo_reference": "CmRaAAAAmMIBpKkfJHJlHQQfDLRSK0VsUXUc-szKvXhhfsZPxWzCQLuTb2PHT-5U3kTXLfjf4CTMhfNARP4ESy0QotOcgKl3w3VTN_JcDYPI47kJ_BUH25bWXgXRbO4JKvZJxUIgEhALU7FL7_lVv8sTYQ42iekyGhQrLp-XmxAsQbm977DwCujViht97A",
+          "width": 1280
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111172809191542830763\">Munim Ahmed</a>"
+          ],
+          "photo_reference": "CmRaAAAA_BE1t_jR9gpDoWDKqhlDWWicdtp5BqnS3l9xfX_0Svc5nSUaxKSJpOk-HJrZwO4KhV4ZNfeov0ZkilpBqnmHGYAynIYrDYSHuCLthbhMoZzOc_HVW1sqoKh5K-bWVUNFEhArRKnNBsNJHmcJWO2DgK60GhTA1m0fd4g6lE3iy2LQDyJb99UZ9w",
+          "width": 3264
+        },
+        {
+          "height": 1936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104393840313536924909\">Fojla Rahman Zia</a>"
+          ],
+          "photo_reference": "CmRaAAAANhFKNK3S6Odm7IccoFXAw3NDI0HvKAmQ3KuycXbbM-FNDMHTSsiimvAEna9ltTx-EutJPpugsMXVW4O3S1_zKAbwvOSxmnGLyxpZ_nkReo5vbnPdPVw9Zpmff_-AG_mKEhBhM-ULA_p2by7kBMC1qV0GGhRCwvS5kagfR7t6n9xKAuRfp6l61A",
+          "width": 2592
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116837753476585810443\">Mahmud</a>"
+          ],
+          "photo_reference": "CmRaAAAAv6dF4qbk03pUk1vjg1QYnxc27r0sx-3ZdaG6EAUMLZkFS75RK2qKh_DwYHVJE7c7xJI-rjCO9kUcXT8fAv3nrVxk_l76pOLrlZUrEUdYBolrJz6RzwLL082S7farl37lEhBGLm5lw5zpPQJK6gwRd8opGhSQQLqHZklsEOSaFMVMqr78L0STeA",
+          "width": 2048
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "mood_params": [
+        0.0011698969940193281,
+        0.024716480075991885,
+        0.06697492743524448,
+        0.08304062081848423,
+        0.058573217674573824,
+        0.12248042130049219,
+        0.05601709134461335,
+        0.011207741333338989,
+        0.1342127067704782,
+        0.015899044313469786,
+        0.0637288552020724,
+        0.025441451340172477
+      ],
+      "popularity": 0.2829335051188321,
+      "num_google_reviews": 323,
+      "top_cats": [
+        "engineering",
+        "friends",
+        "water",
+        "nightlife"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.11183248987930106,
+        -0.5806603284337921,
+        0.043571830803310556,
+        -0.7260015686436033,
+        0.578802169089127,
+        -0.7373411326105043,
+        0.7201067666994475,
+        -0.1451318390861587,
+        1.2905241868126283,
+        0.5469986393234256,
+        -0.8751291158638682,
+        0.6596271249665023,
+        1.029072679476989,
+        -0.1649195997593407,
+        -1.5197176595255066,
+        -0.383947117471213,
+        0.23601263302840284,
+        -0.01779893301600015,
+        -0.4677687348331232,
+        -0.5866171726654262,
+        0.3561038334056949,
+        0.8867876334375366,
+        -1.0736336205829977,
+        0.4956538411271967,
+        -0.515107779170881,
+        0.477128661612478,
+        0.10801417956185412,
+        0.22686366621334708,
+        0.3296103125144369,
+        0.9604744170637197
+      ],
+      "global_mood_params": [
+        -0.6597249833524856,
+        -0.7732724730815663,
+        0.07364899797343719,
+        -0.6625960354873442,
+        0.00518869949614812,
+        -0.39304134383104244,
+        -1.0841007630534938,
+        -0.7330867828289642,
+        0.16406952702370092,
+        -1.081214689888093,
+        -0.6457457649910283,
+        -0.06605019712479439
+      ]
+    },
+    {
+      "name": "Tomb of Pori Bibi",
+      "orig_name": "Tomb of Pori Bibi",
+      "place_id": "ChIJC9-3Gdm4VTcRpt-7UCun_3Q",
+      "cat_params": [
+        0.06443645506424131,
+        0.028093264178504745,
+        0.18724726931348243,
+        0.10608231767104744,
+        0.2242732578242315,
+        0.11947499768367412,
+        0.3392847633724761,
+        0.31426669784210304,
+        0.09758205509124747,
+        0.3489117478977422,
+        0.02379897748039385,
+        0.16382349389356318,
+        0.2210674847188954,
+        0.06052538693967664,
+        0.22386855768277553,
+        0.10586429347919799,
+        0.34723831180031345,
+        0.37124908443504406,
+        0.07046090385936113,
+        0.05345702574034922,
+        0.3728417621337592,
+        0.19277118376057428,
+        0.11122975754480874,
+        0.21443309173316377,
+        0.014952973185275031,
+        0.261438399472298,
+        0.20838409046182843,
+        0.2910495511549737,
+        0.215656758811318,
+        0.26916026112782665
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.718762,
+        "lng": 90.3875774
+      },
+      "address": "Lalbagh Fort, Lalbagh Road, Dhaka, Bangladesh",
+      "photos": [
+        {
+          "height": 2605,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111172809191542830763\">Munim Ahmed</a>"
+          ],
+          "photo_reference": "CmRaAAAAh17kH_pVcRynXLyZQx0RTKYpt-6D4Fo-h4phMvQAq_E_I6dyoD4OS398czev4r0XVijRKVOn0Wq-hpxKnQ2vQCvhksC8gBvkBFWdGGAjfSu2JOSLb7UpCFjRdOW9DO9OEhBhA47rDxyboi7EtDPRjpwrGhRmScU6zwI4xS1ZKsiA2duKq6QFHQ",
+          "width": 3979
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108109937395875398934\">Abu Sadek</a>"
+          ],
+          "photo_reference": "CmRaAAAA_j-i6K3Y_hCJz2huXW60qJKsucbdi6Hb2lzcef89ZzSy-gLa-8KJAwXOf7fCflq-OZznvtB27veCrRjK1jP-hwjNP13kB56mi9osUy2j8T54TRJj2QP43ep-umWyJvg6EhCbstZglrlwamTlqsz5ADNbGhTXKkMErAKOxWSq1-uI0eNeathJag",
+          "width": 5312
+        },
+        {
+          "height": 1952,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110150289147576758214\">Mutasim Sadat Khan</a>"
+          ],
+          "photo_reference": "CmRaAAAANRY5z8U7-0HXYFhvl-9mOiwY8OQ-AtB6wd_zc1RTgnMX9nwDwy2haY3Xm-zcUbHQ6F0akVjAuj-zB2wbiTc0-sBASt4yLuUF4s2ufb1yvm11-PvHpDx698-y_dDqpYqrEhAsNGJrvVliyN-h9rfBbe5QGhSZT4jHfWIWpOKk80uB8eZ7cq-DnQ",
+          "width": 2936
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103956054089582196867\">Alessandro Manente</a>"
+          ],
+          "photo_reference": "CmRaAAAAOUKvYKMoqGtXyDvDmCRDurrEHhhwXDMUppYAV8JHvswObVsqVSYibW2x0ZgrsdC_zxsp6xAirz9RVQjOtpjiytveCvZ10J5Glf70rWzdVIW-z1MkbD_1t4dec3nE-js6EhA7Eaq1KJ-MS1X_kTPkVEsuGhRcCE3ET1qeUR_bNSp3r2dCbqwhzw",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102716490493581358434\">Tanvirul Hasan Jewel</a>"
+          ],
+          "photo_reference": "CmRaAAAA7-5lzxy6AA9qn6uyAPALdPLhBPwFXPDOL1J4AhQ_lrU2egE41cHxjOxoV9oe8Fc5nLAG1vcEJcOsBb_Uhd-_6FaR0ZaciOYSQZGAatlPUuv32gziktdtpGtj3UMIM9c5EhCkTNGAB9kW-WukFDjnLRQ5GhRCdndTdi-KSRGZQEOSY7x18ZUuyA",
+          "width": 3264
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114670555979347330438\">Alfaz Nayan</a>"
+          ],
+          "photo_reference": "CmRaAAAA91r0ojahoIlflVcKgTpeK0LTZW7qzcrLuXio0mFjD4PwY1yt-RrP0IC6v0UTn-_KXamgWiv7Mef31B0DcLqRJNTpkAGPZZ-PmUtU8RkJuVpCKCfoss1JMl7TnPZ3BX7pEhC9qnP9vpL6WXLdyP9SQdmhGhTmTsMkjWNqX1ZPWblYzztcZw5XNA",
+          "width": 3120
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104273310967606412025\">Masud Mirza</a>"
+          ],
+          "photo_reference": "CmRaAAAAL5rCiIG95gs9zRuyTkJnmhQU5Te4GAZtj1kf2j79yMHwGC3p-L7a8RMsWWSaPxRGCKayrfTDI-8G0aN9un16THab5GzhPe90GFitZQ6RQaaycRR_LKrnq_Ad83iodq_9EhC2f6yBMBuyd-b4RdqKQbXfGhQH6IYzFrhesCOxokeR6q5LU3hOYw",
+          "width": 4048
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108247496173090278394\">Md fahat Hossain</a>"
+          ],
+          "photo_reference": "CmRaAAAAXMXVQ9rSySOccJTOhKKGgfVoTbWgqS2Bsf8t7F-m4SNu5TmZPyMhfCZ2PL_EbYZ-z6nKDUfkj15Uf0cwX5GsUsM2mzMnC2uzYMlfCBC2v8Z5QiAhjedNN0kXnjmFpeiYEhBCPhZ5rxY6yc1WBO2GXnNWGhQWVqpcOt-ZE3nhq8fFCpjztA5txw",
+          "width": 3264
+        },
+        {
+          "height": 756,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109155448205625750097\">BappiFied</a>"
+          ],
+          "photo_reference": "CmRaAAAA0WHf8OMYVjojcqzTFZanO3EHpRF6QAXNm31mPKl2Fy-JThMovumIzte-ppyWRgkOITCTwwPGPNQXLDCGOrlstyXISrlOxI04ygJLXiFZoE0ITA09AxI3eebnXMJSegPXEhD022vKsI4mDOHqq3L2hAmgGhSx0v5SrWgGo2CvpigqXD9IYrIB8A",
+          "width": 1440
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109499000439763697215\">foyez akash</a>"
+          ],
+          "photo_reference": "CmRaAAAAdPjEfGXDV2Mabpw_2udZ65q_eARuWAaV5Qe2huSJ-OVrs-C2ikVXVf-PydTCIqMExp4F2fgP-zjO9Ww6MBGy_q4QE73Oqb5bsVlVouXW4vBoQHN7pXuPn4UY4cjLMcAXEhA6SjN1S2tfY7Cr_fCIAt67GhQiNaYsc6neS6Bh2N4ZFUdjjDdfBg",
+          "width": 3264
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.002319055295156118,
+        0.009779815862633684,
+        0.03736619674413764,
+        0.044666400220549324,
+        0.042948913283232124,
+        0.0753489498801664,
+        0.04918724763155052,
+        0.006833870917813245,
+        0.09331793680336994,
+        0.0044117860373409515,
+        0.031922455859576995,
+        0.007242406981957048
+      ],
+      "popularity": 0.2840221497168632,
+      "num_google_reviews": 328,
+      "top_cats": [
+        "culture",
+        "military",
+        "religion",
+        "family"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -1.1742845931014372,
+        -1.0062938119776677,
+        -0.36734064754750634,
+        -0.8946392569804061,
+        -0.49708796887103085,
+        -0.34223984928616974,
+        -0.6279135132250296,
+        1.1453116997232677,
+        -1.613634995887602,
+        0.2929925093561791,
+        -1.2864659855468097,
+        0.21773047769021686,
+        -0.3507099744397774,
+        -1.0669810377804918,
+        -0.7205925525182139,
+        -0.7555860640732699,
+        -0.6614704262911777,
+        0.8088207784374616,
+        -1.21689768670692,
+        -1.6378168951093413,
+        -0.8034136807958768,
+        -0.610599352653876,
+        -1.6440136840893722,
+        0.4311491013736262,
+        -0.36288440281788836,
+        -0.6906162311095827,
+        -0.7664719472180987,
+        -0.840528438632561,
+        -0.5043360171509549,
+        -0.41649132584624177
+      ],
+      "global_mood_params": [
+        -0.5824074656790111,
+        -1.2207602364670833,
+        -0.4594451651398093,
+        -1.25419052745222,
+        -0.33772173980883363,
+        -0.9857203981131035,
+        -1.2133528433046838,
+        -0.9074980603712051,
+        -0.37691449346155714,
+        -1.5276460355074122,
+        -1.3817522973134495,
+        -1.1786100675050561
+      ]
+    },
+    {
+      "name": "Star Mosque",
+      "orig_name": "Star Mosque",
+      "place_id": "ChIJVzztrS3EVTcR9VP-l5pCl_0",
+      "cat_params": [
+        0.09272257589051064,
+        0.025568710299152645,
+        0.28604187403640774,
+        0.23417924718891076,
+        0.23753753942637026,
+        0.1221232514851964,
+        0.3367689737939008,
+        0.336616831685907,
+        0.16549884106589696,
+        0.2824401139932546,
+        0.05480027536841194,
+        0.09586462077561321,
+        0.1876715152249996,
+        0.09905786379134328,
+        0.3042214381473659,
+        0.12468329799736635,
+        0.4229106005858909,
+        0.3719631559029994,
+        0.0984599473288424,
+        0.1709155159917724,
+        0.42210776426716556,
+        0.19380131895096298,
+        0.16736281011603255,
+        0.6115794442660839,
+        0.012295951600504689,
+        0.2865320625630787,
+        0.230759144922908,
+        0.3329423841006471,
+        0.1951566263510943,
+        0.32242696469123655
+      ],
+      "noncat_params": [],
+      "quote": "This historic 18th-century mosque features star patterns on its domes & tiled walls.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 23.7156294,
+        "lng": 90.4016923
+      },
+      "address": "Abul Khairat Road, Armanitola 1100, Bangladesh",
+      "photos": [
+        {
+          "height": 2930,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104136346452506897691\">Nabil&#39;s Kingdom</a>"
+          ],
+          "photo_reference": "CmRaAAAA2hlUEVTdbihKNG4YUtqr1hA0o6R3ia6Ve7w5on7z0dpr6gMLcB5Ovjobd0KaIbjJL8fPhtWh4wl7NjrrMg7tOT_dTrqBP70s3mlcAje9GUXIfCYFKIthc71cjYzOOUV0EhA7Be1u2tZP3iHktH9QjyNeGhQpnAq9TiEnOhmGom8DiKoiaDygUQ",
+          "width": 3910
+        },
+        {
+          "height": 360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113635746773861914748\">dr mohsin mohammad tahsin</a>"
+          ],
+          "photo_reference": "CmRaAAAAYtiAdDfu_8anH8flEOBC5odfzR6myGRaMEo3GB6WdlsdNQMsR9t_7DmusdMlED5d2XSpvqmipgrsM4VHct_zsY0q4KrAiVvY0ozPRywFaSb3F4UmkpOzUbCK1eIRPAItEhB_dV3CTtQS2-3XmLdpg4_9GhSMEM_F9xTK6WcWQf3MJ8hYU0vwNQ",
+          "width": 640
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106655241999923545373\">Showkot Shawon</a>"
+          ],
+          "photo_reference": "CmRaAAAARp62yhh1GkwNpltQvjgPu18N4gwUkvugWQbU7kgN246jzfJF-Wgd_evXjjDFWjtuRS7vz_MCLt9TQNB5DOp-ZK37UKDEJ4wL3xpXftBCkzzCBtbs3JKK9x7OHjCqs1CaEhCtK_Fciz2E5Cqwgty_6uakGhTysHMJphcRja1zMsOOfOSPBVkRzA",
+          "width": 4000
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107721795909319702132\">Khondaker Mahmud Pasha</a>"
+          ],
+          "photo_reference": "CmRaAAAAhQxKhsPsMDlNHj5NpSejEfbJISLAsvauWKHn6kh3uUVqo2MI3DHT1IPXUCUz_aG3IshfiXwi5T6ErnLA6VmQa5CzsSmnjDPguQbjDodwfmdeaO8gJQimezNUl93kEC07EhCs7jGPXSK0dAaNj4E6YR-bGhTpvjHSwgJ-tu_kFE61R1HvynBdXQ",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117902743605286832235\">Nur Hossain Howlader LGED</a>"
+          ],
+          "photo_reference": "CmRaAAAAJ2jxiHgBfhASaxYxQWrPAqqfk6zN80QoX-M155lyRJWJ42xImMTow3L7jEkY0PWhD5ngPtxPLOn7gocUBZKX_Jt1AqqHCuhd9vFmYE51LUBUAzMe2lJjuAx_m0Ku2ZbUEhBD0_4I-JHteZJb8qb1Z_X6GhQ186jja3lHv1c0Fr_Lf4mfNeZLQg",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111229410341413760068\">sazidur rahim</a>"
+          ],
+          "photo_reference": "CmRaAAAABLXKQQoh9xj84vwCubjD9oLZl4G2thUykWZNB3HYdEHwKozfxJLPyaQyaZmh1a1WGzT9NJe_G-9fzZUGKaNAqU6ccAgR3j54ILpTDGZbu5blr9IViBdndlXubPnHd5f2EhALRgbkzdJmd9FgnXPcxGrDGhRYCgJfTArmvalcEbeBIY6W5v7OiA",
+          "width": 3264
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100542524071251402230\">Towsif Hasan</a>"
+          ],
+          "photo_reference": "CmRaAAAAWIevvOH_ZpFTqCyrHQPt11zVUX3Riv04iRenqGWz4LgOAvsf_jkAmKy9Q6yXt_1IEfQhaAF1tfz9OoICkxCA95QTKJO_tNGBEFk9ohHMANZrDJEqgpvMOAwFw0moIdzLEhDxwGQ5YlzYVttGCZ2FjLLOGhR7Xv-fgDQxdYzu7mjUQ7RP66d1bQ",
+          "width": 4000
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111282550444256220331\">Zaved Amin</a>"
+          ],
+          "photo_reference": "CmRaAAAA1LbPCX-X0rnH9Xjrbusu0ZKakhQbHuO1l4z6luF1qcApHAORr-6zdnigjOuOFVnGzALzE5BDoqHFnZZvHgBl1b_lYf1uFIxtrv44GcuUCtrnwaZKdPEeVhSnHZlGMyMpEhDC3j3RCgOjmi1GsTCQGisbGhRjc8a3PvFDGv3EGL6Ht6n0Fa7v4A",
+          "width": 3264
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107177599794009463759\">Md. Asaduzzaman</a>"
+          ],
+          "photo_reference": "CmRaAAAAOH46XFkwhprx8Y41itBKZvoccxatErJQuimQwqmCPecXZhFdrlCbtzCX3X5Lijp90adhdYt4tj2EmhGwhpd3zdXjm-Z0rpesv2TKpWcSy_Ggi5zgFHA8SbMlWn9i-onuEhCofAcCQq9yBftS7GSj_fMpGhS5r0M-HtI1uL0mIAscTCjbRmL1sg",
+          "width": 4160
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106787590738774899804\">Farhan Mostakim</a>"
+          ],
+          "photo_reference": "CmRaAAAA4Wp4Y4qXtbTbPLa-Mp1bbBSMxXT52wmr1S3gtxzOzE8foGdgJ04vMfHWYq18lkRDnBRAMpHEu_1BLsgrD94nrmr0jpZ4tcOh_DWwRmj-37DsGJV9Y3Uvs2AHqszLB1MnEhAQX1FAvR78CvkdPULLqVh_GhRRoMelOU-00IQnZJVOoeRugQn5dw",
+          "width": 4202
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6",
+      "mood_params": [
+        0.006262202285813798,
+        0.01067561897480837,
+        0.08899243396238198,
+        0.10719650013254722,
+        0.08732183051477704,
+        0.12011006840924482,
+        0.043817231872580714,
+        0.01565883472802656,
+        0.1533881673546047,
+        0.00823177256684089,
+        0.04038107630920703,
+        0.013634102252271246
+      ],
+      "popularity": 0.41240424814771753,
+      "num_google_reviews": 1458,
+      "top_cats": [
+        "religion",
+        "culture",
+        "military",
+        "movies"
+      ],
+      "duration": 1.4375,
+      "global_cat_params": [
+        -0.8310769392557138,
+        -1.0364791874350827,
+        0.6031571710105594,
+        0.020769692609260988,
+        -0.41526930144583285,
+        -0.30691037158378653,
+        -0.6546861303047146,
+        1.3935280208144964,
+        -0.6085326241538898,
+        -0.41377637381241034,
+        -0.6488782887641796,
+        -0.42768774666073095,
+        -0.711593191609846,
+        -0.7838433129036049,
+        0.15316553327858742,
+        -0.5351800058191083,
+        -0.25086939770479105,
+        0.8162896954611669,
+        -0.8595016277034812,
+        0.7026463376412636,
+        -0.5631429839510267,
+        -0.600535688350924,
+        -1.0111232175625373,
+        4.135902290281855,
+        -0.4393862170340155,
+        -0.5044857797511031,
+        -0.5568196107757583,
+        -0.5683763216261197,
+        -0.6280836074723304,
+        -0.0502223643228209
+      ],
+      "global_mood_params": [
+        -0.3171051684779292,
+        -1.1939228566227713,
+        0.4700659987012057,
+        -0.29019797949824155,
+        0.6361415541976927,
+        -0.42284857173128126,
+        -1.3149782591983163,
+        -0.5555961825881305,
+        0.41773565033973553,
+        -1.3791892248726092,
+        -1.186018104381843,
+        -0.7878673712688783
+      ]
+    }
+  ]
+}

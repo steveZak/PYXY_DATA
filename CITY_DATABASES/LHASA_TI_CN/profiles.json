@@ -1,0 +1,3874 @@
+{
+  "sights": [
+    {
+      "name": "Potala Palace",
+      "orig_name": "Potala Palace",
+      "place_id": "ChIJq26ERHIxYTcRGQzBfoUN6Eo",
+      "cat_params": [
+        0.07097639537702204,
+        0.07000168840714444,
+        0.17908245947899756,
+        0.1493843077825065,
+        0.15414531634748724,
+        0.1137797723999499,
+        0.33786728346161593,
+        0.19622448311118162,
+        0.1339229268310476,
+        0.280995234796776,
+        0.04846695099737678,
+        0.07186918624118019,
+        0.20780046896026466,
+        0.14775371751194333,
+        0.25069427771083014,
+        0.087348963303955,
+        0.3563696435307377,
+        0.21813234818049024,
+        0.10550976077207899,
+        0.09750796178514587,
+        0.37522863034371373,
+        0.176901474988657,
+        0.2144250176312667,
+        0.16330219436676607,
+        0.019570505198188433,
+        0.27147177005998446,
+        0.1954231938932971,
+        0.3287317022576573,
+        0.1948184055954209,
+        0.19717605898080054
+      ],
+      "noncat_params": [],
+      "quote": "Built in the 17th century, this renowned palace complex features hundreds of rooms & shrines.",
+      "phone": "0891 683 4362",
+      "int_phone": "+86 891 683 4362",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.6554942,
+        "lng": 91.11857920000001
+      },
+      "address": "35 Central Beijing Road, Lhasa, Tibet, China, 850000",
+      "photos": [
+        {
+          "height": 533,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115865248713033185056\">Ankit Shah</a>"
+          ],
+          "photo_reference": "CmRaAAAAGSY7M2Dll6yDvrVECqwzLugMdc9W7kwSVrYVkQytEMp6t9Sj20YY07ih8LKUpttsELX7pkCDisug0zb04N7vgjeAb40NkZy3YSl0e5gCdAOYQMGC8bAFuWQta9qfPm72EhCgpNQA-HtaZA6Y6lGLpQ-rGhRE-nHPTTNaSpVffscwOznnQR5-AA",
+          "width": 800
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106233544218383927682\">Sireesha</a>"
+          ],
+          "photo_reference": "CmRaAAAAXXCf8H3EqWRobSbLVsd_rr8cMRPndCRpEmuArGKHmn3uMuxa8fHMzcxEES3nyPxqbZK3stmWSUQCfvNcBEABjPvO74b7fFH4RbSTCFymeLMK86krx5QyPcmcD7uzWBpLEhCjhPyOSSjaTsHZLO-xXsn6GhQpOiabHVzwEPteCmGS5gRoT0PAOw",
+          "width": 4896
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113373467480437455174\">Albert Li</a>"
+          ],
+          "photo_reference": "CmRaAAAAmCVFC_tMnbA5xF8CkIEEFAcTQwqf1vXbJOEL7oRnl3ryacw939crY1ji-9x5WbmxBiVbziSHufleQNngVH5e15LAy2KnzDCPHrP6jOgupxa_Jd4zo4YSb-cTAzDrF1ZZEhCluoavbkUvv2H2OkQfaN3mGhSLW2ZQ59A7jm7ymqLYWGzYmwHoIg",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106927472601465898204\">Justin</a>"
+          ],
+          "photo_reference": "CmRaAAAAU-1nk80SvTp1FCDKABy-PDZSxQnsdSW1BS0Afx0ySRIckNoyzoPLv89aOqJZ7Sh1tfBNx7uJhfQRUJQ4jfqEUa3qtRXIJccrdHLKYF6wAqbwTH2oXXUjytxjsa4glI-CEhCudG2WIA4qXv-hZsUGqFphGhRIX_vHx0FF_m2kAc8zAk5l194JRA",
+          "width": 4608
+        },
+        {
+          "height": 3266,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115671343918579660898\">Jacky zhang</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ9PhF4ClwKFMrLCytAvxg-hvUazx6Is-r7VgfUynK0Wa3LKoHctMcOxb4psR7UZjVZw4nTUB9pgZDO2UwgypwDhSrjawPMxoCfV2ZPErNvLBaFwTEpFn4Rnmzf0PQJ-0EhCBoje_WXOSs3pqvPwPkpbEGhRuo7AmBJMsHJpTx9ca681ZhclPmQ",
+          "width": 4898
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103841315371580986506\">david wu</a>"
+          ],
+          "photo_reference": "CmRaAAAAI75bXBhMYb3g_Ius5W334XWM5RLf4IvjyAf2BVrCe_bkzOihyi-4uDwpmy5XDP4CUPQZXIp4H8c_ueT6GlEvDLcNjQFKGODvRI9jcCJ0Hqtl44FVsOnYModP0M0QLezHEhA4IEXTRTKxMF6nVdWFnZy4GhTcWFh89OHlGaWqhMSBabxUQq15ag",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112831186994998973843\">jason tseng</a>"
+          ],
+          "photo_reference": "CmRaAAAAnqFcTwjpZ4w-ulCBjmZ3812_I90fF1U8uebIBQ6yIJcYgN6t8Saiow1gFl2PCyNVqSE-T-WR2LxzcwlPUufUuQ5GcEYY1ryckokvp_SvyNG-h2NcnOjcRvWviKs6VJ73EhCa3uKEFXFKSkuIOU5-XcQYGhQbvbaUqoXc_eAG0Fernq332qM0Hg",
+          "width": 4000
+        },
+        {
+          "height": 1065,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109020424757504160132\">Andrew Khanoff</a>"
+          ],
+          "photo_reference": "CmRaAAAAJg_ZGlsIH_beXsv8tkb7SrRMbD79wvCtdrljkC_Ew5bhBGv5pL2KIbWJQ-LOrwOEnZKOMTqO5c4XUxyU8ivdRxn8Ff53Z_CXcdB5prnkXLOuOhB5y1yqMySIbabNXlbhEhA-Mflg0bYaDRT-3L8dC6FOGhSnTmTAlkhjrHUeP7SDKkXdDM7t0Q",
+          "width": 1600
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113992780064976390357\">tsvetomir velikov</a>"
+          ],
+          "photo_reference": "CmRaAAAAcTkTSldAmhkfW5n1sPCNFiHfeccwPNJy73NdISg_bnkl2k-VUf8nDLDx6y95zGijnfov2W0jCci98V52M_kQ4J65AaD8M1rbxPAhELUv6AinqxiwrQE27IDxtl8mjqqeEhAZa_e6UyYhPlBVIGbInsdFGhTKyGZ-oPoeXFxi0_EXT0jqqNmh9A",
+          "width": 4898
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112272777466708528260\">eddie ec</a>"
+          ],
+          "photo_reference": "CmRaAAAAoi8tTWcETtQDrA6v7RuR6F8oVRwVp7gnjRO-1AvgH--HxnM5aWzDeNCibbJDwdsN1KoCHBEB79D6KFYlHKbw2MnPC2q57a7b2glQOkFLcIbSzHGa7gr-aCAvxklOkLtxEhC9ojuUQgcXRqgR4Ac2TKlPGhT2HVx-IUQDMoXucLqska04h0tc6w",
+          "width": 3264
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.potalapalace.cn/home.html",
+      "popularity": 1.0,
+      "num_google_reviews": 1030,
+      "mood_params": [
+        0.005227719395859989,
+        0.023421165657831297,
+        0.03125244768059765,
+        0.0900446551598198,
+        0.055201066727019424,
+        0.09555619287882341,
+        0.10510188934717185,
+        0.013810465426019469,
+        0.06151905460159056,
+        0.0345222271767314,
+        0.0657391193452454,
+        0.02417293402309353
+      ],
+      "top_cats": [
+        "religion",
+        "culture",
+        "science",
+        "books"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.0949326881574402,
+        -0.5052066573257025,
+        -0.447546749444792,
+        -0.5851936720450922,
+        -0.9296613183371875,
+        -0.4182179653397459,
+        -0.642998100264736,
+        -0.16564260948740728,
+        -1.075825441852205,
+        -0.429139252622882,
+        -0.7791325030648751,
+        -0.6555769101973843,
+        -0.4940758776244655,
+        -0.42602480862045666,
+        -0.4288893846129512,
+        -0.9724355226756015,
+        -0.6119234354303661,
+        -0.7927222734092552,
+        -0.7695137127924401,
+        -0.7600634354794129,
+        -0.7917729049413709,
+        -0.7656347530132491,
+        -0.4805049613701342,
+        -0.04582205513271312,
+        -0.22993494609774157,
+        -0.616194422329537,
+        -0.8879144336579285,
+        -0.5957305466100523,
+        -0.6301252529881565,
+        -0.9114643052628687
+      ],
+      "global_mood_params": [
+        -0.38670711021893023,
+        -0.8120788185670136,
+        -0.5695209388875562,
+        -0.5546186466751807,
+        -0.06882072414701808,
+        -0.7316139739091071,
+        -0.1551904516204596,
+        -0.6293012585749704,
+        -0.7975718820296279,
+        -0.3574586477141801,
+        -0.599227844960638,
+        -0.14359830537078475
+      ]
+    },
+    {
+      "name": "Norbulingka",
+      "orig_name": "Norbulingka",
+      "place_id": "ChIJK7I7QP4wYTcRs8a4ROuIdIw",
+      "cat_params": [
+        0.10145054891333913,
+        0.08706241198198983,
+        0.22295741933903546,
+        0.1692589422717855,
+        0.28693097594938627,
+        0.1097536503820782,
+        0.27795111483351576,
+        0.17742602598109006,
+        0.14375532081271528,
+        0.2332486713420769,
+        0.09012453573472133,
+        0.0993383500925452,
+        0.1746792204430685,
+        0.1879059526631834,
+        0.19714953031302915,
+        0.10311780079959847,
+        0.287336180368063,
+        0.22546215708128578,
+        0.13934504685700352,
+        0.08612436917719854,
+        0.53998831796638,
+        0.17944281264981293,
+        0.14226273755763674,
+        0.11725489518800333,
+        0.010235830760617404,
+        0.20629077141592023,
+        0.23431470333838025,
+        0.27499063472454643,
+        0.30216567968996805,
+        0.2815897461923021
+      ],
+      "noncat_params": [],
+      "quote": "Tibet's largest manmade garden & 374-room palace from 1755, the Dalai Lama's ritual summer home.",
+      "phone": "0891 682 6274",
+      "int_phone": "+86 891 682 6274",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.6512208,
+        "lng": 91.0930308
+      },
+      "address": "Luobulinka Rd, Lhasa, Tibet, China, 850000",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111149515969794974417\">Riccardo Borgonovo</a>"
+          ],
+          "photo_reference": "CmRaAAAA0UcoBRJPd4LDOpIUxOUgbcyCXK-X5cG2hyP5nXrWmKOH-nLDJUB1zKJQUXNb25h3jkj7tGiv5bSrbXTK6LUCnSqMgwD6f9rrEdsOfuMMOYCRK7wX14jVfNCGqZa9fTezEhBPVE7f_50PJfp5H2aYYy5zGhRQYjTWeE2wNRyr3HfsW2iX2YXECw",
+          "width": 3648
+        },
+        {
+          "height": 1067,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101937409017577712229\">stone wood</a>"
+          ],
+          "photo_reference": "CmRaAAAAFUNLBDHF9L_eAZucJtPIboFa_hgkJEntlrsyYceVXzBsL9goDsPGTj9owsTzgXaleUX_87l0omK1oFcxMe70-1U1Z6Am669eVMRsBuEdu96X-l5wph4NtOPzgaChExegEhBt-infeGEXKd8AAMxqH31EGhSHV-GfsMZ2T8ZIJcIvTroNcxxUHw",
+          "width": 1600
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113373467480437455174\">Albert Li</a>"
+          ],
+          "photo_reference": "CmRaAAAAxrv_Zt1U-vQKW9yiRCTfs8Tn1xO6hRN7uM2F3btsC3NpWfrM1cWa2nqVyV2ZnvkUvk-1fiGsAANDR2eoxlD4fmiHGNJLyaCyVThY06p8nX8OS8tGuRu5LZKQrBt_7e2YEhANmNR3QkCF-ocWBTMHyMOUGhSc4SxcF1l8D5sAaeqbM1eXUGfR1g",
+          "width": 4032
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104923601778569562902\">Erta Ale</a>"
+          ],
+          "photo_reference": "CmRaAAAAteRCYm5Q5Is-bupBwZ90zyI511O6OnmsMGYLQTgEQjNBB5OzEvMW9FL8g1REMDEn79pgppkGi-oNYd5q-o0y2LZgwTZ37Cx0T1UpRwcWnw2gKWgAKeewq8tzLHa1xlh1EhDNaUuWlt4cN3HnUjGMBgnJGhSLT2QRI-NOHsGfWfUiTto6NGo27A",
+          "width": 3648
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110264713435207159258\">Shawn Check</a>"
+          ],
+          "photo_reference": "CmRaAAAALZJcNRPuD4jYJ3-fmOOe8ByaVl8WykhpMKRJ0XEIVOKeaEQmRpRi-616VoZJLUXuiTEA8p7dNNq6XaGqs3gCoDQXKUhskvNVb5qCOYcNLR2v-f7CT2eu3w2RsQs7CI4VEhAPkv5oqjj5FLCBSS7vrjZNGhRb17o6Tia6abw1iwgBOLIV5pK2qw",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110264713435207159258\">Shawn Check</a>"
+          ],
+          "photo_reference": "CmRaAAAAlGZrBbvuXG-9WQ-eB4eYURgrJFU7ss2l62HfdJ75Lr_Uy8P8CYCzzPbnoHDM1cWTBheHk9fQ7JlT7zkcKJ5tRYgraV7nxsthoDZo4_mxn_2iL8kINqttj_gv5c0uqPU6EhBvzvVVTYz_Zl-qZ1nbuoz0GhT6_ZUx3HYkqGVEmWhgugXnqssBIw",
+          "width": 4032
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104923601778569562902\">Erta Ale</a>"
+          ],
+          "photo_reference": "CmRaAAAALw4OpqghZEvmylIfmBcahUt5gfgconeATMX9ITVOWjry1TDFAMdwO0U2Eq2Tc7DNJ4dCVdUB-PHrPW0B-ISJ7M56kJUcZgU1uLR5T_WvP5at5vzlMKfFy4RS2kLgTY1XEhDCRzqk1G2dLFkgYIygGdYbGhRxEiLEv4W56v2HEKjfynyNzcsEww",
+          "width": 3648
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105191245277154025105\">Turid Jegstad</a>"
+          ],
+          "photo_reference": "CmRaAAAA8ze39_8rMDM_LK8VT6rby2M6YLWKAxxIf6JV3HjJm6duf3sAElXCQ9aFCT0PF9CDVPRZJrVxDpjfX0Kh8uwdIHKX9O4OEcIjKLHf0CV_UY4gsnXlVByY4E4ovy_wGiBHEhAhuo_N65qAmYNynrOxIgXIGhTj2cX0kslw30Thq9EQ6ofosd0CUg",
+          "width": 2736
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113373467480437455174\">Albert Li</a>"
+          ],
+          "photo_reference": "CmRaAAAABPg33hnc7_mLCamIP9U-EL_eZaH26wFTpqUtgKpbNIw5xrJWXN6QzB93ZiKxye41Z3cOrBmkdA_nmfmQmqT31s44IW7-mgbjVlWULvcnn-mfAHRIc8bU_pTyPYs2lS8HEhCwrM_VScIJ0b1RVpQq73HgGhR5xBwHIrcv_9AXCo6UsLr2UL23Ew",
+          "width": 3024
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118402223134941622254\">Cp Ho</a>"
+          ],
+          "photo_reference": "CmRaAAAA22bOWCs_OQNKeLOv3fbpzaC5PCwUwmtYoKoplxB9N3zguLiXo3xBByGRSDXKQVfjlLR240rOIeRbrLO-vFLMnEOXO4BoUuHzuZboSCb9-2Wi2tP93CHytJM05qpppib5EhCJsu85qhdTvgnBeuULNC6JGhQZheb9p5IUbz3CudJauNpVGJPIrA",
+          "width": 3264
+        }
+      ],
+      "rating": 4.4,
+      "website": "",
+      "popularity": 0.6604724574082019,
+      "num_google_reviews": 196,
+      "mood_params": [
+        0.0022392524001577496,
+        0.02803230895953728,
+        0.06979293455843646,
+        0.09254681026123798,
+        0.04245198862500882,
+        0.07590869422829999,
+        0.056542990337749455,
+        0.01622728706216031,
+        0.06798394559112118,
+        0.03308405994341372,
+        0.05322962973223066,
+        0.010502559855134548
+      ],
+      "top_cats": [
+        "fashion",
+        "walking",
+        "nature",
+        "architecture"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.7251766936054936,
+        -0.30121641933005,
+        -0.01654595792476024,
+        -0.44316514450905653,
+        -0.11059353557452906,
+        -0.4719291270024645,
+        -1.280616068485425,
+        -0.3744146868106071,
+        -0.9303155746084398,
+        -0.9368112225417323,
+        0.07761754663147184,
+        -0.3946970847390886,
+        -0.8519904075128673,
+        -0.13098505415026984,
+        -1.0111355433103106,
+        -0.7877526765500364,
+        -0.9865019163560946,
+        -0.7160552492577121,
+        -0.3376204620395439,
+        -0.9868914825493391,
+        0.011761444158871962,
+        -0.7408077503625846,
+        -1.2941221977299575,
+        -0.4753712059309487,
+        -0.4987018743320916,
+        -1.0996698182382922,
+        -0.5235043341377671,
+        -0.9448533982035199,
+        0.017868925710114763,
+        -0.3310245279728414
+      ],
+      "global_mood_params": [
+        -0.5877767535641764,
+        -0.673933502232919,
+        0.12438616616404828,
+        -0.5160442820893766,
+        -0.3486278671207964,
+        -0.9786816034204244,
+        -1.0741483334342272,
+        -0.5329287305606979,
+        -0.7120498770806293,
+        -0.4133503947056992,
+        -0.8886999720019749,
+        -0.9793075554275557
+      ]
+    },
+    {
+      "name": "Jokhang Temple",
+      "orig_name": "Jokhang Temple",
+      "place_id": "ChIJGyMUcn4xYTcRJdxD_S9cOSY",
+      "cat_params": [
+        0.07767510536492428,
+        0.06828797336489915,
+        0.1642236912575753,
+        0.13274364123711493,
+        0.15002039825487565,
+        0.10803052953585264,
+        0.324868927747863,
+        0.19825851629630697,
+        0.11933065312680366,
+        0.2506291332015774,
+        0.042686421781551624,
+        0.06774710509923866,
+        0.2117586296452883,
+        0.10229796656449698,
+        0.2650149198906797,
+        0.07338908729887009,
+        0.32446829765973717,
+        0.2203954638283543,
+        0.08519493055278664,
+        0.09134054303417792,
+        0.35913156856961725,
+        0.16241621366014147,
+        0.1947068543624742,
+        0.42696230239617977,
+        0.01525949120972719,
+        0.2773460039482958,
+        0.1618897074079737,
+        0.3019871287534876,
+        0.1826399284865819,
+        0.17604299491434408
+      ],
+      "noncat_params": [],
+      "quote": "Revered for housing a statue of young Buddha, this ancient Buddhist temple attracts many pilgrims.",
+      "phone": "0891 633 6858",
+      "int_phone": "+86 891 633 6858",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.650237,
+        "lng": 91.133861
+      },
+      "address": "Lhasa, Tibet, China, 850000",
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110525540889739395389\">Asami KAWADA</a>"
+          ],
+          "photo_reference": "CmRaAAAAH2vbKRHmjCzOFAo5X8RjQcK1ZqQMblUZZVUyBr1vYaG-p0srtSP7GfHzv9WB7L1_UEHNdYbASUJ8xQ9ND-SgXUtrtMWyLKb9aO3NNNE323FSEPKk_Om-MpjmgQPLcL-TEhBNlFylaIEEckyRlFIWqfX0GhRRTLOuocjGBcpK7y3AL-c52iBuUg",
+          "width": 750
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117712629685016644928\">Long Tai Nguyen</a>"
+          ],
+          "photo_reference": "CmRaAAAAzWXsp9MaZi9CLekuhE600rHit8cNIMikhhvLebdKRobtl9Wo8b6wUN1kgr1f-ioSdLqPaGRS61n-Fbmv3vox43hGn7lEBMfpuB9shsMQNcjfz2PhxH-0NM6XRP2CROxEEhACsT3p3VSXrG3bCDPZ9dSQGhTk5GBOZJEchjzKvrrVNfzdShdwuA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112579324550097034681\">\u9ec3\u6dfb\u559c</a>"
+          ],
+          "photo_reference": "CmRaAAAAM-KZPCnuC77VE_cEDrBpGu9ZgLPuPtgvo9o6eQmXXDxPxZyYFhCZUbKcZH-jjb3AIPY31hWObRyA2k3DC7jg1ap9IirtlZEqzFpKuFLh3rHDA-4QEGujdTbIQKaFZQBcEhCSuADvBQyzdXXZ8WmjsbyEGhR9HKJxduznu2KRIcGcsOokOPvz8w",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102823069214813611773\">\u6b66\u85e4\u5609\u5b5d</a>"
+          ],
+          "photo_reference": "CmRaAAAAnkQxr_9TeXtl7s5uVxhSFB6hzhC7ARbuVDcn5UZV0zOp_-u4N_wtE3YvkZJ6kOb2n0UcwR0gpK6GNg62ljo9kwhBeObZWKx2SP0JayvWGaHSpG3vyN9HV1Q73Nje4loDEhATClFJaU_OL5lmRxc1NhbhGhQzuluPYJxTncQp_kRXFIQKiQ3gJQ",
+          "width": 4032
+        },
+        {
+          "height": 2136,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118160366082678142251\">Weng Hong Leong</a>"
+          ],
+          "photo_reference": "CmRaAAAAJsb6RdBA_Xu0MSOagTG02qtYGiP2Ak_DlhSte4Y1J-rOKSWynR_viseFMOTwA4lIrZ7tH8gB59BAMLS9kwkJA8UWgn8EGBbFuy99zzGcCuB6PniGRQaVO9hmKzCGiMHnEhDu1reK5PWxUEe0SyjkdWYmGhSSNMDMPecpsgoGx7fhw1NakuQS7w",
+          "width": 3216
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106927472601465898204\">Justin</a>"
+          ],
+          "photo_reference": "CmRaAAAAAAuXra2VgqrsefZCRyHRUBz9p5O205ARlgqIFJMJ1vTpsER0GnuOLybaD4sNyeUF1ZttMgHewLW4AFUGJpVQMXZt6zdPdHbeuXF0-ft1MOPjDgzxmandKQQ8pm7WX2kNEhApqoZqCxB0nLO4QzLrGWy-GhSQmWbLDcpovb8jphslUetcwPtUIA",
+          "width": 4608
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116373105488577337686\">July Yang</a>"
+          ],
+          "photo_reference": "CmRaAAAAAkScXNFRhlUedQIycyYYFSXyOqAv6fINFCP8A_Lp0Aa4whnikDjigdzGZROrIMJvmAG_a-LBOTWLPNCRf6wJAKNt3A-78n0TLru9juivu_H7Wo0LBYiBNO1Y4lofI42jEhBEWCbn4DRrYgy3859YfC_sGhS-Rqg8uUN1cx26mXHH9W_vV0BlrA",
+          "width": 3024
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104987485407856443947\">Yi Sun</a>"
+          ],
+          "photo_reference": "CmRaAAAAqhj_e9ZuofbdpkEze4iI-Wen8RgJEOTL0xd3aUjH91nJnrviIaNnpRnDzYy_21Nxg43XDK328-am2IHC3eTmwGjghhcj8Q7fvOw1onkc9ErwuU0DR5AFdsmi2m4V4URmEhAu-8cogkwwOx4TQranF-2-GhSDi7rUEqxVu1zb1-NzsERY2BqoTQ",
+          "width": 4048
+        },
+        {
+          "height": 3891,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113373467480437455174\">Albert Li</a>"
+          ],
+          "photo_reference": "CmRaAAAASXaFXYRYwpOsHpY-8N0OzUgDPCe_HbrvSac86sjLjYwK7fk2BMs0c3uZmQmETNOWRT96VgYX4YKi5n1piRQab9uuFS-5vh6jENZrY9k0cZk6GC_Uztc-vwnONYMGVxOYEhAJJzGyFuGDI7fNmXOsvpxJGhTs7Wtr_ELyDS3Q8TzdoN3OTfaFcg",
+          "width": 5837
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100716428610249584515\">GuoSheng WANG</a>"
+          ],
+          "photo_reference": "CmRaAAAANuqiBT6y1yp1St7hUTVjTbzQnZsnE1fqS41FXv_DvqPIfhFl4_At2X_PUgDbZbKMT7cKZg5dgrPyaNBb91uVBBDlUP3K-aPTuJ3m0mM-7ml6oo9nY6d3Jt-3nXTNThGDEhCa84JP0eFTm2EbaevlCpkaGhQ0SgP0kXvRXtgEVCH55te5FudqWg",
+          "width": 3968
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "popularity": 0.7512061845635617,
+      "num_google_reviews": 328,
+      "mood_params": [
+        0.0036965087003307676,
+        0.0316804274538623,
+        0.030758886225133147,
+        0.0851125139006985,
+        0.0336758848620045,
+        0.07817453159153598,
+        0.08158789538103084,
+        0.019302699372573586,
+        0.0435555062092966,
+        0.02459683230910634,
+        0.06490939909534094,
+        0.020040068595805843
+      ],
+      "top_cats": [
+        "religion",
+        "culture",
+        "history",
+        "science"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -1.013654362548164,
+        -0.5256970625415618,
+        -0.5935102075282875,
+        -0.7041115504058263,
+        -0.9551052369525124,
+        -0.49491671205954774,
+        -0.7813244544055767,
+        -0.14305302511544368,
+        -1.291776899192921,
+        -0.7520110469503793,
+        -0.8980176646544206,
+        -0.6947250915782748,
+        -0.45130323817920226,
+        -0.7600349464938979,
+        -0.27316656763241515,
+        -1.1359320158629618,
+        -0.7850214827887461,
+        -0.7690509411302244,
+        -1.0288240091464163,
+        -0.8829546525955144,
+        -0.8702784073595217,
+        -0.9071451185563486,
+        -0.7028238444275626,
+        2.4137136293323493,
+        -0.35405903794507715,
+        -0.5726227125691409,
+        -1.202120318740118,
+        -0.7694736856102972,
+        -0.7036397631469077,
+        -1.056778073745174
+      ],
+      "global_mood_params": [
+        -0.4897298268422872,
+        -0.5646394615909079,
+        -0.5784073289794095,
+        -0.630654786485298,
+        -0.5412391681669794,
+        -0.9501886600615518,
+        -0.6001834504096981,
+        -0.41029441836792574,
+        -1.035206000995473,
+        -0.7431910200562231,
+        -0.6184277398419794,
+        -0.39625224332366377
+      ]
+    },
+    {
+      "name": "Tibet Museum",
+      "orig_name": "Tibet Museum",
+      "place_id": "ChIJM_F5yQExYTcRKuFIpCfPg3I",
+      "cat_params": [
+        0.069223586656142,
+        0.03749937632730427,
+        0.21140173998791986,
+        0.17533220497376767,
+        0.12033519871748828,
+        0.14397911971042912,
+        0.25767718662656997,
+        0.22621992582579523,
+        0.1531827960283517,
+        0.17060400368954273,
+        0.039986192503950885,
+        0.03992505997747553,
+        0.11371590773938241,
+        0.08298753951073466,
+        0.21644964523258134,
+        0.04589124517369328,
+        0.16917689250125859,
+        0.23032889185499955,
+        0.0757891773918541,
+        0.07319684313564884,
+        0.23284679056118202,
+        0.10495958039945712,
+        0.14379666759654458,
+        0.12235950718448016,
+        0.03649658309400776,
+        0.16202022469365518,
+        0.128619652546384,
+        0.17848196010549433,
+        0.07932982034651007,
+        0.1759002461353543
+      ],
+      "noncat_params": [],
+      "quote": "Sizable museum of Tibetan history & culture featuring a collection of over 520,000 artifacts.",
+      "phone": "0891 683 5244",
+      "int_phone": "+86 891 683 5244",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.648699,
+        "lng": 91.098484
+      },
+      "address": "19 Luobulinka Rd, Lhasa, Tibet, China",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108783923779324633530\">Yun Tian Sun</a>"
+          ],
+          "photo_reference": "CmRaAAAAloxXQitjUJtWC5Qq498yFuaKzNdVrSpmixa5fQmRKnAfmFmGpmHItGQwYV0L9w8CE_8unRO6E8ajfd-Dafeal0qO5KU1VxqzxU4IUoN8RFLIKP3-motwsvMZMlkqcJReEhDPMvVnyOetf6xlK1qvcfSGGhTU7yb3Ysjr-nc-TfcWExm4nzwwSQ",
+          "width": 3008
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103397358018791796790\">Jack Tho</a>"
+          ],
+          "photo_reference": "CmRaAAAAxUwStLc3eZAV0lcOJs6Gib8SpTlSytKQgHw787MHgYsZeEguTno86LL_MAfR1tcl2PXm3ZEZTpR0wedcTg_UTrfWzYGNkgjKDxQvcnIX3t7hqpZHq8H20Ubo18CvQDBeEhDsnXt6Ez0R4U02q0AOyR40GhQOhhoJaqD0paiemaGkQf73GTfFtA",
+          "width": 960
+        },
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117818978093739114522\">sam chen</a>"
+          ],
+          "photo_reference": "CmRaAAAAroafVGin-B9xuXfITN_7fnK9r8Z4W_bjS1U2-EgU0fmWQawotgfMVlngv4r1aiPQRwNnHiNHiN1prnE0QaXat0pcB8G2d8kUh6TGxLFtDG0AgEM9AUR4g-cJq6H8SEHpEhCza-7Np_TF958QMX0BMQJSGhTzPKne2Ki3MaAodcJuI0lyi-UPDw",
+          "width": 531
+        },
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117818978093739114522\">sam chen</a>"
+          ],
+          "photo_reference": "CmRaAAAATpcP8jT_3Hs4oFLUaKGgDn-SV3gxEA9SyUSo5sAXXfiltpCxpplKaZwRBoI3qYGna9_0rSbb6a1BtfyG-PoLRPAIrN1FTY2C9YuSHAU_43wRi8uuPDYjQxQvcthCX6VaEhBheFcjCvRbQBQ17W1GNDa_GhQmh14AoBjPgHl_YDy2Q5oE0m6SIg",
+          "width": 531
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103397358018791796790\">Jack Tho</a>"
+          ],
+          "photo_reference": "CmRaAAAAbNVYvTIUmrEYArEsVemDnlJjqsDZY9ur2FqZa-z-utzBP7ILn4QO9X04HM0ZHKeUOSNPOWkxBSKCkP5EVE7FDM9KgseIb2tF7X_dpSFubJ793kXGhEUKanmdaNI4YFX6EhA8mjjqXkp9rahYBVsq4IaUGhT8WnUQrWpNzR2pon2JyeJAKoZ-Tg",
+          "width": 960
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112272777466708528260\">eddie ec</a>"
+          ],
+          "photo_reference": "CmRaAAAAbFJbbFK0MEyzTm0d5wkGAsAbpvY_hvpVHM1oDwGbd53Mm5X1bre8sBz6Z6dQROe0sCCzJgZE7_DbmATlCOtzDnt2QEYQr4j37YmfG9RwqGM-KHWIxJSjj27MqbzvUoMCEhAZ042k3nFDaOARc5645bHfGhSO0BFYvEt2pJHvIJ4qWzMf11NJ4A",
+          "width": 3264
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103397358018791796790\">Jack Tho</a>"
+          ],
+          "photo_reference": "CmRaAAAAgAmMrUjjTs8ABnDystpSfJHE5vISIcPQBMF5ceU0YqDNZ6cBWPsrXgk2x9pt8zJCV3vAOPH15v2TzTTd0fRw0mO7Zk10e-df_TwZ3_wGWcj_pE6QPHKSUxUlW9XdBgQzEhA4Gok4HpC_J2OGwUv3TmMBGhRIlACaztl0s9MR3A5hNo9OLwvVUg",
+          "width": 960
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103397358018791796790\">Jack Tho</a>"
+          ],
+          "photo_reference": "CmRaAAAAmHzH_z1xo_8DN4DN_GcUrafgzsUppQ_A1UUvLp2p1kGqm8cIBZTnH17B0AdBZY9wthA5RRr5jVLiBmr0Mdygl0i0mtR3D1z8Y2B3UJJYag5J5xlpOd3KIHj4ehJsP6YPEhA1Jlwg_7MSdl9GCMk9amwIGhRzobVp4jhWRuVk_erf73uXq66KVA",
+          "width": 960
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103397358018791796790\">Jack Tho</a>"
+          ],
+          "photo_reference": "CmRaAAAASNp7WlCxofIF22Jk9254iU1f6PhQjj4-ukQpsegA_T0cTX7CxKWrJBdwpRPdnKSGfun2iy6-8AcSjWiyS7io_iLgtXBm2wU8Do1R_Mi4IanZrt-H1I-bH5uOJvrqaQ8xEhBOi5mDw37H2kLLWqMieUZbGhQjqGxz3Q1aMxvG5kHQzBX_bcRZvA",
+          "width": 960
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103397358018791796790\">Jack Tho</a>"
+          ],
+          "photo_reference": "CmRaAAAAri26ZeMBnYvrUerIYr3Sd4-uYzoPmlyallMyJxmvCuyxOy3-BPlLuIJSv_3jaysME7FarbRzEsOX1pCu-cJrV3q7bxGqeTGKLDoX29VZG1pvcNjrF0gKSYcrQUwE_WVvEhBsp9DZMWFdg6-LhJiwL7DPGhTYSrXAXTPGRcMqlkjWJYOO1-3Z-Q",
+          "width": 960
+        }
+      ],
+      "rating": 4.3,
+      "website": "",
+      "popularity": 0.42307676877394823,
+      "num_google_reviews": 33,
+      "mood_params": [
+        0.0018593334065764259,
+        0.01599997134612022,
+        0.009799962019205587,
+        0.04192845392166393,
+        0.01052923282922098,
+        0.040688223727020176,
+        0.04169141614683131,
+        0.010785791881738931,
+        0.02437567863956484,
+        0.018984733246166716,
+        0.04822037970592887,
+        0.008506844272603762
+      ],
+      "top_cats": [
+        "science",
+        "culture",
+        "books",
+        "architecture"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.1162002692594366,
+        -0.893827594033872,
+        -0.13006188962636037,
+        -0.39976426791093084,
+        -1.1382137942986192,
+        -0.015338465339101394,
+        -1.4963678631537882,
+        0.1674810528654306,
+        -0.7907981112491785,
+        -1.6028893553113848,
+        -0.9535518868701907,
+        -0.9589562969594212,
+        -1.5107715943226256,
+        -0.9019285082145965,
+        -0.8012658862393658,
+        -1.4579836412533649,
+        -1.6276391928116691,
+        -0.6651510473221103,
+        -1.1488845074752438,
+        -1.2444837547291396,
+        -1.4861703064184313,
+        -1.468454230708107,
+        -1.2768274016432473,
+        -0.42775317431244325,
+        0.2574060954713985,
+        -1.428043432464795,
+        -1.513857872158372,
+        -1.5718112394438424,
+        -1.3272638769412974,
+        -1.0577596333976702
+      ],
+      "global_mood_params": [
+        -0.6133384133212824,
+        -1.0344104983022357,
+        -0.9557649494689908,
+        -1.2963999567117,
+        -1.0492444155173708,
+        -1.4215796186745269,
+        -1.3552084776816886,
+        -0.7499123254080459,
+        -1.2889298937874587,
+        -0.9612950163443063,
+        -1.0046150336753823,
+        -1.101311382997436
+      ]
+    },
+    {
+      "name": "Sera Monastery",
+      "orig_name": "Sera Monastery",
+      "place_id": "ChIJEagwjao2YTcR6EGU8B0MM8c",
+      "cat_params": [
+        0.06798148458471202,
+        0.051080215669501904,
+        0.13917400714401834,
+        0.11189349005492628,
+        0.13270438093614662,
+        0.11336851017061543,
+        0.2545436619804721,
+        0.1244477287007729,
+        0.11804081210300735,
+        0.23975682186805022,
+        0.03948439675573675,
+        0.038146108863656956,
+        0.1625985527244786,
+        0.09479686836603186,
+        0.22549780128120336,
+        0.06523605085845312,
+        0.27086702631334814,
+        0.15979118830985367,
+        0.0925783402995394,
+        0.10785898821789261,
+        0.29419209088667475,
+        0.12620337169810758,
+        0.17631094192322835,
+        0.21973767545546363,
+        0.03341313128267875,
+        0.2025945574952398,
+        0.1586479054913192,
+        0.2714180147389673,
+        0.14625036093080068,
+        0.15873041465562537
+      ],
+      "noncat_params": [],
+      "quote": "Tibetan Buddhist monastery from 1419 & spanning 28 acres, featuring festivals, debates & artworks.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.693725,
+        "lng": 91.13414
+      },
+      "address": "China, Tibet, Lhasa, \u8272\u62c9\u4e2d\u8def",
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118192941044726298064\">Banny Leung</a>"
+          ],
+          "photo_reference": "CmRaAAAAylt7fd0hGq0Bbc1QGvVDa5CJdWOrnN0-ZmWJchC4Cl70lpRn5_EYEpt5VsCkfh_2H2l0HMqbi9yRP6h7SpOvEunsPaVeNnTZphI2s-CBwqvt0yUapmtJbQyD_491Tvn3EhCO4UqPhD0HHWecp6sT9UeTGhRDW_xrYDQdBOg7PAovpnbil2HoCQ",
+          "width": 1000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113373467480437455174\">Albert Li</a>"
+          ],
+          "photo_reference": "CmRaAAAAeob0O2HA6Ty0IvHl0Jt9Z5wt3snBVQBaSlkfst8xZREL_3s0tOr8DEbfA85hx0pBMPo7fISqNNFZ8_vX4o40XGcyEJpWRbinDprwoVbnVPJK-0n4QsYRdBqQ69IWlxk3EhBBHbDsTRn1hPKHyheiktYXGhTwp9RqOU0BRD4PLjLnEoa7DHGlpQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115447701877075476973\">Marco Fumagalli</a>"
+          ],
+          "photo_reference": "CmRaAAAA3sb30t1lL7JcxVXGsHCLOi_doHAxks2DrxsAFvra7fDO-EPk34yL5418Q8qdrtDiB43AqyD_B-pMcnSj4vqNaBa20inVtMmzO_ylU2ts584BG3A7y6nvhy2-1tf6t0RvEhD8oz3rWWpAr47xHF4mzJh-GhThvLCRSfsjfKCz89BByasFHzjhXw",
+          "width": 4032
+        },
+        {
+          "height": 3761,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113373467480437455174\">Albert Li</a>"
+          ],
+          "photo_reference": "CmRaAAAAf6UTLkIdBom8A-nOAZqKxvJf4LCn_7vH06kXA0qtNRia6Vc5KHu56eEdGrpA7UinJxqCEWjFGFfn-5IUN8JrKBPPUcEm1Y48slTsIJo22acsE117ULKOZEmFIUMbD0jREhCn1jmZS0ZvsfjqE4r6L85KGhTDNG1i54z81R6X-BvNzUl0nnBICg",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110074809683686618581\">Marc Steiner</a>"
+          ],
+          "photo_reference": "CmRaAAAAl1fMxx97Pcz3Jz0NNUghzNAeNkK2ewsUtAO5L8Nkmb7Br8gzvTPO_qrgM8TIMlcSBxje9o0qXqbQML5sOG4fxRVU8Ix2LzHXulftcHHx2wnFwYCCwBerX8VDrjGBDSeqEhDxKJLC-jt54a0DeRYC1NyxGhTMNiQgIZfMhIhnJXUQO-WoYmgMMg",
+          "width": 5184
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102940724607445050802\">Kato Ichiro</a>"
+          ],
+          "photo_reference": "CmRaAAAAx2XVSiZCJPgODs2bZ9NCtpYAuLe7K6X3oyGDEDjCxM6LOzdXB8Wu9aBwaqg8jz-FiGFiMvK8LIlnzQNAUKOwxLfDY3d88ZULmIFlqQIh8EGD6qwX0D3YXHKwvJXoSv1wEhC4W3ssDRnmGORZXN92Zs2mGhRGLll72G4Mq4X9nRd5DKVoEPyUdQ",
+          "width": 6000
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117712629685016644928\">Long Tai Nguyen</a>"
+          ],
+          "photo_reference": "CmRaAAAA-vzqCgJdHWTZkX9bjIOTuae6qOEqGOi9LtymSbsGeGZ5o3LRwp9JoNmDpCbqCmD0f7MTqHUWOSQKaBA-KgxTRS2qK9a__p8FHNU-PgiWaHL_-FU_DxX6dxzyg9sQOMa6EhAzH3QzdwcFmb0YA9pAYD_5GhQa9q6CFXXSiFLfRjw7qErydIgbjw",
+          "width": 4032
+        },
+        {
+          "height": 1728,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113490974471865864467\">A vG</a>"
+          ],
+          "photo_reference": "CmRaAAAArZtSLazxRNOe9uQfCVBzCxFCoRW98RV0yxBzoix2Y46l0CuRJLBV-jLDeucu99AlTWTI2DRvUOsD12VQSIeAOwQGtvGuWVetb4dmM-uxWif-Jg4EPLj0nL4TPz-fkvtKEhD4wxJcPirGI3f-78IptJAPGhQ_iFbTSRF3KN_7jT98PlW_htJkYA",
+          "width": 2592
+        },
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110525540889739395389\">Asami KAWADA</a>"
+          ],
+          "photo_reference": "CmRaAAAAWZJAe7u0OWvWiZZR8KhL3-iVRMnTYKFIHaPssNLEpTQQuOFilkRGe4uIWSBc1mkLi2CaRYouv9iAP13j_J4xZZziaH1H9cfH-cSGS3bMKBa3SBS1TyNCYIDEfd-IHva_EhBa2Vz0_rgIQUcjg5ZDs2LTGhRlOBARFxHLv65tb2Chcz7RajXIsg",
+          "width": 750
+        },
+        {
+          "height": 1632,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102025420636780382584\">Nicole dalla-valle</a>"
+          ],
+          "photo_reference": "CmRaAAAAJm-gbKECTrLQ9FyJ8a49C10m-xWEAD1boh6ENNVq_x9RtGoPhvxNhBMTuefJe7K56nJDHPgaaQje2uCX0r9zXMPjoSmeU3SrfPzbwrwZsrMSmCtThnj41q8aKsKjZdkSEhCMv6Rh_-55i2DEVAS6eP_qGhQpBui_PEO3qnAXmqyFCmHhJ69f1g",
+          "width": 2464
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "popularity": 0.6218288594367626,
+      "num_google_reviews": 154,
+      "mood_params": [
+        0.0049326170579275085,
+        0.049493832522882315,
+        0.02266775829412162,
+        0.09412855898274555,
+        0.019427929923819476,
+        0.0688019867807505,
+        0.06001183986120535,
+        0.02824459936950525,
+        0.034047470066423904,
+        0.03292333736221781,
+        0.05615058307069361,
+        0.010005757016505865
+      ],
+      "top_cats": [
+        "religion",
+        "science",
+        "books",
+        "movies"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -1.1312712272176058,
+        -0.7314453458576998,
+        -0.8395829951664,
+        -0.8531113356802379,
+        -1.0619164088369826,
+        -0.42370447866137406,
+        -1.529714314770478,
+        -0.9627815458414452,
+        -1.3108652917540917,
+        -0.8676124078210866,
+        -0.963872061093697,
+        -0.9758513309176087,
+        -0.982536407461879,
+        -0.8151532272669562,
+        -0.7028761401179598,
+        -1.2314194590430723,
+        -1.0758642404424572,
+        -1.4029487026884229,
+        -0.9345778771893268,
+        -0.5538101732825589,
+        -1.1869887731279882,
+        -1.2609179906628318,
+        -0.9102345779002974,
+        0.48063255586259096,
+        0.16862636595517716,
+        -1.1270862206537093,
+        -1.2324957239616827,
+        -0.968062525492566,
+        -0.9233027973542336,
+        -1.1758216857663915
+      ],
+      "global_mood_params": [
+        -0.4065621469062232,
+        -0.030967372645700306,
+        -0.7240850724133872,
+        -0.4916593221674357,
+        -0.8539425285647766,
+        -1.0680485703778035,
+        -1.0085017336258755,
+        -0.05372962472797747,
+        -1.16098481387613,
+        -0.4195965847425164,
+        -0.8211085192704679,
+        -1.0096785403468687
+      ]
+    },
+    {
+      "name": "Drepung Monastery",
+      "orig_name": "Drepung Monastery",
+      "place_id": "ChIJz2_vDxI6YTcRyST8rSEwOpA",
+      "cat_params": [
+        0.07655595921186292,
+        0.05453880730790851,
+        0.16426616249979592,
+        0.13670509692104107,
+        0.1491487596348594,
+        0.1255469585402219,
+        0.3299153259895069,
+        0.14651114426115613,
+        0.1358600642930305,
+        0.26585743338800205,
+        0.04130790173743409,
+        0.055930634381540355,
+        0.18624719806143505,
+        0.13566610868794782,
+        0.26637374204942255,
+        0.0889673114271593,
+        0.3512114272863372,
+        0.20276400861543742,
+        0.10617428878358018,
+        0.11171397825946724,
+        0.3681337043434014,
+        0.15049030133542052,
+        0.20605901868651352,
+        0.28773297438623313,
+        0.03130611498384481,
+        0.2654860514441493,
+        0.20242155092948388,
+        0.3315420446155902,
+        0.15962325326672622,
+        0.20172462660090723
+      ],
+      "noncat_params": [],
+      "quote": "One of Tibet's \"three great monasteries,\" this complex was built in 1416 & includes cultural relics.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.6733629,
+        "lng": 91.049144
+      },
+      "address": "Lhasa, Tibet, China",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115808238326629077700\">John Chen</a>"
+          ],
+          "photo_reference": "CmRaAAAAy3Zv75jBODpJqUDGw6RqSdFlq89feu3LZEmoalbkoDcJXhgzmPrTJY0u_B1qqBrNQGaEI8MGwvQIdPwShJr61sCkUQu1FyRRLwiGc5FeUphHfltZMWRx-82nfMNnejydEhAjoOKQqNExVNQ48zDuKyemGhSJlIz8LhA0d_6Luhh0rtqefKZz2g",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102771924361855130659\">Zsuzsi Kov\u00e1cs</a>"
+          ],
+          "photo_reference": "CmRaAAAA0jePSM7nST-bkaA6W9SbrwV-Lo1RQ7Mu3UB5KnclaNKsfrPNlM-hf-HcZ6g9kQ3RDO-ojzCLmMOt8iqpT3TQs1huaFqN6gZz5oDu6yVXxr7lJXhnIDD9wRA0Og7CU3tiEhCiwjP3URMl4VJQJ7YtkDbdGhTSE7Sb4gnoNGZRc67x6AFFzBv6fA",
+          "width": 3264
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106160787322050608296\">Wing k</a>"
+          ],
+          "photo_reference": "CmRaAAAAteOCGk1h41TggkfquYZVzCgv10H1z2j2nM78fAc--n6Id85jCfJQvoUDINttSwh5bhpF0JZBX2C861IC_F9_ztZfRipqzUjhrpPG3yTOBIhT14z6aSrDFJCNs0jv24urEhDosIDwd7s8k3sTLexbjY8RGhSR7AOv5Yv6ji-HbClBhfJVgBiH8g",
+          "width": 6000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106160787322050608296\">Wing k</a>"
+          ],
+          "photo_reference": "CmRaAAAABWoh60IOErqN7-kEDkXHse1onaZbWZSfHkLd9A3gminKmowWsmSkZRytzIw5aCBBSRvUkZ-jvXlfODe_YrjZOOyShk36AVNjodFXJA_2Id6YfWq0iTzK-xjMJOoJe4YpEhAUhXv3Mc_zh4qHEEgPEO0AGhT0Eq-29FvCg_B4QQ8kOF7Pb7XRmQ",
+          "width": 6000
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106233544218383927682\">Sireesha</a>"
+          ],
+          "photo_reference": "CmRaAAAAuKhkjeUEG9pugkwWU0SxEazo7_wZ7eZFAfGigM0rC3g1HZXPiX_uqo9bdvKEBo55Vtubqs-wWXOGohU2gkFo3eNJsG9SdfcQoIyLamXCVYSmVwrwJUn5E_b57jG_aBrnEhDBYGaWNjTqz6w1jF9OTYBoGhTt8tefvPqZ2QV-mPXHPLQMjHMIgw",
+          "width": 4896
+        },
+        {
+          "height": 1066,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116661636415966232651\">\u5168\u73cd\u73e0</a>"
+          ],
+          "photo_reference": "CmRaAAAA3W7c9LCD5UQQy5QIiZ41Yyr5-laf-ldVJ2sgiKmfeslGrzSHHJi6HSsN-LGP9jSPhZItMYHertrrnSdwR6FRnMLmjOvMFS1rjvdqXf_ka4Jk4pH1FlXzOZSBTHnXJrjvEhC73p0w5hYACa8rTMKx9575GhR6jgvgG4lGtlPvH6gYmw5F4-bCXQ",
+          "width": 1600
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112055181279863675456\">Junhong Ye</a>"
+          ],
+          "photo_reference": "CmRaAAAAQk_r2f761MxzRhSY5lqO4j-nLTbtzHnM81UbPPDW-jO5Y_ijzm2Fpjvr9CENWHJfonXhTudo1NLW3DrUlqPepK8cUVCCF1MbGDWhSm7BEHd-OhkG5saewT3XuP5yCYzLEhDaQRVOiCVS_3q9H-YC8RwPGhRVyYdWWssa8FMyfZM3Py6bHducBA",
+          "width": 4898
+        },
+        {
+          "height": 2040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112055181279863675456\">Junhong Ye</a>"
+          ],
+          "photo_reference": "CmRaAAAAsjrmqX1Rc2BXibPduGDHrCs20l7lNFsGZdHzvNw2Iy3F69wVd-3QgqtpDZlw70KR473dV2WIVVDJxn9tCPYvPO61HM1WuOfvcPY4q2vYUzFE422WvhD59nAohqcwHiGjEhDuRwQnix2g1TxXrfIFVI82GhRFol_zW0vbduwv-pPO_gmEXuaiQg",
+          "width": 3563
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117100080434912409401\">Viatcheslav Gavrilov</a>"
+          ],
+          "photo_reference": "CmRaAAAAMIsIeWXXUQhHPiJRoclMvmeVElG__bkzMIfGV3OS_YuwH_jdKW0sCYNY4WH8nR-z1C0AgyCDsFStFFZVPE96KGzPEkm_UDsF4iF4qlxSkbrG-RaWVwdUUN9j9I9Uc_sUEhAdhWMcyDVvb3NB1JVWHaTIGhR65JFU90J3LBd4Lffcfi24I3B1Lg",
+          "width": 4608
+        },
+        {
+          "height": 666,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111985212676339474328\">Peter Andrist</a>"
+          ],
+          "photo_reference": "CmRaAAAAinLN31FfCb4Sjid11Za-J2srvRriz3Qw6Sy7f4kGOkuDi0DXtewR-0SItaTFkwU4grqR-MeagCDJl4JIWZEFuDJFprDe2ShDkgV4nbpLqRw5fWaSvB1fufpHLZob-36gEhBTOBvrmjI2TVgRjW1hxuI8GhSlzDnIgniUZk4TujsEhdAVLh9EGg",
+          "width": 1000
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://drepunggomang.org/",
+      "popularity": 0.5228936588016796,
+      "num_google_reviews": 77,
+      "mood_params": [
+        0.004633578743305812,
+        0.03650460577695304,
+        0.03987038775415509,
+        0.10025132763902563,
+        0.037646464095490016,
+        0.09056868722675399,
+        0.09067508714317725,
+        0.015502313331443437,
+        0.053745455158197494,
+        0.029106565750586913,
+        0.0582133553325677,
+        0.015762385743559783
+      ],
+      "top_cats": [
+        "religion",
+        "science",
+        "history",
+        "books"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -1.027233443534976,
+        -0.6900919455547627,
+        -0.5930929960009763,
+        -0.6758021131685884,
+        -0.9604818048289488,
+        -0.2612358286111732,
+        -0.7276215179971834,
+        -0.7177494632875627,
+        -1.047157691612375,
+        -0.5900940293729202,
+        -0.9263689750760817,
+        -0.8069483407112478,
+        -0.7269846345907626,
+        -0.5148448986137072,
+        -0.25839072087375886,
+        -0.9534816119958884,
+        -0.6399121341946292,
+        -0.9534692828538175,
+        -0.7610312911459011,
+        -0.47699612233049643,
+        -0.8263749172893904,
+        -1.023652523858312,
+        -0.5748301536156414,
+        1.1149221544902297,
+        0.10796047962302747,
+        -0.6605930620833154,
+        -0.8223404299634829,
+        -0.5774734709136876,
+        -0.8425782847000398,
+        -0.8801877473536245
+      ],
+      "global_mood_params": [
+        -0.42668200345943874,
+        -0.42011182562503147,
+        -0.41435813913089176,
+        -0.3972679272103378,
+        -0.45409589220748964,
+        -0.7943319422647513,
+        -0.4282119546853573,
+        -0.5618375876018354,
+        -0.9004063785657657,
+        -0.5679284534568163,
+        -0.773375550722708,
+        -0.6577592865478511
+      ]
+    },
+    {
+      "name": "Ramoche Temple",
+      "orig_name": "Ramoche Temple",
+      "place_id": "ChIJLc_Fz3wxYTcRsWOo3YaJGco",
+      "cat_params": [
+        0.07718886961839933,
+        0.027031691273889193,
+        0.1616067112638061,
+        0.13536940257575475,
+        0.12003001524865092,
+        0.12506241203162666,
+        0.24810766678700386,
+        0.19382235570392797,
+        0.10390184452776322,
+        0.2209006763747296,
+        0.02863116090253788,
+        0.05235483386413899,
+        0.1511556689076288,
+        0.08978986167258453,
+        0.23071447793825225,
+        0.056779201276785866,
+        0.23750039732502978,
+        0.21342730405321972,
+        0.07850194521481871,
+        0.09019741986168701,
+        0.28823178349582945,
+        0.1490111845326258,
+        0.18559090535306635,
+        0.34027566925118213,
+        0.031573978773764104,
+        0.2617058355048047,
+        0.15928993580112644,
+        0.24127609673705858,
+        0.13547037145663265,
+        0.15136118029402418
+      ],
+      "noncat_params": [],
+      "quote": "Founded in the 7th century, this Buddhist temple features both Tibetan & Han Chinese architecture.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.6559108,
+        "lng": 91.1321962
+      },
+      "address": "Lhasa, Tibet, China, 850000",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104611112106656884924\">Alexandre Joseph HAYEK</a>"
+          ],
+          "photo_reference": "CmRaAAAAIADhVBTNFdLmxGirU6R59IxmdBiaAAnzZVH7bHdrcfsqvhHRD9Zj-owTbUC7Q-y6N1nqYpSpEMQA5_SddXNAKxcCSYGIQdU_afi9KebCage3FxRtnaQ-bDFNRYCmTq07EhCu9WOltOefWNA-bi0YSCHOGhQx0xuhqh8INszaYvgk99L-KTg-Cw",
+          "width": 3264
+        },
+        {
+          "height": 684,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102696435341742192739\">M\u00e1rio Henriques</a>"
+          ],
+          "photo_reference": "CmRaAAAA5PqwtDmmG4rAhyxY6XCuyQgRN64shZVeokiMduFeIO7zFiaePYz67hC0v31yJyt0X_GQLI_cOZAyWiCBdoz1fYFUjynEvxu_yo8ctAamcl9JNjbxOHOY0te5qPJkAyArEhA8enczGNJ0i1CbTyj_lA35GhSO7T2tVtvHi73xw-phtB5LHgFinw",
+          "width": 1024
+        },
+        {
+          "height": 684,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102696435341742192739\">M\u00e1rio Henriques</a>"
+          ],
+          "photo_reference": "CmRaAAAArKef4RfohizkJJ3n28TpwNS3dxRoOPCDnhwcsqJ5uIYhE805o_z2W8iV6EjDDlc_n7atJQKhnpEyyawrtYQhMdn-UxRL0dEpOTH2sxpuWAo4JKGOEU29ZEfOpQQU2t3MEhDhKECrEv2tgMKbWIIKCgVpGhSclWH1-q6YleUqNkQpFGCSGY3H9w",
+          "width": 1024
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103844559321393001169\">\u5f35\u8def\u4eba</a>"
+          ],
+          "photo_reference": "CmRaAAAAeNruE3uu8_7dE_t8vnPfxMpBBlLQXC06tfSN3bSVO5VHq8dGR1OFNxjozF_Xdy4IAdqZmfxErDsgNdmbqnjg0hVJrZygMiB3yYBttYoh8TsDhLkfz_lUzRDEvDnzYQNaEhAsEaHxSeN4slMgAMBS6lGNGhRNZSusEBB2cq4Lw4GHlLIXSVqqtA",
+          "width": 3456
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAADjXuxrBWTo4wQR0V0ZExpbI7XzETMTmG_nbj-XBV5x1cODGNtqPF1Tk_NJ8pzZdQ_nQh35LFBaycHLgzPQmKa_AnVnXK3GX-B4wBQ8H0uzd4kbrOYpFPIQk3c9B9fVS6EhBBomIl1Kwib7T3qBJtMMJMGhT8jp3Oc92sea7yD1kmPWilRAO6MQ",
+          "width": 3696
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116243286670448635818\">M Komori</a>"
+          ],
+          "photo_reference": "CmRaAAAALEfDAD-AJlX23ulvFNU7EZCWGZhf0HGEc7VGlplhGl-lq50MKIda46qLMZM3mECS-eVfwqbY5lhLU3xuIOkM0G_5zAgSxV5bPe4vPykR_YqieOpK0agdw8LfFHdm6O53EhBcDeBN9nhjbymBLs6eTIULGhQ3vhXhMxw7r0gAvvkGBPcZF_av-A",
+          "width": 3456
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAZMebVU1QB_aTcFhxFZkoyzAT686Dpa4MbcVM3BEgOEbYLCCfHtb67a4jxVnat52UzpOwFx1jVUQxsaNAomW7vxQsVonYl3pQi6EmWUV-Ne5XWPRJGh7FK2o8L4BJT9T5EhA9tZESHr5wPX9GeRbtzdmQGhQlhPwgKj3y3IrF-UgdRJigXjBJhA",
+          "width": 3696
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104611112106656884924\">Alexandre Joseph HAYEK</a>"
+          ],
+          "photo_reference": "CmRaAAAAmOWNRRy-Z_IfoJUUZzmcplLCevv0szlIgJP8OL3XDsvU2hsjjq68kynrlDp-xJotKRe83y2r66XsHf2edNVO7aYoFKhwsm7t-eZ50uH-NL9ZfXBKOyrGvls5GD-7XD2sEhB6GflYLV0_KyROqa555xArGhQY8Tczth8MXgqz1IoYCeGyYhmn3A",
+          "width": 3264
+        },
+        {
+          "height": 3696,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAtmUgwcC3H8tNe5qfj1ev-F-ncS--E4iL6s8MYwekfWXX0qtqOFuLyq_gSU58DrtJ__jarxyOoOnn6a3EJifDgC3fl3kzgpdE18YodQJqaWhkme9lm_Y7nK7_s2F5vp2uEhA5anczernjTNVj7j5OpdyOGhQq-6XVeDEHkIqDozCaqjZXol_gEA",
+          "width": 2448
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAA_at7CCqvYEPkss9yYIS4g6k2qSamR0MOJoBnF_Ab3J4REh9sDU9MO-exVvJaur6M_7B5rNdCsKTzMdNfqWCJwUrw_o11Rzy9AViYHxL04RhjvVuDpuuoeMUTOp86hztOEhDgLwce2RrQddV6Mt_I0fO_GhTDFpk6WUmIOjvtqCzx1ADA1wL7BQ",
+          "width": 3696
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "popularity": 0.5436899699730426,
+      "num_google_reviews": 90,
+      "mood_params": [
+        0.0017304215283247837,
+        0.019114831972448662,
+        0.03598663664750816,
+        0.04946537816188203,
+        0.03672185823414955,
+        0.055036333068404976,
+        0.06535575853724497,
+        0.009771729389274982,
+        0.03348657368201801,
+        0.016506809749842945,
+        0.06430671668694156,
+        0.008473596456772781
+      ],
+      "top_cats": [
+        "religion",
+        "science",
+        "culture",
+        "books"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.019554069715708,
+        -1.0189867384243247,
+        -0.6192178196219442,
+        -0.6853472799590298,
+        -1.1400962712762224,
+        -0.2677000032538541,
+        -1.598205112374862,
+        -0.19232017804193333,
+        -1.5201082593033561,
+        -1.068102994682965,
+        -1.1870849625430342,
+        -0.8409083920583147,
+        -1.106190392901136,
+        -0.8519448534342395,
+        -0.6461499420808833,
+        -1.3304651274653385,
+        -1.2569129757580335,
+        -0.841935252440724,
+        -1.1142571627955704,
+        -0.9057323824130299,
+        -1.2160572412031934,
+        -1.0381024087928956,
+        -0.8056045940416787,
+        1.6050631695423982,
+        0.11567289942762796,
+        -0.688632543464622,
+        -1.2264799551620125,
+        -1.1638761341232338,
+        -0.9883754364557825,
+        -1.2264935245752882
+      ],
+      "global_mood_params": [
+        -0.6220118453586111,
+        -0.9410923387036045,
+        -0.48428363061979063,
+        -1.1802072941013866,
+        -0.47438844374481887,
+        -1.2411518998081006,
+        -0.9073701946639747,
+        -0.7903488079774654,
+        -1.1684047353319937,
+        -1.0575949944778478,
+        -0.6323739330190581,
+        -1.1033439175054716
+      ]
+    },
+    {
+      "name": "Lhasa Great Mosque",
+      "orig_name": "Lhasa Great Mosque",
+      "place_id": "ChIJ46_xW9QzYTcRR9FSRprynPs",
+      "cat_params": [
+        0.053447425010938354,
+        0.033558883094231856,
+        0.11183902691884681,
+        0.04066711718354655,
+        0.16526243167264862,
+        0.06887622723090031,
+        0.1447192154359732,
+        0.07961346002371575,
+        0.11735559730484854,
+        0.10877815258736205,
+        0.012564819675884947,
+        0.017217542513899006,
+        0.057814858802045274,
+        0.13912775004810338,
+        0.10328832390087912,
+        0.01603184465990924,
+        0.06020957993031395,
+        0.11559443441614445,
+        0.03558097603654704,
+        0.029811784349537622,
+        0.19505906950408958,
+        0.07262704012506478,
+        0.05365244005036258,
+        0.12910517319002915,
+        0.02107797928121168,
+        0.09457900365475608,
+        0.07168151039233206,
+        0.13284440415281337,
+        0.058155381625019015,
+        0.2598799480852178
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.647997,
+        "lng": 91.138628
+      },
+      "address": "Lhasa, Tibet, China",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113373467480437455174\">Albert Li</a>"
+          ],
+          "photo_reference": "CmRaAAAARyM8GVYBumSaUHW5Q4001qiq5jgWtV8i97ZlLRFeayRz5oBUYL_lZpDBeMTxsWs82514IuCKK3VUgKFEc-xzuCUTBUytHYIXDwKmHDAJrKVvGPcVn1bJLCb2s6R1eUF4EhCFRQBwSCCOTeF5SfZEFVQYGhRBflgnp1H2mw33MrJ9DebHbQDU-Q",
+          "width": 4032
+        },
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118192941044726298064\">Banny Leung</a>"
+          ],
+          "photo_reference": "CmRaAAAArHsH_zpeQi_M_lnPCwmDlJoS2Pkrt3yftmnsPuuQom9Ut5RLpvvNySTQ7hcbASbOYQXnrmGTQbsp4Vom1JVjNsK2_0Dep64DY349FH2d_-uINgZAT4Yq_godYBZdzGMpEhBgx3MBJf2Mkyrj_PljX6L4GhR7YjfgHnVavjU_aVzmcFi6GHNRXw",
+          "width": 1000
+        },
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111228978241388668377\">\u674e\u82f1\u6c11</a>"
+          ],
+          "photo_reference": "CmRaAAAAXSmIpLsI3032k3BVE5x1cGg0ScwlhgupiBFHE6kOX9eEYhbV5Hpt62MkuqZUh4md_5g6AFNSozQNpOzMHLAro8FTKM37Xu9EkPO2XvPYSt8jfMgfIHedh2AuPj8njOxFEhBCc_CFSFZCTPJfCiAA9YKOGhT6KvoqVhM6muxMlI7-TAu9Tw0lZw",
+          "width": 4160
+        },
+        {
+          "height": 618,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103692926703558594768\">Mehmet Sar\u0131g\u00fcl</a>"
+          ],
+          "photo_reference": "CmRaAAAAdATi76Wa6SfQ25aXe6-egHnoM7arDYqGirYjrv2gdL9Bdgg_nZO06b-vQ3Rp_PfQPhV2XYLlgnZT1KqaL5-htHk-EIolM2eJnhF7aT86JBcDAbJ8d-JTLJC_XyHwrIyUEhDL6s7IZu9q576FvyEl1DWhGhQjd7E-p_-B9t4mQRaDToY1XzkViA",
+          "width": 922
+        },
+        {
+          "height": 615,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103692926703558594768\">Mehmet Sar\u0131g\u00fcl</a>"
+          ],
+          "photo_reference": "CmRaAAAAQgvWhvY-4GmWVRuMgP1hkVVunvvNzHahM3_0y3EnrRqKhZDfQeX5609E-Rgdo0iMHxQWa1C1ZmiKtHdjoHeqU0ckDfOSe9PAtWKZhZTNSQa_CQ-kqwsC9qngfExdpVSkEhCUk80CPpCd7X_z2G_tGOfoGhQzb1gT5UySSKDIye7hZVtVE7OAyw",
+          "width": 924
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111228978241388668377\">\u674e\u82f1\u6c11</a>"
+          ],
+          "photo_reference": "CmRaAAAA8ono8oAEW4GOCkqkCfuAGMZc-vaIa3u4iG1D-lIHjlPVqN-4iPwHNZapjR0xa6niVYy7x8Smn80W-pkIh7lBmK5j_uEKw0ITSCtPlv1y7sVu5UvgqlL4UMwEJVyz81ttEhBpIG-lOsTdPMMz1FKsjZzNGhQxqMB38EisNYdQAnn5BcXPW84xNw",
+          "width": 2368
+        },
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111228978241388668377\">\u674e\u82f1\u6c11</a>"
+          ],
+          "photo_reference": "CmRaAAAAvdcFdDDcD0fjAnXOCATrwlFJdXdijbsgi6BKU6d-6za54dHEY-AOwCLbENjBhxt-OD6HzcoIKrQwpuQuT4HqJArO3QoRiDPJyIlRr2yJsHGyI093wmdiZCGaKZIWI14XEhCdlD1UCzPE64F_dHyVTr9DGhTYrUMdHEyQweSuDQrKmcAP4_A6JA",
+          "width": 4160
+        },
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111228978241388668377\">\u674e\u82f1\u6c11</a>"
+          ],
+          "photo_reference": "CmRaAAAAztz87sAflMakV6_64E9CnFx6C6X4fnahDr75n3vSXI2dmh2xbv2oP_IBosts7GaUYjIRgcvy-hpTlg5kklOniqbYUzsrUAvtPj468iyufz87Ml5EU_8a5qBPP8pyZ3fiEhDzbae2_kEKqzi-G_MiMOFJGhQbjHpWzn5Cer40gJ4EF3aCWkhP0A",
+          "width": 4160
+        },
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105841001528798910394\">\u5289\u611b\u81e8</a>"
+          ],
+          "photo_reference": "CmRaAAAAFE8S9zvk7PeM_sxaG3GZdMC-GS7QWjJv9ifIt9k30Dwv7TNXq6QQ0PA2FEeLKFwRGLhOOQsOQykxFMMO4NhvbF20gW5T9lxSqpII1N6aZ-Ok49o9gMy8nz7fcGLrAYxUEhCBqROxNfcDhWGkCbseEHy2GhRTZDW7j5wfsurZ52b9ZXi-YS0W0Q",
+          "width": 4000
+        },
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111228978241388668377\">\u674e\u82f1\u6c11</a>"
+          ],
+          "photo_reference": "CmRaAAAA3VJclZ-Tr3lpAgwWBruxPQxtUffMcS-ahEbyjDqYsIwmTpVGZrkNdbqEh-JsDvJoU7p0gPgOoE-nvtJgergU-hRaF18Cgxw-H7oAM4ny4WRMZRDnPIaL2Tasqmzjb3syEhA4-VNX1ItwrbRtkBV0yAhAGhQlKBzbrlaHhlIu2v-sinSah4nuGA",
+          "width": 4160
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "popularity": 0.3138995505196357,
+      "num_google_reviews": 10,
+      "mood_params": [
+        0.0003822953235562891,
+        0.004000117500468228,
+        0.0023746654463946415,
+        0.00996646683581429,
+        0.0018741393943892902,
+        0.007443903956583569,
+        0.013284774604584276,
+        0.0022116575727690884,
+        0.003740465866691325,
+        0.002412040420783427,
+        0.010446463319358602,
+        0.0029192119034629803
+      ],
+      "top_cats": [
+        "science",
+        "religion",
+        "water",
+        "hiking"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -1.3076192149040717,
+        -0.9409429551677847,
+        -1.108105135148209,
+        -1.3621107271463642,
+        -0.8610871136572833,
+        -1.0172613035937996,
+        -2.698447931589619,
+        -1.460702377439506,
+        -1.321005804278249,
+        -2.2602613073416733,
+        -1.5175131122104266,
+        -1.1746138693756514,
+        -2.1148489931648746,
+        -0.4894086604287802,
+        -2.0317833106470324,
+        -1.807693572122544,
+        -2.2189004238642136,
+        -1.865230004158785,
+        -1.6621253515657541,
+        -2.108969027119967,
+        -1.6704613322252508,
+        -1.7843194049289677,
+        -2.2931879880199677,
+        -0.36482668012212854,
+        -0.1865312707583713,
+        -1.928283866343464,
+        -2.0473633684711237,
+        -1.868290531823729,
+        -1.4550818690092158,
+        -0.48030399667694645
+      ],
+      "global_mood_params": [
+        -0.7127162953548827,
+        -1.393914312650662,
+        -1.089454647404581,
+        -1.789140531441671,
+        -1.2391998732213623,
+        -1.8396275048963782,
+        -1.8927928890589107,
+        -1.0918121936204053,
+        -1.5619066186453452,
+        -1.605362502312315,
+        -1.8787111208351635,
+        -1.4428994038836829
+      ]
+    },
+    {
+      "name": "Yerpa",
+      "orig_name": "Yerpa",
+      "place_id": "ChIJ6TJEDi7KZjcRnZsSoN_0M9I",
+      "cat_params": [
+        0.061111094154792454,
+        0.03695701880048776,
+        0.13820597030290077,
+        0.08392357662177902,
+        0.1767189931766909,
+        0.06234104051747112,
+        0.2336858306830938,
+        0.12568588489294813,
+        0.13558365862009308,
+        0.1940438532962363,
+        0.018541012114927653,
+        0.06131881895247353,
+        0.13356440052851712,
+        0.2654845149922588,
+        0.1973557935341799,
+        0.06093615568425444,
+        0.2748436834452785,
+        0.1601441162952272,
+        0.07365453022603319,
+        0.06410840374903934,
+        0.32352328701389627,
+        0.15645625931267468,
+        0.13530531995597597,
+        0.23393862406898566,
+        0.012633592124857361,
+        0.21712607200373615,
+        0.1363048783042063,
+        0.2960669695091163,
+        0.1448557635187767,
+        0.23627561138142372
+      ],
+      "noncat_params": [],
+      "quote": "Noted Buddhist complex with cliffside temples, a monastery & meditation caves dating to the 7th c.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.74284,
+        "lng": 91.28027399999999
+      },
+      "address": "Dagz\u00ea District, Lhasa, Tibet, China",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106463109332290936538\">Michael Chan</a>"
+          ],
+          "photo_reference": "CmRaAAAAJNwSDHq7sL7bzzpbnbfr2bky1nHpSB3RX-rOMknYHsgUGg5J7AiFuillJagdUIjdaOaACqKLFnwYleLdlWl0f3O_tzb4-9MCHjzzHcL0bO9cx-GDrGYQ7pEc3caGUYYDEhDUHXo4w9-tEW6Eme9LeiBMGhRTF0YqgB86Vy0qpizQ46JVh8KunA",
+          "width": 6000
+        },
+        {
+          "height": 1728,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113882333894275924872\">Aliaksei Sauko</a>"
+          ],
+          "photo_reference": "CmRaAAAAhXbON3TMyQSDLP7og2D1ZZJPLOXnlaRdEAZcy7sEQKZKeWHJyNjvxyVtcpYjaVKH2LT0SidT6QovL1XB3szZrwuQ0hczkeoVpA82yx3YbiRFBueLlgVhsr67Uyz63Tq-EhAsG9PgDv9zG9k2WwKK4mYtGhRNOG31aqC6fvuV34tQuhQCbv6RNg",
+          "width": 2304
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101652154073891872268\">Youg Bin Ji-San</a>"
+          ],
+          "photo_reference": "CmRaAAAAr_MfOhrMOsmI0UPHwpCZRI7_rq50ZGR4baIPB2UQZK6GmWuCuQNMYw6qcyROs-YZOg8bqQdmxrYLL9dLwETatiKvzos6fzQCZc3mLn9CpMyZ8rLVxMqJCnu6vZ_lGEmdEhCfzkofVvPITL7WggxRmzfnGhReiM-2m-8YtIpQLqkZBnggZyqaaQ",
+          "width": 4912
+        },
+        {
+          "height": 2432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112938191641416269920\">Voon Leong Lim</a>"
+          ],
+          "photo_reference": "CmRaAAAA7Wk3CPwukSL8-kEc80Bg2iILqt-qd1Vsh1BcN-XKvUlsp0yn_m8J4NYYLQPoFq6B74nh3xeNDgRyQF_mqt-Z-eJ7Ka7uYuyVd2cGk5TcYbYJTZ9MOlWqL63e2rqgq2fdEhCWGaT-7Xl6gIF8k-dmC4UEGhRtdjcZS0zBQ_lOVTPyGB5pXuDSVQ",
+          "width": 4320
+        },
+        {
+          "height": 2432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112938191641416269920\">Voon Leong Lim</a>"
+          ],
+          "photo_reference": "CmRaAAAAaNI7thypprqTIp54agPjvz1hkzY8Un9EKjSFZ6EKeCSk-0k45-sb5SCpLR_8Gp3M9Ke9uSTTYqdSqTSDdoLjqV-On4RlzuAM-6-2BP-Pb5Z82wkAPurY7uylMVBPBnZqEhC8janhHCW2yoTM3GdU8SwyGhQ29YqvNvCpQh_Mxom621ILaa4FTQ",
+          "width": 4320
+        },
+        {
+          "height": 6912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113505395355306003016\">Chris Su</a>"
+          ],
+          "photo_reference": "CmRaAAAA-GjFZPSZzxE3_KV3igKtxqikiKMNxRNdjdJ_MtKcA-ytgWdqfwffNeKduxOqHM3p_tVTQG1CYT3DnVNWSkReAkzpoLHH0owdDWhE4tCSOtwl01GxXSyouA_lkNf1lESVEhBpPtibFJu1nUsv1rJqwQwpGhT_KZpqPwh0HksZC3-XDfpLDY-Pvg",
+          "width": 9216
+        },
+        {
+          "height": 1066,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106838476177626022957\">Eagle Hsieh</a>"
+          ],
+          "photo_reference": "CmRaAAAAK2Fp_Uy7FQq8KpsGpIFmjyAs2-hjXCLCzTdwwf35ll9SYqlyV-xsrD1WitPrJocfzvpCkcH6CYqzkK_ZwoAmgZ7c8Nx8L4EZ9anrki-QmtAPRj7d-e3MggsyrTRNW4VoEhCI8L11q9eZhDDON42S0PQhGhTremPUKoZnvfOnVFnQr1bA29FeAA",
+          "width": 1600
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102737729557962659674\">\u0410\u0440\u0442\u0435\u043c \u0411\u043e\u0440\u0446\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAC_TPfv1j-HqSJpLIQGoUrjT8uysNXXfWr7YTKrHlxe14hnzW8Owr9tvh-x2ExIwdCP9Ofc2Qe3foQYH2WRMjVYb_q0xea-Jfpg4pHnVTwuIqY_8iz2Sap60NQUvp6GwpEhAYJ8p4RDw_0jw4lI1CitxNGhQbI4mahA7jqtqDUiJlU_XXyYS9iw",
+          "width": 4128
+        },
+        {
+          "height": 1584,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112938191641416269920\">Voon Leong Lim</a>"
+          ],
+          "photo_reference": "CmRaAAAAokRxVQth2BsBPLEmdEk104T-Y7roak1GKwNGAux1cRXMRTcHaJGkEcr5U3NTxAOXl47R7pWeJWU6gfti3euVLMUWT0DYc5DnasrzG1mBF2TuG06RFOHWEmROibm96WTzEhDxm8Dip1OQBohtcEXaIDYrGhSBDKj6Kud0-1UJgBjpH0TJcK9bsg",
+          "width": 2816
+        },
+        {
+          "height": 3004,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104569488650385655172\">\u694a\u5049\u5b8f</a>"
+          ],
+          "photo_reference": "CmRaAAAAiwk9x6XSSAG-aupyWaNd0HtT0g4_gk78cIDkWUgNtf9wflIhpHg6Tp4LEYNBTD5rFNZgqwapm4d3N698xVH0MvxY5jSFW-hkEd8J3LA3R3cKEidyP77PV6SLog4g9xmyEhC_B70bJKG53UvKRDQeRj7SGhQvsQ6Jrq-0U00fFrhUq8Wl1-sw7g",
+          "width": 5325
+        }
+      ],
+      "rating": 4.9,
+      "website": "",
+      "popularity": 0.33517879237708337,
+      "num_google_reviews": 13,
+      "mood_params": [
+        0.0012223052459333994,
+        0.019027598274816974,
+        0.035236667721673894,
+        0.07231222651221395,
+        0.03366029851559184,
+        0.06937954542648098,
+        0.050850636453781364,
+        0.010985263051126298,
+        0.04331684070980496,
+        0.011739484791539946,
+        0.047058129307016305,
+        0.010569004882574853
+      ],
+      "top_cats": [
+        "religion",
+        "hiking",
+        "science",
+        "water"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -1.2146326253725255,
+        -0.9003124093166867,
+        -0.8490923974786342,
+        -1.0529905144577492,
+        -0.7904190877775841,
+        -1.1044450671516162,
+        -1.7516799096647917,
+        -0.9490308194652244,
+        -1.0512482267200545,
+        -1.3536618975966124,
+        -1.394603846072518,
+        -0.7557757364773452,
+        -1.2962849948235717,
+        0.4390644062472934,
+        -1.0088926348266207,
+        -1.2817793463227776,
+        -1.0542867312259367,
+        -1.3992572096707194,
+        -1.176132384184276,
+        -1.4255788648562193,
+        -1.0439402888264429,
+        -0.9653694956802816,
+        -1.372565878770643,
+        0.613105155260584,
+        -0.4296647632024327,
+        -1.0192997510337185,
+        -1.4418479676007336,
+        -0.8079333398776579,
+        -0.9317211853593476,
+        -0.642610565576146
+      ],
+      "global_mood_params": [
+        -0.6561988582402243,
+        -0.9437057744538802,
+        -0.4977865416715853,
+        -0.8279898566600508,
+        -0.5415812455332195,
+        -1.0607857605900246,
+        -1.1818738703482883,
+        -0.7419582668327842,
+        -1.03836323165284,
+        -1.2428683856544407,
+        -1.0315097436544236,
+        -0.9752455799929484
+      ]
+    },
+    {
+      "name": "Pabonka Hermitage",
+      "orig_name": "\u5e15\u90a6\u5580",
+      "place_id": "ChIJ2WaMqJU2YTcRmiqDgq2TjBM",
+      "cat_params": [
+        0.030547277677386585,
+        0.01454868610821437,
+        0.14054603461720488,
+        0.09165907246213464,
+        0.08836343689614365,
+        0.08240450183836986,
+        0.18918843684980677,
+        0.14153100707162874,
+        0.08506718787533817,
+        0.16840228368735083,
+        0.007713378819655971,
+        0.023633587930554364,
+        0.09784577384471568,
+        0.08166845184526553,
+        0.14565396852468018,
+        0.018741362630100684,
+        0.10203020181572335,
+        0.14698682776487582,
+        0.060502238390702394,
+        0.03412717749398849,
+        0.1944924137618988,
+        0.09164036383182513,
+        0.08536895278579529,
+        0.24735330006844977,
+        0.003935297396557387,
+        0.12515738562690482,
+        0.10078116383972253,
+        0.1479884982503662,
+        0.0712184001583356,
+        0.16944355596825922
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.71698499999999,
+        "lng": 91.118687
+      },
+      "address": "Lhasa, Tibet, China",
+      "photos": [
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAL34_wwqpSfMQz3lcXSjpRCc9-in2bj5knG6x45Tj7gKBnjndFyHkbgRqISUomqbCExmWedXEvnA0VPZRhqFzzdGhIxB0KbhKueGSCMxTQJ_qXJaF_1SEsV1IonM_WlZoEhCu-9KxfbaEm3N91J9JscZgGhS8vQNyF2GYyEgFtpnzn_AyzPIXbQ",
+          "width": 2048
+        },
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAoUXN-uFu0gYzyxggM5C5Yh-sPIAWHuSKWO16jG1pFQdPinZ4EMSE0JEi4167QlZL4sAMf538hmAfynJNUSEFFA0mjmd-CryQaaFlpINDoSsDoWFBlKrrjEKJ1kBaTKljEhAg_KMzXrI8cQTJ7TIl2YdmGhRXkm3V2wbP_2LbsxSYcL5WZwnSXw",
+          "width": 2048
+        },
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAr44Dt2pExSWRlTKOu6yM9Qoci0bEQWo_bO0zz2yuryAOw-c8d67d0iS5gBUdgI5C_2TBQh2pT26n-rJfwGsMKAPUF-LCLL0CzRRFJNfvDAUIv4sf3L5jPeazYjIvvJXYEhAJGnRZIEWXNux1C7LtLmPCGhQa-b8Uof5Z6pKyR9L_NeFh2JGzXQ",
+          "width": 2048
+        },
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAdm7eiQ_J21uoIvboSbhgeHVkpXr6GAOrXzAtiEboFLLV_oiek08qOLPOY7klSYeqavk1P1RrvVjLmoxIw_Y4MBR6oqI5NJltQCFb9dd8p4xN8WVeVg1g8BXPYsCFHZgEEhBWH_qN9eOnQOBusvMJxGJjGhTFpzXSEgzXBmT4HQ3LqJ-qkAYrNg",
+          "width": 2048
+        },
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAMR4M5ARVBg8Q4rLV0U5N08Rmd1nOojiM5xFOMV3ai44P9KTcaC7_bnHPYgLlUIvgKBGC_m4T35d-D3iu3YeCKEtU65-9nV9Uken1-D-krCAC68EyK1dCd44krmNTm9BtEhDtrUZYbjieH7M3uXd1qDk3GhRnElexREnTfZYHa4EKc_plsub9xQ",
+          "width": 2048
+        },
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAHfFs1OIPpViez6oN-7LJUcc0JmIbn5Q07qYoiqM3lAkFdfNNPDJDdDKmLtx28TsngC_u1zN5EDooqJTORK4FbZbrCwVqGzEIIxOzgLD0I87NlxNfj-C87CcZfvSvG5dhEhCf4PfWeqZZ216MvIL1NkRBGhRauizzdKLY8XSmk1uK5_N5IEdB6A",
+          "width": 2048
+        },
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAGIWg0ZaNNlCwgyY29x2xtobtC8XYO3z8_vkrvsNcvrnxqsZIHFNYgFb9KCkqSjQKqjIzP4ukHeAsHgAQd49wSZSZjUzDZbfDmts0rcpoUqVJyS30F877ot9879VJbWvYEhDZOZQ97kpMssKgJhgJuK5tGhS85SO3BB0YSQ2sMVgQZdbVfRTOjA",
+          "width": 2048
+        },
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAATg4YtS2OU4Jvia_JIelnfS4j3hC6lS45YKSCH85oTXKZwb0bItnaikOoRwzK_P2UA3gPQKa_9LDXaCQx1Fr9XSCpa3rN1SIalRqV_ZD5x3m13ANBwCAyQH8PgKPJAdNMEhCs7VEaKfHxYzr2Qh23lhPGGhQEiOHyy9_pKbvPCYT4c3pjQBM_jg",
+          "width": 2048
+        },
+        {
+          "height": 1356,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAeHVNPiZqjgsde4iRj2YDNJtx-g1JtCY1XVUqu3MxuXUziRZPdV1IyWhF-H80rgf-ljeeFLYIB1aSPgYZt8jKok-5ATBLLxYUlLx4Ttbm6PJj1r3DTlLHe_DXs1zvlo6sEhDxgcdfIZwfzOJx7tRtus5cGhSvnck12cX6_XaD8WxS1KzzYv0UyQ",
+          "width": 2048
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105433274866932860986\">Cheng Jen Hung</a>"
+          ],
+          "photo_reference": "CmRaAAAAeIheADnM2On65pTllrckrG0zSZLlz6AmqIrj_fUsTrimWM2z_FyKrMZylAcamu5lFgVlSp4RmlWiZmvgLlj2_m4dIB6YKLB5QsoTyC-H8doaEmWyta70YUjhIi7_uclXEhCe5xBqzw3_sRSK2pNzD-aeGhQRgEfBdyGwndnQmNJeyWjcJjYGng",
+          "width": 1356
+        }
+      ],
+      "rating": 5,
+      "website": "",
+      "popularity": 0.17651868921586686,
+      "num_google_reviews": 1,
+      "mood_params": [
+        0.0,
+        0.0,
+        0.004358725765752372,
+        0.004748796821911784,
+        0.0045484457013337575,
+        0.013875854614736652,
+        0.004673592660405731,
+        0.0,
+        0.005668973819052443,
+        0.004375389183860999,
+        0.008600225497514427,
+        0.0
+      ],
+      "top_cats": [
+        "religion",
+        "science",
+        "culture",
+        "architecture"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -1.5854765389020156,
+        -1.1682424943994953,
+        -0.8261050357832568,
+        -0.9977109527350171,
+        -1.3354266570771391,
+        -0.8367850683396192,
+        -2.2252138237440358,
+        -0.7730579164875775,
+        -1.7988428578341027,
+        -1.626299449145321,
+        -1.6172901929240604,
+        -1.113679476997109,
+        -1.6822672886720267,
+        -0.9116212015224221,
+        -1.5710988356660438,
+        -1.7759600032718554,
+        -1.9919799667477607,
+        -1.5368774629648791,
+        -1.3440158789877292,
+        -2.0229810413402083,
+        -1.6732249169317719,
+        -1.598573195253324,
+        -1.9355897883449578,
+        0.7382430631633533,
+        -0.6801088435650838,
+        -1.7014709049317402,
+        -1.7747021177233362,
+        -1.7699086135099564,
+        -1.376227887506515,
+        -1.1021566965567446
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.5137538971787086,
+        -1.0537323806668213,
+        -1.869578512800467,
+        -1.180506217005947,
+        -1.7587456160356145,
+        -2.0557560879938737,
+        -1.1800036547536363,
+        -1.5363949948742557,
+        -1.5290605328474025,
+        -1.9214334385192822,
+        -1.621359214904648
+      ]
+    },
+    {
+      "name": "Chimpu Caves",
+      "orig_name": "Chimpu Caves",
+      "place_id": "ChIJ5TL_TtMzYTcR4_wOWeyzYUY",
+      "cat_params": [
+        0.10331790121097087,
+        0.04381019521664675,
+        0.12871844084402756,
+        0.113852377637342,
+        0.20762918184065818,
+        0.054225564250083666,
+        0.3268750408422202,
+        0.190178778854884,
+        0.12907918594131546,
+        0.24360113873905828,
+        0.035155747687649355,
+        0.08333662941235931,
+        0.2031074398199146,
+        0.34075372249738645,
+        0.2971778079887736,
+        0.09195811640910079,
+        0.3488616502054165,
+        0.2784966944304681,
+        0.08247272256227199,
+        0.11506117043663583,
+        0.4233483083543561,
+        0.2099548003623587,
+        0.2452178049993188,
+        0.19656676498088407,
+        0.01193854266371342,
+        0.3177417208752932,
+        0.13525396710645932,
+        0.3768889148979759,
+        0.1474466999367394,
+        0.29871343105689807
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.645554,
+        "lng": 91.140856
+      },
+      "address": "Lhasa, China",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116359549467188474097\">Ngurang Ngurang</a>"
+          ],
+          "photo_reference": "CmRaAAAAfsul60-2PXuFJAdNSP1Iu0SFD24G7a5TsPX5eDp8tL6hntsa2p0DaDQC_EueFNHJOgVTZ3jYYHs3BGJu34RUflUGCdLFrPJtfbC-LTsVNFAM5Rbh_zasV8tXwMcR3hndEhCV1Iyj3pq4PwQ-CMDfEcVNGhTVdTxXAN8yw_o6YS8q-o44Topcfw",
+          "width": 2448
+        }
+      ],
+      "rating": 5,
+      "website": "",
+      "popularity": 0.20991728114646296,
+      "num_google_reviews": 2,
+      "mood_params": [
+        0.0,
+        0.0,
+        0.02644620127535147,
+        0.08828003298824984,
+        0.053678644879495585,
+        0.14338796922460623,
+        0.06904755944506044,
+        0.0,
+        0.07465978002769152,
+        0.04008037969590994,
+        0.026422864935857684,
+        0.029264239938976748
+      ],
+      "top_cats": [
+        "hiking",
+        "religion",
+        "history",
+        "original"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.7025193060863674,
+        -0.8183709206086888,
+        -0.94229208858692,
+        -0.8391126923799443,
+        -0.5997543746626668,
+        -1.212710950756909,
+        -0.7599757302709526,
+        -0.23278504717441015,
+        -1.147508095653734,
+        -0.8267371745543278,
+        -1.0528971528647357,
+        -0.5466684414453777,
+        -0.544789645785979,
+        0.9921446623732726,
+        0.0765730232298112,
+        -0.9184536413909485,
+        -0.6526621236803265,
+        -0.161334081100877,
+        -1.0635718536096768,
+        -0.4103003883154868,
+        -0.5570928402537788,
+        -0.44272803769982355,
+        -0.13332160556919306,
+        0.2644842671445419,
+        -0.44967684931126606,
+        -0.27299037123377806,
+        -1.4516949151638923,
+        -0.28288258557127444,
+        -0.9160811821046915,
+        -0.2132797858875027
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.5137538971787086,
+        -0.6560556144820872,
+        -0.5818228671344768,
+        -0.10223368970798097,
+        -0.1301285732851846,
+        -0.8375043284369429,
+        -1.1800036547536363,
+        -0.6237373677672252,
+        -0.14145118547659527,
+        -1.509013946812721,
+        0.1676478534026165
+      ]
+    },
+    {
+      "name": "Anitsangkung Nunnery",
+      "orig_name": "Anitsangkung Nunnery",
+      "place_id": "ChIJkx1jndUzYTcRrrVVZEElxRw",
+      "cat_params": [
+        0.10492806142152954,
+        0.08241145711526242,
+        0.17168904173367228,
+        0.1735448497556712,
+        0.17552463581725075,
+        0.09136757472350289,
+        0.3306799919050448,
+        0.16256882378202242,
+        0.15912714595571148,
+        0.3375515844002375,
+        0.07228372235031355,
+        0.17203992135615684,
+        0.21853932681748628,
+        0.06951083056118325,
+        0.2540780976377153,
+        0.1575866745094148,
+        0.40320917081450314,
+        0.211707007826344,
+        0.07862045449719046,
+        0.17281052359033913,
+        0.45629615255199507,
+        0.19027265910715788,
+        0.23656774958319793,
+        0.3146727794712634,
+        0.006194933573708742,
+        0.37092960930791524,
+        0.21793405799484306,
+        0.33695297066506097,
+        0.19767425070741731,
+        0.20721794516769237
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "0891 665 0832",
+      "int_phone": "+86 891 665 0832",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.648255,
+        "lng": 91.136141
+      },
+      "address": "China, Tibet, Lhasa, Linkuo S Alley, \u6797\u5ed3\u5357\u5df7",
+      "photos": [
+        {
+          "height": 586,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112039585023515401361\">Stephan Hartmann</a>"
+          ],
+          "photo_reference": "CmRaAAAAejuDd3qDzBtW0qFqgJqflqqroFKQynfgxZZ8mDtmhnPPt4gfZf48kRk16cBma_375MtSIMm8XSex4sEn9FQam6g3djMJNt_4xfTI4_E2zSuK6Y8sWFrIHk4Ikhd9DwelEhBav-_6ui55Qe2Rrz263GDjGhSaNiDgfdmhAa1cTWOZGWs4p72mVw",
+          "width": 780
+        },
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110525540889739395389\">Asami KAWADA</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ0q6knFLzbXH6djQZr1xecxBbrqUkUMjfqR0Js-PPRFZ63awWk6nCIOzdYnTtq8oMCN_K9eY0IjS5fVYznt-ECQXKti0UKy9cvnPMHV1Ev_Wpv9Cf0ELLkvsrzpzCe81EhB4ANbotEL-IGbRuFwEICPkGhTjIiAnmx3IWUZsFDj_gwh8Cvt-9w",
+          "width": 1000
+        },
+        {
+          "height": 1039,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112039585023515401361\">Stephan Hartmann</a>"
+          ],
+          "photo_reference": "CmRaAAAAuxR74qUK3TSEvu1yP-zhRLcdTpElAB5rYkj5dm7mZTpqxxeu9oA5V98bX0d1Sg5nbPUBceUKfFCmD0CUblO-6-JsQy2h0CpsuwC8qyuexZZchXIlGXBs-7D_MtUeYxK-EhDZy80rIANQjHnAHx3IA8QuGhR44NGeeH1XGc4wrrQPGTPDQTRVbA",
+          "width": 780
+        },
+        {
+          "height": 586,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112039585023515401361\">Stephan Hartmann</a>"
+          ],
+          "photo_reference": "CmRaAAAAWeOuiRJRL2gJFarqolNOHy5rFn7gClegkba8ATjFqPTawAvGDRn8mT5qkExZF9mb4A0lVmhZUrWm6kMg-UBy-ge5dOkAD4Ws-9KOP-_zxs0EUkUTnRuOqjLHgoveYYHuEhBX7Uhb_LkH0uW7q0jHBTbkGhRr7_Sqk9L0gXfYrZu_KQDxbEgZAw",
+          "width": 780
+        },
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110525540889739395389\">Asami KAWADA</a>"
+          ],
+          "photo_reference": "CmRaAAAA1xCrBaZ2wPo3MWrXCU_x68ZDQFcipKbK4mu_65KxzFdEymC00cXiq4l3Xl0IEzZ-WlXOE8VYrWCHsI6seUNu5iaOINOL8_WsbxzVmUhkQQMgZ2Epsua29SkXkIQiA56bEhB1DdQAmIQU8JyIyrGAtilwGhT2y0nZd2tLZ9pX-e-FDwzR6RkJ0g",
+          "width": 1000
+        },
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110525540889739395389\">Asami KAWADA</a>"
+          ],
+          "photo_reference": "CmRaAAAAyaoWNRtJBCkgboVCAXtQ8atv0_9i1vFJgQEGQ_RQ1dPioZN8jfjiucqA2aqRHghfHZhSYa9BWUnSC2wbUzfqp6rkKS9gzmg25yXXnrnIIPsiHZFf5f9uy8B93Y9XSp2lEhABd_iEalOTCsPD1lIJSOGjGhR9p9yy1j7lWSxdQzrQskJMaJT0pw",
+          "width": 750
+        },
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110525540889739395389\">Asami KAWADA</a>"
+          ],
+          "photo_reference": "CmRaAAAAp2UnLp4BbqjP5F9UOEH-prhW5OrusBB--V4AI0FBE06P_TzZUclTd_O0Vfse0n19HICFD__D99awZQuugHxT33iyMbL8lyO9bpmMgVCsFVKgDjt6xip-89SBQcQdQpwvEhBhRj1g3uCx8hB1kVONsvfxGhSAMcisT4LV3a2ly_wBLNpa6XJNtg",
+          "width": 750
+        },
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110525540889739395389\">Asami KAWADA</a>"
+          ],
+          "photo_reference": "CmRaAAAAgN5glfHwk7hjeVCzoS0yd7ET5nTu_jzhAU9-Qcav-26_QlZ0stfV9SIOaiBDJHJ-VHtCCYCwCHGFCMeHplWEn7QYdwuceYPP-2ah_y7puL2sKZzcgoAYUaE-WQIL--JUEhDDrcLEjHgU4y_ngQrdCUkmGhRr3JBwjgYKy0MAup3iTXquqptT5Q",
+          "width": 750
+        },
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110525540889739395389\">Asami KAWADA</a>"
+          ],
+          "photo_reference": "CmRaAAAAACZacQkITnX0N3Pj7FuLwxNr0ZrYvR0mpY4N_Pzaxk8Jr6RRsraFhJgym9CO5ka4X8_H8mjf_jfaPLG98i6ldI_NUQUuuw1bM5SfPojsRc5UL5EsMHMMaKbS3B6Atpe3EhCuwSD4u5PHJEkSyR3tUsdwGhT0jAwUxzQIvdzlt2XcM1OJnGMm-g",
+          "width": 750
+        },
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110525540889739395389\">Asami KAWADA</a>"
+          ],
+          "photo_reference": "CmRaAAAA7ErTReUJ0_zZ-gCeefFWKJYY6nopSX8RB9Xx-w4Wc594knJc1xwahAaaTSlQ6hoJAO753geiIRppInZWDOzei1I7m0mBiVsJvwZrNl8ympZQCap9qiDTF-c2-vxAr_m4EhA3uDyi4URifZvKh3H47DXVGhRBjgg0Y9GpHuBvZKptfgFjjxuS_w",
+          "width": 750
+        }
+      ],
+      "rating": 5,
+      "website": "",
+      "popularity": 0.2762666785865021,
+      "num_google_reviews": 6,
+      "mood_params": [
+        0.0,
+        0.046986997961239466,
+        0.0944175829483612,
+        0.11049099466192112,
+        0.03631599156180384,
+        0.09131929328741216,
+        0.06197746758982242,
+        0.013582262496522427,
+        0.08147011330091183,
+        0.05115132047911392,
+        0.09520833121443573,
+        0.037399396757622175
+      ],
+      "top_cats": [
+        "religion",
+        "movies",
+        "food",
+        "family"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.6829825406325354,
+        -0.3568265689235652,
+        -0.5201751668938033,
+        -0.4125371030514729,
+        -0.797786296233345,
+        -0.7172116787127947,
+        -0.7194840696489886,
+        -0.5394159390327916,
+        -0.7028275142213017,
+        0.17220399256899194,
+        -0.2893052562647808,
+        0.29576343762778934,
+        -0.3780297310092406,
+        -1.0009557450437527,
+        -0.3920936903590383,
+        -0.14981937139916385,
+        -0.3577701860723297,
+        -0.8599288992272554,
+        -1.112744441458459,
+        0.7404060227924586,
+        -0.3964059336225971,
+        -0.635008103659795,
+        -0.23084948543721576,
+        1.3662283245224947,
+        -0.6150486769441891,
+        0.12152698738994448,
+        -0.6769895725616392,
+        -0.5423219933032233,
+        -0.6128861472591401,
+        -0.8424149558690049
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -0.10606966959389308,
+        0.5677437846426995,
+        -0.23940854880708376,
+        -0.4832960991147721,
+        -0.7848930582926839,
+        -0.9713030093802155,
+        -0.6384010170705997,
+        -0.5336456157423447,
+        0.2888007399448231,
+        0.08269569515975822,
+        0.6649733633319066
+      ]
+    },
+    {
+      "name": "Nechung",
+      "orig_name": "Nechung",
+      "place_id": "ChIJ4zTPWnU6YTcRevEgQ-DhL7E",
+      "cat_params": [
+        0.04792605373435357,
+        0.028065357469006194,
+        0.07361069874201881,
+        0.05341858813575572,
+        0.07555365370043456,
+        0.10687118760107456,
+        0.14028111135534227,
+        0.11607741372758816,
+        0.0607149911417458,
+        0.1245623573633308,
+        0.026545465833253668,
+        0.021115592214588204,
+        0.07347548253539073,
+        0.05130055291916236,
+        0.13475308828948637,
+        0.01654220481826264,
+        0.12186414169146875,
+        0.11481422762172475,
+        0.049600134702288426,
+        0.050699281457141816,
+        0.18077260800064518,
+        0.07122039032122807,
+        0.09108831180497462,
+        0.19692995244568584,
+        0.036231279295679854,
+        0.1051569988381265,
+        0.08416936234573458,
+        0.13581983755560315,
+        0.038468776158610635,
+        0.13081753291510298
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.66805399999999,
+        "lng": 91.058047
+      },
+      "address": "Lhasa, Tibet, China",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106160787322050608296\">Wing k</a>"
+          ],
+          "photo_reference": "CmRaAAAA6YmISDe_ZcIY1UYltz0l97MLXJAvIiUuX4pHb_XsmvdBi1CuSqYmD_Hbg3rHEhfBWi55jm1QxNlxzLb0e6DtpYwQKTZYipm9MlnGgXsM4P-T7AQ67IucRGbViEfiOT2kEhAVYYAqDPDElHzboJVgVqNVGhS59kzh-IKHoAcoSvvWkK4g8qSeqA",
+          "width": 6000
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106291619392764762851\">Sagar Dhamecha</a>"
+          ],
+          "photo_reference": "CmRaAAAAng2ELhrEGoroyFMhNXUNbJoAnWLmttHgPzeCbDWo4sOj6Zek7pYM7pRAC2eFoDsSFfeMIa2Uagf5Eur6it5N4and81dfNtk6YhoIV7uoCbT1uD8ol7Kr7-Gy71xyREAiEhBHRfG7-VaHCerymF_W-TJCGhRGy5iV69B4kcPAIrmBRWYztHRZFw",
+          "width": 3264
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106291619392764762851\">Sagar Dhamecha</a>"
+          ],
+          "photo_reference": "CmRaAAAAUUOrWKqcSkePPj2nrsxo484tFNu8dHRdq44CL2JUmhtI1M-O3SuM47ZZgbnEwZxQF_XKS0r_f3VYOIWKbIfA7t0CN_8g6ZPRuq8VRrNRDdtzwS8FRWae6id5eAQMX6nEEhCBU9c3RQXBxgRS81HttQGaGhR5RkXG9wFEVZXwZNtxdtO-ruFNaw",
+          "width": 3264
+        },
+        {
+          "height": 4306,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108026164785162588609\">Carl Nielsen</a>"
+          ],
+          "photo_reference": "CmRaAAAAw-0i2pU4l-w0DLDoB5R__JIfi-ggZsfGFUWgp2BbwgkYFAg0A6VVAi0GDO3tZDLRIaol0wW5ggDvjWqUGYhjlrqFqb_HA95hrLTu4E2Z6hMsYBW-EZQtm-EmZkPVSG46EhCpIwaCePbyC4CF98cxLTpvGhTdEsLaf6YPHxvOH-8NT6p_fOT-sg",
+          "width": 7375
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106291619392764762851\">Sagar Dhamecha</a>"
+          ],
+          "photo_reference": "CmRaAAAApHmsTyZKsNX3UVgADJYM7KYIp_iBCz3opnyBY0cWZqIg6weojdaIl9UGDHxOvTn4FrJTDRVq_ZQZydAfuJ-0hqG-pxBGdouinUGDUeWsgDDYRxU7ClyL6vnT5o6G8pQvEhC0DilWz5Jsc_bpJ5QgiHWTGhRRtGis1DODNQ2Xp_phnQ8ymmPORw",
+          "width": 3264
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106160787322050608296\">Wing k</a>"
+          ],
+          "photo_reference": "CmRaAAAAul_sIOZwbRbNkMkyNH224Mvxk1DqWjSVpNpxD_hpAxdtbn9tVNml6nvfXiwD3_y18j-VoZiNBscT82vRi5qZ6N5BJMC1_Z-NRc7fcs16Jwvv8d8xkraZaZFtzyjPPKy3EhDnmbO_6yLTkgM05wSLEyQdGhQLCCXz0vtWpjxXHPnrSbx0iOm14A",
+          "width": 6000
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106291619392764762851\">Sagar Dhamecha</a>"
+          ],
+          "photo_reference": "CmRaAAAAdbxzIQB0-PH3wGyMu-onY6Ol0J9ZOo7050678Vg_EKEQciBfrqbWmrddM5PH47pddW3-xoEIukhQSOjMOIq51of3-CuQ7qd_n2-3WWnzDW1NHh8jCapGFL-1V6_F1AYKEhCxJgiNK74fBsBdFdLNcKn2GhSg6UcLbVHlwEvj6_5y9iNEnrk5Xg",
+          "width": 3264
+        },
+        {
+          "height": 2299,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108026164785162588609\">Carl Nielsen</a>"
+          ],
+          "photo_reference": "CmRaAAAA6CBWebsMNGwsfEGg-giu9g8GILur0Td2DIWVEAyoF4wPXDC27_lTaUKBcdWyb0SxDJ3gQPqWizuvoC-tyApDjLK2Y72rNwzXOUc5vkci_6tTS_sO1GkpE2_Dl4Wli6SfEhDnUcU6drFqfZS0HIMCrX-uGhTmxYpl6RvXYvknTkm_GcCM08LyJw",
+          "width": 7821
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106291619392764762851\">Sagar Dhamecha</a>"
+          ],
+          "photo_reference": "CmRaAAAAJ_fp6XmC0tT0RnPra5ALAMn87t52WQzC0k9x8GsK6zkin5fEj2Gv_waK5U6nsxST88T8-h1jdJc4u1pL79I8pHfVSW7ATl7KvKl1E1nWwq82VJEGv0dXEO0UCwSjXgNUEhB4SiKsXm5BBKL-gxpLiv2KGhQKM2qlLNFiHua1jlbU9uFDrk1Asg",
+          "width": 3264
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106160787322050608296\">Wing k</a>"
+          ],
+          "photo_reference": "CmRaAAAAB7BV9r1gtnsTyEP09-0bMa37qPsf4D4P3QqQ6KE_AuQSHE4MXplIAqPIvime43YRPoa-6pSbxlWQEoFYEmVxaJqkDnYxw-kOrMihZDECFJhqEWpLdOfvlx_i32lmq1czEhC4Cjs5iGJ96IM7oWaavEyGGhQdQnBIhcY0RN4agOV3D4V1ZfO2Bg",
+          "width": 6000
+        }
+      ],
+      "rating": 4.4,
+      "website": "",
+      "popularity": 0.2968678659738139,
+      "num_google_reviews": 8,
+      "mood_params": [
+        0.0,
+        0.0,
+        0.009606987402066452,
+        0.03661625722234395,
+        0.014828467556494283,
+        0.0256898120812078,
+        0.020300800518824776,
+        0.0,
+        0.017299241308399528,
+        0.014580971978935877,
+        0.02483554258091885,
+        0.00991593416143288
+      ],
+      "top_cats": [
+        "religion",
+        "science",
+        "books",
+        "animals"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -1.3746123842215119,
+        -1.0066274845963763,
+        -1.4836368679466119,
+        -1.2709858994551806,
+        -1.4144418214498269,
+        -0.5103831092042005,
+        -2.7456775020284185,
+        -1.0557406665133207,
+        -2.1592316828146556,
+        -2.0924335569775803,
+        -1.2299803768001831,
+        -1.1375933568094116,
+        -1.9456173055861488,
+        -1.1347653779097286,
+        -1.6896351245051284,
+        -1.8017162915132512,
+        -1.8843601729685913,
+        -1.8733906716414641,
+        -1.4831766648671834,
+        -1.692767363878004,
+        -1.7401365222596399,
+        -1.7980613405017973,
+        -1.8711050038538592,
+        0.2678722371203817,
+        0.24976738376244992,
+        -1.8498223435747168,
+        -1.9303532694016012,
+        -1.8489609605667305,
+        -1.573918661542266,
+        -1.3677543852633063
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.5137538971787086,
+        -0.9592393855432392,
+        -1.3782952045782018,
+        -0.9548880568546778,
+        -1.6101849000733923,
+        -1.7600173845803209,
+        -1.1800036547536363,
+        -1.3825418525099271,
+        -1.1324391676342196,
+        -1.5457449080748307,
+        -1.0151696695528964
+      ]
+    },
+    {
+      "name": "Ganden Monastery",
+      "orig_name": "Ganden Monastery",
+      "place_id": "ChIJO5Bjo4zAZjcRPjaNiVUwjK4",
+      "cat_params": [
+        0.06022857486209661,
+        0.04074557301678501,
+        0.11320232489369735,
+        0.0845655887501777,
+        0.20286036487232378,
+        0.07506714213616017,
+        0.26936135260793964,
+        0.08676729743560994,
+        0.160766739510465,
+        0.22058500471830073,
+        0.028497533941453254,
+        0.0537567263230666,
+        0.16907826586260202,
+        0.22673774788389872,
+        0.2201058985616216,
+        0.0819809657887042,
+        0.28387788548310866,
+        0.1525831715559786,
+        0.09821396749016661,
+        0.08590299578023974,
+        0.36174874258824563,
+        0.14554625833667956,
+        0.155364191678261,
+        0.2500912181243696,
+        0.023743602332584615,
+        0.2078931908070932,
+        0.15756514052046927,
+        0.34827884231357753,
+        0.15502878791945146,
+        0.24657407313852103
+      ],
+      "noncat_params": [],
+      "quote": "Famed Buddhist monastery complex built in 1409, with numerous buildings on the side of a mountain.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.7554857,
+        "lng": 91.4769889
+      },
+      "address": "Dagz\u00ea District, Lhasa, Tibet, China",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106463109332290936538\">Michael Chan</a>"
+          ],
+          "photo_reference": "CmRaAAAAIxr2DgaBtG3QLLgVpF8TeaVVplYwzT-HPoYPl_Jb2i-0z9THb1CgQFP29EPEnZzZM35PSIYgdNCQSeHoMrcpmGXNEYUlwbXxV23wPmBclIvl5Eg3FlQx-9KVlW7mf4hSEhCsjKPGJXIdV2AdDcmK9b8oGhSeFIfipllGT7czhY0lA2hMGTkiMw",
+          "width": 6000
+        },
+        {
+          "height": 1943,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116197248854161238749\">David Barkan</a>"
+          ],
+          "photo_reference": "CmRaAAAAfmcrkW4qO3_tvO1qgXugI-dXRcUWTcsBwJjr6Fty2K_US9_xLA4zl4PNtLcxaBcp9IVtRPsSxMgmISIMTzPY4vXFcOuqi91mNhVqgOS-FwoI_4YlWUYXXyVi-jBtjVEBEhArrrS_YK0t5oxFJN3LAvTpGhR6J3dfC6Kl2EB18jGXScvByYMNHw",
+          "width": 3317
+        },
+        {
+          "height": 1728,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117292268649952881785\">Clint Liang</a>"
+          ],
+          "photo_reference": "CmRaAAAAn6MRA0idLEKGmNoKs7pjix4tp4ZPW1AvJX_UtqPiXEa_jevL8YjGkoD2vWOvRAG_uOf1moIYUM8mezOLl89DqQtcvKD-xVtY-W99oES_YBRthvG1wN4i1h96b79m1RodEhBrJiIvpNV_AoupqKv-MjufGhQNVlW-xfX49caIBKwItQNhs7v2Cg",
+          "width": 2592
+        },
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114051586145606502770\">\u5f35\u9b5a\u8766</a>"
+          ],
+          "photo_reference": "CmRaAAAA8YlLUbT0a4QDPCB35OEIm8KfUmhG1kAbjDWYTt5SN7csy-XsSG7zb5vNOldHt4v0jWSeUNm1AsBm4g_oaJrBydx0Sjq_LLXfmY3HJ3MWHi3xVjkhVnBUFiwBq4UwzrIfEhAAHy4Q-2iETyCWbjwZfxO3GhRgibHHfWqKriKPrNHsef0PJVx_BA",
+          "width": 2048
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116197248854161238749\">David Barkan</a>"
+          ],
+          "photo_reference": "CmRaAAAADgR-4u0urWv2ln5I5LYoAbJc7hoN7VMt52K4jvEd0TpKWxsNpnseooLr3wYmX5t9-zWrLwcJFPglM9bZTkPaKkcsJdtqMIS7gr4drSgW5lqDSfXRS7yKs1LnX-5qnSypEhCo0LvP1VajYB_YdN4yqcjFGhRzA3sfz1dHCS5yUv5WHtpH9cA-7Q",
+          "width": 5312
+        },
+        {
+          "height": 2358,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116197248854161238749\">David Barkan</a>"
+          ],
+          "photo_reference": "CmRaAAAAd8RHYvJIECXaeF3xzvIdvxx5cgq9pphIrTvRRQqtCgfpcw5zWmXXy-EKSXPqvKGZweLJpgR0kSU07adnvne2mcO45i5M5LzAbLQSgr4QMLU8wC5I_YBbGuPCu4-fOXqqEhAl-KBaXzdv_uYP8y_5Ee3lGhT9XJ9liYsiN8w6hs51F28y6k5KuQ",
+          "width": 3763
+        },
+        {
+          "height": 4015,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106463109332290936538\">Michael Chan</a>"
+          ],
+          "photo_reference": "CmRaAAAAO4KzCxQ5Pztet92dCHpyiRCAgJj-zKk9koUPMgY5tRAtAmSQC2KRa7s9pch2xqjnow-ntIPu1_qxDHKtRUGrlMR1Uq5KjpYw9pCgIrdlym8OdHva-hPtLlXxXSLCyva8EhABEUhp2AwMj6By4rvNSNQ5GhSe3sHP0aZWmANN69NLNC8pzWLmVg",
+          "width": 6019
+        },
+        {
+          "height": 3946,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106491584960444217173\">Jey</a>"
+          ],
+          "photo_reference": "CmRaAAAAielQR_D50tFfcKZIFREmyFdo_KP3McOoQYD17xuUEEedWktCaAJ_Ig98SxXYeuOePOMCuq7BHWP3D1Qa6JUlCoIWbc7GbUO19Um3QYBvH2f_HHQaGM0KtkYaV7e2pPHJEhCKhNOxRyByb9gh2bMFkbJtGhQ1kN3ElRKkKyT02e4uawdEAvkIrg",
+          "width": 7530
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116744539557139491833\">HUONG GIANG Vu</a>"
+          ],
+          "photo_reference": "CmRaAAAA4ZEtZXzzPLlcix8p75agHMi82pMWGB5ennNiazGhTXJ6aj1lNh8qAXGtnmefptx6LDDGWRUfMYojmdrJxuPXdjtHs5cnzJ0aGljC5raxWIZ9CM1Ode7lKBuduv5erKsoEhCkILoklgvSbYZyB6U2uf8_GhSjHPHJdIILOaLEGrdzzSrID1Ir7A",
+          "width": 4608
+        },
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117258687788623789753\">Yara Mattos</a>"
+          ],
+          "photo_reference": "CmRaAAAAKC20n97CCwHG_3GEGwELdVbX0xc8ZBSBtvMw54SSM715Gaw0uQ1kCx0Uix9qjYua_9Wz-kyWzS7Fj8gkDFbk4fpWnshTkBRbYwsBCBJBcYcbkQBk9bhx0s97GvtcYH1yEhCefEcEwvJewIeFB-ape9HJGhQ8hMpu3qwWBQNxl6_JozIsNCMm0A",
+          "width": 972
+        }
+      ],
+      "rating": 4.9,
+      "website": "",
+      "popularity": 0.43535258231345747,
+      "num_google_reviews": 37,
+      "mood_params": [
+        0.006010697281520879,
+        0.03353540000175732,
+        0.03697828915227097,
+        0.08263560024472247,
+        0.03901820210716026,
+        0.08670452667575104,
+        0.08547858075475998,
+        0.020989495958004884,
+        0.05144611878554995,
+        0.017072923736637095,
+        0.05669665022230534,
+        0.020308929681484934
+      ],
+      "top_cats": [
+        "religion",
+        "hiking",
+        "science",
+        "views"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -1.2253406110231573,
+        -0.8550137399577047,
+        -1.094712929021693,
+        -1.0484025539945805,
+        -0.6291700838014775,
+        -0.934670356314878,
+        -1.3720268990371303,
+        -1.3812532244064721,
+        -0.6785631243961239,
+        -1.0714594174298888,
+        -1.1898331992992424,
+        -0.8275943551995568,
+        -0.9125153911816788,
+        0.15435207053038638,
+        -0.7615077482423313,
+        -1.0353049040986373,
+        -1.00526677017122,
+        -1.4783418271250082,
+        -0.8626414572849043,
+        -0.9913025412576719,
+        -0.85751442818546,
+        -1.0719521931666833,
+        -1.1464055667831397,
+        0.7637835486391642,
+        -0.10978180036820724,
+        -1.0877839870041037,
+        -1.2426411386399565,
+        -0.46874473129078736,
+        -0.8703124477179363,
+        -0.5717969683245269
+      ],
+      "global_mood_params": [
+        -0.3340268950974459,
+        -0.5090663091960967,
+        -0.4664292967869504,
+        -0.6688400174324215,
+        -0.4239900217372592,
+        -0.8429238268791324,
+        -0.5265537746389982,
+        -0.3430321724690381,
+        -0.9308235746112093,
+        -1.0355940067031044,
+        -0.8084724146191641,
+        -0.3798159926752392
+      ]
+    },
+    {
+      "name": "Lalu Wetlands National Nature Preserve",
+      "orig_name": "Lalu Wetlands National Nature Preserve",
+      "place_id": "ChIJZdmfNhkxYTcR8mr4wLyi4wU",
+      "cat_params": [
+        0.09188470075207254,
+        0.07911323074007842,
+        0.16091357733980896,
+        0.045971167713880726,
+        0.16926206936286634,
+        0.1507614522611983,
+        0.22944091079994355,
+        0.14734098574580942,
+        0.15384489408327423,
+        0.14748445254565967,
+        0.03419096915270941,
+        0.027649544522685126,
+        0.08322432817020621,
+        0.1402905649632644,
+        0.13358800771146376,
+        0.03455064304540809,
+        0.10020560974842749,
+        0.16295197042855447,
+        0.04181662266824441,
+        0.07725145435099161,
+        0.2984252527445572,
+        0.0856752332026591,
+        0.05837281425531661,
+        0.06523844239378769,
+        0.05905523351536493,
+        0.1086581686899011,
+        0.15710994674680961,
+        0.16481691119227446,
+        0.11868005924884995,
+        0.26951517548605225
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.664792,
+        "lng": 91.10203899999999
+      },
+      "address": "Dangre W Rd, Lhasa, Tibet, China",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108298152971168855959\">\u674e\u6c34\u660e</a>"
+          ],
+          "photo_reference": "CmRaAAAAIX-vVgxlqT30pJ6eUGSMuxS1-6nt_eY9FIxY4I1OczKkiP9-YfaprPALWfs5-o_TGWc64Pq9nwHhvJYYY_hmNyNWMrQ-ZSFB6aFSKZmmNhCiJTZu9aaeYTsnmwEvW2dnEhANIOgunCNIHYRjcLLlPQOXGhRKodi0b1zXZdj-w4CvycXOOFKi2g",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108298152971168855959\">\u674e\u6c34\u660e</a>"
+          ],
+          "photo_reference": "CmRaAAAAeWv-XfKL7KUPwwDmisu5dRh6KryDn4p6iHqRUZBsab1EQItfAtiYOidXJgTFI369CR5qrPA8VSevoJ46IkmR4cslI1nY_sqFqpRImmjOXrR4s1GuwUa2yx1AQaRTNxjIEhBqCqKD6fQT7Tl3zBWcvyB9GhRq1wdvaQ6ryWsM7xNI-x2lMKnYMQ",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108298152971168855959\">\u674e\u6c34\u660e</a>"
+          ],
+          "photo_reference": "CmRaAAAAmL1lN1cYCKG4iPmWMe3wTrQuIZ4R2u5OeI9FwLjo8VXwBOujoyTt_VzxXhsglfDoHT1ZLTRcWFtwrCntmkiPNCViSNw1jRuftvwEDGVrNHQ4jqHlEyQXFnqJYvLunkG8EhCfGliAOwjNsTStvgS8pS5AGhTf5knSCdPHKEoTy5QNE88szUwWvA",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108298152971168855959\">\u674e\u6c34\u660e</a>"
+          ],
+          "photo_reference": "CmRaAAAA8cE6u2ErAPhf2WP_6R7vkYe1p9CY-YNDaebmK7WGqONNY2FJ9aOk_4Ys7637DMXBVzLDd1k6Zi3baQZo2EtsQXXR4CKEDldRswr-NC2TNK-yB9k35rjOeIxroZDeFW5QEhCBt_vRhERQ9BKlCTj4VmwbGhTmps5_Tyv2nsrdYsgooJDODIFlNQ",
+          "width": 1920
+        },
+        {
+          "height": 1067,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101937409017577712229\">stone wood</a>"
+          ],
+          "photo_reference": "CmRaAAAAdjHxKIaqd3BmNQsU4Wz1wrJpbWaIVrtHCwstZPVw7BEyUhQlNddVrzQIQHxGO1eAbETH4poyRgZVK_nigdpI292cNc_HNsXVavMNP0cvhqlTN0akp9PdwZ5Z_t8zNg15EhBzJgK8i5AoLbhegEhXag08GhTrYY3-I51SCxkm4zsKAuR5ckR7OQ",
+          "width": 1600
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100449106790418648908\">\u8c22\u6625</a>"
+          ],
+          "photo_reference": "CmRaAAAAq4B9EwgOVuPXjd_hkPL5q-lCJdw8Y0bt9QHWoRwLVHoSrn8wkbJ7qJFip4nktmr8jW0IVsXcaTmzeCv-DvR8WzM5sloAOZYgZ9axX1MevmAeDQvak8e_Pp29mRb3bOfbEhBrl_dXeRYGnNBXdsanjkxgGhTpFK8_-N_4vdnH6uUT2iI1xv6H_Q",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108298152971168855959\">\u674e\u6c34\u660e</a>"
+          ],
+          "photo_reference": "CmRaAAAAyhIVbfEEaBiIlBn7CCHc9gOKBW8hFi5XYfH7i2nzqpIh58-xS1Ba7lj1CNtcZ4YhU86jb55BCgX_HwVa67IFYyl1aUwHACZV2KwE9q5ugCXF-sxSo5ijOQCILBIpSxTLEhDS7xhYNYLxmmsSWBJ77G9hGhQvNtCjXYUweIjyY1n8Ei3QH4DTDg",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108298152971168855959\">\u674e\u6c34\u660e</a>"
+          ],
+          "photo_reference": "CmRaAAAA32Yr6uZgvBU2lHv9To1JwEciBEEo6mXQf3HmlqOABNCEpkEmuTKgx5jjxqstL2RC7uzUP3yJPdpLZ38rwFH-i6YchFG_JZMk83c-dckiyvnktn4A8qgVmGtDe5E3QhzsEhBgKd0g52K31iUI_z-N_q3_GhRoP6L18y-rJqYl-dB5mevyRF8XUg",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108298152971168855959\">\u674e\u6c34\u660e</a>"
+          ],
+          "photo_reference": "CmRaAAAA0UDhpQSVT4Vn2usw4rDBW8rqOVdSD3cWBPWHrrJlwDTrUeONgqjaVfAHWMJpgDsZuIT94K92G7rO8QZnN8xzQGQt5kvGE8Z6ohXbFeM6NZ38eC-NstOHquNFKgzqZFpsEhBT9QIn915xn9z-k8xzWnOoGhT69B3tG-9gTyyQQcZM4FRE_eoTQQ",
+          "width": 1920
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108298152971168855959\">\u674e\u6c34\u660e</a>"
+          ],
+          "photo_reference": "CmRaAAAA5MlruA7b3yYeVpv9t4z4i0vPD7O-fgwPwbwIllIu2DfHJPDLkRIfU3_eO8g9mm1ViMHLYquI73hzMygKE3wl5j_3AKJfnFc8toKLyngU8_8dYZMJkVB5mzkIQWQ6YiJzEhD9e1voYjhS0cNnC-dCBmBjGhTLmfQ_ChG8F1Tsfb_PM8jODCssiA",
+          "width": 1920
+        }
+      ],
+      "rating": 4.2,
+      "website": "",
+      "popularity": 0.2639570067817139,
+      "num_google_reviews": 5,
+      "mood_params": [
+        0.0,
+        0.0,
+        0.010045657199484668,
+        0.014990676697488681,
+        0.003570000986511961,
+        0.0036550700384750594,
+        0.02071231369414825,
+        0.0,
+        0.011459529857390332,
+        0.003716031066505112,
+        0.017532387150671354,
+        0.0
+      ],
+      "top_cats": [
+        "science",
+        "books",
+        "animals",
+        "water"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.8412432382065383,
+        -0.3962625272101948,
+        -0.6260267436830749,
+        -1.324206810613637,
+        -0.8364159678076322,
+        0.07514238905816616,
+        -1.7968536457885742,
+        -0.7085334021288674,
+        -0.780999704039931,
+        -1.8487111951175244,
+        -1.07273925516057,
+        -1.075539180464162,
+        -1.8402694199070204,
+        -0.48086426369043866,
+        -1.7023042232327177,
+        -1.5908034942328875,
+        -2.0018802802126423,
+        -1.3698881192118335,
+        -1.5825299348889006,
+        -1.1636920771561086,
+        -1.1663436079957281,
+        -1.6568481408481184,
+        -2.239966584659373,
+        -0.9606032070207507,
+        0.9069219644402952,
+        -1.8238526665914898,
+        -1.2469062651605536,
+        -1.6605847056725915,
+        -1.089728960901937,
+        -0.41405088735989365
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.5137538971787086,
+        -0.9513412993004555,
+        -1.7116850200507208,
+        -1.2019803830610523,
+        -1.8872721558216605,
+        -1.7522296611424328,
+        -1.1800036547536363,
+        -1.4597935544214846,
+        -1.5546852837235887,
+        -1.7147414060860517,
+        -1.621359214904648
+      ]
+    },
+    {
+      "name": "Lhasa River",
+      "orig_name": "Lhasa River",
+      "place_id": "ChIJSTRevrXJZjcRq51Oiz-6i2c",
+      "cat_params": [
+        0.07242194070505344,
+        0.02605792437984659,
+        0.1627502170835431,
+        0.08627845028576817,
+        0.1433800066440573,
+        0.08134769306163447,
+        0.18763235244668272,
+        0.1331363133873404,
+        0.16479242031193628,
+        0.12081678577976167,
+        0.020400134633747482,
+        0.03275684412411031,
+        0.06720169802623494,
+        0.10194743402766444,
+        0.1259350958808788,
+        0.02837230887633044,
+        0.07179840499524784,
+        0.159098856418983,
+        0.04285576324931622,
+        0.04321601156704672,
+        0.2000567055369703,
+        0.0932008194060776,
+        0.06624762521496902,
+        0.12379097580951316,
+        0.019249996261246956,
+        0.1185985934596947,
+        0.1003272718134476,
+        0.11281721172648128,
+        0.0651709186681132,
+        0.21467083533255668
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.6922237,
+        "lng": 91.3325919
+      },
+      "address": "Lhasa River, Lhasa, China",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102645329931491315034\">\u91d1\u5e1b\u76db</a>"
+          ],
+          "photo_reference": "CmRZAAAAD6QsMbKKpzLAXKUQ6AKkrfqZKiPAscG8JMgyL0kLYxY1NNv4HsYTOWnLJWGzT3vLveyMlO-ndpZFWN_UwPP5DHMwoiaFFmA8QxxHJC69EaUClmsQp9-H-SDaATHvXiGNEhATkZO8Mey2gzdrSNrQAOIQGhRsLmacwfZXi7dycrPfAV2HUzfTQw",
+          "width": 2048
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108958620356063446777\">Mir JC Lee</a>"
+          ],
+          "photo_reference": "CmRaAAAArtDe9PW3wQk6Y1IwVWfldPCseCMXFbaLYYO8BdgSfGOL6ezsQrm2QE8GOtomfhKD7P8r_3Rqxk0a8nHwQJIfiA3aUObLkaOQTRo2ihquPMhflkaLtSBXWh5efDr-wVIlEhCBykuyAtIcCLqJSkf6TanGGhTnZlvKynrUEPJAPo3cq4YnIs514Q",
+          "width": 2048
+        },
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108341371796686251707\">Ingrid Orzesek</a>"
+          ],
+          "photo_reference": "CmRaAAAAG4yPIX6gv8LhLOWUXizhN2Irmn_w6PcwboHGA5brWF2UtYjh8Y-rESyt3BGdbxFzIyzmDHSNDQXSLEp3ZXMSwNIs9B7l4OvVZMHDMF1OUsoOEh1TtmYKS0FTr5pfXKS9EhBfvAoRV2Rm5lI06fUXmPDlGhQI7s6LaN05dNmj-3bWcui8EyWx6Q",
+          "width": 4288
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113486548859279769964\">wfroboese</a>"
+          ],
+          "photo_reference": "CmRaAAAADwOzyVM6BJadfOyEU91us6Cp8MaF9A26Uh41zkTDaea-_lJd3uQ3KxWdCjrRWEjZHQt6KtkSQPednfXyZvICNAJVqCtDe8qvnYGWx8QkfU9-Zftk0RflMZX6xwY56-ezEhDBVQxJRr1Ww9Snm32HQiF0GhT9zP-cS_jn5RdgBdP4aeG7Z0EtQg",
+          "width": 4032
+        },
+        {
+          "height": 568,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111963233901290447974\">\u5f20\u7855</a>"
+          ],
+          "photo_reference": "CmRaAAAAeCmrVZUlDWMyGEmlDQyubbKU-UNp2dLgcfBBVJzVjmClQyBxHO7lbzsqEOT8NOPCrl6gll0kJrG1pbfh-OLDvAgRsA19IBKG1NTBIHBvNA16cQR8TrdV6XWoo4KkJ8tVEhBQcnbZSEEbC4ozhE6sdrMUGhRlplDSty3T8smty2spoS4WlMUXgg",
+          "width": 378
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113486548859279769964\">wfroboese</a>"
+          ],
+          "photo_reference": "CmRaAAAAtsQ133n-v7bAKsT_4nPYuSjkEhDYHOaM0IZgaburCr9rl1kKlwBk2wNFsG-VWQ4q7s0HZ8zKMRcfC3WFoXOEVw3qpDA9ej319sEeOzRrYZPrl5jVrCNj3N0mnznz51JFEhBSDvG_eQ0mZG2myKMH-A_ZGhRoDluz-Q4pNfZgSlIIKKT-liUVew",
+          "width": 4032
+        },
+        {
+          "height": 1067,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101937409017577712229\">stone wood</a>"
+          ],
+          "photo_reference": "CmRaAAAA9SmYgNubMc10KHHgZbBlrLT_t9F4EHaGRCj70rhWyUO8MiuL-EVMXNA6p3768IjM1Gy-aXzpBCMnwW-qvw3hHkxjD07DjVKwFyNtYffIKQ6vuh5vjn-b1oIxzW80JhIJEhAqkZ3qIPb2OEhyWFmiAwlcGhSbloBa9Sp1FJjBiujVZc1sKfjPFw",
+          "width": 1600
+        },
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108341371796686251707\">Ingrid Orzesek</a>"
+          ],
+          "photo_reference": "CmRaAAAAlDGEvVahuFybwQgNBHCfMI7viIO5ACYNJl8j4ypyMHAiru8b1eYNIAub5pagxFDxmfpj7yOuKTjJ6JH5nxQoHladLXuYv3sFwd_QirBB-y1kJF5CrsMu3GanK9epfsE1EhAt-YFJSxYtvcAABfADbsV8GhQCWQSH7qgVRxpzzNdEtED014G_4g",
+          "width": 4288
+        },
+        {
+          "height": 1031,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102645329931491315034\">\u91d1\u5e1b\u76db</a>"
+          ],
+          "photo_reference": "CmRZAAAA2_VnSf4Smt4JYWAOSVZJz4l-kv0HzNzuLtV_fkgixr7GhCnLVHBvDMg1Os70f-KOP6894s-KGrOHMMFeqafEcCq23kTuRTn9eBd-lkjJcWnzFnpKfBYoLt1rp5u5CvqJEhBEUaLZA6FpuNu_yGRIFfN5GhTrvD0YbWl_P2uOsyiWvTuBnHbLBw",
+          "width": 1543
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108958620356063446777\">Mir JC Lee</a>"
+          ],
+          "photo_reference": "CmRaAAAAMArEONkZovJVAHtj7u_XwJTx9JJnADonlrSkOwx5cU3_4CNC08ZzVRYxsGnJ8yXes8XJDBodFp_-60XsxSpQ6WBUu1Qy3adT4rsiwxLhlhfUNa25sH622LpI3tu_8b_3EhBEsLyJJjChNQAR8DiqAy2CGhSVilSrpE7tzvIg_Tcw-oBQ_WgzEg",
+          "width": 1536
+        }
+      ],
+      "rating": 4.3,
+      "website": "",
+      "popularity": 0.38229301594491866,
+      "num_google_reviews": 22,
+      "mood_params": [
+        0.0006443358463213639,
+        0.000578938917596963,
+        0.007457013796461789,
+        0.010671925527659285,
+        0.002726009805607375,
+        0.011961512576735325,
+        0.014150380454534284,
+        0.0012562326227961876,
+        0.009218777798841732,
+        0.00796635624492753,
+        0.010706419122202224,
+        0.003439004239807139
+      ],
+      "top_cats": [
+        "science",
+        "religion",
+        "architecture",
+        "engineering"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -1.0773932657810583,
+        -1.030629793280504,
+        -0.6079847173014723,
+        -1.0361620671617657,
+        -0.9960654645076191,
+        -0.8508836045493638,
+        -2.2417734168925625,
+        -0.866287782472451,
+        -0.6189869641974958,
+        -2.1322588672558105,
+        -1.3563682325477953,
+        -1.0270341937163834,
+        -2.013413017817522,
+        -0.7626106694445962,
+        -1.785522068731241,
+        -1.6631634471447827,
+        -2.1560189705854214,
+        -1.4101902319720179,
+        -1.5692657407448964,
+        -1.8418780667401584,
+        -1.6460878202657132,
+        -1.583328690254886,
+        -2.1511794520561476,
+        -0.41439981497881195,
+        -0.23916314179214143,
+        -1.7501202767684807,
+        -1.7789550469828657,
+        -1.9983949538280794,
+        -1.4127330790402859,
+        -0.7911678885939784
+      ],
+      "global_mood_params": [
+        -0.6950857193672116,
+        -1.4964094568356896,
+        -0.9979488591762861,
+        -1.7782648584012468,
+        -1.2205036644414318,
+        -1.7828184997047145,
+        -1.8764116420664423,
+        -1.129910461353487,
+        -1.4894357570434635,
+        -1.3895041462309408,
+        -1.872695690828523,
+        -1.411123004916522
+      ]
+    },
+    {
+      "name": "Lukhang",
+      "orig_name": "Lukhang",
+      "place_id": "ChIJQWoZKXAxYTcR-g4CR7jXVAY",
+      "cat_params": [
+        0.07350827907094791,
+        0.06142171314616952,
+        0.17035640930873283,
+        0.12749364518926093,
+        0.1563430985500531,
+        0.11646863738141983,
+        0.31739750395241806,
+        0.1739335999195247,
+        0.14898716054332892,
+        0.26382171429362666,
+        0.0452378944659338,
+        0.06464030659017028,
+        0.19316227085642573,
+        0.14511151622681356,
+        0.23605439546893897,
+        0.081687011220001,
+        0.31013745362005835,
+        0.20324781875583434,
+        0.09880685949155901,
+        0.09613962303357154,
+        0.342780029964383,
+        0.16727757784045164,
+        0.19648368987794057,
+        0.14332926187375436,
+        0.021110916884492056,
+        0.25477723706126004,
+        0.1827451626318948,
+        0.30327726268769417,
+        0.18230488038160678,
+        0.1955015009516882
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "0891 682 3540",
+      "int_phone": "+86 891 682 3540",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.65682,
+        "lng": 91.122641
+      },
+      "address": "China, Tibet, Lhasa, Niangre S Rd, \u5a18\u70ed\u8def9\u53f7",
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113804254683811270212\">sunny sun</a>"
+          ],
+          "photo_reference": "CmRaAAAAM5dlYsZwrjRicC2d_CCLZz-zxqN9SGSQpVtFIg73RWJw_-cN9g_y6e8YcH_0KUBh7la1z5TEufoRQxEP-EtZLNGtXzSzr_1W8nBuga5MbE4if2ScQuqrExHV2iL9OwrzEhATbf2Dc4pCgr36kqQPSsevGhTVJPRAVUutFVWwywcz2_L2epf4bQ",
+          "width": 1920
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102580199498471916884\">HLCS 86</a>"
+          ],
+          "photo_reference": "CmRaAAAAqrJEDqTyj0sbkfkWsZn89NdD7q7iu-V8Of7tNcV_ZV2ab7e5GgH6fjchBrvxiNv7DOIeCqRMGW6urm3zYN5kkkVgc5pWUPRz1Dqt7mKwPmh2DNiQ7szZfvJYQTeLKFA2EhAE8aW_Z0CWU7yVNQjTPTpRGhRti8xiJ8BIDKCOGx6nU0nmfgXwgQ",
+          "width": 3264
+        },
+        {
+          "height": 1009,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111481362825113798711\">Charles Li</a>"
+          ],
+          "photo_reference": "CmRaAAAABdlR7Q9O430LGGIoB2szzaBGi6jQsLEDRm9NLH1WG2adL6Lf_7qJ65o4Nlk85GStkNFR-QTZz4KY8QlVgFStSAvKExTy2VAYrwRf3hjZiDiIsNWorYJcVlDfEV9zOjKsEhBwP_BxSKvDAM3UnQxIr91zGhTeZQ0PV6AAchh2LQ_niiW-vOx1xw",
+          "width": 1345
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAATUQQwEc_3Sz1_Mha_I252XRQeqKJKBp5mSOkfj2VzxsRGMrVr5UtTN-3YZ72xW2Vkm2-oNs1O29IKKz9E500S6592_N08oU839XgGmySKkWSQfVL9WWVlILCjadD-icLEhCyRWjLgS2shLnSGQIY5Fl1GhTLtJBkqKbOlcEXm49JKdsCZjkOyg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAA-h6sdObbZYu0ysm1sK24Tt5U43mFQ5eXTEoJXQsr5n-lL55oS1ap8NmjOeVXELtI8FpTpL-KvebZdEY3ZCQu-CfB7H0w3ASjBplx3lFNMIFcnJHLbo3PsHHujJIHc2xpEhCTJe37VKW0H6eMQOs7CunmGhR8kzVxVv_Xzzh8FlXAkUOjb3G0Bg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAAzcvvLr3CKcdUXt_G8q7iDKYw-DkjLKlHpwi_Ll1hPJ522U3tmzaK1WMGwNdIrIS7zqI8tVLeRxpiTIx5pNqBkjpxZEKNhitMMH0PYFVVUlrgKFS6V_-wod-klz5I1iOcEhBe9v-WOjfN41XYegtpsUD5GhQAegRj7JyPS6eD9sXAssSMtlF_tQ",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102580199498471916884\">HLCS 86</a>"
+          ],
+          "photo_reference": "CmRaAAAAfYU2UAp-JCQIw9c7VdJQTk4L6glcnWWHx-RNxpPyYgV-ciKmyo_XtWwdUBdPYooGCvVnhlbionAKLfe6Su49sLthXs-i6K-PGddgE8lHEBnkDmI9_8hGW0SZIDbPWC8HEhAuPeMsdyQN4WYxh3pibUrkGhS19elyUhaTyKJIbB-uJaZRXd5E_g",
+          "width": 3264
+        },
+        {
+          "height": 606,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116976963245334691980\">Nilesh Mishra</a>"
+          ],
+          "photo_reference": "CmRaAAAAX6rPzaUlccBRlgtgfY8_F122JibFirJkRVoHGbPDU1F1cvr4fni6Mhdz5ZtFfvPBGleamVG-Z-cHVfLAeUbMjmIJTWgbic-_I9efJ5rYuFUWu1NW-UXBbWT6IlRg4LVvEhB0M5gV-_r1CcSIXtqXlohsGhRqbX8uHV72z2ryw69Lq_IyKfqh_g",
+          "width": 900
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAA53VYv_C-Xfb5XXpqni1gplPCkTXwmh_q6uSuS_vohxm5LkOAzJWoavfKyz2JwDaOJiROFpQjyEubPX-NsU46RT-tbDnBQ1LjJjLIy11dBDqzueW6kGMtteZ41nN5fvS3EhCaBNSstFCaMRko2W8l-lnxGhQhRWdCQzkOHDG65KIsvfOncBe-mg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAADoa5f4Wv_86xS9RBadzbr68M7jROHZ4Xr5L6JO971qr5iWVjLb8jrfGWwlN8_G7Z4b0cAbACkpyxgzON8-9sn8O5L7MsBx-DHrd2uRneL5bgwlvzf4cR5Hzu-3J2hfxFEhD70BPfdemCbGDDgmJ-XrIeGhS6OPT1WMnSveX1syNZGSNYxRHb5w",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "popularity": 0.3530373784317337,
+      "num_google_reviews": 16,
+      "mood_params": [
+        0.0046840300536168215,
+        0.022310874853931194,
+        0.024834281492088012,
+        0.07718293086884524,
+        0.04219628687094248,
+        0.07802025693668507,
+        0.09483079683468272,
+        0.013051806754771599,
+        0.04825893045856569,
+        0.03299987235634963,
+        0.059350614102082824,
+        0.018450267944394454
+      ],
+      "top_cats": [
+        "science",
+        "religion",
+        "books",
+        "culture"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.064212255768014,
+        -0.607794990569883,
+        -0.5332661333992178,
+        -0.7416291816683754,
+        -0.9161046390914934,
+        -0.3823467073232541,
+        -0.86083411213648,
+        -0.41320090414349353,
+        -0.8528894354543692,
+        -0.6117390954900558,
+        -0.8455428425319644,
+        -0.7242309424722245,
+        -0.6522590388065888,
+        -0.44543977806086704,
+        -0.5880836214592882,
+        -1.0387476668511053,
+        -0.8627812466023749,
+        -0.9484088120802144,
+        -0.8550734392937442,
+        -0.7873287828472569,
+        -0.9500249953722124,
+        -0.8596531605866595,
+        -0.6827903310728756,
+        -0.23213822012682667,
+        -0.18558292076327795,
+        -0.7400249269087285,
+        -1.0067064964913603,
+        -0.7610924743928201,
+        -0.7056622571826345,
+        -0.9229787897213175
+      ],
+      "global_mood_params": [
+        -0.4232875450347268,
+        -0.8453420386172057,
+        -0.6850776295366743,
+        -0.7529008561676873,
+        -0.3542398162112489,
+        -0.952128666468763,
+        -0.3495667989375347,
+        -0.6595533272236334,
+        -0.9729858842797177,
+        -0.41662219175892357,
+        -0.747059152117168,
+        -0.49344132489575526
+      ]
+    },
+    {
+      "name": "Tsurphu Monastery",
+      "orig_name": "Tsurphu Monastery",
+      "place_id": "ChIJ5SyzduygYTcRo-tihXP5qT4",
+      "cat_params": [
+        0.03897420354133271,
+        0.020842036701794207,
+        0.12884049805607636,
+        0.08226907919438232,
+        0.07680406681679657,
+        0.10416060263080248,
+        0.10086059091650441,
+        0.1327468194079648,
+        0.031291144432171715,
+        0.08043959652588377,
+        0.011310804857343612,
+        0.038342978777365956,
+        0.04435435536075589,
+        0.06652342898747929,
+        0.06805099471524971,
+        0.011789489917574785,
+        0.10044871963481868,
+        0.09416725859028446,
+        0.04497835384479138,
+        0.027982511925341694,
+        0.12750139313820508,
+        0.057622783582499844,
+        0.09353476958402224,
+        0.1748986475728412,
+        0.02324073360796817,
+        0.09664341918262337,
+        0.04086235809430015,
+        0.0967989473491943,
+        0.026371018622928004,
+        0.1503509212975745
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.724345,
+        "lng": 90.579323
+      },
+      "address": "Doilungd\u00eaq\u00ean District, Lhasa, Tibet, China",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108341371796686251707\">Ingrid Orzesek</a>"
+          ],
+          "photo_reference": "CmRaAAAAbDRpSqvNrqBfs3YyxaTEiEBTx9C8sMk4AbCAKNO5gaAwXxjAjfknwZnqbHM2PqjZoVZ-dS49W1g0gGBpznn-ROd7eal_CoBrG0VWRmZbcvj08JTCfp85ArFuOQhaLa2DEhCuqWehjbKSDfgXTSO9fVTEGhRepKdYUjQA31GdNv2kuFZTz7TuHA",
+          "width": 3072
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116734538107578800206\">Steve Lee</a>"
+          ],
+          "photo_reference": "CmRaAAAAqKgHhYNLOGEOAz6PGuG8gJETBjERj38ajhKfrix22uGGc8LOKqFdP2lj74iF1w8afWhiKmVmMIeIzz23eTkXQgLNUfxsAlHAo4tDLMk7yGq4DOlKXlf00AtkEX7aXKOxEhAm-FwZ_dopJPj857P5dVMsGhRSPn6P1NkLRZ-stn8r6cM0yfbePQ",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAAySuGFrn5E84ZpAOgnupDMT4-_WEy13WteCkQ6eHt_Y-c0vPyiD-FrTbi0kU4F0ybIgTJCe3d6axaWhMeb_QrufRy7H-1kPb5B-al1RM3N6ErJHpwYfv4Dj8O_GVQwnIIEhCgO4dz14dYUcqBUBPkWQOGGhRkYAHlsbuE_1WxGvVEJ-HUpJcKLQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAAg7FxDS4lGnoNqNcWU25rA9sUqE0UuL4SobOvQRdpdATsZU7H2nszg1_1GuQDVw7h1urSRuF4ujuAh_cc53kmJ2Oyb-5J_6CXM4ID5c5hsHvEmTPHhHaYzCDpTeGJs15MEhCW82AwDQmDqDxT2svHXcVrGhT_lim1TwLyTFlq5rLkGfIWyBEZKg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAAcxIDNAD3EMvDrbSTnSwtFkG-Gj-ovTWMiFTe2jEFPdPpNWu9iR2TsOZZAbhBqhnBYfGCyxFQa8N9ZWLC-zyyTRSfP8fzQ89Qhklf7CoDcEUq7ppUiOMHxBvd2bA3nRsGEhCQWrcI7wzOhw6nDWott5npGhTzHQYYySpQq9uzHHcBqHuRB0XUjw",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107313855899921667484\">kenneth wong</a>"
+          ],
+          "photo_reference": "CmRaAAAASkQDMZSvLlMsx11hLlqlni6kBiP9eq1FyVFiL5L6d7_1fLQi6uniuIyjQJUqnpqS5cqQRP6xjgWIa8yQvt-AHAmqi4-9dw43jNBTHWXJlR76ovp6RU-JnWBH2fsGki-AEhBnXhWjPNC8DjBUgjf7CzeOGhRar6kbF-oJXXqJeK1M2eqT1AzFnQ",
+          "width": 2592
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAAO_1Iffj-eGRteI7tnP05CQd3TlBdXWLRAUc0qS9Z9fHR7tEb8eYiaPBjSledfbKcYpCDPkJ4MR8Y74EwYmTvlEz0Erj0NzoqaBvRrqiaZeEA_QmPvLlKqd8A4eCm04wYEhA82BFXuvkDZ0AyI84EwCcyGhQ9_Diaztemr6wf9jMByFihGSg6gQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAAdoUhKGH4AZ_SuAyEgel0VmP35590nRlqqVeTceVs-WeHZdzoZVsETBTVgLAQ_F6czNME8btRzygr12HsGTDRW4xWjvYnjQmWJKIidm9X8jqelTQbt6ACJucg27yl3T0PEhChYfrR8LhRNYDWisigVvjcGhRUNY1S9fKHY0T-uAuWveXyyCK_3w",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAAuzrtEZChoRgG4SKbBGaM1XKNG8ahTbUA2JK2_U1B-1ojVfmIfdCo_u2L2WEPRuPGn4Z6vBjiyh3R_pN9b0PX2jSsq55_o7w3yfTRR2CsH5u-IcQWOGk995liVm_lzdCTEhDR4UqTimNRFEEGchDWdgmyGhRiZhLChfDB_eR8GFUGlBny6rEh1w",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623490728861395917\">\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f54\u0f0b</a>"
+          ],
+          "photo_reference": "CmRaAAAAtKGVuryh3_yJRw_RRveBg0jstQPIJfo1ucFtgukHGfOtzCNNE7CgZeaNMSCluWcuszbanYo1VqQJh6rFHZ1pfMsISM7DJMB1Ru2funC0m0E2ErNJQIxL21EDvCivhpteEhA8wAn9kU6PPtYarvAr4asHGhRZRFypXYxg6e9Ct_Z_uj5dhmZ_pA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.8,
+      "website": "",
+      "popularity": 0.34144652940816117,
+      "num_google_reviews": 14,
+      "mood_params": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.006564094258080365,
+        0.012929059188598466,
+        0.0,
+        0.007334116449251062,
+        0.0,
+        0.0065947034374646855,
+        0.0
+      ],
+      "top_cats": [
+        "religion",
+        "science",
+        "books",
+        "culture"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.4832290277406115,
+        -1.0929946844374807,
+        -0.9410930731309155,
+        -1.0648139184832204,
+        -1.4067288417363055,
+        -0.5465441264045139,
+        -3.1651841681576967,
+        -0.8706134282749971,
+        -2.594675994392663,
+        -2.5615749420713483,
+        -1.543303787903204,
+        -0.9739816202484273,
+        -2.260305761159264,
+        -1.0229072559245171,
+        -2.4149544069389104,
+        -1.8573795523544459,
+        -2.000561155721845,
+        -2.089350145457731,
+        -1.5421717611049328,
+        -2.145418881382105,
+        -1.9999406744640484,
+        -1.930899972575406,
+        -1.843521615204987,
+        0.062354683042594,
+        -0.12426055732156235,
+        -1.9129712118058104,
+        -2.336136175603007,
+        -2.102455821869656,
+        -1.6469459137435747,
+        -1.233440200242177
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.5137538971787086,
+        -1.1322096139050504,
+        -1.9427881311204935,
+        -1.280332070018868,
+        -1.8506911268106345,
+        -1.8995246620577053,
+        -1.1800036547536363,
+        -1.5143673479284292,
+        -1.6991020548543,
+        -1.967841625784327,
+        -1.621359214904648
+      ]
+    },
+    {
+      "name": "Samye Monastery",
+      "orig_name": "Samye Monastery",
+      "place_id": "ChIJz2zvdPMhZzcRp5IZmpVe-BU",
+      "cat_params": [
+        0.05247828231645052,
+        0.03851066893822065,
+        0.16633196089318755,
+        0.11047537125526412,
+        0.12290967506231308,
+        0.085485370845996,
+        0.20991137000006538,
+        0.14635847297152085,
+        0.10190809356389689,
+        0.1930082034815374,
+        0.019974080109142846,
+        0.029807225795690163,
+        0.11504800386736677,
+        0.09254887069706233,
+        0.17640806603385825,
+        0.04226393016385685,
+        0.16503661728528293,
+        0.16561124272561523,
+        0.08590247992698939,
+        0.08098963548171573,
+        0.23119259057338265,
+        0.11451919121355204,
+        0.14205105386527406,
+        0.2819399816712798,
+        0.02653888430607389,
+        0.14776040379082642,
+        0.1261491796355632,
+        0.17199575799509326,
+        0.09839573944381493,
+        0.18034131170111084
+      ],
+      "noncat_params": [],
+      "quote": "First built in the 8th century, this Buddhist monastery is famed for its mandalalike design.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.3239534,
+        "lng": 91.5038757
+      },
+      "address": "Sangyezhen, Zhanang County, Shannan, Tibet, China",
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101014857775476566426\">Old2 Pang</a>"
+          ],
+          "photo_reference": "CmRaAAAA72TpWapxt8Yd5bPN5vEaFZsg3s9kcNvljYqCw8frG8dX-vNjiYOUYexkQqhyIj_QZkpB0wKcInmpKCrfvb0_Bl8JoYyL9tAjRJa0z4SQpwO6kfODP14rcpCE5OWmUPh9EhCt047gXiPjUQvWXkMFJpT8GhT0u71S_ISEueL6HlhBNlGOlKk4PA",
+          "width": 3200
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117437969576589496540\">HeiChon Francisco Cheong</a>"
+          ],
+          "photo_reference": "CmRaAAAAU6WmSPsdwCK04U-VPQBBv77r6dy0KWd3n84Fgm6hNwa3baajmRVBenSrSRDIVTJ6bW_TMm5AR54FNK_cw6cVj6IodZeQ6BL2-g6nvKUChb-1FTWj4HMVXPx0MN7sIzPsEhA7pcVq1_hdd7y1LexzeIKCGhQzms2btguiVfQPCiFWhrR-zamVRA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107082582843612264058\">hu\u80e1hu\u7f8e\u6eff</a>"
+          ],
+          "photo_reference": "CmRaAAAAfuqbyAC1SVgj2DIRqdn385Q9uxcWG6rztqNUP6jmkNFXYRmRcZwB04cC73Fs-bJQXRRxeTqaQTQKcwdJBmrw3bP5StekPC29Qo06ClYuobZz-4vu0bWJkdXp7kTsHGhjEhBdsWYLqyZhYDMKu8vRpIq7GhQJw_0LmhxsBshWnrgemu5H8b1IYw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106491584960444217173\">Jey</a>"
+          ],
+          "photo_reference": "CmRaAAAATz3ENTBEHdTPL54sPsq9DfVMc6ZUqWl5vgOyM3-PQI49nMIzTugX3KZ4g7wpCk_ys9an47lb73MAdmvgWBLdEgmcvsxUA5i0Y46wqAhA_rIla5t2Nahbi08sfhBXKGnhEhDiuRZK3TH8wzrUfq4Gh-8uGhQkDLNH_KHo3o2Ff4aKx6rAFvafLw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117437969576589496540\">HeiChon Francisco Cheong</a>"
+          ],
+          "photo_reference": "CmRaAAAAm2i1wgeac9lKCQRfOdrHapSJTheHh5Xvs7rMDJ7OLdGim49pYERK3RK8xZ9YC-P4ZPYj_ArA4EACWFVdCtfeY_kFWBX1_zH_hyqrh9sanGPAoCfAbFGxb92Yrjnfj4d1EhAm6_ZroVII_niBawY3EDuSGhQC6sO9QAUsh4_qG1KkGp8A8OKmNA",
+          "width": 3024
+        },
+        {
+          "height": 3004,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103610934842406632732\">LAI VIVI</a>"
+          ],
+          "photo_reference": "CmRaAAAASlc0EQ-kWgaqSu9Fwr2IqXb0b-2wloJMxdwhmi3wI2MSduupfMLyRcs2u9HsXbDI1gaQG9fmpi_VAEY8va1jmaZXVjPfoUZdwDmoW1KmUbfZwIjOpnwYDaK7HwNBPPmsEhDqJ6adaHuQrv_A0po8p-ObGhQ912Mj5T6Lwup570PEVOnXqI_exw",
+          "width": 5325
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117437969576589496540\">HeiChon Francisco Cheong</a>"
+          ],
+          "photo_reference": "CmRaAAAAf1iDWtmtJLhz6PTcJtXRtayowLTxMFz2H389qt1e7lBFLd6jbUr9BheOXFcL6iwdumVyZePAwVkRjHQNc7cywwWGzwss5ax8JbP8QB657Cv94VsXsgb2s1f4M3WMrf9CEhCiAs4AtyaBzWzJjGUv_2BaGhRIVPQlMUQGsHImXOH6YCLI6Z4RSw",
+          "width": 4032
+        },
+        {
+          "height": 2112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106517697774411347058\">Lawrence Ho</a>"
+          ],
+          "photo_reference": "CmRaAAAAsvAUHl_ZpqkdwYtcFds3Y6uG6Fxq18AH9_DPAZFVsQCJhBxdp1LJJdUGpKQYyC7sRboxG_Ti6AmrOF0eZBs802bmJaUyAQ7AszKmt-_COVaH6NaXlSt1TaSZ36Dt_KPBEhC6Cxlq698gonAFTAUOmEkLGhSzYw-lKgV57NIllkrx_lxQJfznSA",
+          "width": 2816
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102645329931491315034\">\u91d1\u5e1b\u76db</a>"
+          ],
+          "photo_reference": "CmRZAAAAl3CHztZ0vSJbE7GNUKsrBHNGyJ1Qcat-HEWfkbeHSIJVBts2TQESwYehtQPPrMxNP6K16NPXzvriFwuLwBl3eOcVAwdXyiU0ydcF_ADQ2FMBCln7wNrboKA0LelMck4yEhDZdHdb327w_n8eRy_m3oFxGhTVhLMG7VP9YyncyUbhMFEfDzDQFw",
+          "width": 6000
+        },
+        {
+          "height": 2016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104320507730274498248\">wu peter</a>"
+          ],
+          "photo_reference": "CmRaAAAAHeeEO0kdH_W7B0Ve6GYcISl1k71OC8uRfPnnvG7KXIV-iVEW7rVAl9tyUvNCvHsHG6vVYdeZF6vEEC5oYPfFIgyBGk2Z6WvWpCEmoj30JOS91X87DXo-L_U5ptNU-C5hEhBDzjvb567x1taVdjDwjtTdGhR3qUoIZowHRUUjZ_-6hazqSgVn2g",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "",
+      "popularity": 0.5553889218083686,
+      "num_google_reviews": 98,
+      "mood_params": [
+        0.0034206939536633755,
+        0.011935764335634003,
+        0.019695432198741036,
+        0.03436271059571301,
+        0.020248817557848534,
+        0.04099966505950767,
+        0.04420121684734354,
+        0.00847579971676846,
+        0.02475118908619786,
+        0.011872527246215927,
+        0.03931481340631917,
+        0.010904229870338544
+      ],
+      "top_cats": [
+        "religion",
+        "science",
+        "architecture",
+        "culture"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -1.3193782394963727,
+        -0.8817358548131369,
+        -0.5727998550952552,
+        -0.8632455258257642,
+        -1.1223335355579351,
+        -0.795684214317877,
+        -2.004683792645817,
+        -0.7194450014939269,
+        -1.5496138343047468,
+        -1.3646735881463024,
+        -1.365130676108311,
+        -1.055047274815268,
+        -1.4963767094448364,
+        -0.8316715774361083,
+        -1.2366784488092304,
+        -1.5004663455107745,
+        -1.6501045006488275,
+        -1.3420731384689988,
+        -1.0197924378298444,
+        -1.0892055459986396,
+        -1.4942378533387808,
+        -1.3750638534085784,
+        -1.2965088947770416,
+        1.0608826093775336,
+        -0.029299148874787344,
+        -1.533814634195392,
+        -1.5370059909158937,
+        -1.61394812806072,
+        -1.212173813492604,
+        -1.027222273959035
+      ],
+      "global_mood_params": [
+        -0.5082871583508924,
+        -1.1561701414916252,
+        -0.777600696195007,
+        -1.4130369074956188,
+        -0.8359263063922925,
+        -1.417663238624414,
+        -1.307711496025043,
+        -0.8420249502299769,
+        -1.2839623844624977,
+        -1.2376979332594669,
+        -1.2106916442329891,
+        -0.9547523133359969
+      ]
+    }
+  ]
+}

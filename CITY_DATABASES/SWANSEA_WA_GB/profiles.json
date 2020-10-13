@@ -1,0 +1,4493 @@
+{
+  "sights": [
+    {
+      "name": "Plantasia",
+      "orig_name": "Plantasia",
+      "place_id": "ChIJU0es60v1bkgRnj8fN7eeqyc",
+      "cat_params": [
+        0.10531636999561111,
+        0.19031199445907185,
+        0.0825228705104739,
+        0.08198139861581427,
+        0.18981869816471017,
+        0.07466332112790923,
+        0.32295811598447094,
+        0.09787920010833422,
+        0.13322069101693546,
+        0.34512731837849936,
+        0.08672806420251206,
+        0.11292132551522675,
+        0.2369791791199191,
+        0.10094793533852628,
+        0.2568995494695226,
+        0.15155891932301674,
+        0.35279455911719804,
+        0.1595809937737496,
+        0.0931252274491696,
+        0.11719842223456627,
+        0.4235446560935585,
+        0.17444447938327387,
+        0.18227403267727138,
+        0.09722829048929105,
+        0.007697549754807012,
+        0.3171084540813124,
+        0.22571560832803128,
+        0.3228143018412727,
+        0.21669062039380604,
+        0.19503387703832126
+      ],
+      "noncat_params": [],
+      "quote": "Huge glass pyramid attraction housing exotic cacti, tropical plants, wildlife, insects and fish.",
+      "phone": "01792 474555",
+      "int_phone": "+44 1792 474555",
+      "hours": "",
+      "coordinates": {
+        "lat": 51.6216342,
+        "lng": -3.9379335
+      },
+      "address": "Parc Tawe Retail Park, Swansea SA1 2AL, United Kingdom",
+      "photos": [
+        {
+          "height": 980,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109730019151909080841\">Plantasia</a>"
+          ],
+          "photo_reference": "CmRaAAAAqy-xBoUwBdi38ig1mEHJk28XoXZQADYxm6QhjxB18MonQJ8coERJNj-lf31Z-f492K-bOeHrZMVDH4UYwuls7cRvPb_LFJpNy_P0uQ8tEBavuaTWKVbvyFSuHXMdbS2_EhD4Y0JKWvDeN84DR3IvkHocGhQok5vW8KnTVgfMEm6YkWgKiv_9lg",
+          "width": 1479
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100169672301742706788\">Ben Dodd</a>"
+          ],
+          "photo_reference": "CmRaAAAA6pdygdxSjvqQRQ1IouI76K9ZiwHSvG9fAmM2nFqnOBpu5f0iOc6McQ8muACNDa8DxaPHx8sH-fNFZRHgVqoURKWgmM7DdUXQ6cwAflb7OrLLKtNlFZJMJSH41Vwj9528EhAE604Z4tSjPG_8n9ONFfVsGhR1Dkj9rTXScwXrP5saeMKTotArWg",
+          "width": 4608
+        },
+        {
+          "height": 1520,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104694480461290043175\">Conall Hart</a>"
+          ],
+          "photo_reference": "CmRaAAAAxNV9rfrV2_681IjFScBMk8T0jaDv36Bs7q1Ep5wX89338D1RoQghu7Cnxf2T_Bb3pjURdpjyjBQzcbzBWgUfmowYkvBbzHZewSGf69h016er0LkCK-I-zlStZTLCD52iEhCJdMqrNKW-neyEgQ3OO7fFGhR7x0Zt-Z-HXxTJs4jaOrbyInyENQ",
+          "width": 2688
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115344429999078167841\">Michael Nixon</a>"
+          ],
+          "photo_reference": "CmRaAAAAmBxJE95_wdeGHS6AhP8V0FZTJ-bV7jFUqRqGb6iC_9_HXF75sxh-BMYqO5llenOhfdsvevM6BrwWHEafuLo7zzBk1oQbPvdMD7n4bEXy_-Sup9LofEyntPQ-hw1TIj9jEhCE6zFRZDlbQJc0UMQIslGvGhQwcNk3YrzkxVC-gumr6_I2mLCjMw",
+          "width": 3840
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114924923820311935106\">Anastasiya McAvoy</a>"
+          ],
+          "photo_reference": "CmRaAAAAHeKWWAkdDBhZ9MI5dMG79IlXeGs7ucQ5OddMliTH98MgMq6bP6XSoBVWnIQ8usRQdlVI_Z5a8-xysPf5QjcZ85rNJG5IQZ-y--TKr1CdwdhsQBbTyjVRSj935eh0Oj6QEhASUC6GeE-dDXCwctLgzjjcGhRdFPlALUDK2x566ObrgIQacAqn2A",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116253672817732998403\">David White</a>"
+          ],
+          "photo_reference": "CmRaAAAAY5GtNTq4V5Wkcgxrib_I3zSz5eqIfyPMJc2O3XtMHpAK6zQPeJa4mjnqNz8GTdHPCKLYA4cAbBqQoiU_3fr8YDgzlfvHbZpetGxI1KNryJgsKwbeurOSXw8_WasQuQ2pEhDJihLgtXocAjWRd59Q9p6YGhS75FWJrZSrbLyE9qoPXlxgEOxp4w",
+          "width": 3024
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103166029692431709924\">Stacey J Hubbard</a>"
+          ],
+          "photo_reference": "CmRaAAAAqOzNjEyyqDtnc386hBMYsYaP-Xl1KQgIMRwVPR6hoI-WdebiivIAxmPmAXeaIO6T4FQr1erJWds2TrGU8NCYKQRTU-C0ZqTl4EDObM5jw9Dg17mfT43r3DjojpjeWVibEhC3nbSNId-mQ5R6aqcmFpQHGhTgUAIWqOLs6su7tydajqpGGNB-UQ",
+          "width": 2736
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117889238971953215302\">Hugh Merchant</a>"
+          ],
+          "photo_reference": "CmRaAAAAcyTbOY1QI-nhPXYGnV-7Ft1XnRlUybYRWmmyA_kK_HdWITl5nHpi6Llz5NRSH1LQTGuN-Lc6PZZySjdEXCfqX3qutp1EZm9aV5DJ4D0tjtJh0w48N-W9k98QSufgPb1jEhDcI95fb9L3I_oQnASkBwYrGhQs3ldayFnIaD8YYsZas8s4gg1eUw",
+          "width": 4160
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110382868204050178823\">Zsuzsanna Telekesi</a>"
+          ],
+          "photo_reference": "CmRaAAAAF5kH3AG_Ob_QGTVm047mvJlp8ISheOtVVfv3YBrwlGC954vLFVd3DoSw-zaaj0Q43Y0nVwj1Vv8QsZYXEYEQIXsrmgYkhaJxsk-qfv4pRe6mc7FM5nriBBiXExWYBe_kEhDoba75HJ7fx_JLtqoAMh6YGhTd3SZL_n67s6qOiuT7o5fafvDVjA",
+          "width": 1080
+        },
+        {
+          "height": 1036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104694480461290043175\">Conall Hart</a>"
+          ],
+          "photo_reference": "CmRaAAAAInKu9MVhNpQBWU3bUlERBm2ISi4-GxKboPQIAzN45rsh2CUycmINSdkS47rA1I0KIZpWC3sOEGWO4DwW_Z-w1OmyQ8tQCJh8cz1AoUIH46oXR22jUW9ubA-mUlDW-QD7EhCCfrV_nhdP3oGMCLzn0HEtGhTtPmYATtToST3-W190aWdf7AFpHg",
+          "width": 1842
+        }
+      ],
+      "rating": 4.2,
+      "website": "https://www.plantasiaswansea.co.uk/centre/plantasia",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.00925621455608028,
+        0.0629002843156028,
+        0.031823797956823656,
+        0.1099600394506666,
+        0.02684459865369562,
+        0.1273648806202833,
+        0.10581613638003452,
+        0.022607244069083793,
+        0.08325596408008429,
+        0.06061866252774606,
+        0.09626622173593313,
+        0.0403021046038198
+      ],
+      "top_cats": [
+        "animals",
+        "family",
+        "fashion",
+        "friends"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.6782710259113316,
+        0.9333095848017869,
+        -1.3960891391596228,
+        -1.0668697474342774,
+        -0.7096155857160675,
+        -0.9400575987682088,
+        -0.8016589975201184,
+        -1.2578465539577381,
+        -1.0862178488566225,
+        0.2527540366779118,
+        0.007764069230899523,
+        -0.2656970075380712,
+        -0.17876516933034695,
+        -0.7699550139555764,
+        -0.36141319281527967,
+        -0.22041576025025605,
+        -0.6313219941503492,
+        -1.405147257902361,
+        -0.9275970918560529,
+        -0.36771377544928147,
+        -0.5561352507178078,
+        -0.7896377957178425,
+        -0.8430017602216299,
+        -0.6621880485064042,
+        -0.5717848718688296,
+        -0.27768758238894364,
+        -0.6040771150150276,
+        -0.6341722784590843,
+        -0.49809518530233254,
+        -0.9261942341485954
+      ],
+      "global_mood_params": [
+        -0.11566242869879671,
+        0.3706767322204317,
+        -0.5592339900640219,
+        -0.24759399657810974,
+        -0.6911670815022689,
+        -0.3316191848554467,
+        -0.14167361013927426,
+        -0.27852328491871864,
+        -0.5100211587450197,
+        0.6567317247466664,
+        0.10717549640729475,
+        0.8424242339134468
+      ]
+    },
+    {
+      "name": "Swansea Museum",
+      "orig_name": "Swansea Museum",
+      "place_id": "ChIJvV1YSEv1bkgR5KBkNBE3u2o",
+      "cat_params": [
+        0.10383058649025449,
+        0.05201588895363946,
+        0.19871915991495795,
+        0.20991680816735173,
+        0.18675265637433638,
+        0.1318865151048181,
+        0.2937797572742748,
+        0.1809361121868534,
+        0.17472672792957042,
+        0.23554468034895965,
+        0.05197545623762771,
+        0.07400775051315968,
+        0.1752738482554828,
+        0.10080329876002113,
+        0.2501219976197161,
+        0.10977413338885277,
+        0.25600991757805974,
+        0.26217801202985397,
+        0.09962995433005499,
+        0.10434055297783587,
+        0.33330703742743145,
+        0.1526732446015626,
+        0.18022671567294252,
+        0.10515217849975103,
+        0.03301353702614458,
+        0.2348839689386623,
+        0.1995842545555984,
+        0.24204732978983554,
+        0.1496929264496851,
+        0.23470258177398498
+      ],
+      "noncat_params": [],
+      "quote": "Neoclassical museum with artefacts ranging from an Egyptian mummy to a Welsh kitchen.",
+      "phone": "01792 653763",
+      "int_phone": "+44 1792 653763",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1630"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.6178019,
+        "lng": -3.9380645
+      },
+      "address": "Victoria Rd, Swansea SA1 1SN, United Kingdom",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110065417401071304198\">Swansea Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAgcfqEjquVAqObg_bZO1kiK4o2qmzjuJ25PuioOjjH6csxI4PtM1TsG_4aTLff-2xKqQej2mTNCkF5w1v3-FC5ND27LNL_a82NedSm9qf5bvWkQFojSeqrjcQ3DQX8iHYEhA_qBl_F9gBS7LmLPIiBvthGhQ3tkeoUOeMrGX6PZ7tHDWcRKd8gg",
+          "width": 2048
+        },
+        {
+          "height": 3362,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105342965780400078669\">ImRobzy</a>"
+          ],
+          "photo_reference": "CmRaAAAAsqYsTO1cyffx0vHrJetwkbCA53zD1PE0qekid1gxXfcibokGBN21eeG1KGnjyvTgPyg_7aDQqRVZ4Bdl1uuOXEC7OQYwxTSn-7LtM25fi1pH4WSUkRWXggs9at3axkrxEhBVQ-zEeNrlKimY8nfRNsitGhTkuzkU0XX9urLdy9mZpDlhLHsSbg",
+          "width": 4483
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108027076163497120131\">Michelle Rumney</a>"
+          ],
+          "photo_reference": "CmRaAAAA8g--aVCDCWyrqhhih4mUGKyifIFIkXwVQYBkP64sctsLSZzTEQYZRqDg0JZcTUjArQQLBGBCVw-RDgUmRd6WRJlS8YDCb1nkQd3bnI3PFtTF5ThB7kPfw1T7zvVDFKnrEhCMOszDRI4sX22R_s0G_79YGhQ6XKvoebf_ZSZVpwQ-HWsif7kF4A",
+          "width": 2000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108161397897618372768\">Beth Jones</a>"
+          ],
+          "photo_reference": "CmRaAAAAnNZdrQPJv_mYDZgQG9jUBZZMfbLyUMA9-EOZlVla1hxdQ8Tb9h5hF-pqR6LK1kwhMFKY0kxTycPTTkZ7TAbJ7OKz3q2CPk51wExj4OK2k24i-U92npVbeP4lJkwMvUI1EhD4Q1GO6B4RsMyI4i7G6tvKGhQ-zpIg2Bmr5rJHO-uncOCjAL9rvg",
+          "width": 4032
+        },
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109691178800071822142\">\u5ca9\u6ce2\u7adc\u4e00</a>"
+          ],
+          "photo_reference": "CmRaAAAADZizwC59i37IbzPNSkRw9apuoCylv8U7RnoAkVOKzlrxUyZWY_4HCyZl-lZaWhwPYbHE8smK6t0BnfZf5yE9dkjMeeHUejGuxAHMW0d8Ixj5Z3P2NKNW8qWV-dRAVgMKEhDtEmNtsZJ8voiu2zPtzPHHGhQPngRXy_4zFeNP8Wp3JkAPDJfJsQ",
+          "width": 640
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107996418577067930083\">Christopher smith</a>"
+          ],
+          "photo_reference": "CmRaAAAA1a4_rEE310ehs7Fj8TGNHYh2ZtB5EnyJqdKGgPSlUCe0WWi1oYppELImq8ss9TlwE86iLG4WXCflt8heHVXXF1CryHk6Kahv2tUZ63bp1b4f6xyTn9Ku6-OAcs5yVLu7EhBtL6Aqykk6kKNcJBsNDKBzGhR4JwxG-6aVR4sZjJAANj2XJ0KFow",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101464835957501628409\">Martyn Winters</a>"
+          ],
+          "photo_reference": "CmRaAAAAAO2BXg1TeYY7MuVwxbBagsN0KTgS6sp3DMuBymfkTT__H3ORaa_55v5uzdB_qLvLRqpQ4SLKOOF_76ViD8IIxbsLnG6Ow63OP7Bb_EsrzuoO6k5gkXSIMKd85KNIgTaoEhBKG15HP8ViMV4mQKYZoiGxGhTuCpOiXun0iHsBdHqFxLdSylQW4g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108674905488901624713\">des xan</a>"
+          ],
+          "photo_reference": "CmRaAAAAtBMj_7rQOJ1t4KvU6Pt6axwyTCPZKcra8D71fiUh3dj7NMau0zdqlQM_IVRiuyzqXy52yedobW8aC1HhoGkbHnXgc1kDmAoJJNLx2TPiMjskHM2Bt01Bt7gWS_VEFAGpEhBA2DaH-t13C_od3vDGnf6HGhRISO_14NfVUXfI4UewNbINyHyDyg",
+          "width": 4032
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108090389927784576617\">Stacey Evans</a>"
+          ],
+          "photo_reference": "CmRaAAAA0tBSGg6NHGWFdJ5TEg9pXqbGCrqnOZ5V9lsa2K_afzx-llkBOaDgjI49t-z_7DnLt9vy8N9_KYOQKzpGAj7az9xjLEneA1me884OSE3tK-JQqxloVstzt2BubJ4zFRiaEhAlNtnsaDiA36ZbKeqhsjEGGhRkVEojODjZuWUfua8Q7Zwa_DG5GA",
+          "width": 2988
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102837819724607968086\">Lee Ambrose</a>"
+          ],
+          "photo_reference": "CmRaAAAAiAjulZcTaotF97ks6yA_5dbR7M2p6898Ust8tG4DbY0s_TFjZ9ehhnyQKHvsUFMaF7J_ZHr-9aBQEknDjBafOLpo3Q2fiN7OnwnczTBnzLn3E4fBPZLa10nuCl7jNl0jEhC5yYWQaWJP2Rt77XlI22o7GhS3MQb9BG2nVL0D3IUFGOgse6xhzw",
+          "width": 5333
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.swanseamuseum.co.uk/",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.003629467858276117,
+        0.04834643755898158,
+        0.015004996467398191,
+        0.10003638885061086,
+        0.019103645699658445,
+        0.0968098872112585,
+        0.07981086585539333,
+        0.029878269059705552,
+        0.03833105956967812,
+        0.034686611660833026,
+        0.08899647791989107,
+        0.016420530144007697
+      ],
+      "top_cats": [
+        "science",
+        "art",
+        "books",
+        "architecture"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.6962986753768796,
+        -0.7202577655021507,
+        -0.25464780531494613,
+        -0.1526150551969811,
+        -0.7285279898011785,
+        -0.17666190213813152,
+        -1.1121702705671117,
+        -0.33543233928658167,
+        -0.4719688742698696,
+        -0.91239858776475,
+        -0.7069748862011642,
+        -0.6352665623096879,
+        -0.8455647459370863,
+        -0.771017807607009,
+        -0.43511236447453533,
+        -0.7097944600561786,
+        -1.1564795386768603,
+        -0.3320213165611977,
+        -0.8445669785360695,
+        -0.6239180752191502,
+        -0.9962248577417235,
+        -1.0023267712504875,
+        -0.8660849056171872,
+        -0.5882705891414213,
+        0.15712112047639407,
+        -0.8875818205060901,
+        -0.848925653029607,
+        -1.1588659046099712,
+        -0.9025219956539525,
+        -0.6534269270593813
+      ],
+      "global_mood_params": [
+        -0.49424045995982846,
+        -0.0653421968220756,
+        -0.8620502437599659,
+        -0.40058152163269906,
+        -0.8610596739417162,
+        -0.7158487463676227,
+        -0.633813028553212,
+        0.011414147419104391,
+        -1.1043185586693454,
+        -0.35107014449849755,
+        -0.061047850074077155,
+        -0.6175250283944396
+      ]
+    },
+    {
+      "name": "Dylan Thomas Birthplace",
+      "orig_name": "Dylan Thomas Birthplace",
+      "place_id": "ChIJQxBgxCv1bkgRMXP1Om3-qoQ",
+      "cat_params": [
+        0.05821559696351362,
+        0.056787669106415896,
+        0.14306136473589534,
+        0.089974303340561,
+        0.11658244473527808,
+        0.1717205188586418,
+        0.2510025597137613,
+        0.12316035987104759,
+        0.10493397344272945,
+        0.2753041029299053,
+        0.03611805483497479,
+        0.05059092784566676,
+        0.18522367763544603,
+        0.0710036451596865,
+        0.29535868451700853,
+        0.08432961904307754,
+        0.17389340563148017,
+        0.16779217860231901,
+        0.11296894956895095,
+        0.09350067855427781,
+        0.28514948617464125,
+        0.12875944379706092,
+        0.14086163920304257,
+        0.059548213361349155,
+        0.024931242167735002,
+        0.14427447698093385,
+        0.13728336475837427,
+        0.18218047438783655,
+        0.09813369127500006,
+        0.10999183936417226
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "01792 472555",
+      "int_phone": "+44 1792 472555",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1630"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.62101699999999,
+        "lng": -3.964904
+      },
+      "address": "5 Cwmdonkin Dr, Uplands, Swansea SA2 0RA, United Kingdom",
+      "photos": [
+        {
+          "height": 1184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735181391783662035\">Dylan Thomas Birthplace</a>"
+          ],
+          "photo_reference": "CmRaAAAABlvo_eJTUiic7eQW1h109D0ZFQ2zywz2RAnY6dulBiSDn_rR8j5Or1Rp_UHja0_p1WmjZURt2RTrzXcazQyyadxmOiXSa5oXczQ-QjJ9ivTl4jQu11RThHLvvxYzuL0JEhC7hLLXoyKN7BaK3ssgoxrzGhQox5S7zHFDabB82To97oeSm0VBbw",
+          "width": 1776
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113233814752533064258\">Alan Owens</a>"
+          ],
+          "photo_reference": "CmRaAAAA8J41wH1adBqRolPepscGLgLCXonILkOxVfvSeXqsUL_tyg6ITI94dfrHtLKcAv8z4vk0vSUg3T6_mi4k31cr3X54cxEfj1q88EgEigoCoaEnqS4p071ARsoZNQ2N-5UyEhCKtZ-vU0g-5_IVeA9MrCnDGhQK8QrVd6Osua3O4hMtixfBRWAFQw",
+          "width": 3024
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735181391783662035\">Dylan Thomas Birthplace</a>"
+          ],
+          "photo_reference": "CmRaAAAAdlZAF7sauJ4KaKXcR1LbYpPY6M0VjTkUWjCY5WlrpLsKguGCqJyiGcx2po3IMGPqgrXQZz6RhrSIulLFO4sQknCgoR-3M-8dIFik0ADZU40VS0dD1VR60805oJ1_URvhEhAnplMOy2C_W9NMn-lp4lDHGhRPw5W9r3tzpnm7f87M6BGxIf6otg",
+          "width": 4896
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735181391783662035\">Dylan Thomas Birthplace</a>"
+          ],
+          "photo_reference": "CmRaAAAALDD_64t9C2DY-5mxiGgU9sauUtq2m4kD8MNuWYXabdUdu46eI0gNq5TPrRNx854L2ZBcqVeOqf9HXwbmVSGT0vKiIc5sWVBANvhlDMdi-r3x_ueyQzFcXnZy-zyEmN3OEhAqj8S9cXgeBLQ2uwBrbicXGhTDEftEyqgiompJB4R0GrhDIF46Iw",
+          "width": 4896
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735181391783662035\">Dylan Thomas Birthplace</a>"
+          ],
+          "photo_reference": "CmRaAAAAswN0qXzJ3DF1YXyprXim-So5WBbifzqdrP5xzVgtXe7OUlBTIR0ez3OcaN4RWWE_EmEwLx9WpZnT4QO75xkOg9GUAXqpYwUIJK3krqpCl8vsbdq1GeVqZvs1tK28a9m1EhDCGdDBrXyXduRZJecS32nJGhSmTnXgpVXL2aUQmQX_LnsQEqDf5w",
+          "width": 4896
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735181391783662035\">Dylan Thomas Birthplace</a>"
+          ],
+          "photo_reference": "CmRaAAAAhS1uYrFxOlu0jyKvEol8q7uyZndNF1kl28agJIcZNs-pqupQZ7y5B-dhPw8SPfmJphcpO3CZlQF1takXhcuLqcPvMa8DgWDiEP_sZNhNTbtDPDfUQt_4peQoGaFoxHqREhCjDZS0e4ZTlszdhsnhAz9jGhR7nhYXNpMgYyVtDyQtq0HDOXw-KQ",
+          "width": 4896
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735181391783662035\">Dylan Thomas Birthplace</a>"
+          ],
+          "photo_reference": "CmRaAAAAcBXMgXtaJBx-ZoGUnOaqsjEgS7_KezjQO2b_Dxi18e-uEwgxzvDcd5Be_4lIYScWsOaIsd9Q7oe95LIBI7gTJujeTT4pmL3QYI8Lk0HGQD37FqjnYN9YhyXVBTUNnsAGEhDVxFrIysthOCG8h_Fd2LpMGhTmDnNS7sFVeZOGg6b9qI0fXjGU6A",
+          "width": 4896
+        },
+        {
+          "height": 1184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735181391783662035\">Dylan Thomas Birthplace</a>"
+          ],
+          "photo_reference": "CmRaAAAACNDU_7NwRRJegnQoowBmviSZUmBrCBB3Mwu2tsjjdFPV3z5zbVsoSC6gPBmULMAlVm1ZOT5RKH-NAPIV_Rli1oU6yoSxNLh1UbLMW41Y1JHNQQ-oVor0jdYU4oZjtZ8GEhCjvM8FH9yK3_kJ7sKdANfYGhTlvtrDrcT7wpiQtQyZ1FF1nlhArA",
+          "width": 1776
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735181391783662035\">Dylan Thomas Birthplace</a>"
+          ],
+          "photo_reference": "CmRaAAAAscs3Wt5dTvWCLl5kUrz9fqzhIRxcF2tCl91o7JH1OHycf_wDDv72JvMan4HA2gmAKTE0usm1IE2f1Sxv9SaQhxsW3jxHZy_e_S34XoVvgG0RFrVIDCAjzB9jU9RfGn7sEhCWc7E5exFdG7KcwyVz92jcGhTFKx_Z0dd6OYCsb-I7a8NIWkWzeA",
+          "width": 4896
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735181391783662035\">Dylan Thomas Birthplace</a>"
+          ],
+          "photo_reference": "CmRaAAAAUm6f5UuI7OLQazlrE0q8S0mBjIS9jjkLosIzrpptj-V2SYYaXBkO52kdQ1DWONeX5QOuLRVtKby-wGTu73FTXFd6iekbtT6fuK5E0Il_tTBAt1nQc_MpaFSr7ILB6lTuEhBIX4Z7_EPgJvljKUiR80NuGhQ6G8MtRubqMzo2xmzPYvK3sGQFyA",
+          "width": 2048
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://dylanthomasbirthplace.com/",
+      "popularity": 0.35368891919200934,
+      "num_google_reviews": 51,
+      "mood_params": [
+        0.0067392560546754,
+        0.032156475998481454,
+        0.017451872273267804,
+        0.0747238380197797,
+        0.023413899951957265,
+        0.06588664499775385,
+        0.05993682908764503,
+        0.02450283534545582,
+        0.03923228288091459,
+        0.03075723887627615,
+        0.043790037666438415,
+        0.02980085387348085
+      ],
+      "top_cats": [
+        "books",
+        "history",
+        "science",
+        "family"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -1.2497649365098233,
+        -0.6632029421965913,
+        -0.8013959699391376,
+        -1.0097506849728282,
+        -1.1613620762191068,
+        0.3547503615234577,
+        -1.567398140092762,
+        -0.9770788183783845,
+        -1.504833755283765,
+        -0.4896510029326908,
+        -1.0331058783227165,
+        -0.8576605399108606,
+        -0.7380449915670052,
+        -0.9899865013403095,
+        0.056791855046078143,
+        -1.0077977420963924,
+        -1.6020471937630123,
+        -1.3192613754619076,
+        -0.6743002930100668,
+        -0.8399120615343618,
+        -1.231089630542184,
+        -1.2359470433755126,
+        -1.309919339532712,
+        -1.0136841279938256,
+        -0.07558689486005352,
+        -1.5596712470055922,
+        -1.4326796336576662,
+        -1.5477842538966178,
+        -1.213755648610103,
+        -1.51095463306584
+      ],
+      "global_mood_params": [
+        -0.2850080995461145,
+        -0.550377515586656,
+        -0.8179951566446002,
+        -0.7908113534252048,
+        -0.7664614670614781,
+        -1.1047090428558657,
+        -1.009921282729961,
+        -0.20293519821262618,
+        -1.0923965595809564,
+        -0.50377805246771,
+        -1.1071340471096074,
+        0.2004526049964341
+      ]
+    },
+    {
+      "name": "Egypt Centre",
+      "orig_name": "Egypt Centre",
+      "place_id": "ChIJY0qNEi6LbkgRqRwi9WPf_0A",
+      "cat_params": [
+        0.0712456155923415,
+        0.04580981731392611,
+        0.1672135798403973,
+        0.09019689664139795,
+        0.1323288970982381,
+        0.3234290302685819,
+        0.241515392072693,
+        0.1330233841835364,
+        0.13474235462375292,
+        0.21917065215813772,
+        0.03678309604358044,
+        0.04846667479777465,
+        0.12439858149367752,
+        0.05876943215665152,
+        0.17790751224078497,
+        0.10129868232708386,
+        0.17888607838592693,
+        0.15022802358323215,
+        0.07020154792753243,
+        0.0713238116304233,
+        0.22483761963810062,
+        0.09776130536571284,
+        0.1462555490488049,
+        0.07663027429565784,
+        0.2589929708885823,
+        0.1619380599697866,
+        0.18467008249354344,
+        0.17174598190607043,
+        0.10389647643856079,
+        0.14726737128615053
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "01792 295960",
+      "int_phone": "+44 1792 295960",
+      "hours": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.61018749999999,
+        "lng": -3.9786697
+      },
+      "address": "Swansea University Singleton Park Campus, Swansea SA2 8PP, United Kingdom",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110627197638584767843\">Matthew Armstrong</a>"
+          ],
+          "photo_reference": "CmRaAAAAEF8kHtsSixllo-J5zz4-U5LlMsSIT3GiuCNKK-_U_o5ObRLf30eclmTJM3g0BTvmrMD6C4hOly0DLJxbkwWBqT-17WvSZlQKyzvbQ7nRaPHCg9xl4lslAx483hhqPijTEhDHxjkG3gFcHX-dZIcxRZgeGhRqKCUtXB9sMdhte4quAty4aGlDIA",
+          "width": 4032
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115565928473810038837\">Dan Jones</a>"
+          ],
+          "photo_reference": "CmRaAAAABINF0ZnvCOIauTnX7wAsTxjHJyt8-ToCii8I6wHdlqOBYEHhMJIghvD1izMLhJ2xbirrrtg30_Iuhhfn_ipCgqrVGhZBLQHA-TezDjECq5WHtNr6_rsZyFKNuDob2tiXEhAcjFBgGviKQvHmN5t-ZZZOGhTzAQI47ILrwBReNQP6YDLzMkoDfw",
+          "width": 4128
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103974167962268594947\">Martin Hurta</a>"
+          ],
+          "photo_reference": "CmRaAAAAppm_Hfizv1KwzfTF4CKZ_y8OlqjzAGDbsxCX31hAPJVukuUFHMbBgvL75W2Vea713tpfNlvNFI0i3PZF243JmAhgCmCUXa9-rqNn--I8MdhBxB7YZ5sKaJjTOI5ShqRcEhBtlTvhR2IT9DObmP0f4Er_GhTRkMJwYstlEv_7NLn2z38P9nZ2Ag",
+          "width": 4000
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109735202498078309825\">toca potato</a>"
+          ],
+          "photo_reference": "CmRaAAAAIOAjLh9g2v_EnbHptB5x1PGxxLsa1uPS8stQDMaEn1JAmCoBuConUPINTWMns_-dm5fGPR3DfeuraGCKEmSOOGKLX9KI9N0qTAajp6ND1wy4S0uzf_CT0i1T-McwHw5AEhAZh6BlQYorUo54yTh6VvAfGhQNVvEIujunYTUcQ8vjaBRB5JFLmQ",
+          "width": 1080
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109735202498078309825\">toca potato</a>"
+          ],
+          "photo_reference": "CmRaAAAANyJpzEnH8IYPwTecNXDyPTY1isW8WRqaD3Gqrtfl5IkFtMEaZNn6jpVtd1ZLRJt7_9xa_sAZOiGmAdM7Ui4JLeBrcGKbEh_5Y1HJ5845i5dYu73LtbwKKkp-Vdnp88urEhDlr5dwk0l0JaZhkFUWQfPkGhSm50Lk1tfwRwHpVDJII1V0K_iZ4w",
+          "width": 1080
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115872749220940311890\">Carmin Dellutri</a>"
+          ],
+          "photo_reference": "CmRaAAAAFj-RB88Ib90wOugh6TpA6qujTVrAfA8Oa-dhAvV6LMvmvg7gP58Gytk_8filSj7k9vph-YMLPWjzrU0t_NWUcUkdF_0xNKmloaW8HPqHxyAXdG5CoBwSlBYQ4da3TA5GEhC6MV2kgbGRhzTp3XlcFyjSGhQOUcRgYCR3yWXDxDyfSs1qXGSq_Q",
+          "width": 1920
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109735202498078309825\">toca potato</a>"
+          ],
+          "photo_reference": "CmRaAAAAYzUXhMustKqwgPqV30ZCQmeww7-1GC3OqYo1Nd1WZaw2h4sB3vsGT8C6vrtlK08gOOqQwI1jrTbTtDYCYWG2aDvHvbKtO651So1myFs2d3kbOfdresEuJiLabx29zi_IEhCEYML6xiOTYqSt-uweBB3yGhSij7FHavCR_iYKHv_gU1J-Xizf4A",
+          "width": 1080
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109735202498078309825\">toca potato</a>"
+          ],
+          "photo_reference": "CmRaAAAAnIrjgo-C9eAoEgeIuf5Xk0Dc23-k9nay9tlpTqBWbAPmerjD1dJEWAlVYIz65Uem8mgnpmuVRIjQgcL40mEw0Gp__zbTvGCbP-Xg9Jaqc5XHTJX7n91QhNShrqy8oToTEhCLRMHYHRT81dGTYhl-ko3OGhQcFmuNIYBqJ-dXwMjdvZU0I05X_A",
+          "width": 1080
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109735202498078309825\">toca potato</a>"
+          ],
+          "photo_reference": "CmRaAAAAvSX1yRBKoMncR1HDZ0XySQgzbEvQbZU4AGS4HpsuYuMPxEIcoS-G_ogEr3cV1OKKe8Gl-IzwvRKIVcqfncqmtpyGPpGQbYz2nFwwT4zTavVk0myKHNeMNFVd2r58Wts8EhDRc0dKkJ8PSFV_qjU51djKGhTyTfVmYmS0_8U4Q8CAeYJm1OAmXQ",
+          "width": 1080
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103974167962268594947\">Martin Hurta</a>"
+          ],
+          "photo_reference": "CmRaAAAA_993qr4WmnHKyCsJMzWcjS5BKhMpytg_2PG04tjYXp-LwUMd_VeGzlNGLwjB-tmpuNXQiOUm6inDMKSuiJhX0EqFtK2yztOab23dp2tdYWqOzoh3sY_3bg0N1Zq_dz4wEhDrcmd0YlbvzuMjT5LOdKH4GhT0NiCf-TwJ4gJC2WDQ_6Jt8D-7mw",
+          "width": 4000
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.egypt.swansea.ac.uk/",
+      "popularity": 0.3894881291346743,
+      "num_google_reviews": 75,
+      "mood_params": [
+        0.009072634873910947,
+        0.03474714744692157,
+        0.008464369266084503,
+        0.07401125240629909,
+        0.018694555967495648,
+        0.07415848991333696,
+        0.06368006109572345,
+        0.028410743706037564,
+        0.029375374950455262,
+        0.023321457751207333,
+        0.07151680524409981,
+        0.014627962411347898
+      ],
+      "top_cats": [
+        "science",
+        "books",
+        "architecture",
+        "animals"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -1.0916661236456382,
+        -0.7944620057413967,
+        -0.5641393693585479,
+        -1.0081599840834954,
+        -1.0642325227569718,
+        2.378643414386554,
+        -1.6683590108222364,
+        -0.8675419526580921,
+        -1.0636987075538527,
+        -1.0864977175383137,
+        -1.019428318951104,
+        -0.8778349714065542,
+        -1.3953325838416468,
+        -1.0798838429691209,
+        -1.220373454639209,
+        -0.8090579869152682,
+        -1.5749567409530034,
+        -1.502975782655201,
+        -1.2202082565131984,
+        -1.2818055469842617,
+        -1.525231098760122,
+        -1.538776091543276,
+        -1.2491039382260274,
+        -0.8543352649968803,
+        6.663593166131249,
+        -1.4286528834279357,
+        -0.9886701628966921,
+        -1.6155707705660216,
+        -1.1789690061864944,
+        -1.2546431015845758
+      ],
+      "global_mood_params": [
+        -0.12801401272910576,
+        -0.4727635479986051,
+        -0.9798117993124749,
+        -0.8017968983410338,
+        -0.8700380665957175,
+        -1.000690452432198,
+        -0.9390821033528962,
+        -0.047104497955097184,
+        -1.2227904873634525,
+        -0.7927561265738222,
+        -0.46553102132859336,
+        -0.727109844225472
+      ]
+    },
+    {
+      "name": "Swansea Castle",
+      "orig_name": "Swansea Castle",
+      "place_id": "ChIJeQJsWUr1bkgRg0VD_QER1K4",
+      "cat_params": [
+        0.10503490852110092,
+        0.036062940751821426,
+        0.19363776908423602,
+        0.12721804725471736,
+        0.21908397339546942,
+        0.1062190427174347,
+        0.27624942037159134,
+        0.12363802056970387,
+        0.19836296324265362,
+        0.17506191914589608,
+        0.03201751185555382,
+        0.06350784179930533,
+        0.1307400465599026,
+        0.11986311630956255,
+        0.1868051178471695,
+        0.06343127239123947,
+        0.204705435514611,
+        0.28169885538194345,
+        0.08258637650865358,
+        0.09044829578271397,
+        0.339389554237344,
+        0.1679986795668702,
+        0.1234155554235077,
+        0.12295313808345348,
+        0.035107657876689714,
+        0.22393946681461468,
+        0.19735870349700854,
+        0.1994231460261975,
+        0.14056386120601946,
+        0.27395243169817757
+      ],
+      "noncat_params": [],
+      "quote": "Ruins of a 13th-c. castle, originally built in 1107, with an arcaded parapet & information panels.",
+      "phone": "01443 336000",
+      "int_phone": "+44 1443 336000",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.6203225,
+        "lng": -3.9412909
+      },
+      "address": "8 Castle St, Swansea SA1 1DW, United Kingdom",
+      "photos": [
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105014658556155025464\">Emma Wong</a>"
+          ],
+          "photo_reference": "CmRaAAAAXirbngJnHyh4phTnlFBWvgaspKGTvZww78-dAR_TECMsrytaK4GdL369HCCt9bgw5IcT-eHUSgpC-UFtG7uyv1QBcozrdMq7d9lfN4YbAFMMTuBCjgBlkOLYfHdbxaLTEhBCFCs_bs-Z9c5I_OPEgHAvGhR4lZW1Vc8558d9Kayk-CtOYypzfQ",
+          "width": 4000
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101929272110292270105\">Valentina Kleimenova</a>"
+          ],
+          "photo_reference": "CmRaAAAAJcJmU3NQ4UVtQDsZjidLOyPJ9FNv5Xkexex6wKIF97OMS_Os1sGHeMjiGZfbWF1mRIpw78w0XKyO3Y5RJn1fwC8-2sSNTfI44lanj65IRhv7EHJqnGS7lKNaasq-sjCJEhA9tECvXOSB6QqbkS-naqwjGhT4lH8KM6BXx6jTcHMVhYEXEsyt6g",
+          "width": 3120
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101356337879567599269\">Greg P</a>"
+          ],
+          "photo_reference": "CmRaAAAAQAe8sOlohbW7aptUBL5s7OLL5vJXce6Xi2UBmUc-QVotyl37HzYypH0Dpp_YcN3wFKdA9wQmpGuUayocrr61w7LCGEwRDS06jQYGF9WbEE5Z9UhA1Z7bzo8nPkaXNRSKEhC9t8Yp-rPzG_ztumAobsUUGhQQ4gAaMktuWW3Zm9XG2rJ6fG8olA",
+          "width": 4032
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114253901493415385965\">\u041e\u043b\u0435\u0433 \u041f\u043e\u043a\u0440\u043e\u0432\u0441\u043a\u0438\u0439</a>"
+          ],
+          "photo_reference": "CmRaAAAApydMsjtDxmGhpnE1d7o3P1yiZ1bsDwM9pLQiHKoscwyDLBC1LsD5ARuQs1VoaH77J6f2K-JfGwyonXzdIYEqcEKhA9enZn-xv12Ova1Mm_a8IFkYZaUXGD4OZF9CeWPWEhC5CHXkTvnYDMqeE6c2VrT6GhTmLty-mxAk0TuZ4J0PBHC4OJvq7w",
+          "width": 2048
+        },
+        {
+          "height": 3376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109380208396663394969\">Aimee Van-Asten</a>"
+          ],
+          "photo_reference": "CmRaAAAAF9HNOH7oWAjc1rTN-ng-z0bhD6s0rG22R4BvNj6TQR8U7bAsmWkcdmgSizKgHVeYh13KOa2jOaxGK6bu8xFTgOjaz7XZlE5kvDTF61yfgjKWmYzuPDiULyP_gAqNUBouEhAUGHU1NlAG47rI90T9nbNwGhRAr1GN_sS-Bn1gE6GuqG4jYuBi9w",
+          "width": 5984
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112084538415133693364\">Pequena Xoani\u00f1a</a>"
+          ],
+          "photo_reference": "CmRaAAAAfxW1TDLKAVbKHjpShVZ1r_V2gxlbnonZub-O5u4TwpjgXBBbjkBECSt9t4zVpjPhtY5XB5VMvPmMmMRarr7wKsfmEuOaG5FqqBDIfyIA6dZjXldq76CFet86OLVuw48lEhBgLFHKxVX3Y-HUBbxfhmvoGhR8QDHS1uemXnb9SKtyvrmj7jGqrQ",
+          "width": 4160
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107550817087341246634\">Brad Bennett</a>"
+          ],
+          "photo_reference": "CmRaAAAApgZX_r9DL5SuMgiSNvKrV9O9iStejizxGrr-Wyuz5FgWK3TdmFwoY-dTVRFoMs52wYtkjCRpBUhjyfAor7jT56t-0w4vc6vE8a4MSMnLrpyR-sPaj8DRF2HTBQpo4DkPEhCUcJfT8mwl0lXdLcS1dMy6GhRCrEaRqkujsXhieLsT2-OO0Z6jBg",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100259516436335861606\">Tracy Rendel</a>"
+          ],
+          "photo_reference": "CmRaAAAA9qgVw5_SybyReiz9E9oFwV6P9cFjW3fBuOoVcNI6s_UOGjbhlc4e0VrrtxZ7Q_2Rqh1cUc0xuFJeEttFUN_fWG3KDzzQjdtopojiiGZxbFkcuL3GTcXvyU4upwF6yXpcEhBWa3ci1tUFhNnHlKQsJX62GhQcQZrq3tuExyYnyUB7P_BI-wabhA",
+          "width": 4032
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110621097134318620868\">Rafa\u0142 Madycki</a>"
+          ],
+          "photo_reference": "CmRaAAAAthFWhjmEg7kS46fluCEwuCu29zpYqLMH07DJQqqThxxoLhAnTVl2sZ9CCuZlwy5TRFvf5Ry0wc5gxRf1hBXV75Ir-IjshP_n7koPg5UHZNa__Ka7tkNirWALDEPxAUnFEhC8ZY4b-t0knAJ63N4ZfUf8GhSCu6KHsWOho9C1GfrnvieHKHBlvA",
+          "width": 4608
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115460027377427501492\">Ariel</a>"
+          ],
+          "photo_reference": "CmRaAAAARi8OwLxLnRkQO1vvfayHd4GWMtVsCIrxs63JDUPAioOcyvtn3QFcVyXDtb7GAWXFI8ZHLbkh_eLLZSFd6Oxe8TVAqD1RnfQOd7M4eAVcWjEm1bkntX-ykFnIJ6Vpx4zaEhDhNsYozlcA2yivOUhGRALfGhRjCcQfqWTZ2j0i1pBwuijnIF41AQ",
+          "width": 4128
+        }
+      ],
+      "rating": 3.9,
+      "website": "",
+      "popularity": 0.6497898796067323,
+      "num_google_reviews": 581,
+      "mood_params": [
+        0.0024760590361188584,
+        0.012200294354167399,
+        0.017224426447444343,
+        0.04678395908571648,
+        0.016148480043019237,
+        0.04258847395654638,
+        0.05395626096938059,
+        0.006552619742676255,
+        0.043827667788784,
+        0.024491492085137366,
+        0.030991318639883837,
+        0.014085382324234664
+      ],
+      "top_cats": [
+        "science",
+        "engineering",
+        "military",
+        "architecture"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.681686118878936,
+        -0.9110026472268209,
+        -0.30456428334820695,
+        -0.7435986653766826,
+        -0.5290972664407674,
+        -0.5190831583127995,
+        -1.298725219824514,
+        -0.9717740098175537,
+        -0.12217558191790989,
+        -1.5554899498315362,
+        -1.1174396298724436,
+        -0.7349861739957292,
+        -1.3268055025994268,
+        -0.6309657315798147,
+        -1.123620795644795,
+        -1.2525568208836797,
+        -1.4348598208701857,
+        -0.12784069071013388,
+        -1.0621211086022182,
+        -0.9007334600883073,
+        -0.9665603733264715,
+        -0.8526085262797609,
+        -1.5066209190216637,
+        -0.42221552817272806,
+        0.21741571694214648,
+        -0.9687618822959229,
+        -0.8697788750906618,
+        -1.4357691606392038,
+        -0.9576289481569276,
+        -0.38353972154514077
+      ],
+      "global_mood_params": [
+        -0.5718439606295503,
+        -1.1482450824121038,
+        -0.8220902339863444,
+        -1.2215452739063617,
+        -0.9259174191670781,
+        -1.397683939736543,
+        -1.1231011595829516,
+        -0.9187131564087502,
+        -1.031605661254936,
+        -0.7472848757704307,
+        -1.403299001446887,
+        -0.7602793238699956
+      ]
+    },
+    {
+      "name": "Brynmill Park",
+      "orig_name": "Brynmill Park",
+      "place_id": "ChIJwxd0ZyuLbkgR_VcyxW12AYM",
+      "cat_params": [
+        0.24753440203070964,
+        0.2218568122913472,
+        0.11007814576470164,
+        0.08815212401281461,
+        0.46545596271965345,
+        0.08147445839583113,
+        0.28330175196117535,
+        0.10759865008832385,
+        0.1590904422585195,
+        0.32285590852921053,
+        0.08325432175689815,
+        0.16593745656255487,
+        0.23565985374422452,
+        0.36962139642458725,
+        0.1577906307872342,
+        0.19912359251517875,
+        0.38567586834056494,
+        0.22840741261807174,
+        0.14637874341481427,
+        0.08466802249757702,
+        0.7912127050715586,
+        0.19695334869394887,
+        0.14409669047540793,
+        0.08113049874606199,
+        0.009316575274068014,
+        0.323606492691268,
+        0.3485280596009784,
+        0.439963637504127,
+        0.45872151632494457,
+        0.45433042412928587
+      ],
+      "noncat_params": [],
+      "quote": "Picturesque urban park featuring a lake, playground & a discovery center with an outdoor classroom.",
+      "phone": "01792 290475",
+      "int_phone": "+44 1792 290475",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.615344,
+        "lng": -3.973429
+      },
+      "address": "Brynmill, Swansea SA2 0JQ, United Kingdom",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110363400732949648241\">Vallento Fernandes</a>"
+          ],
+          "photo_reference": "CmRaAAAAWbtcBK-E1Ic11Vkzy4oGDxDc6mxcyPuyC2bTLAkdynWn43p0NfydoNcRebtsv0XyrSStT6VGzATVoFUVEf_Qb8pNdtu602CpPtomWpTPDyD8wILQgsO91ojGujm4RG_WEhCRZQSqldPzU1Dzim8GhXLBGhQT-9aIG6n217eq985cHIY7XxMvJw",
+          "width": 4032
+        },
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112232818259025688303\">siu ting lai</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ0KQweFdqm3_ITAOGeLr5NZ72IGL5WK3aRTdwNoGHV8QJIKdVWoujW_W33dS79U43RJ_RB_Pb67E1bOgUnHtsA42sUelWdwBsl1IDOsTXeZRZUbp5tWqATa5boI7rJ7jEhC-4FIztfynieyUbp7gWm0dGhQe753Dt4EEcvmoD9SOvogrmeg3YQ",
+          "width": 4640
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105525437182343998407\">Mita Ahmed</a>"
+          ],
+          "photo_reference": "CmRaAAAAmppX_UiYESuvUw6sX1M-SqQVH8yQeO-omjg4C4XH51jz8_kiq8Dh56KV2ofMgE247iI8mQA8OI7PD2m6e58jrP4oWjqVMf8uO3q1IyMWH7E8n1g_P9iItINEebVIQD6bEhBmQ0M9x9n84nvVWJEyQXq1GhQW1eJmndqcLT8Al801O2ykmWkT5Q",
+          "width": 5312
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110510188428341686871\">Josie Zhang</a>"
+          ],
+          "photo_reference": "CmRaAAAAvSJpbTw1oqnmU1QzWshXMljwJLKJdjsQ5WmIJpUnmAERQ72OlXyoFu7Fox0GlJZLxUYeSyrGmnXCjrLsBcKB-5WDIDH5RG3Rt2TMAoMR8V-NDdA59iv_KKRdekr43Qo4EhBtCG0UqlBLVke2PZVSdO6gGhSv0HyQalviN7IHPNtpM2Q7kUBaKA",
+          "width": 4608
+        },
+        {
+          "height": 3004,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100014785842786194813\">Peter Harding</a>"
+          ],
+          "photo_reference": "CmRaAAAA6ovLCHEGMwsO2fb7Rh2bCzz2WpLWfo39-qfJbDrYmT6TOVYz0BBurN8WCQjPMLH9UYlzEZa83elViVxo7aIIV8bcAfYf9hFQX3ZeZszM1tMJLtRPyGLjfANRYM5QcvJ9EhAL01J4uSFGba0m3OBc0JIWGhTyLCek_n7ezgyVdQG1yEx061_PYg",
+          "width": 5325
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111633909668602200760\">T nd J</a>"
+          ],
+          "photo_reference": "CmRaAAAAwDCQ3ZArHFms4pK9TAS6CQzqaOTpTDlEjBf4fqXOCwcOM2j3e640rQEgMDs5SKmaeAMMi8mFfMOORYPzMPWnwurCMBLbN4N_iolLZJqJd-TwetnMC9dNPa5SNTlu9pCcEhC_ACocogaFO-MxG2gTsS8SGhTpfT45NSkNRj_UmnITW5zVNajhuw",
+          "width": 3096
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110510188428341686871\">Josie Zhang</a>"
+          ],
+          "photo_reference": "CmRaAAAAH8fixO331T4fQE81L4-EjOw8DHEXaMRP6rz-ciZOKLw-SFsx3xiHnPAFeK9-ErbRsx3S-aiB7MUrDC8rMdBbVccioUXr9D1OX9vZ-h35FUaEYl6ssp2Xn3nY_1NqAi4EEhAKBBwur-e3CV9IOeOhYVhOGhRo9-w75HBSLp8aiecuFhNGJpSkyQ",
+          "width": 3264
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118380522259257353161\">Neil Walters</a>"
+          ],
+          "photo_reference": "CmRaAAAAhQLfxHrb2jNmr3i3RBVuUS_oX-5tlCK-ijzlKZ-DSqRywaqW4N8VKWFTQeiwRyyu7dPiXIjxCUrSpyFmT0s-OBYmEMsmB-Z8U6XnCsVHQCksTBKdEkkPjeOTz5LUXyOXEhAaQ0fCKCOJcSrTYBjUT49kGhRyoqxkhxhHuxfQ8UVRqK9m2mjcbA",
+          "width": 4160
+        },
+        {
+          "height": 3712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106828008602507061344\">mark cantle wildlife</a>"
+          ],
+          "photo_reference": "CmRaAAAASXxdxYCEYGMYv0C1BgaC2TMVLRopNAtK4mvdUcvFJh5JEcorMCjK31FqWu1wSr6F9BlPpMX0xxfR2n4y7tvHBQRwrd0Plhqz8kftOXu6UCuJB4ehl-QelEF18emawnQMEhC7wTZ5gCkWA4OQlSh4T8xkGhRgHcrNqnbdScEG0ZATXK073Jzk1Q",
+          "width": 4640
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110510188428341686871\">Josie Zhang</a>"
+          ],
+          "photo_reference": "CmRaAAAAjfANYJPweEXGHA_MmiaTJ0BPi9pApv1tVv8JOgvXSt67UV9AzNeOuvIUTjAlAFAH6BF5s6TVeKIacBjYes54copVKtcldh9Zrf9_sXfLm4PLLQTCe5llpeueQjv8ga8eEhBPjvsZ6Pi3m8hkdjHgYqW8GhSi-swWXN_tqfr7hHrE4u4Lam990A",
+          "width": 4608
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.swansea.gov.uk/brynmill",
+      "popularity": 0.6965106331250733,
+      "num_google_reviews": 767,
+      "mood_params": [
+        0.0034206127048563894,
+        0.02382088031662568,
+        0.11593825349035171,
+        0.12128239772436852,
+        0.0959347393119726,
+        0.18665989997233132,
+        0.08320279941914109,
+        0.005860572120775591,
+        0.1875490371872242,
+        0.0226967540038219,
+        0.07253417614426132,
+        0.03469851278551999
+      ],
+      "top_cats": [
+        "animals",
+        "nature",
+        "hiking",
+        "amusement"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        1.0473214443008414,
+        1.310482034077208,
+        -1.1254029554454883,
+        -1.022772380892118,
+        0.9906102052514453,
+        -0.8491924701704151,
+        -1.2236754721131722,
+        -1.1499041973739517,
+        -0.7033706932391195,
+        0.015950177028704382,
+        -0.06367859917334985,
+        0.23780717951834698,
+        -0.1930220510226659,
+        1.2042651432263465,
+        -1.4391246397793807,
+        0.3366563271872452,
+        -0.45290662433594103,
+        -0.6852489921741575,
+        -0.24783827241840015,
+        -1.0159104649191666,
+        1.2369848424514518,
+        -0.5697426725387358,
+        -1.273444695535618,
+        -0.8123552221811641,
+        -0.5251693719437964,
+        -0.22948884571824105,
+        0.5466649937191359,
+        0.12687531524003684,
+        0.9629070893373688,
+        0.8567634237541363
+      ],
+      "global_mood_params": [
+        -0.5082926249224378,
+        -0.8001037606758187,
+        0.9552154385918562,
+        -0.073043355903066,
+        0.8251711753164893,
+        0.41401669143193515,
+        -0.569622032740275,
+        -0.9463090608112487,
+        0.8696390286980918,
+        -0.8170340985541557,
+        -0.44198885233767665,
+        0.49986056604606116
+      ]
+    },
+    {
+      "name": "Glynn Vivian Art Gallery",
+      "orig_name": "Glynn Vivian Art Gallery",
+      "place_id": "ChIJCWIY4kn1bkgRXw0JM6XMA3Y",
+      "cat_params": [
+        0.10026675896327464,
+        0.04833323622669619,
+        0.2503491057326678,
+        0.551018931711089,
+        0.14305845099738126,
+        0.21420244152676332,
+        0.30718000199735773,
+        0.1943038317033157,
+        0.17012200230461427,
+        0.2623729593394146,
+        0.06785806006350793,
+        0.12660719115106056,
+        0.21998185195268224,
+        0.0728811416824499,
+        0.27201657127388834,
+        0.1855640778012296,
+        0.5389418890918054,
+        0.19573348251162037,
+        0.1949962280729309,
+        0.131502262873551,
+        0.3963078300832073,
+        0.15060123081393945,
+        0.27820360516097703,
+        0.09870625690866063,
+        0.014786551345720085,
+        0.3425138875805186,
+        0.20469768748869072,
+        0.30235500877053656,
+        0.16331878420850998,
+        0.15547766371369032
+      ],
+      "noncat_params": [],
+      "quote": "Museum offering exhibits of local and international art, along with programs for kids & events.",
+      "phone": "01792 516900",
+      "int_phone": "+44 1792 516900",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.62361509999999,
+        "lng": -3.9445178
+      },
+      "address": "Alexandra Rd, Swansea SA1 5DZ, United Kingdom",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106164020965323943908\">Alexander Shaw</a>"
+          ],
+          "photo_reference": "CmRaAAAAj6GJTKQXvm2Emhj4MfkNpuB-7eIjV1yHSe9BYnB94QpvJDRuS4iBv8vx26qpO8DqMjc8Tdd5ydEMFeoO2EWmgnOJ-z0iMWaP4i3lIe09xeHh9TCaIWECv9DacN4mSiYWEhDGK7nLnQqiJ-DdpSXYfYJsGhTmhkXmaiWJ3YmA05j-QX_ckFsI2Q",
+          "width": 4032
+        },
+        {
+          "height": 3500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117338200972673956374\">Simon Jenkins</a>"
+          ],
+          "photo_reference": "CmRaAAAAjf09xIyhfenJ27qDWX7lPU00kHjanzOKHOKfwgXSf-U9-iSB1yzJ9WmI5Oqe3rI8gVZ4O_M8hu002tR6ExYoj_x_lEfUZmt99ERbNNLXKal6HGzE4uucJcZEZNr8PXcXEhBbyUedrCEfSYuhrgvatrIZGhRtkYJr8HQY5Zm-dNh_6mgyjCemAQ",
+          "width": 5250
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107322858861121049663\">\u0627\u0628\u0648 \u0641\u0631\u0627\u0633</a>"
+          ],
+          "photo_reference": "CmRaAAAAZJW-Iplxloq_9yN56wxSUwdLRiK83Rb1Va_wHXS9Q2Je6M4n2-9uZEEHOIHxY3wGBwve6eiUcYbLvD6OyK7kzlSPyomNRKt76BuS2Buaz7Veprdo-_xng1dDnoT5GhH9EhCVtdezMms9rcJjrIjTTE4XGhSxqLUUGF5bWQnvTu5I_jjaghh1xw",
+          "width": 3968
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117338200972673956374\">Simon Jenkins</a>"
+          ],
+          "photo_reference": "CmRaAAAA_FXRxGwfy0yuHMNU97jMC7eMn_JOePY0JrSqE_Rxb76fJwyHo4a76VtFRFW1U6Dn3x4zepZOeui1A7o0NVguGh6bwJ7Z1A-spPTHL_RU5cyZv_8WbT7DmvsjfWvocJs0EhCXH7sAOlWlGDwvGK339EnyGhRGKjjntUxPdkqsUB5k6gypafCeqA",
+          "width": 5472
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106164020965323943908\">Alexander Shaw</a>"
+          ],
+          "photo_reference": "CmRaAAAAhcDSRgu0C-nlmvw0bI_8a6KwwuD8yqzH2b7t9OUtehQu-gTRBYoHh0MqJnVRii6eV-pj3lY4DfpUoKIrNDEbnN0dBX986js5AFnmDymSvVDUznws_zAA8LnO6qZYtFBzEhC2OoE6NiT91dMFoQTq3WQ1GhRkvyez6uDDp4W-iMW44fJU2X3xSQ",
+          "width": 4032
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107322858861121049663\">\u0627\u0628\u0648 \u0641\u0631\u0627\u0633</a>"
+          ],
+          "photo_reference": "CmRaAAAAwm7EUCxru4gVPoqg9KpZd8y75z4tReFa_B6r03EIxFCzTk05Mb5WCDSJN_UmPareYpRjrUG4cF-XkHOjmliVu0JPwK5_qfFxz0Zgx1bvammBz3E0KFaohcfYRty0xIwnEhAa6RlXbQfPY3z0LEEFlv6vGhRH8bnRR4YpZeA9OsfLx2_dapuQDA",
+          "width": 3968
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103923084766803937675\">Radim Tyl\u0161ar</a>"
+          ],
+          "photo_reference": "CmRaAAAAb0sgFq_k0D5RsFfPW8RQGwNBEnkdpXO-Z0KpwLnht3jXsJp7V3TFelxRZvOlr3kJH6esqcS8XKCSfDrUBKikT_a3dUIv_fI2EJ6iIIoeInQqfL2bV-xRsmppgRWn4xVlEhAc35amRhGbvyMD7PT7PQ6pGhSR7VIrKbP8mDgmrCeDvKQ9o8ZiXQ",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105388054847657177208\">Kris Besley</a>"
+          ],
+          "photo_reference": "CmRaAAAA7Ws2f4e5TbU3qy009ZQNvoPF_jgcwqGH5mLnDoDHeUF2GtaV_dTnWmNKtMga5uBmAEALukobSVcxQX2iYvUPNWTE5TkCpxQLDk7P1jPULdYHE0X6G4fsH4fzbh_rtXQXEhDET8ajAMSa3wValrwiO-bNGhQ4m5XMbGhD1Rn22tB72ujC5I3lHA",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101002793022052662980\">Laurentina Miksiene</a>"
+          ],
+          "photo_reference": "CmRaAAAAm7uTSTggE7qOlb6dI88fPUdTHnDuKghmhcw0kJds4ULzI8i85LBk7EkNT-T9SPe7kHQYtlC5iV3qdUJIFTrw_Mmyq74bBnjN4pycilu24Bu7sDXlP2KWdujbopSQNr_OEhChJ4ATbOBAzL6ahduOTUg1GhTl7P8UfWMMQ3UkVi4SiTEcorA0eQ",
+          "width": 2736
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106077231248681514138\">\uc774\uc120\uba85</a>"
+          ],
+          "photo_reference": "CmRaAAAAymMr7uvDh_b8ai3XAY6bx9qdDJbxAgNQZlTMaKqwAiyDPsoMhirTzZ2phglCa9Anh-T9fV5gX1FStcpxqL1XtgcWVyZMvwLsjQOpeydr2N5uwq0QG-4D5kMudrr_max_EhAoCcTIygPlJZVkkWNOAZRtGhR3vFTKNvNYos1TrLz9_b6Z2bkGCQ",
+          "width": 4128
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.swansea.gov.uk/glynnvivian",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.007372393840986809,
+        0.06203742474949771,
+        0.052246923049449355,
+        0.13896928576995918,
+        0.043758460146307,
+        0.16854628084650455,
+        0.13125351660002932,
+        0.03823693803107242,
+        0.08863687597551322,
+        0.03926495282050102,
+        0.12416718592373788,
+        0.027795173580442915
+      ],
+      "top_cats": [
+        "art",
+        "books",
+        "instagram",
+        "music"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.7395401255480759,
+        -0.7642902007578344,
+        0.25253322880008017,
+        2.284976054841561,
+        -0.9980489307294037,
+        0.921487635267777,
+        -0.9695670799821754,
+        -0.18697299747930443,
+        -0.5401143346359409,
+        -0.6271431838331328,
+        -0.3803255688457176,
+        -0.13571976259384297,
+        -0.3624415292134113,
+        -0.9761906040257949,
+        -0.19703053523834502,
+        0.17784882028348928,
+        0.3787212645220473,
+        -1.027005922334404,
+        0.3727435497574323,
+        -0.08269723019139591,
+        -0.6889694747660285,
+        -1.022568824317192,
+        0.2385875904714825,
+        -0.6484009376080236,
+        -0.367676073583423,
+        -0.08924459632277616,
+        -0.8010132261111033,
+        -0.767083794108472,
+        -0.8202704752314354,
+        -1.1981880352848788
+      ],
+      "global_mood_params": [
+        -0.24240940628126914,
+        0.3448263086026303,
+        -0.19152323295680987,
+        0.19962577938443798,
+        -0.3199544163170556,
+        0.18623762301756208,
+        0.3397187097591234,
+        0.34472217791628806,
+        -0.4388387715251526,
+        -0.17314126403950528,
+        0.7528094670806665,
+        0.0778396060430462
+      ]
+    },
+    {
+      "name": "Clyne Gardens",
+      "orig_name": "Clyne Gardens",
+      "place_id": "ChIJA8TxkUGLbkgRJEQ-36PEcho",
+      "cat_params": [
+        0.1315983418874748,
+        0.13428436598906757,
+        0.16503841281913278,
+        0.18899897539687244,
+        0.456838996153551,
+        0.08047597117854662,
+        0.3584111781670173,
+        0.11933908434628115,
+        0.1460700469077742,
+        0.27746750735870257,
+        0.07721732126040516,
+        0.16415630085250887,
+        0.24229195549331514,
+        0.3125380394620766,
+        0.23148325539976775,
+        0.21539035610569632,
+        0.5286143956173108,
+        0.18788866027788043,
+        0.1383647837630504,
+        0.10634216383859241,
+        0.8202152045998321,
+        0.2085611557811789,
+        0.2137420412564853,
+        0.08821655298113927,
+        0.002451672283626191,
+        0.28917526760253476,
+        0.28406529046227647,
+        0.44214744779523063,
+        0.49624221025929066,
+        0.34090423127512737
+      ],
+      "noncat_params": [],
+      "quote": "Plant collection of rhododendrons, azaleas and rare species, plus annual displays and routed walks.",
+      "phone": "01792 401737",
+      "int_phone": "+44 1792 401737",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.5959346,
+        "lng": -4.0029817
+      },
+      "address": "Mayals, Swansea SA3 5BW, United Kingdom",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100989459363646645595\">Thomas DiG</a>"
+          ],
+          "photo_reference": "CmRaAAAABy1mf8ZMnR85mmRYmoZqFZ1MizSW1j-1uJgPFmdYOTYyFLBbvP63JjZz414g3bwEwpuW8DVQP-WlJfBplxAcu-QhcO3cPpc9vZqPvrJb1Ih--kTkteLn_lMF2lmXSqA6EhBLTRBg5hFAy12giesoFvBHGhQxNP_ekvM8QeAFfdJQ-6wS_1zD2Q",
+          "width": 3024
+        },
+        {
+          "height": 3030,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111770297997431573781\">Martin Wszelaki</a>"
+          ],
+          "photo_reference": "CmRaAAAAVn1eUidDGw6Dtr_QKPxDp2RaeuCc4Cjbwldo2XrewpgmL3RDIUgFK7hd3zsAkloIWfXcK5eZr-4Ikx4BWSZracxHihyRx_dxe0DzVLPPexLq4sLFtGSi-r0JMADEQ18eEhCpQ2dynk2C_6l1uzKZiDbWGhQQseY-j-SqXywraLpyx8wziViCsw",
+          "width": 3721
+        },
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113399001928709453664\">Rod Rees</a>"
+          ],
+          "photo_reference": "CmRaAAAAfXvDcp_HfoOothP8VFN9ZXXiCCwYS3WMJ29s3neUpSvke7gUx2DfpBAigXBU-xRLxo3kfG0EQbjcgTVvQC0hSBX-44TxBCmMLdpbrUMy4G63L95loW75CaZzSYVtx_JVEhBlanl9w9qOtYBtiDfoliQBGhRS5oRRh3wXLymv7LGr4I6W4zmaHg",
+          "width": 3280
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114488002781484330404\">Archy</a>"
+          ],
+          "photo_reference": "CmRaAAAAeEdw3-dh3osvQ1z89y5_czWz1uxtetQxV-bw39Por8XiUq4ZwBDR_zy4D94I9zIoRdsJiRDe4Ied7eOaNG6gg2c8RstKI9ilIXLygbzT8CedPkUb7T0EGIWhv6oKgJOhEhCvD0DYYBCpeAXv-1JGrJsoGhS-grjH9kDenlArq0mQtc8TiPo2cg",
+          "width": 5312
+        },
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102156829591418504222\">Marcin Brzezicki</a>"
+          ],
+          "photo_reference": "CmRaAAAAwaA-VQ2Mo682LXvlDvIF65m12AXQSl5YLkGhV99GgfiGFny8OrFRmzPBFJhNyI_JDQurRUwnYSE8rAS_J8BYbNp3bLNwG9bwPeEoEiydbSTYMTZy_L7L0PUW6Mo77UaUEhCLZGJ6wQ2KHvWNXGq7HM70GhQOgZdgkRKSzxD5LCUie92dtcma7w",
+          "width": 3264
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111547411139787961329\">Roger T</a>"
+          ],
+          "photo_reference": "CmRaAAAAuz-EI_JK0mUd1KPZo8JH37BvpjdOA-jrUv6hLvNen-iKC6DguQ0T4gqAtlZkPbbC4cftPVaoBaPUKcKBoN7KgWLYtEg_jQa7YJh4VeCkn6NAELbfCxjdZ2DRjKYl383JEhD_xYutfj9lni11x15UCD5MGhRaq34gKH0CLIQT4_2aArSjBol3vg",
+          "width": 1080
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118111219620752241220\">Carys Hill</a>"
+          ],
+          "photo_reference": "CmRaAAAAfcIOafpEEjHYrsAdXgCx3Z1S96Cpdhan3yfcuAkA1-sq3ruoI4w99QUNhSApCjZyS_tIC2Hj8c-MY0W3o7Fx1M1PdkBg_5PjNwe2mbjwEHWSkjYS6b-cc_LxnqfYtvM6EhDMTFh7qQ0n_VIOodTTpos1GhROVgChe5Fb3MXpGQt2RBIOV0TY1g",
+          "width": 4048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105621297530750226528\">Tevfik Demiral</a>"
+          ],
+          "photo_reference": "CmRaAAAAfBuljH0nJ6QlFoGsvuubgvIKqR4yHOMZEEiMfMOcmqw4Q5R_Z_GZBt0IsTntOF0H0c3FAb1JO2zlTYZG_qVJxs1Z7tGDnUCMRaFD0fWDUq9aMHxzk3mDbdqatFkAao1YEhCHkkHciJuDSK27t0VVbsHmGhTJ0NUhro9o27gBKldgloYGqP77mw",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110896825579236790303\">Steve Phillips</a>"
+          ],
+          "photo_reference": "CmRaAAAAl31wt5oHav5iwrv7f35EZ5zyZJDydumeF9-hUvSOUxl-JCSmgEju0TcL1VRV3Vszd7pP7V7R5U5AmgZjSNEtk1V17KfdfEe3EB0XjlNLp7-6HmZECXGTq9Y9QsHFRrsuEhCFysehsi0zuJo072kyHdy1GhSvJO1RYw2QTevMlqu20K99BXqdNA",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116428901116392529169\">Rory Durrant</a>"
+          ],
+          "photo_reference": "CmRaAAAA3FpSWqyhpCeYKUq2oYUX40Xt-DvuFY9swzVhe5YsPiQCoTiuqv8dBB-SD8rMUKBX_Kt8b0m5u_rnK9y7yFFQtmcX7ufLXO-EPMeep3Ufaj57X11-kdcn2RnLicqG8oc7EhA3p8szJHaCnsH5tU8r-o64GhSUwlul5UHFiavQHD8ieQg05EZg3Q",
+          "width": 4032
+        }
+      ],
+      "rating": 4.8,
+      "website": "https://www.swansea.gov.uk/clyne",
+      "popularity": 0.7016744820065893,
+      "num_google_reviews": 790,
+      "mood_params": [
+        0.005304215318186994,
+        0.048933988138932585,
+        0.14949661368189238,
+        0.1899940043982314,
+        0.14753616150504692,
+        0.22341226131360947,
+        0.14006191350363775,
+        0.023159078334896548,
+        0.21986962304347188,
+        0.027834896211718804,
+        0.0754113610422398,
+        0.024743643032002233
+      ],
+      "top_cats": [
+        "nature",
+        "walking",
+        "beach",
+        "hiking"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.3593805719375672,
+        0.2634031054084157,
+        -0.585506880823947,
+        -0.3020985080493501,
+        0.93745778110717,
+        -0.8625129577531726,
+        -0.4243733667190335,
+        -1.0195171750907954,
+        -0.8960598798686146,
+        -0.46664830475650243,
+        -0.18783847325146802,
+        0.2208912080943476,
+        -0.12135429434177245,
+        0.7848150289521222,
+        -0.6377902477016194,
+        0.527170827573116,
+        0.32268384961892005,
+        -1.109059790832043,
+        -0.35013310972864214,
+        -0.5840342267561976,
+        1.378430270741553,
+        -0.45634292179802605,
+        -0.48820540196017254,
+        -0.7462534391564712,
+        -0.7228258517393525,
+        -0.4848799954043884,
+        -0.057345610455276835,
+        0.14106219524013225,
+        1.1893980874111691,
+        0.07682978628410997
+      ],
+      "global_mood_params": [
+        -0.38156032163408854,
+        -0.047739759548095714,
+        1.5594212091261384,
+        0.98624612044142,
+        1.9576802400268867,
+        0.8761782600390955,
+        0.5064141234904826,
+        -0.25651849050360603,
+        1.2971978704525506,
+        -0.617349571165968,
+        -0.3754102101968701,
+        -0.10870922391801686
+      ]
+    },
+    {
+      "name": "Parc Singleton Park",
+      "orig_name": "Parc Singleton Park",
+      "place_id": "ChIJMeap-jKLbkgRrxoY6qUYTpM",
+      "cat_params": [
+        0.23543724084146184,
+        0.19308548177512147,
+        0.14876382063884763,
+        0.15800250296962967,
+        0.5313868901718127,
+        0.07994522300707667,
+        0.3376308036824621,
+        0.1134414070988118,
+        0.1685390867168455,
+        0.2939422871873932,
+        0.07142028057437129,
+        0.17547128015833413,
+        0.24665533061950926,
+        0.3557144117327817,
+        0.198932633361412,
+        0.21777626027439334,
+        0.46051013542282465,
+        0.2523347733261297,
+        0.1845539305112227,
+        0.10050401065695962,
+        0.8415686237084884,
+        0.2532780515863448,
+        0.1890618892541599,
+        0.10679239288355385,
+        0.011163145627985788,
+        0.30286573490198276,
+        0.40302115255855625,
+        0.4921870824001665,
+        0.5547828230631543,
+        0.4249087658276973
+      ],
+      "noncat_params": [],
+      "quote": "Sizable, scenic park with open lawns, a botanical garden & a boating lake, plus a mini-golf course.",
+      "phone": "01792 636000",
+      "int_phone": "+44 1792 636000",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.6096782,
+        "lng": -3.9756738
+      },
+      "address": "Mumbles Rd, Sketty, Swansea SA2 8PY, United Kingdom",
+      "photos": [
+        {
+          "height": 4144,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108381322480257414114\">Nigel Lazenby</a>"
+          ],
+          "photo_reference": "CmRaAAAAHq_cIF6exGLWUF6qUMC6oK0uplu-OU_GXQ38TopLkCMOC77b3MWbR5G15PtRtgzp1lyXl2DGHoy2pDo702GldUsIoygNE-0vae0jFSix1NRzVChIrlb5tjRzzrkaoYMWEhDkwynz9nduvVYIuVx4a16iGhTFuWsjIuL-Dltpc-g9sEZN4XY0Dg",
+          "width": 5520
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110510188428341686871\">Josie Zhang</a>"
+          ],
+          "photo_reference": "CmRaAAAAyXZZGXz5i5P5HUlGY4ol9wsS8uBf-pEO_w-pdlt3_Rj9how4RpCdKgVq635INg3QLCF_6Q3J_Exua-IFlU5Gfyy5WW1m8ZlMqQZfjzv_H-75yVVq-IrZxvCLIaPIuEyIEhDMLSDUxDwpn3_BC6DHz5vWGhRwRHK3EYSAqPb3wJR8PpdydRqmrA",
+          "width": 4608
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114566316723817315190\">Harrison Brown</a>"
+          ],
+          "photo_reference": "CmRaAAAAeCG1JqZ_SHTb61zneneB3R51LjV7k_3RylXgCBd2rM3dRfQDTLyMOg3bWk3f5F8phH7vBvuHHof5KxEvrl3g1qVEXaufwUxQCwCZFp60PwLe94PRvlyWS3scSHhBiD92EhCsq2kzr9gMAG0uBmCVB98dGhS6Ll-nPNjCMViMHj_59OlnzEiBIQ",
+          "width": 4608
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110510188428341686871\">Josie Zhang</a>"
+          ],
+          "photo_reference": "CmRaAAAAFSTouPLLC76YmxbddTAP9S_1S40yiMliOTUVOL_D6O0PTQFqwtmnTAPN9gER745SAGjwEzqT3zQ-sR9ecHx_vCdOxuH925h4j8gwPenf4xxl0-Jw7S30hR7GP5jNUCT6EhA1fyfO51n1BGL0IuHS3yRWGhQ1l2UkGzytRA5LAF2M5J7h4L9diQ",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101440681781418619101\">Artemis Anastasi</a>"
+          ],
+          "photo_reference": "CmRaAAAAhW3ka1lwOvjGbB0PyAsSTH6usRC-NewbZUb2hH2HQL-RUGhGwXeHy_ahYb2Rnv3fLZRLbaPUl2njLw8Fu9FFplAkgKcFh21ZlXwo6OYNhn8MxoIniTA4m1_KK8uafPw5EhABJ-y_BEtJYCgiQKOFlNCfGhQVICQFbJk6k-QFE_2FmMBpe4WD7A",
+          "width": 3000
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103287937051662508125\">Richard Evans</a>"
+          ],
+          "photo_reference": "CmRaAAAA0SORxIjXovrxsDuMIHcw93rwZr3KKw55JgQ3Dv8OyA-1D92c0ERLgmrFZpg7ErtJPaLuLkPyqp1KVYlzZK07jOsdcZTKiU9vh4hGV4Vs-uzCue4wxov5qo0hkxh4pOwUEhCV2hRdyu1hDOwSWNrIbNXBGhSj60TEpS9cUvnuRbpq0TSRSTzfOg",
+          "width": 3072
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105621297530750226528\">Tevfik Demiral</a>"
+          ],
+          "photo_reference": "CmRaAAAAqBu2sHE4OtVVkYLeFsk2-xNeF7Px8tiAtzHMQSUH8ztkYCX3TRBhprjXj0-CYMRko5-9dGoFgHf1beU3kRMSM66e5pmGc5eg7LU-3AxIx3GJhj7t0JhviahjjJmTNUoJEhBj5c1ZRoQwYewZzXXCMQhTGhS7NrgVIHTmHRb3u0I3XSpElk5MWA",
+          "width": 4032
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118168240566318118392\">Eylan</a>"
+          ],
+          "photo_reference": "CmRaAAAAjEfuQPUFrH9cyA-D5KU7rBJFQmIoVw0SaXkwoFZdUPmgHMUDgKa8WZzpA6MkfFw1lOP0zlS0ZwwLu9_udb4vsyomHePc2lEnJyo__jFskyn2boqyeiLDKkrwfFbjyQheEhAebCJqaxHUZhPmOvJ88cH2GhTzM4JP0zTK-0AWBNcsuz0LmqlHSw",
+          "width": 2048
+        },
+        {
+          "height": 1649,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110975105613917763979\">Mel</a>"
+          ],
+          "photo_reference": "CmRaAAAAg1mjwfTvwA3GELh6U5R8h6VfTydT0InyF8mXVgfkNBQFHxqnQcqMZHBWhmqPfTzMkAHVd-GQ9BTGgjNMqC9YDKRlJzzlubGXzcXm8A8y_2MgomI7ta2qqseHXlmGd_g7EhC5JToUb47BpGm3uxneOUZmGhTo1M1SYHUvhHXfUq7qBw_dccDoFg",
+          "width": 2502
+        },
+        {
+          "height": 3546,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111633909668602200760\">T nd J</a>"
+          ],
+          "photo_reference": "CmRaAAAAG60ricA8ZvfvvTXsKGx2r_Vd8EWCVZWTAQN0ImOdsn0BMFNVF7BY2Ljn8koFaN6s_7_JNQvHQK2-FRUySX4Yfp_U9_mrgOnoFkocQ9jzHy9Ugxz_pZWTnZ6Pxl59q4PyEhDlZYZ-rqEneYTO5L3IRdHzGhTXuuCLGWM3WlZbA2oS38bt8HSDRw",
+          "width": 3096
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.swansea.gov.uk/singletonpark",
+      "popularity": 0.7623874518481393,
+      "num_google_reviews": 1101,
+      "mood_params": [
+        0.006351034542513812,
+        0.03484118197535839,
+        0.1278253160646486,
+        0.14570683537067342,
+        0.11166016930840646,
+        0.20400420174939032,
+        0.12350178449298566,
+        0.013586175316453319,
+        0.18921293328330258,
+        0.032382627284753426,
+        0.07904087958142911,
+        0.029313267794947088
+      ],
+      "top_cats": [
+        "walking",
+        "nature",
+        "beach",
+        "hiking"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.9005413914453976,
+        0.9664713868318636,
+        -0.7453785281996845,
+        -0.523606145838986,
+        1.3972949235081258,
+        -0.8695934934928927,
+        -0.6455146790073663,
+        -1.0850156530677457,
+        -0.5635399456787618,
+        -0.2914779191947002,
+        -0.3070632177287653,
+        0.3283516987863945,
+        -0.07420283034404038,
+        1.1020762281277,
+        -0.9917460615975795,
+        0.5551142680822564,
+        -0.04685273683491255,
+        -0.43497786422043144,
+        0.2394519964383478,
+        -0.7003645391885247,
+        1.4825710710314557,
+        -0.019491688822016164,
+        -0.7664698504308106,
+        -0.5729699589577839,
+        -0.47200232845339285,
+        -0.3833319333085454,
+        1.0572605892918059,
+        0.4661391006292333,
+        1.5427743294657406,
+        0.654456175294665
+      ],
+      "global_mood_params": [
+        -0.3111283682663451,
+        -0.46994636604886475,
+        1.1692375708145968,
+        0.3034949178585413,
+        1.1703010430708007,
+        0.632121581108196,
+        0.19302025771855366,
+        -0.6382449905178884,
+        0.891650185636991,
+        -0.4406102959057773,
+        -0.2914224149968154,
+        0.17064506710294797
+      ]
+    },
+    {
+      "name": "Langland Bay",
+      "orig_name": "Langland Bay",
+      "place_id": "ChIJmd51TIeLbkgRhcJFBMWIC4U",
+      "cat_params": [
+        0.11088876521298165,
+        0.09211538771829361,
+        0.06362281718547748,
+        0.09077358447372413,
+        0.6496436875314977,
+        0.059844578284029594,
+        0.30643435897649157,
+        0.0914014041300592,
+        0.17357998807780484,
+        0.2606830080145358,
+        0.06712949870887276,
+        0.2710302235636027,
+        0.2020965146456556,
+        0.23766365941725248,
+        0.20008060194597505,
+        0.23100446593245852,
+        0.4492757951951663,
+        0.13230158538068565,
+        0.14796052940211682,
+        0.09259265345643199,
+        0.434946014940989,
+        0.3473638054995606,
+        0.1905227308307629,
+        0.0883290790182545,
+        0.005422776349288927,
+        0.34413892390175344,
+        0.23145111490067805,
+        0.37295114210905533,
+        0.4425653345716484,
+        0.5119887923795757
+      ],
+      "noncat_params": [],
+      "quote": "Popular seafront park & surfing spot with holiday beach huts, casual dining & a promenade.",
+      "phone": "01792 361721",
+      "int_phone": "+44 1792 361721",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.567387,
+        "lng": -4.011115
+      },
+      "address": "54 Langland Bay Rd, Newton, Swansea SA3 4QP, United Kingdom",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118249334232028659442\">Louise</a>"
+          ],
+          "photo_reference": "CmRaAAAAKajnhug9CsrvUDkSxgcYR5o9ABBb0YdlkqBYdDsOxP3dVYWlM0JSK3FDSvA-OwGYohTMIwJagVT-oRh9m9JIY9IeVKxwDdHhN8kUzDHvjraZrzUgK1EiNeMEu39C6iz9EhCTeQE3gptg6-EeWXLxvE30GhQugoCKpSssDcEaTXp1_oBu_OToBQ",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105680981002913045876\">Sherine Chong</a>"
+          ],
+          "photo_reference": "CmRaAAAABaSsftLhMW-TgAvW5rwvKEKUoHEdAvF3hwDVsdbegwhOqHNqr1O4beNpgPtvv3tkmmIyVeHGeWERhFfMdBt0_OjrhdR7vldxwAz8JERHmR4sphxLT8V3UjQQzcWQmonyEhBOvqM29IMPfYwgmvdnVx0cGhTDpXrsJn-tfDTQzodsvfrzEUPCBw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101500990051597191145\">Charles Musselwhite</a>"
+          ],
+          "photo_reference": "CmRaAAAA4Lvxj0KUdyFqtpAVHWW-2cOjuBZSX8vcKwkHRWp0lib7FgHwJQC8JBtHN4h49yVevSDx31GcsaSfU1Lz2e_txs4BPwDipPzznJ2eQmrktWA0gk9ORqC2AOy9uC4u124PEhB6hBVCRO_K7oU-akWrRVZtGhQWqhGKV9FvpbOkorAMOZ9sjlJptA",
+          "width": 4032
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107047747010064074012\">Peter Ligendza</a>"
+          ],
+          "photo_reference": "CmRaAAAAe8e_DRAvIkFb9n1tUdpvR7E8mArdCKvSRstoN-E4jDVXWXFDbEk6VJDpka_GwPe5li3Yy5xsXsZOqlYRRoxpJshoW2j1-ZzmvU3AyVcMQuAbEBM4HJtUGyumQQ8qS4CgEhD2nGVPbdPBGPZ65AwzAd1zGhQZKvZZ73kI_VsIt96GSSziwBA92A",
+          "width": 3264
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102903630346019339800\">Howard Gunn</a>"
+          ],
+          "photo_reference": "CmRaAAAAD3Olpw1f760us4KD6LVz1yrWWuGAtiQ6oL779LMufYhxuw55LPJIAW1-V81OooevFX0_C35ZEti0_yLZviiPSuJjhgIqIGvpp93gGyDf0bhkve9hZq9qalPx1qb8gALhEhCCwaWkUXiRwmV6aiRPFQeMGhRKqQAjpbWL2F5QTDWvIuyc1SHokw",
+          "width": 4096
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112382866898440610465\">Dwrowley .youtube</a>"
+          ],
+          "photo_reference": "CmRaAAAAOSDbIp20Yd7iu1j1lY3bveKx92cxdkoBieLPzyQNwfEZ0vEVpoAn_gRvqvf2off_ziAHQR7giFYQ_Ae0fKC85uwvToax8uth-KJW62SHi4B11WJwZxzfFi9OqUdZfufmEhAZLHgmQwUUBBfEnnDhTxqaGhTctJbjDgIcMA25kAT_6GKHulbSvQ",
+          "width": 4032
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116875312700307590715\">Ian Jones</a>"
+          ],
+          "photo_reference": "CmRaAAAAqiT7N9KDGeytoY5eqo8mUZv6PqGub5HQz9yMhnBM4CGQZvjEhrTxmmFus_TcBjCQFCcF7DF9yQEoQ3PoVyYI2BblP2vTua3Fa1PJEhZiVf9Qbo0bsObtuB8aXM34-l2NEhDRkqO25l3Eu3ahEtOIphk-GhSHZO2yGe1lsZVBTj0wRApKBFR2wQ",
+          "width": 3648
+        },
+        {
+          "height": 3460,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104247355039272772954\">peter roberts</a>"
+          ],
+          "photo_reference": "CmRaAAAATOanEVhYajNxwEp8Bfed0-nwnvvlJb_fZfW_7C8BJZrsWdtl4Qv-044REuS2kuib27pIDp5O-pxjBryzEIyCe5iv2Hu2JIySgwQ86nHzPwOFX_dBFRc4kTG4pUdHmNrKEhAcoFDnwQeiLlf1dUUyuweZGhSKxhimV-Enp9quxZ6NLiYymlHzew",
+          "width": 4623
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116118961316927658462\">Susan Hayward</a>"
+          ],
+          "photo_reference": "CmRaAAAAipsTHU8As8v7t_fVBZ2OC2Q8Nvu3DHWvRagQ0QRr6H7RsLJelLUZzbxivOhHhzpGkv7hLCM5pykokYcRiXthChKOwOxzAq4XvA9lb4cGWHQjCrJvIYAsxOCty5XQ-8ZUEhAOTpM4clUQgOdtU6IZZr2-GhSifJOAXRZIX8ZUpFF6sKDUl4CzbA",
+          "width": 3024
+        },
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107899650298599161610\">Kev Sampson</a>"
+          ],
+          "photo_reference": "CmRaAAAA_631tT4vnU-VtEPuYy9uxcFtw6G4YBs1fw2lcsS4rLu4ehEjziB6h5zdAA2uLCDZ9HwZsCteqcejqjcoFjYf_FZKSxMm1y_J2EXGuBBD6zS5ziXuCqReVlO5Q-pAeHWBEhAXaS8_q1BKYEoW1vSUW7INGhRrWk-3XZ0323IMW-3MufilL3uHPA",
+          "width": 3036
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.visitswanseabay.com/listings/langland-bay-beach/",
+      "popularity": 0.7342034224860731,
+      "num_google_reviews": 947,
+      "mood_params": [
+        0.006083619401551926,
+        0.029741984811533003,
+        0.10079745218327835,
+        0.13014883385570375,
+        0.11480723457676123,
+        0.18506587664113097,
+        0.1084578920083051,
+        0.009737976467757514,
+        0.18667063875157755,
+        0.02242945534514698,
+        0.07968913991732914,
+        0.020673107055747895
+      ],
+      "top_cats": [
+        "beach",
+        "water",
+        "food",
+        "nightlife"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.6106587612038027,
+        -0.24079942010296965,
+        -1.581751712272624,
+        -1.0040388454674662,
+        2.1267436689555215,
+        -1.1377495437695733,
+        -0.9775020898279091,
+        -1.3297877198471195,
+        -0.48893950867535174,
+        -0.6451118260995483,
+        -0.39530951428389255,
+        1.235892991686244,
+        -0.5557138960692801,
+        0.2346359761217322,
+        -0.9792630388707878,
+        0.7100415206930292,
+        -0.10781074044488274,
+        -1.6904795346938943,
+        -0.22764743701843398,
+        -0.8580052564270755,
+        -0.5005307300215207,
+        0.8996570325370705,
+        -0.7499991141250492,
+        -0.7452037475448549,
+        -0.6372808744042299,
+        -0.07719100562734318,
+        -0.5503359115812024,
+        -0.3084638873224554,
+        0.8653814482399865,
+        1.2532300576810649
+      ],
+      "global_mood_params": [
+        -0.32912055860863476,
+        -0.6227132958872756,
+        0.6826109529128218,
+        0.06364566857548082,
+        1.2393704561251835,
+        0.3939718209458435,
+        -0.091679433871932,
+        -0.7916947303764802,
+        0.8580189726937105,
+        -0.8274221734982403,
+        -0.2764215393324494,
+        -0.3575527834467545
+      ]
+    },
+    {
+      "name": "Mumbles Pier",
+      "orig_name": "Mumbles Pier",
+      "place_id": "ChIJz5CHd6aLbkgRTW_SwJTEwjo",
+      "cat_params": [
+        0.1474776042789715,
+        0.09773704172467157,
+        0.09340699354635536,
+        0.11427965467044611,
+        0.411473270144745,
+        0.07455224645154807,
+        0.3245436261539382,
+        0.10638165824930508,
+        0.19205811051266933,
+        0.3010102427743691,
+        0.10244168294368519,
+        0.23933972588671246,
+        0.23963258997000408,
+        0.18386190510905762,
+        0.24841978410174748,
+        0.20444027022416056,
+        0.4758178334924608,
+        0.17158193385958959,
+        0.12372015061923096,
+        0.10018432331359887,
+        0.42748492150651407,
+        0.23935414968429972,
+        0.21750843253160282,
+        0.09242024553380337,
+        0.003041244121899911,
+        0.3691797370141595,
+        0.23462505546047446,
+        0.3960891198169603,
+        0.31033906158277874,
+        0.3913145553581489
+      ],
+      "noncat_params": [],
+      "quote": "Victorian structure, opened in 1898, with a lifeboat slipway and boathouse plus a fishing platform.",
+      "phone": "01792 365200",
+      "int_phone": "+44 1792 365200",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.569411,
+        "lng": -3.975457
+      },
+      "address": "Old Lifeboat Cottage, Mumbles Rd, The Mumbles SA3 4EN, United Kingdom",
+      "photos": [
+        {
+          "height": 540,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104907468672510197880\">Mumbles Pier</a>"
+          ],
+          "photo_reference": "CmRaAAAAIsMNvNHL4Z-fc7um2l1I7sz1-SENuBu6bWiHz5cNs2DBiY1oP9qxloPVPe_Su2PsJWsNzw2K4iSEYhojCcR36arsHPQvGFUbEPEO_G73XEZUHAh0mConyrzpV6OXQn-5EhC2stfuvcLIGn18pTt5pImTGhRMwEqfg6rG9wT513Cf2TUY8aRNGQ",
+          "width": 720
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109471561986127407703\">Stephen Counsell</a>"
+          ],
+          "photo_reference": "CmRaAAAABmBbzM_Rrf9kvJiAMcFgN3NKZt6XlpYHnxGWqnax9Wbd-t2Ze028SeQGNPnL1oc49_9CVXdimSyocoFmK5S-ydj2DJxIKmFN8uPPuhL0KpEYtn3CCiqW0DjGhjJhu2y9EhBluqx8iqwFH0j5h1gz5XStGhQCFuRFKuzqAv5WFXt7YCh087dXOQ",
+          "width": 4618
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103336616579275119890\">Oliver Mills</a>"
+          ],
+          "photo_reference": "CmRaAAAA-K5PLAOnmLMMPnGTz0F_z-H5YE5dYvqNWMKQzhwYqO2ndS9M1p1b0lueImsZG6Cz1aLEZuZc15ff_xQvm5cjCNd6a1p5rwZy-rZa0LFs2f-5cXIHvYFH7AbKHzdDrAY5EhAd22Wcq3LmdHoAh3Sr9SJNGhQjIiKmaZCuNZzrLstkRrXzwoiKKQ",
+          "width": 4898
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115981676704397828418\">Peter Young</a>"
+          ],
+          "photo_reference": "CmRaAAAA_QikIZNR1-eRj6SIcmaEG8Y7wzBmML8tJKvkilfPz0lCi6Y1m4pSEISHHba5iwVrsB3ySboE0GeERc6WsXjYRb6oPabzhsDbsQBvxStq6ylpYngOPnGw_TQV_jhcPwZhEhDcGznJU2CGf0N3XS0cxXDxGhQNQuzy9nEo8lffWWw630dTlNVjMA",
+          "width": 4160
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101380859747663209201\">Andrea Borghi</a>"
+          ],
+          "photo_reference": "CmRaAAAA-8wcR_opj1WXgpd61QADDdpIOu93Lo8ZMpKYuYsyMsnobl9IpJIY0vh1h8bZzyKcgQnIEMLt6mAPAxKkweJ4DbW3eUlwAxxueBO_H2gRfMgUF8fqcXfk-TD_dz-0SHyaEhAsLI7AyQfvrtg6S9cz7DI6GhRO_1TZV9rkhhBpPCQHtLzK5Jfpaw",
+          "width": 4608
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102905588507867030768\">Ashley Bishop</a>"
+          ],
+          "photo_reference": "CmRaAAAAGKgyr9fEoSlHpeYdYn7n__6P0ssnBhg85ySF8ChFmPjtTCuE87pa56YGupnTcbF_OVDbEajaEoNBbjSf4rh8aR3fWr6sEjeI59Rnp1_yIyMJm_YfbucDbCwXm0Wg-gYfEhBBPDelkaq7squ-RU2hT0dbGhQDp-fMRf0ixdyyv0qOieBLMmRE3w",
+          "width": 4048
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105404616319634101033\">Kieran Fraser</a>"
+          ],
+          "photo_reference": "CmRaAAAAVpiVU__FgV8MurdWIcL5SQ4TcfAFBoMOLC5hFrf3o9aPjfavnqph6djuo51JwcNX6-2GStEqo-F0r2tRA_l7kE48K5n5hq5yOf0wDgsBiasmTsfkPExF9DxTlYKkjENuEhDSv8w2SKrQcGET3eHv8YAnGhTrf_dduNcsmpKxrmFSgfA3za-Lwg",
+          "width": 3968
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109834739940943518906\">Yvonne Wale</a>"
+          ],
+          "photo_reference": "CmRaAAAAe7lQS8_v_iQuEsDGvBQ5mVAe0AtGnmspWhZsWiU0C8JaD6cQboOAhMM8Yc83G-7jV0ux3skK5G-jBA9GGFkOfsKbL-nkui2N-lhS1S7bWl5WgLkUtVJhjlgNIGDzzM-FEhBOJ2ASuck6zGTk6VEcH9-gGhQ6yxTeECbXlATp9srRkKTi9ArVZw",
+          "width": 4128
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108053502734704805635\">Darrin Turner</a>"
+          ],
+          "photo_reference": "CmRaAAAADDhvFBdQXZiyXKTcfKo2xDuWqUgqUG3kgvjLpjbSqRYLio48jSMxFx06iD-BzmshX9RIUUg8H86r-7UZxU2IQnRBNg6rQUo5b5v2r5VSOFpfu5XXRei4ibn2eXHc_dMaEhDI5wsBOUE06cZf45dv9HPHGhRhp4i6iyv0fPblIcMDrnm0sewFuQ",
+          "width": 3968
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106992867769793665894\">Mudassar Kasimi</a>"
+          ],
+          "photo_reference": "CmRaAAAARhWGPRURCFt_PilWIjjCq7KoxXCTWiIsCShnzrPJI6UYXHJnTVI-69Iq-KxPguotXFudcbgdGbDVW5i-0fmQvDvmgc6wlWr7eTPnR32BXavduRkrZgtIL_WwEiupcDHrEhDdLg5uOv-9-MIEB-8YXEu_GhQUeeZGBVTqbT1BoRDGX06iNAE7Zw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.mumbles-pier.co.uk/",
+      "popularity": 1.0,
+      "num_google_reviews": 3259,
+      "mood_params": [
+        0.011648786043482795,
+        0.06511090027996612,
+        0.0715541623499234,
+        0.1360814216624036,
+        0.07669422836255378,
+        0.18565623206232296,
+        0.11389440009510299,
+        0.019478837604241458,
+        0.15653504965144882,
+        0.03832421555630512,
+        0.09008432392309426,
+        0.0315024386507292
+      ],
+      "top_cats": [
+        "food",
+        "beach",
+        "water",
+        "hospitality"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.16671066065284615,
+        -0.17358289592335874,
+        -1.2891701662778032,
+        -0.8360592763337535,
+        0.6576263239539489,
+        -0.9415394092727555,
+        -0.7847862602273863,
+        -1.1634198764830963,
+        -0.21548126977399207,
+        -0.21632689938270006,
+        0.3309379575466268,
+        0.9349223634076254,
+        -0.150091905503475,
+        -0.16070082944748101,
+        -0.45362225256414934,
+        0.3989246568278026,
+        0.036207478120293006,
+        -1.279621971246872,
+        -0.5370657160820396,
+        -0.706734589335687,
+        -0.5369185439519358,
+        -0.15551798501770844,
+        -0.44573999126106295,
+        -0.7070395743171078,
+        -0.7058507110415116,
+        0.10854743479620164,
+        -0.5205963614385244,
+        -0.15815059567612047,
+        0.06720696369470687,
+        0.4234579013497952
+      ],
+      "global_mood_params": [
+        0.04531425143247726,
+        0.436904611448819,
+        0.15609641627066712,
+        0.1551051487904482,
+        0.4028949640456878,
+        0.40139555040257885,
+        0.011204322922837745,
+        -0.4032707777268639,
+        0.4593647642413389,
+        -0.20970130235621506,
+        -0.035874872903767584,
+        0.3044753713545951
+      ]
+    },
+    {
+      "name": "Oystermouth Castle",
+      "orig_name": "Oystermouth Castle",
+      "place_id": "ChIJpQphlXmLbkgRhMFFonEgsfA",
+      "cat_params": [
+        0.11048943544284663,
+        0.06259257244718001,
+        0.12376800834112167,
+        0.13565302191750833,
+        0.2711871321758651,
+        0.10571713268875926,
+        0.33496348080740496,
+        0.12386562422433567,
+        0.16245328640790213,
+        0.26922531312244075,
+        0.06312238144088252,
+        0.09344361163393773,
+        0.2153205065471212,
+        0.18365577260512492,
+        0.277158688229106,
+        0.18972635859508338,
+        0.46280082188108945,
+        0.4054578166295522,
+        0.13938188062352502,
+        0.11344365131871405,
+        0.4202241973726202,
+        0.19763670246887136,
+        0.2396930065468232,
+        0.09144530147800957,
+        0.02131565067827354,
+        0.30316744271764495,
+        0.2236585056981932,
+        0.4242975178522737,
+        0.29433981188293673,
+        0.2736992044295911
+      ],
+      "noncat_params": [],
+      "quote": "Remains of a castle in use from 1106 to around 1650, with a modern glass bridge & views of the bay.",
+      "phone": "01792 635458",
+      "int_phone": "+44 1792 635458",
+      "hours": "",
+      "coordinates": {
+        "lat": 51.5769001,
+        "lng": -4.0025346
+      },
+      "address": "Castle Ave, The Mumbles, Swansea SA3 4BA, United Kingdom",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114357952267359651306\">Oystermouth Castle</a>"
+          ],
+          "photo_reference": "CmRaAAAAeyIl2CB1cY9Me6-WhkLGb8lPZZXbDCnuiAgneRn8YzNpHn2yTYEPTLccSKfukV_QtLHC3sl8QHbQn_bwsF72pYWWTISvMeFDQhCYJxVbuLMi9ScSQztOoqgaqcYKcOONEhBWgYJff_9N5GEJ-dMion-IGhRDedp4VDh2LWijF47fmmO2rPnsIw",
+          "width": 5760
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105746378186776780004\">Matthias Koch</a>"
+          ],
+          "photo_reference": "CmRaAAAA4z9_Hg4prXTgPdqr_1bBqYt01EPoPVluVZ10ZfyyawOEOOx56huVz8p46EOltmzwMhSuwPissZQQfEiuw46V0mnrcpTYIWkbegFp4WuxnPCBmlod7y2a66wlP4jIlRfrEhATcphRWEtj0lpzjWR7WbE1GhSTs5liZ9eqaI6b9T5mkg-zSQpSvA",
+          "width": 2048
+        },
+        {
+          "height": 3575,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101494798643131210470\">Steve T</a>"
+          ],
+          "photo_reference": "CmRaAAAABpANjc5jHR6mOZcG0FakykAuYu2vbi2YQDC4_43rX13bb6nrGr0QogNEGubfQa0djNQoGIyQ3hrwxcI2crPEhWhTPzoKR0flYBmSm1Z09IQZh1eHgfjHFmLg5pBSSCKwEhAFAr-X0kfUHYIJguEUthjeGhSOZ68j-4JZMJNqKS4b_nXs1X3xxA",
+          "width": 5347
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105114411686278761606\">Jan Burnett</a>"
+          ],
+          "photo_reference": "CmRaAAAA3Fbn78ZVkCc-HuwDpaZOE1ocJInqP8xHsbh9I45vHoMym2_Z-U8OeR5kmH1NiWLaklVIY_9KdQSQe4Doditzw-NuplAv3oQoEwkSnwCCajVmSUsWq74T6Qdmq_7VQw8sEhBsD2G_zamINMaV9Y7Y45CsGhS75Z2ZsooGgpSMVPc3SNHwJmz89A",
+          "width": 4608
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114719373516044450485\">Alex Doncon</a>"
+          ],
+          "photo_reference": "CmRaAAAA2pDucmvaFAsKt4pW3-arFwZwX80s4ie0n46SazEuONkj6MC-cNuM-TN2uc-w3RKmLOp_iMCKTTe7ZRNy6KV5h1Qtn0h-w795WVbbyl2ykEKGg1prwS26I5i-J30AMYR6EhAxSqw-SDWV58fYZDZsMATyGhRJzQk1UUK5RWbL5GSSEqK1A5Q6LA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113094848660053160994\">Daniel Pogue</a>"
+          ],
+          "photo_reference": "CmRaAAAATNIK_xLfFzKa-jFX_5UHRk9_rIEVOjxuPQj6tEBd4ys4eruWjkOU2_ukN0stct2Ojc2TT6l4P-7FopxQ7bozikck1VCi6xsJqARps2CA4oBNAtnFv_JxiBHufJCZ-DI5EhBG384Z1DUMnzksnmWqn-bHGhRzLBTUVuSS_vNr9K2TPebBrY1BrA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115866125642782517062\">Richard Littler</a>"
+          ],
+          "photo_reference": "CmRaAAAA4pXwcIHyK9tC-nlwBnASpBnTMBIpbzh0VEHnNPZakB6Zkxj1p8FeyWNhbQu2vd3wgEVRWDyge_J2FrtMBI0ZSTJd4WYRDFYPEnmrm7Uyyk7nct39FQ4elsRiNi5ordE6EhBAT7xkILSO8aQt-ysVB7goGhQXKaaWeeSsOjfgZ0onDMvNAJQ7cA",
+          "width": 4032
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103250026127510679360\">Mohammed K. AL-Hilfi</a>"
+          ],
+          "photo_reference": "CmRaAAAANdkCQUgMC_YzkBWpsvkokjwUcu08arTQrg_hpYS579OjZqMRqqEY-G-BDaslMHTPSyRsVSrV4lNS9w96KUt3-KwYbfG900RKcrPksqISkVVclyAcPBtg2abD3FH5REsiEhAxhOEFLt0uLHETo5zaNYPkGhQXAAriPTY8CRgVAF2P-XQ-aQdAfw",
+          "width": 4898
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113094848660053160994\">Daniel Pogue</a>"
+          ],
+          "photo_reference": "CmRaAAAAGzsP_E6_pDImWl1FvT9p_OZS556lnTu5c2x6l5gcoFlOEKwouky0y_JlYwhoX-L9d8eF6iVT87fYAfZvluZf5aGI2GRAXQWmx-Tyu7BaUDyAaoQ18RT1da9s0BqM-WFHEhCj4VpLPuhrSqvlELpwXnW3GhQkb8z2UFHfS7YZxZWXbPlxf8jUIw",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108312307836840598727\">A Huq</a>"
+          ],
+          "photo_reference": "CmRaAAAACijyx7gxm5i_iX6_CaCW1Yiq1Q6MWjwtnn5yWPGepnIvFPVkUMsTi81rz_QFWRJUMrIBTL5lqDTdsNjDpWeVgMwRhrKcKj0_8A0N2ScDcT8O7R-7rZ3JcyAhR0Y8S8UtEhD47YL9BfBqatqYUeU7ZjqTGhQ7P8TMkPFwgGR1Y_Aym1R3wCRQKQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://swansea.gov.uk/oystermouthcastle",
+      "popularity": 0.6812604670109731,
+      "num_google_reviews": 702,
+      "mood_params": [
+        0.009578679204607726,
+        0.05328188770881615,
+        0.05486803936346904,
+        0.1395779987211304,
+        0.07333795174432597,
+        0.16935351130620543,
+        0.14159371990770034,
+        0.028877023232146092,
+        0.13046116562423676,
+        0.037760416110403976,
+        0.11386920744036225,
+        0.023700828279027964
+      ],
+      "top_cats": [
+        "military",
+        "hospitality",
+        "views",
+        "walking"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.6155040008307051,
+        -0.5937953576454793,
+        -0.9909221120427885,
+        -0.6833204735032063,
+        -0.20770699835658424,
+        -0.5257789739315663,
+        -0.6738998883944847,
+        -0.9692462870658939,
+        -0.6536038707693853,
+        -0.5542845801577014,
+        -0.4777218274349256,
+        -0.45068052670058834,
+        -0.412812916892612,
+        -0.162215496890515,
+        -0.14111510020034163,
+        0.2265969834626117,
+        -0.03442337555845414,
+        1.166631156967981,
+        -0.3371502944423049,
+        -0.4425308725969008,
+        -0.5723291551585222,
+        -0.5630668079967429,
+        -0.19561275329592787,
+        -0.7161342747384338,
+        -0.17968815997344878,
+        -0.38109403716303547,
+        -0.6233519897822566,
+        0.025102116133233165,
+        -0.029371368232999847,
+        -0.38528094603417196
+      ],
+      "global_mood_params": [
+        -0.09396640462889459,
+        0.08251903359073814,
+        -0.14433101041872962,
+        0.2090099759489397,
+        0.3292339382003826,
+        0.19638855977013003,
+        0.5354029514322565,
+        -0.028511261275815315,
+        0.11444157181226644,
+        -0.23161233971977094,
+        0.5145121561570228,
+        -0.17245948594075552
+      ]
+    },
+    {
+      "name": "Penllergaer Valley Woods",
+      "orig_name": "Penllergaer Valley Woods",
+      "place_id": "ChIJUXJenUb0bkgRQMIw8VLLv4Q",
+      "cat_params": [
+        0.10937914695534302,
+        0.13444727762210443,
+        0.10179171911998654,
+        0.12903509061202276,
+        0.4135866070438598,
+        0.08155426787627536,
+        0.3640422765339362,
+        0.14429753418676527,
+        0.17528468261431487,
+        0.3429688661960254,
+        0.07452817226713283,
+        0.23053273349978315,
+        0.25857511643772213,
+        0.34238441934503694,
+        0.2373247494560558,
+        0.24855084893085508,
+        0.5301936129574962,
+        0.18930426131059538,
+        0.11224199003172465,
+        0.09415853091974226,
+        0.6475441193771936,
+        0.21823537656957123,
+        0.20313614303729,
+        0.12097700906863766,
+        0.005448760788305563,
+        0.38652473615629684,
+        0.2734295568635766,
+        0.4235830863229888,
+        0.4723777874451572,
+        0.3456478534529791
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "01792 344224",
+      "int_phone": "+44 1792 344224",
+      "hours": "",
+      "coordinates": {
+        "lat": 51.6743937,
+        "lng": -3.991838499999999
+      },
+      "address": "Penllergaer, Swansea SA4 9GS, United Kingdom",
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111269694537966532367\">gregory666</a>"
+          ],
+          "photo_reference": "CmRaAAAAs5wCVKLNnyDdRR_hp62zHCjOyO9pQekgOEGhAbR9wcjVHJZX8GOrjZBhPvPWgQ7eMlltZODPusSvPFX7KuaGOqB1ZEgiApkjcxvh2haWU6UgEFvnDaG1nUhby1BXmYP7EhB1o9kRJGRSHi3vdFMYegQTGhTI-54QJ7XYFQ3a_4cP9fGBSV_Xnw",
+          "width": 1137
+        },
+        {
+          "height": 2933,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102855334468684200722\">Neil Surman</a>"
+          ],
+          "photo_reference": "CmRaAAAATAEyggA_EsgNOo9gfDFRRzF7x77ughRK5WycpS_gsQajKJsZgHAeMbfbgdlYXvlh8KYQ8vuu7QTRCX1brzEs5ATqxhyae1Q_OdfcBjNHZVcuvZo1GolxN8NDPOSUe0fDEhD1dgScpXgg79yifTy_lj58GhRSaj_uafNgi3UHiQQTEoT43GJJVQ",
+          "width": 4266
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110829842001650536713\">Vilma So</a>"
+          ],
+          "photo_reference": "CmRaAAAAuIUH0CcTmzMGocVrYUau9LBV_3NclbKJdvLOAw51RjDAKEhQddAraQ4jICF6FnEQ7PxJ1RnVwbYEuDCqVNkWAz0Go0ZLCN4A1ArIcgpTqI_Hgj9AhvahRUBqjEaw78_UEhCXPOwflGtdUEsXLa3Zg8M4GhS9ZQN6ndzMGYkela8fKBAX-Qnong",
+          "width": 4032
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108607727869796117540\">Kim Foster</a>"
+          ],
+          "photo_reference": "CmRaAAAAwZuEJjv2dTSyCRwcaacI0j4VJU-uvA-O6A-bX1KqR7aNEV9clwQMkC_clR5rDCf8c1M2lMNuQjGyecrwKRddlj43gCq7ldXIfr-LdXL-g7v5ZoNiAglz_XGdoY3WT6iJEhBhOONQl1SmuRW4y8Kg-_NcGhR15V5z3caT5HePB2BZZ7tKjabHWQ",
+          "width": 2988
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117994177747429393276\">Lisa Moseley</a>"
+          ],
+          "photo_reference": "CmRaAAAA6y-dLOz5PdYdYffb5WwpTN4v1zw4gM1X378w7hOiRcRXFoCmErcCA74hSDOr5BRjBEMWIFXbgJjMpJTrRolXSc5DaEWnwLc3NMDtxuvxAngCc5lozw_U8ne_8JESA3TjEhAaCOpWz1S7uC5j98uRpV8KGhT_gQFTWh8H2ZiYDszr7AMn4a17-Q",
+          "width": 3264
+        },
+        {
+          "height": 2610,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100973461908188292655\">Jack Morgan</a>"
+          ],
+          "photo_reference": "CmRaAAAAreOE2dIiwnw-hXw9KYN66keMlaz_yfRx6JAsvtBWtFD0vWpkocsfqZymOKCst2puVnDclTdcLf9aWoEzZOq_ZMRuzS9jq-vUuxrRTAo7SNDG3CWUPqD0_ATBW-oLCcNAEhDxzGBL6Bn8oRu2wGXxL9CQGhRJxjMNDmQAMrU8Y_GxHWbJ8Kr-7w",
+          "width": 4640
+        },
+        {
+          "height": 3004,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103455631528072935926\">Andy Slinger</a>"
+          ],
+          "photo_reference": "CmRaAAAAv0TVPUB3wNE-nqXWH1nFsCRqOGuKYTYGhHIazW3z95gFmnZ02wcpOUYT_G3oNZL7jcnZyvo10cQ8ExlLFA-k5_JZC1jWY6g0W1s-Ko_MnrDOdecVIOTU1cuUJ0063g6ZEhB4t77Uha82s8bT9uZFUM1dGhSlGAelOyd9PJD3xktXWKXyJ_1XwQ",
+          "width": 5325
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103646570367236418219\">Philip Evans</a>"
+          ],
+          "photo_reference": "CmRaAAAAN-kxSoMHSh5pTMloiQCLPwpzdbaRSVNw7VMYXK5lkIjjtuhmLHKio_8gtDvgangAaXptGy_QkuO4qcNJkZEzuwBNAdAkSLjgYkda2kGaF2zshrShqtGFfXt_J5x5iI-YEhC19YrFVvD1B41bFBLRGU0PGhQNa1spyJRRvqfOHHAivjtlrhXNug",
+          "width": 2736
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116349192192503185915\">John Angle</a>"
+          ],
+          "photo_reference": "CmRaAAAAALwstLXiv2rMVi54mp1xOONBkC_RR9IjKVYksUzjLxKmsw-Z210wxJ_IBPbTx1Sl8RQt96bk2fakJvQpTG78iGrJ6_xUN9vteLX9IY79LK4kef6-QYWbQgCY2Rpxs5uYEhDE1dEc8HR42rNlEQJNCSzQGhSTkaykPIEqVXY__TvnXOa_hMbtaw",
+          "width": 4128
+        },
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117486860602889998451\">Dariusz Szwestkowicz</a>"
+          ],
+          "photo_reference": "CmRaAAAAMSHJKj7xet3mS5FpB8XGcCYEP-cKt34tFsmRwQIR7aZz94GIu5Ti-6tTHYAKgIDOvZLEsystKAQ41bJHqBIoU_64HWTvv5nz8s9QIafC2sDgNCtTSVcI7ttxjEP9saJwEhDFJrcRqe4irl9tkV0IPeLWGhQczwIDBgHoHzboTHHkp3dHULzpiQ",
+          "width": 3264
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://penllergare.org/",
+      "popularity": 0.7474104197505522,
+      "num_google_reviews": 1017,
+      "mood_params": [
+        0.0072973057272453885,
+        0.03941730754392432,
+        0.14621860085558042,
+        0.17210026759219027,
+        0.13530020313770416,
+        0.2232339250443897,
+        0.13065899953434426,
+        0.016542636605054516,
+        0.21495165809803884,
+        0.03164680318506311,
+        0.0908198128473037,
+        0.025751708915158062
+      ],
+      "top_cats": [
+        "walking",
+        "hiking",
+        "hospitality",
+        "food"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.6289756079566331,
+        0.26535099364713305,
+        -1.206803746560464,
+        -0.7306136722364852,
+        0.6706621154195187,
+        -0.8481277582994561,
+        -0.364448148171568,
+        -0.7423333943206246,
+        -0.46371168764201726,
+        0.22980399394882925,
+        -0.24314481297695764,
+        0.851280697096021,
+        0.05460464909868367,
+        1.0041270687258428,
+        -0.5742697785497402,
+        0.9155427792511426,
+        0.3312527494717968,
+        -1.0942531403404692,
+        -0.6835796269252713,
+        -0.8268037773170878,
+        0.5363119705990752,
+        -0.361832889216491,
+        -0.6077850714136683,
+        -0.4406497155261827,
+        -0.6365327221357067,
+        0.23720272547492977,
+        -0.15700151979057594,
+        0.02046089138237472,
+        1.0453421978509683,
+        0.10944756536016888
+      ],
+      "global_mood_params": [
+        -0.24746147487401832,
+        -0.33285014654508244,
+        1.5004018096608944,
+        0.7103881102935146,
+        1.6891346616785718,
+        0.8739356784221809,
+        0.3284677103639751,
+        -0.5203539372030102,
+        1.2321396624976997,
+        -0.4692067577478952,
+        -0.018855510012675047,
+        -0.04708326014633513
+      ]
+    },
+    {
+      "name": "Mumbles Hill Local Nature Reserve",
+      "orig_name": "Mumbles Hill Local Nature Reserve",
+      "place_id": "ChIJH3HfPZ-LbkgR4KDE9SwcRpU",
+      "cat_params": [
+        0.10036305251353057,
+        0.03666121404164673,
+        0.1629962268598382,
+        0.09210055550315104,
+        0.2373554141618281,
+        0.1054564698494289,
+        0.22299883657006214,
+        0.10292649562091606,
+        0.19113308009913604,
+        0.15410054856275096,
+        0.016950572232598105,
+        0.05028569987502649,
+        0.1014958101538875,
+        0.13885811962465439,
+        0.13256039486706722,
+        0.05528830249550197,
+        0.12968416915122105,
+        0.17480564837703336,
+        0.08840940288444127,
+        0.06475574420316686,
+        0.2914959052422397,
+        0.14198276324286863,
+        0.08889998748773417,
+        0.11080247871792445,
+        0.03558733543373359,
+        0.16905041159764586,
+        0.16578709163230607,
+        0.1708384368595532,
+        0.12441772181337045,
+        0.29402454536005795
+      ],
+      "noncat_params": [],
+      "quote": "Numerous environments support a wide variety of plants & animals at this protected natural site.",
+      "phone": "01792 635749",
+      "int_phone": "+44 1792 635749",
+      "hours": "",
+      "coordinates": {
+        "lat": 51.5697236,
+        "lng": -3.984543899999999
+      },
+      "address": "Thistlboon Drive, The Mumbles SA3 4JB, The Mumbles SA3 4HZ, United Kingdom",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102461415791164757345\">John Powell</a>"
+          ],
+          "photo_reference": "CmRaAAAApHzKaiBH_DT9PlIPsWf98Dvvf74_ieDZ7TuqjcTf7SBHqEtjKCzHqRVXHop8aE87IJuAr01wE26gF6l3B7NeONxSQQz9Xl1n2WMiT8DMmT8ZEBVmTT7MzYQRyHAf9adnEhAWqkq1TKQBxBuzPsP97vMVGhSuS1GGDAEuGHJJcw6hCVH1pPE5zA",
+          "width": 2048
+        },
+        {
+          "height": 1203,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102461415791164757345\">John Powell</a>"
+          ],
+          "photo_reference": "CmRaAAAASk8qKMSQt2x5eV9CrpOJgBBdzzN18KvvDtyx0HOyUyty_cCL3KVOKAYjPA3sxqZU55_7NK4zsKJX0zGSo8dCkDhaNdyygLpEUmjtMthTZNONqQedOG8hQ_DJF-frY33UEhAmmQQ6LNSE-RDmhh0gVksmGhR1yUXdSwAtXxGkvxQN_rJ4GPSBrQ",
+          "width": 1609
+        },
+        {
+          "height": 1808,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116841716398923958164\">Dean Hughes</a>"
+          ],
+          "photo_reference": "CmRaAAAAKbsb03NKZINVed_de2_YagSmnVID8ol9qU5nujb7CY-W-iOh3kx_pEPRU9C86JJPNlb_fSxnsIEUFYcFkj2yHpmsWQfxdI0wahVJ3JI93a4mWIPRDoLbbWGgMfccaAmCEhC9fdAPPOyU2wVnJcir39yPGhTvS8JNfIY8cotbTVbZ2GrG40Sxvw",
+          "width": 3408
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102461415791164757345\">John Powell</a>"
+          ],
+          "photo_reference": "CmRaAAAAtom3kSXS3UnkbifB7GD1b_Ma4vD50fERuzcUlKinxIr6KFl6NrQQb3Fx3bZzQXbVEFlYtE9U76j0qpaX6kgaPnxWKWqE-faN-DZD9G8L0FkF7oKohn0is7dqYivcnK_dEhC56H4mTvPzO7OABRuSIen6GhQ6lO_YUBAkfBR0_I3mAwK9DiDt5g",
+          "width": 2048
+        },
+        {
+          "height": 3136,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110437926492624309987\">AQR</a>"
+          ],
+          "photo_reference": "CmRaAAAA43IUtKRGnyL9L6_mnEiMkPJD5bmQLCBoZ93nd5VVzNsoX3KN1vBvuodcFDy_d1j4ZtmQK4AeLPg6UZkjwGbsTfUJ9VHZlAq1wcvS7nZm-zmRrnRlwYL0SnEqgBLexO2CEhCU0J8xiZjMm2BaH8owYq9BGhTlDE9ccbKCeH-41M9wt6G9Qmwfww",
+          "width": 4224
+        },
+        {
+          "height": 3136,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110437926492624309987\">AQR</a>"
+          ],
+          "photo_reference": "CmRaAAAAd01PTlDv6nWHr2dPEfZAfoXYmwEUExTqWiRV4umY25zwXHdDd_7rbJAmKlfU6ilO0LoMBq3twHsxJ5lY8L7xxC5t3xlEKlGui285w8ZAtfz8tUz_CuPVAj5bxLqPLI35EhBgm8Fop-jQlhFe1QDegDfkGhTOH-WeMo0a3M8Xprp_X4WUgdwmTQ",
+          "width": 4224
+        },
+        {
+          "height": 3920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112766875566277621403\">Christopher Kirkland</a>"
+          ],
+          "photo_reference": "CmRaAAAA6_GE7ohJXyD69Ny8l1-B-sZuNt9IeyHZXsmuK4mglnvtN80zcAwzou2TTfjYuJ_wFzdcbVpvqgT3sTIY2FGWHR7iP71WhF1wD_545zApyCIlzbLwZRsP_EY39OPUEHVREhCN9OTDLHd5gqvgG8dw6JDuGhQuG0v19ref0-T4IYrarA7B_n2hrA",
+          "width": 4976
+        },
+        {
+          "height": 3136,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110437926492624309987\">AQR</a>"
+          ],
+          "photo_reference": "CmRaAAAAIs5DPbW6lA-fuS4aee0VQHQ5RWTIkdlYNR3b-v8Oloi-uuWeFLLPm0L8gU2ORtF2YZOk28BLQq8cgK4bkeW-54IJaPfYI1F5YXE0us5bZJIgBrTnRoFzkvYIY95Cb3XYEhBEu-f-jgW2ObWBfTlhHkB9GhT-uk-LiUjkX9Qgsk-JxJ8jgCpRWw",
+          "width": 4224
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101940416613829337594\">Sam Noble</a>"
+          ],
+          "photo_reference": "CmRZAAAAlfwyG2xmUJtwhq3-EpT69Od5DeipUp6bQon378WhRChRMoN51G65O2BTC0fuq60wJ4cTBjtl7AD6B9momPrLCpctFQVHA9I1zJtPXnccbX6QtAAgLTirxFk4cbLDnv-eEhBjZne6DpGrs_Sdnhq5wEEVGhToOfoj7uJivVjypflBW0UAmH__GQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112766875566277621403\">Christopher Kirkland</a>"
+          ],
+          "photo_reference": "CmRaAAAAev6SXb5yC60UFBGLMruNE1qtrhee_cuFRnZSO-ESfFRlg6KVkNdi-RT5tPRQuwNtWZi_v9rLuLZ8Tv2816OQAooO6MbYlshggcuGjV_YL6X4ybBpKoRt52NGy9KNCfJUEhAJVnm6L7dIiePIqiY73ytfGhTmyD_3O-PmHq99MyJtAPkWp_PoOw",
+          "width": 3024
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.swansea.gov.uk/mumbleshillnaturereserve",
+      "popularity": 0.3683551299354636,
+      "num_google_reviews": 60,
+      "mood_params": [
+        0.0006676221589335475,
+        0.0055329333752045335,
+        0.017828937532626734,
+        0.023815048601550197,
+        0.017143443722329645,
+        0.033466388702449106,
+        0.029621861326192867,
+        0.0028275080362388343,
+        0.02774341136396328,
+        0.0036287781003744163,
+        0.018377006317309635,
+        0.005754244600751077
+      ],
+      "top_cats": [
+        "science",
+        "engineering",
+        "water",
+        "beach"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.7383717545414329,
+        -0.903849263008238,
+        -0.605568067607818,
+        -0.9945560174187719,
+        -0.4163927129426831,
+        -0.5292563906220166,
+        -1.865409135494193,
+        -1.2017922532386107,
+        -0.22917082014398688,
+        -1.778364634964441,
+        -1.4273136024546098,
+        -0.8605593474659973,
+        -1.6428243000119054,
+        -0.4913899123723504,
+        -1.7134784963473673,
+        -1.3479263658279457,
+        -1.8419283743527675,
+        -1.2459031387218227,
+        -0.987792616614697,
+        -1.4126800396736847,
+        -1.2001380926497407,
+        -1.1067649232859198,
+        -1.8957779823328584,
+        -0.535562141441825,
+        0.23122674639066637,
+        -1.3758975238806073,
+        -1.1656021636640668,
+        -1.62146653574401,
+        -1.0550939692591155,
+        -0.24552118961617964
+      ],
+      "global_mood_params": [
+        -0.6935189727447824,
+        -1.3479926572080676,
+        -0.8112062371541269,
+        -1.575644476890521,
+        -0.9040807073481572,
+        -1.5123943168699658,
+        -1.5836200100407083,
+        -1.0672547065655837,
+        -1.2443792191992367,
+        -1.5580762111444466,
+        -1.6951967472494276,
+        -1.2695857095964989
+      ]
+    },
+    {
+      "name": "1940s Swansea",
+      "orig_name": "1940s Swansea",
+      "place_id": "ChIJGVIbk9hfbkgRaByNxtFCemg",
+      "cat_params": [
+        0.09583862518677964,
+        0.043802912203275646,
+        0.16043941958750374,
+        0.11225293756784097,
+        0.19710947034559825,
+        0.12539266929526532,
+        0.25871228836992893,
+        0.12787880055089848,
+        0.178269500706728,
+        0.21509130033838475,
+        0.04686070732025622,
+        0.06311462635765185,
+        0.14703488473869755,
+        0.0996961405834333,
+        0.2061246569323377,
+        0.08213770887609202,
+        0.16029507474991875,
+        0.21120502911284272,
+        0.09158599901928263,
+        0.09145460713792024,
+        0.2793936636695902,
+        0.15257035032800745,
+        0.12707255114314261,
+        0.1166473628075838,
+        0.03728798016887937,
+        0.19506971247266805,
+        0.1769492362524645,
+        0.18057355380790324,
+        0.12004038067189719,
+        0.2433667372242057
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "01792 458864",
+      "int_phone": "+44 1792 458864",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.622372,
+        "lng": -3.8848791
+      },
+      "address": "Baldwins Cres, Crymlyn Burrows, Skewen, Swansea SA1 8PT, United Kingdom",
+      "photos": [
+        {
+          "height": 539,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100822896610050145788\">1940s Swansea</a>"
+          ],
+          "photo_reference": "CmRaAAAAjWR3n4OWoTaP1r-L-YBqsShNtpnd3E8k74o5etbOgHjnv_ek3h9XkL08HTyt3vt32TdOqmiTen_YN0vDJfzaWziQ8yc0IeLQrpM2pW9wutdOn93G52BpsBp4bD6dki4XEhB9J0-KeNrEBa4A8Y6Ou7z9GhRJV3zmKBsmF49NfxQiFBZeVwS5PQ",
+          "width": 960
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106874598605000962021\">Becca Fleming</a>"
+          ],
+          "photo_reference": "CmRaAAAAr8T1-lef1Em6jDZx-LsT3KQWgfdbiWpaXiMEvtn37Fxpgt338e2JC7X-Ft11EeXcdQRKb5tqtli2eR2aNRwCpQB1nAbQm6dehZoKUcfEsrLj2MDEMljCmP_rXHpWL5ydEhDmO7bqEx5_aSTNY2-yg7x3GhQeHMKIwwi3L2LWxC7lvhluTO3dsg",
+          "width": 3120
+        },
+        {
+          "height": 717,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100822896610050145788\">1940s Swansea</a>"
+          ],
+          "photo_reference": "CmRaAAAACZ4tJjmfc6Ltq4Plfc2fNN6E8GV_8kcf7GIA5BfHzjjfwacpMWfvek_C4pftwCpUFUrcw7TrssQZNDjapzqYYrzpqxcp5kZdP0uv0HgzS-HsU83dw9GUGc6PR3gc_lZ-EhA9X8gQMhfJ2hKmcJlhBpwWGhQmGHWfWYBIANhqZy1CBBksTJH4Rg",
+          "width": 952
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105825526587260451467\">Ian Huxstep</a>"
+          ],
+          "photo_reference": "CmRaAAAAstuYmvM705DZRaAVPRPoI95bHNDoEcab3U5xvTbeIc1EBKkrUlrJD2L2kCd8X-ZMHtsP6Xowrfig_TqiOJW7120Z2eobtIkLKMu_J6hkyrATNJg1oRQTjq0JsL1Z-aQjEhDHjXGQZJDu7cNCA-2-8thKGhRFUPcS2wZDRUVQP1eDsURKR4orzA",
+          "width": 5760
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106874598605000962021\">Becca Fleming</a>"
+          ],
+          "photo_reference": "CmRaAAAAStf7znaDUEW7QQ-ZnCxSJyfdXsf67CLktzmQuxF0u6bnseOFNuc1hXt5XAk2NHkICbkuyipAbU5XHNqCePtHu8bDB8W8WCWYuf4_ZYdjJkWq2TVeiU0d7UOCvSvtb0tlEhC825WJCFw8j3xNcW4vShgAGhQPzBp_ERcnAx_qgRwkJPpW6YvSbA",
+          "width": 4160
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100822896610050145788\">1940s Swansea</a>"
+          ],
+          "photo_reference": "CmRaAAAA_rwMqJn0zvVG7fYUvRM33l4pXUOXEkorWdlaSLbj0MvVUM_BLosiZ6NPVqRAxJwp112fWahCxyH_1T6LJNja33LJ5E3D5GE6MuyC5xL4AyQKHWKiB80XIf4_49rmS1oyEhDUpMzGatebGw3tMSAQ809KGhR42zqDHFOeOwv7De_z915hvWV1Iw",
+          "width": 4128
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105825526587260451467\">Ian Huxstep</a>"
+          ],
+          "photo_reference": "CmRaAAAAtPdqNGxKBMlezrED67gjmgFAyMthmOOzzkbj4Sw9oZd0MfWoPK2H3cprBYnbDxMnvIqBP1idcIlN2Id3sjL0FY0pvxz8QWBKgVnNQTeehXnSP29sCdfdmPrttLOn8NfQEhDbbaBuzz6hSYpdrZS6GKT0GhRgyD5nbr8kAyM9QC3eqEqvm_iZqA",
+          "width": 5760
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106044392968926900301\">alun roach</a>"
+          ],
+          "photo_reference": "CmRaAAAAzhIvnQE2f95epKyvZkAempY4bNegWvmKGJiE-1xJQ4t6KhAk9RYnoz5T_Tz-A98k0UQuBS3Y5Ni7KsCw3Ntkj6LMfTHFG9pynp-BYLRUn_d1lnZhUmuwpk7cyjMst8QjEhBiXz1Fjy8P15slqb-f8MkiGhSIN_l1uuUAfR077ZzqEVM8FHjO7A",
+          "width": 3264
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100822896610050145788\">1940s Swansea</a>"
+          ],
+          "photo_reference": "CmRaAAAAGdkPvmCVmDVcgNCtB1aKDLui5hsNO5kzZkbdo8eEEByAnn1lOP-X4t18fKLoqGQUFEtnF0J7g7HFopqdbUnPAx0sl9tsnPzCm-zTEpaox96cO_g2AwaxBbh259O8hNr3EhDhNaW7xXvmrlaHSK0AmCb2GhRhIq-XO4CJ3eYIdBjPhiEdWzYqGw",
+          "width": 4128
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100822896610050145788\">1940s Swansea</a>"
+          ],
+          "photo_reference": "CmRaAAAAH9xQEsKOT1w_o7mFzIDHfchXaTojuKFF4NDAiEPAYdgnswMO7e0Fh8q6mfer2aWbaZATGK3m78r7C3kbql65sqDzaOix4R1mA4_SxkNKAWJWgGuFs9PblsECb-QhuMf5EhAZBsTRCTVfyOTOcRyK3kIpGhSTt363IgsPj9t72v9zqeIx7Hjv7A",
+          "width": 4128
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.1940sswansea.co.uk/",
+      "popularity": 0.4174819550026922,
+      "num_google_reviews": 99,
+      "mood_params": [
+        0.006885574330713809,
+        0.03183093920739742,
+        0.009182705253129288,
+        0.06183069810545522,
+        0.009069699927320408,
+        0.059130894087399,
+        0.04569511331790571,
+        0.01937971061904886,
+        0.02242846857409018,
+        0.02530971445478656,
+        0.05350300436045878,
+        0.017178868553489532
+      ],
+      "top_cats": [
+        "science",
+        "books",
+        "engineering",
+        "religion"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.7932685746938647,
+        -0.8184580015360821,
+        -0.6306845796606081,
+        -0.8505426443660252,
+        -0.6646435863094218,
+        -0.2632941503763597,
+        -1.485352481402681,
+        -0.9246767166717557,
+        -0.41953928312043215,
+        -1.1298719925537488,
+        -0.8121672879395684,
+        -0.73872061514367,
+        -1.1507203727365536,
+        -0.7791532370631707,
+        -0.9135399199881725,
+        -1.033469146738763,
+        -1.6758323103047936,
+        -0.8651794063922356,
+        -0.9472446978661393,
+        -0.8806818254851531,
+        -1.2591608241506895,
+        -1.0033319727399777,
+        -1.4653889243042966,
+        -0.48103853111061967,
+        0.2801922528515416,
+        -1.1829012204561282,
+        -1.0610138283197152,
+        -1.558223434227468,
+        -1.08151747746439,
+        -0.5938510380529942
+      ],
+      "global_mood_params": [
+        -0.27516353254228154,
+        -0.560130277546158,
+        -0.9668784275363322,
+        -0.9895778804998245,
+        -1.0812771419693814,
+        -1.1896627253922343,
+        -1.279440098521354,
+        -0.40722353866486116,
+        -1.3146889219173907,
+        -0.7154861554215212,
+        -0.8823740276540938,
+        -0.5711656225953862
+      ]
+    },
+    {
+      "name": "Cwmdonkin Park",
+      "orig_name": "Cwmdonkin Park",
+      "place_id": "ChIJhzmdUUL1bkgR_KC_LXCRNL8",
+      "cat_params": [
+        0.2550699720529055,
+        0.18563462915833176,
+        0.12964135681890124,
+        0.10937519716328664,
+        0.3999658216771764,
+        0.07937621725383372,
+        0.2872725282363456,
+        0.09853852788433448,
+        0.15724051136504255,
+        0.2997618135910502,
+        0.055547096242697436,
+        0.13444273047550725,
+        0.21503394497950357,
+        0.3194016418185858,
+        0.22388823176564468,
+        0.1846745658792178,
+        0.3610035305544743,
+        0.2505292314800337,
+        0.1681925993412237,
+        0.08995790173248241,
+        0.6893906238319981,
+        0.19934540421337887,
+        0.169673155694269,
+        0.06847778259588144,
+        0.006287701041658636,
+        0.30185223507524256,
+        0.37168679739296706,
+        0.42611629498373804,
+        0.3966507386781957,
+        0.3672501779163288
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.6206984,
+        "lng": -3.968121
+      },
+      "address": "Uplands, Swansea SA2 0PP, United Kingdom",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111633909668602200760\">T nd J</a>"
+          ],
+          "photo_reference": "CmRaAAAAZwxTNzoAhQ15dyGm2uwPF9akqXrhLxFm4AzkCXHIQAZHnl3AXMmhM4Bk3ZbL3S5GiP4Y3zo7WwN2wul9r4GCYcw57hm-ca7SCevpG0GcOQFguCae8vyf6xC8a3tdzUkSEhCewvvMNz3hApK2fRuNWJZRGhSebgNxrgfb87Ipx47hU3UhLy6SeA",
+          "width": 4000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111633909668602200760\">T nd J</a>"
+          ],
+          "photo_reference": "CmRaAAAA3BDf-R50azjfrwNhYNvEl2NtJiS4b-q3IqUG19qE_Ck246elU3i6NJF96pyvAmWXZFT3q7fHjRmO-Y80dwqImUOaaVxkfo6b-m3SEmZnX72upiQfSK-OwhGzSwxrm1NREhBOASCVcnSLREwyF_LdzHOAGhToJf2yiqMC_H0wVPNA5fS2NG2lsQ",
+          "width": 4000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111633909668602200760\">T nd J</a>"
+          ],
+          "photo_reference": "CmRaAAAAfvI148G7m8oEpDblmMFlu_7uZpcIx20oR4JCkNeycn3e2gsXjqWsVHTPdhOc9a1k3d39Tp-u1FbLVJLPJT6KdqL3QCmGb-nQWv95WJey1amZjvq7PnzX45dDIJKUeCiZEhDcQ1mR-9dsOT8rLMvggWb4GhSiGMo4TSNyjtQSltkJoR50QjZqKA",
+          "width": 4000
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116841066157755771161\">Sam Parker</a>"
+          ],
+          "photo_reference": "CmRaAAAAqZUCGKrrOiunWaqeBor67vmbWxsrI4Gqc7W1sWWcoWYFRW7CkZEhaH_MmTIeadC8mb-0BVKCeOwRddiTWWthWqGTkUcOICLvOwUYaIp7Tsk_lTSeJaNoMd_s05cEEEtKEhBUNQR_iQl83P6xzfBvxrqYGhTJXFcRF1WZG3cMMZ7AcRzI9n0qfA",
+          "width": 4160
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111633909668602200760\">T nd J</a>"
+          ],
+          "photo_reference": "CmRaAAAAIg6SbleCRoUV6tiap8csr8S2lQ25B0DFJMgEMD6DKrYx6kH9aa2BRjj_mLCftcXd5lmptQHE8tGWNLJpRFC43sKL4rH1otnclnpwH2Ya3s8ZMOOf2JdQUC1SeQkn7uQzEhBy146SE7IbK2f59aRosEWrGhTqEIcP5nuSVBliobNNQSlRElaedA",
+          "width": 4000
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118380522259257353161\">Neil Walters</a>"
+          ],
+          "photo_reference": "CmRaAAAAkzSK51xF_2ZtDyupmr41Lv4dkW-F3swtoZX6jq_uDb1sW6xrYIVmr6T2EYesgJFZoPx8veUVPpxBJ90N1NLeT4ng2ME1RVnsyquYYXccFy08ho1g7QwkHjtk_Oae-q65EhBW1dl63cc1hk2v71Kk_K33GhRksykpSKwhVtRyQjyAYjHv8EBE9w",
+          "width": 4160
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111633909668602200760\">T nd J</a>"
+          ],
+          "photo_reference": "CmRaAAAAnL3b60WCHX90obFBu3YmuItjtRLbiZo7p_vmGZTpLdsVDbfrgLAC1hiwZqfMUqPoT71XM_8CMeP6wGXKw-f6hioEs2ntGLb1HGQ9RV9ElqjLrSvse44gfFSQeNJOTpqvEhB1PpNM7q8Rcn5_RS4L4POHGhQTI-2JZhmmBnZJfzQKvSxW8twXrg",
+          "width": 4000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111633909668602200760\">T nd J</a>"
+          ],
+          "photo_reference": "CmRaAAAARXkxPd_hWnb2TLN4MEssHbZM7br9o-V7Mm3YQmdCHQezuBbuQCc5zWPykIQWBdmAOEcenzJCEeuPWBiJRlddJ_dq_tqN6QKxgjqkxolCeHn4iAI0id1GXGeB4k-4BHpTEhAY0BTKo1rpCVERIJPkEe1dGhScoebr9Jke7Aorg1dfx8FgW6Oy-Q",
+          "width": 4000
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102427397615818314653\">Ruth James</a>"
+          ],
+          "photo_reference": "CmRaAAAAMO_3AXECyWz8rAG1_vyB3y_bL6-MHhpl_3hzsu1LPNACnctMu_zxYIxUjweAi6ZjtdABUokRfDsdUTY4bS7f-Y4Cyv1KBqwCjiyNzZ7j7tiSDXvnzFQGiJBMSbnEjIq_EhAtxmsnFxRM7MJEyTrbQUO3GhQiT8sQAhU-_LyGocDmAaoLVuWpFQ",
+          "width": 3096
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118380522259257353161\">Neil Walters</a>"
+          ],
+          "photo_reference": "CmRaAAAAvr6orXMZ_pl4ZuVar4yU81HrkzY4Oop5ZjSG_jeAuHuJL6wPn-hmMQZ8YWDZDk9RFFvbvzkF2AmIfpM7QBGGZNehuhfcc3U4Sz93YzBTt-sRZhDrylFGoW3yVLnfgbSfEhDRYzV18ZhkkHajv6mA9A5YGhRXbVJFFZMLZouywlQMXrMm1aHiuQ",
+          "width": 4160
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.swansea.gov.uk/cwmdonkin",
+      "popularity": 0.43986445404161645,
+      "num_google_reviews": 122,
+      "mood_params": [
+        0.005314924494725291,
+        0.028041363109292623,
+        0.08969897631741953,
+        0.11559435072422215,
+        0.07791807227761989,
+        0.17289667771898543,
+        0.08671413330621257,
+        0.008938547400841927,
+        0.15320947355485834,
+        0.020595867659768865,
+        0.06108747862928785,
+        0.02696130944572757
+      ],
+      "top_cats": [
+        "amusement",
+        "animals",
+        "hiking",
+        "sport"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        1.1387537521663347,
+        0.8773836531316102,
+        -0.9332259260890863,
+        -0.8711076128694855,
+        0.5866444097182935,
+        -0.8771844109722405,
+        -1.1814191269762178,
+        -1.2505241855059082,
+        -0.7307478710883655,
+        -0.22960099613316087,
+        -0.6335188092073926,
+        -0.061304169079820246,
+        -0.4159095558585224,
+        0.8352489723283215,
+        -0.7203786163296396,
+        0.16743095698410856,
+        -0.5867797691182405,
+        -0.45386314788809146,
+        0.03060645903341925,
+        -0.9105049907939194,
+        0.740397716356376,
+        -0.5463740467834268,
+        -0.9850744704541738,
+        -0.9303852385888974,
+        -0.6123776863737391,
+        -0.39084949579117084,
+        0.763660375589223,
+        0.036917598923160884,
+        0.5882212584988274,
+        0.2579880309488485
+      ],
+      "global_mood_params": [
+        -0.38083978822676856,
+        -0.6736622488147861,
+        0.482787030527671,
+        -0.1607328834789046,
+        0.4297549665164928,
+        0.24094393763989,
+        -0.5031714332203397,
+        -0.8235725483315395,
+        0.41537176639319845,
+        -0.8986812153007044,
+        -0.7068677546560275,
+        0.026863095662990923
+      ]
+    },
+    {
+      "name": "Hafod Copperworks",
+      "orig_name": "Hafod Copperworks",
+      "place_id": "ChIJTdb3k0L1bkgRCFAaM3JUNyw",
+      "cat_params": [
+        0.10537262396976968,
+        0.050925176811095416,
+        0.35035102575910987,
+        0.1789858907101846,
+        0.21580067359021682,
+        0.15675736495087572,
+        0.3105244301691441,
+        0.1998455819819011,
+        0.259455136988667,
+        0.2092409635980343,
+        0.040670489559500894,
+        0.059435745076389934,
+        0.18088555204837134,
+        0.16303672961002436,
+        0.28499608669879767,
+        0.09112710011504765,
+        0.34568686932138176,
+        0.2645704441989982,
+        0.07467617066647701,
+        0.06879324390480503,
+        0.39132311131908865,
+        0.13744872710441172,
+        0.1541803541934314,
+        0.10296613891870919,
+        0.04752302024394303,
+        0.2199917911968349,
+        0.16549031533635192,
+        0.30168470196387503,
+        0.18308161079479163,
+        0.2590330093228771
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "01792 602617",
+      "int_phone": "+44 1792 602617",
+      "hours": "",
+      "coordinates": {
+        "lat": 51.6388824,
+        "lng": -3.9349508
+      },
+      "address": "Plasmarl, Swansea SA1 2LE, United Kingdom",
+      "photos": [
+        {
+          "height": 2726,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115061438361884457950\">Richard Cross</a>"
+          ],
+          "photo_reference": "CmRaAAAAEtcUWomJJkux9PZELvPQGke9wfWQ1jggKJieFQvy3zXHBiqlzKFjJBKGmJRige4bGSxYMErk3M-IsPi83FAVJyQeCNwaeO6l90QpdZRIDsJp2D-E_lt7I0nAj3K3Yl2GEhD6F0OZfI0jbwJn-n9CzznyGhRnM5njaMA_MwUye2pa11pXAlzASw",
+          "width": 2973
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117245057296739053287\">James Morris</a>"
+          ],
+          "photo_reference": "CmRaAAAAxRGL34QtbaV8tY8rAce7yH3Ga9Ap8SJ3ijHyQpZEcf19xzywREsQwIRFPBqs6e42WqLeWRv7K093Pd1uMkYbPoBCpiAMmW1QQSM0JUo9Si7xt3ISa5v8eUZUpIJZxMNVEhA7zxCkMJ111CisKL0WJjhPGhReTl3GpNi6gWe5m8_QhXE_BXbfSQ",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118380522259257353161\">Neil Walters</a>"
+          ],
+          "photo_reference": "CmRaAAAAxyItqZ15pXbLlsOyXT0Byh7ypYTK4yaeI_Roe7aMlVrtTz8o8LOPF5Y52hh9pl08T6ZLcGJepOi3LhhXVtDQXgLlL1JsY_SZx-MK6YjG_sjHj4pv0tIes3IF6y9JdJshEhA2pd-h8hVlih3MWcfDBkCFGhQ5T-eoHNRX3LZBFIlTzPB91AoQhg",
+          "width": 4160
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108346700509373213586\">Jason</a>"
+          ],
+          "photo_reference": "CmRaAAAAB_DcWNAr07e1wKqc89ScRKmiB-W2PiWxpWqoXaZlUeu7y_gotL2k8sQOKUVfdJQbDOAj3RiNGqkZ55jo35tQc7PxgoBmCsmhqsli4O9L7wVTHy2SOTStQsCfq8lHNDf6EhBQmf-6yeEnKorEKSZm3xFBGhRi8QkKA6c7vt3_XcNoomvj-3g7-g",
+          "width": 3024
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116841716398923958164\">Dean Hughes</a>"
+          ],
+          "photo_reference": "CmRaAAAAbsPHZfjJnajV7isoYerNi9DLxjmgsEldq11lAjNfqMdVydQWy1VCJVCnx617VzOSu2xkOKeVUz6bShGjFxicwKRqBtmw9N2oIRk0EGBvnElQk5bqZiq9iLejFJc4Na9yEhDVAXm6w-D8afjMFpK1drdmGhTyXyXuuF2zc4fpGAoQZSnPTIAElA",
+          "width": 4128
+        },
+        {
+          "height": 1153,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117736235140580837055\">Steve Beardsley</a>"
+          ],
+          "photo_reference": "CmRaAAAAnGmvFoMB9UAiLNDuHc1gKBWRSwWQufG5dn3OeMYdPtpNJc4N2cFDrKYD5EMOP_-ViCJdV0abXSrg8NrfvaSRihcnS0aJOopVp_eJ7p13fy0epn2A7Quzp6NRrJOpQKVPEhBF8w0gEzP3kl8UWTVdhspLGhSRC44wG0cKHb7CqV7DMC7GNOp1Fg",
+          "width": 2048
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113478176790729440972\">G</a>"
+          ],
+          "photo_reference": "CmRaAAAA5-TLxtIs4fo0l8ECpd0p7MSzmJhvAFoE6qY_zxu973-zvAiURryXJuQYHYyS2pTfMmfwuwx8j0h2If9sZQlzE60kthbBFr5xBMQ6cj0WvyW-rO0kLpNPfgVo0qEupYBgEhAujsXz7-zua0EbohD35_3SGhSwnj6c5l3qrC_DPmAuqvxsbEhsgg",
+          "width": 3968
+        },
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114217324798359280125\">Mark Humphreys</a>"
+          ],
+          "photo_reference": "CmRaAAAAsZ2A0nffVIS3k6YI-FAdmaU9BhO-mRx-iO9BUZksIjuzdmUpGHrmrEbYqN__Uyhl3aZFmU8l5KGdy6cZiW-B_Yj92bP8ifFgJI4ycnTrAohyWSHaTqcgUwGs2yUYdB3sEhBME2yISfC3kuvQ6MmnQ2Z2GhSaqhFl4J4XeC0crtbPfv1YLcJXmw",
+          "width": 1200
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110729836749968709215\">JILL ROYCE</a>"
+          ],
+          "photo_reference": "CmRaAAAAIZ1Vwu_hwjvP12a6VbLdvm5NVmcUO68KSIyYqN5YbX1vIIT_R4mheeIIJbycyweu9U1qtWeWEmVpZEtFCcNSTNdUMsFaaTy5Cppsy-_8cIMx2H6AovkcnPiq0O8XtSmhEhD_keRQmdD4d-x_Jy6IPd_mGhQSm5xRKGnls_8jZRAYRfB3Di9nZQ",
+          "width": 3024
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112110904546949341621\">Andy Pross</a>"
+          ],
+          "photo_reference": "CmRaAAAAJkfFmdYIngCsbeqPYGFTVZVa57iN-GhlZW5VRsSBeR65QBPwwyVjoG8PWt-ifMWBxDLfIlDMHhm6_22yFZMWC2Mw18zyHZn6at7tHAjFH4yv1S_p-uwxl11hS8uC0ae3EhAwZOW584yPVQhcmKb0OvdoGhSi7_Ci7UmY8NghG5NTGmYGoDNkqg",
+          "width": 4128
+        }
+      ],
+      "rating": 4.1,
+      "website": "http://hafodmorfacopperworks.com/",
+      "popularity": 0.3933259140170355,
+      "num_google_reviews": 78,
+      "mood_params": [
+        0.0026495224281791133,
+        0.03363871589240248,
+        0.02777005634632289,
+        0.09644138940106305,
+        0.030557050829076678,
+        0.09111151106069154,
+        0.07091425925111369,
+        0.01325696941486734,
+        0.07345722075904172,
+        0.019900123582964002,
+        0.062369900342018475,
+        0.02522269099570514
+      ],
+      "top_cats": [
+        "architecture",
+        "engineering",
+        "science",
+        "books"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.6775884722798514,
+        -0.7332991015607431,
+        1.234890975050158,
+        -0.37365422269210496,
+        -0.549349792953765,
+        0.15513187630203548,
+        -0.933976227886964,
+        -0.12542737649242597,
+        0.7819291669346874,
+        -1.1920765108010203,
+        -0.9394783024306212,
+        -0.7736596439299324,
+        -0.7849236042282566,
+        -0.31372480539526987,
+        -0.055891145005327526,
+        -0.9281864104936077,
+        -0.6698886185761636,
+        -0.3069973824620695,
+        -1.1630915720032757,
+        -1.3322293239893737,
+        -0.7132799890997716,
+        -1.1510591266687464,
+        -1.1597531298274812,
+        -0.608662913173336,
+        0.574882796129463,
+        -0.9980434838658496,
+        -1.1683829320396575,
+        -0.7714383675199511,
+        -0.7009735793339694,
+        -0.4861276606209182
+      ],
+      "global_mood_params": [
+        -0.5601730194998102,
+        -0.5059710667666903,
+        -0.6322200972319434,
+        -0.45600367327071045,
+        -0.6096889833756017,
+        -0.7875059233257132,
+        -0.8021777758431535,
+        -0.6513723162992477,
+        -0.6396456452449867,
+        -0.9257200401402323,
+        -0.6771922560999625,
+        -0.07942364551550919
+      ]
+    },
+    {
+      "name": "Lower Lliw Reservoir Cafe & Fishery",
+      "orig_name": "Lower Lliw Reservoir Cafe & Fishery",
+      "place_id": "ChIJk7wIuxL2bkgRUIcD8JViCfw",
+      "cat_params": [
+        0.12101342569238684,
+        0.1243752340805686,
+        0.06499819853860522,
+        0.1298264180186429,
+        0.42798825157639936,
+        0.04787333077032062,
+        0.3291670382633056,
+        0.10399437776376268,
+        0.1553214816633656,
+        0.25201127324905126,
+        0.05215944185807505,
+        0.4058768806998583,
+        0.2122699665303396,
+        0.3627237444782103,
+        0.18116546903051783,
+        0.36833830193228534,
+        0.6047347503214524,
+        0.14532800045252167,
+        0.1099581656038999,
+        0.07772222441534417,
+        0.6189052588617462,
+        0.2265600958626278,
+        0.21567772368277616,
+        0.10451250210615183,
+        0.0,
+        0.44697142533216855,
+        0.2640691981970586,
+        0.4334755383765697,
+        0.4843433012342828,
+        0.32521721008049964
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "01792 346494",
+      "int_phone": "+44 1792 346494",
+      "hours": "",
+      "coordinates": {
+        "lat": 51.7127778,
+        "lng": -3.9555556
+      },
+      "address": "Swansea SA5 7NH, United Kingdom",
+      "photos": [
+        {
+          "height": 2897,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118033576364897451086\">Christopher Evans</a>"
+          ],
+          "photo_reference": "CmRaAAAAGwQr--p1ZTNMRilp0_q12cx4vO6KStPiCRlzC67LfZ3cPEpmnRRy0FSaO-TYjQg6PqNdFMWiEx0itSUtPrruF6h1yQ1NqjHBgGBSRMN6xfeSDe8YLFMWDLsNjwZkbS3DEhAGpQpuUjWUto10oX8q-L47GhRijbQRo1hqyO7F75HUfGoexTFJxg",
+          "width": 3862
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108814490651782182492\">Brett Harvey</a>"
+          ],
+          "photo_reference": "CmRaAAAAaIdVXgiqq6GNi5tWqADJ0SBsbOp5pl10AtHf65KXWlHlm-OUxS7mIkI0JXb5Wm6-YqBBOaRBR1S0TM_4_MA3yNTg13HzyIxqum6afIRP2X3pSJoWQTNzfhmTKn_nQ_GLEhCcRfVlSqqpUXZMDlH1i8GHGhQullahBQ44RhST40yfpobUZGJNrg",
+          "width": 5472
+        },
+        {
+          "height": 1519,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108336157387970390351\">Maggie May</a>"
+          ],
+          "photo_reference": "CmRaAAAAa-mMtRdd4dQ_ghWKBySyoeUdDoxlrE1tzL9soC6xo498i2GR61nn5Z6HAImxou4O8nFVaTsCx7cuj-zJEbUxqImFMB1qsjD2O4oxMRXW_2LoUEsGMtf01o9WYKlWLk2jEhCc0t_NponAzCJvy_rvoC7UGhTfCHb5ObUzNQXwCo_j_1e52TdwJQ",
+          "width": 2071
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118033576364897451086\">Christopher Evans</a>"
+          ],
+          "photo_reference": "CmRaAAAAS3nbE6g6WzIU_jcSasU-OlgoBO_LpQxP-X9SND3xZoSWTFqIggiEZQJpF4Hw4uLcbgy34S_OtZnXNqFIMxObNJdFBSxkH7pnAtdHCVAiRVMNEc-9zXPzBxIQg0fB_2KHEhB5m873gP76vFhu82GmFEU7GhTY7qGNcjTniwowUKLsDEthI3ZyDA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111954769785097374929\">howard griffett</a>"
+          ],
+          "photo_reference": "CmRaAAAABNE5DoJpfIqqBIobI_JKR5IGUNZ1BBAM69z5yUbOqRN8uOadBkUV3SBr0KtsBzhj7kmLFYRl-LrU7WoEdXIGNSd7el0V2PGIjal926vW_u-5x6W3wmYOby3IoEQBEjI2EhDPS-nBgZeHKu2QISQyzUQqGhQnOLakhHiETAPiWY7uhYp3H4zfkg",
+          "width": 4608
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116016554107282666687\">Janette Haynes</a>"
+          ],
+          "photo_reference": "CmRaAAAAYmamPF7F8pAMaT82wmGu45MTdf2AhmEcLbBnUuH2Knf1GOBARjQna_p96Rdvx5Yqz3czw5t9hMrakYvVMddwCRitZkZ-WyvRhH18aVjZM-XDiq19R9cxmoNL-eCpmKIyEhCrXgEpjsj0VOx68i__COYDGhSf4dFTGtgeDYcpt_bfe-7ImG5FXw",
+          "width": 3264
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110237992828064861664\">Andy Cox</a>"
+          ],
+          "photo_reference": "CmRaAAAAJkF3DZBWL8D4QJnk4nTJntspnpsXIU-EqcV6iPvqwbpez65Xk9nEZ3mBRLw2EOedf8FK9p3CiH0o-pweZdb0b1is1Kl4uebt4_bA33iFEkGjO6A-YmioYlAU15lfDXF4EhAroPUFtTG3vOwcn18XSGo3GhRElp7_6YqrfcNsdgpvMjuy7gJOxg",
+          "width": 3096
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103401521105318324471\">Abigail Watts</a>"
+          ],
+          "photo_reference": "CmRaAAAADrOcwvtHqki7nO3JfA_XHjdbMIBkINFRQE7L1TL1TuCf6Pj1kXKj5MZGdGr2brCW6z5PAgfP3oSuNdPQGOFxHKa8734WTcEZ91ePKs2sqSIp1FllB6pc1mle_kofnLqqEhBp6S98RI8GbtUm7fjpysd0GhTfUOfLS1SEiay9OMJVLBS_uKLhpQ",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110443919807026083111\">Mark Bodger</a>"
+          ],
+          "photo_reference": "CmRaAAAAysPJW9QzlrLUvBPY1IfcEtoXsJhWkXdQ2sDCulVsLVQ5xeSTOF0xGeYLOG5X5U4onmoiXCuJCZ-kjfd3YSTXkeVVa0NH1uFadvtGiwIddAjcqYgWYPFBhfaJxZShbgBpEhDq17dJjMWogM0mqIZqU8PrGhQZBxIaUARQE4MnEHWcbthiIm1vAA",
+          "width": 5312
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103768429851158850988\">Michal Pula</a>"
+          ],
+          "photo_reference": "CmRaAAAAU8uuIgmXz-wMIWS2FF-j7OgunRrufjOeko2R6_NigLv9aOtEcb7d0LLk-PsJhBBeJHAzxpQpye82ydq6dLSPGDSrW8hfrpJ1gptrUnFwgVNNIHHuBD_FRy2zYdpGEL8oEhANG4EsADN9D9pLKAQpRj13GhQSKvYaT6X-cNQtjg7eXxLwaLvaVg",
+          "width": 3024
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.swansea.gov.uk/lliwreservoirs",
+      "popularity": 0.49896117325850836,
+      "num_google_reviews": 202,
+      "mood_params": [
+        0.006814360901177882,
+        0.016556100371952917,
+        0.21976354659499953,
+        0.21020739484695963,
+        0.1778185773830717,
+        0.28392295199475354,
+        0.1250295639959961,
+        0.003949466284083868,
+        0.2917319802490364,
+        0.03427287983093855,
+        0.11416191859964601,
+        0.01892768050664473
+      ],
+      "top_cats": [
+        "food",
+        "hospitality",
+        "hiking",
+        "walking"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.4878119067176949,
+        0.14492242271771466,
+        -1.5682408064226592,
+        -0.7249586718176451,
+        0.7594964299890902,
+        -1.2974539957606084,
+        -0.7355846723601808,
+        -1.1899325579585358,
+        -0.7591476440885615,
+        -0.7373152508587819,
+        -0.7031909488832534,
+        2.5165571053699543,
+        -0.4457776342535918,
+        1.1535810025050546,
+        -1.1849463974914551,
+        2.3184799175499196,
+        0.7357161027657034,
+        -1.554228168193455,
+        -0.7127316888823175,
+        -1.154311571546524,
+        0.3966400127597547,
+        -0.2805064952021102,
+        -0.46638091713871027,
+        -0.5942377675982837,
+        -0.7934151832810495,
+        0.6855617194858231,
+        -0.24470727567096318,
+        0.08472610286277461,
+        1.1175711700897812,
+        -0.031036264700487093
+      ],
+      "global_mood_params": [
+        -0.27995490514193644,
+        -1.0177494198734205,
+        2.824551152947016,
+        1.2978649694258495,
+        2.622295846063343,
+        1.6371012239546336,
+        0.22193287815693188,
+        -1.0225158019420948,
+        2.247842340488264,
+        -0.3671490776177394,
+        0.5212855517557092,
+        -0.4642557232828166
+      ]
+    },
+    {
+      "name": "Grosvenor Casino Swansea",
+      "orig_name": "Grosvenor Casino Swansea",
+      "place_id": "ChIJYfPRHkr1bkgRzIPG-m7Xvbk",
+      "cat_params": [
+        0.11075049029362406,
+        0.03463723684629432,
+        0.16238705342292473,
+        0.08514545733964735,
+        0.20317036507413516,
+        0.10572312354879734,
+        0.21631871720409457,
+        0.09777114870121885,
+        0.18686068630097377,
+        0.15388957510537682,
+        0.01651317945980485,
+        0.0830594762132508,
+        0.10893034299102396,
+        0.10821943097815363,
+        0.1292001126549863,
+        0.06171812398941034,
+        0.0905694233223375,
+        0.16232578604715633,
+        0.09013394305694408,
+        0.0665426311796313,
+        0.2563772095520588,
+        0.1574306956443401,
+        0.0873643956278798,
+        0.11345766699644105,
+        0.035125663112659564,
+        0.17076968723796435,
+        0.17185015113022145,
+        0.13229280833873747,
+        0.10210035897196014,
+        0.26334682654489433
+      ],
+      "noncat_params": [],
+      "quote": "Modern chain casino with gaming tables and slot machines, a grill restaurant and a late bar.",
+      "phone": "01792 655227",
+      "int_phone": "+44 1792 655227",
+      "hours": "",
+      "coordinates": {
+        "lat": 51.6224149,
+        "lng": -3.9424742
+      },
+      "address": "15-16, High St, Swansea SA1 1LF, United Kingdom",
+      "photos": [
+        {
+          "height": 315,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104068780459066214240\">Grosvenor Casino Swansea</a>"
+          ],
+          "photo_reference": "CmRaAAAAsnpsME2YJ_OZBRENrU4-pvVcpMtwGTTq3-heBInZlPAZs8uSiGxDZywCEZkpfjQuOJB5G5EsEQAu2680qsafhle90oDpNTgc7Qb1WsFwAj4_Ix9FOjn_F1XIpqkDoxAzEhAQvklGeuHxmFTRlmswRc1SGhRODYgs_4u6aMfR16_SnGxFKG3xTw",
+          "width": 851
+        },
+        {
+          "height": 4752,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118231904535432438945\">Charles Mansfield-Osborne - StreetVisit</a>"
+          ],
+          "photo_reference": "CmRZAAAA2raHHvdJ1wWkg9EyR5sYvrbXsek4GmlR_vznpEVRezf351p5RFOGBzfeIyeJOTSC13gESKst8wlEBPJJWIEbH7IjY0WJesPdimiuHmfggCB3PLpiNtRdi6d_dC1vClZKEhBq7I1k6UO4UelcwyB-BDRpGhQlXiY5Q0hTTTYS5bODMsv_vIAjzQ",
+          "width": 3168
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114251108102952709999\">Jason Vorster</a>"
+          ],
+          "photo_reference": "CmRaAAAATUFH0iILYSWeuCi6CG3JOyUXHHUsV0kIGC-r7DOHiO4vjyviJoldyUKvtnWQJCNfGJEYsLkQlDBiYaBGhDc7mi1ABebLfTP6wjW00Vtank4xruCSXTC9JQVXKLym_rLrEhDt9RYMU1Z9ZvSxONqut-6dGhTuRchoGdkRNIiiehjqgsufG0o_Og",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101942665411564032782\">Matthew Curtis</a>"
+          ],
+          "photo_reference": "CmRaAAAAr2Jkz9LptiwbAzxz17JejWKB-Q8tBYc3lqziecvJsJq0A6uC2fEXDQhpoZmjYwIpvlNgQccenPLPxh8SE6l5_wDOgBfLtpdjochG1ntRnvViQGynOXNonpENSWOh9NZ2EhAD4A3N-xDaDuJ_-mpFvwmKGhRCmvAiPcGsTNmmM59YPv8d_iRlhQ",
+          "width": 3024
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102947619773551000446\">Helen Davies</a>"
+          ],
+          "photo_reference": "CmRaAAAAv9wQjSna-k2ld49c3KdRW0jaHCJCj6clfL6iJpNoP8c7mwyWLBGghFNlkSCg9Y8LXxjpUnTHgcfJnoYoRlvhraDPic24tjvDgh-U9OPru_PeuoF2DHviAeAipjRRGsDAEhCPmS6xFd48y59KcNszXm3rGhSkfp3gNVLjCSkECrJalXAeGSlGOA",
+          "width": 3264
+        },
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118231904535432438945\">Charles Mansfield-Osborne - StreetVisit</a>"
+          ],
+          "photo_reference": "CmRZAAAA1q3cFYFterN5CtyAlUZgGrRuTmf4f4u3luioXoxshtsW2bUD6u_KojRoHHwpndIXaEM5_k4xEOO3bHtb2fchJrNYkpSVsj3bZ0bAGyilD9KQWCQ6u4kShUHDdU22Xc1EEhDa3Aj_s9Lw4J5SMHB15O8CGhQBgbHC0lL1oeZE1Dp5XXbaFQwk9w",
+          "width": 4752
+        },
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118231904535432438945\">Charles Mansfield-Osborne - StreetVisit</a>"
+          ],
+          "photo_reference": "CmRZAAAAqdamXU5yffmRBVlkh3YgTF7tgjYtl4Zr0ESRSIa_YO0tvz5DLDDm-EMYcWdlCfPj8dlVahIdGRx_upkea8cAV1XGaLH_BNJztrT4v4c0_9bLwGQIJ4hA-WJi3am6-M3REhCqCTLCiaJfxUNU0zuW3iJ9GhQGHwhnvr4jxcCwcgLxCIDYxolS6g",
+          "width": 4752
+        },
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118231904535432438945\">Charles Mansfield-Osborne - StreetVisit</a>"
+          ],
+          "photo_reference": "CmRZAAAAaQNdOB1vbImX4GZv1_YhNMI6n1vKwYX-kvZzWMG3AWpOT8uuMHVfsS-qeE8UPr9HkWFFUPwoMlSbSHKVrfWzx20M3XqR_wjFLeZCPzQltaOgzN-LVR2TT9PpASKWuRX9EhCBlhqyOetMQXwdcKKA586JGhT4ScX1gBq9lWPDnkgqDixiFnGU1g",
+          "width": 4752
+        },
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118231904535432438945\">Charles Mansfield-Osborne - StreetVisit</a>"
+          ],
+          "photo_reference": "CmRZAAAAOcqSWqTHWuEub3K1pGMJNpWY5aRtOwHEDNk9lhAnhP7eIY-lUCVHhqtMfSTPCjEbFL485r0mes3yTs55OaZVFRj0QTsm-4isF2pB8xmPq8tnkNBtM-XyMzZ0AIKF-YCxEhAWOm_sdk__1CLqS3_ItyDJGhQYIZTKLnNs7IdArxQPKQOYMycxfw",
+          "width": 4752
+        },
+        {
+          "height": 3168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118231904535432438945\">Charles Mansfield-Osborne - StreetVisit</a>"
+          ],
+          "photo_reference": "CmRZAAAAbbYu9spWePlBWZ1AUqG9rsKTXhM6Kz3VOZb7lVgjffhKMx_hUf6jcruhhY1rrCdZTREtXPBreIv6aMvvoKEaOizq9zA4YCkmveLDtsxL_8jEaFgH5xSPC-Vi_u9-s_hjEhBI8tAfkx3doQdig6HKV_GUGhTx3c4qZ-uz-VzAD4s15d4G4d5y2w",
+          "width": 4752
+        }
+      ],
+      "rating": 3.9,
+      "website": "https://www.grosvenorcasinos.com/local-casinos/swansea",
+      "popularity": 0.48679003840671,
+      "num_google_reviews": 183,
+      "mood_params": [
+        0.001969690661742434,
+        0.006932600316933472,
+        0.00759011797675644,
+        0.013927327049738585,
+        0.005281568748884626,
+        0.019135231741870828,
+        0.021601748033713866,
+        0.0024711754657247603,
+        0.014475848890265522,
+        0.004251706673497685,
+        0.021719626309688753,
+        0.0031815621307123673
+      ],
+      "top_cats": [
+        "science",
+        "engineering",
+        "water",
+        "religion"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.6123365101941962,
+        -0.9280493848826968,
+        -0.6115522151562199,
+        -1.0442586849855078,
+        -0.6272578955522731,
+        -0.5256990518500755,
+        -1.936497862212315,
+        -1.2590465522642513,
+        -0.2923980927230536,
+        -1.780607839562974,
+        -1.4363092339150076,
+        -0.5493006176047931,
+        -1.5624853199169355,
+        -0.7165238592498482,
+        -1.7500182412375176,
+        -1.2726210217337852,
+        -2.0541666339320876,
+        -1.376437770606805,
+        -0.9657795838510089,
+        -1.3770747525586884,
+        -1.3714122598312575,
+        -0.9558499683231193,
+        -1.9130915151635364,
+        -0.5107933951616467,
+        0.21793412944770466,
+        -1.3631449197755618,
+        -1.1087918174842186,
+        -1.8718739125114787,
+        -1.1898111414193875,
+        -0.4564652777736446
+      ],
+      "global_mood_params": [
+        -0.6059133709939953,
+        -1.3060600127907964,
+        -0.9955523680081468,
+        -1.7280781033456971,
+        -1.164416185731365,
+        -1.6926088592595827,
+        -1.7353974694458902,
+        -1.0814637280840689,
+        -1.4198916207809855,
+        -1.5338672280747407,
+        -1.6178478426164038,
+        -1.4268611807178027
+      ]
+    },
+    {
+      "name": "Dylan Thomas Centre",
+      "orig_name": "Dylan Thomas Centre",
+      "place_id": "ChIJ-zKVlEz1bkgRqXShPtkqNXY",
+      "cat_params": [
+        0.054832717371797055,
+        0.045863928800308894,
+        0.11118251200664388,
+        0.11731405229055453,
+        0.06681636045714716,
+        0.1998871223939929,
+        0.24394133737130103,
+        0.11131215031313413,
+        0.11997216060786474,
+        0.25402947084736516,
+        0.02960623867627052,
+        0.05023682579525317,
+        0.1598329728925283,
+        0.04095678621848814,
+        0.29163436083138317,
+        0.06027066339810165,
+        0.14861105367564573,
+        0.13150340716269088,
+        0.10245839427651782,
+        0.10579951913032933,
+        0.20942492031019785,
+        0.09903174212145052,
+        0.12706958183072162,
+        0.0641928629914227,
+        0.025149362199365487,
+        0.12784573041392866,
+        0.1364041625290655,
+        0.1515639642753058,
+        0.07011574089584882,
+        0.1092365085170818
+      ],
+      "noncat_params": [],
+      "quote": "A permanent collection of exhibits on the life and work of Thomas, and venue of the annual festival.",
+      "phone": "01792 463980",
+      "int_phone": "+44 1792 463980",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1630"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.6192545,
+        "lng": -3.9358165
+      },
+      "address": "6 Somerset Pl, Swansea SA1 1RR, United Kingdom",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116976138418060494014\">Dylan Thomas Centre</a>"
+          ],
+          "photo_reference": "CmRaAAAAFSwt42pcTp32nWD1mJGHFb9GlvJ8yW03lTdytKyi4p83uv5MH6iO9AQkj6psBhXF8iOUPyx7DILvS7Vvhp54f4gzXJjCQppen2L_QUtNFcmLH_MNOi7MkGu6WDPo9FwhEhA1qL9xQnzuzdWkF992U2EQGhQh5utTMS2O8iCnSoyP1KgJ3JGDzg",
+          "width": 2048
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115027097331107814617\">Thanu G H</a>"
+          ],
+          "photo_reference": "CmRaAAAA73aUnFbW-rVKEv9tgVd_vcR5QdH4iXSoFt3t2M9ZygvyNCtUIfou06NwzRRDY38xvFqiI9Fdw-5aaxMZxyy5FfRzwri0oqmZVvMspS4LPL9PaUa0OjtyYGyluWE4u_K8EhBGvAC8GuC-iEeqRElnjOWbGhQ9ZgTOOALrGZTmBeWbbILLuF9oyQ",
+          "width": 4895
+        },
+        {
+          "height": 3408,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105342965780400078669\">ImRobzy</a>"
+          ],
+          "photo_reference": "CmRaAAAAQUObCJAvVtLmOWkLoJNBqjUMJncfs4Rp8z6P16oFu3ctqKDZTol7vpIWVMZ-aSBHUbM82brTRHgTNQTvlIo0T9FCHrwsVP8wm01rGzT_iQHmaIc07EasaoVJMKdvX9XbEhB-xgsfqVjO_uzCdyKAtQLmGhSHrHhfu8sBBrfTl-_nv7wwx6yL4Q",
+          "width": 4545
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102229752637807735499\">Ian Rees</a>"
+          ],
+          "photo_reference": "CmRaAAAA9rrC1rmxTMgC9bt3JEaNhrim358KoQn-D3FFmcZY25LcxCBoDHBxQbWdO3qx7GETQbeP_Jwe5_tjmNpLZXFSkw4BfRprO-Q35GtdZ1XQ3nRW9SosF_ddq0Z9Kpz6uGNqEhAMvCW_BpOqM_hRvYDrv5LZGhRpGBtxZXknYXBsWcLqhBRSZHnsVg",
+          "width": 4618
+        },
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102805126826238491664\">Greg.Z ski</a>"
+          ],
+          "photo_reference": "CmRaAAAANPCzf1LhAmWQHAuUklK6t5O5wWC-VvfjCiaduDpgtS1ZVVa7dZ2p9A9TJGpBXm7UDPUjhkdoFhuoKbuEzhjCNrqcNpPzjCcrMrmI3-Lh2Fm4spREgeXbdeWir91xzfPeEhDGfSJQqgsqytCNntlYeuMMGhTM2UdY_iyyVY3Y9GnibIcp7Z1NVQ",
+          "width": 4160
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101807622603886418567\">Jamie Currier</a>"
+          ],
+          "photo_reference": "CmRaAAAAmgJMqaPqUitwqByvcDqdUSyXRXEtv8GcL1rCBLUo35ybv2eOmFpqaBCxjoxRyqhNeIoBpEzNvXpT932H-NDa5bS5COzp9BScxh3xper731SUzH8zwinrpOf6uiGT9anEEhDcn5m6YUwhExWvzVXx1tE3GhSiBCEq9PEBZUeFfXrw7RS3Pt7gQw",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105161556183481242833\">Rafael Rocamora Abell\u00e1n</a>"
+          ],
+          "photo_reference": "CmRaAAAA2NGT2n3lDLOatVuqlWnnFZ4_Z9qqwYXeIK9hxgLbo0tyjQ8r0iggf-FVjplVlrRXWFepXiJ2XAshOwa5iHPPa4ZKbS6OqG9C2RPK3z-24k6JnvbujJVAYcpSwOCmYyvoEhDF4g5WDiOPeBt1UusbwobAGhRA4L8lWuppzrKgFcBb2TCzACjbOw",
+          "width": 1080
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113157080164355945433\">Yousuf al balushi</a>"
+          ],
+          "photo_reference": "CmRaAAAAjWFDC8ERBvuTL2ErzSYsbkBLMoStz3oQjdTUubo3E2NuO0nyihGRcYRu6KMn0VlSkmmmRKFjMW9KLYm_Oio-_r_vxd1twVJ4H-1FQp2C_AWahWu2vg9PmVwHX7guMbRnEhAOfm2ilZFM50ekjumQyY-HGhQDdx3RA11OYGEbJZ9Q1vJQH_sE2g",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101621497138346721555\">Gicu Razoare</a>"
+          ],
+          "photo_reference": "CmRaAAAAZzTPM-krzfnYSxyG3Vb2PQQcBLUZNCSMCMXz07s0J7nlg_-K1WkfUUag1TBZnmvhTNm49WUs0sh7QcNMhO4UdIFOpF6GzUWC3o0yxL5r-4lI3o8tUtBg-aNDOATnRrIEEhCfwgIhkaebvtW4JFIrWrMdGhQB6SQ-IiGNK37tKkopK0S-kMDW8Q",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113157080164355945433\">Yousuf al balushi</a>"
+          ],
+          "photo_reference": "CmRaAAAALnSBEpy2hE6jBJfIW-FSuwulnWgbtUYT7I429AAEclYCbohWpv6Tv-gv3Kww-izXAKjPKdp8eiaC_mtEPJjHJnNU19gFcGyoM-gLr3vn5EMYZBcPXV3E136PS101OE0dEhC3s48N17tweqMFBbcaRdx-GhRpxbNJISprlGIdXPQ1uWHZTd0iSA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.dylanthomas.com/",
+      "popularity": 0.44861355592480195,
+      "num_google_reviews": 132,
+      "mood_params": [
+        0.0026574327333291035,
+        0.02357459934659481,
+        0.00888283659264202,
+        0.05325757045522215,
+        0.008889198912767309,
+        0.04017044128072913,
+        0.0525428124001277,
+        0.01617690145954059,
+        0.020825828316281755,
+        0.025764788389278096,
+        0.04753209846289999,
+        0.024119961453805388
+      ],
+      "top_cats": [
+        "books",
+        "history",
+        "science",
+        "movies"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -1.290810867659116,
+        -0.7938150100300427,
+        -1.1145543364171517,
+        -0.8143748007689159,
+        -1.468336462072783,
+        0.7305116994216758,
+        -1.6425425017274355,
+        -1.108662772574637,
+        -1.2822832124489683,
+        -0.7158564844829859,
+        -1.167031041117428,
+        -0.8610235138115654,
+        -1.0124217907048272,
+        -1.2107716668789135,
+        0.016293519259923766,
+        -1.289573516914951,
+        -1.7392303011428332,
+        -1.6988281764585658,
+        -0.8084631276636083,
+        -0.5948468975594564,
+        -1.6003989599100377,
+        -1.526364857418703,
+        -1.4654224027886709,
+        -0.9703568245485545,
+        -0.0693067132340343,
+        -1.6815302997356896,
+        -1.4409176829504857,
+        -1.7466809972436184,
+        -1.3828840116531778,
+        -1.5161483887605414
+      ],
+      "global_mood_params": [
+        -0.5596407993891154,
+        -0.8074820962177643,
+        -0.9722774510295737,
+        -1.1217451276194337,
+        -1.0852386419917248,
+        -1.42809074173824,
+        -1.1498501124989,
+        -0.5349378932673586,
+        -1.3358897446817215,
+        -0.697800536795403,
+        -1.020542001248459,
+        -0.1468366707300252
+      ]
+    }
+  ]
+}

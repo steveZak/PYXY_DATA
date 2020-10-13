@@ -1,0 +1,4315 @@
+{
+  "sights": [
+    {
+      "name": "Casa Batll\u00f3",
+      "orig_name": "Casa Batll\u00f3",
+      "place_id": "ChIJYUFLSe2ipBIRD04uni940kA",
+      "cat_params": [
+        0.07971848966026111,
+        0.07987759941547942,
+        0.32208114833898843,
+        0.2554463366036775,
+        0.17024660963249003,
+        0.11078225435335491,
+        0.30258880276462213,
+        0.150680310833796,
+        0.20209524976660379,
+        0.2815770559423219,
+        0.09462673228239246,
+        0.07351593167240948,
+        0.22403792463986327,
+        0.10317951022000087,
+        0.26570409641664977,
+        0.12896092980688004,
+        0.4722953793004147,
+        0.2260071073606364,
+        0.18720651865063698,
+        0.14008218758899518,
+        0.4461059730770375,
+        0.19597763345337055,
+        0.2989334233990175,
+        0.13122658029263334,
+        0.009011990707715708,
+        0.3135830577110517,
+        0.2118829336941544,
+        0.35138674416924365,
+        0.19838534087156295,
+        0.15439807596624136
+      ],
+      "noncat_params": [],
+      "quote": "Fantastical, curving dragon-roofed apartment block, now a museum, created by architect Antoni Gaudi.",
+      "phone": "932 16 03 06",
+      "int_phone": "+34 932 16 03 06",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.3917,
+        "lng": 2.164918
+      },
+      "address": "Passeig de Gr\u00e0cia, 43, 08007 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110038713988050835945\">Benjamin Hertz</a>"
+          ],
+          "photo_reference": "CmRaAAAARGLt1U82NoL5_jrh1livTrrZcEX6pfjS5y8w4plkc-DgcU4oz_2bldvXHw66fv6rV64gOxChEzBySFDN9-HjA7cxfLSQaKKseKiXS1zrg2yeThZ86FmQ8paySEOSc6kGEhDJYERwTV2xUG8L1664loTXGhQYNCQ8sZOePxePku-2bAdzjvOWLQ",
+          "width": 3024
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105510525324382815709\">Matteo Vasconi</a>"
+          ],
+          "photo_reference": "CmRaAAAADt7VZI-vgBGq_vlKfoKXGH5q0RB1Lrv8oLQpXiOS4uw_0pFS3aBwfTP4Eflvd6uQlzNIFYywQp0m_52pbrpJ1Aqpw7WeDJqIss2hDgfcv_WlEEIy3l7ScEzM8IgjCDCLEhCJ09CYUPnUP1GURyQoFwJPGhR22-XlV-3IZCsXY3pvLf41QLZ6dg",
+          "width": 4608
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116886560286316110795\">BPromotion</a>"
+          ],
+          "photo_reference": "CmRaAAAAJUQWFbM8x0o-KzAA7eVt8wkXsDvJBSry_flOcc3gGxGXbtJLnpjPkVeNDwjrp9UeMfh_PXThM6greSKPXCTQfOJkzgMB6CrRRF8KrUeldozXhsOG9CTeioDxuHUOfQZmEhD06lt7QlkiVV4LoeoChqkFGhQsKN3cMAkPUQU0a6Lv1zCiUOqmNA",
+          "width": 3024
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112136757469292155196\">Ilkka H\u00e4m\u00e4l\u00e4inen</a>"
+          ],
+          "photo_reference": "CmRaAAAAF4n7jdhZvImTZ4LvMScLN34w5OtB9PutkluyKYI7nLkCBPI984W9A_Md3QSC3496xkpjG1xfwAKM_6YZGA_pngXo0b_EAen_Om2K7uW7FpadX5FDQYHD7ftGUVNqchacEhAtL1W5WdlCeGyoix0GT9fBGhRhR8nc--wt_81isKsVtx7bz995cQ",
+          "width": 3872
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112993143579346251536\">Carl Conway</a>"
+          ],
+          "photo_reference": "CmRaAAAApsUjuqK8FZ9UOLMZDe06ARand8QuPUcGtREkAvWy-SqXI4JVVIa_8QFsvJrO-xdg6Ea0UtZnea1KVkrxbh9_2XckTkLVcfZWP-pZnJaX6DB3p_UA67wfNIDR-_XhklotEhDied1CtaeVaYRlLSYmo0CRGhSywmrbxGmqpAho3f9qYjAqFplpJw",
+          "width": 4608
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114328658441247685776\">Alberto Ribas</a>"
+          ],
+          "photo_reference": "CmRaAAAA3V_i2DQBY_bnfvCtQoU9ft_qXPKmkUSGdt1ig3EPLMM2AeTXICldMEeN5t0FDpyI06vnRcCfeEPkGZf4u5DEe5YgEYip-JYUXuKyEojNEkjmpjbchcMgJOBGEB2NR10cEhAPfBfgQUI6I8Xh8ms4eW2XGhQMiFuWQnnfWSZDpXbUD0eiG76rRQ",
+          "width": 2048
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101382672156564884380\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAFQGOCnJp0bmTIBfaCAJysNkDI_i0SXwLAWCe83DNe1X2-0sFDVU5zeZxT0SNzKWU5r1mP6aUketDf9Gw_O6N5G803-85SlmgsGvsdPLXoDr2Q2jkLdKFEBkrpp4pds47EhDPLSo5d8EE5fFydPDxnfyFGhTKfFEjgxfpCJH8k0Xt5khcBwytEw",
+          "width": 4160
+        },
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117705360654540808470\">Stefan Keil</a>"
+          ],
+          "photo_reference": "CmRaAAAAYNJR-wxAhbSCtYelrxTdr5OhNfXFdAoWpf7oeMvfWE0OXT5sfRPz6hfaz6AreN4ywPn2Nu6rUbxRLfkgxcdd3HfkmkLNiN6s6anoJBLE10TzPndTX9V-VbzX0dzBO-8NEhDEo7aANQdSdEMvBru7L1HGGhSdDLXJNKMQudmvcQmETpSxputMJg",
+          "width": 2048
+        },
+        {
+          "height": 3262,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117865271409101927561\">Dale Cruse</a>"
+          ],
+          "photo_reference": "CmRaAAAAhzODV_tP8Irce55lmBb6eP2VP880r7NN5KZ_ljkxzhrckLObJbLHTg9IZvYW-ZV2AdUAJBLkQeh8gididCEAH2tinYn4ymxIi7gX1oBrATIoCuq1H6dLPjwe_D8HHQzdEhC2b4jgB1MtAdr7aHX-MQjKGhTotiJyQQP6zr1IQZcf_86kmQBZQA",
+          "width": 4904
+        },
+        {
+          "height": 3770,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101250568865327940451\">Paulo Roberto</a>"
+          ],
+          "photo_reference": "CmRaAAAA0ZDVMHRKFXPC0YJ8XBg1IU6sPBnWKXWaqljRnpEf8tfzn-8gGj7qr6937zBZW0GnjK-91_eJYd83485IOM8W42bPrjV4tniXWOI6xpcrv3X227XByyCv3VrMN70TDviAEhA9X-nw0ny44CrD5NsM6Y-HGhSzJdP7NOb-hD4SqqK2OfVIkfacwg",
+          "width": 3120
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.casabatllo.es/",
+      "popularity": 0.8347459230180034,
+      "num_google_reviews": 73155,
+      "mood_params": [
+        0.0074812596115471615,
+        0.04959475001565756,
+        0.03420886436776421,
+        0.17637848435283324,
+        0.08624385666559242,
+        0.1582457708606601,
+        0.1497649530612013,
+        0.03407485951226026,
+        0.10705750707607074,
+        0.053918409242153076,
+        0.09684921267356156,
+        0.030086031187941807
+      ],
+      "top_cats": [
+        "architecture",
+        "original",
+        "music",
+        "art"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.9888611031890917,
+        -0.3871231875258353,
+        0.957184976386799,
+        0.17274901057789577,
+        -0.830342983585549,
+        -0.4582068617698367,
+        -1.018425863737923,
+        -0.6714474949902194,
+        -0.06694137165047623,
+        -0.4229529584536698,
+        0.17021189986343127,
+        -0.6399374585199356,
+        -0.318610833994544,
+        -0.7535573388913586,
+        -0.2656724546818153,
+        -0.4850808645554294,
+        0.01709449320053174,
+        -0.7103552757940343,
+        0.27331117267125243,
+        0.08826527999651293,
+        -0.4461035225763786,
+        -0.5792746938967765,
+        0.47231270846757123,
+        -0.34503727584277294,
+        -0.5339390680733811,
+        -0.3038369578404393,
+        -0.7336880869696881,
+        -0.4485545935036236,
+        -0.6085937021012862,
+        -1.2056114246947534
+      ],
+      "global_mood_params": [
+        -0.23508471382505158,
+        -0.02794398385665056,
+        -0.516291758072572,
+        0.7763430516992664,
+        0.6124829978277833,
+        0.056708534850787154,
+        0.6900402942000696,
+        0.17875625695063668,
+        -0.19515804949956156,
+        0.3963385988696738,
+        0.12066602495656088,
+        0.21788631358942676
+      ]
+    },
+    {
+      "name": "Casa Mil\u00e0",
+      "orig_name": "Casa Mil\u00e0",
+      "place_id": "ChIJ1eGKmZOipBIRah43T2Kjn8Q",
+      "cat_params": [
+        0.07565265187951108,
+        0.06494268922923384,
+        0.32402630052857084,
+        0.24115185269318937,
+        0.1315369983934593,
+        0.10642749068510696,
+        0.28238600234897143,
+        0.12115510502225978,
+        0.21608695496473992,
+        0.2578370655072049,
+        0.07180950468163838,
+        0.05483899825740998,
+        0.19381709908009045,
+        0.10364539769405895,
+        0.2597164459369268,
+        0.09953408431350677,
+        0.3692905422633654,
+        0.21480272918177287,
+        0.15901584638784366,
+        0.11740958125507768,
+        0.3811405768519135,
+        0.1743718705263992,
+        0.24831440560773788,
+        0.12341482973026176,
+        0.009864569854545905,
+        0.2483631632561977,
+        0.1850905439516114,
+        0.31089455572605684,
+        0.16764901584982536,
+        0.13608857942971184
+      ],
+      "noncat_params": [],
+      "quote": "Gaudi's Catalan art nouveau period building with quarrylike facade, hosting exhibitions & concerts.",
+      "phone": "932 14 25 76",
+      "int_phone": "+34 932 14 25 76",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.3953805,
+        "lng": 2.1619614
+      },
+      "address": "Passeig de Gr\u00e0cia, 92, 08008 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108581607181381241410\">Mercedes berdejo romeo</a>"
+          ],
+          "photo_reference": "CmRaAAAAZgxXQB1yThGmDhF0h3UDOsROy1ZxMZGYMD7FnLI8Btq4gpONlM2v3QeYSRO1KtYPk5wIjiLLlGU94eHf2UUnGei1BfeIPQkmEUcFLlKl8aEPhUNCRSiu6B3iWzoZsQ2sEhAQm20YR4JAptWkFHQ4-MhRGhR8S7Qo4nvCHBXNH_NNDLCY7lNaYg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102793444989659831393\">Masha Raw</a>"
+          ],
+          "photo_reference": "CmRaAAAA984ezXtT_BYL-PkNLf4ezA1vUNDECDVMVrR-cwdH35d2KAlwGL0nS3PsT-3UFbqRgIYum9EunknpQAz_NVchr4SPZ2IrJsf2wfR7t2Y3E_ZqGwyGfbp7tyPv58FthHP_EhAtUMXtTCa9OqSyn3ka4VbSGhQ1Oi_qE4yMNh1NRfhmGMsmyBa1QA",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109165160024939703105\">Martin Grinde</a>"
+          ],
+          "photo_reference": "CmRaAAAAUZ5iYQAHmm2dwHibnF8iY8sfMO446-aMoTBvVz2O4FhAcIu_BbsGr6RQectBAdLlMiCvyMTFPrz-vnfleeNW65u06DbTDPijj_Rmd2sTX6d7-CiOsz3v_HhxliIEDqA3EhCZohdqYE33tv0WPBlqbz4gGhQD790l_JvO78nj61X2U6j08f99JQ",
+          "width": 4608
+        },
+        {
+          "height": 4082,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105650329185423206447\">\u6797\u4f51\u90fd</a>"
+          ],
+          "photo_reference": "CmRaAAAAuU2jvUZXzTzmKqr5D_O8nQrhjXQTThg4eTOEnxzVBqQHPmgC5IiaA6DYtDSZyAt78d2wKagfgW7MxZbaOz2WTpnvX4lG2DfXpN_niytbRUllS0IZdgPs3RMCYp99PZqbEhAX-c0GUxlDFKqbBmiIEWloGhTypuVN2fFJKpInagqNeHfQ2XDEuw",
+          "width": 6123
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114908565240167597705\">Tim Ward</a>"
+          ],
+          "photo_reference": "CmRaAAAAz2Gq8Ht3vUbKn9YVrIlveNO4kMREB7Ha7tkXy7uSznFTteawrEKOD9pBmXurzD1fPIR5EyxHnzacGihBnekwkcD05auWMFQqyHOcE8UnzVoH4XPO5mBTitNuQBmW4yDWEhDnbDLfLbUOJ0JbIwAdm1yIGhREkEGiyQEXyQg_nSbC4kZTdcrFfw",
+          "width": 4032
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102695810380114088392\">\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f \u041b\u0438\u0441</a>"
+          ],
+          "photo_reference": "CmRaAAAATtVSXszJkrPV19pDIiR7iGJd2kUuzAy4Pu7BR1FIKqemXWtOZnxfFKG6DND6TptZjRt8MUuql7LVAbpU5XLQKNR-tcfwHxLlbC0kJ0J5DITh7zucaEnLLkv1pGBP_CcYEhD0H_3POkor2gfwvchJ65O3GhSUhGWPLC6WIUI8qPwQqJVNetolcg",
+          "width": 4928
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108330455555083553589\">wang arno</a>"
+          ],
+          "photo_reference": "CmRZAAAAzUMLjLkBkV3ugA1FeRLYNZ_uoKFL4Tri-Lamatsrt1RmCv6Z7QphR6gSKZebnl_fiIC5KC4e9WKgXPNnq1e4IkqlbK5XF0ToRTibW28ptAbPwDGJ3i4V0srdfqv0Sh8-EhDkAfpmxkFZlMgCrvdSsZvJGhQRFP_GplwoRHXeNYl2KN7m0aHVCA",
+          "width": 5472
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118264474762648167739\">\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u0428\u0430\u0431\u0430\u043b\u0434\u0430\u043a</a>"
+          ],
+          "photo_reference": "CmRaAAAAd7B2oYFY6P5ETOCFBLNOEjsX8aNvlfhpUvc0oLLatPq8iJip0KlgMNxTWZozAluNlccCKJKjBVDd92z7ZrTq_0WrOXwvpnxzIblXhhOQhkqdAVNV-il3vcDWGumQo3YZEhBaE0ynV8y6Zk6_Cy1nVuQuGhSROiVDu06sjzQFD-ImuSYW22BUSQ",
+          "width": 4618
+        },
+        {
+          "height": 4368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115005581508067101538\">Marius Tita</a>"
+          ],
+          "photo_reference": "CmRaAAAAOhj-4GnPbKKO5CnSDBmNK6DLtHsCgiZN-X2R1OssyP9NhnDmEGgaIBpEa4iiEgwCL1d4QMbAxjGrHyv6uo117KJ371DOx4Bn59DxNSFxBolHWHKfVUtYFAxGdPtCuaxLEhB8b1UUFMc0dLMq1aIqQb5lGhRfY_coS_a7vt748XwI4Br70krpQg",
+          "width": 3712
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110424809905770701074\">Alan Serpini</a>"
+          ],
+          "photo_reference": "CmRaAAAAPA9GicPVNoqLqtScmK05Dpd0v3Gz5bcinH56OD7NMCsQM2kDLFxpbDgeda06qr4gfxcL4rqxgHYR2Eqr2x5ttHM8Xc7bxFC7eLrg6dI_xt-S7sJIu5owJLtD5kqp4wIqEhDoG-yT8MFSEWX_dASyFjbdGhSr6ByCGqWtk7AYTkWgKkm35QR3cw",
+          "width": 3024
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.lapedrera.com/es",
+      "popularity": 0.7857692341229485,
+      "num_google_reviews": 57439,
+      "mood_params": [
+        0.006015685360859777,
+        0.04520306020222742,
+        0.02553396307620596,
+        0.1425540253615724,
+        0.0555182290113859,
+        0.11432789509831189,
+        0.11160081568117446,
+        0.029471747785227195,
+        0.07266169406217128,
+        0.04174457454577284,
+        0.07471714757633366,
+        0.022159558773047677
+      ],
+      "top_cats": [
+        "architecture",
+        "engineering",
+        "art",
+        "music"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -1.038193659399931,
+        -0.565695677137463,
+        0.9762929627191247,
+        0.07059747149981375,
+        -1.0691172273119698,
+        -0.5163023229480957,
+        -1.233420728201835,
+        -0.9993487960391423,
+        0.1401222559554401,
+        -0.6753717052287189,
+        -0.2990582463568856,
+        -0.8173158146929123,
+        -0.6451828401026379,
+        -0.7501339846138424,
+        -0.3307822303530008,
+        -0.8297247598149807,
+        -0.5418140942829021,
+        -0.8275488266857525,
+        -0.08653094759124177,
+        -0.3635062471325738,
+        -0.7629402932878377,
+        -0.7903471309272652,
+        -0.09840796888031099,
+        -0.4179086685228879,
+        -0.5093913369336714,
+        -0.7876008606440256,
+        -0.9847304751868259,
+        -0.7116075797107828,
+        -0.7941313401704365,
+        -1.3315099660690686
+      ],
+      "global_mood_params": [
+        -0.3336912877994258,
+        -0.15951468960614876,
+        -0.6724801233341154,
+        0.25488976037173994,
+        -0.06185988572893468,
+        -0.4955594994054128,
+        -0.03220085136613974,
+        -0.004796185328338852,
+        -0.6501694171410622,
+        -0.07677528733465779,
+        -0.3914744506106052,
+        -0.2666817191549079
+      ]
+    },
+    {
+      "name": "Park G\u00fcell",
+      "orig_name": "Park G\u00fcell",
+      "place_id": "ChIJq0HUUq6ipBIRWM6qGqALmok",
+      "cat_params": [
+        0.17584778883070867,
+        0.1404906382224624,
+        0.2046696215479019,
+        0.19927024533021787,
+        0.3261028850062725,
+        0.09622486492242098,
+        0.34526315698798754,
+        0.1263354998607353,
+        0.217102183554091,
+        0.29647277425712715,
+        0.0761287223917365,
+        0.07450593991697724,
+        0.2211675706986426,
+        0.27331481464168506,
+        0.2534062604783887,
+        0.1264028764166345,
+        0.48557442115925126,
+        0.29300419013832724,
+        0.12401830004021391,
+        0.11440414097957453,
+        0.6411372829800664,
+        0.19656533841263082,
+        0.21808784402295006,
+        0.12642265010322962,
+        0.00792522408181566,
+        0.3412477973762777,
+        0.30424243550709335,
+        0.5009332814633762,
+        0.332213410102288,
+        0.30040682035099725
+      ],
+      "noncat_params": [],
+      "quote": "Mosaic-covered buildings, steps & sculptures in verdant park with Gaudi museum & panoramic views.",
+      "phone": "934 09 18 31",
+      "int_phone": "+34 934 09 18 31",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.4144948,
+        "lng": 2.1526945
+      },
+      "address": "08024 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104388040980188468538\">\uae40\uc7ac\ubbfc</a>"
+          ],
+          "photo_reference": "CmRaAAAAjQwAYCP6DFOP3XLa_ObXJFN8BLZiYzK5FDn68_A1llIKMSqpgBXjA9cpo4FKEmAu6xI6lt9PhRwU8CvGgPVWswB48yquAMcAseQw9isWOm1h-kI-Kyx5x7mMQICFexziEhBW3VOFtXLap6rtAWdBnfK6GhS64glip0QtO-bULOlaamOpZq0i5A",
+          "width": 2048
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101095889446414378630\">Bego\u00f1a Gallego Fern\u00e1ndez</a>"
+          ],
+          "photo_reference": "CmRaAAAA6CTuX6VBdjY1A7KJpavkTfOeQxYLh-DIRI83XJoFsA73TrsvbI0SgOw2ZRT95L_MvTVPR9A0VowSiFVJiOpUkNn1dORTJpHF_jB6_AwM2kWJFU9kBgYAaA-wfcjZlUwjEhCeHXez_I_C-fAMdlVdCu9IGhTO5Z1AisOj7RKo8MufEAoLLyquSQ",
+          "width": 626
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116281644625565218952\">Mefiz-Tofel World Music Television</a>"
+          ],
+          "photo_reference": "CmRaAAAAo2GhFPMv3RwwJbx4iQZfFPx48jQStnN0XPeAYiCae66LigH8FfakIKlIxLUuiNbs5PhgdAknCe3tb4wSglvv91NU15x-wIj27SjQ6fJXDLlylZdh6Yu-Nzh1iI7hMOAlEhCxOgX1j-CvrEH2YIA1xnGLGhSb1i0KG7W0iVpHDSwLfwDF7j5bBA",
+          "width": 6000
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108915180285799040898\">Dominique B\u00fcrki</a>"
+          ],
+          "photo_reference": "CmRaAAAAi98eWt_Rd7bSdzaBm45xZwG3StSqq-yoYsvQfTT1zFIn9SkVEuJ1sn24BO9BwSdNtmLztD9ljmRVk2v5ccDfX_7gcrd2CtLt52k7TOpI_yrY6gP9vZrZgrPqxZ3CWIH0EhB3DuefBkNgdyLn2wM3CR-OGhRhvbyj9i0XMLXZD3y8yAhsKQN2vA",
+          "width": 4618
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101171042309263145099\">Ross Koningstein</a>"
+          ],
+          "photo_reference": "CmRaAAAATKQWt_3ucwtRdH8kfqbUQgDjb0ptt1jj8-FOVKJ4_86I_qftNPQ6EvRSL-rXOwnAMGhgKNLcNTqpr5YjQZol05Q_Oa922A5DSBM98kuBTxk0Xtdu-GzOBfD6VV2J4lnREhA3bu8WQrsgsbGQysx2YZk1GhQGMGct6U9hEAQiDNCbKAWrQsZZog",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115668598984250882215\">Abraam Melad</a>"
+          ],
+          "photo_reference": "CmRaAAAAOfWue2Li0ZN6mz5C1aJryPtpVRcvrps8CXYpiWKhjJ3-DGyAglRi59VnYa8amR9CLvMMRD7DlWfUkpTDcifAOw1JYkj8GvDFW4RmwpgNevflHbuhryjN9i-WnIglM7ySEhAQvROEqMryBxlbkvU6DWTLGhR8SP3aWF_90OejVZisbZVE7JTbmg",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102528427658953381845\">ronit gal</a>"
+          ],
+          "photo_reference": "CmRaAAAAv_u0e8L8beJe--J3UHcFUE5bPxcBIuh05ld4ApKIL-uIa3gwBAPgroPMaSHD1WRZgzLlZIBe-Ux_zc7ieuwx1djnCCpEdxv-oNv7ulOcxa-a_NMEQgnsbdqfC_8YIWpsEhCjfTgEJyIScjCHAWruBkxuGhTWElbvkv_TjGhaLh0VZigeJy3u-w",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105156205426876481450\">Lit N.</a>"
+          ],
+          "photo_reference": "CmRaAAAAaQANX_ZKAxSL3ZphP3FhL6Ea2q6P01PvaGW2l5aCqkQv0ZFH6xGnx4v-AaPjCwdMxphHDBVIfNZSaB7dvyA-cDpBw55t9V2-aNb2gN1jRPyJlZRi4p7nR3O7JKoQRp6CEhDAnuFc8128wf8l-rANmvBgGhR9XqviE28EyNvh8Mnq7WAcwC1YJw",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105379453607738287707\">Sahin Behbudov</a>"
+          ],
+          "photo_reference": "CmRaAAAAs0pdEPzgcc2RxydKAqb9S_Im9f8F4__gILnjR-nqGe-Fos67lxCRlATy7lp8GDVvezlrtV0M6iWGFLgUnYDSExrYHLUGfSyCcR79IJl-NZv9TVRKAhV_RIBaljVKaNs9EhBg2z_mo7EFYLMXYlBzCRRPGhTkjQS0M_cMlH16gkFpjbmYdALdLA",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109274145105879981811\">Madt Loves</a>"
+          ],
+          "photo_reference": "CmRaAAAAdKzF0ilNwOIjttPb8j-RBg4UygjjvXhzmU0LniLfJ5XSwMd9TEKE_ClmmurWHAA7je_elxcXI28ERTISBaLUOMr_DzhVOzFNfOacHMf4ayrA6aCvaxjjkQarwJ81btbIEhDRbVfCcka0UP9c3stTqFjLGhSu_ELt8Sm6ERQX4bUGYPU2LMaq3A",
+          "width": 4032
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://parkguell.barcelona/",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.007419597147197621,
+        0.04388252290185076,
+        0.05403960450769235,
+        0.13815906066126332,
+        0.07434483572291169,
+        0.14343890164960807,
+        0.11943220861751466,
+        0.0213971304147325,
+        0.12123753196999947,
+        0.05120152851472307,
+        0.07993485168347252,
+        0.02337625302165613
+      ],
+      "top_cats": [
+        "views",
+        "nature",
+        "hiking",
+        "animals"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        0.17751697448223644,
+        0.3376097440894774,
+        -0.19619410685254934,
+        -0.22869774461165598,
+        0.1310323206662411,
+        -0.6524121773666479,
+        -0.5642924360161945,
+        -0.9418163196077826,
+        0.15514665159438437,
+        -0.26457216383568094,
+        -0.21022712445896755,
+        -0.6305351636615038,
+        -0.34962842624961665,
+        0.49660166855144106,
+        -0.3993992548503955,
+        -0.5150404973300214,
+        0.08914713404676913,
+        -0.009591172265678629,
+        -0.5332599636401888,
+        -0.42339227536251467,
+        0.5050657768945355,
+        -0.5735332480415545,
+        -0.4392072268331089,
+        -0.3898504173332534,
+        -0.5652295999182999,
+        -0.09863572986606853,
+        0.13171250373792326,
+        0.5229578073970246,
+        0.1992499114362104,
+        -0.20163581513819134
+      ],
+      "global_mood_params": [
+        -0.23923347964123137,
+        -0.19907668782555185,
+        -0.15924667130069928,
+        0.18713497946492363,
+        0.3513322677501646,
+        -0.12948809717500387,
+        0.11600515023686289,
+        -0.32677745076632514,
+        -0.007574970199481359,
+        0.29075198369325295,
+        -0.2707357192242806,
+        -0.19230170398047552
+      ]
+    },
+    {
+      "name": "La Sagrada Familia",
+      "orig_name": "La Sagrada Familia",
+      "place_id": "ChIJk_s92NyipBIRUMnDG8Kq2Js",
+      "cat_params": [
+        0.06756062971740211,
+        0.07841415529396858,
+        0.25766653191248023,
+        0.2164456859300693,
+        0.145304188285187,
+        0.10731038057314994,
+        0.34849762035891074,
+        0.14305406044334232,
+        0.1909012617167844,
+        0.28101203655120827,
+        0.07511359893815571,
+        0.053122183770219364,
+        0.20951227826884586,
+        0.10892732223515293,
+        0.28563341507993534,
+        0.08901565784717277,
+        0.43006322140336917,
+        0.20781362549712365,
+        0.1501396851962689,
+        0.13822924546825044,
+        0.4028535923425281,
+        0.18701655647708046,
+        0.272383213017564,
+        0.20802284792798062,
+        0.012412702506911805,
+        0.31096313341235077,
+        0.2355833780232545,
+        0.35493451132706344,
+        0.18702510520231236,
+        0.16277962098301188
+      ],
+      "noncat_params": [],
+      "quote": "Antoni Gaud\u00ed's renowned unfinished church, started in the 1880s, with museum and city views.",
+      "phone": "932 08 04 14",
+      "int_phone": "+34 932 08 04 14",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.4036299,
+        "lng": 2.1743558
+      },
+      "address": "Carrer de Mallorca, 401, 08013 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 1350,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114501091521456915146\">Alma Gonz\u00e1lez Ruiz</a>"
+          ],
+          "photo_reference": "CmRaAAAAi8w37qGHprhOaiUGanK-kxNglu-uONYrgmbbPYAEvfTT2-3FwAva6To1yBtPRI_vURFwEVlNPCDitKSpReuthkOpCMFenPZYzxOCAy0TP3f91WoXti5zpM3te5M-6mI8EhBQYuAF78Thy4GO_PWIJdMFGhSpCTcnH75Bu1PlFMGZ6WwsDvg4Ug",
+          "width": 1080
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111846558983589707371\">Gerard Henquel</a>"
+          ],
+          "photo_reference": "CmRaAAAAA0BPyS2pS8wCDRlJeU5NXzlpM53OaLAmT03c3D6PF42ic5kkAx_LMQ3-pMeiDmk-mi_zotYttumMqCXEq6kD8bMcIyzQYUWgTEN1D2Lh6xjguWlJGuAiQZvHpnFpG07KEhBgbTwDcvinNtnaY2gH2EgRGhTDD99JR8jiOC7soJj-yWS5Tp46qQ",
+          "width": 4608
+        },
+        {
+          "height": 3266,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117865271409101927561\">Dale Cruse</a>"
+          ],
+          "photo_reference": "CmRaAAAAKdQLm6IKWXgrMWt2Ka9_WLi5P6mdYynz7TPCVQa4j1enbx_Jn9p0mF97WD8S3OKdX2ULXxsEHJj-XJka6qYU7zHW8Jx4lI3lK-y3eRWNE9zQr1Vm4RCfGA8yYuynqYidEhCG0Cb6EfkYv-HWn7RvSwLHGhRS0ICt9892v_ewfukmaLiuIGd1sw",
+          "width": 4898
+        },
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105991717387077633506\">LP SEO</a>"
+          ],
+          "photo_reference": "CmRaAAAAeaiZREJVHHLp-DQF75FQBB7SI1kzJifFKuVOlxYVVbeRb8dhTXIqeHobH4aAPY1_cKJn0PeKBdli3mPNajb6g7xWrEJxHv06h7bpnWn4PCCt88WP9_OlFJqnwY737B1EEhC2Hef6D8qxgqug0Y9PW3xYGhTMCtuub0kW-7TUyZb5QZ_6O3ggJA",
+          "width": 1024
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116994645415372912355\">changhyun cho</a>"
+          ],
+          "photo_reference": "CmRaAAAAEReQ7lZQNd0grc42Uo6HrAtzFbdZjyXyAxT-c-I8JsWvBNqc1GwV9v3bSJE1zloNT8y2g9kG2UL4_ba9gcLTQXWYSquXNQfWOoCYayHsweJm9E_PPjabiGSIkGfI0rqpEhCwwaxouT8A1kVajwvmAmJXGhQ6xLD8Nc9ZTg7uK8hBT32_Uz3Sow",
+          "width": 5760
+        },
+        {
+          "height": 3519,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112364781512269085990\">Jeff Allison</a>"
+          ],
+          "photo_reference": "CmRaAAAAt0Br-Vcd-vE7pBK4H5fF4CeWJ55pIAPjuK8AYalE3my-bslERT5h6wEkTTAWTMF9QGyuitFrdH8lVa9k7kmsHngjLhKUwel26k6mOz6bn-NndiZC0g3Lo8QY-hxbgHMuEhBtlWDG-vxwj_AfYSacyBivGhSh-XxCHMXDi1EERFQZYUUQ4I5rxg",
+          "width": 5279
+        },
+        {
+          "height": 627,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106209830716771491186\">Brais</a>"
+          ],
+          "photo_reference": "CmRaAAAAgz8xtTNOEUCZSjFXW9GPf9Hjyf4asMk4thk4GqGkekmG0Na1pan3o8gODsxpGKE_i4G4fb1wzNi_DfRlREMI-RPJAPRTq9gQA5JshvK517oLiuvh_hDM2pWX6AjE3wc8EhDy5O40UhrM2fPRYF8PRX5JGhRE-GZDKDAqnFuwLjqfFpgzC5oEOA",
+          "width": 584
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107997009333178834837\">Catering Grasch</a>"
+          ],
+          "photo_reference": "CmRaAAAAk6dVE86mcpPOK2sMpXcp5HlMVOJ3N8S9oPixlit3jBZmfLfQA6dxCW_lMB1vcOddYSO9PinNYMKq-WwJSB-ck6D7So3c4iK9LSInLVOjFJMIDPATT2iZuv5MI_6f8QBpEhDlB2zmteWAj7lx7BoXgl3wGhTPhalwjx-cKc8nKYbNdOjTP8aZzw",
+          "width": 4032
+        },
+        {
+          "height": 3263,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111855457621476804308\">Miquel Lapuente Marqu\u00e8s</a>"
+          ],
+          "photo_reference": "CmRaAAAAf2bw-sffPb76_0cu-qiui5V2GdcDfGrk7ebVGpWsq4whk_HlusXPl44BQFyzoZ8xGmHDOVxJlPWQCR_n5A-987Md6QccA9rAjI9vETFpkCPZhoBxFtE9E23sRtGrbV-8EhBODaHObGtinNOBGcrXgfNkGhRk8v73baAVYWgDsnRNPESaLFQA3w",
+          "width": 4902
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103907000044844646935\">Mohamed Azarudeen</a>"
+          ],
+          "photo_reference": "CmRaAAAAo273iKrQ7-U1tHKBZxl1S1pqCPYXTTzqPAn1ieK_tk7ka7cDxyeNc469iGFxKzQwgrwHfgqntYj1_uyXuWyYpSYk8jivl-l8MPfHO3OI9wwa2ATJMcRpfYvjzn0rES6wEhAO1Ttj--gdath28-TWZeuwGhSBIOw2nSpDM8pIzpasAfTYdYFxRg",
+          "width": 4898
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://sagradafamilia.org/",
+      "popularity": 1.0,
+      "num_google_reviews": 150670,
+      "mood_params": [
+        0.005723012706170205,
+        0.03074135159708941,
+        0.03243025429617575,
+        0.13676348445869665,
+        0.0835564872627124,
+        0.12326519460747286,
+        0.15862132806858875,
+        0.02074412226838892,
+        0.08822904758662953,
+        0.058309483111302025,
+        0.07790482783617657,
+        0.029659757517385657
+      ],
+      "top_cats": [
+        "religion",
+        "architecture",
+        "original",
+        "movies"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.1363776400943,
+        -0.4046211742513508,
+        0.3244151515516751,
+        -0.10595825274852598,
+        -0.9841964479650362,
+        -0.5045239810854902,
+        -0.5298718111652746,
+        -0.7561431764061824,
+        -0.2326015067197633,
+        -0.42896060563441746,
+        -0.23110464471816797,
+        -0.8336207253988238,
+        -0.47557773968074235,
+        -0.7113222543611047,
+        -0.04896082933889384,
+        -0.9529153841778557,
+        -0.21205897566156728,
+        -0.9006522033550247,
+        -0.19983142631673353,
+        0.051343786311934786,
+        -0.6570457384910838,
+        -0.6668178351501777,
+        0.172963674965733,
+        0.37135157074677005,
+        -0.43602468764234,
+        -0.32327005895756616,
+        -0.5116169614240249,
+        -0.425506919838329,
+        -0.6771689560553945,
+        -1.1479788027398419
+      ],
+      "global_mood_params": [
+        -0.35338285085833465,
+        -0.5927732502865675,
+        -0.548314969655331,
+        0.1656201400312824,
+        0.5535026426430096,
+        -0.38317280615567256,
+        0.8576436744941315,
+        -0.35281662756612164,
+        -0.4442338047204432,
+        0.5669896775688997,
+        -0.31771088281608906,
+        0.1918269793559575
+      ]
+    },
+    {
+      "name": "Tibidabo Amusement Park",
+      "orig_name": "Tibidabo Amusement Park",
+      "place_id": "ChIJwYnKYCeYpBIRyz3MKkhZ5C8",
+      "cat_params": [
+        0.24001169495005945,
+        0.1230373108512291,
+        0.10261494185374867,
+        0.12378138605395064,
+        0.2944870231115278,
+        0.06006998974772648,
+        0.3577578937554425,
+        0.10189587576130583,
+        0.27553844005630435,
+        0.3091958006189314,
+        0.07490186018797654,
+        0.097052521775118,
+        0.22730619435472696,
+        0.2635188392955754,
+        0.21535019386737947,
+        0.12925978405811778,
+        0.5335484798336423,
+        0.22967539083543362,
+        0.1263095613772837,
+        0.114045233558895,
+        0.5365401332820161,
+        0.26325113826497226,
+        0.22358514688917752,
+        0.1862704694101611,
+        0.003150070603216152,
+        0.3452107871786545,
+        0.31840296995521655,
+        0.5234138700313431,
+        0.31233540938487164,
+        0.31508692108759784
+      ],
+      "noncat_params": [],
+      "quote": "Amusement park, opened in 1868, with 25 rides, restaurants & picnic areas, plus views over the city.",
+      "phone": "932 11 79 42",
+      "int_phone": "+34 932 11 79 42",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 41.4215056,
+        "lng": 2.1190917
+      },
+      "address": "Pla\u00e7a del Tibidabo, 3, 4, 08035 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114503256230766572762\">Francesco Candura</a>"
+          ],
+          "photo_reference": "CmRaAAAAhqQ7folwHkKiceRkvoQwObbY9cdalpuLy6tAOIgYhqaUigSHc6_Zxk-RbnK8xgulXCiD-0B4m73C6BmcRS00Hyv6_PksN_so4PMEZodzDlacHEpJU6brAbKr7e_6vNGtEhCAaxlvI96p0Q9Vx1JmE2t2GhSTquSfSIwPgV_cjga-FxMU08F6jg",
+          "width": 1620
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108621870609899321630\">Pau Rambla Albet</a>"
+          ],
+          "photo_reference": "CmRaAAAAFT_XDbTZiNFwRsXzEUaza5usehKnUIhtllfa5irkf8mfwuq3k-Y-YtshoqZ2r4kCkYpr_VjcC81z8b4isXcu_gf8oqeQSP3lQ86LnJjLbV1Zzm5E3dWvubmf08UwCFWoEhBrp2aF9T26_OMAWjt6wu95GhTyB4hUueckhw4Aj7wZ6yUW0cmfdw",
+          "width": 4032
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103515285268506838107\">Markus Siegrist</a>"
+          ],
+          "photo_reference": "CmRaAAAAc7Qsfd4RiCm4xrQenvMFodHM6JBEkJXVR2cjgvfSCcow-9-TkOIg8N0zky8wYgelniajH-bZ6q8rr3vtj14VJYC589WfeCO-tUsa9vwE_vzhtKWEQe440jXr9VySfF3uEhD91oc8X8ApM3PUrj58mUlrGhQV6eNs_xtd86PP1LiR6HGpTSb89w",
+          "width": 1600
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101934029334385659062\">caterina corongiu</a>"
+          ],
+          "photo_reference": "CmRaAAAAYDsHBlEIoE4MOHMnlqCz8jOOCx5czNzJrEZRMI3Vy4PpOG8dOw_AOz0A9zAAuTt4TBPgc7eQhr1WLtvkWSFu_VmvqrLrjstmepu9_44pO_k7Vc9_1Jd5dzi3q7ngefcWEhA2vEYnwK9tpXyTw-jj5dgSGhROmnAJbZb1ssVgcMQ9hZ6yvb0V9A",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105560086935134437618\">Pedro Balza</a>"
+          ],
+          "photo_reference": "CmRaAAAA4iRpO-eVjJRy5JiUGI6P4X6iCc8zYduWrLJz-nRfZyccp56UOXDkOJsCQujY9dwjSyAQce_QcUGcGEcaOMXp_kNBEeLOr9IywNbTjzqMXRNTqwB6L8fTA8rgEzvybNYVEhCDCiqw29BUsX3bLnunSeQaGhTsjUWh6wFtCg0pLng0Rm-W8ryLDg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100031327425127814040\">luca zappal\u00e0</a>"
+          ],
+          "photo_reference": "CmRaAAAAJNrmLnPlum8UReW6utqxqeF75HN8NwY5osDVkoKx5CzPOumwStJABtf1l2fFPuratBYd_dgiVBX6evAZH6p3ubGZEl9MGNRKsHOwLIKfNDuYZQ8iFrrSukEm8k4ooxGJEhCRLh_Huar8pRTURch76NlBGhSW18CPSHNkMwXi-5WWlLc6PuZQxg",
+          "width": 4032
+        },
+        {
+          "height": 3460,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114965482537997148858\">Gabriella Eszter Nagy</a>"
+          ],
+          "photo_reference": "CmRaAAAAkmNqetsEDEXdmIShP8nkY3YK2XUqktOug8vrSuckJKMkM7UIiFKkzbQH6UJnlTN2i4izlhpgQq4qKQ9l6cKuvwQYnvOECsZxsYVM0HhijbtunWZVKOILv5bhRkvN0OVaEhBws7IAJHkIx_vbd6bjNzKTGhQltHy2phaiQhUZ3SCcVOcl_Odelg",
+          "width": 4623
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107986918200928400040\">Emanuele Federici</a>"
+          ],
+          "photo_reference": "CmRaAAAAqJX1vvIH6Jhhwt46jNmAoincPv3BQh1BlffYeaq-fz8Ty-h1RJ1OyERUNpOOHT6eHTCarfMSFhcuKgYtdpUz7n2QUwXG9pRp-10pTrr_Hy-ANCJJEV-q746kdE1jHw78EhAqS-m1I-xW56punGyHw9EGGhQv9r92Wm-lAmLEWZk43rlIGRRKhA",
+          "width": 3024
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118355286748477681680\">Tyrone Celix</a>"
+          ],
+          "photo_reference": "CmRaAAAApux2kqKItp81XN01d-TYEQbgiDwrmZNvYEzw9wDyCuK1dGE5fr7q9UMaiYIewET4PI6A1AI1FdpKdp8Tyfc4TUwUzsW68WFHpx6TUCj-S312hAZkdlwslbf0b3Z8M971EhDkrIwXdq-H4o3sIZn9tAhOGhTy3vCQge--eWZxn8lNbMqW_3xZog",
+          "width": 2048
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115993232311001257541\">Arnold Gall</a>"
+          ],
+          "photo_reference": "CmRaAAAAxSJxVErApn4pSFl_4VV2REiIxCH_tRFCpaMHm3yE64knlSMjoTRTJmFVwd6s5ECLWeu0qbheuUNi9gxDU9NUCgdRUN0Wz6uKNwCdB5Yq1r7Ep760LTX4b-T6roYny-lkEhCleaFtyI0tqaAI40vtNCA-GhT_C9Y6w95MPYOdOk4fwXNxerOqIg",
+          "width": 3096
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.tibidabo.cat/",
+      "popularity": 0.6551847976423915,
+      "num_google_reviews": 27764,
+      "mood_params": [
+        0.019866365820447776,
+        0.10236493523994591,
+        0.03981229967096973,
+        0.13649379825568475,
+        0.0740422823842804,
+        0.16711060728627156,
+        0.13736686153216085,
+        0.02870161803752693,
+        0.13489718176738846,
+        0.049401138794704196,
+        0.07229412244152868,
+        0.018641236206625698
+      ],
+      "top_cats": [
+        "engineering",
+        "amusement",
+        "views",
+        "hiking"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        0.9560452080301965,
+        0.12892525373624905,
+        -1.1987169095358692,
+        -0.7681578053321078,
+        -0.06398522851712425,
+        -1.1347424040173473,
+        -0.4313255115025906,
+        -1.2132381207123275,
+        1.0199464085725385,
+        -0.1292928182854003,
+        -0.23545936633447,
+        -0.41640602701722806,
+        -0.2832932879806427,
+        0.42462056587992686,
+        -0.8132213322013659,
+        -0.48158071727376967,
+        0.3494563985515708,
+        -0.6719864204032122,
+        -0.5040129726525049,
+        -0.4305438198806142,
+        -0.005055380854011913,
+        0.07793804402700928,
+        -0.37722608708961336,
+        0.16843596251755752,
+        -0.7027173442283966,
+        -0.06924053642711424,
+        0.26439549396194073,
+        0.6690004438130671,
+        0.07925777509466769,
+        -0.10069348358480058
+      ],
+      "global_mood_params": [
+        0.5982083731650117,
+        1.5529988439494202,
+        -0.4154039934235196,
+        0.16146253448842612,
+        0.34469205544601,
+        0.16818400359311741,
+        0.4554113350910614,
+        -0.03550567152914149,
+        0.1731242309882415,
+        0.2207831202772144,
+        -0.4475437437108523,
+        -0.48176688634322623
+      ]
+    },
+    {
+      "name": "Pla\u00e7a de Catalunya",
+      "orig_name": "Pla\u00e7a de Catalunya",
+      "place_id": "ChIJGUgrYPGipBIRS9ZgHK_C7B4",
+      "cat_params": [
+        0.16073216972310386,
+        0.09231139670120314,
+        0.16445474595614074,
+        0.16132264346214212,
+        0.2841177598438041,
+        0.1033665139060062,
+        0.38693645668449916,
+        0.15948175906696546,
+        0.24232090834494732,
+        0.29022536677760136,
+        0.10543826815806596,
+        0.21737276997041136,
+        0.28991501469507597,
+        0.16627421441482135,
+        0.19863238441885622,
+        0.15167438446881815,
+        0.436344398209918,
+        0.23844108717822568,
+        0.12268875025108594,
+        0.11509802203956283,
+        0.4875519309039625,
+        0.3003442597542354,
+        0.16792563294760113,
+        0.15603889727613662,
+        0.009036812908300974,
+        0.45684480756398416,
+        0.2482221847042496,
+        0.3977555596386038,
+        0.3095467779382238,
+        0.29807220847384797
+      ],
+      "noncat_params": [],
+      "quote": "Central, tree-lined, sculpture-filled square lined with shops & cafes, used for special events.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.3870154,
+        "lng": 2.1700471
+      },
+      "address": "Pla\u00e7a de Catalunya, 08002 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112040137108202609011\">Ing. Petr Such\u00fd, Sr.</a>"
+          ],
+          "photo_reference": "CmRaAAAAzl3_2NAuvPBzwIfieWr7XejZleBAAOAi5CjWAzG-Aux3UdO2UA-rNt84RrFSSvlka6ANrXyLqipOOirtFkLqYGSj2A19r-KgeTFToCK1MXNZ69XeBjzOpmK36WsDObXtEhAHg06qpGV1BwNKXGGyAl31GhTVDZAaujgO8TpO4PueUoDpqXXSZg",
+          "width": 5333
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114244812130735654834\">Martin van der Steen</a>"
+          ],
+          "photo_reference": "CmRaAAAAweGH51vgsIBa7e80alCcX94Lu_Ff_XGNP9-1HYdtFggStAA18keBWyIbl9pu7qvUJhqzuV0uJm38HRyu7w4iCrOxcYE7or0ds4mivISFW5wlcTLgTqlmJUePFiZ2md7_EhCjwdO871DsduTjTjupiSKoGhQf93spgSpJj1HCJJp1FXWQt2Uv0w",
+          "width": 4912
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106579574272060351005\">Csenge Barta</a>"
+          ],
+          "photo_reference": "CmRaAAAA7QyMbPgXbFI-mBmMpmO_raXmC9kF05Y5qLziZkgjTrW4l71TSFeoSxoDQ53lGM4BzGY744KKCizp3G9ANse92GkQ5z1RmQHVgXBP-bBlx6iMN3f1TQzSQE-HaBMzofbQEhBhhp1kXJMOYQqHS4CgILJCGhRlQTXpCmGwrd8EAgXisQR_lXCfBg",
+          "width": 6016
+        },
+        {
+          "height": 1098,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118248662219590306430\">trekky60</a>"
+          ],
+          "photo_reference": "CmRaAAAAR1xU7lfA7pw-wRxFNrmkW8Yv__6_ObEzldHr7565yclAbgCRERl7DirsaCsIAixiWq6uYHXaKUyRxxXE_RannLZSwliN9UatFGvT2f0SdCRWQg5qVwterNR7WZkQw6SQEhA2xmMQAyhmxdvZhId0JXMGGhTbfu-gUHZhDClXMJ5EE-QjrLGyig",
+          "width": 1788
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116281644625565218952\">Mefiz-Tofel World Music Television</a>"
+          ],
+          "photo_reference": "CmRaAAAALCXqM36xlJMToZVkgt2ufLFA-hABR1gLi8Mde8ypo_YZwX3Ck3tv5pfG9ijnje8YN6ojwY7RyIai7EQljqX86GgIvZnGa6DWP3lnLHsyNpgWhb3VurhwphCGJCW4qrbGEhCUK1pDpujkEuhYE-CzM_6cGhSpH5-ofeLd6jCYh7Zc2qpabCETdQ",
+          "width": 6000
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114163475990336311292\">Z\u03c8reX\u30c4</a>"
+          ],
+          "photo_reference": "CmRaAAAAV8FR1wfq4hOIHo465Hok0B5QbPsdvHl9VJt7A6ctdsCAcSYJQZbP4MzVbBW6PQE5Z5kvOspwat10nwKHLRuml9-7OWubZkyGzZJQgKBs2jjpZLhC7DwVt8TYls5AzQ2oEhARXDa-a8rHun6Vok2M8jr2GhSH5FqV2rQ_T3gPsjt4Hve4NM70aA",
+          "width": 5312
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117348309077605700201\">jean michel baucher</a>"
+          ],
+          "photo_reference": "CmRaAAAAnLYZPcp0Gp_br9jwLmC1-kEI9_d6XAA3SJHOnyN_6Dcm4SsbdLNd1871nEfuxs69pSAklSGfFQMx1WId3V30UMqGL9SMm9te9JjybWWDffcp7_OkxDDh5-3OTN65_5mTEhB38U38NK7hptwJ_MLc9prJGhT0P5jlArWwhtRNIoE-bFcypQ1-hQ",
+          "width": 2048
+        },
+        {
+          "height": 2240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107758428322670257649\">Al W</a>"
+          ],
+          "photo_reference": "CmRaAAAAndOZ2blQDLZDkLmYFQhxlQyHdCS6NgJ43VFXy8mfHzCtgYv6v1W4rV0Ums0hd0Huzbak-nu7VfsBx5sDTs1BWc-c_NzsH0XbAzypFjwdLTQNIGjk5KFPsZfEwCCUG00jEhA4Gwt2-DFHTtdj_78-8T2dGhQEtY1y36-hXWYc56C_8qQ0DzTK1w",
+          "width": 4000
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101174869106020869487\">Malie ali</a>"
+          ],
+          "photo_reference": "CmRaAAAAe3K_yJ8YUKjECBo7Kpl6mnv-AKAkP3sy0UfRAqTK_AcSVUrH25UowQqng68apXTC689OCbtNGdKqmZfdqXl-UH_u-_T7JSh8VHpWG60rLKwXiiendaxOvYnybp2JLPwNEhDwU6YyJ3fiLOS4174J1BcPGhTqPUHhQlFQhDbBl9R6JxPUcqRxxA",
+          "width": 4608
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116963910085903524141\">\uc774\ub3d9\ubbfc</a>"
+          ],
+          "photo_reference": "CmRaAAAAc0UiiBoM-VtMmhOvpPj02rFV32ZZn4YYsW069ze9s5XmYRXrNDWr8vLc7Wmb3aXJDoGJm4tkfusc0Jkrb1hsz60QMFMCtATOCijRyGfFRBHqCVHP4nmEl2wWJzG0mlUVEhBg5joizwlYC3bQ-CCFNr-2GhTF35IxddPq_DtQ62dHx_A1FQvl1A",
+          "width": 3024
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://meet.barcelona.cat/ca/descobreix-barcelona/districtes/eixample/placa-de-catalunya",
+      "popularity": 0.9470257571467804,
+      "num_google_reviews": 121192,
+      "mood_params": [
+        0.005371574852339823,
+        0.02956186520207271,
+        0.05363465702932086,
+        0.08874552530614203,
+        0.046943303201745584,
+        0.11416258222738532,
+        0.08304165588936463,
+        0.01563131932959739,
+        0.1135163262085696,
+        0.028506926826245338,
+        0.07393959837083029,
+        0.015433782473037234
+      ],
+      "top_cats": [
+        "shopping",
+        "food",
+        "engineering",
+        "nightlife"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.005887324828000717,
+        -0.2384557962292464,
+        -0.5912404673784663,
+        -0.49987968859929777,
+        -0.12794642356664795,
+        -0.557137801331093,
+        -0.1208120651922209,
+        -0.5737002906119393,
+        0.5283592489756942,
+        -0.3309985918869017,
+        0.39256717939247593,
+        0.7262980435592463,
+        0.3932695682579781,
+        -0.2899356758907629,
+        -0.9950109718259772,
+        -0.2190634454863555,
+        -0.1779770455535744,
+        -0.5803005576046621,
+        -0.5502311096509847,
+        -0.4095660878699936,
+        -0.24397124601146045,
+        0.4403106006578643,
+        -1.0047774874066469,
+        -0.11357723628162424,
+        -0.5332243793450344,
+        0.7587968260780452,
+        -0.39319242953638994,
+        -0.14732475522956376,
+        0.06242439987201252,
+        -0.2176889179322433
+      ],
+      "global_mood_params": [
+        -0.3770282463167137,
+        -0.6281095021638535,
+        -0.1665375997548565,
+        -0.5746466251932449,
+        -0.25005588490703856,
+        -0.4976383115674103,
+        -0.5726716100538511,
+        -0.5566933791980438,
+        -0.10971636723318205,
+        -0.5912323267958376,
+        -0.40946709694225025,
+        -0.6778477486045997
+      ]
+    },
+    {
+      "name": "Magic fountain of Montjuic",
+      "orig_name": "Magic fountain of Montjuic",
+      "place_id": "ChIJN5lVhnCipBIRajHculw3xh4",
+      "cat_params": [
+        0.19293085669216095,
+        0.08046139407575667,
+        0.1004637505043379,
+        0.2318890946488744,
+        0.22836152330401485,
+        0.10174255712517892,
+        0.33801009609588617,
+        0.10797291315462677,
+        0.14000842499205682,
+        0.28820758073985675,
+        0.06985114553567824,
+        0.10246476595121604,
+        0.25391981008189624,
+        0.1286126626800313,
+        0.24268584225690112,
+        0.1307050687907402,
+        0.5485351494780821,
+        0.1733417881356484,
+        0.33085428446757065,
+        0.23650978174209614,
+        0.42075532091953904,
+        0.34228815520125044,
+        0.23590784207734844,
+        0.10753463304592908,
+        0.0021484696549293526,
+        0.3120236536290024,
+        0.28875939036223347,
+        0.4206343847737745,
+        0.2812826774651731,
+        0.2431442893493113
+      ],
+      "noncat_params": [],
+      "quote": "Huge circular fountain renowned for its scheduled shows of water & light choreographed to music.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.3711603,
+        "lng": 2.1517402
+      },
+      "address": "Pla\u00e7a de Carles Bu\u00efgas, 1, 08038 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102177391056058746268\">peggy loens</a>"
+          ],
+          "photo_reference": "CmRaAAAAxUDTiiJPWiEW-rwihnxEcvXI2IpP1QHObLvxFZBXDuHEL0CuQDVETmVtLe5_EAaHpxO-fL6y-TvGgPfva-QpmHZKnPRnevkVlYy1huLaodjwHW5nKTyaegpIF9_IpUUGEhDAdsi7-N9mqH76ackroG-FGhSmR67I4dmWc6nQweOpkJdzNWisFA",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102946353993189387594\">Marco Beraldi</a>"
+          ],
+          "photo_reference": "CmRaAAAA1_OLPMPbYoO4KvXI6SEFbcuGHDnIK65L81gzUZS4RcxhiNusEhiITJ9mOtp2MmEUJTXWG0Ydkac1J7oyTE486ERbG8NMEKFPzSCUvkFywu7i5fbJpkb0NBKZ-F-eXug4EhA4Eb9T4YSykvZXtvquExRUGhR8cD82OwD-poV8f8TJI8tI-Rc0kg",
+          "width": 4000
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106494469278425687558\">Suman Saha</a>"
+          ],
+          "photo_reference": "CmRaAAAA3D-vqBU0L0t02BwERm4o6WZu0ktERzMtC5te7Dkg0NOytXgTncv79DPvdD6mkJR-jApuW11UpMi_NFyoEeIHLRTM5LU-gjBdfuMCNkmk8xJ_W5iyXtsJvrqkilPr0GrmEhAfzLKD_MnXnzOHNRHVxS_OGhRXmlglOOoDDtQzWeTL-ZQECHprjg",
+          "width": 4160
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116447152521085286330\">juan cabral</a>"
+          ],
+          "photo_reference": "CmRaAAAAgHtIZt3ZC--D6QdeHJ8nxQTgLDvsZARCkSo4IUVgp7d_MPqSjGGY7PxRDGHFfN87Ll7EJm0471EWW7Cn0Ak6V7xoNKZfalZ7Ho6wXA5lZ7c9Awrngy3XE91ZPU8oulnCEhDpP8JtRoxlgoxBfCn0OWtPGhRFM2PYdrMkkCmOcysIXnbVo7or8g",
+          "width": 4608
+        },
+        {
+          "height": 2725,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111858732130295654944\">Tarmo Erik</a>"
+          ],
+          "photo_reference": "CmRaAAAAoGQVB6-ecm8V_1C-diNxHboklcsd006zSG2EDqXx38WyLpQVnJm7ETNhgnldBPaXy62h7Ud4O791ZvpJ6I5jk5AC8XrmOKl0MwZaWXAbyIsGQL7pb8YR621SHVxiPY1PEhCKVcf6EECrdbtyEOaQMMgtGhT2n4OF34BKVemv3MU9i31Y9NPi-A",
+          "width": 4008
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109455485033415540660\">Oren Lerner</a>"
+          ],
+          "photo_reference": "CmRaAAAAKwX7I0-6kKCRgN4uoiDrL9WRQmQwgauel8VsghRul6P9zz8gkDBUG7aXCb-mdcAu_8zFJ_Vxje3krFkBl6mTTWRIWvnQbzzCUhzTussTx-XEscMjjn8ZyEaoAVhS0uJHEhDuxJhTfGTiVU5O_dHBNlHyGhRfQ-X4U7Bo2nd8c9NVF1voNp4mJQ",
+          "width": 5472
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102205783859290541912\">M silent</a>"
+          ],
+          "photo_reference": "CmRaAAAAFQLf_BeWCcg-vBRtYb4A47v4uGujbaexPOEGIWyux9anHaIyYfix5qQTrayrTWdRC902tUoG1kwVhtTznVsXAHdhTHFaMXzZEiZUk7Dnz9BJO579ZXPRlfZlvBFAcYdDEhCJOSqPkVGbHHxN4ugvK4WpGhRYZgtnqxr8wRCjNWrDB4VCuRR2oA",
+          "width": 4032
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111354241733564292152\">Oana Oprean</a>"
+          ],
+          "photo_reference": "CmRaAAAAWzh1BFDuiusDm-mZiueYN1lo3jpfU4zrgNhDTC4KU5W6K-OZK3-K-e8uSPbycGx-MIpsd87djrkD7bQBKZlYH5HqdDCRCbkGuEMYCiMaA6xbGEVfAdeO4q11SmcVIEMYEhBKmP9dtrmxPIgqrEbGZI-lGhTG6d-gIZhRkzURMHvetF9J0me2FA",
+          "width": 4618
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110248461560816796555\">\uc774\uc6a9\ud658</a>"
+          ],
+          "photo_reference": "CmRaAAAAsAMS7bmUO4p5AUiD7Md7T5xFWEmJBApmvBcBCz39jLGyQYoweFR3ML7e5kKKj_9HGPD2XJplgzhRtT4dPPLPFKuRiHlDHdkFY5LTtWqG9Hj4Gv2pLFo_Fu0Bt0pgq4TTEhCKibDK8FK3wCQXdSlMoLfjGhTJgd1oF3fw1841UaLvc5mrZPUhVA",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105244679187018932055\">Neeli Rasool</a>"
+          ],
+          "photo_reference": "CmRaAAAALVT9nBjLpvH3xf048bNaok7IdZBYS__AGYHzSeAsPq1umnVXu49H9YGx2Tz98z3Gu-8fEZDtR-Gh5hYH8uxV5Goi9FWCgRVe5iqXxGf7fzg5TeoJWTDOOB0T9JIkUE2FEhBP640Cdvy8xtZSB_oahdHEGhQEWzBEusv-WXqAy_MtphtqF1zjFg",
+          "width": 4608
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.barcelona.cat/ca/que-pots-fer-a-bcn/font-magica",
+      "popularity": 0.8191434470019164,
+      "num_google_reviews": 67837,
+      "mood_params": [
+        0.008860496890971773,
+        0.04967986332554041,
+        0.05246445525130888,
+        0.13919213907711117,
+        0.10086261004618992,
+        0.15168307858054533,
+        0.13265301415686842,
+        0.017592745025356262,
+        0.12160497968687306,
+        0.052620740970611556,
+        0.10149203555409919,
+        0.019196360309660404
+      ],
+      "top_cats": [
+        "music",
+        "movies",
+        "nightlife",
+        "instagram"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        0.3847931746097317,
+        -0.3801429201785504,
+        -1.2198488986536888,
+        0.004403756759233856,
+        -0.4718701362232094,
+        -0.5788024714034598,
+        -0.6414783118038809,
+        -1.1457477031852696,
+        -0.9857659882571164,
+        -0.35245298228776184,
+        -0.3393348083852294,
+        -0.36500492417921904,
+        0.004298520542966898,
+        -0.5666738184859335,
+        -0.5159731978128508,
+        -0.46465370550411456,
+        0.4307746997401056,
+        -1.2612145622527366,
+        2.106914718577391,
+        2.009669499094208,
+        -0.5697388612600374,
+        0.8500716565612255,
+        -0.23828982851693184,
+        -0.5660460212432422,
+        -0.7315557586785209,
+        -0.31540372609551837,
+        -0.013362298002044937,
+        0.0013049806307787045,
+        -0.10818983069101822,
+        -0.5953806193238472
+      ],
+      "global_mood_params": [
+        -0.14228705259566665,
+        -0.02539407283704324,
+        -0.18760664672046323,
+        0.20306138763844303,
+        0.9333243625550229,
+        -0.025817432128576043,
+        0.36620364530485827,
+        -0.4784800969327156,
+        -0.002714120184863643,
+        0.34590708782446333,
+        0.228101888151744,
+        -0.4478305549644607
+      ]
+    },
+    {
+      "name": "Mirador de Colom",
+      "orig_name": "Mirador de Colom",
+      "place_id": "ChIJSwC911aipBIRt2zr380K3Co",
+      "cat_params": [
+        0.09993385699714598,
+        0.06535760660191389,
+        0.13398111521218228,
+        0.16554817592441523,
+        0.22671992796369292,
+        0.06692131377148257,
+        0.308739533504758,
+        0.09311405891122797,
+        0.18539867962869247,
+        0.23035577887819927,
+        0.05345252855544889,
+        0.05584062706349465,
+        0.15011140591598957,
+        0.14581462854646918,
+        0.23668056193721462,
+        0.08296549730263904,
+        0.3637758585189709,
+        0.24241460565129785,
+        0.08099077718329378,
+        0.10245767760789758,
+        0.3577309983651092,
+        0.17540007467920643,
+        0.16698093067990089,
+        0.07984218260811417,
+        0.009293602612943395,
+        0.3066737104699806,
+        0.19194992764063012,
+        0.36973866978572323,
+        0.18762223152413998,
+        0.3118519906989758
+      ],
+      "noncat_params": [],
+      "quote": "City views spread from the top of this ornate 1888 Corinthian column topped with Columbus' statue.",
+      "phone": "932 85 38 32",
+      "int_phone": "+34 932 85 38 32",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 41.3758087,
+        "lng": 2.1777606
+      },
+      "address": "Pla\u00e7a Portal de la pau, s/n, 08001 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106591816355562711567\">Horacio Verna</a>"
+          ],
+          "photo_reference": "CmRaAAAAsuj1efDndHRWrme3gAenXuwxniT0QrmLbEbVHX5pyYwBT446eBV96w8ZDLy42NdLL1uVUuUWRyM6_-zJD3pc6Uc3MemRPKPbxETAkbIpEbxf5bxbFW1w868vpliTYGZnEhCLf3tM9TqyFGywYHLWdB9TGhQvtNa8mVouMCiyfFMHk32C_WY-rg",
+          "width": 4912
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113309403257473134550\">datsun128</a>"
+          ],
+          "photo_reference": "CmRaAAAAiTR59yevoUJo5mGfG0qkWe77uVyWuHcPuzR9_jPh_2nCiZX4pzU5EZlC66lIY67BaJxsUjUQFVgh2PT6fSFW35fz0zVTnjpXvUBp7k5ywjq9y3lZ1wfKXWliVgF-idgiEhCmg1vefzNO7L_8hNduSiCWGhTxkHcVgyQ_gp2oNmaGzteZQVks-g",
+          "width": 3024
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112901288662548722377\">Alvydas V.</a>"
+          ],
+          "photo_reference": "CmRaAAAAq06vd7AS_eDlT53Tjh7l5zrsFNoKqyOHq938q6NoCSzy68zW5Ex8W1y0MlP3O2cIC7e2iJi6kj5YUi6k3C0yodX2ESg6q4g0-5NrzkZxiuInJKnA_bG2B95_rU5cHPxOEhClOmEg4MOqImotdMIFIP9KGhTeW1vaxzJ44WwY7m6F5X0B2et2tw",
+          "width": 3888
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108316865261209068089\">Margaret Atherton</a>"
+          ],
+          "photo_reference": "CmRaAAAAeoOdDbxcgolq7SlUy6bgD39mZs7FHi9Av9JYrGal7yZT3bzoOwSY34UbeYX00idIREkp098IBJwf9yi4gGFUXimSgHkclUlaAKl6GoGPTsOMkxekOY3N6yYFPcu3IjrGEhC5PDzWYYjN7V1PwzRxTiN9GhTVnBMb8YI7PHWavAsYS5Ytcal0Tw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101291849838068826331\">St\u00e9phane LEPRINCE</a>"
+          ],
+          "photo_reference": "CmRaAAAAOpM-b3nIifs_5ZXN9UOrIbieucMKljSjDZr1AxDn1jYfFnZkt6eNpCYo9rnPfsEbX1jDPYbWr0BOgakwWa-JAezCTPILvNZndidsEkYZZCcEeG4OzqkLiPLopgE-33CGEhCUKMhBybCNl6ScOOGIF4XwGhSgoJxmAr_hpO_Qg4MJG6hBsBsUSQ",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116296824283742236970\">marcela lanfranco</a>"
+          ],
+          "photo_reference": "CmRaAAAAAP2VptHoHplyrP2hBtaGrB6U23PaZK6T6n54EZMR6qct6eGUqzpRch8iZTjXSMbnpwEnD-PkEGAy7rhZt-jMyVDkW2VjqeXXHMZh7GPqVvc57D1tVVTuL9l4kJj-DbNkEhAjmpULEUNlRhx-W94OnpZKGhQYf6HCfEykIIx0dI3wZ3dnK5HWRQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115319516133926260269\">\u042f\u0440\u043e\u0441\u043b\u0430\u0432 \u0418\u0432\u0430\u0449\u0435\u043d\u043a\u043e</a>"
+          ],
+          "photo_reference": "CmRaAAAAwUDBzr5dKJi5O-IbbhR3bAH9VqI-DJk8_wUjt9mbLN3kqEA1-aMIsieMtkK0xothdr6mZ9zC9cpj0TIOGMJA43ut3y0HjB3g76GbhNXOlFsu08BTmLzbValXTrYq7XLHEhCGVXi8aywp4O9hspBDd93rGhStnzpA_UULSUTpLYLK0OBKjdV3Ag",
+          "width": 4032
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110071069246318517506\">Elcio Nolasco</a>"
+          ],
+          "photo_reference": "CmRaAAAAtMcVLxwbfk8I5C3BqFi_oB5OJ2B2JoFakyoKAQJIJ2Cxf01cTNjyYtKMEdKndOqe0KmPbuUorNprfieyMoExumXgcaSqykrrfe8lMK0iNNAkJFz0bAs-Ho63EP8RnbJmEhBpP_i-2bN7qqcp7ZvUCpCVGhQp12HQHnXjAdm_r7q5GIgCtWzePg",
+          "width": 3847
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107623815751795932313\">Virna.damiani@gmail.it Colore</a>"
+          ],
+          "photo_reference": "CmRaAAAAp9Ee4A5jF3p2OLIwZKH9-5PTg3ABGm5CKQfU5VEo5gQkkDzLCw4c38YvQQ4V-7mMdJgrcbSPoqtBFuwlVPE3D9W70XVtbGe6tU4vfCdI6wN2mIspo71Ko42tlZIc1B-KEhCL-xBDx_lTKZT997rLTrLzGhQWFc39ZhGAlr8t5nSXL83QeI1UvQ",
+          "width": 3456
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112315584032225909904\">Alex Glechikov</a>"
+          ],
+          "photo_reference": "CmRaAAAAqgXK7A2XzwoE-ImMV_ipXbioquFXcmrDiKQnYItaMdbIkixBRuQfWT9aMWuMJx0Vy6mv-UlOTBjiABALs17ZlQ_zYO0xLg-_ogUQAYHLKslBScZJ7LN1FWlANahL6BINEhC99-KSflcGDFKYmhaFywp3GhSSCbHf86PwC5CJHv0El6kvf2E4dA",
+          "width": 3264
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.barcelonaturisme.com/",
+      "popularity": 0.0301801091544259,
+      "num_google_reviews": 0.125,
+      "mood_params": [
+        0.002454282538150797,
+        0.029993949213835417,
+        0.020708325180614762,
+        0.07704581436847205,
+        0.02582000600724365,
+        0.07832233018209735,
+        0.09990276396251013,
+        0.011380705476038757,
+        0.058107412335449055,
+        0.04074501937132713,
+        0.06388993729227355,
+        0.012110664302189229
+      ],
+      "top_cats": [
+        "water",
+        "engineering",
+        "views",
+        "shopping"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.7435793680959455,
+        -0.5607346276702336,
+        -0.8905947918732015,
+        -0.4696831003804751,
+        -0.4819960629205812,
+        -1.0433411572071078,
+        -0.9529708033194122,
+        -1.3107673026965143,
+        -0.31403436942126106,
+        -0.967570303607191,
+        -0.6765967020198828,
+        -0.807803157171945,
+        -1.1174748979987734,
+        -0.44027328893828704,
+        -0.5812746805532832,
+        -1.0237741820562527,
+        -0.571737000727468,
+        -0.5387390597723567,
+        -1.0824882654750492,
+        -0.6614360150952664,
+        -0.8771089997446323,
+        -0.780302331443375,
+        -1.0154288422064797,
+        -0.8243731931128963,
+        -0.5258308081411833,
+        -0.35508654686698193,
+        -0.9204586398061012,
+        -0.32933335549027304,
+        -0.673564445519328,
+        -0.12293729660076234
+      ],
+      "global_mood_params": [
+        -0.5733091241016729,
+        -0.6151646903065034,
+        -0.7593639354865368,
+        -0.7550147066932311,
+        -0.7136540675275921,
+        -0.9483300902728659,
+        -0.2535818350380663,
+        -0.7261897113038951,
+        -0.8427034221038018,
+        -0.11562117647740042,
+        -0.6420182927502522,
+        -0.88099951023806
+      ]
+    },
+    {
+      "name": "Cathedral of Barcelona",
+      "orig_name": "Cathedral of Barcelona",
+      "place_id": "ChIJg2xxlvmipBIRg1jhdSQR9hY",
+      "cat_params": [
+        0.07219233618187545,
+        0.05103112857609135,
+        0.1703968620641757,
+        0.16530614872036767,
+        0.17816240900667163,
+        0.08435298995537104,
+        0.30940048692350064,
+        0.1337871916010224,
+        0.1357248838530935,
+        0.22113543126579502,
+        0.05606382256604517,
+        0.06057025586551705,
+        0.188528856674654,
+        0.11216633527925571,
+        0.21833638775805894,
+        0.11045712431667358,
+        0.37009738781240786,
+        0.17801642975562063,
+        0.12070548268710347,
+        0.10070120398990556,
+        0.34599843823063237,
+        0.17481342331123562,
+        0.17848958641112717,
+        0.2075269638538101,
+        0.012257993473926051,
+        0.25998802199909504,
+        0.2602754667718961,
+        0.30425071954252847,
+        0.20669611964509707,
+        0.17291198747171813
+      ],
+      "noncat_params": [],
+      "quote": "Imposing Gothic cathedral with geese-filled cloisters, offering guided tours & city-wide views.",
+      "phone": "933 15 15 54",
+      "int_phone": "+34 933 15 15 54",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.383962,
+        "lng": 2.1761991
+      },
+      "address": "Pla de la Seu, s/n, 08002 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100628592120012678923\">Mahesh Rathi</a>"
+          ],
+          "photo_reference": "CmRaAAAATBBLdzE2awKiEaSknn-PGRumxO8Dk9o6yFqn0_JnXJir7zQjRBzgG8vLWTiFVSA_Nrk3kgbg14T4-d0Ej7Hgvf9QshaX1TmqfUPBwyQOtc44Agel0mA1MqHsk1wsN9EFEhCQ5TFA4OhQa78VFj-x8fqrGhSQ0wnKOu6_mt0kZnaHkrlc8qEF9g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101818661863644661433\">Juli\u00e1n Garc\u00eda</a>"
+          ],
+          "photo_reference": "CmRaAAAAdSTVEqJgcJJXJ-ujlViflqCIhd1JA6eVraI4oiiNtqtxgmRCcX-fmS3xjEgAjAClZmIRZysP-zd2vB7tgsp46PdJQ5SW59NNvwzcWYSnRuXkXzTf5yNmCNbnHqoYultuEhBdHUix3Bdo7s_vRLJxi8unGhTjyKB5rTayFxxYOgcfKktrKq31Ug",
+          "width": 4032
+        },
+        {
+          "height": 420,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113083535671868942114\">Grzegorz Moczarski</a>"
+          ],
+          "photo_reference": "CmRaAAAAFjxH9sU_h3ElkV4uJij5_e8HO81a74HgoSIhjZu3UENpieaKxthWRVhZbIf5gDwzMco__rPwobQft8Es4znTdjlQKJeoElOWljhsFQOTOd1IncLixykewcGMY26kPXM3EhDZlNhwcimmZMP7gU_9Tm-LGhR86bWZwS4qfsdml4GjDH4PCStCNA",
+          "width": 640
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103100873064973226710\">Fran D\u00edaz</a>"
+          ],
+          "photo_reference": "CmRaAAAATOzn62AJLRZhcPWzlWiNI4aui8LfkhUEpiLIpTccpcZ1xFMe4mgYYx-k7QxEyBNrI9Ps7cltC7McwqfHXKVhi0MxnWY11UUhYoakzk6Tx0lqaDMtb85-SlOJ01Y_g9-UEhCAxY3vvJ1KavEL3RJ4c1y2GhSUwJKVEH0kBLzffrbGwyAEyVL72g",
+          "width": 4000
+        },
+        {
+          "height": 2810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117881590718899905367\">\u0410\u043d\u0434\u0440\u0435\u0439 \u0417\u0430\u0445\u0430\u0440\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAjqkR58LwXc4zpArxTG9wWkQFkCumC-kwmVTC4nxXVmN9hrJjNJPSRa6471V-4xQTMMzqoacbkQj-pQINvZnb5mMfnZRXBj6a-Umx9d7alyvNK5CNcNhiD4H2MkENgOSjEhAsAK_RFG34HeFq9wQnaY7WGhTN2GLMm3wmSyGGUnRl0MtuPGVFVA",
+          "width": 5693
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115579995074608517246\">Sagar Shah</a>"
+          ],
+          "photo_reference": "CmRaAAAAPkUNDC8Z4I31wnWFk4FlV8loe3EkMnxxF4SEq0KupYJLZNpwDOCTCP-rzobSB8ibam3EJ-BVaqhVVaZlqm-ki__G6tCzAt96IJUdY0kwjEG5SdqVEe7ESNyPnQl7uxQhEhCscEA051M-RP-eWhW3jv_sGhThKA4SychyAs4PLGSMhMcUnAUZiQ",
+          "width": 4032
+        },
+        {
+          "height": 3808,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110633799699475538843\">Or Cohen</a>"
+          ],
+          "photo_reference": "CmRZAAAAYUDgJrVS-Wv-4Y0H1DfFQnTxmzFztpxZLrNhDhJTFiEUtUZ7VPhDJWJWq94tgGx2q6-wNE7fyJQJdmrBEa0hzu8WhzKKn4o5EV96SZuP_jPckz9qH-OqHS0zjKKYazr0EhA6j5FHpecUCJm05JG5Cns4GhQ2jMzIei9M0OehtebKWWQ8jQMtQQ",
+          "width": 4000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113211837111642604080\">\u3064\u3046</a>"
+          ],
+          "photo_reference": "CmRaAAAAis8kflbLn_UpIiULpqq_icDroCcHvLODDNVJmSThIW7sYkQFK1ietJbuv6CFuzMQWwsLnJ-HE9zz5mtkkES82yBBd6V7KlIEqzEyW6FuEjQfPnrP-ENR5gD-DuwmxXWnEhDfrzWOZ7s5p0qeNhTm4YMvGhTeaKBxjzTpEpVHAfmxQuSW8JOO9g",
+          "width": 5333
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117046653208102121833\">Anna Ilyina</a>"
+          ],
+          "photo_reference": "CmRaAAAAG96XgIYuKYC449UPCs02l7vzUwPp11Pawa4nkpVlTdyCoMQlCM9arv82fWHvqbhW1GhMd3AlpP7OtR5FN2ryDzxJXmos1cXDuPK7idxoaYuspA3AnDoiOEZrAZA-IYYvEhB1wBnQyTsQ5TbgMEdkn39RGhSTpD1PNnG_cXrf7QG4hBWReLU5bQ",
+          "width": 4032
+        },
+        {
+          "height": 3165,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114742665291458773693\">Niki Petkov</a>"
+          ],
+          "photo_reference": "CmRaAAAAuNpqSBe3WPD0CY5TIdx6fJ1kRcmkhZOIE2gOrTPMZWAHsMtGq27TfiWsm14IN9xUZGTi0GHvNbnlDSvNR8xKwnokWGeAwIFo3HqQfyh3MjKxBIuSTT4lGY19I7IhGgNWEhDJPXBQewZpwZk7xwUnLgWRGhRUIy4OpEphecEgVvP_EAgeMQosYQ",
+          "width": 5053
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.catedralbcn.org/",
+      "popularity": 0.7558660674320892,
+      "num_google_reviews": 49182,
+      "mood_params": [
+        0.0036291712476111317,
+        0.03034851205509913,
+        0.06756106288287043,
+        0.12225309101158777,
+        0.08363993338649761,
+        0.12275594203757628,
+        0.10790847623426382,
+        0.015952283470388344,
+        0.11589879563817301,
+        0.02832541609925197,
+        0.060953523118248955,
+        0.01835012571609875
+      ],
+      "top_cats": [
+        "religion",
+        "sport",
+        "science",
+        "art"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        -1.080179156083807,
+        -0.7320322663258385,
+        -0.5328687502524146,
+        -0.47141268023428734,
+        -0.781515600706681,
+        -0.8107909330934501,
+        -0.9459370462285168,
+        -0.8590592532471835,
+        -1.049158230637343,
+        -1.0656069306864777,
+        -0.6228915655493917,
+        -0.7628849811753786,
+        -0.7023285963531916,
+        -0.6875218953111478,
+        -0.7807494277387995,
+        -0.7017953473465235,
+        -0.5374361163247365,
+        -1.2123195819293995,
+        -0.5755466891667379,
+        -0.6964352894210909,
+        -0.9343287918367807,
+        -0.7860334844854319,
+        -0.8856707378242056,
+        0.36672574932503155,
+        -0.44047911953964647,
+        -0.7013743022907736,
+        -0.28025421293109576,
+        -0.7547685205031143,
+        -0.558426277626622,
+        -1.0783072987171594
+      ],
+      "global_mood_params": [
+        -0.4942604164795782,
+        -0.6045423364428597,
+        0.08420214829868958,
+        -0.058078705334056485,
+        0.5553340551813712,
+        -0.389576665878729,
+        -0.10207690923170248,
+        -0.5438946996482591,
+        -0.07819943018361025,
+        -0.5982864102114059,
+        -0.7099675123526961,
+        -0.49956330703609564
+      ]
+    },
+    {
+      "name": "Museu Nacional d'Art de Catalunya",
+      "orig_name": "Museu Nacional d'Art de Catalunya",
+      "place_id": "ChIJMU59xHGipBIRkdwlcgUWAYY",
+      "cat_params": [
+        0.09673363837379376,
+        0.051845915385656284,
+        0.35514333960243044,
+        0.5018280995545544,
+        0.19470920966716457,
+        0.21419328979413793,
+        0.3247481147034573,
+        0.28872483735062365,
+        0.18646800172097813,
+        0.2453466269524888,
+        0.04909116801312596,
+        0.07956191281849934,
+        0.19119008238149485,
+        0.11871703814432998,
+        0.23247906955042433,
+        0.13158755401708547,
+        0.49280464850351774,
+        0.27292769725682053,
+        0.20107580133502967,
+        0.11601443844260612,
+        0.4612628913049012,
+        0.17541225636654656,
+        0.27557835793241375,
+        0.13992396523212614,
+        0.013020311886632566,
+        0.35789810782508574,
+        0.22124507375383104,
+        0.36086085824198627,
+        0.21447354371094432,
+        0.1997688818752416
+      ],
+      "noncat_params": [],
+      "quote": "Palatial, hilltop museum for 11th- to 20th-century Catalan art plus important Romanesque collection.",
+      "phone": "936 22 03 60",
+      "int_phone": "+34 936 22 03 60",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.3684399,
+        "lng": 2.15357
+      },
+      "address": "Palau Nacional, Parc de Montju\u00efc, s/n, 08038 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 2510,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104208650120377706399\">Prasoon Varshney</a>"
+          ],
+          "photo_reference": "CmRaAAAAQr3kzf0gPP6m_PEJMtBKdFWc4jm_YHoH7G6HS3AIcVSPFSlP01JFLEiiIA8LUjICjft8Iz6pWLuHQ_aOo7h_wsie4NKx3YxccJJds8K_Jxrg6anllvyxZodzAWO8JuG2EhD2WzCQFNHDSJC9gsafpW4fGhSHTcrslSVM6aI0D4ufpbTt9oFjSA",
+          "width": 4166
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115385192476341730164\">Sergei Chabin</a>"
+          ],
+          "photo_reference": "CmRaAAAA95nnMSaP8mnItQmIi1ElzeZp-wXfAsNJcPkwgJPWYgJXAZLJeigQbdqcDOOTXB2gTjJBOriCNjRVh61sVIM8EnLqwQXo1sxYzfYAkycMO4rstxJ-UtIS_yOp84PL646NEhC76FZTDLQfnBB2oEpNgIBhGhSQnIY8cdlHU95dFGcolwsNbQC_1w",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102252698444444539971\">Luca Bartoni</a>"
+          ],
+          "photo_reference": "CmRaAAAAxwkDSTmhY6_yShTge0Ps_9B1adZjSHBofYhe1UfmsviF_Lih_5PvymP0Rc6In0Tdyt2fIIaigzCUN-hf2mkl82NuceGPU89toDdZ0ej3B5m12tPHWILL7TgkyBktUtZtEhBofsxapfc7AYDyDI2jpLGjGhRArxv-kcbUHzGwkkZ2xmHHUN59KA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102598430647748724546\">MAC CHEN</a>"
+          ],
+          "photo_reference": "CmRaAAAATgwGOIX4WibI55eCGiaoamM1kNanOnS4p2tnrszY6x8PXIae_yBaClIznDbQLl0jFfbOetdqxRH7yTYenX0zFjae2sM4rqBVJFaNc3gNu6oLF21gA4oAfi-yDcUwA8QsEhB4JOjqoiRlS3qRND1PvqkLGhSoGt0N8iFg7PdL6Q3K1LVcYot6jw",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112141690284425582811\">JOEL L\u00d3PEZ</a>"
+          ],
+          "photo_reference": "CmRaAAAAWJQHisVN7Efa0JDfGOhi4if-5tI7fgdceb9qcVE4AbVXDOq7BTyVAf9n7LKS5SVHmeVkLECE1AnquL8tvqV6Lqik3a3-bgWJ_RlLjJHJYan5bHO_R_seKvLz1h-ZmHVpEhC_-yjx2RNys7ZuebgTcF5FGhRZhVrg1eBG537RQNoPWc-vkocFIQ",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101937644746642721956\">G\u00e1sp\u00e1r Kl\u00e1ra</a>"
+          ],
+          "photo_reference": "CmRaAAAAWEqUeEz5KhPfb_CKexa85-xOryF8eDaFfO_SGrNvmvtoIdRBhS98YXJutM-P5GTc3V6GMe2GzKnmmWF-mfIJBaPp5zmg9sy6Rh8qyAta-ODR287ualrU7UutpA9_FGB_EhDd9MyBGdHtKbaygzFS2igRGhT5lI-WIsHoq8ygddg7fENG3VPqCg",
+          "width": 4032
+        },
+        {
+          "height": 1111,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105767399451804881563\">Gilles Bordeleau</a>"
+          ],
+          "photo_reference": "CmRaAAAAvbwje2vbFq6g8RrySypYgYUtEgc0Ig5lgDtfxGK9nJ_VuWBXLCnPeJMMJGMXacJCrWuO9vUJ6d3bPpkSFUOMKYH02h8t9T3CozXFFdNhYMOv8EDvkbViMmGu8v-q1KRkEhBcwJy4CiFpgzjSlwKcd6sFGhS-Ok4mZeBEcusw-Ak5v5MB7U1ZSg",
+          "width": 2048
+        },
+        {
+          "height": 3162,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100394323365846369240\">Barbara Callister</a>"
+          ],
+          "photo_reference": "CmRaAAAAFDQPLKtAXlY2JbaQWfj4_yEYzc_S3LAlGHEYrJnnW9kknAHhsftIiDJ4K2fYxNHDGRHC224WS7Q_XhepX61bNmasf2LBtd6fso85a6AVwBoGC4G1Wd4gV9Chzu_CcY6LEhAEVkZPGtZzOevC3IdqWX7gGhRmBQnlfK6fAvjBUSvjx0-tPDHJTA",
+          "width": 5059
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103131624294947681732\">Xin Peng</a>"
+          ],
+          "photo_reference": "CmRaAAAA3S6iHtmq5DB3VV1T9n9AZRDq3wVmz8MEvpNnJdph0pAo5z0hptOgrcw361PFe5U59qKT08VTY_K8pzmRqO9-jxAbpWc3VFBAMlT1DrSczRrgV44PF6TIINY-R5Vr8NhNEhDX30yk_39jeZ8uBA2pOZFCGhSsmBQ7fPOohB83C8vp5W-DHMLOrA",
+          "width": 4032
+        },
+        {
+          "height": 3266,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104272581626126970410\">\u05d0\u05d9\u05dc\u05df \u05e9\u05d9\u05e8\u05df</a>"
+          ],
+          "photo_reference": "CmRaAAAAzo8YEyFE_sUhpmOJqcZbr3l_8oOA-Obd6uxe-Ml_tzuPvD4A8cH-uMtkITIlk5BkqrQbbyIQty_UW5q7H4mr6ZVkwIf1K19TB2qS8Avy3yeJ_BSQC18xsH-7js0RSnanEhC-_leRO15YdwWXwt2rjON9GhS-bU1d6vQfm5rX-tLPFHmV3DczZA",
+          "width": 4897
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.museunacional.cat/",
+      "popularity": 0.5875920769325488,
+      "num_google_reviews": 17961,
+      "mood_params": [
+        0.003870044798735176,
+        0.04113177957579307,
+        0.04292374354764207,
+        0.1176359961451615,
+        0.07792925646435803,
+        0.1330538597300967,
+        0.1374440095908507,
+        0.022369324552858526,
+        0.10474914053689777,
+        0.026752122293065794,
+        0.06849632860623982,
+        0.015557274637702428
+      ],
+      "top_cats": [
+        "art",
+        "architecture",
+        "books",
+        "culture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.7824089952569127,
+        -0.7222900912961739,
+        1.2819677374283467,
+        1.9334475040531878,
+        -0.6794492226848498,
+        0.9213655450309798,
+        -0.7826101268654875,
+        0.8616486716032817,
+        -0.2982094425540688,
+        -0.8081780286039988,
+        -0.7662945538021808,
+        -0.5825176362548435,
+        -0.6735708836934061,
+        -0.6393871462084202,
+        -0.6269617539244673,
+        -0.45431813807181437,
+        0.12837865237551108,
+        -0.21958368168262918,
+        0.4503467552621178,
+        -0.3913056888760914,
+        -0.37218310795114107,
+        -0.7801833253040077,
+        0.2089883816786679,
+        -0.2639043021058999,
+        -0.41853020428932214,
+        0.02486675711177158,
+        -0.6459656395885729,
+        -0.3870070680593288,
+        -0.5114784108787614,
+        -0.8936357090586645
+      ],
+      "global_mood_params": [
+        -0.4780539938938625,
+        -0.28148625136948885,
+        -0.359383605828631,
+        -0.1292579462227711,
+        0.43000042860501747,
+        -0.2600801758445692,
+        0.45687133146754266,
+        -0.28801049940723766,
+        -0.22569470277135747,
+        -0.6594296050510131,
+        -0.5354254633952258,
+        -0.670298317765894
+      ]
+    },
+    {
+      "name": "Poble Espanyol",
+      "orig_name": "Poble Espanyol",
+      "place_id": "ChIJJ2JbaneipBIRpVQ6RTJSwLA",
+      "cat_params": [
+        0.11807431359245182,
+        0.07375009429282381,
+        0.24194840937716786,
+        0.26388918887526003,
+        0.22263519224109868,
+        0.1073617966675355,
+        0.38360058589694596,
+        0.21428921058563188,
+        0.16205147031048758,
+        0.29899736719307457,
+        0.12217337465459069,
+        0.23854605391283878,
+        0.2598489658288511,
+        0.1379333669922208,
+        0.23164303899333186,
+        0.14507108609986946,
+        0.4603304445289157,
+        0.2578886097409443,
+        0.14904510773542565,
+        0.12601587578181644,
+        0.477957852014068,
+        0.28076647873948446,
+        0.25585101371455515,
+        0.1511283937705857,
+        0.010041877326975306,
+        0.4592985372875157,
+        0.24415035989637185,
+        0.35360309450087835,
+        0.2450290896253431,
+        0.25001084746298674
+      ],
+      "noncat_params": [],
+      "quote": "Open-air museum, built in 1929, with 117 buildings showcasing Spain's typical regional architecture.",
+      "phone": "935 08 63 00",
+      "int_phone": "+34 935 08 63 00",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.3688085,
+        "lng": 2.1482732
+      },
+      "address": "Av. Francesc Ferrer i Gu\u00e0rdia, 13, 08038 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106882030720553051201\">Carlos Albal\u00e1</a>"
+          ],
+          "photo_reference": "CmRZAAAACwpWXJbCtcGixWVTQdmPLWmM7eGDK6owmdC8RnUyKUZ1_EDyLd_daSR2vtig9ule30oGb2Y-hammUoKjzsS2VDBWxtLBUDQ0WSfK1jkOH2ZCF8v3nWPwnkN7KAMf8riyEhCchlyIS5Fn7v2Pe8fr57HaGhTL7-FZKFs6-zL8o8dmkSp0q12eBw",
+          "width": 700
+        },
+        {
+          "height": 615,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107512247643461505844\">Eduardo Bonilla Serrano</a>"
+          ],
+          "photo_reference": "CmRaAAAAR89wwlkpRxBj9cwDDvFpdbuipO7qqMLbNB3T2GMud9rFo5oMTWnoTfQR6vXXmD3SsCEsZ2a7T0lsS8RPDyxrPKf-xuSzfHjslF-02BB4kl1HafHyEOWSFLJDbfcTAL3NEhC2J3mAiiEG31kugJeTOcjAGhS_C-uVomvBM6KCA9iwX5XNkwtKVA",
+          "width": 1024
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108104552471645936407\">Francesco Evangelista</a>"
+          ],
+          "photo_reference": "CmRaAAAAF1blW68zTNUdRXLQpbuGLiqOuXcAD1fh_EYmmyjpSWmns9yCbAkOnCp6gpBEX8_L_pJbY3sy3XsRF7xQzKruTWXyVxp_qQhrx0hugwi1tZgRUFem0ctuVN0EgO8nhg7cEhATM8iqYZ3CEbDgDgXp34K8GhTdcSxqY-W3FFeNNC_EGiFd4PakDA",
+          "width": 3648
+        },
+        {
+          "height": 3230,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116815087556649009131\">Dorota Rajska</a>"
+          ],
+          "photo_reference": "CmRaAAAA4k2DmN_Zj8jzal6eEBEuqMJiqlYTQC_nZfMScWnFSO1akKu3k_H4t6hb-5wWiZCPAgMX-xYc9VNwe_F1Zh7X3o5uFx9d5X5RCz59yhp-_U4Oix2bu8DrIwvC_1hOkwXNEhATSgJoX-Io0836qjEmy3DBGhQoqZbvTwqW2Kar5zIi1thAqH7tTA",
+          "width": 2584
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115319516133926260269\">\u042f\u0440\u043e\u0441\u043b\u0430\u0432 \u0418\u0432\u0430\u0449\u0435\u043d\u043a\u043e</a>"
+          ],
+          "photo_reference": "CmRaAAAAAgbKQcNfb4rcgGmVTNfeFotUZZRy3_T6bRU6Yc9N_GdhAr9lp4krX4o5QfflSwYt_5JpDrPHrmCoN6kZyl9GMOPwJAh8_bqYH1TC-QXDtSgGFEC6rQOWshz3J4zt-McBEhDXXtMI1gLn5HSy3QqMUTjDGhTquXe2arVgvkJ8Y1eT8otP_qizxg",
+          "width": 4160
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105272886012170893521\">Andrey Shevchenko</a>"
+          ],
+          "photo_reference": "CmRaAAAAEcwIpu2pGSRrR_92TnsQ3viBjBs9gSuu5suzt1v73AhV7aAge17LvLdDIAIjAHUqkN0Jxa7usTOV8wJZjQzBF_U34GdeVVwudiLPEKft3KivkJYig4runWTmPtJjRwIFEhAzZ2WxdPafx5gLDL155cNAGhQk7JKfWlrfCM9XFWIdoZjpEhE8sw",
+          "width": 6000
+        },
+        {
+          "height": 3742,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116219339347041831869\">Poble Espanyol</a>"
+          ],
+          "photo_reference": "CmRaAAAAr50bk4L-td-BlnxDtZDjZtEdYx3fpyrt3lJ8gbZ7sp9VMesNsiPPWa9e4VzXEvtpTGMW1gOI8G_-q-y_OuD6eNph3cXRwqqgm5v8HgcANX6l3H3EOoTlfT9lnzBjrE-YEhDZjTZueFEZPURH2LH6M1kxGhTNOXvNwaRudcVIyz-GKl-ITWP3Lg",
+          "width": 6652
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115374402610961764081\">Robert Konopka</a>"
+          ],
+          "photo_reference": "CmRaAAAAXl-YmotLJOXWcvt3vfTYIyFCEQOmhJ21WhwwaxEx4kiFJg8aGBqnLOqnVM1hDvlLCV5O3UuHU7IUezR-Y1yb4ZZG_Hce8jWnlNtPNcY5uCDqrn4_RXou54Qqyo2y_f2LEhB8zXpUTN3DELyztQccagLmGhSoOavpRJO0rNmsHUgZMsB1Sqng2A",
+          "width": 4032
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116627131881419157163\">jean marie Wenzler</a>"
+          ],
+          "photo_reference": "CmRaAAAAxJa8X6SaKZ5RVwf41JBQJNEQdQ3yiN0WBwTUbt5F95fhMHWv-fV38EZOYZsNIAaLEB1Hb9rKYV5I_5Zv5ToPmPkqCphJoGCAiTHLHmzq6JPkLTugR8JDZJ311q7WHzCYEhCzEwBN_Ap4ggLmgLSILouoGhQzT7-IuvtPoc7wxYIX8AxxzRDLAw",
+          "width": 2048
+        },
+        {
+          "height": 3864,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108805267099886358491\">Jose Roibas</a>"
+          ],
+          "photo_reference": "CmRaAAAAgVpy-QwbH1-ZjPwsJKnsQFZPaqBr6Kmp1AhRYNEtF4hOpt0jMMneUhR4qekS6JVKyFKFNDS48eenROIAeVkU8pNMBPnguCfZAWg2V__v9MaqqUj_4iu6nlOPbWxSFjwnEhCZ2wk92YJnCKcQxTtfZC0KGhTDebnccLiaET88Dd8QvX0TVHr1AA",
+          "width": 5152
+        }
+      ],
+      "rating": 4.2,
+      "website": "https://www.poble-espanyol.com/",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.005863088900828908,
+        0.047873608764500454,
+        0.04044682731639207,
+        0.11207873105124959,
+        0.038593149083687064,
+        0.11511371357733886,
+        0.09017174445372082,
+        0.023611668995441808,
+        0.08749834011938795,
+        0.05163247121550278,
+        0.08962624508590429,
+        0.029708689623371153
+      ],
+      "top_cats": [
+        "food",
+        "shopping",
+        "fashion",
+        "nightlife"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.5234734162758196,
+        -0.46038803018075336,
+        0.17000992188219244,
+        0.23308349758363098,
+        -0.507192122807675,
+        -0.5038380559830344,
+        -0.15631185101812692,
+        0.03498080630778522,
+        -0.6595503581762377,
+        -0.23772907867308787,
+        0.7367494792779007,
+        0.9273847111101013,
+        0.06837010862651016,
+        -0.49818502075401755,
+        -0.6360527591878649,
+        -0.2964005311739128,
+        -0.04782774719934978,
+        -0.37688683943230955,
+        -0.21380324900438272,
+        -0.19201829537243453,
+        -0.2907616475183106,
+        0.2490500576073731,
+        -0.013434014992780192,
+        -0.15938453982428188,
+        -0.5042862435491562,
+        0.7769971908195498,
+        -0.43134507788146415,
+        -0.43415632075934485,
+        -0.32703203302254064,
+        -0.5481652494719809
+      ],
+      "global_mood_params": [
+        -0.3439582627528982,
+        -0.079507682280161,
+        -0.40397955960912973,
+        -0.21493128026630023,
+        -0.4333187646595922,
+        -0.48567781867379395,
+        -0.4377375152142228,
+        -0.23847110733715773,
+        -0.45390010346096404,
+        0.3074997859250264,
+        -0.04647491011200399,
+        0.19481833958461048
+      ]
+    },
+    {
+      "name": "Camp Nou",
+      "orig_name": "Camp Nou",
+      "place_id": "ChIJr3spdvWYpBIRuQQb_jBT9kQ",
+      "cat_params": [
+        0.12697376024245924,
+        0.07299268841300907,
+        0.13360082242692276,
+        0.14046804291238893,
+        0.15030901324649817,
+        0.08257091003879814,
+        0.3561617422770411,
+        0.14471599201277158,
+        0.1333186964201091,
+        0.25742594965977367,
+        0.07190382051098283,
+        0.07942628605253617,
+        0.20931615731976283,
+        0.14952901141761685,
+        0.2919056553485291,
+        0.15608091955408146,
+        0.37339643182623744,
+        0.18633714591984266,
+        0.2200269857052208,
+        0.14930243399518278,
+        0.3376141953867264,
+        0.26216385315724355,
+        0.2741288472021716,
+        0.09391703481116595,
+        0.018877778078470363,
+        0.2902519481117119,
+        0.4939242115120967,
+        0.32048482526331934,
+        0.1648643872712172,
+        0.15456960722175597
+      ],
+      "noncat_params": [],
+      "quote": "Home ground for famous Barcelona football club, with regular matches plus stadium tours and museum.",
+      "phone": "902 18 99 00",
+      "int_phone": "+34 902 18 99 00",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.380896,
+        "lng": 2.1228198
+      },
+      "address": "C. d'Ar\u00edstides Maillol, 12, 08028 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105746390372928223180\">Levent Turkmen</a>"
+          ],
+          "photo_reference": "CmRaAAAAz_1QfLS4_cGZu8YiuR58QvAeGKu9kJLs8fj_CXdyFIuA5iSpOV8o4wGPSZl4ZGTS--3-RzDMhFsy5r4h2F_sStaLYX4jA6L3qMFgURusO7sBJwbOxUuuMt4jfm2_gtkcEhATBzlow62pTROFdzmW6WDlGhQ30b02C7z6RcOXAdCb8oyqWasFiQ",
+          "width": 3840
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100179976205799405385\">Abdellah Mezoura</a>"
+          ],
+          "photo_reference": "CmRaAAAA4Bag5hQvs9GLhn6mxkd5iPUlVzFsKUNAU686MOCP9bfQdpAIDZXlJmtFOnY6cesuxkvQ6G4ixll8xBa5bD-0MC5Z0tgXbXtc4E5g7_8gk3cY5s62NUPgbmrDsepFSxlfEhCWrZe25XrFkFn2UXUZjvGbGhRGdEgfYfzXFR2yHMrWH9pf0WkdwA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101043667227566344556\">Giorgio Morandi</a>"
+          ],
+          "photo_reference": "CmRaAAAAlmbcRQlzbAjkgG_h4TajrhAl9mA9T3T_3cJkeQ-vDo-su3uD4YThOsdluvOLPAnK3OuIAz5JG6ppsGU8gq535B96JqNMVgx0ufqVm5NO1gd8OPl7WH8YoY1pUmvT-HYcEhD0qRq-DKatd_78-7Lnu8VkGhSY6ObsNZJwkToK1vUJw_pTvYRBWw",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107555768463182450915\">Gino De Wolf</a>"
+          ],
+          "photo_reference": "CmRZAAAAmruOILDSDy-Lkfk070UKQrdEMx07YcSt-B7pzrhb0Is5bSMOTlHg5-YoSHFOKwmOF3MNf1-YO4FINLOER1bBB5vevI5GDW_ExzAmllJgGDHQQAsQBlyZfqJe7vwgCdg4EhAZ2SFUGcvK_L5Tu2fH5zlxGhSYY4snjlVCV6L8TIUAZAY6L7fIOg",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111156541461547817537\">Neal Shepherd</a>"
+          ],
+          "photo_reference": "CmRaAAAAmqEXeB9_t4CYu2Y3GEX2qf_htiYMIc4hp2jNzzXLRatNd_swOSYMQcqecfkL0apIcqjZOPXvDwJsKs08Mb93Ts7oN_P5vhI6SBGiy7jf0TgRK8_d_PR9tF_AYfxGQlhgEhBHF3-pR6OvkOizU8RIbnS_GhQ3KHYUNR-VmlH1ynGpshIQCoa2dQ",
+          "width": 4032
+        },
+        {
+          "height": 2593,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107457910239397540965\">Quint K\u00e9kessy</a>"
+          ],
+          "photo_reference": "CmRaAAAA1KMGBIJLIir71c_UFpF6aBVgRG0MZXRTPSeJoHUtfohhOXU8pY42ZJXcKLbvIX3xwAjkcSGsPhVIWjLcRGsv2rFAGuT6rL8Liiz7CNx-puijEQvdN1ZXe3ia-hlOchMjEhDOYHYjh5E8NPMGYW2fibj4GhQyv0yV4a5KHalNZxqlYlf85qbBvg",
+          "width": 5224
+        },
+        {
+          "height": 686,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111321202651560858451\">vergunst a.j.</a>"
+          ],
+          "photo_reference": "CmRaAAAArMZsvm9z26aoNJxBypZVLqiqxp5fCIcaVKs-CljMpOgRTSccAc-wB1nwQvMWMbM75qr7nOsMc_HxNLu3FxQOZHlvxIDAOtpN3nRq1QpGhm4cq-TaYI1XqIxkj5heAvVGEhCI3lrE5h30FAV2UVeslUuCGhRw32OLp1lVuxE8mhfaG_qROkvU8A",
+          "width": 1079
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107555768463182450915\">Gino De Wolf</a>"
+          ],
+          "photo_reference": "CmRZAAAA67rskQbO5IMT1jiPWSkJVks2zCcEl5wYcIJAytzGoKnNDOO9c9mM5qdG5vmhbI-o2CYSppVrEYl4XnWmVatST9J2YRhuOkxfnnOY4Hh4I4Wu2YJQP9ujdqXE7KX7mHtCEhCgECSe040bM-B-Re3NrXkbGhQHO6vCFGvRu0RzGkbh_f40M-XX-Q",
+          "width": 6000
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105437909069891836718\">Adolfo Leonardi</a>"
+          ],
+          "photo_reference": "CmRaAAAAlvArfqKTNv-HOPlzetGmqZ7k3qYmMbSZOOJl9aviAFsX-rer-x2pPWdrtQMGlh-s4JpqEfM0aF6a8Sc9M7mE4y-IDijNCDwoBN6c3SCinLy3mMsQcJdoEUL5Uf69FfTUEhAUIOAfuwIIfNmkkxzokdphGhR_To7pNOh4zkC7CzKxQ89ihrBrjw",
+          "width": 4608
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104703191248518337412\">Gabriel Guill\u00e9n</a>"
+          ],
+          "photo_reference": "CmRaAAAAjBCC2n0rAWnTUh2pjsl7fQ8ViVMAdkt0gFzzAHqAb_6KxrNlpPz584KMoZnP_Gp5FhBy3vjeXJkNlDF418PInTB57yDCHWWRR8SydoYMFTiEigS-Yy6Rj9rtaPf4xtqZEhAYa5nn0W--hwOaZzPHUGAKGhQyntNaTGa6XpB6akBH8S2vEdwZxg",
+          "width": 3968
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.fcbarcelona.com/club/facilities/new-camp-nou",
+      "popularity": 0.9344199940744168,
+      "num_google_reviews": 114867,
+      "mood_params": [
+        0.006654512791815911,
+        0.04615892376347408,
+        0.02458314353701978,
+        0.09915062429679698,
+        0.046674031136149464,
+        0.13926498609094679,
+        0.13567903407206394,
+        0.016193618664764795,
+        0.06801243637225919,
+        0.053441750715813245,
+        0.07634320986267099,
+        0.03554281276139066
+      ],
+      "top_cats": [
+        "sport",
+        "music",
+        "movies",
+        "original"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.415492607453224,
+        -0.4694441176910461,
+        -0.8943305557799738,
+        -0.6489112700370048,
+        -0.9533249600614003,
+        -0.8345650715994483,
+        -0.448311491847025,
+        -0.7376860815649602,
+        -1.0847674642166703,
+        -0.6797429515976497,
+        -0.2971185013623667,
+        -0.5838057092090623,
+        -0.47769706006976315,
+        -0.41297989901406934,
+        0.019243578755215193,
+        -0.16745460359655712,
+        -0.5195353644488615,
+        -1.1252880432147534,
+        0.6922506836851183,
+        0.2719867603628205,
+        -0.9752188130154172,
+        0.06731606700120536,
+        0.19264539870736794,
+        -0.6930768756467909,
+        -0.2498801666104026,
+        -0.4768937947282645,
+        1.9090144356351166,
+        -0.6493054632458248,
+        -0.8109405523651093,
+        -1.2044319528929859
+      ],
+      "global_mood_params": [
+        -0.2907097846119273,
+        -0.13087795780217285,
+        -0.6895992748371694,
+        -0.4142368721010345,
+        -0.2559656649518573,
+        -0.1819751562761061,
+        0.4234698706172314,
+        -0.5342712824986126,
+        -0.7116729815182089,
+        0.3778141344413765,
+        -0.35384703947801555,
+        0.5514750493797805
+      ]
+    },
+    {
+      "name": "Palau de la M\u00fasica Catalana",
+      "orig_name": "Palau de la M\u00fasica Catalana",
+      "place_id": "ChIJQQSrd_qipBIRQ2xzarVkqn8",
+      "cat_params": [
+        0.13754543047326154,
+        0.06171370858349605,
+        0.26931890862678554,
+        0.2912574642677252,
+        0.16291761384359174,
+        0.12026580421051566,
+        0.27230862349780693,
+        0.14770935506496316,
+        0.15903145711807978,
+        0.22497684461517453,
+        0.057171573969573126,
+        0.09182913109027664,
+        0.1873192778370546,
+        0.14470946850435523,
+        0.22084987792597452,
+        0.17023660053046302,
+        0.45803789498295766,
+        0.21416738091854276,
+        0.4530133322955153,
+        0.1651191224128088,
+        0.3913029263378877,
+        0.30211684151557505,
+        0.2571730934878496,
+        0.11796053168321222,
+        0.011095543698534995,
+        0.2727052012678472,
+        0.26515702968096744,
+        0.32757801937524256,
+        0.2042345193143691,
+        0.17128295399247975
+      ],
+      "noncat_params": [],
+      "quote": "Art nouveau concert hall known for its ornate facade & opulent auditorium with stained-glass dome.",
+      "phone": "932 95 72 00",
+      "int_phone": "+34 932 95 72 00",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.3875752,
+        "lng": 2.1753128
+      },
+      "address": "C/ Palau de la M\u00fasica, 4-6, 08003 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111342202340399921243\">Javier Ocampos</a>"
+          ],
+          "photo_reference": "CmRaAAAAao4rJo39nXypReDZsRpl0EvYNxFHuL5wrteW95GHh6Q6j7D9lV4HrX-sopYLf7n3IbbSRDgNsvzirs2M1QYjUKG0zxLT6glEf9_wvgWcL4Z-H_QTBfnfgnps3Mb1fuPxEhD0L2DaXKTZD_fEUffLVZzuGhTgovLTFKRKXhkv7ucVvMmG7me79Q",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101594030597123309127\">Mark O</a>"
+          ],
+          "photo_reference": "CmRZAAAAKd27NNT69T5djOjE10t8sKtyp_Yt3H1NkuFLe-fErOxTcGIEqZZb2vq1b9Tgg57IzTRZn_bq3tz9wnupFzBn8SoC-xJZuxTrGt3XpmfWH3ta2TCx40A2ArpZyEQP2ZXPEhBgaxC50mJeXYGe_oB_VpjRGhS6JCbmGM3-qAFC8jxHi1yvmHVZpQ",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107983530247336964355\">Sylvia Schmid</a>"
+          ],
+          "photo_reference": "CmRaAAAAVGvIdgQ9p-Tkk5soxDZhfj63970UcN92EdKBoVcgwE4JmKdFh6iQtgUkpeI-g5vgcWDxQJdW7LY5Ss3JvzbfmbFD_W8WkV0zm1Xb4G5oWi4fy4siTEgNayOSJWqdxj43EhD4ZM5Uwl8K0wd9KSvY9QMiGhTnug45rac0CpYBPvDGvq3UjJY12g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103324771716904155044\">Manuela Ruiz Romero</a>"
+          ],
+          "photo_reference": "CmRaAAAA_88ECoHoZBm1-Xp4P_ZgRmHGodYd3jJBnViQtct07Ovx1wllKuYsDYegpgD_HBiYmkgxmcvYKeA_QCmagGOOrWAvK0hadB6x_0cgq2ehESmv50QMcKNTvhJpDAGL3fzXEhCy3U-YnITJDwIoDZDQdMHUGhSE7IzvVXhHuFSSoT3Lbkk-mGaF6A",
+          "width": 3218
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116282512492494619076\">\uc815\uc21c\uc6b0</a>"
+          ],
+          "photo_reference": "CmRaAAAANKZxJl1vXMYTeqqL8rm_R43SQgxGpXX8UZcqBnJwYzwwydh537DDIMPhc4JZquDAOGSB4RR7IgSO6PSYHOdL663UVvHAyEbYYeRXQA9V00mG8OxyI9uuyX6BC_PT-dKDEhBNsJKwkHl7sHDugGPlJ5U4GhQHBtWsjqMWOMUsWB5Nhppk1IJ9nw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111869132729777114778\">Anne Seldon</a>"
+          ],
+          "photo_reference": "CmRaAAAAaDl8R4dTiJPsx44fiN6wT-CuC59DvOIDyC4fE09aYt1o7-cc63eFLf2Jc5cB7NQSMXd0ogK_x38OwHi5oiuV10BhZNIlIWPXBtlsK1RNA0mesVQaA1znQzwuvPPgHPfKEhAq_UgVI8uAVyGpontVpIVtGhT_a1o2L6xV2NmGv4uEys_cnqwGIw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105972819525311571346\">Kelvin Y.</a>"
+          ],
+          "photo_reference": "CmRaAAAApyCRIboWZjjKKKuJsOJVoS6a1bu4IgoYRBo0K8ZLaUAF6GhT2CcEVmjnalhmidB0Fz00Llxv44rMEzcBW7btZPzYdTEqW48ruo3Z6vlYLiFH1uEEmVWE857Y9lBVP2_QEhC5OH5BI1FtRQoAahapOHYDGhTF5cBGIsLbgjoFFBc65pdBtWlNUw",
+          "width": 4032
+        },
+        {
+          "height": 1447,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101659532197625050073\">Manel Mu\u00f1oz</a>"
+          ],
+          "photo_reference": "CmRaAAAAG5UxtQCh86KOWndt3SzNntlt-vR6PEPAixzjAQL8ARNCUBNx5BS74R27AWsgX18B35x5l9uWuPmgnj2WXmyVQpQlta2-ahm5pbEZg2nhDAYqDHiaEXnHWns3BQ3dp6QWEhBDqsdql7hCf6m4UC2TR_ZCGhSVvT2CAWECR0n_llV7vSbS_vDZww",
+          "width": 1063
+        },
+        {
+          "height": 3824,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116834398685936786272\">Roger Maynou</a>"
+          ],
+          "photo_reference": "CmRaAAAA87Y8iceK3ldPKeWXFfD0sXuSOvY6a2ZWqv3cxbcrVsX3AdCsPHrwL3yKOI54miUiwBC1XKdFZDBIaLekQS2vC-S0ZOEVlq7XNPSWA8SKBUBVde_qo3ors-SNESKZ49NeEhDijTcKk4JSSDEmeHWb6DRXGhQdyw81eEeC6zZ27LK9_NzXZ6Bg_A",
+          "width": 5584
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105160800549346787113\">Steph Tau</a>"
+          ],
+          "photo_reference": "CmRaAAAAPZLoMjHvLgofq5Mm2s-_5wi5F_K_TGqD3BVQJ9cu61BcChBVNjfaJ9fUsJd8ycqWXuvJtL4zysocFDNgDvbva2vt657yfjhy7Qg4eEHhZFt9MLOXRLVdqeyVVBpvt8KhEhBRRGxjX8fwTMGkhcsHE_FFGhTS1o422aEPLS65R8YICMQOOf86BQ",
+          "width": 1080
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.palaumusica.cat/",
+      "popularity": 0.6478411532994006,
+      "num_google_reviews": 26540,
+      "mood_params": [
+        0.006488891607116689,
+        0.05176454305943808,
+        0.06886018223324113,
+        0.16106528046391075,
+        0.12057508463507265,
+        0.16625747815645212,
+        0.15049344747122434,
+        0.030961843534071564,
+        0.14941525645457668,
+        0.03909862036734434,
+        0.0690119550489797,
+        0.013641670345041837
+      ],
+      "top_cats": [
+        "music",
+        "movies",
+        "nightlife",
+        "architecture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.28722199164737094,
+        -0.6043036838563912,
+        0.4388809790527383,
+        0.42866323804574386,
+        -0.8755507594002495,
+        -0.3316899610764794,
+        -1.340662529124602,
+        -0.704442362771241,
+        -0.7042436159444893,
+        -1.0247625695168545,
+        -0.600109014040279,
+        -0.46601355266072103,
+        -0.7153995360189345,
+        -0.44839403604607264,
+        -0.7534177086381407,
+        -0.001664864670911315,
+        -0.06026721766816201,
+        -0.834194328812884,
+        3.666223782578385,
+        0.5871481218453932,
+        -0.7133784314187934,
+        0.4576274227236428,
+        0.0014722059622328137,
+        -0.4687887230775567,
+        -0.4739487448006065,
+        -0.6070455345562142,
+        -0.23451438820095774,
+        -0.6032253187876807,
+        -0.5732855527973038,
+        -1.0895087502959537
+      ],
+      "global_mood_params": [
+        -0.3018530873774526,
+        0.0370608808374658,
+        0.10759230811658752,
+        0.5402677143018164,
+        1.3659588755390342,
+        0.15745589028359305,
+        0.703826761636616,
+        0.05462247103918627,
+        0.36517926443866466,
+        -0.17960547152034567,
+        -0.5234937629217402,
+        -0.7874047120134723
+      ]
+    },
+    {
+      "name": "Basilica of Santa Maria del Mar",
+      "orig_name": "Basilica of Santa Maria del Mar",
+      "place_id": "ChIJV6QNXv6ipBIRYOHAH1yUvLQ",
+      "cat_params": [
+        0.07552805585204667,
+        0.0665744242690048,
+        0.22922918055377947,
+        0.22146435343177398,
+        0.2085010203363774,
+        0.10273519981138851,
+        0.30180138913711807,
+        0.16366865939762512,
+        0.155511400381079,
+        0.23792708679812194,
+        0.07035605437215976,
+        0.06815390707936597,
+        0.19405468557391087,
+        0.15154641878446137,
+        0.25893816649687623,
+        0.1595610636291892,
+        0.4705786317191822,
+        0.20175858025586924,
+        0.13720908177953584,
+        0.10704683215948933,
+        0.39526923085041465,
+        0.19206526435291307,
+        0.241364294825202,
+        0.29465484691383753,
+        0.018385228081061154,
+        0.28644259070213646,
+        0.19084676708695447,
+        0.3603968255861685,
+        0.24318204341409463,
+        0.21229460169973804
+      ],
+      "noncat_params": [],
+      "quote": "14th-century, Gothic-style church with soaring columns & 3 naves, plus grand stained-glass windows.",
+      "phone": "933 10 23 90",
+      "int_phone": "+34 933 10 23 90",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 41.3838871,
+        "lng": 2.1820711
+      },
+      "address": "Pla\u00e7a de Santa Maria, 1, 08003 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117229344609863842980\">Tomas Toleikis</a>"
+          ],
+          "photo_reference": "CmRaAAAAlt0pHdP9JBlJz87NVjjWIXKetAEtfbLoKvEzItVyMB0IR3NWK2ESHpLunUuIxRuXz4GLr6TeqvEFNwuNyxCzy4GZhowYX3CUPXOESgyRvUBIXgQB3bexXr_58j6YdCoeEhB6J2UtXT_wF1ihIbn2hZg6GhSsFic8SgW6p6b1c6hoNk9HF6F7Ww",
+          "width": 6000
+        },
+        {
+          "height": 3911,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102888276412420232045\">luis vidilla</a>"
+          ],
+          "photo_reference": "CmRaAAAAH_RoWBgFzbWxZ6UWsa_IIxzRtFqKIzmEKzQG2rKKVCJ6WfySu9evsmJ_9Pv3uXz1g3SaaU6oq5gmRsm2QvPcCG6dcRqXa7aymG2pn7rEurGpIhhdhanp6NE3arERMrnKEhBHpjEHxFVrsz01UzHGPrh9GhTrZm_Rznsx1UGr2JrEFsVEYPyEhA",
+          "width": 5817
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103302169501202195023\">legna ollidav</a>"
+          ],
+          "photo_reference": "CmRaAAAACByBXuMJDl7lHl3YHAM_NWUvHuLjzU_AZ6Vw82QZ4T-tzFuwOSmIjJn64sVFoWPo2upqYoTvMWqTxb5-FN-p5RIrRN_S_AHicRK41w4i7kZxRUbBuHGHfpoaG-GclYFtEhBGmkO5VenMdQoP0IOrpcWTGhQ4GyAwpXJBNFfKGESdKUSy1M2Evw",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109183909786561724511\">\u00d3scar Varela Ande</a>"
+          ],
+          "photo_reference": "CmRaAAAA-3OGZOJOa9ICmROh8HfcuMMvNt0-WIBkmzJHypduOjcoygCGTkk22BPXkNFneRMyVVg4f8vG8D9zU9xWXJDXtRRWAJ7-Px4kHxKQ4u_oQnEAK03m5pkWKM97qVNeeV62EhDe7StDWH_9X7bWs5Ck_k0nGhQOiPSL6gNj-_0X8ChJDiw44OoILQ",
+          "width": 4032
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118152824200514481352\">Mais Pay\u00e1</a>"
+          ],
+          "photo_reference": "CmRaAAAA_3Bl6aqQ8zU10AGZDi9aWA0Q6Cv1lK6kR1H2a2rvEAK1tZn9PjHn2Eij-yzsniLWlmILeO-uVlFLuXP16t2M5HZ0BNeTFzFtXi-cAWQUESMM85T8IBd9BaCz1D8Ag64eEhDkm3Z_i63QwLUvKkzHaoJ6GhS6iOpS3agVYNXA-D1LOy_YDPPOQw",
+          "width": 3096
+        },
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102888276412420232045\">luis vidilla</a>"
+          ],
+          "photo_reference": "CmRaAAAAfDNWMId6Hh04hZWzi58ZluAP_OiUKGZwJ7JMyPNOqnP_RI2wvUFbaWd9Sva17a9VlkhdlGTVOKVuopH1M9oDT1wlRv0I_0s1_Iw05xYWE7z_NO2TLuNzDV4OQxhWIR5ZEhDlNb1D9EcGZmfE9r1C_6-qGhTK5ijnkRbtYfGTjiAagw4QMb1gAw",
+          "width": 6720
+        },
+        {
+          "height": 1504,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106549831636996832488\">Eduardo Trotta</a>"
+          ],
+          "photo_reference": "CmRaAAAAjjgDLntPaWz8p18N3xRtaFwehz_fNtesQwVTDi7QXq7umuef4sAd04etoE35rsG_BD8HLLPfEb_pAjx9f5jmXsUZyrj-D7Ju7JDUfr0VzJgnEkPMBaTBraa1pIm8Q9sTEhCGQKG2O8CtVTyVYirb1PkAGhRDwJ2Gz_d0lp6ZK4Pa3xO-6Z6gsg",
+          "width": 1232
+        },
+        {
+          "height": 4480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102888276412420232045\">luis vidilla</a>"
+          ],
+          "photo_reference": "CmRaAAAAn4MKQF1Ve9PU7EMGqyBTb75vdkgXKLKfXWoKmTu9DVuXvoKQ0uCdbrcdqXoYIk_Pm3Y2pGrSBHU-zcGo1ZHYEtMNrLJN6hDuVz5na9r_VkhaqTkVB5s4AvKRIK8rfe1FEhARjuIhvduvPb7c08Gz01FkGhTGItQrhXWWCBOmKI4ntJ_ia2ZPTQ",
+          "width": 5324
+        },
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108888009251990191517\">Giorgio Quattrone</a>"
+          ],
+          "photo_reference": "CmRaAAAADbQeyNe2lp41yEjCUvhGmW-HvPPby7S5XfLZh_n67-uNMOV01LkhjbvbzgN7dOYlDdoDSP6PxOESeDOV4tIbJJOZwo6za2T7NRI2vBIgFscHkoFtCbHzAGQd0zfdyX-gEhCV9rMPgerwa_-4fpOwAQdQGhRMImWJ00VmIhp9WPGH8XFycH5BuQ",
+          "width": 2048
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100873294229536788736\">JB JB</a>"
+          ],
+          "photo_reference": "CmRaAAAAomAeFGJwseCO3Y8hRt6vPV83IPuASDYZuPpjuoIWT2AC8hqdITymDEXGZfORmn-POX6RVEwQVYy5gClo6XUmTz-S9QU5rU1PfJcg9Zl2PRuwaP_xVkIiglpAfhMuH87SEhDPen6mqSJiSM6UzBwIHShdGhRnkewzOK4i7dF3_cynUfAnizHSnA",
+          "width": 3000
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.santamariadelmarbarcelona.org/home/",
+      "popularity": 0.6494401802688967,
+      "num_google_reviews": 26803,
+      "mood_params": [
+        0.003666302585337687,
+        0.0399257663941553,
+        0.10578347351090288,
+        0.17693175076705542,
+        0.11917880081943251,
+        0.18305700407176956,
+        0.1493578460109212,
+        0.027161509924111617,
+        0.16381519662637511,
+        0.0428368640018882,
+        0.07839913902601202,
+        0.030774136833847086
+      ],
+      "top_cats": [
+        "religion",
+        "architecture",
+        "instagram",
+        "art"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -1.0397054365194307,
+        -0.5461854835839203,
+        0.04506399126727013,
+        -0.07009374636756216,
+        -0.5943765738839021,
+        -0.5655599537759134,
+        -1.0268053894788758,
+        -0.5272013745824006,
+        -0.7563370317948406,
+        -0.8870673201785262,
+        -0.3289506088817024,
+        -0.6908616165141647,
+        -0.6426154351269645,
+        -0.39815593287773404,
+        -0.3392452493489812,
+        -0.12669554872675529,
+        0.007779348462744791,
+        -0.9639856825811411,
+        -0.3648851613385757,
+        -0.5699930936477003,
+        -0.6940347317505486,
+        -0.6174956668560544,
+        -0.17676926679816657,
+        1.1794923794370469,
+        -0.2640618234738376,
+        -0.505149430880905,
+        -0.9307951593417934,
+        -0.3900216044552012,
+        -0.3381815959972049,
+        -0.8075071881339515
+      ],
+      "global_mood_params": [
+        -0.49176215069837753,
+        -0.3176172196737702,
+        0.7723824089959814,
+        0.7848724591541403,
+        1.33531429229084,
+        0.3687102142379987,
+        0.6823359549290277,
+        -0.09691860746351526,
+        0.5556715336249768,
+        -0.03432544943794223,
+        -0.30627242161834894,
+        0.2599521887610928
+      ]
+    },
+    {
+      "name": "Arco de Triunfo de Barcelona",
+      "orig_name": "Arco de Triunfo de Barcelona",
+      "place_id": "ChIJoXZqNuOipBIRsZU39a8r_qk",
+      "cat_params": [
+        0.18722407525737264,
+        0.12502212327314244,
+        0.2089218915777702,
+        0.2051252278030555,
+        0.36971779359069623,
+        0.07301332971335271,
+        0.382304139896412,
+        0.14649685211071167,
+        0.1953765447721985,
+        0.27576293388061435,
+        0.0730047177106692,
+        0.10768054322164652,
+        0.25782577505936943,
+        0.26791879609933544,
+        0.23396011537130715,
+        0.1927182449576327,
+        0.5625564505368534,
+        0.2790487396589497,
+        0.14877582087760638,
+        0.13490921499773098,
+        0.6239854498368719,
+        0.2515260236673024,
+        0.2086329022562747,
+        0.13239646592596402,
+        0.006075321885905857,
+        0.3673569089472849,
+        0.2854950613354357,
+        0.4987087739155078,
+        0.401832419705768,
+        0.3613841130439015
+      ],
+      "noncat_params": [],
+      "quote": "Classical archway built as the main entrance to the Universal Exhibition hosted by the city in 1888.",
+      "phone": "932 85 38 34",
+      "int_phone": "+34 932 85 38 34",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 41.3910524,
+        "lng": 2.1806449
+      },
+      "address": "Passeig de Llu\u00eds Companys, 08003 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 684,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105991717387077633506\">LP SEO</a>"
+          ],
+          "photo_reference": "CmRaAAAACQHeWql2NdA5aH04dmeNBDQyOd9A5rYOnDOobGmuBjXss_rrsiyPUiSFTp-tQzrZKcmVvkBXhpOgael9LZ03oxAGNAXzKXSNwBKzfXKE2BBpvBHfQwWvtdRfkX40ETgWEhDyKPm2clHzVq0DCE6TbFWgGhT8iMRM3PCfJvJAuuXztmATOAXx1Q",
+          "width": 1024
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116130870614725995699\">Kyran Hill</a>"
+          ],
+          "photo_reference": "CmRaAAAAEko0Yg0rg5xjFSAHdApaviHYwb7zAbA99D-tBxEszBPK-z__3ME7BzcoosCA3HTkltyYlExBuIXXS_tOOu5xCgQr2jqQb2KVK2rs2VLUDwzYjb4I5R2rDgt44d-CKsoSEhCjAX7GElxvQCtRQZXJRmhzGhRw4UajE9KANWT8cT2E9tUPK9l4Xg",
+          "width": 3120
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117993487517901054946\">Purandhar Reddi</a>"
+          ],
+          "photo_reference": "CmRaAAAA12caQ0W7yFtV4So-uw3-6PVdvkImOHjKWR96vsW3MCi5pgmlZ8nmk_ef6viaUt6wy6jONFW1dr_V0vX19IS8jmvnSE0IlUR6ywgnH5NAyZdQOwQwcwWHH-BAdCwLyz8fEhAcn_wcbSEE_MV0-GyalAtTGhTRN3Rnv3jq3breLAdrRbbJv102Pw",
+          "width": 4608
+        },
+        {
+          "height": 668,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108007301777803609111\">\u03a3\u03a9\u03a4\u0397\u03a1\u0397\u03a3 \u039c\u0399\u039a\u0395\u039b\u0397\u03a3</a>"
+          ],
+          "photo_reference": "CmRaAAAA_lE1ePCZMVGyYgqsuEDxjjiQZvyQ05BDJnnow6EJdYaGkvr-aMBDUEVKBjAYLBj35vIa9s77gGith-EoHwWsYFwMMQFa1GXg5oYmrs0wk2IwiK-Rd8VX2IWcvXVK6BM4EhCRS1yeMu51ciMmDVd6CkEYGhQN-s9kBBPft6XBLub5E2zTf_beaQ",
+          "width": 1000
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103056464341182140792\">Obed Borrero</a>"
+          ],
+          "photo_reference": "CmRaAAAAXmetQIe-61Wt-__BC9m69HccLJAU7JgB65A6H-9dWmrxrvahjqyenDRBCVEuFLUfC-b09WEAnrHzXRkWWI5Cg1djKR9UJ0EGF_AxvFdRMKPzOT24bQoT3k8MN4ha_k7YEhDzgT9toLeXtVLoCJcdeeAFGhTxm_IZRpB7FtZCZPVMn-9PcR9NWA",
+          "width": 3840
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112750536370189710729\">Qaed Shaer</a>"
+          ],
+          "photo_reference": "CmRaAAAA8gl12yoDGlikoZALk5Fkw9A3jIR5EQN67DaWLQm6y4wGHpdWeILuQcwxb_UBDw7x9Xo3jJhAQFw9IyQjomJSzmHLUM5ZrudVzW0Xx2TTQt4u2k17Z_6b1FW1mv85ZfBWEhB3XQmxOxjMRilQsXLDu_VIGhSNImJp7A0zzNGC4979jwJ5OrSbXw",
+          "width": 1620
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104494271926250279307\">Gustavo Perez montiel</a>"
+          ],
+          "photo_reference": "CmRaAAAAFUsUsvSP3E61P2fXwXsEhtQiwGZXbLsj_dQHuo_7Kk55QyojSJI-v3tI_HAgslCAJYNcT63zwilNlHWdyDTiAUqckGQFBZ3KWRIBnHLoSWNKNaEcaOU89zG-LAioWACIEhAUIMgi2JFOVx-Gt9o3BFuAGhSNGEXmuOMJsTdi5LX4hn1TKTqIvw",
+          "width": 1620
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100952777240145122535\">Montserrat Oliv\u00e9 Armengol</a>"
+          ],
+          "photo_reference": "CmRaAAAAamXwtDdSC7iWEfaUhskICJkfUScxLhU2NqAK9OdROUHq2rwdt4uj4h59X_wngzUVHQwKs7qv-q5VJ4y1iLUUXNYpHJ8SqwjefZQgw4SUpQ2EuvdaRQ7jgG5K5PXcFvm7EhB51aBcbOspob018NukzmQCGhQgnz9cqAmTl1JOuSxgM2_j93TiVA",
+          "width": 3264
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100386398305168454451\">Victor Ortiz</a>"
+          ],
+          "photo_reference": "CmRaAAAA8vOytvMzp1Yd5sacO--ve4rMKmyWeCY0DunvvkGZFfVH5LGvK6cErHn1XSlQ7Iek7PfWWYaodxXTerLdIyylfCjuNJYuPgtkQB530ZSUIIwT0oRB-27mSwo_B4f07s8pEhAvsXeTRYCqhSD3Y-epVbVHGhSDPD1FB0QgObXVAJHW2elqBWJVcA",
+          "width": 3201
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110005313140767520741\">Alex Parvanoff</a>"
+          ],
+          "photo_reference": "CmRaAAAAXaS-CACvhnk2JHWbt7ejdhADKL4yoLsuD9PmidJcLvVobizFjKQ-8GkPryY0rEi7RixXu2izHT7oYaLAm2YvLnvpbKhASEOHL6wMHYbpPC39oaO-Q61AmFk8RvU4EqBvEhDzoj-uHN2Go08m58w4vtTOGhTDsDWqW-P9PboG_0wyRw-YDrt_Jg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.barcelonaturisme.com/wv3/ca/page/1211/.html",
+      "popularity": 0.7742923132092656,
+      "num_google_reviews": 54156,
+      "mood_params": [
+        0.005902546148894162,
+        0.04274790090470232,
+        0.08818474762299881,
+        0.14116246334029078,
+        0.07749553357421854,
+        0.15910534871091478,
+        0.11981523884780824,
+        0.016688177584789785,
+        0.17805541411705286,
+        0.039237376995776736,
+        0.0724593443767258,
+        0.018368670636076032
+      ],
+      "top_cats": [
+        "walking",
+        "views",
+        "instagram",
+        "hiking"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        0.31555034420277595,
+        0.15265709351119242,
+        -0.15442240485039133,
+        -0.18685674673997166,
+        0.40006413160683374,
+        -0.9620695882747243,
+        -0.1701084151792843,
+        -0.7179081891828347,
+        -0.16637167047787488,
+        -0.4847724190985433,
+        -0.2744769167268483,
+        -0.315469704567078,
+        0.04650712321526819,
+        0.45695157236489703,
+        -0.6108568457500528,
+        0.2616376190752578,
+        0.5068548702918937,
+        -0.15555989715726135,
+        -0.21724058292012627,
+        -0.014810726922738198,
+        0.42141614585034065,
+        -0.036607714942810524,
+        -0.5458100611988788,
+        -0.33412407595286464,
+        -0.618492574867647,
+        0.0950267379729097,
+        -0.043948780308720375,
+        0.5085065422072415,
+        0.6195001071706696,
+        0.2176521861279788
+      ],
+      "global_mood_params": [
+        -0.3413035053782058,
+        -0.23306884648557522,
+        0.45552390712546675,
+        0.23343680538815334,
+        0.4204814059932475,
+        0.0675177409294041,
+        0.1232538452501689,
+        -0.5145503843313308,
+        0.7440508818127148,
+        -0.17421294818225733,
+        -0.44372047461715264,
+        -0.498429602795366
+      ]
+    },
+    {
+      "name": "Montju\u00efc Castle",
+      "orig_name": "Montju\u00efc Castle",
+      "place_id": "ChIJN7FiCkGipBIR1PJn6ohejww",
+      "cat_params": [
+        0.12480663388941182,
+        0.055883736617259115,
+        0.1628472104514658,
+        0.18359551776748034,
+        0.2932524795801664,
+        0.10849096547354622,
+        0.3880512949934368,
+        0.12598749142157323,
+        0.2813797041521364,
+        0.24605243364854343,
+        0.044667228898909644,
+        0.08677385614671539,
+        0.18800016188545593,
+        0.20231696498271412,
+        0.28209496987444493,
+        0.13959090469238117,
+        0.5375736592633029,
+        0.42271367445168545,
+        0.12561976889094686,
+        0.1162790764940678,
+        0.46366065863991335,
+        0.21726903789984633,
+        0.24217953134065529,
+        0.11979052498269337,
+        0.028623930232038082,
+        0.3315520811744858,
+        0.2681054455262854,
+        0.5062024781486141,
+        0.27169791645243047,
+        0.31189356844973326
+      ],
+      "noncat_params": [],
+      "quote": "17th-century hilltop fortress & former prison, housing a military museum with impressive city views.",
+      "phone": "932 56 44 40",
+      "int_phone": "+34 932 56 44 40",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.362959,
+        "lng": 2.1650636
+      },
+      "address": "Ctra. de Montju\u00efc, 66, 08038 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113890015518763756117\">Katy Reynolds</a>"
+          ],
+          "photo_reference": "CmRaAAAAtfec70KUtxCg6RwqDL399YRMr5PUTgjSuGDN4FB5S9Xrontz4MXH4Yr5Z3WbQBPLT-bPBhJHsvefJUcRewAFa5aTwxTDBJS2hL_o3sFh3BNZ9tvZCfUo-prAOAHz0CcxEhBiIHtSWMildb1as_WKSa9cGhTLk6_4-NkR_ml5Y78ug1SkT4WGhw",
+          "width": 4618
+        },
+        {
+          "height": 2575,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104594302623749736772\">claudia giacomo</a>"
+          ],
+          "photo_reference": "CmRaAAAAT1pbuB2bSQg_DUmKrTnf3ec0VwJgupDypZuv2nyz8wFI8SuESA3Xarj6k4j_7id889ScNeO3svamCrzHUOw_A7oY_yYcsXAEa1LlFt2nOSmEhjd6ATK592HQhs71ToCeEhBvQT9NrIKZjlkih7nWWz7ZGhRutKunwh2zcy7jrqgmmk6qdPztpA",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112955740007928034221\">Muthukumar Thiruppathi</a>"
+          ],
+          "photo_reference": "CmRaAAAABonCeUwBr5K6-qC6xThJ3lOUdClFLtOCtwYl5U4AKERVlG3iDN7_ebiWJMTU6HtRDaM_7Rg41fnB9TCD4NY10DyJ_7VFNosMIJRuE-vkFkXUDKsfTkWUXaU60pXJnFFiEhBWVrKvyKKYiTeDbLj64QN-GhQJkfmWCbpGS6HnwMSWF7SOvAJ8Mw",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110863532366436975632\">Sumegi Zoltan</a>"
+          ],
+          "photo_reference": "CmRaAAAARCDAZOqmQU2HMsdw5cQ6IupwTbCwZtngv4Eu7VDAQQWJbJ0X2MhqbYGX5eoM6hdPlPfA2M6S8yY27ZPPsVuvyjm1ug858Ry3bu7e6q_CExcf0rFhPfNKnO9iOT8p1LS1EhCzMf9d8_Syv0mYKgujRtUUGhS30HenrfPGQ3xPNrO1y99tBe38BA",
+          "width": 6016
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102638468505262471232\">Jar Ko</a>"
+          ],
+          "photo_reference": "CmRaAAAAUnY4edB2SF9tXEiUgvdXb5NxmNs7JBvAqG71Q2Uhiszh-q41L_q0-DjEtv3yWldEQsvNNtsiCLQFYNj5SVIQEVEzd5-QnueQIugskIqvBVENPWJioCJW358eyjxQcF17EhAIxmQeArEdJbSyO0AzcIAbGhTG4TOk6wAKTUX_yae699aIwpBM2A",
+          "width": 3648
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107437505926223676411\">Mathieu Nicaudie</a>"
+          ],
+          "photo_reference": "CmRaAAAAgzhNUIbaage24lFMb79Zfzq2AVI97vx3OWne1Owx7yhNca98sJGO9v4VbLBQ7JQAyadsGz95kLkJcXZb70JgPj1tua6wFtzQKTz7hERr9qJAziSNpaPKhZIIQccy74ODEhCn0gYYq3lQu961Nq8q-D-9GhS6hH7xbmxtM7l2wektPhspSiVZkg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115872231402432010720\">James Hetzel</a>"
+          ],
+          "photo_reference": "CmRaAAAAFNe1XpbYy9BggNELx7NuYeyb_L9RNQuUApMaMrbDlgL6vutSesE7cfX6r0K7N2YXg4rGMdOI-_e7bBGE8C0zQxWF0Ofe5SpevvvSIycHHidatCUISgV5v_PkHvvXvYA4EhDdF8o-ffjZUTJ2hUi3zQt7GhT0CIwX5u8hpke6h5zRzngcSXHTpg",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108846724072237462633\">Basso Jeronimo</a>"
+          ],
+          "photo_reference": "CmRaAAAAKsSjmb0a-Tlx0gkvlBFx2tjhFaJzCfjFCSgo3BH41ctJJJZesnIsyvouOltCGPzP_xqUR-_KNCwUu7N8G7ss5SzcA2iz1rd7DQzqcsjS3UR4gYm-TpPZif1WHqF0l0QCEhAgzAJmgPcG4GeZuCVj5LjnGhQ_ZFtwGeA3gMn5p5wjF2VwaEGbcQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103657063968357669730\">Terence Doets</a>"
+          ],
+          "photo_reference": "CmRaAAAAUS1ExmIqKSk_yU4TwyI-Zo6Ce8ey5ritSeeZmsZWDAEK7vtL3BWLSvn_qih9ZMPceas0qIbbwHe2H_TD61-dJpdszB_44tUm5iArnWWkZZ8p3NjiZfO5QwlO2T1lI5hGEhAm_1rh0qE9tNdAwsCLP_n1GhQGrpUb9nRQBzbfEH997awfEa6k_A",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117339821374342920328\">MHar</a>"
+          ],
+          "photo_reference": "CmRaAAAAsVwQGRMEXoikI0dRrdxwsHyWPICZQ1awMCXh1epBIW1is7tj5d-phg576R-jJcCGAaTAZ91sJySS_j4vk1NYuKAdbkA7CD4_O_IFom-TdW5e2o8JntYg3RfVdxBxaWmsEhDewyVYFdGCe8uaecQ70Z63GhRgA9mBdlljTxbORYMtIDKaCBHwHA",
+          "width": 1080
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://ajuntament.barcelona.cat/castelldemontjuic/ca",
+      "popularity": 0.6949046249962464,
+      "num_google_reviews": 35134,
+      "mood_params": [
+        0.008381496350640706,
+        0.050334855340111,
+        0.04183095104920942,
+        0.13003351851874861,
+        0.06181437312688618,
+        0.15115140090341694,
+        0.1449815723204693,
+        0.025573083695732045,
+        0.11359306379623402,
+        0.039799449883529465,
+        0.08463486854336218,
+        0.013852462966025133
+      ],
+      "top_cats": [
+        "military",
+        "engineering",
+        "views",
+        "instagram"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.44178728234996345,
+        -0.6740110068596262,
+        -0.6070319137324152,
+        -0.3407128096668164,
+        -0.07160031915257178,
+        -0.4887741885654737,
+        -0.10894814008293009,
+        -0.9456812349179635,
+        1.1063914355624085,
+        -0.8006734408422443,
+        -0.8572794267816423,
+        -0.514024451429102,
+        -0.7080417731023116,
+        -0.025092529851037593,
+        -0.08743792053425707,
+        -0.36058379768921295,
+        0.3712971918008219,
+        1.3471208922817481,
+        -0.5128178847351508,
+        -0.38603254405610404,
+        -0.36048917697425487,
+        -0.3712733083632277,
+        -0.16757761597995607,
+        -0.4517177529712116,
+        0.030734159463576192,
+        -0.1705530113866877,
+        -0.20688798524181587,
+        0.5571885559995466,
+        -0.16604755826592704,
+        -0.12265140243848723
+      ],
+      "global_mood_params": [
+        -0.17451510394943975,
+        -0.005771156538674595,
+        -0.3790589275601149,
+        0.061867914731396155,
+        0.0763231328872481,
+        -0.03250328795626916,
+        0.5995167130834774,
+        -0.1602582635241725,
+        -0.1087012298762432,
+        -0.15236901035272077,
+        -0.161976375745796,
+        -0.7745183534518797
+      ]
+    },
+    {
+      "name": "Ciutadella Park",
+      "orig_name": "Ciutadella Park",
+      "place_id": "ChIJ4QmWQ_2ipBIRcD1a5hhhOEI",
+      "cat_params": [
+        0.23719090777477775,
+        0.20882088902100782,
+        0.14699324056570415,
+        0.18436805546693089,
+        0.47717666886373145,
+        0.08208587005582993,
+        0.36190434922518366,
+        0.14265245395869727,
+        0.1809695166989684,
+        0.29816145631342833,
+        0.0690395016843344,
+        0.1185816961067714,
+        0.28071068651099607,
+        0.32656467445082443,
+        0.20016730782491954,
+        0.21358528201143046,
+        0.5254581090277808,
+        0.31274239076509003,
+        0.13437975426107704,
+        0.12485595764945867,
+        0.76426541691032,
+        0.24457265525623922,
+        0.18616365687959818,
+        0.14595446656585842,
+        0.007358324125968245,
+        0.32572182011456097,
+        0.3459423085422526,
+        0.5248117509414922,
+        0.49671734038227655,
+        0.44961133807570286
+      ],
+      "noncat_params": [],
+      "quote": "Park created in late 1800s, with zoo, boating lake, ornate museums and lush walking trails.",
+      "phone": "638 23 71 15",
+      "int_phone": "+34 638 23 71 15",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 41.388123,
+        "lng": 2.1860152
+      },
+      "address": "Passeig de Picasso, 21, 08003 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100980133686792658803\">Eric Millioz</a>"
+          ],
+          "photo_reference": "CmRaAAAAwH1DXeErRLv8EhV35sKCtbDnHxh-1gydPhDgGQhV3A-hP0NpNUgnCXER6kkciVqy93Jrlwyb2G5dKojX9elVC9dMy84TVnsx6YKunV2WcIrJNRFBmu7tMATd5r6PKQ2QEhCe8FxusrsOetxzlrmFPts-GhSuuaqXn0ArxgXfOCKZgol6zMApOw",
+          "width": 3840
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116808685193353205231\">markt markt</a>"
+          ],
+          "photo_reference": "CmRaAAAAx1SlyiVNRSaWfLJ571wQ-mw9I23KO4fz3vKoXB38FRAy3GuzaBR_Mvnk2AKFZT2LE-GktOoqD1BNgyz5BctChc1hSczeb5LePJyxS4DmHyAi5u0QZIARbtBZRo_DSd_YEhDHMKTCf-oXYQ6vVMA4t6IaGhQl5ZhRvUrL93VJi4cGDN5-JgM5Og",
+          "width": 3024
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100635379271501764909\">Ignacio Bruvera</a>"
+          ],
+          "photo_reference": "CmRaAAAA4nsMPYoQ1DPPYrqLrMP-FWHq1-yvYv5QaaOLxWLGsttoYb26ugqpdW_vBl34hivYUD20l8LBCkgRivAkh1NqZUvGghjW9rIyGWOgNK-g4Y3t1XhA2-wce0lj5HT_qhlwEhCU9sUYGblDvvWKFGC8m20JGhRIzm7Zsca3c2n8YCWUTZ-q5CRlww",
+          "width": 2048
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105767001935684694919\">Mariano Nowotny</a>"
+          ],
+          "photo_reference": "CmRaAAAA3COQ--AoaxUDvXreNU1tIwDDL01nqd7EX5pWkHLIYL8Y2ywH1fKayMsvWz_MBEsDejm9pqS26ZwIAVFywGYIgjW50GwC_s_hivDNQcWl4LSAA8YR4Peed8Kkgf89DRdPEhCs3c0Cqb927IriYkhCSqS3GhSuZn1KQqjBl3iHtgp9VcMRSXa4Bw",
+          "width": 4608
+        },
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106334455922457822911\">Damian Nazareno Guerrero Achinelly</a>"
+          ],
+          "photo_reference": "CmRaAAAAMfEML_ZHTslTsZOaJL25CWIceuioHuzZLYoFiaEWgCucfTYoVby0M6F5W8yJz900Tg0QALbGYF0d6xdVKQKP-0uzpucf8bF7NT9PEuBRb9v_MnzvyddjRC8Ex4BkP6yDEhDa8o-weDC83koI7VS1PXKxGhSyif6sQrHgGXWs1fEBUTYtEAHRaQ",
+          "width": 2048
+        },
+        {
+          "height": 3266,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104272581626126970410\">\u05d0\u05d9\u05dc\u05df \u05e9\u05d9\u05e8\u05df</a>"
+          ],
+          "photo_reference": "CmRaAAAAbO_9R14aqIFViYXFGRok9SqGCKM-H_fRsmiHKr_QmWhWZcirJWoZp_s6NRfG971Jvym3vBRk2kEAQE2sxvFL7RsNqvmNlCu2r6i0NPqRE78mzoaYrXitjeqRv1aax7i0EhBszEmIjsXb60H5JVsC6OGDGhQWYTHNF4xhKw2EDicafxUqMbey8Q",
+          "width": 4897
+        },
+        {
+          "height": 2112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111740513073477043459\">Paja 13</a>"
+          ],
+          "photo_reference": "CmRaAAAADy69mUmT-ykwqobtKjV3_8iNCKfKqcVXhNpWH-4q2FCvmKZfvJ9r6LFUdNDlgZF4XBpzk4BkGrkuFS0Fu9PokxTWzShlzsKSZAf43bsRywrhMiSXyGpCRurQ8fC2X2nNEhDiNXEZ1zR1ZlE2J8AjLeDgGhRqDIhWD2fjvAoCO2pX1qwbZQf-Ug",
+          "width": 2816
+        },
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114073361353922607862\">Robert Dalton</a>"
+          ],
+          "photo_reference": "CmRaAAAAVC3bf4JiI9RE5NFTG6--ssUEw2huIlLptVp2kBWTMJSYOwSQUw2fgXXg7mqLBWaDM3WOcgeRB94OmVfcukSGYy8kWRz7yZQt-dpWqkbFOvUOk55TfTqL08AXgutnSC3DEhB6glx-26PW_Fy1NVP8XSU4GhTo5KLaZuqJ7hbtSWm02tDbpiy6DQ",
+          "width": 768
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101762253180346866475\">Honza Sv\u00e1da</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ9Ry-UjzFO1zN8mJrbUyi-Y_qzEYStPXKbu9BfreydRWd29K_FPZejI9fypu41LARla-2UbReApLNX8hN9anPuLHmGqhjK7nYH8hmDwEGe9AFyXKsZ_94QmMeCUqOZhIEhD9pPi1y-SOIhgptWVbAiqKGhTKnF1v90DeofJwQ1tyKrn5gnfU5w",
+          "width": 4032
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107068891546408127033\">Christophe Rolland</a>"
+          ],
+          "photo_reference": "CmRaAAAAk65IGOGszlsYBwjlH5yMvLQ7Bj7z-QlGPVS96GIjsb7JW15ezdLcBrVZA2UtVm2209kjCL7o4sDuyNLfjFkD4mjot7erkgN2HYeHUYadSRQB-DZZFyUimxC9OyqQ6ocBEhBiFnBcrJXmBZdAbV1rqVtDGhR-Vs2qhti9zRR5ie-sE_d7m1UEnA",
+          "width": 4000
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.barcelona.cat/es/que-hacer-en-bcn/parques-y-jardines/parque-de-la-ciutadella_92086011921.html",
+      "popularity": 0.7499452078432162,
+      "num_google_reviews": 47659,
+      "mood_params": [
+        0.0045878932227017555,
+        0.04564707719476608,
+        0.14073428726110174,
+        0.14809731035315218,
+        0.1091922042078669,
+        0.18107323716201743,
+        0.10998974535025927,
+        0.01486217658605517,
+        0.20483233100474782,
+        0.040411144631774566,
+        0.06744497176711294,
+        0.019752894937667263
+      ],
+      "top_cats": [
+        "walking",
+        "animals",
+        "nature",
+        "beach"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.9218193856075104,
+        1.1546151929820057,
+        -0.762771624749717,
+        -0.3351920846452707,
+        1.0629075664471066,
+        -0.8410358295204563,
+        -0.38719961739970915,
+        -0.760603341380658,
+        -0.3795816726626475,
+        -0.24661701724377133,
+        -0.3560274686620791,
+        -0.2119394013749678,
+        0.29380584202697174,
+        0.8878831378017309,
+        -0.9783201982112391,
+        0.5060300033818179,
+        0.30555770554461187,
+        0.1968629283311025,
+        -0.40100034169569543,
+        -0.21513067946636533,
+        1.1055626968702612,
+        -0.10453701792807008,
+        -0.7991469195660078,
+        -0.20764917372722974,
+        -0.581551964535115,
+        -0.21379855583732124,
+        0.5224367286276211,
+        0.678081621242947,
+        1.1922661765770652,
+        0.8243143583426092
+      ],
+      "global_mood_params": [
+        -0.4297558106479103,
+        -0.14621237738582085,
+        1.401658786989634,
+        0.3403475707796635,
+        1.1161360079039002,
+        0.343764311626503,
+        -0.0626897176491984,
+        -0.5873635078871258,
+        1.0982742743334664,
+        -0.128596609401764,
+        -0.5597540739074313,
+        -0.41380799414148384
+      ]
+    },
+    {
+      "name": "Barcelona Museum of Contemporary Art",
+      "orig_name": "Barcelona Museum of Contemporary Art",
+      "place_id": "ChIJ0V6MrPWipBIRKnssXv0o_Y4",
+      "cat_params": [
+        0.09142479011599274,
+        0.06266387434300509,
+        0.375560611657642,
+        0.5429043734687544,
+        0.1468009786176189,
+        0.2038667101952456,
+        0.3349501721105768,
+        0.31113544507822233,
+        0.1737402100582552,
+        0.24639544837486593,
+        0.08488474338252137,
+        0.08564743200804605,
+        0.21642085484465795,
+        0.07610976089481344,
+        0.25967477778280335,
+        0.15552468127032285,
+        0.5070405365960733,
+        0.246947721752111,
+        0.2116722630014643,
+        0.14777303636138384,
+        0.44397825040816513,
+        0.1699892135291129,
+        0.3083193875594221,
+        0.13574653900481137,
+        0.010357110868336761,
+        0.33077499789752574,
+        0.21410324164180616,
+        0.3364391910923542,
+        0.18032857416099643,
+        0.14827651203904163
+      ],
+      "noncat_params": [],
+      "quote": "White, light-filled building housing art from the 1940s to the present & large Catalan collection.",
+      "phone": "934 12 08 10",
+      "int_phone": "+34 934 12 08 10",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.3831913,
+        "lng": 2.1668668
+      },
+      "address": "Pla\u00e7a dels \u00c0ngels, 1, 08001 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 4472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107784521385129041638\">Mar\u00eda Pilar Alqu\u00e9zar Abri\u00e9</a>"
+          ],
+          "photo_reference": "CmRaAAAAytIJLZPPX8vSJ0dSkm_X7DCkuL9f8V7wb4axZc3SdLE84Vky9vy1gxZif3Ohca4lO8lk8TK8z_cdGQb1Js5EUwfWMgIQVNcoDDwFw3nT7XlXFGs0he0q4Gjh0HduUnoBEhCfy-BEPwimFloC-KbdBrxCGhT5mig4KiptVQmjlE_ZP1HEuBHtlQ",
+          "width": 3577
+        },
+        {
+          "height": 5458,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115322697216689774499\">Museu d&#39;Art Contemporani de Barcelona</a>"
+          ],
+          "photo_reference": "CmRaAAAAHJDaPy3Dpx0j4hebD4Wk_KXnJhNungFyYFizmB7bRK6DkFWPZ4BQAbOrJiZ3snhOx9RmUtGlk9sNtLN4FUvOgpDH791NtX55wsqu9bxS3Gv7lZyTtE-bw_vI2o9sYhzgEhDn2wea0-Q6BwmmkIkWQzbzGhRuTvZa0a1iMLndX-d-TmanG863Ig",
+          "width": 8187
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104285445916718441181\">John Dermanoutsos</a>"
+          ],
+          "photo_reference": "CmRaAAAA25uNY4-Eg5dSpXt3pHfDdu9YBiFjJnlT4jWQlCAzrQpvJiAbkWHqnZBBcJlKIKUmeUCkTDvY1wBwn4goAr_7zJUE-D_7dCW9XPdXk2ozQKy5uIbd33gS7hQp7LTP_OfSEhCpwBhQzJfXi21ay_dQc5tLGhSfUQGde0Olm6xeuy4g_1QgIjhZWg",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107023073467999627403\">Jerome Goma</a>"
+          ],
+          "photo_reference": "CmRaAAAAetTh4vHQ1_4kRxmSBjfEjSYIBKSSQhnx8FudaiAzBpnxZFsYBHzISTAbyhTK5bA-MyWHlHTi6UvFStBU_hRCi1crAZTINDl6qNMvhRW_SJkXIOYOqyaYCJ0JLucqnr1QEhC7zhsljmh0qr-HsqI2GOY9GhTALLSrutRMZqyv2in7Sa0FJyyTzA",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101788756883611318422\">dialpu</a>"
+          ],
+          "photo_reference": "CmRaAAAAoZvOlJAQCk7jIv9J6YkjNs1ZYhHf64WoCikNmjWeWQVbGdbH8aq0GOeJshHtWfftVcQ8au7sqEd74mupZwxksFUHSsNP1_AMgH0uSXQ4UgpkJAoks6kJCTyIu5-UeXczEhDmdMAyNLkskEaXgUdB8CvzGhQwS90iEQkCRC2Jte1jd3UNIsSPTw",
+          "width": 3000
+        },
+        {
+          "height": 2538,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113063440355582440821\">Nicol\u00f2 Tassi</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ8vf9e4TAC8oTYG7ykUwABUtNerb7n413PHdLQhkfrLUU7_GewVvhqjF66wGsHynXDzPkMpvnyii9wketT95llvEjG020hVqcqmiJJw1cAL1U5ni0ADjWw1pnM4WIlLuEhCqh3M-j--0X0_r1Dj8k0VdGhRcUQ8mWjwjUIrhbMLeVpaTvRuJwg",
+          "width": 4518
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107841646753698562938\">Jose A. Lopez V.</a>"
+          ],
+          "photo_reference": "CmRZAAAA-t93KLFmb0MhQSyFlpmSVTThLn9D7ISXZBNfbIQtNFz14wEebiLY6-_bCCPlUHsE19YyHkVZYifrHXPIFA02B8iuVZEGw872GYRRk4Y5n57-1ONd0nuL3oyB0frx6uinEhDbQ9RGeRwTANVAN92Sz10TGhR00GRdCZG4VUE97LKKiCIDGUY5NA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112870583783276456631\">Pablo Galindo</a>"
+          ],
+          "photo_reference": "CmRaAAAAa3sU780yJx18IXkdVj6vzevkaOLEW9Zt8RDfYc1GQxCK2ex3BWF4QnPZyXxqvvay6iwESuQLZW_GsrGQciLCH1c5PqYn7VzZHOGE0PsxB9CNEM4ukJaD4-p70zMRHmUlEhArJ9PyrmNVYoeH9ukAFXu_GhTXbuMiXJCZS8ICDwzS5PtiELMmwQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114142211515455886258\">Manuel M\u00fcller</a>"
+          ],
+          "photo_reference": "CmRaAAAAJWoAStlJrSOZT719biscnS63G-FSU2sen6ftcZwFqt1HZqAK10H_jEbWSoOMzBP-JFydEcasY4ATE4f1MoKxa8BMEI8ty_Lcow2kxaokI46zWPovVuzWX7S7K6MzRwgZEhCi5ze4H16U_hj0RMz93tK9GhSouA_FJlrstXK5pJ9fghjPr2vVZA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115715034832556224746\">Reinoud Reynders</a>"
+          ],
+          "photo_reference": "CmRaAAAAMvForRN8M3NhfAE1eCUEisyTkHPuJsIysObeRLKP0_BSu14WvuNuW3aYyCKQJy29Sot06yRklK-my-k_zyGWg13BKN9mfAUMsIgyA144ujI_kljsAeRBL1RtmypRSXunEhArdWYN5l-rgVDgVrHhO25QGhRQ21MN9EpiIlyh5yjWmCfySg_eew",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "https://www.macba.cat/",
+      "popularity": 0.4957396445151202,
+      "num_google_reviews": 9100,
+      "mood_params": [
+        0.008031710970612439,
+        0.0670547974533192,
+        0.028731701471358118,
+        0.14115874002081275,
+        0.038530339950460304,
+        0.15038874478553332,
+        0.12461669158451669,
+        0.04128269099997066,
+        0.08691897741986071,
+        0.06862652442771594,
+        0.11992555724198371,
+        0.03598576097048817
+      ],
+      "top_cats": [
+        "art",
+        "architecture",
+        "culture",
+        "books"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.846823531501512,
+        -0.5929428210789562,
+        1.4825345401000245,
+        2.2269876294752544,
+        -0.9749637285394512,
+        0.7836020634978892,
+        -0.6740415173474956,
+        1.110536604106886,
+        -0.48656837920796714,
+        -0.7970262891055849,
+        -0.03014655890778785,
+        -0.5247223137403885,
+        -0.4009223432802708,
+        -0.9524666191441203,
+        -0.3312353303087842,
+        -0.17396920363583848,
+        0.20562318121759446,
+        -0.49132438276146373,
+        0.5856061487872106,
+        0.2415121737875956,
+        -0.4564804434996188,
+        -0.833162471270149,
+        0.5781378322437164,
+        -0.30287314328590387,
+        -0.4952099387294458,
+        -0.17631697101906377,
+        -0.7128839924073086,
+        -0.5456597049964892,
+        -0.7175920890026093,
+        -1.2477041151096124
+      ],
+      "global_mood_params": [
+        -0.19804931788280744,
+        0.4951418581278502,
+        -0.6149060350895711,
+        0.2333794049964135,
+        -0.4346972521063094,
+        -0.04209370160278135,
+        0.21411943171452297,
+        0.4661738022026382,
+        -0.46156430997836295,
+        0.9679426749667203,
+        0.6546573190226438,
+        0.5785537460628968
+      ]
+    },
+    {
+      "name": "Joan Mir\u00f3 Foundation",
+      "orig_name": "Joan Mir\u00f3 Foundation",
+      "place_id": "ChIJLcelLmmipBIRqmlJrcEfypY",
+      "cat_params": [
+        0.10907976555685513,
+        0.06852019130255654,
+        0.3673556377254786,
+        0.562781514004679,
+        0.1873709941553375,
+        0.24128570438356528,
+        0.3194405034861925,
+        0.25380051176900487,
+        0.22272659017381904,
+        0.28673286703975726,
+        0.07501888631697194,
+        0.09129332830106818,
+        0.24377227257667108,
+        0.12278850827234444,
+        0.295887665558138,
+        0.18455960760531231,
+        0.5279972244456516,
+        0.24560402711975698,
+        0.2184915994021296,
+        0.13331066284436394,
+        0.47722754567996034,
+        0.16740252956695736,
+        0.31146668328623356,
+        0.10126943954060623,
+        0.012055370619548735,
+        0.3586333317543798,
+        0.20986002191847283,
+        0.36199993994682333,
+        0.20627516330472698,
+        0.18714928972321773
+      ],
+      "noncat_params": [],
+      "quote": "Showcase of Joan Miro's modern, colorful artworks in hilltop museum with courtyards and terraces.",
+      "phone": "934 43 94 70",
+      "int_phone": "+34 934 43 94 70",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.3686304,
+        "lng": 2.1598509
+      },
+      "address": "Parc de Montju\u00efc, s/n, 08038 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115276691251450743867\">Fundaci\u00f3 Joan Mir\u00f3</a>"
+          ],
+          "photo_reference": "CmRaAAAA_4wbiXzA3Xm_zL2jWhS2FFbVc2k7UtwsFYGVhrzOE5iYtkPTgDvgpZbwZe-QhfQTiTV-kZ2p6QpN-SBKt6ByCRe_W_dnaweOT9aWjaQsUoXU3pkg1N-x2XJYl6QaS-DDEhBlcDAtvSzF5uABzCz_nDDKGhTtnf0cPxlEDIIUN1hatQOaxldbNg",
+          "width": 1500
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108526499218456573455\">Roser Alomar</a>"
+          ],
+          "photo_reference": "CmRaAAAAptPBzlBl0auYdiVlRZQyu_ihnB84REH4ERRQw_uNmtwR3XBNAWK3cs5qSUfcOwYrK9QwKBniEBxuSxjWWUpJxqZL25Do_FqK1Qs1gSP0_GAKVb-OAAgUeDTggDYx-wFoEhBZfTJ0NW0YsEoU3SCvVhqjGhTFyoFGs8Gr5GSqbjEqdhKvWhwM3Q",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116730421451898767487\">Claudia Midori</a>"
+          ],
+          "photo_reference": "CmRaAAAAZYn9OuRBgvu_Go_rtFvGJ0dPeXmtSgNQEKnPuZ-tXlKxf9gksINpGbj5g7tEX160h4Fzq0nDjzb8f8UQl9v1-V0XvCQmNFojXlAsf53E4EXo9FlflqPeDSFvgGBnmUdZEhCILDp5A4q_xpx4c5b-f2TeGhSTWfJx7L_xL4D6GOIHzkLLfvKkVQ",
+          "width": 4032
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100877561807964234341\">Frank Hoffmann</a>"
+          ],
+          "photo_reference": "CmRZAAAAI2-D1LFv1luMmQI9Hj-Fb45YI6VNu8bPqWGICmEhc9_Q1VvhqgSQV8c9iaaWxODjCQkhHBfs7bxn9-K_hXgbgx5Uhov5vGUhX9XwkMyNrMlWHFC6_qGRJkUW1A9BcL6YEhAMe-_nKmhA3b6TbAzE2ICJGhRX91FixyDwTqckV-GId9RAb3ddyQ",
+          "width": 3072
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108831680519873635587\">lennuleo</a>"
+          ],
+          "photo_reference": "CmRaAAAA35aYu_qyvU0pDU6bw8GClzzMR-doC7klxLrKD0nuP0bnUF6glyCvrR7W3tGKyZufnJ2az_5Rx7ji-KDbcyf4X8bBZc8zCZIBdsIuqVV4cex0t9iKayHmiC6ZF958K0BWEhB7JcDuAe6jp_tk399DNg-NGhT0Kle1Ov04Uti4Q5JN5FZIIM4lZg",
+          "width": 2976
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117722593399972660417\">\u0418\u0432\u0438\u043b\u0438\u043d \u041a\u044e\u0440\u043a\u0447\u0438\u0439\u0441\u043a\u0438</a>"
+          ],
+          "photo_reference": "CmRaAAAAMf0eFHqlOXxI5b1pijSzGeYCNTi9Tc4NkQpUxX7578GcFe4fiPyOG4kd1jIOOGEI7vtaTsxrVCvn3C3sNCSs3EDqjnDaI-O3rtH5zupS9UYaFI0hNomrar2trwnosiJuEhCDlTZX9X4Pw2YI_MXadG29GhR5uRO__1N49ciTZF6MVn4jvbTrtA",
+          "width": 2592
+        },
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108004872531264334262\">Marcus Loo</a>"
+          ],
+          "photo_reference": "CmRaAAAA2mbEkRHSCeDSAnZmQs7C4YzUgcThrAdLhvY4cKsBZuILEUGYwmpjlFdLq1ncYdXFGcub3kKszTuISi3XDwZrjXpGI2v7kvINOZr_msIfbU8ksA8l6pDz8BSByHYXmbT0EhAtYo-x2_9obi4t5bwSjEs-GhSTbBnlJQUh2q_K_XsVh5hGpMbPyA",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103244208886360258012\">\u3044\u3068\u3046\u3086\u3046</a>"
+          ],
+          "photo_reference": "CmRaAAAAUru2U8qCw6HzOEHopvyudURvGMFXle3Bwy7b-uC8LYvgWdlapeUqw7XRZMlg3H11RGjU9TWACYyt4bmXvgzbEJuAV8eyxvED6lUsVT1clj1LHegugU1vlD9_EzoAbAKOEhCiW4CIlNEyBhl2HwhpH3kZGhTTaVsqsP6a6LHa6HGQkmcFLydH1g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111396021567900738343\">Fred Reillier</a>"
+          ],
+          "photo_reference": "CmRaAAAAMWrd3nQVlP5Fh3dflMr0W0Ec8g9H06BwrHvsw4pQr1QVuhNJqMs2xro_YplYQ5M5vxHK1fcPeikCBDYDvmezqPoY4mjcA4MA0w5k-TF2wY_cgPm6Tre2gKNO48fZOdQKEhB2gIPNk4Mg9mLZt13baO5SGhRj0_Mbohn_sHrY1JlV_FtyBVCUxQ",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116864002479854548494\">Xavier DUPLAT</a>"
+          ],
+          "photo_reference": "CmRaAAAA7wtA8H74bBCjTcGWsgGv0mtH_HeTwS21gBZl4i4RFNVrKac4FZJY3OO0kjZwLAZ8pPYrfH0MrcV1SgtywAOAn7TsBnb822NP3ge4m1J7MnHp7Wpv_xinKy6ZolGLU8OKEhAscWf4lc1NEHYHyj1UgAKMGhR-ZzmQ81TWYTAkRHoSUZpe_8jq7Q",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://www.fmirobcn.org/es/",
+      "popularity": 0.0,
+      "num_google_reviews": 0,
+      "mood_params": [
+        0.007581944529116688,
+        0.06064744179198794,
+        0.05674398813148988,
+        0.1476053152174886,
+        0.06666708779308751,
+        0.1803516205366642,
+        0.14828258582964501,
+        0.03884198816492502,
+        0.12136110397564134,
+        0.046511116220703155,
+        0.10500622192589626,
+        0.03279688418552662
+      ],
+      "top_cats": [
+        "art",
+        "architecture",
+        "books",
+        "music"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.632608131059082,
+        -0.5229204984549463,
+        1.4019338906533996,
+        2.3690340657741005,
+        -0.724713868932996,
+        1.2827964836331245,
+        -0.8390928486073205,
+        0.47378577677480566,
+        0.2383823988689023,
+        -0.3681330806032385,
+        -0.23305255032569883,
+        -0.4711021727179284,
+        -0.10535770554470364,
+        -0.6094698690661292,
+        0.06254400057275616,
+        0.16608457864668122,
+        0.3193350528273334,
+        -0.5053789195475186,
+        0.6726521208138265,
+        -0.04666327783311857,
+        -0.2943233575050697,
+        -0.8584324739803186,
+        0.6136230476310716,
+        -0.6244904598486501,
+        -0.44631310148784153,
+        0.030320228026479577,
+        -0.7526425963732778,
+        -0.37960715080339325,
+        -0.5609673506100468,
+        -0.9804097086336254
+      ],
+      "global_mood_params": [
+        -0.228310444443772,
+        0.30318378682432295,
+        -0.11055525187762583,
+        0.33276274930845545,
+        0.18282685147397554,
+        0.3346899702961766,
+        0.6619870829664959,
+        0.36884899393894593,
+        -0.005940275090905415,
+        0.10846766296199116,
+        0.3094208736046301,
+        0.38360854604562844
+      ]
+    },
+    {
+      "name": "G\u00fcell Palace",
+      "orig_name": "G\u00fcell Palace",
+      "place_id": "ChIJ3fHTIFiipBIRpKXCn_E_oJY",
+      "cat_params": [
+        0.0919530877431961,
+        0.0730684635152334,
+        0.30109057771610864,
+        0.22776566931962774,
+        0.19493000631134597,
+        0.1400930033929129,
+        0.3118885309888436,
+        0.14906997842761488,
+        0.19674819147806058,
+        0.3022505965426815,
+        0.07664750014531806,
+        0.06843649815390646,
+        0.21967031276722823,
+        0.11699727454800768,
+        0.2801132743351526,
+        0.13055089817014573,
+        0.4434084494141455,
+        0.23132772147452815,
+        0.1641464440358256,
+        0.12521061340483997,
+        0.42947772059681094,
+        0.17463904550212517,
+        0.2834602263442825,
+        0.12376784378003293,
+        0.013111397551221706,
+        0.31736602610583403,
+        0.21334829104326108,
+        0.36960742205287556,
+        0.20606622324034382,
+        0.1903589170972378
+      ],
+      "noncat_params": [],
+      "quote": "Ornate modernist mansion that is a historically significant example of early Gaud\u00ed architecture.",
+      "phone": "934 72 57 75",
+      "int_phone": "+34 934 72 57 75",
+      "hours": "",
+      "coordinates": {
+        "lat": 41.3788851,
+        "lng": 2.1742398
+      },
+      "address": "Carrer Nou de la Rambla, 3-5, 08001 Barcelona, Spain",
+      "photos": [
+        {
+          "height": 365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100125453622260103947\">Palacio G\u00fcell</a>"
+          ],
+          "photo_reference": "CmRaAAAAZxw_8NNQDp8Fl_MtAZ_aTBEgayp50akZWXtk5une0CJflDT6Qesg-NGK7kHl3HEPB8t6nv5I6ZAFcL8lbWQuGWmq1W9JrrBzlc8jPyfM8ui38CMoCsCCavciOWjmp1a5EhD4TuTQvAobGPqjBGpmIzWYGhTy7ZTC-MbwIvHUm35Ra5cptBwKNw",
+          "width": 610
+        },
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112562407445990430952\">eduardo humberto Belloni</a>"
+          ],
+          "photo_reference": "CmRaAAAA0V9Pfv4AzZQT-olc0Iu2YT7MFKiaTa8IPlkT4BZ6JBYaLrNz-Bo5-z0i88XBeS3D0Vmj6gvpMr7gUe0vXqaplndxqlpDE7p8cwE5DId45p99Gn5euZe8uBOxaib6yORCEhDCM6jpwzVuu1PKX9nlkZVvGhS3RwnTgPQw80JBlZ2YiaLhpsTNww",
+          "width": 1440
+        },
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113529678022767004040\">\uc774\uad11\uc5f0</a>"
+          ],
+          "photo_reference": "CmRaAAAA3KeHGOo1phV84NErLOW3iy3foZhijFVe9pX10_s_VSVxOaP7itvAZY5-8RWEVNJpbYwCwFwFYB1djKVhbrr_H4_X-9GgsuouuCni3jq2gL1p5uJe6XeQeOjP1f-91JGrEhBqpH0Cpg8q7xVcJv1qX1XyGhRfe3-OLvMU-FJnU36wOruik5z2TQ",
+          "width": 1280
+        },
+        {
+          "height": 2112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109814337865046014074\">Victor Corchez</a>"
+          ],
+          "photo_reference": "CmRaAAAAvjz35XAkJvlKwhNOKIzcP90ft_pu5FalVSzKjycn4w0PV9WzNyNLIsFBtqlGnI_kBwCUX22oWgXp9vwmkkJrT5DxZWikHASi1skaa8JXXB-FcdGNTLKifHptD3Y4HErSEhAHgp1KQiS7d6_TFpcjhfAAGhSuqeUuFM7MntIJphLyxGFjMk-UmA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103255856888689634013\">Daja Phillips</a>"
+          ],
+          "photo_reference": "CmRaAAAAlOtvqKiNYecus2fJv_J9L9CYa0kj3tv60T9P29zegeJRLRLq31jjxiL5OEmiddCrsIh0SSn6kjZRx25sX04Ky5vbGfvEMqf5v_UudmeDAsHfsNf793nhhJ4WWSnP_tqfEhBEVNkTXzlvYmLaZKAmKauvGhS5ztMOQa47XXWd6nFAn3aenCQkMg",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106300054053139843903\">antonio roppo</a>"
+          ],
+          "photo_reference": "CmRaAAAAcsD6EUw4azW7mCC9riY7yftSE8W-YvJFfMPYrPA74IS2XwGSoSQBKcPyiJQ4BS-SdBpXl3wCKa7FyPQ5AKx-2GwSmnNWaaYBQocD5Lyi_fn_YBPV3dy7lQGXRMvKZ-KOEhDtw3SyHH6faGKB8v5lqD9bGhSOqaLjBTVPOUavDbSMCYqPGTK_-w",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104646631644918105866\">Steve Cannon</a>"
+          ],
+          "photo_reference": "CmRaAAAA9UgsztuTX0aYjiFE4WRqNMfJ4ypUidSO2YiLFd-3K1khQ5MUP48782rl-cMR6_mY8wyv7XLGHsvJ7qWK64dtAsuihisX53oevPAa9Gbq1TJOV7VLq2trf4UaNzODZlUbEhDKNFJl4JDMwe4gVV3h1bcTGhRBmprqemC8akRYt6Fr5TJ5d48Orw",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115131877271864463662\">Monica Momo</a>"
+          ],
+          "photo_reference": "CmRaAAAAFh6PknDctpJF9DpddJY8CShJUAaYa1O1zMOwpkMXxDB0p4sxL8yCTMorwmTmg0txe3wvXMDxzqUMOAueMmTf2vtgmf9FJAvWSayf2vT2XnoxTIjNJvXlR1j2ohmqO8igEhBgemvPHhFQ259eiFPvpc6vGhRFebQUlV5iJ7Ycgvz5JlH8L63gIw",
+          "width": 4160
+        },
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110172243604599007035\">piroporen HR</a>"
+          ],
+          "photo_reference": "CmRaAAAAqyXWeotKO8jJdpdp8oW3EQFW7a-5fxRUrBARbMlfOf9O2DTdM5zmmKyq33XlfYKzTpC22A3Uk2Zl4O73nk7yF_TXm-yAWDD7Sc-izBVqD0IjGAqxie2Y-VjZfNKgPAF_EhCHkYRXzgTz5Q_tXf_np88UGhSgwhrMf66R5QDf3bBMEtb-uSpM7w",
+          "width": 1200
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100299275562779166977\">Alicia Sustaita</a>"
+          ],
+          "photo_reference": "CmRaAAAAFhAUV7Lhqia1xqXt6vbrW9W-DV8lTTJi8fIbSHMHD93yeJ9yr9DrfC5SVwKxexx1pA_GEK-KYaanqZylX5KGCC9VxYF0KehAjXUGuf3e2MyaHpCp1enQeaa-2gvMbC0VEhAo0m7HAgHi_YD8DNDr1aDsGhSyT7B5Idp0WLb9-QbQs7XXy8jALg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://palauguell.cat/",
+      "popularity": 0.5436658115812029,
+      "num_google_reviews": 13163,
+      "mood_params": [
+        0.005977322969561619,
+        0.05576340938936097,
+        0.04153565575768141,
+        0.1646297945032102,
+        0.07361754113205721,
+        0.1469621457235171,
+        0.14095697531839585,
+        0.03744252301620754,
+        0.10264028729342332,
+        0.03913690903791939,
+        0.09831040003134427,
+        0.020163819478868847
+      ],
+      "top_cats": [
+        "architecture",
+        "original",
+        "music",
+        "art"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.8404134694686742,
+        -0.4685380962629939,
+        0.7509864389572881,
+        -0.025063151335785863,
+        -0.6780872727699773,
+        -0.06718185727896647,
+        -0.9194596923170133,
+        -0.6893315393717733,
+        -0.1460726333921493,
+        -0.20313866560430766,
+        -0.1995576900938995,
+        -0.6881777958270443,
+        -0.36580808108254437,
+        -0.6520240175381107,
+        -0.10898689912759044,
+        -0.466459334423063,
+        -0.1396472059651157,
+        -0.6547036679156206,
+        -0.021041018204199537,
+        -0.20806385310092723,
+        -0.5271996464290386,
+        -0.7877370276214639,
+        0.2978550858359252,
+        -0.41461560056877456,
+        -0.4159076367384631,
+        -0.27577706031777,
+        -0.7199578146033098,
+        -0.33018599174891683,
+        -0.562228602435574,
+        -0.9583398825224596
+      ],
+      "global_mood_params": [
+        -0.33627238116511604,
+        0.15686298152702283,
+        -0.38437560924940084,
+        0.5952198889472736,
+        0.3353701550437422,
+        -0.0851832430551992,
+        0.523352812920465,
+        0.31304429894906965,
+        -0.2535920575476717,
+        -0.17811745215872718,
+        0.1544781967995444,
+        -0.3886869962859606
+      ]
+    }
+  ]
+}

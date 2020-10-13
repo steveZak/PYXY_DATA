@@ -1,0 +1,4888 @@
+{
+  "sights": [
+    {
+      "name": "Chugach State Park",
+      "orig_name": "Chugach State Park",
+      "place_id": "ChIJV1RVVVWKyFYRDz8anNdhRRw",
+      "cat_params": [
+        0.1459462337221072,
+        0.16940010800580843,
+        0.08918681212222189,
+        0.13859661507005697,
+        0.3528951454798432,
+        0.06606612610066565,
+        0.3095469120915195,
+        0.11071172299486683,
+        0.16503240990630022,
+        0.25482653175763326,
+        0.08019813114324043,
+        0.06606436396265537,
+        0.2037478655493797,
+        0.49342104638098544,
+        0.21527745924772276,
+        0.14918957307125771,
+        0.5060351585191745,
+        0.20263133101538516,
+        0.12261642318849449,
+        0.09782030167725823,
+        0.6150889889708567,
+        0.1969069323499542,
+        0.1860909476530112,
+        0.09180641078815976,
+        0.0046201199020065795,
+        0.2785852760588409,
+        0.25810274336290356,
+        0.5088452453346592,
+        0.34392897919883386,
+        0.4409822607770296
+      ],
+      "noncat_params": [],
+      "quote": "Massive park with coastline, mountains, glaciers & lakes, plus camping, a ski area & nature center.",
+      "phone": "(907) 345-5014",
+      "int_phone": "+1 907-345-5014",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.1510425,
+        "lng": -149.2386433
+      },
+      "address": "18620 Seward Hwy, Anchorage, AK 99516, United States",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104698999265938746389\">Edwin Weber</a>"
+          ],
+          "photo_reference": "CmRaAAAA9SgucV0WUCxcFEXkzo0SFUeyUETMjel_gGgkrumIZf8nHsOrmr5FVq9CcDhzoSFbhMc94G0A73o_20RG6KbD27IJdZrP3IQe3fIAi6sJi9ai8ErCKrNzIui7WcNMsefrEhAcEZ5hRxKTsN7K_z21-TDHGhRvAis1L5TEpnkQopry2gVpifKuJA",
+          "width": 3888
+        },
+        {
+          "height": 2432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117466358357754770453\">Shawn Stewart</a>"
+          ],
+          "photo_reference": "CmRaAAAAPPHlCOi7fMWY_vkhQmhJIo2fkq57slB2dF-h1t_7IvXtK7A2kh3CyAw-hBg-xeX3qW4iUR4S5RSJGkbnXLXXTE7H4r3Y3OHGT6cWbgTSTPEtfXQ34ZHEy2I619VU9hUoEhATMGwH1gptkLIQ2jmw4Hi5GhSp0fZ213VkjTlexMwiQwG_pjlVYQ",
+          "width": 3286
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100504940367384144453\">Brian Butt</a>"
+          ],
+          "photo_reference": "CmRaAAAAAJXTHdIscL7S6WYmEP7fJldhWSnmHiuqATfBPZdMi-C9hMnzvnSsHTc2hHsmxB2DRmAtPtpjpnhNvly5oSEW2FB57KFIEqtpp_OvY6aFMUGYCEtl7zPFulLPf2ChjagqEhCqIXdD-6mKwdozBEdJWKZtGhSAAaWuJddlIbeb6mVxHoisRZDyeg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114107806756887142876\">Michael F. Brown</a>"
+          ],
+          "photo_reference": "CmRaAAAAEa4eOF2E8uHrTnLdZCjsSzUIuzJTFP4aqUCacsYR5VL49YmNfHpSIlsn8e2TFhHFCrOX2NX60XoSl15Dn9u_PQe50eBlJ2uCJPercCxDfSYwsTP3w40ywNovRYJ_7GlQEhCJrJp3a8l_ggrdMtfd6duVGhRE2hJP54hUKdTYVioE7IrNuI1NFQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102095195899400088563\">Hyojun Kim</a>"
+          ],
+          "photo_reference": "CmRaAAAA0mbOQAkYFP0gTyGx8U4FGGYxuJkfu1393jtZZlL3qYP29k740Vl8ALMUW9KjKm0sQoAn6PQn7vPDGaLMV_Eb9b8iO8ZohB-bHD4EUJn7keT63haBbEdFMJBjMD4Dj3TiEhCrcRy1cGYxL2Mt3ix_WrUpGhSe3th_b4BAqLVnXNascVd0tUYCpA",
+          "width": 3024
+        },
+        {
+          "height": 1140,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109883929445227275036\">Azhaan Shah</a>"
+          ],
+          "photo_reference": "CmRaAAAAm5NaoE_fA7q-xtG_F0agYDMmKjS_Vg9tgCUHyZ_yTGp3hN9_U1LzCvtLZeLWpkAL-tJYaWZ8tODVoijqvNWni7qQYRPGfRdGngonks56W39YOdihOJjRMfwVHOQqI5uHEhCu_xgljfdPXw9kvDsjYd6NGhSaITNhDmtdoJHyGfCkD9BWfgKmCQ",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109877292919046139002\">Netta Freeman</a>"
+          ],
+          "photo_reference": "CmRaAAAAKlT61WkrjxjUpzZGGMBzGVuJ4C9skkRNWVrtt1AasUR9FGdPoZVKRC1p6pzlJgbzzSG7JXR6dOy_GcMuHbNrj4r0BGQBsIcVtSOUvcsOsWQkxQu233_USRF2e9A33vnwEhDqAukAW2TwmvUuUi7SNKyyGhQHafVHrqxa2CqW8vi32KxvCaWhVw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101637190944717040178\">Bernie Spann</a>"
+          ],
+          "photo_reference": "CmRaAAAAAd4xnzw6r0OR7J0EtgWBq5YnFcpGP59hkQ7bogCdTAprbYZ-xbFWr_1riLIGg_CZ9kBy7XWFHDR0jqpK8U_Q2md8dcjuqTaA7Mf2_u_7gAlEU3e_uu7V0JzjK12i815vEhD8P9NBI6RO1gcDakxO2Er9GhROScW5kwUBRwNgcWfYxJd9uxDQRA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116444799030894702232\">Vicki Reninger</a>"
+          ],
+          "photo_reference": "CmRaAAAAWLO4KC4EM3cbZ6zkmSCZCcfRMiSKAGKnX_fq9lJZwNifMmwPhf0cv7uRJ4emjJULzTccuBbMHOzmHEZFG7wzB2u18atIXT8ZncFbtBzhudWs8fJtXlVmg9pKHvRLNGtSEhDWnFMoGYIeuOebwCeIiXlJGhRIdGRxP0WdGZjGT-uTS-FDqh7nbA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109182523015789152745\">tracy volner</a>"
+          ],
+          "photo_reference": "CmRaAAAA4H8An1KJ4clBIJ-r2oBr4BNo-OeTqgqJupa-wDuCBR1fy8NGccERir6I8t91ea3b2EpLz0JSHl7Psuz_oyrx80g9rqLCKToXesvzpFes6bSAkhrUWfUPXRIPeNREAPd-EhBPrR2qrj3UICeai3FqdqnZGhR0cLQCFYYZN8N0L0cP-KDFnFPZYw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.8,
+      "website": "http://dnr.alaska.gov/parks/aspunits/chugach/chugachindex.htm",
+      "popularity": 0.9421550817632067,
+      "num_google_reviews": 2181,
+      "mood_params": [
+        0.012694434468574942,
+        0.02735271119974769,
+        0.07733280192588701,
+        0.12158543780489035,
+        0.0970134816204034,
+        0.17842562555966443,
+        0.11519258645182556,
+        0.01620156879799922,
+        0.15073918656542862,
+        0.02823643475720885,
+        0.055095913601082784,
+        0.023066863999393745
+      ],
+      "top_cats": [
+        "hiking",
+        "water",
+        "animals",
+        "views"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.18529143739554157,
+        0.6832720834129912,
+        -1.3306266494281467,
+        -0.6622849067184606,
+        0.2962962312954377,
+        -1.0547499329559096,
+        -0.9443788137803094,
+        -1.115331003783655,
+        -0.6154353516318387,
+        -0.7073816236095948,
+        -0.12653369450933719,
+        -0.7107064012525962,
+        -0.537869083181857,
+        2.1139484569709044,
+        -0.8140122492372575,
+        -0.24816527630384516,
+        0.20016795739500623,
+        -0.9548570402845018,
+        -0.5511543343017717,
+        -0.7538397897297909,
+        0.37802803317291767,
+        -0.5701961261324882,
+        -0.7999667035297794,
+        -0.7127656906892765,
+        -0.6603912152314679,
+        -0.5634305003178937,
+        -0.30061244445766505,
+        0.5743569982810713,
+        0.2699701103302475,
+        0.7649796713870336
+      ],
+      "global_mood_params": [
+        0.11566743124010351,
+        -0.6942935824480234,
+        0.2601386685650781,
+        -0.06837155176768886,
+        0.8488465972498882,
+        0.31047055072108676,
+        0.03577198423537746,
+        -0.533954265129025,
+        0.3826931185277386,
+        -0.6017445078103667,
+        -0.8455137847239982,
+        -0.2112155438354749
+      ]
+    },
+    {
+      "name": "Anchorage Museum",
+      "orig_name": "Anchorage Museum",
+      "place_id": "ChIJjUPnbCmWyFYRr_lSUBrKRVc",
+      "cat_params": [
+        0.11341752106084421,
+        0.06576772077234856,
+        0.26135757119464,
+        0.31698233330221326,
+        0.14693891015231728,
+        0.2096680832476655,
+        0.34527686439370986,
+        0.300469028969314,
+        0.1741067346777745,
+        0.27891771438383633,
+        0.05566432230398317,
+        0.060452652934332884,
+        0.20152484977703716,
+        0.09762541878734557,
+        0.29619815417097456,
+        0.11648233689543809,
+        0.32537755078562547,
+        0.26627343665581854,
+        0.13828708695109757,
+        0.12022868069619713,
+        0.3437165080746153,
+        0.16672212903089476,
+        0.23252536833586754,
+        0.08111934310761414,
+        0.052488639965979106,
+        0.24560915312936718,
+        0.1910750362443866,
+        0.2818526376246365,
+        0.1541623752910467,
+        0.23495117557708964
+      ],
+      "noncat_params": [],
+      "quote": "Alaskan artifacts & artworks, plus a kid-friendly, hands-on science center & planetarium.",
+      "phone": "(907) 929-9200",
+      "int_phone": "+1 907-929-9200",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.216133,
+        "lng": -149.885737
+      },
+      "address": "625 C St, Anchorage, AK 99501, United States",
+      "photos": [
+        {
+          "height": 850,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101834311006480786346\">Anchorage Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAA6QRjtKR7RjiU82_Aqgq4OtFQp8RpN32YyP6rgpJdDMUCmT1Wbp2EJzlVhaUinuhKB7gZFp4VTgm1ORLSdY8HFnvzVdfpFsSwkuk1W2NXAd0cGVrsPwoWsNgm-Bl1vW3xEhBpFnpVkoTh_YJuhpDvb5bdGhR53K0K9oESDnJKLg8JiqgvxySlug",
+          "width": 1284
+        },
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101834311006480786346\">Anchorage Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAA5SrnEGIJnEBKmGE5frUmFoPARpMheVrU7caV3k9llerFlH3D1M5VtM5bp6F7MfFV9foZacDfrdoHgl3JNXREoJMs3yjx3k9CXhBhdSrbNG3OKcQHlZsPb2qQexzyVPRIEhD4FsjmbTwQt0vjhe_UMUawGhQTbhOUuUS_s7W27I6da0GsHhc2Vw",
+          "width": 1728
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114650707322703238759\">B.J. Mendelson</a>"
+          ],
+          "photo_reference": "CmRaAAAA12gtBqQ-IUnqDHJHJhRr6hZFRUBvS-VmpQOASOBlyipknseJD_OksyO3mqhuB3eq6XBK0EuOEfIUkx0Ghkrn2yxU1MQ7ffVlugZf4PwSuMPyG7amWOZm-lawz59ffKLSEhDTuPE_rckOZv0FSdRk2XkwGhT3yHYaQLuzeeeVsMNEeAib-p-nCQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117213905642731713443\">Deth Khaia</a>"
+          ],
+          "photo_reference": "CmRaAAAAtNWUooljWEaZo5Ke8K5KZyCd450blKXjvvXR9-8hEWGPNUFzqklKgkGWoE0E2q7fINjnS7j3fHxW_gmound-VniKGNMdJcjEePVvtmVLUjnM6EDj-as_SER484sbVaUtEhA0FbQ1N15Kx2n2UOyhROAxGhSvqUgSa6qS94egVze4d78RhMPUHQ",
+          "width": 4032
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115666936898068464143\">Terps Madison</a>"
+          ],
+          "photo_reference": "CmRaAAAAmPlUjKpDCgTZjb0uDHGC667tLc2vldb-YSOj4Yvsd5CZlhnQv6Mpm5MbouKkxdN3Yq64xkj-cwNJzTtzZjksLX23cGnsAFJBO2xjkvPO_eSnKrSrFj2ssPCcbG8XVqZ-EhAzqEBBekLE3gq76Kx51ZAtGhSJvsOa5ZuL19jD_uhvDj2E4rtdVw",
+          "width": 2048
+        },
+        {
+          "height": 3366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110116400768262646025\">Joni Zhong</a>"
+          ],
+          "photo_reference": "CmRaAAAA6OH4_sfupmbJIcGfJ1z88EZCGN7TN3uH7g-UzR_q0f2KHzG3C9qSPFHe3WdqvuuoKnQBZt5W5-8-B_bICZdWROPoxb9Et4bmgYXst2UlvcmIf5b7k6pMXGSRql8fw4VjEhCA-7PjkAJx8_lhbrDwFKG9GhQ2NHvsOHsbspsSHFry7_qy0rKM4w",
+          "width": 5984
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103817577977630559244\">Waffle Company</a>"
+          ],
+          "photo_reference": "CmRaAAAAlXdbIMFhXkDUd7gDlWyIp-akY7PTVqYe34pShdvw594U8n7jLjHjhGsnCkit_kkohpQOdhGciv6ItG3uXFobdnZ5tIgMfv7dHfG34m6CkpxMJo8tDpDAARNoIHpedI24EhAjHIZW6E9ZvRwDLRwcDMREGhRMuI65Bp3Q0nNq1yI2YtdhJbF_jQ",
+          "width": 6000
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105378948051215525309\">Gabe Diaz</a>"
+          ],
+          "photo_reference": "CmRaAAAApwShF4SRZC3m-lWlRbPrJ2AWqKlPGwFYu8FMtByZzRA-7ckXw3M8EZmSJiCE9x-kry1tgtvbaMYS-euh5Y2gTlF7kAX5-gYwQubpFk9DI__5cJTnWq68JvyaDAiZmYjBEhAJEinr6uRClUwDSlqHKeoEGhRLd0GGNPaB3BMFlKLjD8r7oqzxmw",
+          "width": 4608
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106981743284611658289\">Marc MERLIN</a>"
+          ],
+          "photo_reference": "CmRaAAAA5-cSvYqpfZNfur0RLPmTiFlJLuIu7d7lXk0GSP9YCDMSRLn44HV9mc63ogCpmIsnZVodKXnYSUQzKA1xjKPQp45bF9HcuxyViZT7ekuTwOoNWqZofc0SlBJAtZDA-b5YEhBYn_gUJlNp0ukA2_7e3a3HGhTPMWN28eo0UTnBEJ46C7F8H6OD_w",
+          "width": 4864
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111073851405118509672\">michael pannone</a>"
+          ],
+          "photo_reference": "CmRaAAAA69lXVBLGl0iPnXHynWPykaP5ExD8yBDjhjWnj_iuKFjM7Yf3TJCQsrMgxfGPlAnhc6xndoPxBmTFExlih7GDi3DlAO21X7zP9cxhC7Sxl7mc1-qPTkZ7gPDLAIgdLe9YEhBXa1db1xdFLIBUUcw4KsjEGhR4KuIlR07ZHR5Cyl3_ujV-GXhlHA",
+          "width": 3024
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.anchoragemuseum.org/",
+      "popularity": 0.5884953010384273,
+      "num_google_reviews": 332,
+      "mood_params": [
+        0.006432903904378346,
+        0.05177409541820923,
+        0.020726616361654758,
+        0.10152946343920137,
+        0.027863109810676995,
+        0.10911305741077727,
+        0.10047975785377739,
+        0.03413574093420304,
+        0.05686239416011382,
+        0.034713427027704614,
+        0.0794698591333431,
+        0.018785917338146503
+      ],
+      "top_cats": [
+        "culture",
+        "books",
+        "science",
+        "art"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.5799762803141801,
+        -0.5558310087313683,
+        0.3606736656840458,
+        0.6124988337140113,
+        -0.9741129192228642,
+        0.8609962618110796,
+        -0.5641465640689995,
+        0.992077422417671,
+        -0.4811441713469661,
+        -0.451228777067597,
+        -0.6311078812943727,
+        -0.764001878374242,
+        -0.5618914156938513,
+        -0.794368959126776,
+        0.06592025708584191,
+        -0.6312287372292456,
+        -0.7800878370020696,
+        -0.28918472655465993,
+        -0.35112487698023914,
+        -0.30733322313673783,
+        -0.945457783940764,
+        -0.8650794875474399,
+        -0.2764266353749656,
+        -0.8124592868083484,
+        0.7178545053622938,
+        -0.8080285338019201,
+        -0.9286562969637547,
+        -0.9002751616687493,
+        -0.8755424858748666,
+        -0.651717562897285
+      ],
+      "global_mood_params": [
+        -0.3056200446292836,
+        0.03734706010751554,
+        -0.7590346095876795,
+        -0.3775636025990445,
+        -0.66881356741744,
+        -0.5611361719713698,
+        -0.24266245476061088,
+        0.18118394811906646,
+        -0.8591733750736266,
+        -0.35002801416347795,
+        -0.2814957411522973,
+        -0.47292211308134924
+      ]
+    },
+    {
+      "name": "Alaska Zoo",
+      "orig_name": "Alaska Zoo",
+      "place_id": "ChIJH2Yh-ASayFYR6gU-9WdijKE",
+      "cat_params": [
+        0.2017962233942395,
+        0.5136443103116308,
+        0.0928835517269735,
+        0.11655831882094997,
+        0.17496716842435128,
+        0.07969881665334806,
+        0.3163975333701694,
+        0.1004356099794795,
+        0.13745571553176683,
+        0.3042900008732413,
+        0.09559823254252314,
+        0.08631168136082709,
+        0.24626810463512186,
+        0.13142513919957566,
+        0.250795148767956,
+        0.14881946963130385,
+        0.42944914125992467,
+        0.16335379075732373,
+        0.13043760748882066,
+        0.13340532105856864,
+        0.43317898489422885,
+        0.1907163911028983,
+        0.21059563217323635,
+        0.07579817365604855,
+        0.006072839721401558,
+        0.3186779319820952,
+        0.20969953749816617,
+        0.35947198592429636,
+        0.22292834736867775,
+        0.2066151729439801
+      ],
+      "noncat_params": [],
+      "quote": "Zoo exhibiting a wide range of native Alaskan mammals & birds, plus exotics such as tigers & camels.",
+      "phone": "(907) 346-3242",
+      "int_phone": "+1 907-346-3242",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.1238025,
+        "lng": -149.7907
+      },
+      "address": "4731 O'Malley Rd, Anchorage, AK 99507, United States",
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116310721414616059852\">Dwight Boothe</a>"
+          ],
+          "photo_reference": "CmRaAAAAmUrTDtHxaKxzM93CcrBC8cmoPy7wUjrj1Dt4tUS4CvI_lDnhBrfeDomuF8ZZ63hLaQaCVpi4y-WlY6QRw5XJnXZa2Ac5xy1bPfA0YY8svEYtuDaz85pjEoPynAk8lwgJEhBtarEGHQ6t7TUTvhDDArwpGhSTs0ORfXgjY8eJJL4D6uLfgZ3vVQ",
+          "width": 2904
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110910796012321291242\">Carolynne Durant-Hall</a>"
+          ],
+          "photo_reference": "CmRaAAAApZ_VXph3ycXfxRYiRpUpZz2OEbyjpz4MsNISNev8k3x58n1Oed_T0mGH3xLHLjf-H7xGZnGXAXJi84zV05ueeYGQagUgSd1klIaGCfx0lZCwVuM2yjMd_f19gOFfoi5mEhABZGUkIMwGXL3ZPjaKa7KsGhQGHjzzkAyYoSmkUHCh2YrB9VlOUQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113825405027017425493\">Lawrence Goodrich</a>"
+          ],
+          "photo_reference": "CmRaAAAAQiKhhsOXLxK_M-dzWughjh9zdYFWSUFDUBq6QcZY4bU4EqHkfoUYAUoYuLJwfzndZyb6ygBl0QbY8vvPfXIKY8iQq5w9Fj5OCEh9NoyVh5Fs-fGugVll_Q51LvG65QXGEhC0Qg3LjIDE3PJ2wduwCji9GhQsfvcS1ZrT24S9VelWQtMPj3G4GA",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104082945684900414066\">Howard Maxson</a>"
+          ],
+          "photo_reference": "CmRaAAAAHAbMOPpE9dNup-Mie7k4dyQEl_wejmeIExHSMhGygUeLaXOp8aaZ0K03MN8IqG2n9B0p2GGevq1s0gN7jFFAQ53MCybpz-mmxR3kM0Sz-VO5W3Rl_4Rk8LrFTagv2lAUEhCkt6F5makPOTMyZ7tVz9bLGhSu4VVG0Vg_Eb2dfbB2SnhuQgiSZg",
+          "width": 5312
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111268455339141318311\">Katrina McGillivray</a>"
+          ],
+          "photo_reference": "CmRZAAAACs4EHKG_mUrQumOENpZSi3tlnbQ1QCc_jxTyKY7VTwSs5WRK5jA6hYaigDT-KA2rINwwvHJyUDs9S9dAj9cTGLShPMo0dkDcbewYQF2vQ__1YINSGH5wvtwLolzyTjfcEhAAg27l0tHaRY1dpKI6fKSGGhTPgqWkIbgQlKb8475uTs-cZFrr4w",
+          "width": 4032
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104218508695240663885\">Bogdan Jovanovic</a>"
+          ],
+          "photo_reference": "CmRaAAAAD6RffN5jvpLxxZM-t5bdRiUeAHXqzhCDybmoJ_c8iSAElZQkkDnjx8fwH-_adQD13m4w6Zr8QwB7tTjb1Idoa9ThdSHJhAdVJCwfvWa2W4GxnSDdTu52XjH_PqMdYxIWEhD7SuMSn4u8W2qCU82_PthfGhRgmfMGRw3nWPuuaW5OpR7XQWZoFQ",
+          "width": 4618
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116447378385526015819\">Keith Freeman</a>"
+          ],
+          "photo_reference": "CmRZAAAA2lF1teXB_cFq9MEiokJfBR1lvoXQWQ4p2q25M4p3qwJlPFOeeA7nw4vPwg4VYIwfnElLzuTZikfJgVdn0mkibvSfkH_nw_mUxR8dH5BueCrsBukqcrtft6SK3ApFLQRtEhB-9QyZYFKXpiSbwU9n7iLYGhQ0ZD1wxMCTP2ihOTrnSKuQezDb3w",
+          "width": 4160
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104727586425122811663\">Michael Padgett</a>"
+          ],
+          "photo_reference": "CmRaAAAA5u2lgfmNee5Osybhw5gyPB5BogE3Vg1a9MRe9EbuQmpbPNoRfPx_v1DJlxkICj30RpRVSXMc3XtyafzJfyIIIdM9cqINqO5haFTVUPCyTPGn2xD-jq-kYR9gJI-4010xEhCMMp3erTpeFz6wb7c6kh7mGhR5BdNZIVw9AIhByUI5x7pGHw8IgQ",
+          "width": 4608
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104574655586034525818\">Jerry Wheatley</a>"
+          ],
+          "photo_reference": "CmRaAAAAIrK_DM1qpAFz3ikts09zaibUl6zL40WNz5mT9YhDQ02yQk62RuKdyO732blNbmAiHPXYGklj_kViM3ihrP3CXqvgnBvCUQoe4RjkH34i25XaqFTPc5_7yRNV7sVFCpgjEhBu-aKIjtaBdX3KbJgyM2oDGhQr6aDRx_1WGkgnuUCd0suQbrIRvQ",
+          "width": 5312
+        },
+        {
+          "height": 2272,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100716448730490557646\">LeeAnna Bohnert</a>"
+          ],
+          "photo_reference": "CmRaAAAANk2MncIDxj1JUaiIc7iMe_wNJqWqK7t0Qm_Qi2lB8hgSg5jh1xo2dvP0mYTR0BK_NKRrpd5OrFfVYbp1StOnvAlXDp1yXKCLqa-pZGXFpgMON8FW0Xe8E2jn0sfDKR2ZEhBOWB_hkqborM-GPYoMUEkHGhSQ9KqJi2BuwVHdrQVyuhbm7zKQCw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.alaskazoo.org/",
+      "popularity": 0.8973762923391102,
+      "num_google_reviews": 1795,
+      "mood_params": [
+        0.013945371302100796,
+        0.056647907032407886,
+        0.026169567696485162,
+        0.09981207907999595,
+        0.0239690508789272,
+        0.1525688059260109,
+        0.11595496124980392,
+        0.02135991235183258,
+        0.09683220423054946,
+        0.05518833570074418,
+        0.09121655151273336,
+        0.04281078766666851
+      ],
+      "top_cats": [
+        "animals",
+        "amusement",
+        "fashion",
+        "movies"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        0.49236047678559797,
+        4.799302476199226,
+        -1.294312138810381,
+        -0.8197754390526305,
+        -0.8012249475367582,
+        -0.8728807191261672,
+        -0.8714756338748179,
+        -1.229455553803039,
+        -1.023543605322833,
+        -0.18145441570140824,
+        0.19019224441280735,
+        -0.5184138124641221,
+        -0.07838726820092345,
+        -0.5460076618285523,
+        -0.4277925116536124,
+        -0.25249988604729806,
+        -0.21539100040377174,
+        -1.3656852308054264,
+        -0.4513201935846806,
+        -0.04477713005827721,
+        -0.5091485500656797,
+        -0.6306731679277909,
+        -0.5236806205945951,
+        -0.8620974601635338,
+        -0.6185640421409465,
+        -0.2660460923038555,
+        -0.7541463215927365,
+        -0.3960297221730079,
+        -0.46044159044284866,
+        -0.8465596981121858
+      ],
+      "global_mood_params": [
+        0.19983279874330748,
+        0.1833616606399169,
+        -0.6610362989887366,
+        -0.40403958339192153,
+        -0.7542774335531882,
+        -0.014679395703175831,
+        0.0501996245606338,
+        -0.32826154820894277,
+        -0.3304253574829206,
+        0.44569197494240714,
+        -0.009674896821071876,
+        0.9957872373927024
+      ]
+    },
+    {
+      "name": "Earthquake Park",
+      "orig_name": "Earthquake Park",
+      "place_id": "ChIJb2AwokC9yFYRR9yuDYIdipc",
+      "cat_params": [
+        0.1445801498607964,
+        0.11717489797647183,
+        0.11798560415595755,
+        0.12678340760157195,
+        0.32039595921311304,
+        0.1064474397788728,
+        0.2833402168570187,
+        0.09651442735007794,
+        0.1884034490926208,
+        0.2135610041463008,
+        0.04611088712572346,
+        0.06030987464678636,
+        0.15320128700078,
+        0.3579175305031288,
+        0.2659133572801332,
+        0.10786594027180324,
+        0.41859405897866386,
+        0.2359216198664726,
+        0.09307414784937568,
+        0.10409852530958837,
+        0.5317293362566885,
+        0.17789501799333282,
+        0.18137937946339305,
+        0.06675502016294918,
+        0.02726273971968858,
+        0.25431892401852746,
+        0.24606058183653787,
+        0.4521754747197289,
+        0.33900023038746163,
+        0.3454892030161201
+      ],
+      "noncat_params": [],
+      "quote": "A devastating 1964 earthquake shaped this hilly area, which offers trails & an interpretive display.",
+      "phone": "(907) 343-4355",
+      "int_phone": "+1 907-343-4355",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.1954326,
+        "lng": -149.9753402
+      },
+      "address": "5101 Point Woronzof Rd, Anchorage, AK 99502, United States",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106143979277887522576\">David Beardsell</a>"
+          ],
+          "photo_reference": "CmRaAAAAqAY-xU6krUrJFdL1mQgRKsCqS6f_od9gDXH2jNF0HnCaFG8e-LqJausRaYMpr_dbOS3YntA2b40k11ZwVbpKj6wSeFn0cIvcevjguiHWquodw9g846QIhMHXUNF_gSMFEhBlAQLkIptvWXJlLvBEJnIyGhQxOJeZv3fgB1HwbGs208C7Vkw7Dw",
+          "width": 4096
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112628518123284302955\">Zeinab Takbiri</a>"
+          ],
+          "photo_reference": "CmRaAAAAd5GF9Umsn7u6hbRf13lUt1fdlAsnZGDUg-AMZnMDXPYGAZoe0fTiCqHXnUz9kHl814MdMwfJO8nMR0ZgMvgwub-1GzelCEP3CzIke5_LNZ-Xy6b4qsDH5llGYPQlrvFNEhCTrgT34-t5yXGTO5p5p9D1GhSWIIVHkCQx9EljKFvlk2fh3Ungtg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100420944078912392494\">Christopher Niebylski</a>"
+          ],
+          "photo_reference": "CmRaAAAArZ95gFXBNwUj6SahyPJn6sMmH43_UDiIKdxkz4mbGwH5U0ylfEWU4Rz7NLSAe176VA1P0woY49JTp-uyWpRTFYR856V37nEWTtGM2LsjnV830Esu6fgpsN7WNPOubnvhEhAXKmPMzPLlxEY4IdYing4fGhQbqyVFqUeKtNECviRUg7HnsMSqxA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110478992121890640593\">Donald Taylor</a>"
+          ],
+          "photo_reference": "CmRaAAAAWHzzE51aDp0btlCcDaJZLrZB08F2aEQSwSvBSoaGeEukErynV7jw3gFiHUOdHg2grZ_pIFW5TIf8kvtREu_cZfrsIzGdoXlho_EcaMO1m-KTEZFQnDgb0u-zQSUCqgolEhAc7Tl0jsZXv-XRH8tGfn12GhRk6MIA71nWprhl1NvpMLGg9nJGkg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113660432031429373556\">Marc Randolph</a>"
+          ],
+          "photo_reference": "CmRaAAAAZMiISGCH-BNVsKteHA7vHO2BtGft9HfoXtsu-GyGRYe2VGZVgKbLufzUEa7EekX3QAPVuSs33AFZj3Ea3pRn_qOWCwGgl2Vx7boMEvAqEo6TXbdDRarpmUh-vwOnCYybEhBmjc088MyFJ8w4eqq8KE0kGhTZ0tkHzwm1p-d2KuyiRLxfdEUD6A",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101848392124116710563\">Nectar King</a>"
+          ],
+          "photo_reference": "CmRaAAAAxf7Fnw2rO0nUSButVCKBcUHI7ZwxavVRZHzMc3ViGEOi1VltYwWO9u2OY784NpNTn9E3iEz8bdg6joGM73Ha6OCtwtLa4iocvZBcvXrP9kzOJAn9ei56lMxxcdXf1x3_EhAUedwvPRKFahsiUrb7qp_GGhSoTwPjC3k-J4kqlNTqzJ4uckE0Fg",
+          "width": 3024
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112790928518324091868\">Ryan Johnson</a>"
+          ],
+          "photo_reference": "CmRZAAAAz_7x-qdIQ72V0tJYVwY8RIiZpnR9ivgzAZN0D_ryN4T2AQ3SU_H8R9l6Of19KpXHfnutTkRTR5BhgJ61Lxm5xIneIe88mFHoktdO170UX1LecrYwv6h2DOupDfdt1MRvEhAQl5G__gV5yff_NYxQyXgbGhRflyXpK6oLKQhaW8Tl56Ddtma8eQ",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116145733033048253036\">Jeremy Garcia</a>"
+          ],
+          "photo_reference": "CmRaAAAAxwZMxjhIk-yGvtaHtpiu-MAolqjdaPHhFriJGArh24llYA1xL7iW1HPXjO8u65w6r7B8DTIPDLmSt-PbJVvcCQ634_fCOUR37r1u2e23tx1_GYhlxTapn_ogUvT4YaWREhD7ISkM8JDeE5D8t11LszHvGhQMfFJ_HNlYtz1WZaXe8n_rZuMZBA",
+          "width": 4032
+        },
+        {
+          "height": 4898,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106649643148312463568\">Jack McFee</a>"
+          ],
+          "photo_reference": "CmRaAAAAJUR3MY-wyn8u8s8pJYdKOcZ7NdERv7P5FJlXsjRAq1yTm4wkcd6ksq9hmIPe_yatkC-n8BiuPZrUZEJuQbE5-dOKuPDFddVizRfyAHH3dklCIj3DiWgUh1z5V-1fwJo6EhBesv7L2ZFio_M4TW8Ft51fGhS-HmE60vtyxccdP0ovVINNsEYINw",
+          "width": 3265
+        },
+        {
+          "height": 2449,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107754627142651030505\">Doris Williams</a>"
+          ],
+          "photo_reference": "CmRaAAAAAiIT11HBGMAGqR5FLN6qbyOQK9W6H7qGEiMsdAzPofVmDMYc-EKb5viQXxhjhJ7ACL2nehq29R0BumT6TLq3ylZ-UdfownVReMy0qPiZS_rQ8juK9YCWA3kYp6XzEWg1EhB8Xm-eIg_gqv7-dm4ynwoXGhQr-kdGPc--2TI3IxIwEECt76uzpQ",
+          "width": 3265
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.anchorage.net/discover/trails-and-local-parks/earthquake-park/",
+      "popularity": 0.6840323393901632,
+      "num_google_reviews": 606,
+      "mood_params": [
+        0.006156067137779665,
+        0.041936038611768985,
+        0.03386625204375833,
+        0.11121011489609765,
+        0.03146249708123823,
+        0.11500841396719076,
+        0.09256213653769302,
+        0.03042851868311194,
+        0.08354671077793624,
+        0.038800842936126304,
+        0.08001362673648087,
+        0.01640532654006669
+      ],
+      "top_cats": [
+        "hiking",
+        "walking",
+        "views",
+        "water"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.2018667196647724,
+        0.05883004398126955,
+        -1.047724916846365,
+        -0.7467046963317836,
+        0.09583003248385599,
+        -0.5160361886889934,
+        -1.223266135046116,
+        -1.2730034597529047,
+        -0.26956670400737237,
+        -1.1461430794379737,
+        -0.8275884529682113,
+        -0.7653578706765894,
+        -1.0840850535519477,
+        1.1182648068861056,
+        -0.26339694980318124,
+        -0.7321430026111566,
+        -0.27429113441062153,
+        -0.6066532311673021,
+        -0.9282491015463739,
+        -0.6287406883621349,
+        -0.0285176774398923,
+        -0.7559285674922679,
+        -0.8530888205893651,
+        -0.9464559127281194,
+        -0.008457672580767977,
+        -0.7434244311261352,
+        -0.41344646254732725,
+        0.20620815374904855,
+        0.24021806897685213,
+        0.1083566637862729
+      ],
+      "global_mood_params": [
+        -0.32424613954848414,
+        -0.25739144197626507,
+        -0.5224603653000699,
+        -0.22832226319735804,
+        -0.5898169324785503,
+        -0.4870019630613577,
+        -0.3925002942104014,
+        0.03335575306082285,
+        -0.5061749623322933,
+        -0.19117804838056868,
+        -0.2689128485191163,
+        -0.6184544683857369
+      ]
+    },
+    {
+      "name": "Kincaid Park",
+      "orig_name": "Kincaid Park",
+      "place_id": "ChIJwxF8gvOiyFYRevFgsR1QA9k",
+      "cat_params": [
+        0.19718515369908907,
+        0.17480390014359976,
+        0.08711734706012925,
+        0.12364528537989439,
+        0.4340324728979069,
+        0.06848335131178314,
+        0.3534200714991106,
+        0.10281897628096914,
+        0.16374571775533164,
+        0.26747387825398544,
+        0.07988330725274691,
+        0.07640762274694546,
+        0.2254152117954386,
+        0.5761549658511297,
+        0.2308708736855661,
+        0.16212307970463755,
+        0.46087931328110954,
+        0.24494384807399938,
+        0.15343138433089598,
+        0.10075951255121313,
+        0.6440242083725776,
+        0.24779417219892616,
+        0.19327115767657058,
+        0.0908425469588681,
+        0.01030969365313412,
+        0.2920327166209563,
+        0.381277107073038,
+        0.5031460752013843,
+        0.48629578194339823,
+        0.41984188614051876
+      ],
+      "noncat_params": [],
+      "quote": "Hiking, biking & skiing along groomed trails (a third of which are lit) in a rolling, forested area.",
+      "phone": "(907) 343-6397",
+      "int_phone": "+1 907-343-6397",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1230"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.1541088,
+        "lng": -150.0381315
+      },
+      "address": "9401 Raspberry Rd, Anchorage, AK 99502, United States",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109719678657307050632\">gary dean</a>"
+          ],
+          "photo_reference": "CmRaAAAAINk2d-j5QTF5Z3StSuf_aCz3Fx0EmHUBl_EqxcK0asQ00CICG6v75-9Gh5cqsgwD1__ubSFfrCJusmXbZcHZ1lSbraxNk8aj4wzFZ79p4C___YFS4S2_69H7y6sgMUEYEhAuoNLYqKJiGnbkLlvNja2vGhScXgV_-u8OirxQoqw58xOKl87cFA",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113522539347905388332\">Bradley Parke</a>"
+          ],
+          "photo_reference": "CmRaAAAAnCeCwVHo8v4Rr-sBK7NerUWzAWnDL21MR2aCL4Oyy9DaGXcXx9dkIEOhNlFkwnr6fkx0rAKTvM2M04iPCfEME2EtzlGZV5rFK-TGuEL22Ruowp4zaeg-UZfUb3axJXyKEhATkHHpGTmyL5BmhzFackM_GhSNsSBd-11QOJToMtlZ8y0unwGX4A",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116293390958274932972\">Abhro Pal</a>"
+          ],
+          "photo_reference": "CmRaAAAANpL6caBORKV9VRrXUzqtxyK_dsQfybtQqX4qME1e0iNorpFfepMWIC8arkvj_jfWlzAtfLqks0j-xg6D3iZ4woag5ozm6W2sVHFmBqfPMeFtCl7KmW-DJaC0vWm-AWq7EhBcBxDEW6pUlqQoj1mH97eZGhRzUxjkng56oqXb6PZZ5Xmq_DnCpg",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116745789121909218282\">Brian Runkle</a>"
+          ],
+          "photo_reference": "CmRaAAAATuULqwGR902lGjQRu0Cq-h2Rz5p2t6M26o3FK-qv0twNBmNfbgTokzVINovqTqH4XP2kg99LUo13ZZ-DLa-U2kirwNO6Mh0IHfXmNyF9vfb2XasBZyhufQob1mUEtwJeEhBnHoSreaCDZjiA5nclbLXaGhTM7pgeIjtc6wDwbagtuo3HPBa80g",
+          "width": 4032
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116052025302923731443\">\u0dbb\u0dda\u0db8\u0db1\u0dca\u0da9\u0dca TAN</a>"
+          ],
+          "photo_reference": "CmRaAAAAlrQxPZo98CZj9nxfpWitj6jlI5UD-MzpRgTFv3Jipn0dr_As25O-Lzf1DU5K8pDP7d8uYruB7ad5okynZpCkArXAQTRsoJpN4EuuEsnTX1dRj_3wZPtJRtxZIxhi56_sEhCxvaVpAMw73_bV36oK3_kEGhS7eRUIJdyuGNla6NScP5lc_d20Lg",
+          "width": 1599
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116637056329008855751\">SSG Behr</a>"
+          ],
+          "photo_reference": "CmRaAAAAjMvCYE5dANeq1ucuLPYqaSsKjBFQwasJJn2Mv35y473F3YnQzAjJYFp5i7Xcwbnte6MSOrPfBMKtJU34TM5FH0OTj2gt76qEzLk9S-8idg6HrJZQdFqrlJxKF2bPzqOnEhCJYrz_rLxG45Ia-1FnacDoGhQ5pErCX_pl376msdMVUu98hAmNbQ",
+          "width": 3024
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110476880529078574732\">Henryk Baran</a>"
+          ],
+          "photo_reference": "CmRaAAAAcK2gLvGOwYd2w-I28aRvWEZfPUio5vmn6jF1eiLK7Q9YAGdWMQvfEm089YDgbRmta0PN82pipv3NJV72glFxkRHds1Y6JkSsxuDB5Xe-bsW7qxYK3cORzitfn-Q_-q5hEhDGaTXtaoJIyu5ODtRsEngUGhSQeTEZsuosgQKE9QUFQgKtz-Afcg",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108387736967704905564\">Marc Krolikowski</a>"
+          ],
+          "photo_reference": "CmRaAAAAPvXIJpVp6fK9vJ_xSfNqMVCBKbgNdwYubhO7J2TU1bx6qXnMWhCA7KF8yxJrOTTIIypiZdvAl9pHMgiBXyZLMIHK0XEtbpS3V1xxb7KBFwufWVDr4E4Q1HMesEqcqGM_EhBuh-DuryGz8Bu8hKlgfnSoGhTtFYgSsn09m1qticC9pHMhgg3SWg",
+          "width": 4032
+        },
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107283008080056159838\">Kincaid Park</a>"
+          ],
+          "photo_reference": "CmRaAAAAyhUcASlNGj46O8YVGOJqC46MbXDUnA8FQjVEM-GJ2kaaet34qGtc7Tojfxb2DM_BMkHrorsoESsvO0j0IqeIaU_qEGuSmz1Oa7FSEW68uDUNummhgAaOg8-pInj72rQgEhCruIlIEA1dSyk5ylJSRoKpGhRMKw5mJZj3b6WVrQ2oGCSMOSPhXQ",
+          "width": 800
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102452033830632771536\">Tom Matson</a>"
+          ],
+          "photo_reference": "CmRaAAAAReSHNxn-uIaYdi6n79LNvIMYp3WbQro8vGVTRY94nO9jG5L0AiCvrPhLFNrQudBjEKeGiplomXuDziDUwTNHrq3ejJqr01riWnK39Ft9_X0AQXTIkFCJvMrOvZVxew0FEhCxrqFtO8zmpOIFvchdd0pzGhTvpSPBupaNgKUxq2ac23pHU8c_6w",
+          "width": 4898
+        }
+      ],
+      "rating": 4.8,
+      "website": "",
+      "popularity": 0.8298978893753133,
+      "num_google_reviews": 1313,
+      "mood_params": [
+        0.010932720708739204,
+        0.04011647267409563,
+        0.05663225987367117,
+        0.09970830786995652,
+        0.062080744224876215,
+        0.17352095255019936,
+        0.11871707773159829,
+        0.018090408813890034,
+        0.12318946326841343,
+        0.02867412651968773,
+        0.05584970758326168,
+        0.02047089486100743
+      ],
+      "top_cats": [
+        "hiking",
+        "walking",
+        "sport",
+        "beach"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.4364123875615013,
+        0.7478836949563824,
+        -1.350955809446305,
+        -0.7691304108078613,
+        0.7967792734164325,
+        -1.022502531234547,
+        -0.47748789933403907,
+        -1.2029863425086926,
+        -0.6344771439379762,
+        -0.5729069547438196,
+        -0.1330085150138519,
+        -0.6124745234671538,
+        -0.3037276062516905,
+        2.7218796268020236,
+        -0.6444492930436664,
+        -0.09668950543003335,
+        -0.044849562214773604,
+        -0.5122841422525672,
+        -0.1578142660011301,
+        -0.6952734402980277,
+        0.5191453357334977,
+        -0.07306516320457397,
+        -0.7190110764363628,
+        -0.7217570299587102,
+        -0.49657519033630926,
+        -0.4636850716657315,
+        0.8535207526948911,
+        0.5373329751274679,
+        1.1293571809056044,
+        0.6196156344495238
+      ],
+      "global_mood_params": [
+        -0.0028639622388955278,
+        -0.3119038471660219,
+        -0.11256687752680826,
+        -0.40563936770876996,
+        0.08216924468474548,
+        0.24879420425423565,
+        0.1024715821875997,
+        -0.458635389865816,
+        0.01824651363271308,
+        -0.5847344156027257,
+        -0.8280708390785364,
+        -0.3699145958991872
+      ]
+    },
+    {
+      "name": "Alaska Native Heritage Center",
+      "orig_name": "Alaska Native Heritage Center",
+      "place_id": "ChIJa0B1BT2UyFYR4Uq-O1L3LBw",
+      "cat_params": [
+        0.1670833716376004,
+        0.09230172341948636,
+        0.23624086411884104,
+        0.21430374586205272,
+        0.19609529950004007,
+        0.22649647865428643,
+        0.3952090002311075,
+        0.39037906464377675,
+        0.15339428749067252,
+        0.3474521305375833,
+        0.05855738130316837,
+        0.08410287142305918,
+        0.28995251632305713,
+        0.14351021934302122,
+        0.3306442433245123,
+        0.15345068717496166,
+        0.4069288327004594,
+        0.2427061074201847,
+        0.20948564601651706,
+        0.129908966774874,
+        0.44110178394799615,
+        0.2549195962959062,
+        0.26706945227472156,
+        0.12352772822789834,
+        0.043101728966778045,
+        0.28580333043098016,
+        0.23034375373561677,
+        0.348178396500063,
+        0.23061742472277869,
+        0.23416731915556144
+      ],
+      "noncat_params": [],
+      "quote": "Exhibits, films & demonstrations of native culture, plus a woodland area with traditional dwellings.",
+      "phone": "(907) 330-8000",
+      "int_phone": "+1 907-330-8000",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.23277779999999,
+        "lng": -149.7169443
+      },
+      "address": "8800 Heritage Center Dr, Anchorage, AK 99504, United States",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116554916380963258454\">Alaska Native Heritage Center</a>"
+          ],
+          "photo_reference": "CmRaAAAAthowtP8LCkenowL_ZjZjzYFH86mQ0PDbUXzAa1lPNYmHuWnXc0ev3Or_Z8tdiMiOWlUI_Tg24E2f8KMNkINR_g8yp9POPLILNgfpZ_aKzMq000PyTGjJH1-udpYvy1zEEhCcBImobaHBc8_ypXSSnjKpGhSRGRveSLU81Gj3q3I_lpEgh3ZX2g",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109110219130678358349\">David Sazama</a>"
+          ],
+          "photo_reference": "CmRaAAAAymBvdD_SMRLxHAM72KYW60FS4MHUDTKsduUihsNnHjLFHKJX3uCugevdD6knG3VISa2MVIn4Gc86Xr3anZMZZGDD3QRZA2uGZZdLqjh9E6pOLVL6AzD2bxy6N3UUkCeZEhA1OUNgYYyT7Emo4kXXAwN3GhTi8VYL3nzNy3z_AMJuWeluE4hzTQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108653270434798076478\">Mike Swinson</a>"
+          ],
+          "photo_reference": "CmRaAAAAwd5XA-yXpPEAPwtWCI2UOEmMJzHldyhIMMaKP-YcL1tlzEGzj3ozwm1Bigo5F-tekmG0qiUiVueZf9WCJGSGxJZY9wOvoOn3I0bRpUaxx9jSQ8mEPpEPJBbYvNn9nh0UEhD3KUgD8Tw6KGVxU_eKTvufGhQyNp2CSn2PCgcCLp9uS83g1-MOjw",
+          "width": 3024
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106453530626111097518\">Zoe Gman</a>"
+          ],
+          "photo_reference": "CmRaAAAAAP5kfb5iuK5wwSUfKpE15R0tQdVmhYaWIab3BII-1rrSQ_CWq3J5M1Gf6xPLnMq3dy94t4G-LsMmlA4j1t4DpExJhk1ePBCuLblgb-f4AvukEUCxBGLaDvG6BAPaBp9OEhCCAL0HPS_fbYSTOBPLQ_2-GhRt1BFaMtD94L-F2rXmG0uScnvx1A",
+          "width": 770
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108480977851141211036\">Satish Nathan</a>"
+          ],
+          "photo_reference": "CmRaAAAAunwp4YLA-uJL0G5xwQhbr2Gqei6IMU5IE3ikMpTAtOP2J0W4_Et4ZqMDHLs4Ut9h73tK5PNuYtJKyX8DF5-GH_QOxUJmMIlpXC-JSOEIi3DqKATnUyi4J47uud_OqeQdEhAlcMHzzrG2M2BOUifTa8uQGhTBfIGW7EmY5EcZreZp384PNxiZQQ",
+          "width": 3000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105594343879880075123\">Les Bennett</a>"
+          ],
+          "photo_reference": "CmRaAAAA7JwGnYj0xdCwW4uyUQhpMJDsRlbxm2l79ZywEMGx8rvVy2TaoofH0K8au7t1xiIYZcKGGyqCsYFnG107Vbn1RCP8YnPIPsNa5ZMw9J7NRNhjrkU2tMU0TV7XE2R7xpxhEhBHnCQ-DyVpnnTAyb4rZ-4yGhTEEfgzFImQX2letmzCADhEkj05Ag",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101583802837450670013\">Nicole Rice</a>"
+          ],
+          "photo_reference": "CmRaAAAAgtKik1o_qmYyo_SLUr4Y5J-_7m7oYP9xxwne6bzlML2BomHwKuCia36PNC-DKIUQxy2CJRIdRSgZ9WRpuHnA7kzJ9nGno_sQT05ME0wzDJIvSC4lFjoPhcsGqnIrE3S3EhDMm5TGBZcx4C30PKhAbe8oGhTxwVC_Fbl9MfqSrw57qjEeoUX_CQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112729559375755803785\">Alex Van Boxel</a>"
+          ],
+          "photo_reference": "CmRaAAAAluUPAK-7_VIqsna2MaSGump-P7Jkimg1ExRh_ItDWagDZAv7f1lKkKeSGnHgQiwRKcD0D_uV_EBQU6bCSI-3VTFi02Rm1_rTJHtFoSl9r7ZAQpDCYWIUSf9vQ5inru8AEhAHTwcW6qD4NV_qYcNqZ4yPGhRncL4pv889QmqIs4xKVqTMRJr57A",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111643097300554692332\">Armando Salas</a>"
+          ],
+          "photo_reference": "CmRZAAAALiGzSKwmz10gJmUcOaDkEIiSBr_v67LQ3DDpLIDdvRY23rvGCo1NWA7_GTABNcwREcd9ZWRcljQ77sbGpuBbW3P6D8cLnEjPIFEKflxXIryn9AYGJ9ajN5cMAzfiocajEhCAZdBw42bg7r0wl9qQ0gYeGhSMhwzQdOcxQRSpB7Xh49p-4N87Hw",
+          "width": 4000
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106981743284611658289\">Marc MERLIN</a>"
+          ],
+          "photo_reference": "CmRaAAAA0NdUO-MAp6lNWQuoktZpJ5T9IE9wzUUy_n4xt9_mCdSia5jpdZFK46T_I8wLnQ5fgl9811VxNXcnnOqpt1PhNUUD9hDgdcke3qSfowK_u-bbf5M6FtrvdjxTYAJopztoEhAMUj4dYuOcffndGqnF2ym_GhTMd4JAhUW2NUf2KzbVAdPQy98ubg",
+          "width": 4864
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.alaskanative.net/",
+      "popularity": 0.7472418336516785,
+      "num_google_reviews": 863,
+      "mood_params": [
+        0.00956133346228228,
+        0.06959386836853101,
+        0.022330320960846216,
+        0.14020076587147526,
+        0.029693926992001393,
+        0.1423973910427027,
+        0.11655615520820817,
+        0.05608889197794329,
+        0.05892784264026982,
+        0.048217559451944926,
+        0.09682457376260922,
+        0.022564417681632535
+      ],
+      "top_cats": [
+        "culture",
+        "books",
+        "music",
+        "science"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        0.07117453605998851,
+        -0.23857145691801773,
+        0.11394248542589533,
+        -0.1212650295395625,
+        -0.6708993421516135,
+        1.0854983166909205,
+        -0.03277702341667286,
+        1.990601119871195,
+        -0.7876682433184516,
+        0.27747292497263104,
+        -0.5716078296962207,
+        -0.5393912966770901,
+        0.3936748180039821,
+        -0.4572061526511837,
+        0.44048740076458515,
+        -0.19825958854751904,
+        -0.3375871438929804,
+        -0.5356900617073405,
+        0.5576948991110586,
+        -0.11444504961131445,
+        -0.4705089940396878,
+        -0.0034550025215708325,
+        0.11305194094267412,
+        -0.41685550243820774,
+        0.4475835653592718,
+        -0.5098910982243859,
+        -0.5607117904843998,
+        -0.4693972663157609,
+        -0.4140270223316012,
+        -0.6571074642482261
+      ],
+      "global_mood_params": [
+        -0.09513345858262796,
+        0.5712099245110537,
+        -0.7301605058611184,
+        0.21861083845976068,
+        -0.6286321738519792,
+        -0.14258511076111505,
+        0.06157698149920848,
+        1.0565818808116567,
+        -0.8318502082286079,
+        0.17478546740531303,
+        0.12009587555942368,
+        -0.24193153084877686
+      ]
+    },
+    {
+      "name": "Alaska Aviation Museum",
+      "orig_name": "Alaska Aviation Museum",
+      "place_id": "ChIJExnfV029yFYRTYFt5lqdbNI",
+      "cat_params": [
+        0.0934106398282077,
+        0.05216683955809549,
+        0.2002027928626461,
+        0.14687889107322022,
+        0.15626570467832815,
+        0.14840647483620026,
+        0.2806021998625036,
+        0.18076002135001604,
+        0.32142936189292237,
+        0.20306770312869057,
+        0.04116457054412342,
+        0.042826171327746576,
+        0.15000775716696813,
+        0.10630855750875913,
+        0.2562929309470163,
+        0.06710408958131604,
+        0.2048274851991208,
+        0.24343200243746194,
+        0.09047940072922112,
+        0.09656149102847923,
+        0.2872385054698621,
+        0.1316294204142193,
+        0.15938258870699212,
+        0.07624539782435186,
+        0.04235737929906752,
+        0.19419241588645578,
+        0.1775042315805296,
+        0.235399311716619,
+        0.12535763994340113,
+        0.278793294463139
+      ],
+      "noncat_params": [],
+      "quote": "Historic aircraft (which guests may see being restored), plus exhibits, films & a flight simulator.",
+      "phone": "(907) 248-5325",
+      "int_phone": "+1 907-248-5325",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.17937259999999,
+        "lng": -149.9722876
+      },
+      "address": "4721 Aircraft Dr, Anchorage, AK 99502, United States",
+      "photos": [
+        {
+          "height": 1242,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103388681358613265091\">Alaska Aviation Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAASwcuH4XWe14JNe9uQ8KK53INlMh9RDJNH9DKeERoKpR8GdeqRLgm26-XFuXwRoRKVvWJssChdD6XhOPXZKEajwdliFzd679EHHyhCZpeqk39CJMRclEIR5um7x39HvrTEhAfrkJGCP_YpI77Q5ulbmuvGhQ_x4mzLfqcOy4k52Oj60aQK6xuAw",
+          "width": 2048
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106981743284611658289\">Marc MERLIN</a>"
+          ],
+          "photo_reference": "CmRaAAAA-d-RIIUVhDr7vULpMDifb3t1SWwhIGssPSMr-km7D1Ywrb4q680sV4FZnEH_fOCCuZhU-7_ixLilYeip4hjbI8oSXJt6B3ScPaYtPgtUSKHtedlPPxVCOzN2EbTqwYdSEhBp1OaKPaCx21ahGtfIvZ_GGhRrgnB7eqW9x9c4E7U3tdl6y2HvWg",
+          "width": 4864
+        },
+        {
+          "height": 1597,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103388681358613265091\">Alaska Aviation Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAA3S-zORc-3mS8qyMUPNPFUAwSPC9ysOi0tuQ2UVaVBoGaZ4P22Hb762Lb-ndfkXRxzDva_CXYweaQUK4TDG9xcGBBXY3T1FnEIH8jXNzJSVg2MCpp4iseucAFGOKDtk2nEhCJhQGwhNdDt9miwK2ziWmZGhT7t3ZYQTHPoQR8KqLaWtESuoTqVg",
+          "width": 2400
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106981743284611658289\">Marc MERLIN</a>"
+          ],
+          "photo_reference": "CmRaAAAAzo4nDLU0cl17KOpwpmUUL0eZS6fPF4f_rkZEPfuR2GEoZpr9sDNeab3v3BOcZUmqX3a3FjoXjTjHOIQwjps2DH-MdFc-pagnnkQA2k_sEbu-HzqONl9tKl-p1jR7g5OREhDke2D7EVQDcHVzb4OVL2kpGhTbOtMHRyEU4_6REC5FXwgen09Neg",
+          "width": 4864
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108852951499488700893\">doug richards</a>"
+          ],
+          "photo_reference": "CmRaAAAA_r3Cu2UmfuOeiqlG-oFhzleKmBkugO2cnIpa8cSPTfRs22z1b2IXZ_mwsXVO2Cl_BNh_f7UWEzBRSk3KN4lEcpgfR8koZluLGVKDJdC0evmv-uiR95QWvIYnHDrDvzKOEhAdAO9-ZnSV12j_go6cxaYWGhRaWNq0q76rPdOZP-JmTKcxG-QdXA",
+          "width": 4032
+        },
+        {
+          "height": 1455,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103388681358613265091\">Alaska Aviation Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAyPiDeyzMMjpZ7_Yz_rnLdHrbw3E-UVrU68mE6ruWTM9gJoBJZMUmdzuA0w7kLXmK4-DRxjJMrEFHsGQkBl8CA2TJ8zRmCGGBluby9uWHB4qNCpQwZz0LPvvpb8NGCeSvEhDtLeGEDvb_YZPeZxzmNJY6GhSpS5il4agC3iPF-0TanbfghvmpRg",
+          "width": 2400
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106981743284611658289\">Marc MERLIN</a>"
+          ],
+          "photo_reference": "CmRaAAAAa4GU0KqOwfKQUCRveroKBmLMDXq-XTaB6q6oCSXlYUClUxM0znYzBv3CGsKtKawM4r7csyhjTLLUZ-7bGoJ0cYY-kVEuxYPhzxTFGqj77qse662vhp6SgmedQvLZZgSZEhAvXl8zl_JZq9K3yevvYCsZGhSDxVQp8vxWhb4yqxCVOHu0C5E8HQ",
+          "width": 4864
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108852951499488700893\">doug richards</a>"
+          ],
+          "photo_reference": "CmRaAAAAJ4_P6wf76NqATK-zaeiYwiuMVHzhVTVqVug8s2AzmVCVVp-2ww2k65km6XDOxYpNC24-DLKBZt0HmrSuQoGiRWJu9ix9icsWnA660wjGpzcJzYJb2COUCiGad4RZLyBVEhCI1Ao677n6CyPZgZ3utz3IGhRgXTG2qZDIrkjXE2rHqNog_-ebCQ",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106981743284611658289\">Marc MERLIN</a>"
+          ],
+          "photo_reference": "CmRaAAAAJgNTE-Z1Z7NP09EhdQ-GN2WiWpnCVmDKZGtOLvtQZMePBeOp-k9qWmiqFDsHY0lVM1rkZPGUeBTgCDTE3vHm_tGXVy7EhlM_957zt3KIqyUAnxLyvSdmSs7AMwqvLSBFEhDVmBKAOXtJTHf8xSgZYljpGhSg2xvNThk02x2-qo1iGy6z-C0TfA",
+          "width": 4864
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102760921629384132730\">L Xu</a>"
+          ],
+          "photo_reference": "CmRaAAAAH7mM8F9B3MdV4RNiq4y6pFnVjzbjPHcj9rFuZ3jqoZtdpxJspCf4A-d6VDoSZiEUADI0fiIfeHOhWp3SmWI2WU3dRtxOBywiCy1GStIf0e98t3sV8OIhU2tlxbvUcOcyEhDYbBHAO0uUB8jTYnX2RXc1GhQMGMxvhLmYFzgwpOjWC-0T0TaAJQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.alaskaairmuseum.org/",
+      "popularity": 0.5426393564268568,
+      "num_google_reviews": 240,
+      "mood_params": [
+        0.0046571002577263515,
+        0.03719125984653558,
+        0.005762038635885884,
+        0.06677664991802056,
+        0.00699832260534413,
+        0.05895265856159917,
+        0.05855948096799415,
+        0.024035995608860872,
+        0.028215722162907863,
+        0.027796368846804927,
+        0.06019373460060827,
+        0.009710123818043202
+      ],
+      "top_cats": [
+        "engineering",
+        "science",
+        "books",
+        "architecture"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.8227283639525373,
+        -0.7184528918932743,
+        -0.24007350195789132,
+        -0.6030979331914323,
+        -0.9165820312067506,
+        0.04372541445465238,
+        -1.2524036595736383,
+        -0.3373879705147036,
+        1.699087414983645,
+        -1.2577145604643716,
+        -0.9293167937690332,
+        -0.9314038957728018,
+        -1.1185949461533673,
+        -0.7305650113080129,
+        -0.36800956914888955,
+        -1.2095412002236505,
+        -1.4341975741375625,
+        -0.5280974748371645,
+        -0.9613699614023389,
+        -0.7789226937766228,
+        -1.2209014662899702,
+        -1.2079094794694527,
+        -1.1010988347650157,
+        -0.8579255594193588,
+        0.4261520119547298,
+        -1.1894085051429517,
+        -1.0558135698155033,
+        -1.2020540125822639,
+        -1.049420220374012,
+        -0.35025330321649145
+      ],
+      "global_mood_params": [
+        -0.42509943201987477,
+        -0.39954034531135757,
+        -1.0284662553507986,
+        -0.9133288308971126,
+        -1.1267381679232074,
+        -1.1919040401589307,
+        -1.0359870489720857,
+        -0.22155077369423798,
+        -1.238131168528279,
+        -0.6188468669478006,
+        -0.7275491727646615,
+        -1.0277514471703113
+      ]
+    },
+    {
+      "name": "Flattop Mountain Trail",
+      "orig_name": "Flattop Mountain Trail",
+      "place_id": "ChIJcQh2Dp-ayFYRJpOi25YdVUE",
+      "cat_params": [
+        0.09454355369815358,
+        0.06909683298905467,
+        0.08278648733203658,
+        0.0873284893926661,
+        0.23053013656968552,
+        0.06091539612366957,
+        0.3426852324466399,
+        0.0646803854511995,
+        0.19847622898297249,
+        0.2955318555836835,
+        0.08166363969924621,
+        0.04332156478706636,
+        0.18104036033041154,
+        0.47478716986899533,
+        0.2798889877295598,
+        0.10989282190335586,
+        0.4364589521797656,
+        0.16178140988233708,
+        0.13189473973746868,
+        0.11593350836979469,
+        0.44054772612057297,
+        0.1885726564847101,
+        0.20392074239922905,
+        0.0845946474895239,
+        0.005219579511767309,
+        0.25605505460902667,
+        0.22091752898053105,
+        0.49019105877342706,
+        0.2511315841545662,
+        0.2734769164619845
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "(907) 345-5014",
+      "int_phone": "+1 907-345-5014",
+      "hours": "",
+      "coordinates": {
+        "lat": 61.1030473,
+        "lng": -149.6840599
+      },
+      "address": "Blueberry Loop Trail, Anchorage, AK 99516, United States",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115205187177117655925\">WildFang23</a>"
+          ],
+          "photo_reference": "CmRaAAAA0mJ6ewmAQGQghdtvpdP-2cv4lvWJMWdCMEIMaz_xrU4LZf64o7pQMln1w0XVuyQLIQTRHmw95FfR_vGcwfOK61QD9UhWyzpxuHYgVuUml3Ix5QG4MarO8h0K6ZGX-FIwEhBvLseeu53CW9-QSJ40xVQ9GhSKmT2qGEWf2EFb-Qwh9D1ZJkot-w",
+          "width": 4160
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111768931708739375475\">Radek Male\u010dek</a>"
+          ],
+          "photo_reference": "CmRaAAAAYMkh67t654zKgJbEikTm5-JgEnBtVI5gKt4XgfMMW25G3DCsiPhdGLomvDPyxXXOVjSlor8We59AZrkpvX8g76CUR23H5OBaaL5fjldZU5QwyWEqVD3LMb3dGaoGq5tBEhAHaT6WteWmTRE9bT8HUvHQGhRmzl5gxHM4fpXV01Ae4lQVle0dvA",
+          "width": 3024
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111426412122513327317\">Jan Bluski</a>"
+          ],
+          "photo_reference": "CmRaAAAAoX1l9xINdgmn4_BMnCiWYjEm2K2vz8MyppHBMLja9Xaub5A9R8DQsdOjWuWDFaEk6IDZzKlk4vq_8pyfVqTOu9BheaDt8DnaCRYnbjdpDM1N4ClSj8CJstsZpn90W2GMEhBLIgiLElklQ2C5RCvpFX08GhTgsPI7agVnGgh-M2_fBua_RI-Hww",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104428697576785398806\">Ankit Garg</a>"
+          ],
+          "photo_reference": "CmRaAAAASh3ufuoHWgKauxDSurtZGOw_BqJB-3cL4ZSBK4_F74hGQajBfh0-FP_WGokqYxw4gW4UQ6w9GB27S24z1kVwCtPVkDZW0BX3HO-fggld2AngQQ1VLwWa_rkq5eaevh1rEhAVhmDfIXXsdG8WF-unvlmaGhScTMmyUoUSd9qQszYw89ooi-_Lgg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116345309053311872578\">RIPSAW 82</a>"
+          ],
+          "photo_reference": "CmRaAAAAbehHL4neIXNAC7I7FZGt-tdL4jX-wsMnvMJdownvZpAgPest-oAGv7kpO32m_WvOZmyIt6xZNRlwkp7-VMAlWFf8-SI1SoPp55MLxssHk02soLAeWosgnppCPwvSpBVzEhDFFW-IkylHCxKKIu6buinrGhR1FDIyg0J-7XS76xHjXvDRlS0Wog",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108480977851141211036\">Satish Nathan</a>"
+          ],
+          "photo_reference": "CmRaAAAAOBFJzSigUtXbf71_f6eOqEUOo0IkTrENffoBbfLFJRC3gwL0Bt3KRctuRjLT4TTJ3b0-C6OjPlU3IE4ypyWxmGVIKPkRW8MuwO3N7fDqqW30cy85al-SdYrcZHxaU8_WEhB88R3J7yT_z2oTGQr76C2LGhQHgd4oGYeF2kOezjqrKw66Efxseg",
+          "width": 4000
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106945966217258437351\">Samuel Gil</a>"
+          ],
+          "photo_reference": "CmRaAAAAh2ccLkeMxPEJJKbFmKyoTZfC2aitDnBiiyaZIE1mXV7nQw4zlMKfJPmyCIh9fmz7ep1NRAQPRW6066AXiWOCJ_4DVLOwdQoLCxtgGLgaqcchpWfzlClnN2EYEKocnGsmEhC-n586tSUXRF6rl2CdBGDyGhT-Cz6LthiZ6TAHC7H8Mp-0pPTbMA",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115883440685297403031\">Rafael Marrero</a>"
+          ],
+          "photo_reference": "CmRaAAAAXMO_ypgXj0715TO_ahM195J5Wcm08R4I-u5UhaMfenEpTsF9BEdWZgnKV-cavQfj-VAnVbWVSb6bZaLdk8mFvg5fWw_-oTcZFDfdApo4ix-AUHij7tcP3qpQtWCxKnHbEhCXeekdjO_1MmW1jcmscEHPGhTGDwQkAGYAOvgOKR7Xxp6EEmMKCQ",
+          "width": 4032
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111426412122513327317\">Jan Bluski</a>"
+          ],
+          "photo_reference": "CmRaAAAAb22JWVy0MBhfkw1qMIhzmOFzonY2NocOTKnlGp9ikXNKiSP7yLkeh85o4f-bqteBovpnHDJHpqIwB2ZHg8yxHTs2DVrSIPp5TldS-Ot1RniGlGl0bAE5QCuh8NTPCP3CEhCnVhcgXwCrHJoK0xGkTGPMGhQP_QyeyXA4nLG24EJhSuzzWQKmcQ",
+          "width": 4608
+        },
+        {
+          "height": 1936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118220009897185369973\">kame yasu</a>"
+          ],
+          "photo_reference": "CmRaAAAAdPYIqBTr1GeRj5oBfUj_p5tp5vaPdgbUjYLlOB7vl7BG8Cc2fyVYbFgJhC3-BMs7nLlw0nz1UUtIN7V-dSwOXvwDCAXvBQ7eYgUjCh6NKotpcwKdbbGKW_4_dxe8BvHbEhArJfQ-2IP8jBKMLx2Ml4tJGhRzNauhXJ0GOxKU8wsoVhSrLyhdZg",
+          "width": 2592
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://dnr.alaska.gov/Assets/uploads/DNRPublic/parks/maps/flattopmountaintrailguide.pdf",
+      "popularity": 0.593310464910297,
+      "num_google_reviews": 343,
+      "mood_params": [
+        0.025998575421257324,
+        0.02707779978262156,
+        0.029377837893841525,
+        0.08553386646534367,
+        0.04649925522171441,
+        0.11798554741482342,
+        0.10967609923244143,
+        0.020710003830222437,
+        0.08512840670356192,
+        0.038818737689457934,
+        0.07239459508309817,
+        0.018697270344741033
+      ],
+      "top_cats": [
+        "hiking",
+        "views",
+        "fashion",
+        "history"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.8089822333430583,
+        -0.5160257571884972,
+        -1.3934995286137908,
+        -1.0286582557941444,
+        -0.4584933810486833,
+        -1.1234641172869875,
+        -0.5917262831048322,
+        -1.6265462537614606,
+        -0.12049935913149658,
+        -0.27457661236387243,
+        -0.09639333625033322,
+        -0.9266990507363881,
+        -0.7832507164003571,
+        1.9770262076809904,
+        -0.11142579408741707,
+        -0.7084043935616191,
+        -0.17735547088465747,
+        -1.382131739049992,
+        -0.43272051093190506,
+        -0.3929182914170702,
+        -0.473211138612467,
+        -0.6516158808390186,
+        -0.5989388492064543,
+        -0.7800401423060968,
+        -0.6431313826584663,
+        -0.7305468066335357,
+        -0.6490347059513506,
+        0.4531721557507032,
+        -0.29019475919487203,
+        -0.3868094277611761
+      ],
+      "global_mood_params": [
+        1.0107948929847947,
+        -0.7025296580149424,
+        -0.6032725895699279,
+        -0.6241590231177219,
+        -0.2598015147982074,
+        -0.4495644593501226,
+        -0.06862534588519002,
+        -0.35417712520849337,
+        -0.48525120553604895,
+        -0.19048260142383341,
+        -0.44521878640529405,
+        -0.47834135848520304
+      ]
+    },
+    {
+      "name": "Alaska Botanical Garden",
+      "orig_name": "Alaska Botanical Garden",
+      "place_id": "ChIJ-wU15deWyFYRCBiYEgBtSFI",
+      "cat_params": [
+        0.09997975903824356,
+        0.08506414881606761,
+        0.2159476270331101,
+        0.23559378672604583,
+        0.35857145271114177,
+        0.08913421970427376,
+        0.3083618477882224,
+        0.11916597388710186,
+        0.13697590475033944,
+        0.2695930243972715,
+        0.08838072667187147,
+        0.18738463999544022,
+        0.22935245593864287,
+        0.22634043145344895,
+        0.22506143273903287,
+        0.20263716350737923,
+        0.4689198247760953,
+        0.15642549845376458,
+        0.12199243872023179,
+        0.11064430024316553,
+        0.7911113866141591,
+        0.16978038239453952,
+        0.2078579322126688,
+        0.0793028412400856,
+        0.008650942755692356,
+        0.2809564036350495,
+        0.20988222936931705,
+        0.3559614098347588,
+        0.41621872240863766,
+        0.2538476457191174
+      ],
+      "noncat_params": [],
+      "quote": "Trails guide visitors through a boreal forest to 11 acres of cultivated gardens with native flora.",
+      "phone": "(907) 770-3692",
+      "int_phone": "+1 907-770-3692",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.1778225,
+        "lng": -149.7615073
+      },
+      "address": "4601 Campbell Airstrip Rd, Anchorage, AK 99507, United States",
+      "photos": [
+        {
+          "height": 662,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110871182121175881144\">Alaska Botanical Garden</a>"
+          ],
+          "photo_reference": "CmRaAAAAqLQ5IEynArZoxFaX0MXI--B6Lkw5_7sF75KWDe5SsFOsD70S4m_fHiyMAeM4TPcQNmzAfzNEe3GhJlTszBrablI3J9Arqq_b_anZRhMObSJp_h29SHTYGa40jrS1ZGLuEhBdRvc14dj9KiogzWL0t9tLGhREl6FS_yi3M35bDjX4cX2_PWD78g",
+          "width": 976
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103082895445476504591\">Jeremiah Simonsen</a>"
+          ],
+          "photo_reference": "CmRaAAAAMxJrj0SdcWIZujiu3u1gFjV0P8QV4N_YTCJSZ_c9ue4iMuERUKMY26W9RoJnquUv7nRERXpH6OSckZ57dc5-MQjF26DtNnpMIrgzWjcXJZ9tfn2zSFO7VOwZKBs9VZmuEhBfEMsrHRtHFehpJBBB5-R3GhRX6mOhK7BIVWimYKCM1Zk15zukpQ",
+          "width": 4048
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107131371744792808065\">Lonnie Huffman</a>"
+          ],
+          "photo_reference": "CmRaAAAA6RxGyCHNw9CtpA3Gl5E9ZFoBFpg860TyHq58EpfU0z5X9TGdSYA6DaJ_DYlhIZ6mHvRhVpzsU28SR9OpwTIO9Edusr00QAMyYAxlO1XBnSb54hn2T6snUL9znhUgUjXOEhDEpxYrdQl8bzQqGvhlZ8eeGhSrugUdJqt_htC36QJQAF3oqUNamQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106462476207538072971\">Valentine&#39;s Way</a>"
+          ],
+          "photo_reference": "CmRaAAAAXAhwyJPphtQFZIiWYcGE_8yQudr5rD3hgynZszJAsrt7cGVcRawXKA_z_OPq6rpzip-aVKh0Lc-Q0eucAXVfzKquSS7Nwy56gAlQzpbdtlGEfuk8IkoFYcfpLav8IXNdEhB6Uhh4kAGQD80Nya7xq1cpGhRluv2RyaHrRUHSMaqxy_UF10HmKw",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107131371744792808065\">Lonnie Huffman</a>"
+          ],
+          "photo_reference": "CmRaAAAAOIxkkZ9H-IbY3PpO-b3khsNX46N4rCXw69ANe7dqXPSyjPnOMYQtwaKgcMNrdwg5auKaPM05feF2DhMXv705IsohZMeX3w9y-ithvH5oh7W9ZZaWwpuAVYdyjwQ26GymEhBeKIbgcwr0rSx7qJi2Hv9vGhQggJksK8cU3C1PHo1vdbW2FYT0yw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106437677183950066934\">M Thuot</a>"
+          ],
+          "photo_reference": "CmRaAAAAcO4k6FAoZNW4SI68qLIJDotWMS8VgJZz-9s73V6S5H0cXlFznEr_My_fWuH8T2kG_l076DZtpRaKE_0XVbkCzGnHOkKM659I4TXAo7_fHyl34X-P3q1Q7wVEkxtaG1fHEhDJKHTA521ydZsZLKPod_84GhS5opA2MAcyFOn3-bTc8VCICW6GNQ",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104900875916484890722\">Nathan Johnson</a>"
+          ],
+          "photo_reference": "CmRaAAAA0M9OR_P9Ljx61raWZJQz8KDGKdq5XByW3WIWJZM2tovZH2-Z5V_tn3-xvmxrHVFC7A8n81tgoMPaOb-CtLsERuw3FmSeJLPmIyIBorydGpF3uFcvB4-xqHAka1z3o_EVEhB-vI32Mt5E6d1PnBCBF2pxGhQL23_5iAo-yCEOpA18ctyJ-U_C0w",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100093953121525915235\">\u0435\u043c\u0438\u043b\u0438\u044f \u043f\u0435\u0442\u0440\u043e\u0432\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAA175FLZMHGP0aRyp-6rA52GZ31TAZamRxQrahEo-_gpYiu-hIpnPND9h_Al0z_T0ltVZp5PHWvN68MsWrpJcPYfah_jhWxYNvSa3eUr4HawSxuRbm8d0N47QNl74jn51wEhDIpzqRA9_wugmcL178x8sOGhR82cIUCv4grYBrMTpTn9oE_JufCQ",
+          "width": 3024
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107766730494767840469\">Max Chiodi</a>"
+          ],
+          "photo_reference": "CmRaAAAAK7aUpO1mGvoFfTagwIYKLV3yVQhXxbZ-kEHtPMBjoriGstrZJCdMVzvoI7lrGw8YoM1Ty2dh3Y5Is3i5ldSe-glSL8dS_CAn15JYph0pd21lK0RKwXKzS1OUxnj0urAUEhD21-4jVudZcUMNDPv1AKLFGhSl2Rx1-8CY5s5X0w_KlHT-kk8pRA",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106462476207538072971\">Valentine&#39;s Way</a>"
+          ],
+          "photo_reference": "CmRaAAAAmplBOBja8C7tprgwpzSdwRviTPWN6oKuuqsKcM6dKi4qJOXQVIfTTtmGxO52GFFvk0vl8byLTKaYbPgEshpwYie_VAVKuqROM-pSn4SwgvHZe-4md-FXXbOfnrQwzjeOEhDsIDbnekrdumiq_r-j29IiGhT9HbUjRq_iPiWfdG9X4qmBWMr93Q",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.alaskabg.org/",
+      "popularity": 0.5911363335735723,
+      "num_google_reviews": 338,
+      "mood_params": [
+        0.006804361788049795,
+        0.044944767958841406,
+        0.11012660691885931,
+        0.13761770050574265,
+        0.08455455275431835,
+        0.17251474037776607,
+        0.12342154702634336,
+        0.023142357885076813,
+        0.16953629102069548,
+        0.041763506128570056,
+        0.0913832586693596,
+        0.029058628642621657
+      ],
+      "top_cats": [
+        "nature",
+        "walking",
+        "food",
+        "hospitality"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.7430224189148049,
+        -0.32510908584012876,
+        -0.0854058735094727,
+        0.030878304554259273,
+        0.3313096536194917,
+        -0.7470061290438035,
+        -0.9569900723200419,
+        -1.0214397068134324,
+        -1.0306443381899049,
+        -0.5503748389376486,
+        0.04175352545315723,
+        0.4414951221444252,
+        -0.2611809949474947,
+        0.15143257821208017,
+        -0.707621216335568,
+        0.377806874339696,
+        -0.0012214079302286722,
+        -1.438152543467325,
+        -0.5591192346055811,
+        -0.4983103931224746,
+        1.2364907115029593,
+        -0.835202598094239,
+        -0.5545477145060766,
+        -0.8294044029940152,
+        -0.544334476039625,
+        -0.5458428310967196,
+        -0.7524345144683146,
+        -0.4188357882110534,
+        0.7063419993666474,
+        -0.5217829126867705
+      ],
+      "global_mood_params": [
+        -0.2806276641562821,
+        -0.1672528710797114,
+        0.8505789076422111,
+        0.1787891243261091,
+        0.5754074306968954,
+        0.23614106908163676,
+        0.19150179552332564,
+        -0.2571852306529688,
+        0.6313540878856911,
+        -0.0760395458914253,
+        -0.005817259402243423,
+        0.15507824410231974
+      ]
+    },
+    {
+      "name": "Potter Marsh Bird Sanctuary",
+      "orig_name": "Potter Marsh Bird Sanctuary",
+      "place_id": "ChIJiegrKMabyFYRoqO1De-dKXY",
+      "cat_params": [
+        0.09110999558423487,
+        0.20855031966518797,
+        0.08828507525837755,
+        0.10081477090909713,
+        0.2883072826490735,
+        0.07715763755376427,
+        0.33831406689392035,
+        0.09559432187808105,
+        0.19170733168063636,
+        0.2878357983929772,
+        0.06425962731887407,
+        0.06887902140503405,
+        0.2175393755432472,
+        0.21611368155862806,
+        0.256031980037725,
+        0.12873117405444695,
+        0.4411363497997019,
+        0.1755038491101619,
+        0.09491465811149458,
+        0.10519104285680604,
+        0.5750666038109956,
+        0.19780900082813593,
+        0.1898732490148174,
+        0.08920952259084083,
+        0.002292271643946856,
+        0.294017430298982,
+        0.1971148182110827,
+        0.45409205681760517,
+        0.29591074471035683,
+        0.30022753243188843
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.0778009,
+        "lng": -149.8271763
+      },
+      "address": "Seward Hwy, Anchorage, AK 99516, United States",
+      "photos": [
+        {
+          "height": 1349,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118153580130573821964\">Joni B.</a>"
+          ],
+          "photo_reference": "CmRaAAAAWkM4uZwlbmnzKckMlmJKSmY6V9KLA8fADLoOSPtE3DRdadsZkf04TWlBBkE0DJ011N7Mk5cwoTWLBvEDtd6Av8eHmdPHzZ3repr2Qq-r_k7iGZoEAoRe4rYaemL5NB9IEhANuL_RhTz2inbCLN0QoJwhGhQwpl-Bxk0X1i0iJgKfikgFocUW4Q",
+          "width": 2048
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104725595947893901057\">Joe Stokes</a>"
+          ],
+          "photo_reference": "CmRaAAAA_h-YqQ7i3udQ8qRPcmequg4kbpn1sMgMvEWOtoE-cQzwclXFkkHXATg7nzlSSY2ZMfxx2p08UgxEOPFx-av5s482FCVEh6dFIE0c_P-s5C7QShdMsNACny78Llkj2ggkEhBkPNp-O2aphwYrtN6DQ35sGhTAN_Jf-38FyRJJAsPrXvjBzZHtbw",
+          "width": 1620
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108731594105291314667\">Skip Howe</a>"
+          ],
+          "photo_reference": "CmRaAAAAx8laLGULxMiuTCjH-Zg-xUaHCOf2YiZ5OBive6NaTY3Kz1VXwzooCDhk7qV-ved-T4Hke9kcO8JfjoekaRb71ll8TbntGfBCaDpyWpUb42wC5mSHQOrwgx-owNi0BeM-EhA-GbT9llzEi5Vtbo22rYsUGhSrP2-AHpvdt8qZbg8Z9QFTGLQCMw",
+          "width": 5312
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110601214885688064177\">Ginnette Navas</a>"
+          ],
+          "photo_reference": "CmRaAAAAqvV0Ip0MTdpWJlOcNIvzSWDJ94gY_NIPHKxGAynpQYzPUEUV8OESYWupNstCqml5FaUwk98-cGaAP2Tm1lfMLUXI2DZh8gWACE1YdT-2JBl6snls9cXRY4dgkAZmzicJEhC_G8zfPfl_571VexhuTsxbGhRBkJX3NzndBa4RPzgb9BepMezHRg",
+          "width": 6000
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115309174139223701080\">Lidia Hu</a>"
+          ],
+          "photo_reference": "CmRaAAAAsFKg7XqGQF7BBrdm7MPcC--6O-jApzIhWzgaPDdh2OfOZrR19P4aAqS8yjn3h5YFNr9n1fx7SHK5gAFMwOhregGQVcMsPAHMKaA1wRbv_9421RtJqcodI-tovhMwgMfvEhAuYDwBos-4B03HCebviDKbGhRKC5UkY6b3QaFO4EjJLPBTcJPcNg",
+          "width": 5312
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118153580130573821964\">Joni B.</a>"
+          ],
+          "photo_reference": "CmRaAAAAD9JPQZxpNU97gSDz_ckJW0HZkpWWH1p_CkPWnFnrdiiwu3EW5seVwxIfWc8IhO20wAXhxN6awHp6EAVS-HgGulVplYqwyK9BmpcEmcN-S0ZMSl3WQ2odo3856eVnaf4AEhAfy1GNvZ2DnaYdoIdvg4k0GhR-OBRu25L6JVy3JOqd-jF9U3AaGg",
+          "width": 3872
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108752230232342498036\">Mark Prentice</a>"
+          ],
+          "photo_reference": "CmRaAAAAwelNfrO0kYKjZyprCMwz_HyZ6pEfhSWU18eFKLeGg7jHSvVzVDe0YGH6SCLihffxthF6KfNe140KbVpjTsYKdmXo9dKBtZHGu5eJ5q6JXQyil3OnRuIh30U59_wfy-2VEhD61wN-fY2OvqrmbNgWejjBGhSkLhzpTBMfhwONSvNtQjQMCaWRtA",
+          "width": 4048
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103082895445476504591\">Jeremiah Simonsen</a>"
+          ],
+          "photo_reference": "CmRaAAAAuScSz5NAfDJFv2q3xGyi2YlDb5_mo7gc9WRzTI8DKQXCh1_9kpyrkN9FVAravqLEfDEJxXkwS_fqBl6nlbxvmBTH7NADV5F7SV5bsRWJE6N_cO2lghl_ZMJy0jkUDNg9EhCFLWZeMI1Z7_bqswWYTET2GhTvYhPjSv-QgQ89rd4E913sqH7Y4w",
+          "width": 4048
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109157833330540409135\">Ro</a>"
+          ],
+          "photo_reference": "CmRaAAAAQvS7OFkWy_T1KCsTeTbcTvKzojhr61GqG6qUGxXYm0LFhzoW-YukmiBi0wIfI6fXX_-ZojIOTkCKBvaiosVBHHvmsO5IDy6ScRy3HCdqwPGoNuwWEoM5eaCn8JGtXFqxEhCCebAF2HnjEprslVfawTjoGhQ8Gj_IfVF5gNbZqKTeL-HSVW38IQ",
+          "width": 4032
+        },
+        {
+          "height": 2432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111166524785931407599\">charles downes</a>"
+          ],
+          "photo_reference": "CmRaAAAAGgmdDztctTFtQ9YRq-sRdZT3enN3ktnxaeRUwKNI0oBSJT2n-dwAU-NDHyGQyNqfo0NgJs7-4TVgcFPchiS0-ggPt_gCEEQRdAqi8BinPpwVZ8b8SEmKyMF-YmxPVYBIEhDZUfyaGqpSgqwOvQByuiD3GhRCobP4A6MgDGN0mmlP3eA-tyW2vw",
+          "width": 4320
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.adfg.alaska.gov/index.cfm%3Fadfg=viewinglocations.pottermarsh",
+      "popularity": 0.47675196082061894,
+      "num_google_reviews": 143,
+      "mood_params": [
+        0.004421575121136274,
+        0.03827131983717703,
+        0.05180756033344945,
+        0.08215366072107383,
+        0.037050035772451285,
+        0.11039705218891753,
+        0.08889302707674739,
+        0.013382721458115074,
+        0.0944094299948933,
+        0.03558815966314829,
+        0.06505099931637066,
+        0.015412773041133919
+      ],
+      "top_cats": [
+        "animals",
+        "views",
+        "nature",
+        "hiking"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.8506430687703956,
+        1.1513800718544704,
+        -1.3394847612828245,
+        -0.9322823095221062,
+        -0.10210400078369458,
+        -0.9067817486592508,
+        -0.6382435047880318,
+        -1.2832219755287417,
+        -0.22067245529566729,
+        -0.3564060097470151,
+        -0.45433267828886936,
+        -0.6839750691208338,
+        -0.38883539523547805,
+        0.07628613202718386,
+        -0.37084715214119773,
+        -0.48777173801295515,
+        -0.1519757142435527,
+        -1.2386002235716636,
+        -0.9047557591772437,
+        -0.606971319924617,
+        0.18283853219182938,
+        -0.5613835795586056,
+        -0.7573219093529212,
+        -0.7369905885610453,
+        -0.727415365875247,
+        -0.44896359989926043,
+        -0.8720640592499763,
+        0.21865901559527615,
+        -0.01988854404505011,
+        -0.20286862279386894
+      ],
+      "global_mood_params": [
+        -0.4409460032823689,
+        -0.3671828106817658,
+        -0.19943379494045754,
+        -0.676269817001199,
+        -0.4671858508478552,
+        -0.544989915810076,
+        -0.46193673381582157,
+        -0.6463578617240662,
+        -0.36247547410633124,
+        -0.3160331253822489,
+        -0.6151510820054874,
+        -0.6791321155403045
+      ]
+    },
+    {
+      "name": "Elderberry Park",
+      "orig_name": "Elderberry Park",
+      "place_id": "ChIJVccMwoO9yFYRVLU6_Ov7SOg",
+      "cat_params": [
+        0.11249242500047003,
+        0.10437093974973252,
+        0.10880889614434133,
+        0.09556802435902677,
+        0.3521903609383703,
+        0.0627884940798321,
+        0.2984531426599971,
+        0.07485951719750127,
+        0.23112462411154083,
+        0.2600804647908904,
+        0.048373529388673266,
+        0.07192480040018236,
+        0.18572168982133844,
+        0.5240868026947075,
+        0.2674552304027633,
+        0.13646611699882694,
+        0.4245559830070982,
+        0.19488873713521587,
+        0.10400749403951762,
+        0.09207114772750115,
+        0.5194503400408201,
+        0.21101405608166746,
+        0.1781082407600854,
+        0.07581113501144361,
+        0.004632620323359688,
+        0.2803768520203089,
+        0.20859179765244917,
+        0.43855440322843814,
+        0.4189860787251184,
+        0.378596241631542
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "(907) 343-4355",
+      "int_phone": "+1 907-343-4355",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.21801979999999,
+        "lng": -149.9065414
+      },
+      "address": "1297 W 5th Ave, Anchorage, AK 99501, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115991748600839799910\">John Lenahan</a>"
+          ],
+          "photo_reference": "CmRaAAAA1L2jZkWagIf7LJRC9vBYbKVIpU77F1uOwi-F6IjIyRdUkfh7OtQzver1aPalLu3nllGxGJxqkdkiBJ0v14NazLDhXW-rFKLxCPAVJPjENTYPZRZf27foW9AIOfzbDvAnEhAuwzmABgIMx_6NAuGDz91wGhQ5ieT07NqsRj4YkI5_N0_WOEiPAw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117195216195867840130\">Zee Cale</a>"
+          ],
+          "photo_reference": "CmRaAAAArHaOXmHbfumkWiFaOpqLRSExLgBq-5ExZfuvfS67Gs5jDNSQ8p7NTFaJcJeOTP-89P5E1GfLEuJt1X-sL1H8BwVvkPVRAL8QknkRnBw3JBPAHYpLwhrvyvGlUx-FhyVhEhCIb2ouz3tlbRYjnqJwhwLFGhQPumyDKu-kWmiCZseLAYxmv6J_3g",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114913934851485608915\">Chandreyee Manna</a>"
+          ],
+          "photo_reference": "CmRaAAAA7GariXuQFrejz5Qon0iXQluUiJMDAsenex7ZiGTHShgkuP_4c3X4IIo4VgGy2xWqKnS_WJMnUH3IgMTmBDfieTmAyyK-7MTxz674_lKKkj2R0GBYt0APoF_a3oAwuLMKEhAPuoTzkTSLkml-hKfg14m4GhT-m9txxqKIrzfIIfr1EC4-rK9rwQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101869724010846276894\">Mario Moldenhauer</a>"
+          ],
+          "photo_reference": "CmRaAAAAKdIUW13jDwcf9HFnZg-GirApmSA8GVnKhaYV4nF6yitjd49uhIa8mwgKPLPzrWMHSy9INepfp_q8O33UYy949WyE7D8EhRn8s_qnZTb_FSKx5dnuncw15a79PC2Y6Dy_EhCeBhgeGQ7frUFL7jhSa1nOGhRh03unoJRmhRn9zD2YvkBN8_tnWw",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102559553132903582504\">Saima Owais</a>"
+          ],
+          "photo_reference": "CmRaAAAAMmS_LMKHbQj7hP40aU2ARYgd5TwjeiXQfI1DW26xF98GTfyX79_CMD-SQKX7zoUHRGaOx2kmDyHEjfNf0uPY_edgS5vZ4N3rRKUEzb09jRr2B7E0N0d9U7hHQmXGmiH4EhCOjnal3-qHsXy-L04-pavDGhThU7QbpRClIEfxhWR8VoLt39xtMw",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101827944998481571645\">Michael Quick</a>"
+          ],
+          "photo_reference": "CmRaAAAAyZ-R9G_1a0BOU3rZch_YKgU2zMTxNFp8XLTqYNpHU-xFQbNL6gm69IFFWXiCQJqb97muf67fKrOgi71ox7gyx9kDXnAN-JKRU8H25deV10GY-ojckxnGe2aWDXswkyjVEhA6Px3HrAw4XC1BQPxigIzqGhR-bKULj-TcezxVfj_Gad-4tJYXXA",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117195216195867840130\">Zee Cale</a>"
+          ],
+          "photo_reference": "CmRaAAAA5vuwbUy9Uhn1KSUMbWpOJRgePLDDiTKEpbhCunWODiYDTTD8b63d4Evq5_epmapH1TpassMWjkdlMALaxnHSZyCt3kykr0fMnJ0tikbPlk9Jf-tG7LgIoAoKgDLWN_1hEhBh8JryD8RTHXpGL9S1xBuyGhQPCaIgFuNArNQWSbjyd8lV351Uhg",
+          "width": 4032
+        },
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115502722576759201285\">Elderberry Park</a>"
+          ],
+          "photo_reference": "CmRaAAAA5aH23cegQ5t90w5wsGV30Qlj7wyblYS997Kr4ynXXnNouIu0B-qsZYwg_e_XhWBXL3vXYfzIj6syYBGwJufrYt_OuVtY7tl7Xoi1Vlwj-IkTfCpHOos-Ptuq_fZQuNXpEhBpwttjR5_reRbAAH9KaX7qGhTUARqSu31jhRLrZ5RzFqPtbFWAXg",
+          "width": 800
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108298199577838796558\">Tina Saari</a>"
+          ],
+          "photo_reference": "CmRaAAAAkkuom5CCUA4mt70bLOPc9Eb9kglKqWe-TJXnTVEc7xxKhyjYuOMqxbNz6N2e2kmottVXHTw4ncl9CH1JilItinsqWqcLK5NVfe_cPFej-AR56yh1KFuvXY_JEx0lVXF_EhBVaXqX7Wm4hJ7vN6krwqwsGhStCQPEU5M0YrEipwX9-j-VO7O9Sg",
+          "width": 3264
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107136576808477736328\">Elizabeth Dobson</a>"
+          ],
+          "photo_reference": "CmRaAAAAWio-9XC2tcFvRIQmc6ufPX8S6GbjOSYx4DlhgvEVkm6f4yeHg_RMo2XoSPHyG_q9LmB7MoyNkf2T5JLYoG0_hWfwj8OhNrvlDrGKK7q66qcvGyFBSlQXl9DZ6EZawI09EhAcJ3GNU9exbrSE59oYZs2zGhSvkeG8aKHFCGH5r6hU73mN7-7amw",
+          "width": 2976
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://anchorageparkfoundation.org/directory/elderberry/",
+      "popularity": 0.48167604211331694,
+      "num_google_reviews": 149,
+      "mood_params": [
+        0.008043690313105712,
+        0.034882596930708325,
+        0.04847179878032484,
+        0.07881264941583244,
+        0.04373368631714263,
+        0.1231621829554087,
+        0.08854719184958848,
+        0.013619526350192184,
+        0.09813807671382985,
+        0.03006444755698981,
+        0.05771894600531762,
+        0.01500871885566635
+      ],
+      "top_cats": [
+        "hiking",
+        "walking",
+        "engineering",
+        "water"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.5912008681752374,
+        -0.0942632568099083,
+        -1.1378712880150652,
+        -0.9697767191558151,
+        0.2919488769693736,
+        -1.0984757372311995,
+        -1.062436875348663,
+        -1.5134987592082945,
+        0.36266513262274935,
+        -0.6515184506433134,
+        -0.7810538570848958,
+        -0.6550487320492615,
+        -0.7326633768824068,
+        2.339281297829297,
+        -0.24663060489580105,
+        -0.39718095870017345,
+        -0.24194148333338877,
+        -1.0358416389337384,
+        -0.788689518222173,
+        -0.8683967145636374,
+        -0.0884024427868543,
+        -0.4323798872147565,
+        -0.8899703441335108,
+        -0.8619765510265717,
+        -0.660031299106789,
+        -0.5501416137514065,
+        -0.7645257487011182,
+        0.11772038193714673,
+        0.723046948780491,
+        0.33600507905475663
+      ],
+      "global_mood_params": [
+        -0.1972433253367639,
+        -0.4687056147354839,
+        -0.2594929387132915,
+        -0.7277763715311835,
+        -0.32049813361987056,
+        -0.38446817943143846,
+        -0.4684815281643273,
+        -0.6369150936875887,
+        -0.313150382056618,
+        -0.5307021237707027,
+        -0.7848162828401285,
+        -0.7038331088101776
+      ]
+    },
+    {
+      "name": "Oscar Anderson House Museum",
+      "orig_name": "Oscar Anderson House Museum",
+      "place_id": "ChIJvy0C74O9yFYRro-mYpMcyAE",
+      "cat_params": [
+        0.06758049797179728,
+        0.07440702753542351,
+        0.3279449971030784,
+        0.153886776490578,
+        0.20903701126584037,
+        0.17232692255664486,
+        0.3348819069754257,
+        0.21699495459551701,
+        0.12778886581254895,
+        0.3309413190224506,
+        0.06969574930360527,
+        0.052719862035825994,
+        0.19157917917798525,
+        0.12933327735031588,
+        0.3708080518834366,
+        0.1151146878796196,
+        0.35961318684921556,
+        0.3579851889504077,
+        0.13607557540509124,
+        0.12255172077385759,
+        0.48673071696060194,
+        0.181669863368797,
+        0.21232571595968866,
+        0.08727795684233823,
+        0.05823620138592046,
+        0.29867410206558326,
+        0.20502359686130447,
+        0.33252048910262993,
+        0.16877165398464705,
+        0.2133054035538711
+      ],
+      "noncat_params": [],
+      "quote": "Built in 1915, this home is filled with antiques & serves as a monument to early Anchorage life.",
+      "phone": "(907) 274-2336",
+      "int_phone": "+1 907-274-2336",
+      "hours": [
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.21856469999999,
+        "lng": -149.9060091
+      },
+      "address": "420 M St, Anchorage, AK 99501, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106703723573531765441\">Ryan Stafford</a>"
+          ],
+          "photo_reference": "CmRaAAAAvcyxDAxb5mmTqLVjTIm6AkYxRDgQmJTI_71G0HkLZJtKBb6dCVsGluu9kWNRidaLlWIorhLap-LHixOy8T9-RJEL7VvrFAay0-vAgFwZy_vIKeLQlAjSLlqu_QzlcBo2EhDdDV2mMRwzP_6dGDaJtZVTGhQgr8tjQCL0gYWt5ukWEnymTvIaRA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106703723573531765441\">Ryan Stafford</a>"
+          ],
+          "photo_reference": "CmRaAAAA1_B4FeLSf5JBa9UTtZlNyzEQGWoxV5O1cDG2A0A8tFosf45tWZZ_G5g-ZPi_B8UFQ5mn_6xusEbhIJ80XH0AX6NsfVQW2-j8WQbNlhTc5NbSFN5PTTVY1kJfxDp7ZqskEhCLmXVPIb4sQ5UnuKF2AOu4GhT5dQM9-VLyGLNqhkdYCGN1qqs_iQ",
+          "width": 4032
+        },
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113946734992439035786\">Johanna Marvin</a>"
+          ],
+          "photo_reference": "CmRaAAAA-2mGnjmQJCApsQEJ83hX5fUYc7Qdst6JbT_E-JLqvcpg_3-cFF-mlulp2d1v_p1ArY0125Hoh8HBSeahfrCyDZ4dvQmJViJCmC31I_BHO85dw_N6lw2nvtr7TI_PeUPHEhAPMPMjU74VLTQ2-BDqbK7kGhQ7q0rN38TUZeTHvCFj6Yi7ejuasQ",
+          "width": 3036
+        },
+        {
+          "height": 2568,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107497896881443865148\">Mark Antilla</a>"
+          ],
+          "photo_reference": "CmRaAAAAiJzrFcRA9Is020E1Bu9VqHOQDjmZV-gkVryJHUsmQVFr6CRwpfOh_cW7n2imSTqSBf3o1_IwO5uKNNSa9cwOG6yCMzTV3gsKknMnEteGu2XtGb6V_dgfklXOUY4G5f0IEhBSQrBYzBUFB5F-1XOXmqDcGhTifEZleQA7JGkew8ZJsJWpb8N_fA",
+          "width": 2088
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106703723573531765441\">Ryan Stafford</a>"
+          ],
+          "photo_reference": "CmRaAAAA_x52shtU3P3gRY7Yy-IhHbLWmVp6YriblkhaJ3SPecRqGPk-m2BzukQQXof4_WPnhMrYr5Yit-ZpcY6r1fP05KZ33oRyJOAG_W8v8J6VFNO5NUznWFs79Qg5kPzLlh3aEhBSXqKXSEIZnI-ckeCyW0JwGhSPsPw_HDmuyUbzFKV4dWRl_i3pMg",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110530992384677669971\">Jerry McEwen</a>"
+          ],
+          "photo_reference": "CmRaAAAAHzDVqRqxquFydRVdxZ9k7IHxE1s142MS3l8Dapcc91PlZGW4QCQWyQNkO-YmY7xi-uBvhcgHpbECjF03tt_Vtd4y1UjT7EP7V7jitZJZGU9N2VyeXXdrqshCeafg49PhEhBuGMPaaF12oahm_hQiFIFZGhTm50bY4s8WtFcMH3jg-ueE0N4e4Q",
+          "width": 5312
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112914486260359709683\">Cam Kay</a>"
+          ],
+          "photo_reference": "CmRaAAAAMr-itKov3LQWeBFjYUqpylSeA-CqEG4bJ7QxNNts5iqnzQgt-VjjzPsw-p6wQ1z9Hnhq8Rau9uewDolYwHs2iVMTSVW0c59IzRUE1KF6VIrACSXZS2tIq3hG9LTXFoVzEhC8-NSocrd_eo03jypvyB5NGhQZvNCbb8z-_c9i5RYyKdaPGGojig",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107997009333178834837\">Catering Grasch</a>"
+          ],
+          "photo_reference": "CmRaAAAAaS2hNT1FheL2bC87FhrIgj4rbW_EYOngoh_8S2U87-vx5apSJjQS9jKGUbjGmlF8vKpNiYqA7uv-cKwgFpzFeZm9hqHhB-PfftMhTS85VFnb_FxDk1QVxOo3eCVpFGMuEhAT_RdEayfvC7dz8BxY0JJ1GhSciWcdozhUSiXqcw5Nj6YGryhuUQ",
+          "width": 4032
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117653443537659801063\">Elizabeth Angasan</a>"
+          ],
+          "photo_reference": "CmRaAAAAr7gNvv49HWUzwoj4iiyGF0v74WcPVzma_6T1vvx_cMUvmPzA6C0R9rn_rWPTe14oEHXJwUhwQHdtEmvQe5v5_bXSlJsWOX2wSFsKpWCtv7VhJvpqge0Dot9paRyPGR50EhBcbUH4h4t3YXQmEcWW7DcSGhS29BFghVuR73nnfCoO93YJV-baFA",
+          "width": 1280
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113900437616214553149\">Melissa Cookie</a>"
+          ],
+          "photo_reference": "CmRaAAAABwYa_aBovGuBoWvg24A5OiQfC0Q3F2uN0L1qTNyT3krnKY6bxgaXViyYx8exxkqFn0UG9lyNBjdi0t0BKDS3MuiqCE9JgbDySL2No2zRDOYs_gNg3zid3M27k9FDYO5kEhBEglSsq3idgo2EDh6yvkb6GhRT72JhEyi1WVZ619-a7XqgItleWg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.oscarandersonhousemuseum.org/",
+      "popularity": 0.27573282743803024,
+      "num_google_reviews": 16,
+      "mood_params": [
+        0.0073762701901571035,
+        0.06386414446612922,
+        0.017970811016644272,
+        0.1268386726841352,
+        0.027919313586863073,
+        0.10081003756188747,
+        0.07812928202842775,
+        0.03805067793570644,
+        0.08014745515888926,
+        0.06577287757579423,
+        0.07446561201052151,
+        0.014716389485790002
+      ],
+      "top_cats": [
+        "architecture",
+        "science",
+        "history",
+        "military"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.1361365700296255,
+        -0.4525332655268818,
+        1.0147878429589567,
+        -0.5530180362501583,
+        -0.5910703968201113,
+        0.3628401926094837,
+        -0.6747679836381816,
+        0.06503028290787743,
+        -1.166603578502452,
+        0.10191942749843119,
+        -0.3425307625047632,
+        -0.8374416507249294,
+        -0.6693662294840503,
+        -0.5613787215981126,
+        0.8772290867109863,
+        -0.6472464882405023,
+        -0.5943238326668595,
+        0.6700854567902917,
+        -0.37935389529812474,
+        -0.26104461617156755,
+        -0.2479763131548354,
+        -0.7190511003319734,
+        -0.5041742249046582,
+        -0.7550090704650375,
+        0.8833401297412685,
+        -0.414423070100555,
+        -0.79795948331214,
+        -0.5711171154276202,
+        -0.7873546149830934,
+        -0.8005567797051938
+      ],
+      "global_mood_params": [
+        -0.24214859826623214,
+        0.3995530339712443,
+        -0.8086518579401268,
+        0.012614713780757684,
+        -0.667580049361222,
+        -0.665546787711301,
+        -0.6656363347492756,
+        0.3372949205671434,
+        -0.5511426433567425,
+        0.8570408937581354,
+        -0.39729503462439536,
+        -0.7217040430997111
+      ]
+    },
+    {
+      "name": "Alaska Wildlife Conservation Center",
+      "orig_name": "Alaska Wildlife Conservation Center",
+      "place_id": "ChIJZ9R_CrJ2yFYRc0c7bqahWdk",
+      "cat_params": [
+        0.12928587448460624,
+        0.3685665536034708,
+        0.0879174305997623,
+        0.14047122843077195,
+        0.2323031205571453,
+        0.08147906073648627,
+        0.3264523009367878,
+        0.12038666516963076,
+        0.16026256565143987,
+        0.3155279998839152,
+        0.0743200496348895,
+        0.09293684084755795,
+        0.2440324698923123,
+        0.16244616033739534,
+        0.24510001094932443,
+        0.14785914457826216,
+        0.4764960642427876,
+        0.20395311106009437,
+        0.1305746681434365,
+        0.11035501508332995,
+        0.5085024964518281,
+        0.20169093075361427,
+        0.21120070341445532,
+        0.09316744530165966,
+        0.009072336658492155,
+        0.35300043759060085,
+        0.21891500542829764,
+        0.43927585207574177,
+        0.26498514370247434,
+        0.275011222251669
+      ],
+      "noncat_params": [],
+      "quote": "Refuge for sick, wounded & orphaned animals that offers visitors a chance to see wildlife up close.",
+      "phone": "(907) 783-0058",
+      "int_phone": "+1 907-783-0058",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 60.8212336,
+        "lng": -148.9789137
+      },
+      "address": "Mile 79, Seward Hwy, Girdwood, AK 99587, United States",
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117654763503780712975\">Alaska Wildlife Conservation Center</a>"
+          ],
+          "photo_reference": "CmRaAAAAHnCF9npQEJbm7h5xDqCkMltKgD9-TX424gRHRzTAy9ZyZyRD_FMM7fOnFfEdsNeT-vNoTgaea4Y88hJn78A-P1mbVfmh4ZlPcAPRh0_879cjGEwGAdXQSvjIwKLtmk-rEhCAx2ZxG1wrEKgqha1xDuDtGhQw8bTGq2stH5ylS6e6FaY0GPPfNw",
+          "width": 2000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107472034403489423446\">Joanna Brady-Head</a>"
+          ],
+          "photo_reference": "CmRaAAAAygzivGExtHXK42GVIiOzuEoMchHfiZseq7HDJQmHQp5B4y2ttxtYTV0vWtFhqaWXYFg1fDgPZZB0RPRpmBqnCQU9Kp03sjTd7Jniq1Q9NDI4rjtaXStU7gO8zAFaH2VDEhBAmaRW6djybiaRR_szASuvGhTd5r1Wla9xXXl9fUe0IUm76mVvag",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103052536987395393773\">Tammie Stroud</a>"
+          ],
+          "photo_reference": "CmRaAAAAx09spJoucEwfYnu3S6mGMhooqiYEfe0Y7gPGaxUHrdVx8VaDhPxeqtwkBfxuXdjZLMOUtQToVRIuWfyHTWPkS-LUZTMomypUrubvUeHC4SRZjx9uN_RLYKvYvazLjQjPEhDHN7JwplelQ55dyJbk1qitGhSpWqTifNSGE5ArdlcJar1db6BKKg",
+          "width": 4048
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112200442880104019157\">Victor Marmol</a>"
+          ],
+          "photo_reference": "CmRZAAAArTiIOY1BrBB88vA5vaHZ7xKjX3Z1kzam_6AppbzuI9D-M3AuRxwh5SyS0PBPWpwRQV3vjwBIFKiIpBL1eDSTf0D5l42eUL5j0b4LN6GnAcOOr5-EHKKy70FJR3XqXW_-EhDz_4KQ58PgCPDsi8Sfbqr9GhTkOnWvY6npLttSJ9-9DmXARbun7A",
+          "width": 4048
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105963729185405704261\">Rocio Ovando</a>"
+          ],
+          "photo_reference": "CmRaAAAALxU1tRw0EuMvpzh4TC-upGlQLO3vF5d7I1fSIEj78zMSyo7JI5YRaGvFt4n82TDg9yJjdcxcn9nCHdrwywDp_mdJ0yRpJr9QNezGgmtYgy0757IeMHMWigsLQSubRIAnEhD2adXuhIF2oIyOe57qCRbqGhTLINiRSvTC0HfT8rKFbEx5qa2x3A",
+          "width": 4128
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108003836916542507805\">Grace Shickler</a>"
+          ],
+          "photo_reference": "CmRaAAAAYvftOoU5kLCSi6h46WJasHhmqmcEOqmn9OOekIO7pnSqU75JP5mD4YeKrGEeBoHt3adpwBA3e1qgdYNxxXApFA_LUpN9GcTl5A-_IgMuNKhaw6lh2gDWa5g0CbX02o4ZEhAbaxbQKf8I8W82-Y5bl-BHGhRe1Zf10QjGqAva6E9W3Pkrmu1r1g",
+          "width": 4032
+        },
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114414462493667017632\">Remington Lee</a>"
+          ],
+          "photo_reference": "CmRaAAAAcgcugN7uw6x0TnpUgTNtgwDFVFRHDY4Jrc7u3durxU4ENyvRQ-E3paYnQIgyu-FeEv6WXWFZrxllo7XPbSt7y4oXxdX8X4ykA9WDtlh4nll8UZUCemkNDgjHBfsq8jFdEhDUkATf9WOaOjNNPpdd-NfXGhTfxM0Uuc7vOQJyBPD-i4doGuj_Hw",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118206472588278547910\">Alan Yates</a>"
+          ],
+          "photo_reference": "CmRaAAAA-BuHX0au3KfS2tl_avGP9Av9FO748YbII9v6hZertb_7DAQyuibYdKgB_jo17HtcMQaTldf9oMVQZcpfSEW-MqXRCcMhUwzT1fd4EaEEsb4DKd6T1Nzp2AkNVNEfBhZOEhAzITwcwp3GAex-ZvyKEfZ5GhQCrmfUOtElBLRQ_rYtk2xjrbO3rw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103344031568098629905\">CA G</a>"
+          ],
+          "photo_reference": "CmRaAAAA7m5grljcCA8vjIGenFkIAq6m-pPXQBm2gtlVhFfvvLlIRS19mnStyksux-x0i775DQgYauJsbel2VCgB_UYpqNaf_y5NnTADzttp_C3VaU2I6TBxiIi_ZeDQjKKF_dGhEhD_hyxnrHtxWXT2gRHrT1b6GhQ3rbBWck62fNbQwBFcsfk6PgnLzA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103115477262695265772\">Rick DeBellis</a>"
+          ],
+          "photo_reference": "CmRaAAAAV9TezieQ86zxkYf7_9Pf8usESsRrj28e0FAU1pMmW-WER0j50Huf5gawgD4c-ll_g7T8XwHZgo6OGbkeARkGL7zwOOvCSVi0rbOog3U1dixRbzWaBoM0Rt7aTyEdaZPOEhADP0nsWApo1cVMAcfApGLsGhS0Hc1w_YehmooRVmDXr8BSYwRwBw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.alaskawildlife.org/",
+      "popularity": 1.0,
+      "num_google_reviews": 2768,
+      "mood_params": [
+        0.009814072685701909,
+        0.054076795692135235,
+        0.025137498549393004,
+        0.11025373541917506,
+        0.038292937970362415,
+        0.15841480629995758,
+        0.13350342100900556,
+        0.026080691961739,
+        0.08385832745927004,
+        0.04699183141253838,
+        0.08228264527854037,
+        0.032033965626363285
+      ],
+      "top_cats": [
+        "animals",
+        "views",
+        "instagram",
+        "shopping"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.38743873222076025,
+        3.064648843899159,
+        -1.343096277723335,
+        -0.6488885056190918,
+        -0.4475570038236414,
+        -0.849131071866574,
+        -0.7644744585067429,
+        -1.0078829423906792,
+        -0.6860244071143821,
+        -0.06196482979418589,
+        -0.24742516376161466,
+        -0.4554934243560643,
+        -0.10254596371505606,
+        -0.3180643250393891,
+        -0.4897215015041924,
+        -0.2637471047500352,
+        0.03988758675943038,
+        -0.9410317217827125,
+        -0.4495706717534252,
+        -0.5040746531510709,
+        -0.1417951658446866,
+        -0.5234599749850571,
+        -0.5168585469214922,
+        -0.7000693712545288,
+        -0.5322015681819776,
+        -0.011461361587031866,
+        -0.6677981794542568,
+        0.12240719391188613,
+        -0.20656873313120397,
+        -0.3762593364160615
+      ],
+      "global_mood_params": [
+        -0.07812869139415925,
+        0.10633369464702858,
+        -0.6796183194064288,
+        -0.24306624553653555,
+        -0.439907571570666,
+        0.0588341583733274,
+        0.3822972572989897,
+        -0.14001701315447376,
+        -0.5020526834870078,
+        0.12714978229734328,
+        -0.21640729921334348,
+        0.33696914253704296
+      ]
+    },
+    {
+      "name": "Resolution Park",
+      "orig_name": "Resolution Park",
+      "place_id": "ChIJ8yqBH4S9yFYRz0VEBOKdCtc",
+      "cat_params": [
+        0.14773295936963188,
+        0.10152846527626097,
+        0.10696743886779822,
+        0.18461739875617966,
+        0.3896623441255885,
+        0.08280595024155266,
+        0.3243693842947867,
+        0.08561217482266009,
+        0.16682170346922595,
+        0.23828102844970012,
+        0.061996614619442864,
+        0.10803276863701923,
+        0.17801525425784903,
+        0.29579902906887523,
+        0.2281165200173112,
+        0.15701039965567132,
+        0.5457814686476811,
+        0.24119122760606101,
+        0.1190874761227996,
+        0.09928360872986652,
+        0.5849445897700363,
+        0.2210372997009601,
+        0.18776268380896355,
+        0.08973277127731827,
+        0.016016920551157547,
+        0.32727900193639065,
+        0.2443644208332278,
+        0.5976375993212782,
+        0.36502278407862404,
+        0.4126003231440571
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "(907) 343-4355",
+      "int_phone": "+1 907-343-4355",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.2192496,
+        "lng": -149.9038061
+      },
+      "address": "320 L St, Anchorage, AK 99501, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100647524419194247163\">Russell King III</a>"
+          ],
+          "photo_reference": "CmRaAAAA3UBvqEPERAbtEi3Ys89NJTmAykt94I8XUu2ykTTo7pN0U1PNVz_50fhDNozHEooZ2VM6QxKVRPpr7ib5PO7jyWWxIzD_veKtGs3sfuLWuapEQFNkrPO3dyRzWREjup-wEhARpMoPOpVPBOOe4rS6s-4vGhSDW4fhBa0LVRUfBric9o4IQAvpWQ",
+          "width": 4032
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101125249970162507407\">Lynne Spotts</a>"
+          ],
+          "photo_reference": "CmRaAAAAEZrTELKmxG0ERjv__eauRntrbRtEj7b10GZ5bEpo5oHDR5TqVfMi4DFcWO3Co9E78ibNVT5396QAEV0XYp3sgOXdFfok00L0FgqpoFeU82yeSZKdjwPqkzvVwuZtzZ5uEhAKORqjq8IoOM1Z8_wHoGh5GhQzsRA-6TX0hmFBCiIBl5nENALqkg",
+          "width": 2560
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103376341143694302185\">Eric Schrag</a>"
+          ],
+          "photo_reference": "CmRaAAAAXpFOAtC-Vj9XeEDiQQsRP9DYQEYdcxqjOcsZ9hSOuwFETSXNGiP6RgbnD4f174IGzZNG8Uv3iONaeAWalHKsxCvCT391Y07FSff2nUKRoA0RwWtyXKeKQXd2dnkl4mE_EhDTTw-iBY1sAgSBBas7OxgMGhQWt3XrmIxCjq6POzVNfG-Nwke5WQ",
+          "width": 4032
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113253638021843603705\">Haydn Blackey</a>"
+          ],
+          "photo_reference": "CmRaAAAA33QR-p98CqGsiHHYlV5six_zksSFV8FzM-e3axSlXFbD8hQo_KnJaygWLUgVLh21Z2cIbTW8Zofie0RvvGQnX2V3pEvr-bczL2cftLSHNNKFQz5-oTfJb4Gof0VRg5-bEhBlwimxC_01Um-MKBVqkPktGhQcr0mkxbHKoR0vEz553TywROqJbg",
+          "width": 2992
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113253638021843603705\">Haydn Blackey</a>"
+          ],
+          "photo_reference": "CmRaAAAAvuA_6hGPKL7_KOHbXgpkubUN2C64faf02_DhmP8pfyXw-dMCwJ2zU8V-5BsI9H3x_03nSJPS9DgSNbZIJzXPQTZWetwq1MKkD6fO4Q4ij3dCZfRq9KIrKNW6li7x6AnwEhDLu7WfZZRyzcfDvLnfeNUcGhSYJevh5nxiXrjWk_V5UaqbtCmHhA",
+          "width": 2992
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103376341143694302185\">Eric Schrag</a>"
+          ],
+          "photo_reference": "CmRaAAAAcG0k4VH6Q7N_mrJ8H37VzzapPhMXyQkpeRWnM7rNlEmlxvt3Q_k4YSdWovDdpQdENMKIaTKXpzeEt6TLz20v7-hDBvqZ-4mRUxcGQGuM25soiHPMHF-ZDl6cOAaF2XBaEhDZsxMQ1kNWmbI0KeX7F7alGhQYZ0Bcg_8i2-QUNWgWg6aRi5g_-Q",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109610840914645469512\">Esme Rogel</a>"
+          ],
+          "photo_reference": "CmRaAAAAEZ8mnLAyrb6KMHpYHJFZWVs645_Ne67Jb9nKYJyw-vPFVwQF1SMLKUL5nAUxy6QgJh7pu_vf4YSKAMgEdpoCYx9bJhMueTegzZu2pFe_IPIsXtWICU5drvjPimEM25sXEhBLi03TuwKdW21KJSR2t0eDGhRLNMWyy-Fk28oI8ikPIge6PvS60Q",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113112893161886265194\">Christopher .Jordan</a>"
+          ],
+          "photo_reference": "CmRZAAAAcJXV7_cyoTH22qpKwGsMsWlkPJRR4TpbeYcJ3BxO0o75q0EckEImWWsjeli0PxSaywLhLuEBxTMR9mJfAx1q0qFJ_vi6XZC6GKhDlGMnX5cYWxZKcwvFAMoOm5Hma728EhAQSbG6oy0ujBoSBqHBkFEQGhSrAXiUJufmOGKI1PEaoBArRTLc7Q",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110326423936836696304\">Jonathan T</a>"
+          ],
+          "photo_reference": "CmRaAAAAIbDxPAhdDyb_bSpGU1w5DPnUJFgUSiNWDiLMDGt4a4Q_fU40-JLogplGc8LPoUnwE7n6vRnelBLFGiGFANXSyINnVUTgYN_UPM6tvHtlhDTmBVE8fzWyezMdbkWN6M9TEhBp5wkKs7_R_WDhPt-mBQr7GhRu0FW4c-lIcQUxlLlyNRLi5nFfug",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103117675230428666836\">Lori Petty</a>"
+          ],
+          "photo_reference": "CmRaAAAAdlLqLRaVUqmrmJq7iBGp-zzvD6CkBGOm1O15uj7H1swVfoJOto1UXBFgG09aHYnM3rGHgJZ2pnJWLLVWSbCP-kwWuPJF0NN-8pvBQ64Lv-NVw6OCZ-eRQ1HbE1X-EVZnEhAaMLsxovRV_uxR322iHMi1GhSH0cyBn62IOthJ_ImSI_apmoYYOg",
+          "width": 4048
+        }
+      ],
+      "rating": 4.4,
+      "website": "",
+      "popularity": 0.5118549160726467,
+      "num_google_reviews": 190,
+      "mood_params": [
+        0.0024443631293513605,
+        0.02424169188448413,
+        0.05323149183239091,
+        0.08016677835236952,
+        0.050429668613037354,
+        0.12208973231204906,
+        0.10507023651644017,
+        0.00918158834284032,
+        0.13460906471496906,
+        0.028424272093598015,
+        0.0684768267642547,
+        0.014559570564983118
+      ],
+      "top_cats": [
+        "views",
+        "hiking",
+        "water",
+        "beach"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.16361232765408018,
+        -0.12824991873525302,
+        -1.155960638894752,
+        -0.3334102224307933,
+        0.5230890036735035,
+        -0.8314294780254464,
+        -0.786640513307232,
+        -1.3940817956982356,
+        -0.5889555472945752,
+        -0.8833039863908808,
+        -0.50087489274815,
+        -0.3121245534229946,
+        -0.815940589708171,
+        0.661816309257398,
+        -0.6744001644357922,
+        -0.1565686374861118,
+        0.4158331114849241,
+        -0.5515351306399697,
+        -0.5961998650566288,
+        -0.7246821158356055,
+        0.2310135508055884,
+        -0.33446015788951416,
+        -0.7811181672897809,
+        -0.7321094981835159,
+        -0.3322508903966796,
+        -0.20224827103849236,
+        -0.42933934530856926,
+        1.1511866231188306,
+        0.3973013619525515,
+        0.569821680983584
+      ],
+      "global_mood_params": [
+        -0.5739765204598614,
+        -0.7874966601466843,
+        -0.173796438895783,
+        -0.7069005020598774,
+        -0.17353976842467833,
+        -0.3979542645019009,
+        -0.15578946887323863,
+        -0.8138811132495712,
+        0.16931282132598943,
+        -0.5944445522573499,
+        -0.5358767399744702,
+        -0.7312908342944542
+      ]
+    },
+    {
+      "name": "Valley of the Moon Park",
+      "orig_name": "Valley of the Moon Park",
+      "place_id": "ChIJm0Huw9OXyFYRDlFRPNReAL0",
+      "cat_params": [
+        0.29890429941986923,
+        0.26327967982868306,
+        0.09752372023510199,
+        0.0944731975097852,
+        0.46861367384694275,
+        0.053696218976537764,
+        0.3686524694108785,
+        0.13754626932284023,
+        0.1667324744016301,
+        0.37197533808743233,
+        0.10254289162285662,
+        0.14984176406590552,
+        0.320661996268888,
+        0.42778488705364787,
+        0.2219925266418819,
+        0.186455669566243,
+        0.5049408270036555,
+        0.27349010999004614,
+        0.20662675741993583,
+        0.10828468547812826,
+        0.7473341018232028,
+        0.2790500110552767,
+        0.1920125262847641,
+        0.1103465418782453,
+        0.0037504945971580856,
+        0.31145844607978423,
+        0.4635143957354542,
+        0.5690706290003629,
+        0.5630396751364901,
+        0.45964449875698543
+      ],
+      "noncat_params": [],
+      "quote": "Tree-lined green space with a large, modern playground, dog park, hiking trails & a creek.",
+      "phone": "(907) 343-4355",
+      "int_phone": "+1 907-343-4355",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.2047901,
+        "lng": -149.8929576
+      },
+      "address": "610 W 17th Ave, Anchorage, AK 99501, United States",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106108630934525157437\">Ian Blodgett</a>"
+          ],
+          "photo_reference": "CmRaAAAAWIguwYQURGEj5WfeMHHLUefOhTqXXX7ry8fYd0dCRIh2Tw6g0YOWjVY5WtTYNGUOpVFuf3-BHRpg0BqUy26lxjLz9JFidZHy1qSDscyFbrU6zr55yrnl_k07eKxQr05cEhDUL9aYHq6ad_XjYa91Bpz_GhTuA8I90UuonMZfsOYLNKDX-zNFpA",
+          "width": 1920
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117902837148539170945\">Ryan Harding</a>"
+          ],
+          "photo_reference": "CmRaAAAAbWkyNmpfx7nGBddR5rcomznHlNzUzck5Qe8V9dNWQDXhdmyQ5dZklvEKsOjzNRwob1Q0xadqFJnZzaC6kYZNUR_7Mg7EpaA_sRbUG8Nr8bnXYadKM7dBYsblV7GYDYGoEhChwj_U_J1Aw8AecRW6Z_WAGhSqg4hGMgQUzhtJVO-quFliW7g2AA",
+          "width": 4032
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107317746301677113696\">Mary Kiernan</a>"
+          ],
+          "photo_reference": "CmRaAAAAe2sodmqNUpK-u7N6T3LRCVor9ezC10D4V_vSUIhKQ4xl4nUhTF49mQ5mctr-BvOi_-XzPkF2104MjDqjm_xQdCX1joVKKOlqdgovn-Fm2jIA8vYLl7EMJG0YwOPuBgEwEhBM6XVk1zW7ba3VtBlF04gFGhSKtT5OethqXqE9deBBTsGUuEdRoA",
+          "width": 3264
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110272169936884797662\">Kao Thao</a>"
+          ],
+          "photo_reference": "CmRaAAAAWwgOczGwRqTE5h1Xmd941idoDDEaCQMtvdYjnNF3InVW_c8XsL6m8jabWUu0gYKT0De5Jrxh1NU0DH_0OlXOd3Y4HRWu-yXyQ30-3z2J2GNwXwjFML9zxCYUKTnKL7wFEhB3obQ0Q-_KR87buhxuHXgjGhT-PhEncMhj2lRlZV_9LJlpvxIhQA",
+          "width": 3264
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113031902494098353264\">Brittany Resch</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ_TLxXvjLY4hzB1ZvLuh7dNV_OdzZIqlZshEAx4swdZYDLskPpITYEcem6JBxjOYOPPyuKomBe9bkWtyloz1gUubAi2irFo2mDyE2h6ioZ9uZbwQM56_gt1OtFsFmKIkEhBp2AC_l_6GfK1kqw8dI5VAGhTAT70p461ONVmWpThGkG7dFFvuOQ",
+          "width": 3024
+        },
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114507135592998731762\">Rick Bronson</a>"
+          ],
+          "photo_reference": "CmRaAAAAkNuOtnr3mgiGZ4IFPMYr-wpxwMupmUoTDG63JbHh_DPmgJr67R7hku_Xa1bbNBdhe1aV3hg9fhLrqsRUvclps71AQ4379g6SVGKJsnZ-6hn9-5sQO2OfSrVdLsuJqFeTEhDteY3Kh1bpL1s4CVl45E9kGhT3ZPcExlsuQFwg7GUa5fEbuKn1PQ",
+          "width": 3072
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107746547891053930085\">Emily Freeman</a>"
+          ],
+          "photo_reference": "CmRaAAAAM59OFPtFE1lyTX-4SUzwV1D8Qz6nyDzG9oXx7fRCf5PqouyutuQtArLAHovR7uhPCTGT3zfOpuMy2gyw6L7d-6awr1XGRenFduSsK4OCN6nDn8mWYnE9npo6oF58hSfAEhBkIDeGIYf2lvdD-f0n_R3NGhShhy-bCwBQ88N7h2yPDRc1k_1Z_A",
+          "width": 3264
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115420633250119226389\">Ambrose Garnet</a>"
+          ],
+          "photo_reference": "CmRaAAAAECskLr4P_Z8H7FtmVhr1ls6z22qg3ZTMBofmNucfzhgPshrMpjZJ7znYdGWzDi7mo_9oiwKeauh5A-sN5Fn_mHrq92nknnSAhST_fzuWtBlROn7ezKVCtw6OqsqtpYquEhCN7SKcwFCNnNas6Sd9zQUfGhQSIj8KC7IiCPjLbsLhN2vvkDc7hw",
+          "width": 4000
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108663437258262351390\">Guilherme Ballin</a>"
+          ],
+          "photo_reference": "CmRaAAAALIEPc1M7AEoR34_7idZ5SpZdXieVOD0l9ZWlFhqXPZEkAVEO6XOZhvwR6yKlCIdEybdEwYkt-FyDymFhlZzRTfMzsBEZGU8FVONw_2seYFkFuUayZYxU1UDNr4s-AahGEhC-ebMgQPYGhbfcryiTq486GhSJ7_TbxVKunKO3JV5FpPvWLgcKVw",
+          "width": 4048
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107923857992196990836\">ferchu waddoups</a>"
+          ],
+          "photo_reference": "CmRaAAAAaeuOlox3sXZrOyU9gTDCjeuIsfo92NyF2LOiqbI1G8pIBqAF5cy_Ie5fJfqnzJLYm5-XPm5yAAW7qt01oN9b4lrLzZXW_zUc6kG-LV1pYXL2Zi6R7Zyhn4WmJn1-lgLGEhCqctp8X96lJXCwvrlefDMbGhTCLT1Upr_QdywbDdJh1Rd2hbfaFw",
+          "width": 3264
+        }
+      ],
+      "rating": 4.3,
+      "website": "",
+      "popularity": 0.6473177946649046,
+      "num_google_reviews": 486,
+      "mood_params": [
+        0.018610497568305403,
+        0.03374559165100358,
+        0.03324631968273393,
+        0.07757506683604276,
+        0.026109718703346614,
+        0.21599160976393394,
+        0.12299855727973029,
+        0.02262921165388314,
+        0.15843832289381013,
+        0.040661723330327,
+        0.08644966522595524,
+        0.06103677051943518
+      ],
+      "top_cats": [
+        "animals",
+        "amusement",
+        "hiking",
+        "sport"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        1.6706144744591342,
+        1.805763524943289,
+        -1.2487299592216252,
+        -0.9776005936219634,
+        1.0100880574486477,
+        -1.2197727708996204,
+        -0.3153872371919766,
+        -0.8173116534642726,
+        -0.5902760507044634,
+        0.5382193365415544,
+        0.3330194642267799,
+        0.0849433547628067,
+        0.7255273166265136,
+        1.6316521100960366,
+        -0.740992534220288,
+        0.1882910424695115,
+        0.1942300684650202,
+        -0.21370105756719518,
+        0.5212023839770431,
+        -0.545327782748409,
+        1.0229885341958584,
+        0.23228142886630998,
+        -0.7332019278555868,
+        -0.5398153177582361,
+        -0.685429744797991,
+        -0.31959611267003374,
+        1.6240770765129688,
+        0.9656044864469242,
+        1.5926162292533586,
+        0.8933037099955866
+      ],
+      "global_mood_params": [
+        0.5137112106030584,
+        -0.5027691741959404,
+        -0.5336220164574559,
+        -0.7468555091956668,
+        -0.7072956719533258,
+        0.7828634406608551,
+        0.18349688253093946,
+        -0.2776473114294787,
+        0.48454256598867174,
+        -0.11885832521860393,
+        -0.11998161240139672,
+        2.1099939353434807
+      ]
+    },
+    {
+      "name": "Far North Bicentennial Park",
+      "orig_name": "Far North Bicentennial Park",
+      "place_id": "ChIJH2OHIzSXyFYRlKq7BOTp2Bk",
+      "cat_params": [
+        0.19922192419524418,
+        0.19188001778379443,
+        0.11331422262126513,
+        0.1280161348016047,
+        0.4112869974243534,
+        0.04657646841586458,
+        0.3633091861681176,
+        0.13786366384896684,
+        0.14867913793246143,
+        0.26427941971875885,
+        0.07397987211076591,
+        0.10941111429703067,
+        0.23613623459847144,
+        0.6128848403347337,
+        0.21649705024191784,
+        0.17349174989864055,
+        0.505985134526613,
+        0.24444065147921895,
+        0.16119103173518912,
+        0.10488640791855126,
+        0.697148577383609,
+        0.2611232938114754,
+        0.1919803547060434,
+        0.11725215487224994,
+        0.0023086204313897915,
+        0.3127208082831671,
+        0.33392948762141444,
+        0.5031335776575618,
+        0.47940126052470794,
+        0.41651643125400467
+      ],
+      "noncat_params": [],
+      "quote": "Popular 4,000-acre park with 100-plus miles of multi-use trails, skiing, a botanical garden & more.",
+      "phone": "(907) 343-4355",
+      "int_phone": "+1 907-343-4355",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.1559064,
+        "lng": -149.7514648
+      },
+      "address": "4970 Campbell Airstrip Rd, Anchorage, AK 99507, United States",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115661892431920847517\">Pete Donahoo</a>"
+          ],
+          "photo_reference": "CmRaAAAASskwklHDYEITkmGJica8OnZ7KulqHQVcAZwpWRuufuQGxJY3wppxx32D7pOR_iTyCPZdyf3JBeeQ8sGjz3FbSCfS3yEBMYtvZOysZKP3NoW633taw6Dcl5j-2_84RGwqEhB_FkdFmSa-vhDErD8_RQ8fGhQdZPONC1GYyeewjm_DughUV8ll0Q",
+          "width": 3088
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108605992524964446577\">Dan Burner</a>"
+          ],
+          "photo_reference": "CmRaAAAAxBg0VtMFYwRItKC-G27kZfpdhs4ad3wuGMIkJXjD0HiqQYV3YzoOACy7XeUytz6nKSij320_S-ZZBSkiM39vYQ-Lofj5PFxjBhVRe6wECKO_yXOxPXDd-9HbLHmCFQFMEhA0z6pEteyXnVSaUkWkXKKWGhSkE_iyZ2i2eF9NAjsyqgNqVwz5nw",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102747403002337812809\">Jeff Bonin</a>"
+          ],
+          "photo_reference": "CmRaAAAACAK3C1zhxIEL5vf-3CV8b93HFIpxeee8FFSwgdGWu5ihMCs5NJyrr7csPRAB6hhB_qr6YXXmJFbv8XG0NSZWxcXKCjNE-J4jz_38DesiCZ3xBjuXwiOoXui8p6WWxsN6EhAW54pUnwPFg9wsGtnI8yVKGhTVSXGSN-z6Tq8upUKQxnYDu7bCrg",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116256552969192364142\">Dave Jones</a>"
+          ],
+          "photo_reference": "CmRaAAAAVl31txtPZZ92E-qpZ-jYCwbCtwv8Kgt7P6iToLYKhxfTBPcnr4uYAxz7rLPI5MSo3xYQcUeeQF2SL0UzJS5EhkDvqWXZANVf0LCvyYJwYmb7vw69l1FeRtRJEuWTL5MMEhBwiYF_axYEvfzaWqqYiYx0GhTlWI4ihHDCsv4NDxqdD43kXc2Zhg",
+          "width": 4032
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108303079081705147660\">Chris Norman</a>"
+          ],
+          "photo_reference": "CmRaAAAAzw-HeiMqLnngc8I9NoT0vcMuhchM2kq_sJy7rbhHuFR0noFZuAD88ZDPK0-g3pfTm_oAjkYQpEJnyoM4OmJqBgX3fBOaTzqDb6kQCn4DiY2i33_3x0p940Ypdj6bkO9XEhAMGIc2cAqIPvgrf8GIfybhGhSKbVuvi0_QisRG345rCSaRUBcFDA",
+          "width": 4898
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100165175866379439458\">Charles Souffre</a>"
+          ],
+          "photo_reference": "CmRaAAAAOafIZtQTxfVu7HzEWdxUTKPjimQ9wqnC6JILdVM7bIK0_7TUZI5A6LXIrBJGS7-Be8-7KkdWVzSuxOHGqo5D3gP30QdqEnKrZd1mWERDoskCFLCyMh9EGd-lmcQtADscEhBeutlzpVgRbzIQlzDGULqhGhRyl-dmpLnfjghklP3rti-rdW0SPQ",
+          "width": 3840
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118293346399483438367\">Patricia Christophersen</a>"
+          ],
+          "photo_reference": "CmRaAAAASKtpU0n-ryVHEUp5EuAPqws0gVtr1HRz8gpM9sH1Sl_exIIaPcbwEWWYE65qhQ_W5LggCOTfC-RfXx-07fS0yZmj40FI_wc67-cMcddAaJKhwTqyiQ9q_hpjlyl0RYCXEhB0hI3dPi41Q8re6XKj-ONKGhTqIQ3fPz3K6fO5-Ml06ywOR69ntw",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113634757128893180730\">Kristopher Verrett</a>"
+          ],
+          "photo_reference": "CmRZAAAAEey8cEMiK9adre8isw2_pGkAM4vp4R5u9R-CdBBVcxph5U5e23RPCAhaPjRN2uuqDn4kcpDt0VF49jsaqhRJg6TBuuOz0ycmhXVgtWfI4DxNN-rDqrUR9ynyTCnz4kenEhBP944gdfuQTImbstSvNlwqGhSCYXJe9MaNjNn-2EEn1sHkw9IuGw",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118293346399483438367\">Patricia Christophersen</a>"
+          ],
+          "photo_reference": "CmRaAAAAVJpeuWFCJ1UFUM-loPqQy78kpEE_V99CoNW6_4lwD56ZhUDO_AW7IseKRYRJ3x02G8yVw0fFJ0FCz0nYgsmUSjM67ZX5QVWG3o1hPEbQcs1mc6mASDS7GcETY7dYOmtGEhAGJaPFo1PynB_B5tfnEjEJGhQEx8VZ0VoZ0ORs4pugB7wO8ec0xA",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108182200432571559272\">R4N63R</a>"
+          ],
+          "photo_reference": "CmRaAAAA19wBa8dQT0xy3FPApuxMQdsAkZ0TKkmwOLc4YPqiTfULgGU4yEBS9klv7R4s-G4gBvQ-nQRPdtFcHJC2Uw8xAyobnfOcieOtMUF7JIyYawbyhR9s4kLb7FIOjMb9t2DjEhDO1PI9ifyAqoNNcPIhxW9bGhRFKVEbrqr7n5IxqwZXMlUsJNpf1w",
+          "width": 4048
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "popularity": 0.6169423333826368,
+      "num_google_reviews": 401,
+      "mood_params": [
+        0.013049610105523881,
+        0.03882787781388964,
+        0.0758565699649072,
+        0.09860345770482132,
+        0.06220378302914981,
+        0.2057507049528889,
+        0.10504438743971826,
+        0.01815306662091411,
+        0.1553407851857392,
+        0.01914409160766731,
+        0.06273064793747822,
+        0.04063745615046501
+      ],
+      "top_cats": [
+        "hiking",
+        "walking",
+        "animals",
+        "nature"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        0.4611253988542478,
+        0.9520579954298393,
+        -1.0936137141322697,
+        -0.7378953555024608,
+        0.6564773295178198,
+        -1.3147550073209346,
+        -0.37224957473602,
+        -0.8137867304297968,
+        -0.8574478704905337,
+        -0.6068724789629865,
+        -0.25442141936635193,
+        -0.29903414495076464,
+        -0.18787418863435348,
+        2.991771778721955,
+        -0.8007504036583363,
+        0.03645907756927913,
+        0.199896525102824,
+        -0.5175473879943243,
+        -0.05876561797951223,
+        -0.6130414377242787,
+        0.7782333195150821,
+        0.05715056635545157,
+        -0.7335646568455985,
+        -0.4753967687831851,
+        -0.7269446463648044,
+        -0.31023263130649115,
+        0.4098776294889801,
+        0.5372517862278515,
+        1.087738893139052,
+        0.5967493629066162
+      ],
+      "global_mood_params": [
+        0.13956431173065162,
+        -0.3505088813066405,
+        0.23355966218991003,
+        -0.42267224191327285,
+        0.08486960748927454,
+        0.6540838885803905,
+        -0.1562786523859577,
+        -0.45613686404477816,
+        0.44356621609687186,
+        -0.9551018442182613,
+        -0.6688444835678093,
+        0.8629252374784496
+      ]
+    },
+    {
+      "name": "Alaska Museum of Science and Nature",
+      "orig_name": "Alaska Museum of Science and Nature",
+      "place_id": "ChIJ99EwrG-WyFYRki9sfnVal-E",
+      "cat_params": [
+        0.12372064145100461,
+        0.13261554853696328,
+        0.2500428311867447,
+        0.2926606860042395,
+        0.15184692730487157,
+        0.18408643028960195,
+        0.34265940948762785,
+        0.28249008471061343,
+        0.13058457169131205,
+        0.3024254990550175,
+        0.12049631126631763,
+        0.06732713911886648,
+        0.24026781367474426,
+        0.11140067168097487,
+        0.2928353932492349,
+        0.1517991429650717,
+        0.4217341306020481,
+        0.288174276895447,
+        0.1384188232803498,
+        0.11899045883404724,
+        0.39294479760377815,
+        0.19587054602317924,
+        0.2503443624303906,
+        0.0964065511881762,
+        0.05675898754043581,
+        0.30634271227015997,
+        0.20572627340297797,
+        0.3215301365654495,
+        0.19847213387053275,
+        0.2283460858263269
+      ],
+      "noncat_params": [],
+      "quote": "Museum exploring Alaska's natural history, with dinosaur fossils & hands-on displays for kids.",
+      "phone": "(907) 274-2400",
+      "int_phone": "+1 907-274-2400",
+      "hours": [
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.22514929999999,
+        "lng": -149.8078589
+      },
+      "address": "201 N Bragaw St, Anchorage, AK 99508, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107484708462049365361\">Dean Shannon</a>"
+          ],
+          "photo_reference": "CmRaAAAAViWdrlqUH6PmKEarELr7cb7-Ut1YRVDwlXt6I65ojTnYzzpnes8o8v3ZIP_arNT0MNeObJfRUM1xB3FFH--e0-FYTOi0jV2hFUZkxTLUreb8iKhf3PtUBOo4jgZ7QyPgEhAlYxJAB4VWE8RlKiA7GuHtGhSZ_lqIUBU_caon6sLkygsmaqyTYw",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102233101890870510997\">Jackie Grauf</a>"
+          ],
+          "photo_reference": "CmRaAAAA1Wx5uOeu1HYGG7sTbv6JByqeGdvyqPJNOk24PC1F7tZLVEdNwcSd0D45W7GGnMaOr8bbLLNOGyLDZFd0--1JdqwMQTUVx0xArCPDmCfZEUQ-dzmLkq70nHd3FZp8TsZkEhB3ydwJ3hS65tZ25IZHDHfSGhS0KKbT2DDZQnIH-PpKturpcplClA",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116285643814864713254\">Michael Hyde</a>"
+          ],
+          "photo_reference": "CmRaAAAAQBbDUrl95Zha9B8xxedEbGcf7Bi6drofYLcJ2JIajD2r8Fasp1VCIH1zGRbuuvlGMQ0S-gQaAVrxEZ_BtufNotvvJmn4TdiQmN5toEqox00pwrRff4Yjg6Iyk55BGc9DEhBK5RY5DMNLoP90RNQrjlCMGhRZVfIJgwHemEOgrRN-3JOp59ToHg",
+          "width": 4048
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112848238885190178176\">Guadalupe Kirk</a>"
+          ],
+          "photo_reference": "CmRZAAAAz3ZuLG9eWSrsRWn-vUlL6prTFQBUwrthR9W0ZPvuR_T2bDxBDo89ANHszOqfv6dFJw_ooWlRCPXz-qWBRFActqPQ7IOHyNAhxxdreafcVwNETSr0G9DjbsC-bIUA4_AzEhDBi3hDjy3uS7mo9Pt7N0m2GhSqhHrDoEwB8QLyLTeowmi55TlHVw",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111507694211648065425\">Jessica DePatie</a>"
+          ],
+          "photo_reference": "CmRaAAAA7cdwXFONvyR_vYJMtQPsZAGOiFfElQO3E0nsgdHFBAphOQynRmLURvLh0sMvLJ4mnK9uhZUHtBAJnbHv_aCvbKac6lwFyEH1bxMgq0e_krFp83B36evVM5Ncz2y4W2aHEhAbYjDFbdwOXpUaQZbCBbMrGhQfqsa_x1xuyrc12P4Gguay9VAxvg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111507694211648065425\">Jessica DePatie</a>"
+          ],
+          "photo_reference": "CmRaAAAANXeXEyEv0t99doKJ7HfPNx0EbbWw-AQ2WqQXOqCgkFzyIWFXA3HNlQ1Uya8_5MmVdvI7XARCaB2ddFf01jM98NmqAiLhLb4f1qKGIkScQbIg82z1_UTdqsGm0Oqtej0_EhAXsb4rQPnOjmlrAIbTAocqGhQqfVEMimILoisvyAfWC71PoTI5wA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112848238885190178176\">Guadalupe Kirk</a>"
+          ],
+          "photo_reference": "CmRZAAAAIxY_Tu8QVNqaDd8Tb9PqI0RDcgjADXt_nnzr9ZbwEwVSULYbN_zO1okv4XjwKvhTQcb0hs6AL-Ztfwo-wh-mVAHfF_WWrOorq51bLJSUumDZaQZqudwLjpXK2JVf2DO7EhAFcQI0SEKODuYtkguykKhwGhTxd-gdvz7rxbuW4CfKETsaI-KzXw",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101480211020698271554\">Raymond Ayres</a>"
+          ],
+          "photo_reference": "CmRaAAAAEKRywgH5joLs8XXrYQR_236sqEDIfw_xbYkl_OTJDZx05m8Pr6x8YVuH4VpvqQRIjmpkbAAm08r9nJ0zL5fqquiUMi-WGYlHwE1VIjbJT04UtfFvPrTOqlJp2QamAdgxEhCdJqELeDCoDnhzL0_a3j4BGhQkzmlwdTBnH8TTxJiIeG1Wcejg3w",
+          "width": 4608
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115285299872843259149\">Becca Hill</a>"
+          ],
+          "photo_reference": "CmRaAAAAq2QmJn7iteeXyreSzKP43h_bEy0IFMYhz_55RYejbuSYjx7Y9Odtl_-uMQKv8oMdIsX7v_q8i3Wb8_Qc5XrtlMRbx-OFFm9Hx5q4Wgm7rYP0gmrKB-geQltSS3Ib6Z8fEhB6ve6fhvZQd-K4xMFwTpO9GhRfy2rQQwdh5XY_DIsdY5m6H7VLzg",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110910796012321291242\">Carolynne Durant-Hall</a>"
+          ],
+          "photo_reference": "CmRaAAAAzNeaZdZN5f1OfDhIhd3IKve2kDuXxyhhSqQ4WrcUZzkCdVz8RE4wZVqjnM_oeX_akYs6YP_uBL6EVaZMUN4ZoxsQODcgjs23C3q-7iGY1liydVRqIC1h8POzIo96AuafEhCf3P04s3FwtFX-gGtPvleCGhTa_hVVoO88q-vlLwZN1HQNTqpnNQ",
+          "width": 4608
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.alaskamuseum.org/",
+      "popularity": 0.4148699143165483,
+      "num_google_reviews": 82,
+      "mood_params": [
+        0.01702036180651326,
+        0.06600219881065367,
+        0.01715169296578738,
+        0.12867901961802672,
+        0.024196737680890486,
+        0.15681244085238769,
+        0.12558064808834676,
+        0.05548602329521359,
+        0.09246966372415112,
+        0.04140975483164278,
+        0.09063047999872845,
+        0.03229219996653833
+      ],
+      "top_cats": [
+        "science",
+        "culture",
+        "fashion",
+        "books"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.4549640950762171,
+        0.24344952795710662,
+        0.2495245748403641,
+        0.4386909704878772,
+        -0.9438385752993111,
+        0.5197198942467268,
+        -0.592001086768613,
+        0.7924066986454246,
+        -1.1252298507989131,
+        -0.20127899034065,
+        0.7022581819473859,
+        -0.6987135876333693,
+        -0.1432275569709006,
+        -0.6931480129903417,
+        0.02935355868022177,
+        -0.21760228805018972,
+        -0.2572529734260917,
+        -0.06011023493886324,
+        -0.3494433179314936,
+        -0.33200587758808087,
+        -0.7053710117764042,
+        -0.5803208594472461,
+        -0.075520556532873,
+        -0.6698535886198668,
+        0.8408077168273083,
+        -0.3575417023422339,
+        -0.7913754645343835,
+        -0.6425147149530465,
+        -0.6080697823412495,
+        -0.6971350413958548
+      ],
+      "global_mood_params": [
+        0.4067239054215479,
+        0.4636070384639133,
+        -0.8233997732211985,
+        0.04098634172343063,
+        -0.7492803354853572,
+        0.038684385632083956,
+        0.23236192577824555,
+        1.0325420517458803,
+        -0.38813603062228225,
+        -0.08978744497279274,
+        -0.023236710532547052,
+        0.3527557497004672
+      ]
+    },
+    {
+      "name": "Margaret Eagan Sullivan Park",
+      "orig_name": "Margaret Eagan Sullivan Park",
+      "place_id": "ChIJUwm4bXy9yFYRQ4pR1HkjZ5U",
+      "cat_params": [
+        0.27238430934265245,
+        0.21246665125987085,
+        0.0938257311942618,
+        0.17640985553623925,
+        0.6290666252244058,
+        0.04614642427663725,
+        0.3678111366734234,
+        0.13857017087981374,
+        0.13794259021768948,
+        0.30498662362343726,
+        0.11423806534104522,
+        0.16183498890725698,
+        0.32970642221519536,
+        0.6182087668358629,
+        0.18847328914423947,
+        0.26303189149716727,
+        0.6746519796923495,
+        0.24796663283862605,
+        0.1826716015869984,
+        0.0910859231883297,
+        0.8775653854938976,
+        0.33652222768180595,
+        0.19967357972726663,
+        0.12368415502471522,
+        0.003261583120752947,
+        0.35811893543340245,
+        0.3855604254575484,
+        0.6112616454970878,
+        0.6776869774073992,
+        0.5669944235875458
+      ],
+      "noncat_params": [],
+      "quote": "Green space with a paved biking & walking path fronting Westchester Lagoon, plus mountain views.",
+      "phone": "(907) 343-4355",
+      "int_phone": "+1 907-343-4355",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.2076108,
+        "lng": -149.9178756
+      },
+      "address": "1824 W 15th Ave, Anchorage, AK 99501, United States",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107385005234151697848\">Fernando Alvarez</a>"
+          ],
+          "photo_reference": "CmRaAAAASs_sAubTQks7BTSKaxxlf2jHBU5l9bWVuxHdl_r6M5cS57X6FpgTByc2JiTSdSOps63OIvyIWKoxK5DjH0dIDOeI1MvzE4lpI7VnDq9z330y3G6DLZlD48XhVBkvAFhdEhBdiwD_syULTb16BIGDPMPlGhRKpUqQ6MMyCRoR_izHZtF5XUZiQw",
+          "width": 5312
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103939912451700007038\">Doug Watkins</a>"
+          ],
+          "photo_reference": "CmRaAAAAv3rQvapDZuAPkublJGpzoeQ3hqHDyGlKm2mIwxc38XCQLsKNynKvlA5xlVeYumLwi_ulrXb76X-mJC7uG_TZdImkrq-98df7MbK07xCclCJwFE3Xrl0H1tgUkiIVpaJuEhD-CgnCnfzPHMkBoDdQMrTQGhSqk0llm_YmcxFscjGddXNTp6qQjg",
+          "width": 3888
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108605992524964446577\">Dan Burner</a>"
+          ],
+          "photo_reference": "CmRaAAAAAd06WCd-aqZM7h_E_IEnAVVNalLTNUi2VI5qG807teNnib-0pE2mW8LgPQaoF2q9qn5gtWzzbsJaPkW-qoYaqlLwpaAFc_bfvWr-6aalV-MzF1v8In_bGLHpAzwVA1jpEhA58ILpPSALwF2N_Uk6y6nvGhThHxxs5h_xmyFNPZek8uAq05lAkg",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105999787732276120745\">Aaron Salsman</a>"
+          ],
+          "photo_reference": "CmRaAAAAEb96TaoQ8KjjafHBFAUDCvLMHSeqriAOyn7SrSbIYMJY9PMYOoiJmN6-Wko-EfkftpFq2f_LWR9RZfhm_WWrqz-6J4Dh0PiDiSKan-DXcCRAAxJ_5foyc49VACY3i5KxEhB9mecaHnAijY7_qiCwbYrzGhSs_q3uJOmJ8XZkumrxFy9VQViK2A",
+          "width": 4032
+        },
+        {
+          "height": 4030,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113063047196873168071\">Nick Luchsinger</a>"
+          ],
+          "photo_reference": "CmRZAAAAR4-ozuqG4AgFUwGXgZbNM3MLJuzB3KizVSWQfK81LZtkeBIs-KBCyYDKrnyd3v5tOuUZJmkJP0otXHjQ-EHJCYMzO1tzw_SuhOnQBNEhLlkhJu_YYCqxxNk6AP7548h9EhCnKWoGoHTW2gtFA0kX9a_ZGhTsALmPZ9DCRtYr6MzUsbqp7lVWWg",
+          "width": 3024
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106766012076954590832\">Jiri del S.</a>"
+          ],
+          "photo_reference": "CmRaAAAA0JDDVz1GSD1PVvH0xXZvwXzAUXAYiRTbIBqcoSiBeiik2eQaPNuAD-wv1mLrY8HWWYo0ExLBugv8d0F7bQ6eJyt9hfaHQQsnWTPERXHFABr5mMxGButkITgyH7prpd5OEhDgEDrXp9Tpwz2gJ_7RrUcPGhT5n-OPXBs_dmI2kwWiCLtS3DbsHg",
+          "width": 2560
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106143066926016786112\">Aaron Puente Sainz</a>"
+          ],
+          "photo_reference": "CmRaAAAA8iA6eR2w7Aj9E_U0KhII7u2JvcHl7fZfR_bLq4zJGbdXm5m-Dj5F4FDJ1EMuH-aY2SJVz5e2yXGzq7YR6uIVqlBEjWEMkjusPEb4sN-8xh5-3XbfUR92RQyHrXuL9GqcEhCfvwpH9i05OmuizekFMFVwGhTUVmDEH7kGa0rY9yRrypWGGCgfcA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114054100766191617281\">Austin L</a>"
+          ],
+          "photo_reference": "CmRaAAAABL7MU-_F7qSBmghWQSdrJQUcgi32zYLCEZG-ov-Xcc6gF-x0BEkxHNq-Ihjl0_ipnSb4fTX7fnnB-syIVUz_mhfUESl_uibt1-MlXVA9P5mxFBv9Ub-NONZOfcR06vp1EhAocIYrl0rOtpW_0dIj65tLGhR14JZBO9eyIU4mwGm2Mq8-FsCDsQ",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116809958816085053832\">Vince Prep</a>"
+          ],
+          "photo_reference": "CmRaAAAA1k6IjlxexitlEH8DoH7ueG3J-46jungOENvxvp-6SYHLXvHu4xnHGr8zxq5eCwx0C_doCbxlRnTHHvIcuLzdeYd-brn7L756D1voAuVjbhkYzLgrc2j9Z5_0ONElDeMLEhDMDbtVJP5PNKpGsq22EA4sGhR9_KrCYkguW4aAM0Yr1aidqW6TiA",
+          "width": 3024
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115340164524830199105\">Pam Wise</a>"
+          ],
+          "photo_reference": "CmRaAAAAyR-mJhyUvtZ87M8U0noEe1yOilL22pqhMsG5KuN11wmt4UoazrZmtr1YOnMJS47fsnI3cBRPUnI1D9sAAWAOOMjzrfl-ck2EKy5SXKJUQ_koWIdk_1Wn5teWNVsJedpgEhCvwIWhfBseO5larXbgL3gEGhSCE7GmL2_yFkRrbQG4U_n3oEuWoA",
+          "width": 5312
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "popularity": 0.6574021412833062,
+      "num_google_reviews": 517,
+      "mood_params": [
+        0.025161003838037245,
+        0.06214609789171096,
+        0.1531706854432223,
+        0.16057326554685358,
+        0.1130718959018261,
+        0.3273293568716152,
+        0.1333153748436168,
+        0.04078532980366973,
+        0.28434240679850026,
+        0.01985649874073262,
+        0.059246003557214676,
+        0.04800981103965196
+      ],
+      "top_cats": [
+        "hiking",
+        "walking",
+        "beach",
+        "nature"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        1.3488360436054936,
+        1.1982065391238397,
+        -1.2850567435359332,
+        -0.3920631389835645,
+        1.9998172459504442,
+        -1.3204920838878176,
+        -0.3243405611934392,
+        -0.8059403981774947,
+        -1.0163383335400868,
+        -0.17404747752002894,
+        0.573548067299705,
+        0.19884527111612835,
+        0.8232631087722225,
+        3.030892140559694,
+        -1.1054810830311153,
+        1.085143116419362,
+        1.1150899363885631,
+        -0.48066695881830385,
+        0.2154248563683942,
+        -0.888028175899456,
+        1.6581275737677237,
+        0.7937427790583144,
+        -0.6468248743155117,
+        -0.41539628552574726,
+        -0.6995066402024035,
+        0.02650473010358654,
+        0.893655077668315,
+        1.2396937196369482,
+        2.2846765083954064,
+        1.6314561177281295
+      ],
+      "global_mood_params": [
+        0.9544415118845961,
+        0.3480820490179229,
+        1.6255715021345607,
+        0.5326825878716203,
+        1.2012845527492426,
+        2.182937503131525,
+        0.3787385582890447,
+        0.44634116122204,
+        2.1500880027536966,
+        -0.9274154400826413,
+        -0.7494798613443799,
+        1.313618473808108
+      ]
+    },
+    {
+      "name": "Town Square Park",
+      "orig_name": "Town Square Park",
+      "place_id": "ChIJIytn_SmWyFYRJ2JpQwiCjqg",
+      "cat_params": [
+        0.13419281330948593,
+        0.08167716391935818,
+        0.14129116755245877,
+        0.10827429433827886,
+        0.23943574924685623,
+        0.11169165998823843,
+        0.277908222339921,
+        0.11616640333668929,
+        0.17976906305590523,
+        0.19350745362729532,
+        0.040438234857531945,
+        0.07407707967009405,
+        0.15032052989062297,
+        0.1776921128326979,
+        0.15563736256030677,
+        0.07944695135372755,
+        0.2125920263139672,
+        0.19779438453300807,
+        0.11977425429726965,
+        0.0634495485475817,
+        0.4120928648352583,
+        0.18861732199676184,
+        0.09627333864054496,
+        0.08719204629780283,
+        0.025540151540657,
+        0.20482205715726393,
+        0.22582162179012014,
+        0.23974480513473248,
+        0.21580174781156677,
+        0.31089157397626516
+      ],
+      "noncat_params": [],
+      "quote": "Small park featuring flowers & concerts in the summer, plus ice sculptures & a rink in the winter.",
+      "phone": "(907) 343-4355",
+      "int_phone": "+1 907-343-4355",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 61.217028,
+        "lng": -149.892606
+      },
+      "address": "544 W 5th Ave, Anchorage, AK 99501, United States",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113253638021843603705\">Haydn Blackey</a>"
+          ],
+          "photo_reference": "CmRaAAAAwNXcXsvfoioE5rGtD3GaN1qps605abuPT-OQ3tZc8ZPfOh6X5rBm-9ecqWsmILwnrmOWgax4QMeMPW3gW4aaZxnDv_kPZX8sL-5bxob-ffuYQX_P1KHCeDbtzp0327DDEhAaa-poIuZVrquBmLkm0oGsGhQLrn3AdRqgvK3Z6HL7BgtKhZ2ZBQ",
+          "width": 2992
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106703723573531765441\">Ryan Stafford</a>"
+          ],
+          "photo_reference": "CmRaAAAA9qZCyIxe2a1tzkfzWDukaYvUXU2YBYYORtMCYt3nDT43SwvDYy1al5aPnumRyCGrKAhRx4Ca7pKNxbspsv91asI68s3WmrbsSKi3VjpQqSdTSTG9Wl6Iel2DheOor-nQEhD5dL_MtGtCKkSUaESPKttxGhS3D90puJfDPzUIdlVHwAhQEyOYtg",
+          "width": 5472
+        },
+        {
+          "height": 5120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111030597797111333036\">Deborah Barta</a>"
+          ],
+          "photo_reference": "CmRaAAAAYeHDoN_jeTum0XCFpIy5DtIOyHPrrMJhr3sqw5K3buuqXUXMoIi4Lh78anslfzrt8j0htycJRuwQFHZtCaFKRXm3J2dkQdLfHZKedf4uIGiTj_Qr3v6q_RE6IyyaWV_9EhAykRK8OfzVHl6EnsCChP13GhTn-jLgryB5JDrXYN2jqhumAt8FnA",
+          "width": 3840
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107391770180883705462\">Rita Routier</a>"
+          ],
+          "photo_reference": "CmRaAAAALP5L4wWgXM7_4564iydeqDz_LVWEA1wHtq2HrK54icNb1uK1MD_Z0LyQPH0O-kmGrPW3FWubOR6mlHwZ3ZI4Xh7y7xYlYRWWuCyQDvhpsaUtWuGqX6TfHwe7kzm6-OVUEhDBmgLm29I2DRJ_9WOOgKNZGhTDRdP7ufoND1RNsXStLAdzdK360w",
+          "width": 3264
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104996679031051398898\">Hank Hogawa</a>"
+          ],
+          "photo_reference": "CmRaAAAAS82mJm9wnwKMTQW2leE-FqKsQh_eLuUzRwmMztINIY9CIiV2OgxCmt0LADVRDOwV4xaiQ4W1dRxQ_ySEheJofhvQ26iuXdPGrx8KAwkCUQzPPzEDdnRfcBmbu2xNuLHHEhCeW34ranP6o1Ei2RNT950IGhRuLbz0ZDFv7NT3gdkV4KKxP1HkZQ",
+          "width": 5333
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113024519780316134244\">Mike 907</a>"
+          ],
+          "photo_reference": "CmRaAAAA3h5nLIFIAPlgpLf1nHWa9VI6M7NGQZ2MzRdjPsGWDBsIdyfGaBZD12o-lfHed5FuykkuDIpMIDQkmbyd-5Ut1zKzBu0v1EmtNWli7LYjXnnq-HxEdX1xnZdDWmcoILnXEhB_PL6efE4hBvcgHV2Y8oxkGhSBpgQIhmsioFkLS22XP3VknCpZPA",
+          "width": 3024
+        },
+        {
+          "height": 2083,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100638961267243654762\">Angelina Viveros</a>"
+          ],
+          "photo_reference": "CmRaAAAAA1CuoKFPfEsGb4ORqSxuHtxzNr6z4jjhLrQXYgBhD79yzwjDYmb55dhOT0ZGOta_nkytrD5jCDP4ku5a2TCv74-zGMzo_evmy9TfQqUk1kmEJTVYvU0Zzldn_n-_qxQ7EhDUBccHYfdNkU9C0NkXqoNTGhQF9G2eebcs0_y_5UkkEo41bOtQ9Q",
+          "width": 4128
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107122794931457350071\">Tim Marshall</a>"
+          ],
+          "photo_reference": "CmRaAAAAWiQ9AdYXIGAdNJaYb_xC-Ei92oe2Un27AHqhmlu_Z50QIH0FTOXi5ffWEsoftvnzd5xnn9E3uu0k4dExVjIi4RxtXjdhv0JAI61VX1LrG0jj-4igVMcRVzWkS62NGLGlEhAmCOF98TDCydN_M4Pvv_UuGhQZczIVSh-n9RIGjE7YrZeQEtyAIA",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108883213832253581168\">Ievgenii Tsyngalov</a>"
+          ],
+          "photo_reference": "CmRaAAAAYXu4nFGQt0_GBXt0Fz8SIWzv3gIFhhb7VbieVioCSB_AlGZHNbXHZ6NeZ22NG6VJdvir54R1Gvj_rlVqT_7wB8vx93ZGrJxYTEvDWf7nq3fMP3QjFwo8CEOXcDRYg8__EhBsE5g_ppX---C1YLL5LkAHGhR9O6aPUXIXHNd7vH1zf1NoDtXjVw",
+          "width": 4048
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111030597797111333036\">Deborah Barta</a>"
+          ],
+          "photo_reference": "CmRaAAAAEZGSpCThSNYcp9aIcnuzN4JOL8kMWcLt2CfLO88EDbwLW3KbryctNwc1SmaRa8F6qII8m8APL2yp4mqzTQpyoodzhYX8h35IXhJtFlNeqKiJ0N0FC0J1SLs6lAKDNXm3EhCzhxabIvIznZ0mF_xpMKHFGhTbULW__m7yrEPnSP94meMdqgcsew",
+          "width": 2976
+        }
+      ],
+      "rating": 4.2,
+      "website": "",
+      "popularity": 0.5963146645625765,
+      "num_google_reviews": 350,
+      "mood_params": [
+        0.0022544309676897365,
+        0.014874399970290528,
+        0.033690488615849425,
+        0.04173846283381077,
+        0.028116754129002785,
+        0.06950358677633486,
+        0.04362293485000441,
+        0.007263014087223946,
+        0.0626644830758895,
+        0.013212680257032193,
+        0.025872219005798527,
+        0.013571004206828857
+      ],
+      "top_cats": [
+        "science",
+        "water",
+        "hiking",
+        "amusement"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.3279007357597034,
+        -0.3656063046208215,
+        -0.8187853052146921,
+        -0.8789749076003879,
+        -0.4035604880578131,
+        -0.44607478210225704,
+        -1.2810725233162996,
+        -1.0547523648977333,
+        -0.39734721893348457,
+        -1.3593652416048876,
+        -0.9442549650410133,
+        -0.6346081302417125,
+        -1.1152150644351186,
+        -0.20603663681891715,
+        -1.4625393016221044,
+        -1.0649829953405598,
+        -1.3920668467679838,
+        -1.0054496679782303,
+        -0.5874334294020426,
+        -1.4387071314584663,
+        -0.6119857306959222,
+        -0.6511795315875786,
+        -1.8126447223868127,
+        -0.7558104812341367,
+        -0.0580549816875215,
+        -1.110563901214196,
+        -0.6030837779905331,
+        -1.1738239992358095,
+        -0.5034608013718029,
+        -0.12954125014255033
+      ],
+      "global_mood_params": [
+        -0.5867555111798578,
+        -1.068131509252615,
+        -0.5256249203255631,
+        -1.2993289460004724,
+        -0.6632467733736356,
+        -1.0592259385070761,
+        -1.3186552531984232,
+        -0.8903856630400533,
+        -0.7824193698207825,
+        -1.1856153302942527,
+        -1.5217560053260473,
+        -0.7917247360775388
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4138 @@
+{
+  "sights": [
+    {
+      "name": "Parco Ciani",
+      "orig_name": "Parco Ciani",
+      "place_id": "ChIJ1w_QKfMthEcRhGqFz7tYn_4",
+      "cat_params": [
+        0.1284947262188311,
+        0.08321676399404761,
+        0.11681311393909276,
+        0.13551505262945218,
+        0.366794097202825,
+        0.08836817133102816,
+        0.2332976939430792,
+        0.1276301719003814,
+        0.13645910227422786,
+        0.19698911978166078,
+        0.037420760952185154,
+        0.08381371208351854,
+        0.14549361224618237,
+        0.2572922792576741,
+        0.13541380378619228,
+        0.16476867819562316,
+        0.3683163932649085,
+        0.21011625258148237,
+        0.09459766830635932,
+        0.0671154432511042,
+        0.525830299590798,
+        0.159327103745429,
+        0.13121238673906002,
+        0.10383616903695346,
+        0.02136947870463574,
+        0.2019609434584541,
+        0.2285878283982345,
+        0.3986554329554789,
+        0.2989273825005288,
+        0.38551609026519273
+      ],
+      "noncat_params": [],
+      "quote": "Sprawling park in exquisite surrounds featuring lakefront views, ambling paths & manicured lawns.",
+      "phone": "058 866 66 00",
+      "int_phone": "+41 58 866 66 00",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.0048531,
+        "lng": 8.9585636
+      },
+      "address": "6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110086485702494211430\">Marios Mar</a>"
+          ],
+          "photo_reference": "CmRaAAAA0mA1HV9PcVkQy4pR5p5TrOKVnK7PezKOWLc-FcgSWwqfHHOP9EdQ5O_YCi_6UUfTa0v8GeQAp0DC5eCCIVCYv07RjxvWx2JTCFxXpbGzTxufiDYhv7vxklwZ2s7u4x0GEhB1qwigwS0LF6tKXfzyaokYGhQC-33meZ_RK2YSd6xUHRJf-v_Zjg",
+          "width": 4608
+        },
+        {
+          "height": 2749,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110206200847380454549\">Anastasia Kalina</a>"
+          ],
+          "photo_reference": "CmRaAAAAG1d5IWFicYpBFb9p65hmKyAXWROqaxAnGBPt5N9BAuv8P2tch_C1Mh9bXImsqUihFmoK6KQmxJCrArHHK0CPzMyz1sYQERhxnrRzeeQjuLGDnN7ZlWJO8tSBSm4a-k0yEhBQBVSOfJpxwVSuyI4qqvScGhTl16boXBj9-T-YgQcCbmzeHEusmA",
+          "width": 3666
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103998700831054964922\">Jan Kurth</a>"
+          ],
+          "photo_reference": "CmRaAAAA5HY0kNuOFV5jtWQCG57Znp0ozJBry4QVdWE6Ow5V68srbWvRlhpIbifA30-9d_-KwygvNQ2vk6D9Am1TAeXJFHfn8-m9zuaMFZSYiDGdXUhhkctItfoGwwlATjoFgNu1EhDjw55Ph4gltQnCnFeEUOm6GhQPV4ptqmi_U2rpw7rj6X8NTwOOpA",
+          "width": 5472
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110461845857737375811\">dd mh</a>"
+          ],
+          "photo_reference": "CmRaAAAAr43hdWXuoSneXnBYguAmKPqpO9COg9Zuk8s1FR_lOIg6rgzzNpXKR_J72o69HzIBYKfUPjOt_xcAyi9xg04UYtjNxm8BHw3C2VE3_sxg1ew6LPxhOGYT00pv8tUkETzMEhCH6u8yIYe_gaYHU7yi5hDiGhRUIG2LneKfimsb9AThbm6GHcwduw",
+          "width": 6000
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110293529908906345216\">Michele Palma</a>"
+          ],
+          "photo_reference": "CmRaAAAACqs68FteRXdu24cgCbfGLACRcV5yg8J4IIrMIu2-3dm-1EIBtdlSjonTGl2lBFyV1fM01GjGuXonTJ5P7oYbLSnk-hdNcaxViqf0h5gKcXmFZQoR6r4dL9YhUd8uDw-nEhDzRlUOKJ6tkMsplynm9cpnGhQ5FA66K5-0rxK6iaYKDcZ-XcIVtw",
+          "width": 4618
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111567043183888560809\">Bandar Alkahlan</a>"
+          ],
+          "photo_reference": "CmRaAAAAodlbOtos8XGc0nsVTkzTTurS9ydk2bwycraRyJ11BoVnXIsijUZI6M_lgvRktw6A5JrYc1SrHGhQc0Y_KmXEhwAzIVC3NkvX_wmeafYeQiQ1DoW2TwXMRc134OqzD8nDEhCN2Zl9ychzBn6Bpwyn8I4ZGhS4cxKbp9t3lxTzvfmkXJC71fhs-g",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117586957444598597789\">Angela Semeraro</a>"
+          ],
+          "photo_reference": "CmRaAAAAKLvlqo7UQ6Kxm2a2ndFxknT6LNwdBhkCkO2yZyYP64q6sqXlGYH5zJOPaWMN9va3peh8Z0kyg7sUM3SerBLzwzA3IJnAVG9tk3DaPtC6DnJi_oEAwE-a-w-Sc7FENKjfEhBbQ-xO8I_LkJYpBeGXMIHfGhTHQdUUIy5r7Ru_jAIvaRjh1S_fCQ",
+          "width": 3024
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113639983185528291080\">Francesca Ziviani</a>"
+          ],
+          "photo_reference": "CmRaAAAADulJHYrU1zHLJWecRoFks06uEla9FTvaUsYXAVryGNQidQye8OOVZWnb2SCelhWC_UVUevgozG2PgG3FqAjMtpFKHf5m010xidhASQRdXgxbeZYsd_pb12BrjU-Y3JgtEhAYVg2iTAye08OtGUO4RarqGhTNblByXmWOppF-SFvdqKD8oTYlPw",
+          "width": 4000
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102934050569233831382\">Marianna Riva</a>"
+          ],
+          "photo_reference": "CmRaAAAAtgXDR1GANKXLb2Nzyh8fjcGGa04uZzcDsKtCDVoHUwsyy0eKjeSf_z4spCHuSf3ggxsLQdxPRIU1YXpjZd0R3F5FSWCx2eWpBHEuH1XNZXDqJ2oQloRzje3QPqCIJNZPEhDGqptXEqoTtNZOX1RjwSYCGhTY5xvFXutCdx1QICBFtVzCFE89rg",
+          "width": 2976
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116852470978215488233\">Paolo Bachini</a>"
+          ],
+          "photo_reference": "CmRaAAAAlaVUwntnfs8VkgQXtS7TE_9qkjj9hEPVQYT-jUyqY4PFTb8m93B2RlAI3sj8gpGC1V289gVhKnvgsu93LWUSpWBzchARGPxDCkqYp0Wl3Pd2xvI9ElqIUl_mzsdOB496EhCe_h0xMfA8cmQUCzyvQO1sGhQhwzPfOxC9KbOVuJzNk4svB33gCQ",
+          "width": 4000
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.lugano-tourism.ch/",
+      "mood_params": [
+        0.0004829984922770405,
+        0.0166938824953143,
+        0.11502842312743189,
+        0.10485701816556658,
+        0.09661969337743506,
+        0.12638080254063577,
+        0.06432763641290297,
+        0.008750993638793593,
+        0.15718586406347518,
+        0.01563715493323184,
+        0.03672920137756811,
+        0.009664510869790142
+      ],
+      "popularity": 1.0,
+      "num_google_reviews": 5219,
+      "top_cats": [
+        "water",
+        "beach",
+        "hiking",
+        "walking"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.39703807395476826,
+        -0.34719774274029963,
+        -1.0592427441704302,
+        -0.6843064325073017,
+        0.3820297630984845,
+        -0.7572257269184371,
+        -1.755810396730746,
+        -0.9274379390152333,
+        -1.0382925121575524,
+        -1.3223459424701236,
+        -1.006313793815254,
+        -0.5421374974146582,
+        -1.1673756573132232,
+        0.3788676273982559,
+        -1.6824504970926433,
+        -0.0657045543100976,
+        -0.5470998678095385,
+        -0.8765675964194515,
+        -0.9088020012291586,
+        -1.3656609706371914,
+        -0.05728732768650223,
+        -0.937323453853153,
+        -1.4187129934288087,
+        -0.6005468954019164,
+        -0.1781383262438377,
+        -1.1317860074575468,
+        -0.5771646599172252,
+        -0.14147882858758304,
+        -0.0016788247600408052,
+        0.38358688163297255
+      ],
+      "global_mood_params": [
+        -0.7059407980020469,
+        -1.0136216030237686,
+        0.9388342819338492,
+        -0.3262645008282247,
+        0.8402040301309169,
+        -0.34399398343501497,
+        -0.9268269976167737,
+        -0.8310513915845514,
+        0.4679741829394009,
+        -1.0913925430896696,
+        -1.270523231037901,
+        -1.03053989775031
+      ]
+    },
+    {
+      "name": "Top 5 Things to Do in Lugano | Insider Tips | Discover Ticino",
+      "orig_name": "Top 5 Things to Do in Lugano | Insider Tips | Discover Ticino",
+      "place_id": "ChIJNWguBlozhEcRPmSNcnPfSmA",
+      "cat_params": [
+        0.10935725143343367,
+        0.08166845354833574,
+        0.09977423244556025,
+        0.13416325849468982,
+        0.5593946401441791,
+        0.06263123639160371,
+        0.33808174355466486,
+        0.09417899096934278,
+        0.25555223210226186,
+        0.26977341425292256,
+        0.08780893019584682,
+        0.15928318007191739,
+        0.2401787106921775,
+        0.44276413828083433,
+        0.21522707611343758,
+        0.19331999168364553,
+        0.5083740464052974,
+        0.1818065346710808,
+        0.12159263970619186,
+        0.10475643688007419,
+        0.6910007087435919,
+        0.27875181642944374,
+        0.1942720985138512,
+        0.1150054532992718,
+        0.0029519674951525698,
+        0.36408460142003685,
+        0.21539166378464944,
+        0.5469924550909093,
+        0.3658033091714988,
+        0.6482462033866814
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "076 522 81 11",
+      "int_phone": "+41 76 522 81 11",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.0152226,
+        "lng": 8.961142599999999
+      },
+      "address": "Via Giacomo e Filippo Ciani 16, 6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 3082,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111275889213369882779\">Top 5 Things to Do in Lugano | Insider Tips | Discover Ticino</a>"
+          ],
+          "photo_reference": "CmRaAAAANcUKPbaDXYBIEmtMVtdN91W3bk6f3jHhOr3WnuD3-Qe527FpeyBi-Qz5jkBf6ue7Qbctjwwi0WtzjMpuyQ82q6WCrDigKqmboMiof4BiRVtIT4ksffh0Ab_h7W4-S0BMEhDdFlx6EF2DxrbwIFGkWr93GhTGJ7Gd8Rfq6jW-ltuXFUDNQph7HA",
+          "width": 4623
+        },
+        {
+          "height": 867,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111275889213369882779\">Top 5 Things to Do in Lugano | Insider Tips | Discover Ticino</a>"
+          ],
+          "photo_reference": "CmRaAAAAzRcKI4JHRQlqz2a-_P95ovvYN-7cCJDNTzht_OuIoIAGiGgpLUSo-6hVvK5LISWtFb9ENlmTHkiQS2eWica_d1bO7LHAiXqmE0z5GECeg4DQQkVmibPpCum3gFyJ_nHHEhACSmEPbTwnOw-1smD7fwW6GhS_dbssUWY2G8ICMXd0aDH09MvrIg",
+          "width": 1300
+        },
+        {
+          "height": 2721,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111275889213369882779\">Top 5 Things to Do in Lugano | Insider Tips | Discover Ticino</a>"
+          ],
+          "photo_reference": "CmRaAAAA2Cf2mVG_etuRMLXBfeAaqT8LmSskDtK_Hd9PFRhmyh2NMt6g8sCN1679qdDuF48IMVHopvfy_5mgynEcVq8iAmI7_Wt_J8KQJqLQqiTxUd1pS3DeV-zathHbnKezasDfEhAcU-42A6e5tMHjcM75yzODGhQMy8useku3dg3upWHyUUAMvC5d1g",
+          "width": 4032
+        },
+        {
+          "height": 613,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111275889213369882779\">Top 5 Things to Do in Lugano | Insider Tips | Discover Ticino</a>"
+          ],
+          "photo_reference": "CmRaAAAACceppLmGobHQ5RJmXUtlj1S42ACXirsNjvmlawSeUp-CfYBrUcWzPXHX5DW4e3qkYoeIb0xpE6Cx9WBY7DrmrVh1jDIFsg2UKCHsqk_s6RK6UVHZFTTErUocOsuCwS6wEhAHFfKC-faQ6D8vKI5PdFZbGhQL8exSpFo49OydMfzzs0S-0PZ3YA",
+          "width": 900
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107366988184065740271\">Luca Desole</a>"
+          ],
+          "photo_reference": "CmRaAAAAr-HuWovTcYdUHwhVHWHOfYpJ3acS99CITh59t9kEC5FciHBaq7_MktxhCKM-R834vrwChkWDd0W79jL1kOMolEAl7uDSeGue_sV_8fZCuGBEpH0ox-JmXNkixfHpxCMuEhCOABHZXXKFhWUBPARc6-AZGhSQZsGYT_zz2HOWe1ZZNlmpj47pCQ",
+          "width": 2048
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109590328992874800986\">Alexa Ana</a>"
+          ],
+          "photo_reference": "CmRaAAAASyEihUJXBy1Znem0YK8Aj9FoQfN-YYYPZvmFbGoEGxtTOYflaVjwI-CHg-vGI5CS3zyDJM7ydATY6VGFouMsB3Fu_J2i3jYBaQcluMQVEv4OKdyyWbLEO3Eeci_ThwKeEhCM76guzYaKOY0aMWeAbbvDGhTsnSMXRQ6VA6LgoHuC9kjXv2vOKw",
+          "width": 3024
+        },
+        {
+          "height": 663,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111275889213369882779\">Top 5 Things to Do in Lugano | Insider Tips | Discover Ticino</a>"
+          ],
+          "photo_reference": "CmRaAAAAOYdjwPPsCHo1f7Q6QczR9vGwnfBYtgvUaMUrXY8hNxh1XVhK33LR5QWNBsuacpVOGPFxVyJaV-gp_v2vkvvnkA41ouysK8A9Ve1Xds_Xoeu09J5k-9AzHvb6BqaJhpdzEhDfu5cb_VcuvVH5Yk0dXywIGhSA3ZU2cSD1Wrq7wqpTyIoRrELK9A",
+          "width": 1000
+        },
+        {
+          "height": 2814,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111275889213369882779\">Top 5 Things to Do in Lugano | Insider Tips | Discover Ticino</a>"
+          ],
+          "photo_reference": "CmRaAAAAFT6AzJ86jUCwV5OR-lceBO32YKjO8k3jJOZifbvpc_XEBsyE0s004RPrCnY0Kv7FCv0vYo6c6Cqns-_yh5zNYPeD-JTwESpBuH_RQRoTcexIws-aU2mp--V_UNTu_nAyEhA_N9uXIv6gHJT8o2XWUVPPGhSDcAGENhVEMC3xBr89MQ9xUKUkOg",
+          "width": 4032
+        },
+        {
+          "height": 851,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111275889213369882779\">Top 5 Things to Do in Lugano | Insider Tips | Discover Ticino</a>"
+          ],
+          "photo_reference": "CmRaAAAAsDvi_RtkCHgzLfluK5qH6jhf4vWbVsFb-YVL_zRdjdmslJWtnB_SEB2ZYFQjq-bo-4IYsTWdbP8taKJfD16R_yflWzM12zLHr8R14RhlZsC8BoS3yU-aZhgeaFHqwCcKEhDFB9I-EI39VzMdFn6cIrIzGhR9SS6zVe5OuTho2DufNXU8wnxfvQ",
+          "width": 1280
+        },
+        {
+          "height": 2481,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111275889213369882779\">Top 5 Things to Do in Lugano | Insider Tips | Discover Ticino</a>"
+          ],
+          "photo_reference": "CmRaAAAAHExha-h5ELI5xQwzAvextmwEw8yfoPHhzRBnWVetYwIDNSAGYx9LDGwqvAxiAGeJEF5SjT0dv6Qdc27d4T5aj1NBH4nD0EzOSKq-LlG9bBqu6U96eFAuYrJY0J0_pOo4EhDafCmoJSZekQk0yaYSEAh0GhRPs6578VBm_VcBWGeRTQP-Kgv0aQ",
+          "width": 4013
+        }
+      ],
+      "rating": 4.9,
+      "website": "https://www.discoverticino.ch/",
+      "mood_params": [
+        0.00409468848996225,
+        0.04367077622392356,
+        0.12142534475581628,
+        0.13358612508902715,
+        0.11413599126982686,
+        0.16362298324694344,
+        0.10140337696896647,
+        0.012647641287043874,
+        0.1802363808968534,
+        0.033723087878629675,
+        0.06466328256666794,
+        0.014617187449452361
+      ],
+      "popularity": 0.2189769927842956,
+      "num_google_reviews": 12,
+      "top_cats": [
+        "water",
+        "hiking",
+        "beach",
+        "views"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.6292412757288381,
+        -0.36571045205924074,
+        -1.226622302664736,
+        -0.693966651949109,
+        1.5700563929229217,
+        -1.100573660015866,
+        -0.6407158513839197,
+        -1.2989403704944662,
+        0.7241699708584605,
+        -0.5484568187337729,
+        0.02999368238162292,
+        0.17461026173730268,
+        -0.14419042079834593,
+        1.7417200698888016,
+        -0.8145601159809875,
+        0.2686852088571609,
+        0.21285886165074405,
+        -1.1726765204221714,
+        -0.5642225015142195,
+        -0.6156312244329863,
+        0.7482501136879162,
+        0.2293682863590677,
+        -0.7077256414839611,
+        -0.49635497414987284,
+        -0.7084211921969584,
+        0.07075463091436701,
+        -0.7008115877103278,
+        0.8221760919793993,
+        0.4020129461150454,
+        2.190154197730998
+      ],
+      "global_mood_params": [
+        -0.4629395466070945,
+        -0.20542040995496916,
+        1.0540084721941856,
+        0.116636518401958,
+        1.2246385146898293,
+        0.12432707201366021,
+        -0.22518332975960603,
+        -0.6756697204561878,
+        0.7729022038284702,
+        -0.3885157392858219,
+        -0.6241229262371846,
+        -0.7277685486043335
+      ]
+    },
+    {
+      "name": "Cathedral of Saint Lawrence",
+      "orig_name": "Cathedral of Saint Lawrence",
+      "place_id": "ChIJyb32ro8thEcRKmEecCH-OXQ",
+      "cat_params": [
+        0.07311990320712462,
+        0.05661751962360585,
+        0.21587642264458612,
+        0.2745752291369761,
+        0.31157853331035934,
+        0.08136488572508421,
+        0.25435214032137243,
+        0.1372208942175355,
+        0.17013159114556514,
+        0.20443403658310924,
+        0.04909331998760423,
+        0.05873749187644321,
+        0.13533357295309986,
+        0.20258431038161268,
+        0.20089767693211674,
+        0.1860380366018055,
+        0.5557755626663313,
+        0.20183019718204825,
+        0.0794283951709261,
+        0.08168887049656855,
+        0.45694415035898955,
+        0.13659878098183212,
+        0.1935306166082815,
+        0.36133496309395574,
+        0.00385737814422297,
+        0.27357839358155783,
+        0.17290350378692815,
+        0.45456573827155994,
+        0.2697581880226507,
+        0.30834306580713927
+      ],
+      "noncat_params": [],
+      "quote": "Old Roman Catholic cathedral with an unusually imposing facade, plus mosaic tiles inside.",
+      "phone": "091 921 49 45",
+      "int_phone": "+41 91 921 49 45",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.0046501,
+        "lng": 8.948831
+      },
+      "address": "Via Borghetto 1, 6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114939132412164910375\">Teresinha Troccoli</a>"
+          ],
+          "photo_reference": "CmRaAAAAyy5CPzGb_geAA7Yjm_NQ-iwV5sM408TrlKpqu-UXFDl2eTJ_KpHI2tilpLZtnivw8tu32_plSMcPH3kdULTVoiPru9vSzvJINaGN4lxGj3CNaUjWg5pVNMLVzMshZfL9EhDCqeq9MLwyS_6Z7WqAXWurGhTMJ3iGlaC3jNXt4RRsuph9vOMspA",
+          "width": 4032
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109572909832970285115\">Corina Trascu</a>"
+          ],
+          "photo_reference": "CmRaAAAA_ORzYTtTGy8Q0uw97l73SingBsiXmKtbkdBKAV9LQD-q5AvR-bTBJLCGOg4WVDGnkRdPuVcINK-HOlt1BHNTgrUi2wQWad7TUq9reIp0_ayI-M5WYLnX2ZWa05p0szDPEhCt0FZGtamcdVoeTvJgip-GGhRB7ID5E5PEKGP_zV6ZmCEaG6M7_g",
+          "width": 1944
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108170193495124760669\">Jo\u00e3o Alves</a>"
+          ],
+          "photo_reference": "CmRaAAAADygFzIXc3GnVDXbTysu7HBo18335vqeW-I9VXrp-XIqC3L8YtECShJDLvtnjciTh2s-UBN_peO9DDg58GFw-_36ugEjuJKIvNSASD6VYkS52tkNSnOngRWltDPwaQJpbEhBzPBAgq3EDcElYbtHR6NbNGhRKuqhESDucMlTrISPHAzP92ReF9g",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105055877381583087989\">Luminita Miron</a>"
+          ],
+          "photo_reference": "CmRaAAAAdyIrhM_0F4bwz_DXYJJgJ03mtHNTNAjFqHeJctcpA8M8oo3pqA93y0lEP55JiEk5WgKkYHVZozc91Ztv9Ct2hcrDwE7fE-3bhwL4bVMyGEMORdwMEgWnpT81J0UdOhwWEhC62W_Rnlu_kUBRNjHlB87FGhTJpXAhaENuJWBJ_mx1XBEYDWXM7Q",
+          "width": 4032
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108954591797264578332\">Maria Teresa De Sanctis</a>"
+          ],
+          "photo_reference": "CmRaAAAAOwaL6uZ-ARIDf1vrCDH0zm-g7aAQYBEHqhhVwwgv2MtSG1hbUxF3atl1u0wxRmDAdSTjg87PFJsF_hZWu5lT8zMMwrXicgl5p3YQcffFiqEe0IcFd4BfWyyMc87hYrAdEhBSXGWseWxMFWjks3UDjg0kGhQwutVs1W4SaRvykY64YNdYrDtWTg",
+          "width": 1836
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108058184919176662452\">Arcore3</a>"
+          ],
+          "photo_reference": "CmRaAAAA9ubJSl-eh4f27SQZvFT25FXdYhxgUStHvJpbuUX3WVD5bxKjTv2mipSVWmLQ-SH4SQrdo1YuBf195ZUYBE_bpSpRl-yNtQvaEPhByBMDNoS0-bJInEelrht2k2MgEftaEhDyjuOcN2U4lwc-Y_uzEKMwGhRLuCAvInP5ShUr4PQWorEKVwb2Cw",
+          "width": 4032
+        },
+        {
+          "height": 801,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101083157255228010171\">Philippe Jacques Kradolfer</a>"
+          ],
+          "photo_reference": "CmRaAAAAnFYxY69r-OsKxz2YKKXlZPYAeTJ3AvgyrvOHvKOSzUbp4DqXftieGLGBEdvO8smw8xfk6sE1xF-9TRoptiMfkRWwBJI6G2es-P4Uxfzh4EZRga5wUJePy4CL5IyMFCVREhCrrqTcwy__A-gIyZvh0O-DGhSAIPy4DP51A6MyZpsxqzHtaOQCug",
+          "width": 1200
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108170193495124760669\">Jo\u00e3o Alves</a>"
+          ],
+          "photo_reference": "CmRaAAAAbL-OUjvfnFTiNN4uysWO2PuNfFO0nvX2HW8w1_CiIozif6pUSDRQPXEdV9oAKEBYFTsKYUV1AwhwQf8ptAG1wON6i1-oIuve3llV5F9GsbhUfFDTVRR9zzEB8mBrZMwSEhB3dhYockV0sHx7OPei8hs5GhQz_wx7Vp9hNXdw8VlI3946tm1NHg",
+          "width": 3000
+        },
+        {
+          "height": 1400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105283703597715319668\">Rudolf G. Sch.</a>"
+          ],
+          "photo_reference": "CmRaAAAAQiinXucVyEqXHK9tkylZV4oggGgQe4CoaHksS4WiETI03qsbTWwwqwv8bharLb0vF4YdD06S1P-KfHPjj5cnb8fbiaRDPD9DqQ510deKUfv6ova8c0fFkY7e0yp1k3BLEhDK-JEGWOF-sqIk2hiFIchPGhQIWMdFXjTeaz6-CW12acen5LbLvQ",
+          "width": 2100
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101508990379668046885\">Kamal Sedra</a>"
+          ],
+          "photo_reference": "CmRaAAAAAObE_Q8sDRlu6rgvA-Ldv8r2Vn6Lgn892u7CvDtGqnfUXo4-WW1LM2XGI-ZTyyiW4W5JoenX7NA3-a5Wz7dNHC2j9JNzzm_7Qke4qi2sHLG6oHIcNlJNbBYlsORyOmzDEhB1f_iFJcv3QD9G4aNuKE82GhTd1b-WR2YMSqJc2CiHBdYaPhIlLQ",
+          "width": 3024
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.001814212069511017,
+        0.02888355848794763,
+        0.14563649398790451,
+        0.1808702161922495,
+        0.1598542101545866,
+        0.19690992000459057,
+        0.1126199543346559,
+        0.00929168978303529,
+        0.22069111890500762,
+        0.030300099365334465,
+        0.06142489482422608,
+        0.01713726451489132
+      ],
+      "popularity": 0.542184766499033,
+      "num_google_reviews": 451,
+      "top_cats": [
+        "religion",
+        "instagram",
+        "art",
+        "views"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -1.0689245869445572,
+        -0.6652373713543577,
+        -0.08610534190582987,
+        0.3094483013932824,
+        0.04144110595749174,
+        -0.8506542429150511,
+        -1.5317524566267,
+        -0.8209252072880587,
+        -0.539972429116656,
+        -1.2431868301696276,
+        -0.7662502952535197,
+        -0.780291086150506,
+        -1.2771669801053978,
+        -0.02312806833220412,
+        -0.9703781566896414,
+        0.1833997722963311,
+        0.4700614868876377,
+        -0.9632365966658957,
+        -1.1024314172647418,
+        -1.0752726762689864,
+        -0.39324564299826564,
+        -1.159362476105833,
+        -0.7160857218223994,
+        1.8015133837331576,
+        -0.6823523195684835,
+        -0.6005686930171474,
+        -1.0989219936605295,
+        0.2217362343321339,
+        -0.17775659085529447,
+        -0.14706513238220317
+      ],
+      "global_mood_params": [
+        -0.6163742611871111,
+        -0.6484309039211316,
+        1.4899211924164895,
+        0.8455896389700166,
+        2.2280274739257946,
+        0.5429108675741151,
+        -0.012914057032188507,
+        -0.8094907379024916,
+        1.3080651802416277,
+        -0.5215439459559367,
+        -0.6990598754644299,
+        -0.5737089970099458
+      ]
+    },
+    {
+      "name": "Chiesa di Santa Maria di Loreto",
+      "orig_name": "Chiesa di Santa Maria di Loreto",
+      "place_id": "ChIJgQq9tZAthEcRSCA-232sSuQ",
+      "cat_params": [
+        0.03838695392687783,
+        0.015441696771809267,
+        0.150018078231937,
+        0.11379511280722471,
+        0.090559412336746,
+        0.06896326649287277,
+        0.12874448011812747,
+        0.0979861925239531,
+        0.08407930739173007,
+        0.1398317591220923,
+        0.018872278713875475,
+        0.015244300324742414,
+        0.05883679711179747,
+        0.04326839405403592,
+        0.13219038281375392,
+        0.02163213006542165,
+        0.09364449622038361,
+        0.15647746735802676,
+        0.03457719128309086,
+        0.05104315359751869,
+        0.16779915088578767,
+        0.04069004036215004,
+        0.09027824793014598,
+        0.17974657778737352,
+        0.008331825193324798,
+        0.0629615085265166,
+        0.06178847689443628,
+        0.09646624768139339,
+        0.035695862458616084,
+        0.09388786983231306
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.9977938,
+        "lng": 8.9453605
+      },
+      "address": "Via Loreto 16, 6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101862975862048779684\">Cipriano Diem</a>"
+          ],
+          "photo_reference": "CmRaAAAAT2vwdleI04xYL8vEED_rZEXdMGAaMtnFj9FEuTiER2PdjRN2tbP6pFORnfP0uwHMMgjV98kqFmFbs1FZiGyHfH6hJqjx3SU5ES9lkQmmzvNKc-jaITgHU5vTXNyBRCepEhDVnsxkQ05sHRqEcsdJf6dIGhTYxGJUJXO4VbYhjFZTdDDfIMtz6Q",
+          "width": 3024
+        },
+        {
+          "height": 3332,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107426692450830708560\">Alessandro Rabaglio</a>"
+          ],
+          "photo_reference": "CmRaAAAAWKsm-ZA6gPxmfhQPx65xzSQfvEJDh9NlbgBAp8OE79Svot5AfR26-AW_YPxOxjt1V_2smmTXhrJ6ylzgNNz799heh8AR93NibG2dN6l1SP4SCG4qdvkJq1aBrZLTYKDyEhDc-yRHbE7dimEDORKdb5JTGhSianLdC8JvzmCuQYPQiVuvqUu9TQ",
+          "width": 4886
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111368533001708993325\">Cheryl Catalano</a>"
+          ],
+          "photo_reference": "CmRaAAAApEJpupZTIxED6das5o3-bICWd1UlxmGTrmQSarKwothZNXc5e_UOifOI8PlgAlF4UxHnokAi6WRdkMSfYcXtxouvaOyaSt_reL6dTQ5qlbbfoyanHOAMjm0QXbcnBZzMEhDxNPdnaG-v_fgjBDGN1k99GhQusDrschEahLgZ34y1FkjfuJnS6Q",
+          "width": 3024
+        },
+        {
+          "height": 5520,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110327168903398341308\">Chris Wright</a>"
+          ],
+          "photo_reference": "CmRaAAAAQMHldQSthNdSo1VmI7cW4ue50YHB1F3Bs6irpfCSmKJ0uFSLDd3db_8Xpm0AHcOs0il8T78s75o9JeSN_m6qePjRfhqwbzc0JARX-iqpPIVkVvFYpSCxuFAttaNxdj9UEhAtZEs7Hg2YgkaV8YNR2QETGhRVQwyGTk-vath6RydIM_Qya4Xscw",
+          "width": 4140
+        },
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104354734082061510510\">C\u00e9dric Zeiter</a>"
+          ],
+          "photo_reference": "CmRaAAAAOpglFBtNlGQ1Twv2nrr05_4QE3E70FwO_Rg2FXOGdv7Ote1AYUc_tXJIHBtODN_qO7HM0EqpeGDKR3dIihGtVcGtlZt92zXMpLOycQ4XU4Ty8OxHlB99UqQsWr5SeNroEhD6Js_t86KwlTEAzlwiRTn-GhSUPii7W91eko9XjrgOaVE_w4nU4A",
+          "width": 1080
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101862975862048779684\">Cipriano Diem</a>"
+          ],
+          "photo_reference": "CmRaAAAAyBsrHsfwRaA8CWyeX8tcHkI35_H4St3MWhQKyIZYse8x0BtrDo63sFCZ8pJx3Nz8oPAA59evdCs1TJeuHsioHuk_JXFbcsoFRnyQbBR86mFuh6fVQ0mKT3AV0JhNvGqaEhCrDWA-hexcrNCpMeeKTMRqGhSljxeOWPhRcAtEWSD5m56j4xmKrA",
+          "width": 4032
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111964799849396153942\">Paolo Montoneri</a>"
+          ],
+          "photo_reference": "CmRaAAAAq-pyC01TCOe8okdprqiooi7eIP0_t4jeq-6vPekK9Gtj17TGoi6lfyxOzzreLu5MXxX7dfznDmACTCerfeqdfL5zLTB-lis-JZUMDFYQkZwW21xrvcGyhpgk7U0FM_T2EhBEVNFakxSpnb7GsiCeEVHQGhRYRPA46-KIXcUw_ju3mh2sbbhbfg",
+          "width": 3264
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101862975862048779684\">Cipriano Diem</a>"
+          ],
+          "photo_reference": "CmRaAAAAxM_vXjwYiaP4lI6HbO1IW5uTnwgS6JWcJJXvJLIta2R0TCn-7OO5xMBWEbLOsl6-l48oQqt_PV0CPPxV-h0UUTrigJwnEGHmqylYHAR0s0ACEU16F6L5fWUndTfHu0WrEhCuDf15349fGm9JRtTQihTFGhSGLf9quf7jwtgj3o7WLBq_vB-Bng",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111368533001708993325\">Cheryl Catalano</a>"
+          ],
+          "photo_reference": "CmRaAAAAbovePoFyoXs4DkRIT9FIp6j7HIjrVxU759Q86YB2dULMsyZVtRca2Eg-uIlLvrJKSGAjjvR2YzfNtjhNJSePQGp6yN9HUE0i8cX3QObnncxGsVFwBMJmKOjdByHOoiJNEhAkAnu9jtzID4ugLIu1Tc_lGhS7g0XDuMS48Houfu6ODnUIRPqAHg",
+          "width": 3024
+        },
+        {
+          "height": 3040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103191145756033651867\">fabio titolo</a>"
+          ],
+          "photo_reference": "CmRaAAAAl82bO73d7mBPjwWRkrfvNNnGw2nbfwktCwupuMXu3XEXMsl20BwuGGnDhlUIDZlbUVtu__S8H9G7_qPISV6Wm5jqWCam0mM4Z2ihQxO6m6CbzHQABNuoxE8rImguDvUWEhAEvyUw7tke5MQlUBrMiS9HGhRqY-0WTgW_NlW4Tv6m63F5zfzwsw",
+          "width": 6080
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "mood_params": [
+        0.0,
+        0.0010983763376307169,
+        0.0048881075749344135,
+        0.009396907824704533,
+        0.011048258986910024,
+        0.01053265267185817,
+        0.012778561573935046,
+        0.0,
+        0.01046304356072164,
+        0.0037971936368705037,
+        0.011605162181171705,
+        0.0
+      ],
+      "popularity": 0.24880590001233055,
+      "num_google_reviews": 20,
+      "top_cats": [
+        "religion",
+        "science",
+        "architecture",
+        "art"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -1.4903543795566756,
+        -1.1575650189102398,
+        -0.7330574681436525,
+        -0.8395219195033689,
+        -1.3218811225628857,
+        -1.0161001415996884,
+        -2.8684484257709353,
+        -1.2566583166086833,
+        -1.8134625281087613,
+        -1.9300795212215283,
+        -1.3877908568677726,
+        -1.1933541222890482,
+        -2.1038057328385014,
+        -1.1937859074146533,
+        -1.7175020113919492,
+        -1.7421036611293437,
+        -2.037481158770981,
+        -1.4376089684175355,
+        -1.6749382433834341,
+        -1.6859154104807095,
+        -1.8034081791120216,
+        -2.096320438828375,
+        -1.8802383340429902,
+        0.10757827582481491,
+        -0.553522610832838,
+        -2.1628043752764885,
+        -2.140060241720929,
+        -2.104617168156186,
+        -1.5906571577060957,
+        -1.6216876764541417
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -1.4808476228150942,
+        -1.0442010584538755,
+        -1.7979211130032315,
+        -1.037853221177701,
+        -1.8007864372972364,
+        -1.9023727696550847,
+        -1.1800036547536363,
+        -1.4729757575140532,
+        -1.5515310484281708,
+        -1.851898594144989,
+        -1.621359214904648
+      ]
+    },
+    {
+      "name": "Parco Ciani",
+      "orig_name": "Parco Ciani",
+      "place_id": "ChIJHWrQlYwthEcRDbRoMAfI4aM",
+      "cat_params": [
+        0.08618781201972371,
+        0.047316741651784844,
+        0.1167544181952243,
+        0.08617733162814735,
+        0.23330143898680059,
+        0.09717396562090932,
+        0.18522090524802026,
+        0.11795743068829644,
+        0.1372208280351361,
+        0.16333134190328003,
+        0.02396834067572785,
+        0.05128720389214002,
+        0.10366509714671794,
+        0.17357918919623128,
+        0.12427365500597447,
+        0.08728819650707209,
+        0.18326841751407777,
+        0.17229641541383722,
+        0.07012924096836402,
+        0.05239047637837417,
+        0.35403875365607557,
+        0.12117262727762983,
+        0.07697293854021067,
+        0.08119460238186273,
+        0.027554419195526588,
+        0.1442747776832516,
+        0.1657548314031589,
+        0.23774501198580794,
+        0.18032918384627605,
+        0.27283980232904365
+      ],
+      "noncat_params": [],
+      "quote": "Green space featuring flowerbeds, a playground & a paved pathway for lakefront walks.",
+      "phone": "058 220 65 00",
+      "int_phone": "+41 58 220 65 00",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.00520849999999,
+        "lng": 8.9580289
+      },
+      "address": "Viale Carlo Cattaneo 5, 6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 3712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111353293920073400973\">Mia</a>"
+          ],
+          "photo_reference": "CmRaAAAAt47Pn6CwQwVvgUtMBZLPXAmTHYhid8bl3-mPIfqHQ601-ZAhvFKfKeTlJrRjChTYsNImTwK5sRLClhyLYCcvISqM16IRqv0EgnDHCaEHHqharZTl-inximFWwnLlp-ZeEhBVFHp61GaHEfNZqAhrQbz0GhRP3NCkrGB2zj_TT2g9hSyYmrPs7w",
+          "width": 5568
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107430044604444107604\">F X</a>"
+          ],
+          "photo_reference": "CmRaAAAAKsBtKXvdGCrLxEgoZ3i8VxSsZbdXbam7SzrejIRTIg5ptvHrfyk-ml5W2Oym5-_iinQ0E2QcqzAqShLdsh0RUBT62AanW_Gsu25bZPKau783p4kiVYKyG5SR9WNhnlQnEhCl6HqSLwyteMi57cU4hJqzGhRyX-fh5xTwEaDE8GZO57Rm5Pd4Fg",
+          "width": 5184
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110385100885605592455\">Jes\u00fas A. Serrano Redondo</a>"
+          ],
+          "photo_reference": "CmRaAAAAvt8E2W1v10vwfo5gXQX6LDh_6z2z42nuKApPk7NIt0h1u2B9KnBtszrd9N3WCjYFlxbUDXUmZpVqrUdUDEgcogchi49JgHX_1inXfl3NujnCg8Nnm_bew6u2EEL_D9w0EhCoLiGa0m4vI54sP6XiAkpiGhRTsOavCB12h88e5_U-MRTUQ9hx3A",
+          "width": 3264
+        },
+        {
+          "height": 609,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108165107544776124644\">Valeriano Murgante</a>"
+          ],
+          "photo_reference": "CmRaAAAAO2B9xHZ2EBo-ID6Y-GpYKyEjmbTarc2YbN2yF6UIyxvkJud1Tic6GZiIQxBeDlypbZLxV0KvYvVqzDetDdhiMyT41BfaTvtYmCMIFFmA9yos368WdvasHwwobCY-XIR8EhCwCq7A1mmTA-Z1Whjqmr1SGhRClhQxkSucohanw5EFpScbNGcFzA",
+          "width": 1077
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109885412405110142239\">nikolasp1988</a>"
+          ],
+          "photo_reference": "CmRaAAAA39H9FJma32NNA3VuHDOiOg7FgkvDhXOy1fiUla8g-YnfzZKs1Kgyitl4vP6GfAweSNO6ZbosqXP2nvZbkZjW3WIHsTEVcSDHaNK1hZmWXqcMGsL_GavBv3jJhzc2MpVREhCFS0TC6tDzVHQqntUT7n3EGhTgU8T2ZeyBxtP9dUQGG1c1Uxo3wA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110346414929543038739\">Davide Impiombato</a>"
+          ],
+          "photo_reference": "CmRaAAAADwztFXubcgJ6bZliW8-S4WoAGCsIJv8Jahbor-mQJK7JOEpoRu0WFZm7rDWPkNg16E_As3r2Ovw47d3nqF0cRl1PXyAwXEYo_5IIvN-SSIt54ziRFgrJiL9jaLEEAvYjEhDTR_uDhBFf9pvmCpUv3A7jGhTk4qJ6ESBwvvdZ0IN_luFaxJUjAQ",
+          "width": 4032
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117324425150624289092\">Manuel Soares</a>"
+          ],
+          "photo_reference": "CmRaAAAAFFBIMlUyBiKuo_PjiGV3VnVBYlPYK5ZYN8WCNCc2WKkCqhPLVLMGiYDHlUam-9M9auHkyTrMx5BOQ5mNsTH6YM-xajYdtb6rS7BOo8bisZ9JztX_e7mhsYrbFU-djcUEEhCPMeNbC4ipkK8uXKXNy28nGhSWzYj18_XDRD2zfJFEdAXntP5t-A",
+          "width": 4608
+        },
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100798486576473555323\">Antonia De Chirico</a>"
+          ],
+          "photo_reference": "CmRaAAAAhIKhCq1n6ObvF4NLPzrMplN8nJWMqMIK7Av3RIKdUOVJIHRPMqD1WNmqZI_Jf891XjqCnRhw-uiVhvcZzGrqTvc_mus2c5Uqk-WHmQksL-OLhHLIrgODGiUpobHtaFChEhC5XF4vq6UzHTp29Waa2RQ7GhTsxFb-2a8x34-DUjrG9D3Darsq9w",
+          "width": 4160
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104198955763677338861\">\u65b0\u83ef\u8a31</a>"
+          ],
+          "photo_reference": "CmRaAAAA7XojbxemgaaPPe2eOu9uWCDAL7F5S-1pCIkckGNr3jbh0OYGQOv6UMjES3lzOrLi4Tl9Ue_Y6FJf77rCFJtrFk4EyuQbnFwb__SYY8iwW5mxMr3kC289o5F5ZnSk6nE3EhBSERxZEdcK2ZXAjXFtBb2NGhRmqpwqBWd9m2MueWryjlDGapA4Jg",
+          "width": 1836
+        },
+        {
+          "height": 2883,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103938544362410779287\">Fabrizio Sommaruga</a>"
+          ],
+          "photo_reference": "CmRaAAAATI0fODBJuqu7sJPefWvLkMqWSsBUB8ZxTQFRHhpyrpE4ZEFi-UocXspFqTNsoKkQW7Ci4GyYsfSGGi2GI2v3kVM1Y7Sw2fKihO4w0IAVtAMQCdhQFvRZeXXpwd_7FA36EhBo0AE6OxErdCszAQp7EBgrGhTXryoDIiShf9rLCSl0ACZQeb90cA",
+          "width": 2883
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.ticino.ch/it/commons/details/Parco-Ciani-Lugano/85874.html",
+      "mood_params": [
+        0.0006648695004272596,
+        0.011522659540366364,
+        0.05899336371284493,
+        0.04494743749997817,
+        0.04106294217560759,
+        0.052510404838796314,
+        0.02630966712554765,
+        0.007036515623563258,
+        0.06805723715342804,
+        0.005419495556904956,
+        0.020050640816241763,
+        0.002808797523067691
+      ],
+      "popularity": 0.7063264400048037,
+      "num_google_reviews": 1299,
+      "top_cats": [
+        "science",
+        "hiking",
+        "water",
+        "beach"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.9103660362055405,
+        -0.7764441383881927,
+        -1.0598193352863394,
+        -1.036884683422007,
+        -0.44139903115460205,
+        -0.6397505389899615,
+        -2.2674356396028696,
+        -1.0348615569367359,
+        -1.0270197118047013,
+        -1.6802169422295206,
+        -1.2829827801009341,
+        -0.8510478750894045,
+        -1.6193825709409488,
+        -0.2362585155085338,
+        -1.8035885946619536,
+        -0.9731472165465904,
+        -1.5511779841252322,
+        -1.2721487648759133,
+        -1.2211312245522128,
+        -1.6590688247252676,
+        -0.8951161075013964,
+        -1.3100646691900786,
+        -2.030253397919935,
+        -0.8117572357017749,
+        -5.954393961684498e-05,
+        -1.5596690165676557,
+        -1.165904439237368,
+        -1.1868154323948077,
+        -0.7175884086808185,
+        -0.39119030955474077
+      ],
+      "global_mood_params": [
+        -0.6937041767523577,
+        -1.168546354696768,
+        -0.07005608271094454,
+        -1.2498579285366904,
+        -0.37911361011765937,
+        -1.2729154902328035,
+        -1.6463019700701182,
+        -0.8994174547154972,
+        -0.7110803261068421,
+        -1.488483242611285,
+        -1.6564685054679558,
+        -1.4496493521954052
+      ]
+    },
+    {
+      "name": "Lake Lugano",
+      "orig_name": "Lake Lugano",
+      "place_id": "ChIJhTi4moouhEcRgetg1SUx0YY",
+      "cat_params": [
+        0.10508875074959026,
+        0.07583491576605825,
+        0.10070797001580999,
+        0.14259797637788316,
+        0.5560332478146494,
+        0.060460262626104266,
+        0.3241682406612949,
+        0.10277747354972677,
+        0.22812253664056878,
+        0.25445141072937644,
+        0.07993245358348744,
+        0.1472132256790287,
+        0.22229897604497467,
+        0.432988757318421,
+        0.20335622139954548,
+        0.19991110657428254,
+        0.5025656187343894,
+        0.17858431850450215,
+        0.11485559444772578,
+        0.0950927043762085,
+        0.680904344486885,
+        0.25890142779221903,
+        0.18373727165014028,
+        0.1146911723393375,
+        0.004281037248829239,
+        0.3417870860500801,
+        0.20662137679841075,
+        0.5417345031701607,
+        0.35427445281651304,
+        0.6519636561409262
+      ],
+      "noncat_params": [],
+      "quote": "Glacial mountain lake & resort town with passenger & private boats, dining & shopping.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.9862544,
+        "lng": 8.969988899999999
+      },
+      "address": "Lake Lugano",
+      "photos": [
+        {
+          "height": 2157,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114233338981664269917\">ANTONIO MARTELLA</a>"
+          ],
+          "photo_reference": "CmRaAAAA6lFr9EmLXNCvIRKWaSqaH979_QN7ZJZpS8-N_-ByRKaRvErJbXVeHQV0Zv-Qrl9wwXpLhjUU4xZx1LFsq65k333FnI9yygbtBT8VU1_zXpdeWIhth4EaFSV_77XamWEAEhDkN02L3I5SyxGiF_lp6iceGhQk5B5TRyyFLZjfnNsLe2BfJxuFXA",
+          "width": 9741
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110385100885605592455\">Jes\u00fas A. Serrano Redondo</a>"
+          ],
+          "photo_reference": "CmRaAAAAkpMPA5zJLBEhzDiSxHR_Cz6qcvM-RtcMDRqaSBnFVhTiKCGnOR5urrUZNIiFdZ22sn-7WtBQUudMkB4aITN23yznLzf05CcUhJ8V6cxdMjSpb28yXrZgm4ynMIMCWOgTEhBVfb-rLmVJfaZHNyAP4Hg8GhS8hwfdkzWj1BbhAjNJ-r662a3Ulw",
+          "width": 3264
+        },
+        {
+          "height": 2208,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110472555634796512658\">Marie Z</a>"
+          ],
+          "photo_reference": "CmRaAAAAUCFL-GnpgZ8WaNEso6GCtiaTabzg-6sb-B2sWu5KXgUtnv1pqdh0XfyWoTJziuSANf_ULM6TXU8JBhSuBcPqPfwDlk8R2Gep_-F6KfNbHBZkoOVdstLwi9O2FjICAub4EhD5wOFY05GCMLWDmudrHtuPGhS4PlBUNlM2doTJnTYIwFlKD3Ci3Q",
+          "width": 3928
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115673734534918950142\">Cardoso Louren\u00e7o Andrade Carla Maria</a>"
+          ],
+          "photo_reference": "CmRaAAAAmHVBaNozBekJ6Wh4G_k9Sh1EucEX5yHVxiyqGsXTPXAD0A09b5icwFhCGUkx6h5nGMe2vHPLytGiN7uRDgnKR9vLNFWZ83BUQMSHuIZLTrkqjzZgfe86uLiynrT2HeM_EhCPvf87jpfSkZXdVXejiYF3GhSUgC87r7rrZjC_mWRUzEGhCnqzrQ",
+          "width": 4128
+        },
+        {
+          "height": 2342,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108375243277871602327\">Shahzad Iqbal</a>"
+          ],
+          "photo_reference": "CmRaAAAA6BRbRiP0SekVIFpgICm_WVT6wBC747fuitu4QcsJHr6z39jSeQFJ2zQwyLmK9YrPouCDiv6XSDfBqzfqkzOIIjCN5Z52VQ49BqJ_bttZbWhYjwWgFklJr3dK2_wTuHrAEhArydVWeAKKiIp7w9JQt7pBGhS4H9r6WM2J4Dm0NYeBOiFgfH3MlQ",
+          "width": 6510
+        },
+        {
+          "height": 1966,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116205166751531232522\">Sergio R.</a>"
+          ],
+          "photo_reference": "CmRaAAAAU5UwcMPrMNnQpC2DuBhOC9QnE2zmOcN3EIvqsnkz6ijOU14lhGRNPTuxkaCQ31x3Ax-QwoxWo0Y2CZ_YBdb4y9F8F_FuN7zKJ4Ep5TgpA-B09njueUFvcpbnQBcHPSAYEhC0cPVFtDQdMBG8QmhJrjECGhQTdgB11XIYPzjt1bnvsKOnczeYFg",
+          "width": 5706
+        },
+        {
+          "height": 560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104905461431803393173\">Tomislav Kostyanev</a>"
+          ],
+          "photo_reference": "CmRaAAAApSgW9yF6amGMC990TeYyR3IU-gF53sIIwe0bBu9fonhFhXEHdWS8H2s9IRSco1Nx5bczLuPsuGG7qCbzaZvMF3idybz3L2mFibnHEntekMNUj-_1stCSVtKGa_Gspr1bEhBLfBXijxdTqi8yAiM2TQ2dGhRlrtBEACuzTnPJF9XzQ_IrSrYgTA",
+          "width": 800
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111608086338146253540\">Massimo D&#39;errico</a>"
+          ],
+          "photo_reference": "CmRaAAAAWsPskAJMC7VwpIBI9BwJ7kOxh-wbO7mWeFx3x3hzE0W-KtI8k1gU_CQs5pYbhdM2s3LW9L63UfezCci1cb9UG4vlUNBW0DfgwuxMWS8tMg2cj65l1AmKfURCVHqKYT2rEhAI7SewQnDPLBDWMQfd37DpGhSBBGeJIdgvUVOCwDV_xQGBZoRawA",
+          "width": 4128
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107669132409155983356\">Jordi</a>"
+          ],
+          "photo_reference": "CmRaAAAARX48tEFjaiCMvtqpJR1LxHfcsd6aoBDocSIUw5AKlxdQyxU17VMCrus7xH3mrM_-OQ8nX1wMpwF7iG7bMtnjD45yAI-NwwtdfUS_p6y1ol6mPfUxI2UCJUJfeHX9yVgfEhCtCkp80-VhHDGC6_NAbe4RGhTOs7ooUBNK9M0HpDTRk1HynJ8c3Q",
+          "width": 4160
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115648968742256870658\">Matteo Stucchi</a>"
+          ],
+          "photo_reference": "CmRaAAAAuTTei2AQ8PURTSWtckQKMhppgKF1dlnveeg8GmAIDN6GAVCQOzQaijx-UvmhVbFQDSE2JK0sXjkaqz0nuHUzfVAz1AqMmCNb5--TWobnoI6dfayb6GLY1c6vk5WSDLXbEhBF9KsIQaYEmF6mhTmrl48vGhRUhZ4Kcb7GQCT8RaRwiNVmYvTNHA",
+          "width": 4000
+        }
+      ],
+      "rating": 4.7,
+      "website": "",
+      "mood_params": [
+        0.003986918319087326,
+        0.040994470726840336,
+        0.13561985567111098,
+        0.14256449464282456,
+        0.12688288643072015,
+        0.171108528116612,
+        0.09952475937411429,
+        0.014552075527081187,
+        0.19323100654060812,
+        0.028916668253592816,
+        0.058294286585970086,
+        0.015337362867695613
+      ],
+      "popularity": 0.5908366876030315,
+      "num_google_reviews": 636,
+      "top_cats": [
+        "water",
+        "hiking",
+        "beach",
+        "views"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.6810328279935881,
+        -0.4354604105145755,
+        -1.217449835427537,
+        -0.6336902950793494,
+        1.5493221647645679,
+        -1.1295359026818004,
+        -0.7887810506253574,
+        -1.2034472639213434,
+        0.3182371580959167,
+        -0.7113701500624736,
+        -0.1319977477893518,
+        0.05997963037391238,
+        -0.33740224424336085,
+        1.6698902953285706,
+        -0.9436439177266275,
+        0.3458796030209499,
+        0.18134208827941997,
+        -1.2063796807648324,
+        -0.6502180615885504,
+        -0.8081895534905196,
+        0.6990100623237022,
+        0.035444567033657816,
+        -0.8265039936873013,
+        -0.49928672306586774,
+        -0.670154191296838,
+        -0.09463559469631563,
+        -0.7829884226822003,
+        0.7880183937352749,
+        0.33241982539453696,
+        2.2157158989199734
+      ],
+      "global_mood_params": [
+        -0.4701905250693765,
+        -0.28559988938352077,
+        1.309575351981561,
+        0.2550511595878568,
+        1.5043977481196837,
+        0.2184579259939121,
+        -0.2607354217740574,
+        -0.5997290141149442,
+        0.9448040101257893,
+        -0.5753084733949929,
+        -0.7715027851030669,
+        -0.6837421561080665
+      ]
+    },
+    {
+      "name": "FlyTicino - Paragliding Tandem Flights in Lugano & Locarno | Switzerland",
+      "orig_name": "FlyTicino - Paragliding Tandem Flights in Lugano & Locarno | Switzerland",
+      "place_id": "ChIJfwCcG9PShUcRBvjYjzeboqc",
+      "cat_params": [
+        0.16182551485283383,
+        0.08824629846778353,
+        0.1330029581930432,
+        0.09939861728626333,
+        0.1426329450608654,
+        0.06763154633477703,
+        0.3660286498209667,
+        0.14943455624560723,
+        0.2260242290302479,
+        0.28015977928115204,
+        0.07766669879518974,
+        0.029722050299829716,
+        0.19236890143455554,
+        0.10694848620375952,
+        0.39918338837135275,
+        0.28240778407194767,
+        0.4309355267953093,
+        0.1269401394348021,
+        0.14849267765833202,
+        0.1499821460211313,
+        0.32821608683722253,
+        0.25245675434702575,
+        0.39028080054479136,
+        0.06572606616173021,
+        0.0010653132586128581,
+        0.17230447776095198,
+        0.24719552298154643,
+        0.41803675676578345,
+        0.14156907495365897,
+        0.14990725533512092
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "079 796 76 18",
+      "int_phone": "+41 79 796 76 18",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.0056457,
+        "lng": 8.9515937
+      },
+      "address": "Booking only via Website, 6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 1307,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101395922613391873673\">FlyTicino - Paragliding Tandem Flights in Lugano &amp; Locarno | Switzerland</a>"
+          ],
+          "photo_reference": "CmRaAAAAwFWmvdTkouno4C0pvSXXFAX8tGt6i8xKDax2Oz3a9y_uJvdK5mqEobeJPkM6UYhG68EMuJuziLUHk8NvQHIoZrW0PLCQbmZ4QGzvefgpQVJFNibwqA_Ee39oa6sqtPHPEhA_fqXhVC0xgRIE96_ReGGoGhT9XnGYFJ6lGAjlF94V9Lyk2v1ynQ",
+          "width": 2000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101395922613391873673\">FlyTicino - Paragliding Tandem Flights in Lugano &amp; Locarno | Switzerland</a>"
+          ],
+          "photo_reference": "CmRaAAAA9E9-zKn_Ce3prtraEjRt3TfM1UsR_Tamjl_PIuGbUyNitMc-yelpPztz2fOsUBuHRXYyp5GK4Mu1nbt3gmyX2OHwK7_BEcVCGUoiJpQ4-BbkxwCVcaxIU36TcuLrf9VpEhB7wCS18ZPsYrqJ50HkbAU-GhTW957FBPaIcT7lEQPeJhwtA0QdVA",
+          "width": 4000
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101395922613391873673\">FlyTicino - Paragliding Tandem Flights in Lugano &amp; Locarno | Switzerland</a>"
+          ],
+          "photo_reference": "CmRaAAAAjcax4j_M7Rvii0-20KhC0UBms8Nr8Zgy1Fs_n4_a8qtMKSEKa-tcBqOl0G-pN1W74bN0mltmOyF3nsrQoBsM-pGKKZsO39zZYwJnF2A4rOlNFgSisHDoSIsxJuCMXFK1EhDtEtX7wH7XKo_Vzxjmc59XGhTALgyZZauBO2cQ0Eraa8W_M7nR9A",
+          "width": 1920
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101395922613391873673\">FlyTicino - Paragliding Tandem Flights in Lugano &amp; Locarno | Switzerland</a>"
+          ],
+          "photo_reference": "CmRaAAAA7fear5sFOP_RAyDoeNbGuJ6koZrs9mgNyKngH5lDnW1kIZcVOrzqWpdjTyRJdVn-nohVCGuPcispzWZdxINYw72o9SIu1Jf11fIisdGORrbCFa1KrRGE1jaT3Z_FQ87PEhBDSs7jwl_3Bu439TZEbwaUGhQlfmQCB0fB8d7olLKPACwlqmwBLw",
+          "width": 4000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101395922613391873673\">FlyTicino - Paragliding Tandem Flights in Lugano &amp; Locarno | Switzerland</a>"
+          ],
+          "photo_reference": "CmRaAAAA_F4-T891FLb9bNmDxomFX_R0G3OWLwOgmVrRkGtzEes8rzJfzvkwp9Um847dE8rA-TLntZ1_kawcS9KXIwgbrwc14wj36dlRP5ylq6Mw5gx-yqd22N9xOKPLRkZtOESYEhCfjOvzLvapVmiGt_0wBfJbGhRDi2i4W7RXZqc243dtEx0DRBjX4A",
+          "width": 4000
+        },
+        {
+          "height": 2338,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101395922613391873673\">FlyTicino - Paragliding Tandem Flights in Lugano &amp; Locarno | Switzerland</a>"
+          ],
+          "photo_reference": "CmRaAAAAz3AzI3lyKMR-KsCV4glIFaOdL9n7Dn8MMbphDdp1XHrmojC4pBkEp4Ud8jDx3XIosXpJDcNuR59u1mxAYQ_qDRE9NJ8RvATCaqdppiPmF3F4PQZRuIojVjCf52ODy6tdEhBaBm7c6M5LSUdtp88YR3M9GhStpRdeD6UiOwh5aHWMv5e4xu3F8g",
+          "width": 3817
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101395922613391873673\">FlyTicino - Paragliding Tandem Flights in Lugano &amp; Locarno | Switzerland</a>"
+          ],
+          "photo_reference": "CmRaAAAAlZdqhhTsMlwoI-hSA1_iC9PZJvQjuION79ZVi4Dg4bvdIqVlUmbVAcllmWXbuJ_gGHXePdiTBiSo5yK_Lw9-HQLj5COpWMT97EhOHQxFfT98b_znVzTPxxiwkZdvXHEnEhCDTDHEN-iA_xsO2miyp0l8GhRKTXMUcJcjDncECOBC3tu4K-CKMA",
+          "width": 4000
+        },
+        {
+          "height": 1444,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101395922613391873673\">FlyTicino - Paragliding Tandem Flights in Lugano &amp; Locarno | Switzerland</a>"
+          ],
+          "photo_reference": "CmRaAAAABu9J69qoE3OKg_1tvE6lrK5QmShUmJhmGeSEH9KzQ5Fcjn9n7f0QSQ-mvdhRPtvfkKe09UMVPJpUHf7fvoAUZ_h2KEXybHnogf7FppJ40KWrI9w-zh3wL4flPRGv41LxEhD8wGbJpG7x4XIxnPAyeaCiGhTFTo1gWUexomBBjLsdHEG9RzKHIw",
+          "width": 2538
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101395922613391873673\">FlyTicino - Paragliding Tandem Flights in Lugano &amp; Locarno | Switzerland</a>"
+          ],
+          "photo_reference": "CmRaAAAA3cvKEy15S5KiiB6qlUn5YHTvvJeOvZBYGWVrLj4ps5cVRlG7LUHbMh4o4G5ZTx73zNxEbsuky5GkLL4Rct3yfrkV9PR_oExDzah83WTNSsokx_Mt641UFEfFU5st5yplEhDRQTnbWKMe99kcdC_tCnSwGhR3uKHzVWgTcMoV0tiyEvnjcLJWNA",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113032972373990570545\">Daniela Mezzapesa</a>"
+          ],
+          "photo_reference": "CmRaAAAAeNgt7TRFUins-WA1ePXjys0iXPx8CZRZed7biYDQoE-MSaPry2maozqxkBiriabJ3Dkr82aw86cq3Fz4DUpfr-YLAALWpDq3iPRL1vxuBmbcDG6g1RImowSuQdji34TfEhCb0GbiDKkEPIR__FtpJJXkGhQLd8L-RYHQ87rYdV8G6Z3-LseJUQ",
+          "width": 3024
+        }
+      ],
+      "rating": 5,
+      "website": "https://www.flyticino.ch/en/",
+      "mood_params": [
+        0.02611488760560103,
+        0.06243546874506436,
+        0.05485417988606662,
+        0.16463441374572457,
+        0.11107758774924677,
+        0.2472081658688786,
+        0.20337950817988018,
+        0.04562920715603594,
+        0.13984956382686556,
+        0.06475941691934022,
+        0.11688728420989762,
+        0.046550204036627615
+      ],
+      "popularity": 0.3748111327614428,
+      "num_google_reviews": 103,
+      "top_cats": [
+        "original",
+        "hospitality",
+        "history",
+        "engineering"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        0.007378701260305537,
+        -0.28706102404816597,
+        -0.9002036086293806,
+        -0.9424024560799916,
+        -1.0006735982199992,
+        -1.0338661795844968,
+        -0.34330949180544257,
+        -0.6852826077024619,
+        0.2871842464262212,
+        -0.43802234947232965,
+        -0.17859635737541324,
+        -1.0558562025501503,
+        -0.6608323401273127,
+        -0.7258627972384802,
+        1.1857828006559088,
+        1.312071384779174,
+        -0.20732580983666463,
+        -1.7465582280655094,
+        -0.22085478748438234,
+        0.2855306174495726,
+        -1.0210534655633996,
+        -0.027515159708715712,
+        1.502238598644955,
+        -0.9560544413132204,
+        -0.7627423436400339,
+        -1.3517607208345408,
+        -0.4028121616034131,
+        -0.015570220014801116,
+        -0.9515610469241103,
+        -1.2364909066020648
+      ],
+      "global_mood_params": [
+        1.018620594073791,
+        0.35675131506731733,
+        -0.14458054514495985,
+        0.595291101297283,
+        1.1575149827522924,
+        1.1754121643198967,
+        1.7046744603636879,
+        0.6394943086690406,
+        0.23863773209534725,
+        0.81765459341411,
+        0.5843510647838397,
+        1.2243885040290725
+      ]
+    },
+    {
+      "name": "Parco del Tassino",
+      "orig_name": "Parco del Tassino",
+      "place_id": "ChIJdbYqzjkthEcRNXwD0lV4SFM",
+      "cat_params": [
+        0.2575491194030138,
+        0.15406743804185433,
+        0.15641079928466178,
+        0.17303742799153737,
+        0.565448414375173,
+        0.11708942942901304,
+        0.29535155473469354,
+        0.11821768309759666,
+        0.27376699739805055,
+        0.22511687034099576,
+        0.03844028594814943,
+        0.09197972529541011,
+        0.15755713564461918,
+        0.44780935429868063,
+        0.17428627258158885,
+        0.3169831999712557,
+        0.6535142128699336,
+        0.28308158570311154,
+        0.06897015467538375,
+        0.08709985736738839,
+        0.8049306854021923,
+        0.17641528509366117,
+        0.1725740899358507,
+        0.10797959575176613,
+        0.0,
+        0.2786282499855062,
+        0.3258843147416398,
+        0.7622056029253151,
+        0.4669331900204869,
+        0.57232779389213
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.0010519,
+        "lng": 8.9454145
+      },
+      "address": "6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118256806591197080022\">Alessandro Mazzocchini</a>"
+          ],
+          "photo_reference": "CmRaAAAAK0CJ5Wwn5eCbvHbXcQIvi5hkN31Qos3QEsWg78VnEUCbjQbCoX-tCNMAOnyzBtN-FLKa8mMRlVEnUa-InPOYdN4TM6BKpdOiUx3D4hXLpafhJrDyu81sY_B2AFewFzP2EhDRcxf-gOuL2H7x36B415jDGhTJGufllGcYoyrwP5lISlCFJ-P8Rw",
+          "width": 4032
+        },
+        {
+          "height": 3040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103191145756033651867\">fabio titolo</a>"
+          ],
+          "photo_reference": "CmRaAAAAcH5npF_Nc6yIX5rLqelfzizGvt1fKXfNu3NqLDmUjlPkmFXBD9ro4xMr_6iM17sMrTsrAv-DD3-HMyMRKRth1oxtrvVPO-GozT6UNW-q2HnhDBa0cn4SOv6wrB4qCaKPEhB_JuSkK07u-w3HRH6UML7UGhS8pMvGuITY9ySsivoTOjJHgGM-3Q",
+          "width": 6080
+        },
+        {
+          "height": 3040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103191145756033651867\">fabio titolo</a>"
+          ],
+          "photo_reference": "CmRaAAAAODRTh-T_hDNf6q8gDyVfFKeExRiVnC9vRcQQuDlww28loYsTqFhSSQHGsYp9Hm4MLsZ5IpOz_obqpQ-PLG2DN4y74fe6CaUvBEv3VAgxEvlBGTYN_GCM73xDUckHLmwfEhDZtOM_8Eh-3HWsrx3XewInGhRiAC4QIZ7eLQ6ONxIIUSNZCe6o7w",
+          "width": 6080
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105177328582943282924\">Fabrizio Sala</a>"
+          ],
+          "photo_reference": "CmRaAAAA_mxWg1wbULQOI2rcAr9UFvMVICIXOIMib47d8u43kfyb84_BY708Nd3HYXlQUYSpXhqdyMIr5agyyrYyagkM8TkgvFM0VxC_tieftPGiM0W-cpI0UyxhQD8ET1DmcMK4EhCt0U5CApQ7axQ-0iPUVDbYGhSRqTk6wzDf2PAG7dn8GHSMMLnLxw",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105750575273641434193\">Christian Bettoni</a>"
+          ],
+          "photo_reference": "CmRaAAAAF2fNVDvSMmvcJEddXh-f3poFm2o7YA4dkePgCNCWz0u2MKs15WUlKOYUsiccY1M5O4NiOY70Y2cb6IM79rROYIYAAnN5CiPs4c99i3aEdfMLeBgnnExjmUQKyiJX5KunEhBoEcL0pOdPAOLIEQ6JQM5HGhQ59LRVaTsNN9c0LGskA7mcqHjHVw",
+          "width": 4032
+        },
+        {
+          "height": 3040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103191145756033651867\">fabio titolo</a>"
+          ],
+          "photo_reference": "CmRaAAAA4OUU-5dfZyWolwCiWYh-bXzJ2DZOrUmDW2usQwXSModVIhBCwfiq6u-TpGw4BfdTyHYpd77RB-YVHKNTvVfaGOrJsTtWcCGlTHL2h5OoGWec9Q3uSpHs0T050nU-MbXCEhAOKZOM9jTlGlMLVYQBHkU1GhTcx42jQ9-6MDdV1V4VV8pY0OUoGA",
+          "width": 6080
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114446148542864607034\">Mila Chaoui</a>"
+          ],
+          "photo_reference": "CmRaAAAAfAZC4nf4nRb3B40WWTB0hdpQkBc2irfuhqEU1UNmS9p2iHH4DPGUh8EJ-e_Udn6LeQztXEl_jGJHgXEy8ZzeZgZQHrE-dSYMDm9h0NA0ZkU2hVyBHlb9q-RcAWUQIztvEhD12TnRkhmbHo3ww6DGFxYlGhTsa4ZgIli8mga8hFxveiDzxx5e6w",
+          "width": 3549
+        },
+        {
+          "height": 3040,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103191145756033651867\">fabio titolo</a>"
+          ],
+          "photo_reference": "CmRaAAAA3uYuiXEoAe1_cC-j6nkFMrpv2htx9sdQBxymeRg5apdj5sZ6FhTz_Myox8T-sTYkUQI5PrtAxHGLmKZF-6-i4By1AzbpU2PVgAQxuO2qgRcV_IQ-phXAT0b6oi-5YxjbEhDW_IRhMCRHddG1mGCRvfJOGhT56XQbez-pUtQG8M8Hhj7hmGFnPg",
+          "width": 6080
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102161622879097151718\">Zeki Mert Barut</a>"
+          ],
+          "photo_reference": "CmRaAAAA8xl_jJsNCmSr-63By_4Vdo9Eox0gixD0o6Tfx8Qhb4oJgyNTJVaufxFbGVKo0h6kHXfdvigUol-yInz_UXwBY_eUcZpbjUTA4TcTU8B0pOQ2uVTsrxspem292qS8Gb-0EhAEoQl64-Lm-5Zzk6bBvQIOGhQhOBrFJuygIruzJHR3w77gkiFBlA",
+          "width": 4032
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117722948465317894694\">Armando Luongo</a>"
+          ],
+          "photo_reference": "CmRaAAAAeKVqHhrugvtwHDmeStOKjs1xgBTxpM7fA5ObBg1_fLxu2HMhChMASYJK9U2OJ4Z6AOVGldKIIRi4APKtRZJkvfrjggwfxBF1uuxj_eLn7fWPNq1696Q0HPnaeb3j9K7WEhBjqH9Z5p4_ym1V5zBkAP3iGhTtRWAN1sz9vh8fiR5-bbpq3SdMMw",
+          "width": 2160
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.0,
+        0.04707374385767344,
+        0.2056042447753945,
+        0.20485413181723677,
+        0.20066358168040865,
+        0.22523778213547097,
+        0.1343577348420984,
+        0.033563174533176525,
+        0.2997830103358403,
+        0.008700732572084004,
+        0.07061062605444639,
+        0.017299189653961947
+      ],
+      "popularity": 0.341521274856208,
+      "num_google_reviews": 71,
+      "top_cats": [
+        "views",
+        "hiking",
+        "hospitality",
+        "water"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        1.1688343118441507,
+        0.49994369283597345,
+        -0.6702592834278026,
+        -0.41616325104622165,
+        1.6073981619934052,
+        -0.37406492602621444,
+        -1.095443461658696,
+        -1.0319712433465316,
+        0.9937307802613616,
+        -1.0232737265316536,
+        -0.9853457493050781,
+        -0.4645833311161982,
+        -1.037014922158341,
+        1.7787924592476405,
+        -1.2597508536140347,
+        1.7170147559074176,
+        1.0003955226396117,
+        -0.11337785540803492,
+        -1.235926475454537,
+        -0.9674540264894601,
+        1.3038875451392007,
+        -0.7703844712408919,
+        -0.9523669382352775,
+        -0.5618952164004395,
+        -0.7934151832810495,
+        -0.5631117442902096,
+        0.33449505134771895,
+        2.2202843045872283,
+        1.0124762730633992,
+        1.6681290836186216
+      ],
+      "global_mood_params": [
+        -0.7384378390328163,
+        -0.10347084788754478,
+        2.569618199807712,
+        1.2153366242744257,
+        3.1236807566047142,
+        0.8991342154053963,
+        0.39846480735631,
+        0.1583524446693252,
+        2.3543468795505964,
+        -1.360963949428304,
+        -0.48650019158448166,
+        -0.563810048021759
+      ]
+    },
+    {
+      "name": "Parco San Grato",
+      "orig_name": "Parco San Grato",
+      "place_id": "ChIJT4rOF28shEcRUVSMeD8048s",
+      "cat_params": [
+        0.1998386426062844,
+        0.15959430039336142,
+        0.11291079654971312,
+        0.18669668862612604,
+        0.5276781091128472,
+        0.09448116574399285,
+        0.28980599459344836,
+        0.13711579528686973,
+        0.15967858571924134,
+        0.2820688266382204,
+        0.04751459577948809,
+        0.13714297686878815,
+        0.19539935920264104,
+        0.43588754204033725,
+        0.19252719973007382,
+        0.27531185116582757,
+        0.5869232003052249,
+        0.23164523615982122,
+        0.10087698241775288,
+        0.08735791877532208,
+        0.8336082948672007,
+        0.16373363405336366,
+        0.21812695454757647,
+        0.07787923681073387,
+        0.003863515163616602,
+        0.27372260974996987,
+        0.2994044390334971,
+        0.6595710924907637,
+        0.5160338635560808,
+        0.4603097099158389
+      ],
+      "noncat_params": [],
+      "quote": "Azaleas & other colorful plants are on display in this alpine green space with trails & lake views.",
+      "phone": "058 866 66 00",
+      "int_phone": "+41 58 866 66 00",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.9514516,
+        "lng": 8.9326747
+      },
+      "address": "Via S. Grato, 6914 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116973910756015720101\">Parco San Grato</a>"
+          ],
+          "photo_reference": "CmRZAAAAsbWxBE3Hcj_yvusWfhrIe1Y7NSplkw4iueBiAR64u9lRygQN-cuB495Zf6TG0EWVpxKwwY2m3WQvC780g0snk0c475TAfpj_F3lShs83dJ071lSMiABu47Cekegpl-ytEhDZ1F39HBz-Eszb93NEVaI-GhQ71ACAutbKBcL1-brId7BWy_ADgQ",
+          "width": 2048
+        },
+        {
+          "height": 2912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116973910756015720101\">Parco San Grato</a>"
+          ],
+          "photo_reference": "CmRZAAAAiQgPA8UAJJCPBNKl0sJ1ru8U0dUCAb3aaQt4dbKBcyqZrAsQwtpm9YQBdYvsXvCtaCD28_Lz02CPmL0ea83pvF7C1o_0YADBDC6l05xa0mrn7_fcLQU3M10SIqkulENqEhCSty9RmAl5yNDl4WXo3gA1GhRJaI3aC1At8HYwAwxa5vyR-mMMoQ",
+          "width": 4368
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101224299806873726759\">Deepanwita Datta</a>"
+          ],
+          "photo_reference": "CmRaAAAA3NC0M26iCxq3_7NAkCoeGncIKbkoTRuHSCaLBiWKy2GMd3cLRKj7Xdfozazu6UwFEIV3ylxlM-ZoLyeXeXKEviT2uFRvHjaWIa01RLfDBx84zKIQ2XSC3Py-auPoEwVUEhD20S__2O80yWHFuaS1M1L9GhRwdo7jADsbG-y-LbJENXtg88aLSw",
+          "width": 4160
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113604567831897445228\">Cristina Sampaio</a>"
+          ],
+          "photo_reference": "CmRaAAAAKE8CWrYLDeC_XU37k5sO0fp39wruodJUc2hAxSWIbs0nFSxKoA3zZxcUMGmuvGMXOq359-PmKojT_xzTOkqNZLqjogjRLxmOxZrPC3QLr3ZLwD17fKaN9jDgu2WvG85XEhC6nbshmHZ1A5EjQShVzMOYGhQh1BKs1jcyb55IPGYSeM4XnO5IuQ",
+          "width": 2268
+        },
+        {
+          "height": 601,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117132169317570506358\">Jo Si</a>"
+          ],
+          "photo_reference": "CmRaAAAAA78yI2hbHP7Pzq1XLK9UYslN2WRqZb84PQ11SiEXs6AcMH1VKpLhdNhPcgAm-IFqpicTtN0tAyd8crPNUx-9JkrbjsFGVmA1FhAkU-2Rgo4zdddjpfr0DqeP2eVubMPtEhBJCjVZJ2Krs0OpHBsRVMjIGhRZ-bHM1JG5JWYSAJ_-uqSqN5RM5Q",
+          "width": 900
+        },
+        {
+          "height": 601,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117132169317570506358\">Jo Si</a>"
+          ],
+          "photo_reference": "CmRaAAAAu63muj9CN4A57zN-PMCHwKu-y3-itZbdy0AFX0ngu5eSnr0W4_0Sy6dYZomX6ljc0u7af6va_mqs8FcGATymMUqtg3s_KpMQEyYn9aDP1z8nDvqo9r68jAyG-K1Q1VRcEhAcmMimY8r23B6cfyCOoqpxGhTbIohzvqrvNn48De6PGXgGy-YWEg",
+          "width": 900
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108703775402316630106\">Lugano Region</a>"
+          ],
+          "photo_reference": "CmRaAAAAKM8QVglHhiXeAifRX1cdH8HHo3TeIYlHCcDko8eiwhHBEqDcogoz_cIUsZarpqlklFML2hVcSQHu5LCuQwhm7g_teLMkizoR3CBwyap3VzfcyCopVFeUAHUJrfEXoXreEhASuFCoRRZSLjySBsxqPF_KGhS8OLzaG3Nbh_ZXRuAbBrnxSl5BVg",
+          "width": 5760
+        },
+        {
+          "height": 601,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117132169317570506358\">Jo Si</a>"
+          ],
+          "photo_reference": "CmRaAAAAWcCyUwUAeqnqsEevT9ruvwnocXBuw92DWXgz3Nswwl8r5c7irIAyT34s94jODeTIYE0gCjSb_sPwAq2kzrKTQWkCCzlIrXUa0FbQzp9a6FHOnH7aDgNv6xfugcHYyy_nEhCwi0Sno4r9PPNwli3SEpoCGhSyZ2jNqrWIbYf30AOYU120ZuNWCw",
+          "width": 900
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113639983185528291080\">Francesca Ziviani</a>"
+          ],
+          "photo_reference": "CmRaAAAAy_JRLpBXAp5Us5uxmQTKe9znUY9C2PuV1ej_NQBvl340ZfK_M7eclxAZbyn0b4wdpt22LxqS68ZjAAY67yZuMR_g4IdbOsRxkWt7BCofIBPb0LDM38AdR1ObYM3KhVWOEhDPzhzgtu0pEUXc0BU1EYVBGhTITgT1uGHZX7Anoj59LTvDLn2ckw",
+          "width": 4000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102168773889708749990\">Corinna de Marchi</a>"
+          ],
+          "photo_reference": "CmRaAAAAfAqGZ-DF8r_RLUUryDcQ2NYh1F16oYvfSrQqcpzf3oRE22YZWbgnJ5czZNv4wLRRf3RpM6WASBPXqUxhztLRGd5RESMd0oV07scGAzT0ZBIDxBWmsNxXP3L2pYDvZ0qPEhD-diHWmT9ty9-xG4TbpDI2GhTdPz3hpeeN6QFixEPi7FTFh3Y_fA",
+          "width": 4000
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.parcosangrato.ch/",
+      "mood_params": [
+        0.0044033135106096456,
+        0.04260576564215741,
+        0.16781958742531583,
+        0.20103795090102253,
+        0.17555001414472926,
+        0.22213558299501296,
+        0.15294571458273082,
+        0.02734171545458253,
+        0.25131737458417985,
+        0.016070408423586976,
+        0.07793572761553173,
+        0.0099173021818848
+      ],
+      "popularity": 0.5588337429419659,
+      "num_google_reviews": 509,
+      "top_cats": [
+        "hiking",
+        "views",
+        "nature",
+        "beach"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        0.46860830823714217,
+        0.5660268200554683,
+        -1.097576725305691,
+        -0.3185511577919753,
+        1.3744178817565809,
+        -0.6756742911446133,
+        -1.1544583965396968,
+        -0.8220924159545836,
+        -0.6946667420905501,
+        -0.41772413820209237,
+        -0.7987191014094319,
+        -0.03565942024126004,
+        -0.6280846353767553,
+        1.691190647087187,
+        -1.0613988157497207,
+        1.2289646189582712,
+        0.6390698816093168,
+        -0.6513825846001755,
+        -0.8286491874695422,
+        -0.9623119270484762,
+        1.4437484819236328,
+        -0.8942748887972344,
+        -0.43876626242723576,
+        -0.8426844017041821,
+        -0.6821756205457192,
+        -0.5994989799018237,
+        0.08638089276224588,
+        1.5535306541739144,
+        1.3088689936946287,
+        0.8978777906885473
+      ],
+      "global_mood_params": [
+        -0.4421746785599542,
+        -0.2373270791020354,
+        1.8893195237617655,
+        1.156504638238068,
+        2.572507132456213,
+        0.8601240084809344,
+        0.7502349429669687,
+        -0.08973278031188227,
+        1.7132102621935248,
+        -1.0745549362348257,
+        -0.31699585565417016,
+        -1.0150860385321292
+      ]
+    },
+    {
+      "name": "Museo d'arte della Svizzera italiana Lugano - LAC",
+      "orig_name": "Museo d'arte della Svizzera italiana Lugano - LAC",
+      "place_id": "ChIJ_QfeApcthEcRonsAcytqwp4",
+      "cat_params": [
+        0.050746873785305034,
+        0.025604741059907073,
+        0.14979871673467374,
+        0.1241884839996158,
+        0.12858782930620713,
+        0.11173320962060737,
+        0.16686371036837616,
+        0.1201837804473689,
+        0.14241276509466394,
+        0.14382661440338868,
+        0.017725825634292404,
+        0.03591689179687759,
+        0.0865343058907159,
+        0.09269226942173257,
+        0.14110592366679167,
+        0.05440932617153476,
+        0.11029341012755489,
+        0.15389722484407226,
+        0.06642391637716859,
+        0.051891069051497346,
+        0.21534519124223483,
+        0.09353451807861281,
+        0.07805587259402348,
+        0.07419590662046464,
+        0.030650688883861906,
+        0.11717821185313666,
+        0.12105147973197392,
+        0.14917771212230005,
+        0.08348027511424634,
+        0.18057579717387268
+      ],
+      "noncat_params": [],
+      "quote": "Art collection set in an 18th century lakeside villa, includes 19th & 20th works by French masters.",
+      "phone": "058 866 42 40",
+      "int_phone": "+41 58 866 42 40",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.9992753,
+        "lng": 8.9482161
+      },
+      "address": "LAC Lugano Arte e Cultura, Piazza Bernardino Luini 6, 6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100733280224785960012\">Museo d&#39;arte della Svizzera italiana Lugano - LAC</a>"
+          ],
+          "photo_reference": "CmRaAAAAYw27nCgCn8XfvB_pnGJ6RuokhKsh-Grzgajhs4BRPVJhI1XzqzxcCeGTUFa44fU_HewEamV5iWZ7X4BUQXmN2gTXy5snFBr3N5D6CEHaCSIJ1nzEGORGl8C0VwkEIjnLEhBv1WaK9Kr7hdzb0FXygEZoGhRnL5vBnqrAKDugCTwvZ_49T5H49g",
+          "width": 1280
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108345510554751683509\">Claudio Di Pinto</a>"
+          ],
+          "photo_reference": "CmRaAAAATsAYdWw0TBLDW9L_KrIGfDNhYUI0CX_2spOshMVJXWfzkAVUqY1xNetg87jXtkTsN5pgT2gk2GUkJx0SLMKeTtF6kgA6lFIJrwP4JjgzJB30iscc-MPdaqsRYJJJHcotEhDwpIWDYlIs7dQFdukq4V9XGhTO9rBARG9s4nX4z6ebF-p-NUlXlg",
+          "width": 4160
+        },
+        {
+          "height": 840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100733280224785960012\">Museo d&#39;arte della Svizzera italiana Lugano - LAC</a>"
+          ],
+          "photo_reference": "CmRaAAAAoRzyuG1ROVmxrYK4OQyA1bM8qpXBqP7WGOa_1gfCHu-i1IBf0kOqGFGO65hu4jOGCMCB-txZwIml5j8DHOD6hT-RvKvI0yHbi2WA7qkoJrSVLpxu-Q2skFBIMjVP1r5REhAplJ3FrcgoeWiZoLiY16zWGhSBAr7MeS-8FYdFk6xVyUZ5rhHGEQ",
+          "width": 1280
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107186311474184168303\">Laura Stampacchia</a>"
+          ],
+          "photo_reference": "CmRaAAAAehRKWEjWDHtjsMmt-Xxxl_rxJ2yQ49gwddCoN0pKvR-mg8U1oZNzU1wi15ubl8Mjk2nA5V03RLW5TSJKS7PR57mFj8gV0trmhNYiNnWGU-wGoLX-OForzy81ZmoXT0z4EhC7bz6CxKO3_RWbE_EGzBFaGhTWkeSyGMKVLDi95UEmYBLpxCAcng",
+          "width": 3648
+        },
+        {
+          "height": 854,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100733280224785960012\">Museo d&#39;arte della Svizzera italiana Lugano - LAC</a>"
+          ],
+          "photo_reference": "CmRaAAAAzzBPg9NpbZOm8-24fXhfarfqEc3ITHKwmu01ByUP3sgXFwRkscFA3bqiZb2Dy_P-Z8nYVv3jqfFjLVbL_U6fNdNcPKekn_IqDeBuQ0FN5J5m1R7UQ8QzzdrV94erh0GOEhAsxgGODo2Emq8Ccaf2QhqwGhRVmOTZeZEYqsrAmA2sposCWBKH3Q",
+          "width": 1280
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108345510554751683509\">Claudio Di Pinto</a>"
+          ],
+          "photo_reference": "CmRaAAAAyCNyKHYes1lwYif5QzRfDy5aliRFxej7L0Z1khuM82g0G2BtzZFieZ32qT9wqt6HHYXgmhUivEw2sqjEDlJlwlqke1OV_j38dOB1E2ELo04ya3nw_QSofWlclcfvj3EEEhD4G6i5XKnoRquhUTmdAKlEGhTDDj8rcYxkG_8R-8DqSAZkz0Oxeg",
+          "width": 4160
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107186311474184168303\">Laura Stampacchia</a>"
+          ],
+          "photo_reference": "CmRaAAAApm6a7G2mn8m2y3e_jj3jTpYaJJD6mI0GO29Vi0cxQnmlsepFFe0NCjASphSq2Yc1zb-1zPh3cFTnL4HAhvTd7kjE6DK_WrnLrAhwggiDDrne4y94TmiBkBqLW9zfeLmHEhDKjGQUsxo8-LC66s117bHNGhTF-OfSOXrftAE0ltAhDsStv565nA",
+          "width": 2736
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107186311474184168303\">Laura Stampacchia</a>"
+          ],
+          "photo_reference": "CmRaAAAAPHeNJZzi3A6N3u7d0TMEhPLaEu-T4AwiIfxzbJCCANm23u0VEgnosBGIJu24u0eiOJfNM2WAs4fndjJ2UsjrmfdJgOAyTUXiOGKv8hAyqgq9m5Xq3a9bE3WRouR4jxCqEhB1ynPY8-N1TNvBo_Lbq-xfGhRjcEuN0mmZBIATIAkWO3CSFA5hkg",
+          "width": 3648
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108345510554751683509\">Claudio Di Pinto</a>"
+          ],
+          "photo_reference": "CmRaAAAAJxae6pVF-gJaEeschnbJrylqzQ1JJ-m4lgPYJ-YG7EU0m2Ixo1e7uzc2rhsMej8wnTpqKrh2z3Od-91xFUpUd553se_hktMN-OMsgxE58JCIqfgWbbm3rOgIpQ80REqeEhBX7wyNv7kpNdi-AKEnlypRGhTqhZmRoCUtLF-TrWUHRAlDu49Rdg",
+          "width": 4160
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102900091232839269978\">Fabia Bellotti</a>"
+          ],
+          "photo_reference": "CmRaAAAAIRGX7j7orUBsFPP740vHyIPPrbqQXsqBn6FVyJHxBy6Qz8UrHyiOY-8rC6888IVyMO2by1u2SFEP5KiCZAApm-1nv7nahkCYj-PFZHtk4If8fMrGGiW7jpMv5EmUecFYEhBLoJh5VPwkR8uS_-_-AgBnGhQFSdQaFxY09rNCIYs0DFFOvyvX2Q",
+          "width": 1960
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.masilugano.ch/",
+      "mood_params": [
+        0.0007025471931809578,
+        0.008991104286579593,
+        0.014585565712108001,
+        0.029204948722129323,
+        0.014182613678535561,
+        0.02901431854624648,
+        0.023333327736231473,
+        0.006409946333297605,
+        0.023653176526068236,
+        0.010450358455835428,
+        0.01983692713170453,
+        0.0036393767249628434
+      ],
+      "popularity": 0.4117427781896895,
+      "num_google_reviews": 150,
+      "top_cats": [
+        "science",
+        "books",
+        "architecture",
+        "art"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -1.3403861629042033,
+        -1.0360483778372824,
+        -0.7352123414301713,
+        -0.7652485935014722,
+        -1.087308720222649,
+        -0.4455204822049146,
+        -2.462789874851824,
+        -1.0101361413968863,
+        -0.950184093370528,
+        -1.8876036673913223,
+        -1.4113693657779833,
+        -0.9970226254803718,
+        -1.8045011692276345,
+        -0.8306178795695092,
+        -1.6205543243326617,
+        -1.3582208373913756,
+        -1.947143450148196,
+        -1.46459732757008,
+        -1.2684281405224038,
+        -1.6690199528575935,
+        -1.571525749973113,
+        -1.5800686992847028,
+        -2.018043503621638,
+        -0.8770441010471863,
+        0.08908924198585692,
+        -1.76065585575404,
+        -1.5847710007007156,
+        -1.7621830182216183,
+        -1.3022099521804804,
+        -1.0256099205589686
+      ],
+      "global_mood_params": [
+        -0.6911691511840804,
+        -1.2443892592584687,
+        -0.8696019382182001,
+        -1.4925513176317495,
+        -0.9690627702672238,
+        -1.5683791747634037,
+        -1.7026280111575438,
+        -0.9244023628179544,
+        -1.2984876464898916,
+        -1.2929679299397647,
+        -1.661413883477341,
+        -1.3988736591967854
+      ]
+    },
+    {
+      "name": "Swiss Customs Museum",
+      "orig_name": "Swiss Customs Museum",
+      "place_id": "ChIJeQ63Wh4uhEcRrhuyn_Y5oZI",
+      "cat_params": [
+        0.040843832170549946,
+        0.01240081913919521,
+        0.26803742642762035,
+        0.27111828383380904,
+        0.2640157061565514,
+        0.115007952221471,
+        0.2114113359366488,
+        0.26038122515917944,
+        0.19930089862045683,
+        0.18135031526640857,
+        0.020078494807086556,
+        0.05366829640702986,
+        0.11952392929078594,
+        0.15611406096056962,
+        0.2279441813442689,
+        0.07728790040904275,
+        0.27457356041759584,
+        0.2956827060252819,
+        0.08003920823549476,
+        0.08251539391957373,
+        0.28728987429384606,
+        0.10432361286886653,
+        0.16926804892981828,
+        0.05221340898282212,
+        0.02002482763982278,
+        0.19764538998502768,
+        0.10955296366866529,
+        0.25837510461908064,
+        0.1233622405850704,
+        0.321182359396563
+      ],
+      "noncat_params": [],
+      "quote": "Accessible by boat, this former border-guard barracks explores the work of Swiss customs officers.",
+      "phone": "079 512 99 07",
+      "int_phone": "+41 79 512 99 07",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.9992951,
+        "lng": 9.0210439
+      },
+      "address": "Cantine di Gandria, 6978 Paradiso, Switzerland",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113192922215136222051\">Olivier Monnet</a>"
+          ],
+          "photo_reference": "CmRaAAAA0gLdJ87FubPLDfgKtZHn_iJRnaajk6Ig2LLJKpW4CAFNGkxr8MfS5aKArY5-RkHVhvG_5P8tHs6G0QpDMgmj_shE2I8H4ygV7RuHJn2CRlIdi6mbNGvfGLazB4x4_P7AEhCYEpg_xuFNiyiq_eDS1VgdGhRPWPM9X9j0F6QfH_Bn8ZiXlMzP3Q",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109082410479338360804\">Daniel Lucky</a>"
+          ],
+          "photo_reference": "CmRaAAAASxh_vwcEhFuMFKLIC1YQjiaqAiea8dxKoY5bW4KTYU4_GiClgMwHpj3PXfhnJdNbTloe2FZuMMYrPyOC6d6GNAAkm4Rot-aL4i047bJ7xv6Fzpz1Uk6oepDsTZNH-t0VEhDSlRQXVN3zd-z5HKn-0_DjGhTwo65opxQv1iopC9bQJdumJYUM4Q",
+          "width": 3024
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116256323946763998920\">Sagar Varpe</a>"
+          ],
+          "photo_reference": "CmRaAAAAgiIy2-vOLQy2NdtH-TYG78Ne1j2d05KvBhVvFHeWH6szQYy6iGEJ-GSG1QR-Q929cPnuiHvPyTdOHbmAr3RooQlXJDEtVOgHPUHKbw4-PJX8mnj_-tVeVtlYa8JFpI9REhA4wFjiFniOmqmTUAwRIi0zGhSzypy6ZjNdtrQ6Ja1T7Kv5mJHDbw",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109082410479338360804\">Daniel Lucky</a>"
+          ],
+          "photo_reference": "CmRaAAAAEO0UTWrZclRNwWoZUMgkGsbopeOl1DB4BuCGjWWHbIHDGtVxyywffbXPxn_jpKMzTzbSFR6Zm0iuLqkuoowb7FzOIzVBikAM4GMFkbv2pPNkbWP9l93e2gw6lEG7dc9aEhBnc1bLP5tGHOlmCcQB8Qx3GhREgQCtmSFf1a361bxAw5zoO9jY3g",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109082410479338360804\">Daniel Lucky</a>"
+          ],
+          "photo_reference": "CmRaAAAAA8PBr_rZYOx6PGVcI6HSS0GXw2nesU_HQt3qKe0wpr_A44KpuUeCnTs-tD5aTYME71UY8PvLmI58eabEu-Eil2mDB8snYbmKuvmisbbj_FC-DdYiv3970pzjDWgUwBDREhAcjbZ36AiHm7tYOjGZGpyGGhSY_sl4ebIPr2qrFUDG089thFpnzg",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109082410479338360804\">Daniel Lucky</a>"
+          ],
+          "photo_reference": "CmRaAAAA-CxlivMU_BdTSwjDCbki1lbCuq8K6O18oyWkh8Sz9pC-_5pX7U-ye7X91aLtmc1ODNdLdrFrdd1p_T74m6F2M382iJLnD1tjFUbWR8GUNn9_27XMQWk5sJflA2qQoupEEhBTx1ej--dGTlnyIEpi1At7GhTIk38TOdWYzZdpda4k3Kopxox9wA",
+          "width": 3024
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105671043732997000991\">Matteo Bernasconi</a>"
+          ],
+          "photo_reference": "CmRaAAAAiY_VTR6iMEHDYkB2fERw-3FyW7vuwqMRljd0X1PjdRiHgYqplka3EKAeQdqzS-bc55gcpqDS9GaSGbW266CRaV9JrbrOhgEmdqunw4_SR_jc_WNOCyGebrdEdc9CVPpKEhA0hjtswzjlktd0itVisKJ4GhReIW84dy8kO_F9SelNmYq_MMtdUw",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116494399610479462125\">Philippe Bueche</a>"
+          ],
+          "photo_reference": "CmRaAAAA7ODC0SRpanhjplDbVn8RMq84NjYU-yit_oHP_jK1aKMejw7tDRgUSwFxMwWgoyLW_nDSKFlT8m9Ie2J1Jtv2-XdUeODAGeR9LMcvUzsk7r8NqE7GqOTYWi0skCPcPCSeEhDFu-4dy1ZcikPojKWVKYEMGhQfy0STHMwZIGE9g7uxjm0cCxMmRA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117095435138116497475\">Natpat ma play liste</a>"
+          ],
+          "photo_reference": "CmRaAAAACaMCS0XujZrQa1pNSVIJyJS0tslYhALSK2V-7JlYH1Z7xBQZdEoBGC_x8uk5i-0M-uhUm31uBsIdi2___W0sxMLnhb3_1zieD2IzTS1f9pStmc9yaMJDzMSPfyvE2A-dEhA-RnigUFuPHPwYrprfErsLGhQk1gQxgKTvPZKunnJE3nLLPUwmNA",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111935008194825207893\">Tom Steiner</a>"
+          ],
+          "photo_reference": "CmRaAAAAXJyCJ308neG4vJseKCr9mfWe3Qi-Gn1Gibkk7eJE6owLjEzy-PKE15UAoOELMvYC6m-0UJ5O8WuzfYPUz75Z5oLOniyp0bTpYb0dhKC5fijGAOk4GAw1t4s7LM1CllWMEhAcNUgo66ecrfLDLEsfOVTjGhRDHcfalkoN14h8x04VsbdzZRmmSQ",
+          "width": 5312
+        }
+      ],
+      "rating": 4.1,
+      "website": "http://www.zollmuseum.ch/",
+      "mood_params": [
+        0.006333823864020349,
+        0.051243111590850335,
+        0.020833613975492403,
+        0.1269353538649441,
+        0.03037666458122447,
+        0.08127949050034007,
+        0.053664008025806,
+        0.05738543526939341,
+        0.05833987222335159,
+        0.014800140740767846,
+        0.09184541787719976,
+        0.0
+      ],
+      "popularity": 0.34851851676184875,
+      "num_google_reviews": 77,
+      "top_cats": [
+        "culture",
+        "architecture",
+        "art",
+        "military"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -1.460544020512596,
+        -1.1939239311961871,
+        0.4262924811049126,
+        0.28474420676219464,
+        -0.25194282944328467,
+        -0.40183322472538147,
+        -1.988721402947287,
+        0.5468699237996233,
+        -0.10829505062900532,
+        -1.4886277043599947,
+        -1.3629832328943958,
+        -0.828434190776125,
+        -1.4480090054645087,
+        -0.3645927695551805,
+        -0.6762741770187334,
+        -1.090269556477653,
+        -1.055752430160003,
+        0.018425089136874056,
+        -1.0946346444106048,
+        -1.0588034735880216,
+        -1.2206509401136976,
+        -1.4746671664423248,
+        -0.9896419792106427,
+        -1.0821063600955634,
+        -0.21685394923142057,
+        -1.1637963167123015,
+        -1.6925111075454042,
+        -1.05279433643634,
+        -1.0614653065607162,
+        -0.058780436407082214
+      ],
+      "global_mood_params": [
+        -0.3122863348730993,
+        0.02143930708417217,
+        -0.7571081574206157,
+        0.014105194972348932,
+        -0.6136479645850216,
+        -0.9111437490032255,
+        -1.128631930491267,
+        1.108282491567738,
+        -0.8396282835259296,
+        -1.1239215733649508,
+        0.0048771984104911915,
+        -1.621359214904648
+      ]
+    },
+    {
+      "name": "Chiesa di San Rocco",
+      "orig_name": "Chiesa di San Rocco",
+      "place_id": "ChIJE6eZGIwthEcRF6C4MpXtJ2c",
+      "cat_params": [
+        0.02441233344991921,
+        0.017197822565079394,
+        0.11045163646645505,
+        0.15271351743744785,
+        0.09128487752181418,
+        0.09084091993253277,
+        0.09971440011255943,
+        0.0993626690028562,
+        0.056722178229635815,
+        0.09605837986053738,
+        0.02074398115422576,
+        0.022231302375509264,
+        0.08460059208463049,
+        0.03612254985475089,
+        0.08863181833054085,
+        0.04959823829012386,
+        0.14345878932192171,
+        0.07506462420983909,
+        0.04964792087089911,
+        0.03153537341821211,
+        0.1337182437352237,
+        0.054093469929626194,
+        0.06077095287540992,
+        0.1558373184391754,
+        0.005270887632970103,
+        0.11067334826178454,
+        0.05894630091505436,
+        0.10396437408051232,
+        0.06967157646167493,
+        0.08151194239066108
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "091 921 24 45",
+      "int_phone": "+41 91 921 24 45",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.00458949999999,
+        "lng": 8.953929800000001
+      },
+      "address": "Piazza S. Rocco, 6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113289200407587687737\">Alessio Meda</a>"
+          ],
+          "photo_reference": "CmRaAAAAoUmEota7BhlGRB37Lvd_ztVGIwcupbZwnY1-YZMyWq_1xu1j3op5xjFc3OYYd4btd7bsQOORmSiyWfXL5fB02WvlvV4KutxZh41yfp77q87-rOzSx-dpQwB2j2NO4z0EEhDy6M8oXQm_bv1nhA2SCFMyGhRkE8g9Be4vFT0FUViy3YG3d3tFQQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110444118100375330898\">Jacob Danner</a>"
+          ],
+          "photo_reference": "CmRaAAAAieXpOGiQs_VcxgWZ2AJdHZfuvznWYhw3HUCt1XbqWwpqujy0GSHaz0x2qwO21lomhi453F5-_DaYQ0zYa5E93nFWl0j3495In_q7NVZ8YtSfsDGE6wqPyoo5fndk0MEqEhBPlUVAd3bszTavFbHjimZKGhQqCvtlgtmhmWobw5GwyHEJM4vA6w",
+          "width": 3024
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110867227359030804667\">Carmine DpC</a>"
+          ],
+          "photo_reference": "CmRaAAAANtp2ZTak08zjxPJSgm65xDh7XgoXSLySsG6JuN2xWyDkJmWXQJ7Qc-67uO7-xcE66GsskYxaSskiJUZiG3UrXEMfTkHxqEh0QlQzC4COspfyfMHXWFqUWXseA7yIJlJTEhBPz3i_vaJUKG2ijY4hdgVvGhR5SYEknrDmwaIkLsu4rCQDXt1ZfQ",
+          "width": 1536
+        },
+        {
+          "height": 452,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112875848542389504154\">Angelo Valle</a>"
+          ],
+          "photo_reference": "CmRaAAAAWjOE8bJpHAeSqFW0RLLtEVZ4Ui8iprGQoQY6L2TzPdv3xK8nF4GqVno2e4aeIFW3L2pUWAfMaYUssaUyGJHLPhRkplnMQkeAy1sBMfRg6cG570q-wj4SYCxVH9JADC8NEhAKSb41_0W-yGW38i-7YLeOGhTYEyb99fVkGUJal17Ulyc1yZQRDw",
+          "width": 381
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108913817293862277170\">Pietro De Marchi</a>"
+          ],
+          "photo_reference": "CmRaAAAAbUu1MfWJs2CoT9KBpe5yLEbaSi5yWEQj76JWLY-mpcgwjpJFSOQP7Vwct41_Ue-nduOCAbxpGCf-PKNnwuchoTgCKemS1JkPmDQoZ-JN1AcQvQhdKzVv7fl-n5XVCESeEhDz0EjMFo9w4YYNkoN5WLjeGhQ0Jq9fVXz4ppKUx8PGiuLLuGQ7aw",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117189916824991420875\">Andrew Shelehov</a>"
+          ],
+          "photo_reference": "CmRaAAAAMY3E7OkHlBkc6uxTEJTXlNMERf3-6aS2Oyn0SwnJkY2VERtj_oGgt78rDcStKg7KMtHajtp3k8PFYYb_TF3O5EqcgK9Wl8KZ02AbvcJQveXu03o_Rwd05tjLC1Xd1SEqEhCwDmX6hW99uqL5szRvjSF2GhT8YYudTIsLCI_StsBkhkjg0KNRUw",
+          "width": 1920
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110444118100375330898\">Jacob Danner</a>"
+          ],
+          "photo_reference": "CmRaAAAA5jKOGcdrw5cNA6Yy7ok8RprYVJ_RcgjX8IzTa7jwq0-EeEplCNkEXXIsWvnTKAT1OjKsSvZ7CijEe0esNintFyiyZEZDhuRFFFScezIcMFWd-GkmUDjsWCL5r8nrR-vmEhAe-O3k8qSvRRLW4t2xxChWGhSBP9TVEkWi7UetMYsMmeTjT1RSaA",
+          "width": 3024
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117189916824991420875\">Andrew Shelehov</a>"
+          ],
+          "photo_reference": "CmRaAAAAPu-yCu9aI5zyo9k_GJzYVtrKd-6AGqliNp3JjnU6qvzruoxd9LDxST-v-6JUgm0vOdsP4fHFq7y-SgaSoLDbBe_XnHLlETvRo7Cv_Nc8XAHC_wde0Emmm58JMUvHQL_JEhCrV_miNbMASPYLRzavByosGhT4swUH0iwLHqc5o_YZ-9blghT17w",
+          "width": 1920
+        },
+        {
+          "height": 1321,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114660982478725592599\">Gulnarik Tash</a>"
+          ],
+          "photo_reference": "CmRaAAAAEbQiqbtw-m20W095Qkbsjw8zWgRm4EjqSNtxkr5nNvr87ZGWFxA5xhvnKwAVrUE7k0oM0ITCNxQ7NeYihz8CLsjpxfYJgnMh0if2L4-PB1tTWKGTkr1WKpM4mHZuB86PEhCiByOt_UA9J1pp1ThxRpS7GhS6hGSf-6LvJhGWgJOFj02-z2XKDQ",
+          "width": 2048
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113279419176716775172\">Massimo Ricci</a>"
+          ],
+          "photo_reference": "CmRaAAAA555uA3lUr8oY1upjKhHhCLehZRiJtLoJ3eaqHXCc4lb54PZI0zQOUHWascs32b59hFTdXahesNc6nmGuzD6BIbBWdo2hJNOKBR477cVEHlfOATfIPHExdQEB4dIVHuNOEhBDpeEPyoWYJr1TjRkhUP4zGhQoPf0G7y0V_7iCzjY5HDxmY7AmeA",
+          "width": 4096
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.oratoriolugano.ch/",
+      "mood_params": [
+        0.0024567863700034626,
+        0.014321928657638146,
+        0.0316830731430039,
+        0.047870815012005734,
+        0.029758308007463413,
+        0.0372454704161375,
+        0.035369693109079024,
+        0.0013696869348803606,
+        0.045865973908731046,
+        0.012814674258207493,
+        0.011342240309022733,
+        0.004512990937654695
+      ],
+      "popularity": 0.36634067322609615,
+      "num_google_reviews": 94,
+      "top_cats": [
+        "religion",
+        "art",
+        "science",
+        "books"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -1.6599144523831741,
+        -1.1365675203605499,
+        -1.1217340110499925,
+        -0.5614024045676883,
+        -1.3174062028886773,
+        -0.724237606017699,
+        -3.177381741339335,
+        -1.2413714315255922,
+        -2.2183214302203806,
+        -2.3955060581659677,
+        -1.3492965185882582,
+        -1.1269972471637708,
+        -1.8253972495032447,
+        -1.24629377179874,
+        -2.1911583097455694,
+        -1.4145677559987022,
+        -1.7671867046974095,
+        -2.2891564639068718,
+        -1.4825666944460527,
+        -2.074625006224001,
+        -1.9696210430662915,
+        -1.9653787751187346,
+        -2.212927986176935,
+        -0.11545765098085435,
+        -0.6416541028431525,
+        -1.8089052162361503,
+        -2.166691186270995,
+        -2.055906426255575,
+        -1.3855651786428118,
+        -1.706786204966367
+      ],
+      "global_mood_params": [
+        -0.5731406616162795,
+        -1.0846830061934365,
+        -0.5617676878991352,
+        -1.204789807097305,
+        -0.6272191879204445,
+        -1.4648723000810406,
+        -1.4748445759189832,
+        -1.1253863877908508,
+        -1.0046415521369347,
+        -1.201083107665386,
+        -1.8579826595969857,
+        -1.3454671123417006
+      ]
+    },
+    {
+      "name": "LAC Lugano Arte e Cultura",
+      "orig_name": "LAC Lugano Arte e Cultura",
+      "place_id": "ChIJHRmTGpEthEcReqLKfsyi9n0",
+      "cat_params": [
+        0.13522159996606536,
+        0.0417959039131766,
+        0.3024343154786216,
+        0.4226464034907492,
+        0.22729734181209998,
+        0.17681773530420983,
+        0.2996302933479908,
+        0.26747620661353394,
+        0.1590669343324481,
+        0.2240489358374972,
+        0.06391383913490324,
+        0.09614461637949441,
+        0.1839611879411917,
+        0.12840158750561947,
+        0.21536026942268616,
+        0.24537588281684672,
+        0.49702082753028604,
+        0.2020006877453552,
+        0.25508801653415936,
+        0.14021796538914408,
+        0.433131491316728,
+        0.21939123759939438,
+        0.2892959974124466,
+        0.11203727867513977,
+        0.004157664522416541,
+        0.2783274158300524,
+        0.22091599222730246,
+        0.40775944883483284,
+        0.2144966042376636,
+        0.25689854853768235
+      ],
+      "noncat_params": [],
+      "quote": "Contemporary-art & culture museum in a modern building with a concert hall & panoramic lake views.",
+      "phone": "058 866 42 22",
+      "int_phone": "+41 58 866 42 22",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.9992753,
+        "lng": 8.9482161
+      },
+      "address": "Piazza Bernardino Luini 6, 6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 799,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114898211766501977428\">LAC Lugano Arte e Cultura</a>"
+          ],
+          "photo_reference": "CmRaAAAAaSy3zEfZq3ueWQAloMs9x4gpDN3z3_FBBjp5wHy5BaIX32dLrdtIJNS-4B6kCPoAYrZOcZmQPd0w6lIRbQ2Y9lcgrbTTl6-7k6FKUZL29PSotWyGRCOcrQMwENo5DVX1EhADeEMxCwCY4UHAnykXczO3GhR16CX6TeQoopTzCu6jN28BpCX3Og",
+          "width": 1200
+        },
+        {
+          "height": 3726,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101968806978899964285\">Dolores Cantoni</a>"
+          ],
+          "photo_reference": "CmRaAAAAICyFHmSIljJI4xF3JZdfX8p_r8h_Njf0qCucxFraLXs1VyhEO3zVFq0p9iepIWi60_54GRXvSO-U_4fZTzD9w7aTzGOviR_SSyIv99VOHq07IwS51lH9cmoOtpygg0s-EhBXOi2YfgVn0VKwGlVkc7qsGhTiR6DiwgGSnshh7Zl1xjdOKmlH_Q",
+          "width": 4968
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108709655752519849713\">Jose Carlos Mariategui</a>"
+          ],
+          "photo_reference": "CmRaAAAAS950LHOsXULwnxrbCESy7iAwb_VpYmhfJ_p5606AB9dmHxKSILO3gXjDzoyauVLDGTFvFBROb6BNku1YFWY232zHgg2SmbbE-TSdEGPOCpBcWq1CYxNhD59uva9Z6NP7EhAxNxXmgSQQSDVKL_9gHwxfGhRxd84V8ZhSK9RS1Mj_bgCD1RwUYQ",
+          "width": 4032
+        },
+        {
+          "height": 682,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113350865476344183537\">Baltasar Llovera</a>"
+          ],
+          "photo_reference": "CmRaAAAA1T7fkHwdY4J7NkcgNBxCryviLGWKkhIdXzvSMwVDz-0ioeGeOdhIb7tKtH6DMWlGelo23-DGJv_UGjNwXJ7PKyKOfBoFj0ebwfMjlDVe0NVYO3SuOs1Vk0wEgqzQOD-tEhB6f551KqUU-I3ndEMPQK4_GhQnkbe-fRGAv_PqM9h4jEUsM7NHVQ",
+          "width": 1024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111650912879788170736\">Enrico</a>"
+          ],
+          "photo_reference": "CmRZAAAAeN39H7Tx5kYBVju2Svl6psPm3-bFWxUkXijUgwjnyZnYEQlKUrCKmN6Xdsbb3OPVQpZ_BpL7j76GktozdX3BWCwbL1P7ehrtjIfZK61FnK0-XUXydrFX001uJVmiPMdYEhAGhcaBUNlfVi8lnOUXuy4yGhTsnm7rTHoTtbRcTLxrKhbYO9Xgfg",
+          "width": 4608
+        },
+        {
+          "height": 1866,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104210645197306244486\">Maria Pirola</a>"
+          ],
+          "photo_reference": "CmRaAAAAexgpX4s52Cd_oPe0oEJVlu0sDFSCsDYKeoNl3NdR2GMPEPlqDwX09mqyW2reCWUpJP8hpO5qYyAGR-6ejLrsM-ENSUDnE6M7R1Gd9dqIJy22oT5_h3WrQVYxLSfYMBk2EhBhPz6Kk4TlLnxtz6RQGNbVGhQo5hCo0q7zyXEr3Rh1-tEW-9ugHA",
+          "width": 3146
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109307669250101435636\">Mo Ny</a>"
+          ],
+          "photo_reference": "CmRaAAAAiaYsfmsCzuqQ1n5mIRoYm6RYY89EIkvB_2QhKo-dmcAuMdpEmHBVCHdKUGgGnlpgUhe1j2Cl7Lwu6NlLWWILYT89b0ZCnJe1fsGp3MTpL7l6Fh5zeUItI3ywVGFWX5L2EhBDbXhPby1jZ6A3WeS3Zbb9GhTbx0RoakZfyunvKFloZ7Cv82WxBQ",
+          "width": 1600
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105739443922766750024\">Marco Barbesta</a>"
+          ],
+          "photo_reference": "CmRaAAAAIl6aC8sgMqgGmnBGLbuYldqxWyv_wHsZ5SwLEZUMDkRWzk0LVfWkXLWsSTjboAuj-zYDxkaO3SrGuhfzVzDIUOY0yzuOvw_dpELaZel0aEUDLpkvso3P8Z-XUYrsIInzEhAMgmYDmWYQonlwNrzG5uKlGhQWun_2F3WVJuqBvN0x7Q4X8dm-UA",
+          "width": 3840
+        },
+        {
+          "height": 1267,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114898211766501977428\">LAC Lugano Arte e Cultura</a>"
+          ],
+          "photo_reference": "CmRaAAAA34-_NOhXRmHjbrIFKgpLa1LR8ARQpuRLDCLYSRbQEWwTI61w0_7BleI8lP6qGfIaNXlWKM3z2Cs3qN_gT5qKRtX_XOfcxQFiAj7wu8nsBRHW-X3rvExsJ1LCQ0Mwxp1NEhBGy0WrGta-Ec4QmjYfBnnkGhSlsWZD8vdOdpf1LJiCAY3rWN6PEA",
+          "width": 1920
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107827819260215565228\">Manuela Aurecchia</a>"
+          ],
+          "photo_reference": "CmRaAAAAFURu02EJQPlWKK77IeBclZXoqTbIK0igBi7wafS5dDILwYh9wuOqaNwuvyrlQ5gUcuHsomrzGC3BRAvtZeGVtrJaMGqk6J8OoYg3PtyvfSOA6k-LaLaDKMduqFpnIK35EhBPPXTKZ0HK2DZfAZMSFQ3WGhTMhVEFK_gysd5fJQVyrTJFDAXHXQ",
+          "width": 4128
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.luganolac.ch/",
+      "mood_params": [
+        0.002990896219111216,
+        0.06530768020313824,
+        0.08064701686816401,
+        0.17915953887842903,
+        0.09854377346122918,
+        0.1865410053420385,
+        0.13132293983375184,
+        0.043708135703344024,
+        0.1633948549223809,
+        0.03424408662870906,
+        0.11550962080714076,
+        0.01759815551352746
+      ],
+      "popularity": 0.8169752785395277,
+      "num_google_reviews": 2325,
+      "top_cats": [
+        "art",
+        "music",
+        "hospitality",
+        "architecture"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.3154180253562146,
+        -0.8424552310182004,
+        0.764186497512007,
+        1.367597616055769,
+        -0.4784343749945722,
+        0.42275063953850317,
+        -1.0499098321956382,
+        0.6256654338004991,
+        -0.7037185876794975,
+        -1.0346286885206943,
+        -0.46144432543954617,
+        -0.4250285756475591,
+        -0.7516876960433593,
+        -0.5682248048108203,
+        -0.81311177050467,
+        0.8783579342396263,
+        0.15125581748942474,
+        -0.9614533299652802,
+        1.139790052539595,
+        0.09097077151434213,
+        -0.5093801766330411,
+        -0.35054097579237464,
+        0.36365239606037575,
+        -0.5240433926229547,
+        -0.6737063782453596,
+        -0.5653431601236055,
+        -0.649049105196969,
+        -0.08233560478031543,
+        -0.5113392076507536,
+        -0.5008044977988579
+      ],
+      "global_mood_params": [
+        -0.5372047529976723,
+        0.4427999443318273,
+        0.3198098736384263,
+        0.8192170570487067,
+        0.8824322874834447,
+        0.4125215894349545,
+        0.34103251689049874,
+        0.5628901813211911,
+        0.5501109657287075,
+        -0.36826807291731534,
+        0.5524716542019619,
+        -0.5455334060498315
+      ]
+    },
+    {
+      "name": "Gabinetto di storia naturale",
+      "orig_name": "Gabinetto di storia naturale",
+      "place_id": "ChIJ4xuFbvMthEcRe2mSax9fB68",
+      "cat_params": [
+        0.12714448886530522,
+        0.14044482064099334,
+        0.19795695801488128,
+        0.2108696299596117,
+        0.17125524713846788,
+        0.21827447489749316,
+        0.3012654101579263,
+        0.2644716199042398,
+        0.11288843098481363,
+        0.35070313311614854,
+        0.062188334412868196,
+        0.08036062788415377,
+        0.25403930084885173,
+        0.10445887678586133,
+        0.2795055394260281,
+        0.1784948272275319,
+        0.49034989657761235,
+        0.2433994416373267,
+        0.0893134535383234,
+        0.12843549417810243,
+        0.40987538643926563,
+        0.1479371140602991,
+        0.26468324959255185,
+        0.06766575337083855,
+        0.04657871255988209,
+        0.28106917524332076,
+        0.19726594473451387,
+        0.397660025009567,
+        0.19430322685998594,
+        0.19474551343508548
+      ],
+      "noncat_params": [],
+      "quote": "Quaint museum in a tucked-away locale with exhibits devoted to the region's natural history.",
+      "phone": "091 815 47 61",
+      "int_phone": "+41 91 815 47 61",
+      "hours": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1400"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.00416209999999,
+        "lng": 8.9605572
+      },
+      "address": "Viale Carlo Cattaneo 4, 6900 Lugano, Switzerland",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100900905515584672986\">K T</a>"
+          ],
+          "photo_reference": "CmRaAAAAboulV7zY-5uvBUw7LGZ0PSZPOh1cjnxSIjWY0C_fTN-lvgirSDQnP0xP44YassYqr-aY4fiIWdefsz1aOCpotym0TbsauwMS9QoQRyFc7chsMhx6ulhPNC4uxAsO9uH8EhCVpfSBGNxmg1_Kfc3XLnopGhR576UeTtlCBKHAyOJocsl7mD9G5w",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100900905515584672986\">K T</a>"
+          ],
+          "photo_reference": "CmRaAAAAlLzAfrsOtgElLy7Dgj4rmCsHHoQY_xUk6d9z9oN3gaAgwhXUCev-W77okw03hvTso2R9WmsB53EV8Ri0Tqc_lMPl9Z16O-oa_NS_3R1_obym6pRke83KZvMAWuR19OMSEhBDHne0mdQ-vbRRZgZWGQCjGhR2irDF5Gz_Oa0kcznmK8S0DNevsA",
+          "width": 4032
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115938168621573531407\">Snezana Timotijevic Cosic</a>"
+          ],
+          "photo_reference": "CmRaAAAAuKVgZTDPXskUPLPVYRb1eeUefspPvhZKAeTMJwVqPdv8cMcQ4UIW64E1fA0qbVoAasGvvkTj2f527wTrrb2SGG1GOUl5YgMebGBfiqDSlJWDRmQB4GtYyBLrdIjuMQheEhAc5Fisue47lz1AcY3-Sax-GhRJBU50pdj3gSCY-DdMP04guy3XLg",
+          "width": 3968
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112804457808880692985\">Andrea Vega</a>"
+          ],
+          "photo_reference": "CmRaAAAAQbDjfz4uLOjp847WeW99vtFxGFr6ZtxoCp5w9rdgtk0Zg6QS7wedHyqX5xcnHrz9KRiRWoBFvsjqFA6KzH2VEqq4HVbRctz69WVWwfD5YHPM-MByy4789d8Efse-dewkEhBm9qB14XHULfDunfETNlJDGhQ53XZsRWNJ2soUiR0Hk9fM_d6qyQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100185014879898335994\">Alex Pietrow</a>"
+          ],
+          "photo_reference": "CmRaAAAAQc9JDBpTUSf3YFekVpjemrtsjw9DEHpcu7k3iraKfsaosoR4oE9_tYT4t9yWVAOXluq36CCao7Y7bzygvEAMkuHm7ITQ9RBLS9AYiEnoc6TCf2sjsRGYw_3raTT60c6yEhBbfWJH2w5huTuDdGfOaif0GhTk31NT2rwFZDmayzi5vFPx1Vxs4w",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109155306683409697169\">Emilio Bono</a>"
+          ],
+          "photo_reference": "CmRaAAAAivySAAcJOZQ_EUldWwtjtGriyOt3Xtzthc5Vz11wGuB2677R4U572Giext2MTBf8RqxpQurxX-3DMGfSI5vPejqC6VkJll37IzhwNG4whmeHGhnvi_DScqev3FYizdrIEhA3a01rhChF8POQbBqnUz1bGhToZgI7n3XpPXVvVIVM_3tRO57H4Q",
+          "width": 5312
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109155306683409697169\">Emilio Bono</a>"
+          ],
+          "photo_reference": "CmRaAAAAqloCvjsY2NWSwTgy-x6KZs1wTgnuKgQktq30Ax0YuWvtZxu_nrrglsM-KgtlonhcjYjeZWI7Vv8WNx_mYrLB5dsXZhzG_1Fg0uwXKPgnJyzDMp-KTDPTWV9cZU8O3mPaEhBE3-CJevguVETi8cE6T3-tGhSjDgACAOpKmmkl__jagoibjPvQ3Q",
+          "width": 5312
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114196034494699323404\">Evelyne Bommarito</a>"
+          ],
+          "photo_reference": "CmRaAAAAnGZ_riX1oljSpwD91WDgptTlGWDZwfE9IpEUMxpIETSk71Sw3HgCmC6GPsvOQLr5mCvwz9n-uoAXOHgXB0GrAZSbyNQXpxEXMhDkHzfUSF1kqVHmFJVfYKajmPBVg3B6EhBH9F_u3CSG2sjzs0y1vXDCGhS2SlHrUoClSYSp78Uh-_b7-5h1pA",
+          "width": 3024
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107177126447884737439\">P\u00e1lmi Hannesson</a>"
+          ],
+          "photo_reference": "CmRZAAAAS-9OBehjIP-ErCH54iumHh6GYueScwuy3ZF4VFbUkdiINQyot0H9UzyYeZOrEWV1EVgNh3J3IOztvIji_T5nHeJPSrZzfAa6fkrT87wppWLuggkVmmIM3gx0pEp8-6oLEhBFeF3NQLsPSKFvolHoUhSLGhTVMdxM2Nb7sJcJ9ojyBJbVYwKRGQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103579645083343972024\">Fabio Giamportone</a>"
+          ],
+          "photo_reference": "CmRaAAAAF07mtKJKSdkOKVWY67wpBSsx4lCStC7k_9dQQvXlweaC2hQeTjmTb8_DKdWNtIAW97IsyLhSJSRZIriZwzAGyS4f_hI93piqhD0gMQ6W84mClS7KDOKMmhUC3XP39kezEhALwW-ZN2beS8s86sHZlhhHGhSvGgzyUFc3Mg1w8MhW5DmmT7Pr8A",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www4.ti.ch/index.php?id=26880",
+      "mood_params": [
+        0.017995093102250472,
+        0.08149823063272628,
+        0.04356761492286029,
+        0.19959265459980474,
+        0.052157995583042925,
+        0.19800816944052774,
+        0.14012668251398924,
+        0.059543094172624725,
+        0.13911557329711519,
+        0.04949706713997857,
+        0.14517784646670887,
+        0.014494302286734538
+      ],
+      "popularity": 0.3810231359340412,
+      "num_google_reviews": 110,
+      "top_cats": [
+        "books",
+        "culture",
+        "science",
+        "animals"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.4134210837384253,
+        0.33706191624927717,
+        -0.26213521096224635,
+        -0.14580598023100222,
+        -0.8241213592918613,
+        0.9758112850976628,
+        -1.0325091892301999,
+        0.5922970672129608,
+        -1.3871155207314387,
+        0.31203966158891944,
+        -0.4969318906854866,
+        -0.5749320887643442,
+        0.005589760565476243,
+        -0.7441565173418968,
+        -0.11559541506128486,
+        0.09505455493032226,
+        0.11505906495616944,
+        -0.5284380484706858,
+        -0.976252788792038,
+        -0.14380528087112035,
+        -0.6228003910371614,
+        -1.0485952885353405,
+        0.0861479180974927,
+        -0.9379601989071216,
+        0.5476939876444408,
+        -0.5450063557574271,
+        -0.8706480167196279,
+        -0.14794538529231258,
+        -0.633235092752294,
+        -0.92817706076321
+      ],
+      "global_mood_params": [
+        0.47230564825932575,
+        0.927852905034883,
+        -0.3477909416409822,
+        1.134223291080136,
+        -0.13560775265598368,
+        0.5567213728997846,
+        0.5076398512926766,
+        1.1943207163119274,
+        0.2289280027558295,
+        0.22451120048873596,
+        1.2390004137992006,
+        -0.7352808716699829
+      ]
+    },
+    {
+      "name": "Museo Hermann Hesse Montagnola",
+      "orig_name": "Museo Hermann Hesse Montagnola",
+      "place_id": "ChIJXYmf_wQthEcRXb17gOcPWGE",
+      "cat_params": [
+        0.08267679968383508,
+        0.07680787418855588,
+        0.22128394255971082,
+        0.28302713410722957,
+        0.15148688934649654,
+        0.19237725055755459,
+        0.300333541757161,
+        0.2561125068577286,
+        0.11462949656822692,
+        0.26005267894097717,
+        0.03704190374232392,
+        0.08005605775393089,
+        0.19998414921232552,
+        0.10900958997850936,
+        0.3357577262280074,
+        0.17024430364126647,
+        0.37371984285775467,
+        0.23592519168777093,
+        0.1101148638945959,
+        0.11409383373125906,
+        0.3673214439753726,
+        0.11908658770913685,
+        0.20101628175556407,
+        0.06906736716898473,
+        0.018972087037020535,
+        0.19327858376390333,
+        0.17848606393323743,
+        0.3230017264871763,
+        0.15910471102028262,
+        0.14578897338063393
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "091 993 37 70",
+      "int_phone": "+41 91 993 37 70",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.982996,
+        "lng": 8.918925
+      },
+      "address": "Ra C\u00fcrta 2, 6926 Collina d'Oro, Switzerland",
+      "photos": [
+        {
+          "height": 479,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103898613149476540840\">Museo Hermann Hesse Montagnola</a>"
+          ],
+          "photo_reference": "CmRaAAAABalBfnzjyHLAKQCNVO4eg86lfyRcuU4oTbsF97MoWVEy9NIBq5lKKzO4PcD7kbSKrt0GL3_NBeXBNCD2-lEfxoi74yijpCBWKOb1gqNp7mQ0YjKrKLvVKAGzdI5KjQPeEhBoYqjnez1gxuG2nlr_o7-qGhQNn4NUvcVm7KbN3KsZUnOTnFwDqg",
+          "width": 640
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103125145566592379864\">Orsen Park</a>"
+          ],
+          "photo_reference": "CmRaAAAAjnkKLK_-nlCvKs76NxNRAq0a9AQPMWR4riaoAhTK2dZ4FrGv9f3lOddxuYiVYPlplxFs8Bco_IfY5HMbsrf8vxNmpBn_h5OGxXhO24m4vgmUhzurhIWp44AwfjqQ27wEEhDBjG51iz2T5CuDx1tj49pJGhROUWunp_TNDg2PyqZdxMHa3F81PA",
+          "width": 4032
+        },
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114710095194040127782\">Roberto Luethi</a>"
+          ],
+          "photo_reference": "CmRaAAAAifrc6P9dqLisByE9hXhjeQhER4gxOkdSgBf-pa9SR-Er38Bo9OCp8M6IU7vHtmOysCOWRo2_FAqMQ0r3MqfTFgnNklZMR__z4SDC0w6mSU3C0cqJDw_j7UbGPdUJuk1uEhB_YePFRrgP9N1ABhOrYRlhGhQ31cCKBxGet9CcaNa6-cIpCv8zIA",
+          "width": 4160
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109020794526078922765\">Alessandro Lucchetti</a>"
+          ],
+          "photo_reference": "CmRaAAAAcrqyCap4TpQjouNc3iOp8fI3b65J_wwBVW8G7MPvdU1rnGDYt614_BDGsn8U8Y-G-ZW6PvgKEdHW8Av8VYWZeBkhggMGGqmT4K_ic8Uc2h95OE65LsR7t4Jp19hbtmwiEhBLE1e9Tx1hdXS7B8MTlWmwGhS89I1neaTb3wHbh4viOxbMM6OM2A",
+          "width": 4128
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111042668832923928502\">Eugen E Kling</a>"
+          ],
+          "photo_reference": "CmRZAAAA0dUm_72y1znETAZUQSYpd5QKVTaVBy0JfShZYvpvmsjUsDm8d_5baE9J_oKY-lAtz2PWXhXkzGrCDs1IpAQVSnEKFwqLrrxVITxoM3GvKqomA-sPqd4TqHNLsjWf0xIREhAOEHiOvuGu6FRmeI56KlQTGhRxHMZQ4kvDh9MfpN_Ey6sQhn4N7g",
+          "width": 3120
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114449512486112722220\">Rud Petersen</a>"
+          ],
+          "photo_reference": "CmRaAAAAnpPwhoT-O-1MohSTwjIkY5JVnduL6Ia-5JQxRU1O0xgHaihmEjVeBep7S0X3kOn2HvyAovcYByxo3IB9YVSWvhdD0GGXjt7rQ7MCksVBXJ2wEoFOBI9BodKyAa21IEF9EhD29tR1PGF76t4tvxk2oY8WGhSS8Pjdh9Rji8USIDXXCGWpxVzFFw",
+          "width": 3120
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100052389479397275650\">Nicole Menkhoff</a>"
+          ],
+          "photo_reference": "CmRaAAAApmup_srHmYaU0YgdQILtyAhgTSMP1Uh4uvCFpxe-dTXLhrAonCQbXq8thL_BWuJfG0-1LBVe_TVRbIldPDBFS65Y1Fd5y_ojUVWW8s2YFeM7LJ44c29tWzRZM4jSvmDEEhCurtS_w5z2VTOaNVIfOBKTGhS9PVMkjbDhh1Df87BYQG9t0HKvBg",
+          "width": 3264
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109435970443044865313\">Silvia Vecchia</a>"
+          ],
+          "photo_reference": "CmRaAAAAuOyLwfjOF3p4XsXAIWClqr0GoB3m0O4_7qA_pttRq2VWYC9NZYmWA0SOnnfywUfKp_WVHabtlIZCdBh-J0motw_a8Ma-K2FgTuDWCrU-FXh3asv9jVMgbq7I-iKaIm7vEhBE2S4ZzCmD6Qt_lW9meAcOGhSAbj7D5HKHkGnUeeYouEw-vNt4mg",
+          "width": 1280
+        },
+        {
+          "height": 1872,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101928628712955087618\">Natalia Riabtseva</a>"
+          ],
+          "photo_reference": "CmRaAAAAv1X_eo_Vr1QK7J5vhFdDd1DslS4sG1algzurMz96xbNyPqUH85vKuwALZlxLMEc1BlxS7pCIFEUtX9OW_GPC8xNfYQOCxlCDrHNyd1SkxKq5VSQgoCBWrEiBgKxVmbSwEhBmcjnlD0L8UjKfIN3EsLNOGhSD3ypcA0H5ny9u1PsgVdNhiewLrA",
+          "width": 3328
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100830427184513432245\">Celina Ardizzi</a>"
+          ],
+          "photo_reference": "CmRaAAAA07IFQCSWElDfHx-tkMLMVmmbVbatgilSt9XJbGODmv6DsFhIJ4ZkhjcKhAC8ABrBYQyGkfWLZJrJYlVIlY_IJSaJmdv_WeagBl2e72cnP23YwfIFiiJkGGa3ZKQYWF7zEhDngIQ1O0vueM2Qj4PqarNWGhQyEnyE1a2BnczHN0QVP96X-zO3yQ",
+          "width": 1944
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.hessemontagnola.ch/",
+      "mood_params": [
+        0.005389910115900248,
+        0.0628628896409189,
+        0.05541420901845796,
+        0.1334002163212185,
+        0.044276848160854004,
+        0.12891499909123483,
+        0.07586069169794843,
+        0.04399784721183212,
+        0.09842554558779011,
+        0.03990424839187695,
+        0.09276318324652187,
+        0.02070009396899616
+      ],
+      "popularity": 0.4157998471767944,
+      "num_google_reviews": 156,
+      "top_cats": [
+        "books",
+        "culture",
+        "history",
+        "art"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.952966656977288,
+        -0.4238270223235963,
+        -0.032985171060913074,
+        0.36984748098308284,
+        -0.946059413702801,
+        0.6303249841451073,
+        -1.042425978803864,
+        0.4994623530009064,
+        -1.3613494435810003,
+        -0.6518138875531282,
+        -1.014105554557577,
+        -0.5778246486850717,
+        -0.5785405199095713,
+        -0.7107177486664835,
+        0.49609146881640165,
+        -0.0015746467060426734,
+        -0.5177805225598652,
+        -0.6066158712697316,
+        -0.7107315008541668,
+        -0.42957541890525724,
+        -0.8303363177723698,
+        -1.3304437438356767,
+        -0.6316861409993882,
+        -0.9248853383294472,
+        -0.2471647929501825,
+        -1.1961867895576752,
+        -1.0466138850908056,
+        -0.6329546951500731,
+        -0.845708428058954,
+        -1.2648087628578957
+      ],
+      "global_mood_params": [
+        -0.3757946155253958,
+        0.3695564245601807,
+        -0.13449742929761718,
+        0.11377046402144288,
+        -0.30857722746138677,
+        -0.3121264187333075,
+        -0.708568505933716,
+        0.5744426393306324,
+        -0.30934754694287425,
+        -0.14829620742831123,
+        0.02611447521402707,
+        -0.35590299590217395
+      ]
+    },
+    {
+      "name": "Trenino Turistico Lugano",
+      "orig_name": "Trenino Turistico Lugano",
+      "place_id": "ChIJr9UHgG8thEcRhnfM1F7Xzi0",
+      "cat_params": [
+        0.13596025161229705,
+        0.05201125072531665,
+        0.165819944171431,
+        0.12728557409336613,
+        0.23391139775090874,
+        0.0888099933366276,
+        0.3685448882822899,
+        0.048382740111793075,
+        0.3619221325726559,
+        0.30378365066758606,
+        0.06427574952800748,
+        0.047141595540755823,
+        0.17884252998548253,
+        0.20221183682467436,
+        0.24492369093465566,
+        0.091377044820184,
+        0.32793266750940786,
+        0.23825156346859783,
+        0.13328918132069204,
+        0.09161457047504794,
+        0.4736350233125956,
+        0.27951229900204866,
+        0.1826460886393666,
+        0.13582375624043305,
+        0.010861935137046516,
+        0.34035149065760645,
+        0.2262277362262403,
+        0.30946710368756997,
+        0.21127958876081146,
+        0.2853795133179827
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "079 685 70 70",
+      "int_phone": "+41 79 685 70 70",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 46.0036267,
+        "lng": 8.953631999999999
+      },
+      "address": "Via al Lido 7, 6962 Viganello, Switzerland",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115198669225409816009\">Trenino Turistico Lugano</a>"
+          ],
+          "photo_reference": "CmRZAAAAsSGcl5g5MVumkjDGazW62B10Xg6WPkYylLcas_69lieKsbmmM7MdAgD6hiNyuUnwir5AGc4m9pAH9wnIAYzJCy9Nm1LRSP-kCnjEScRGsL1LJ8TEXGv-y5WY6hPqKbE9EhB2TBqofAUmlzbXOXT7JAMVGhTudaF_WDV89wiASA9n17pLTB1-Ow",
+          "width": 2560
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108833072623753976205\">Aleksandar Sa\u0161a Fedota</a>"
+          ],
+          "photo_reference": "CmRZAAAAEk9ZLhW-jpcmX6gBb0cWKbLpe7muatLcIRxdK5HHqy8ogZv124Tx665UYxCKzUkvAgX39zAo0-y0oN1NimksXX2oCsoPen6jn76M3Ej0fPtBbDExdny1X6hga7_trT9cEhBptZmvQYjGbGnuRjocD5qzGhQhV9b-CKuGJU7HBPZC2uwfTJQCoQ",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108833072623753976205\">Aleksandar Sa\u0161a Fedota</a>"
+          ],
+          "photo_reference": "CmRZAAAAM8vwKvtzvuoAaYVFHAQT_3o9q1P1f5LLfmp09EHsLh4UMoSsMYVCadgQbiHgqGtixmKBvUvffKflIclZGf-ZEYuTGhq1dF1B-Q5JQ3z--JVBbVghuQ33VJhiKUt33AhSEhAbRDE8inW-CALDNZa7NQS5GhSdFj5Fm6iGOnNlQTRFvQH6Pk4b3A",
+          "width": 4608
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108833072623753976205\">Aleksandar Sa\u0161a Fedota</a>"
+          ],
+          "photo_reference": "CmRZAAAA3r2Qur51J0z1HPXkx-_Jy65Y1sgVzUAjd4ruDjFpnI1a3A7Cbtf2SKk03NmtevU8ujZEbyYL6D8MBf_hqFb7Ni3PMNhyK_zk0t7CH8f4FsbUY32ks9mLTVPfHFL_xRwQEhD3FedT63Gknm88_uWwi0-jGhToKxh5rgGXqNJJ8zfkL0gAvP-RaA",
+          "width": 3456
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108833072623753976205\">Aleksandar Sa\u0161a Fedota</a>"
+          ],
+          "photo_reference": "CmRZAAAABVNwr9ourWgEsNBBGc5vJUISFMtj0ylXoCGq-pUoGOxaLZw-_xrz4lPzPFdB0gO_QmMYTKRtNfSIsAluCxeNKbNeSlpjBc5JMUPw5hHsfK_DdoWm6DK7r-pOJvW8LAtzEhA7KKLgQDdFbQhRGQzi-r2RGhSxU5s6L27i2RUky_VW93_oVlU9dg",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108833072623753976205\">Aleksandar Sa\u0161a Fedota</a>"
+          ],
+          "photo_reference": "CmRZAAAAaUzNDmOVQE3KfUhxW6GmrufmX-WOVhL4P7kVq65ljX4f4eB_dAs6AxHQDJ01u0wwHMXwzh3rIkns9OmaG8SHLKfVc5RRbA9jjKnZFbBQLkXQx-WZpk1S1awmnjbRMYggEhCX3Y5hOaJN7r4GZfr2s8TpGhTU54HI27G6QB3hodi9zQHZKyhgLQ",
+          "width": 4608
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108833072623753976205\">Aleksandar Sa\u0161a Fedota</a>"
+          ],
+          "photo_reference": "CmRZAAAAh5tAefEgWkgBc0A0JGPLNmmHYLpImwCdJxlIk8DZA_lUL_40A3MwqaBwrdcQbJzZJIlosViDccnAwWtngjiLz8nRwQDjmQy92LuZjLQ2kqovoULlq1cFaFMax7f-u0-WEhBW_QmiZPI01RjdqXvVMdesGhQut4E22LqulS6xry9bb_lvRtkFUA",
+          "width": 3456
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108833072623753976205\">Aleksandar Sa\u0161a Fedota</a>"
+          ],
+          "photo_reference": "CmRZAAAAXwEkxPCnfCIti9SborY0BqswUmXHvDN5LTKvQisj0-vZj5fq4hWzhKYa3vf1NzmziprY1Js8p4bdEGlPyNYXtVRQTjzex8OeCHmzUoYzN5f9CrYmDatFCWa-y5O6HrDUEhBX84PY5yRc5aC71CtZZM_HGhQ0emtRAU3ZKP1_E2PtjOUsUre1KA",
+          "width": 4608
+        },
+        {
+          "height": 3391,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108833072623753976205\">Aleksandar Sa\u0161a Fedota</a>"
+          ],
+          "photo_reference": "CmRZAAAA7DgkafLLWCp2N-a9zxSv4zwbB92pLu0h0j1rzSu3Oexe_JEIkOS8aHBERDg04oaDPEOM_vcQSRW0lMWAwKBp3_O1-CD3badxCAn02EaG-TfXE9sRN_If2T9DNdTjwlYBEhDhsZC0MxxmAausgGZAFkd5GhRIAj6QwK9X081_nYtQ_-MpdaUdQQ",
+          "width": 2216
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108833072623753976205\">Aleksandar Sa\u0161a Fedota</a>"
+          ],
+          "photo_reference": "CmRZAAAA-hVmWxzO6eVCbVSTMmtMMCaGYKD3becWO61FAIQb36AgDLjKPlIwl3gojfe8Cr_ZySUylcijedhiDWohdQF9ySmsdyUR_3U7v0zvNl2Bz1P8RNv2ntqxTNCLEYGdF0uHEhC8DbqEV26eez40BKl6-iA6GhQr30t0pvTLZPC2O1JKVSjXgYMe1Q",
+          "width": 3456
+        }
+      ],
+      "rating": 4.8,
+      "website": "https://trenino-turistico-lugano.business.site/?utm_source=gmb&utm_medium=referral",
+      "mood_params": [
+        0.004857521849495733,
+        0.030403816276448194,
+        0.011907935082048784,
+        0.03623404903176423,
+        0.002620858841809492,
+        0.05524717396365721,
+        0.06479791647700152,
+        0.00822259679693287,
+        0.05504791956577129,
+        0.05559548252068247,
+        0.08459025273271634,
+        0.0227163969217171
+      ],
+      "popularity": 0.19137168720441985,
+      "num_google_reviews": 7,
+      "top_cats": [
+        "engineering",
+        "nightlife",
+        "hiking",
+        "shopping"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.3064556476562289,
+        -0.7203132234840643,
+        -0.5778295944512007,
+        -0.7431161036738437,
+        -0.43763659495484564,
+        -0.7513315257333864,
+        -0.31653209778971153,
+        -1.8075447926010186,
+        2.2983410348981805,
+        -0.18683825461617565,
+        -0.4540011011327919,
+        -0.8904194988119015,
+        -0.8070008903791949,
+        -0.02586501451643972,
+        -0.4916388072387708,
+        -0.9252590862992055,
+        -0.7662236659590064,
+        -0.5822829038049501,
+        -0.4149210483574868,
+        -0.8774944159727877,
+        -0.3118441185828624,
+        0.23679764261283623,
+        -0.8388068935497033,
+        -0.3021528274676077,
+        -0.4806748771258856,
+        -0.10528402085086339,
+        -0.5992785206427285,
+        -0.7208808626778992,
+        -0.5307584925777876,
+        -0.3049655835163621
+      ],
+      "global_mood_params": [
+        -0.4116146928429957,
+        -0.6028854763860382,
+        -0.9178116799578737,
+        -1.3841875004165958,
+        -1.2228114384252293,
+        -1.2385005719662927,
+        -0.9179271341441816,
+        -0.852121601600624,
+        -0.8831764874986453,
+        0.46151499365762055,
+        -0.1630087946539094,
+        -0.23264060324176525
+      ]
+    },
+    {
+      "name": "Sentiero dell'olivo",
+      "orig_name": "Sentiero dell'olivo",
+      "place_id": "ChIJQS9AZQYuhEcRR0pa261sSpQ",
+      "cat_params": [
+        0.06329460341719324,
+        0.04973864032245864,
+        0.08523633831873474,
+        0.16060746705020823,
+        0.5832534783643566,
+        0.05429570991371171,
+        0.2134889494572555,
+        0.09976523109052757,
+        0.2446826318161271,
+        0.19525211769080789,
+        0.02397016301789489,
+        0.10325549957997159,
+        0.1342372767529221,
+        0.5446867428641371,
+        0.19869390674423254,
+        0.27693780877563384,
+        0.618859503812836,
+        0.14872377431393308,
+        0.05820632536260996,
+        0.05545464969190135,
+        0.7254593429697009,
+        0.1986666357261834,
+        0.14987767373672153,
+        0.08062918433996091,
+        0.00751288897016306,
+        0.25313109000627015,
+        0.1501361673297661,
+        0.6192114526114719,
+        0.49561878298402284,
+        0.5620243007635044
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "058 866 66 00",
+      "int_phone": "+41 58 866 66 00",
+      "hours": "",
+      "coordinates": {
+        "lat": 46.0012804,
+        "lng": 8.9856921
+      },
+      "address": "Sentiero di Gandria 2, 6976 Castagnola, Switzerland",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117964348834631132037\">Urs B\u00e4tscher</a>"
+          ],
+          "photo_reference": "CmRaAAAAQduiT9oL7wSRVgRS0w3Ojxzgcur-mpVakok7XcM_PfsuYlJAvjWmUjv444hNrRP6fWNG2jCkjYRc_0ApBIEQjBXGXiC4hAlSf3AdbV_55sZ9TbLooRSyV4IA9aa-gGTYEhDtqNuBkda_gHDfCzQ1wuSkGhSDk3IuTNYhi4uGkHBvCnouqehLow",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102168773889708749990\">Corinna de Marchi</a>"
+          ],
+          "photo_reference": "CmRaAAAARPpMJd8srDjWjUsYt6suPSVBC4segTnkW1AML-wLrZQHUazw3jWZFTP11HiDkGdz8QHV0b_h41pBqRS_hg12yGA-fqp_pECV3XrOgkjj2nEjl9owbHYpmqtUxMkr5pMFEhD311yP_-XSnfkdZet4AwRHGhRNhTmQzScngEPJgy6IMGDbn7kqCg",
+          "width": 4000
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107191781759492661978\">sara c</a>"
+          ],
+          "photo_reference": "CmRaAAAAEe2EujetekWNHPJrqyioEsqKPEeNuBrE0mTGWDGeJFvA-FEmVwrmWUsIREanmo2ewxgvuEOHA8j9IOUQI6ARP58j8h5InZ5fwDK_JWxvPAdsPGJzvxrbrvh8i6LxFfChEhCOjdvfYupziPF05LheACZvGhRlwSd0wYDZQZXHMI6F-hpbXCg95Q",
+          "width": 4160
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117519683072096849694\">Rebecca Hutt</a>"
+          ],
+          "photo_reference": "CmRaAAAAU5u6IvV69BB6XVhybUJGtY7rLPy4M99pQJteRsyCELuDv0JozY0r9nGUxwaLffmsfbFAxEfecaRMagwMAQQC6HkzyZ-fpr9M5iIeepmVmHSUJplQvtG4Nj_IydojLK_dEhD67c4EnlINq1TsNIY7YJcVGhS1fZxtFRabkj3JXfgYfS4ARYNW2Q",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106710522231187516683\">Martin Hermann</a>"
+          ],
+          "photo_reference": "CmRaAAAAt9LSVdjdzc4KBpUdZ8mOvPugZ3_7qxiTT0amxU4GBP1sRKkx8R7MWvvx-syHoZDjoW_l2cCNtS6KNxmjqlO3FbWtGZGgGew_obcLuAxlnUoQMpXHlCNyKA0KWt9qcFGlEhBPVqW3nOqwTtsF62k3aPhtGhToC-Fov4RdxA91SgRGW8d2ophxzQ",
+          "width": 4032
+        },
+        {
+          "height": 2860,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113177656674811061335\">Mioara Marina Ivan</a>"
+          ],
+          "photo_reference": "CmRaAAAApK6A3Y_p5IYP4wg3XNM-wOLY0xPO5qx57uTSHuTWKLhfTaZmXzO02nEWBkHjwbywPqm4sQuPL1wVD5VtwiJgABD0DwnVlKeiOonpezyTso_EfT2F3Onys0roQiDzPKwjEhCz-9htxly8rIhJHHY-g1C1GhQIyI5ViAcTA6zsICBGd1s9_aYlSw",
+          "width": 5096
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116249740870487151790\">Francesco Farina</a>"
+          ],
+          "photo_reference": "CmRaAAAATFg2oj28iOfV5w7eT_Ul6pU8tsFuk7CCLrQSkXGgADsYv1MYgLIslnzxRHaCrIdosm1vu-NyGhCGG0j0FqSMdnSSNSnjm_T-6zhKyKdPZ410TDJDB1kxN62-YNLJpLHHEhCVqBl4qOxqVkTFTvY9BPePGhSJWmk51dneOdhpBj9vWiHanSEzIQ",
+          "width": 4160
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107488853342646071274\">Gianpietro Comelli</a>"
+          ],
+          "photo_reference": "CmRaAAAAQxFE0d0_jsNSa7CrIlFgaTW1PjHiYBwbnaLYx7iKYIcL_CcWTxt3yNwfvkG3vLqaQwDeBqXDQ70vnhxHGHcJD5gUa_6a5PdoTFHjxC87tYUDW0WPxpYZWLQXiABGOuHTEhCUl-9KX82cY020GzEuv7GFGhT9FwB8T_2f6UPeAKo-_leq-Disww",
+          "width": 2976
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117964348834631132037\">Urs B\u00e4tscher</a>"
+          ],
+          "photo_reference": "CmRaAAAAfjcabqBM2Cv6ikPQ9aYC1_lAxVUDvEcH2Ct9fyX3tPwg7oDr_qbnEM4XSK3Icnf2LQnle2lX5G3MC2EtCbuw1hL63v78xKQvQ7X9-XZs_FtdMfY7GUefsPuprTpiuNzWEhAsErmqV_elVHWX_-pewGZoGhTVZkKgwg35QDocnrEmgY2DQOpajg",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113506807555734108115\">Asaf Duek</a>"
+          ],
+          "photo_reference": "CmRaAAAAAr5JqThd5XdXFjP8WEg-nI6HBsLuNJUWslEhxESCPtn76q9y8_OWZDd9f_a6ODDBOVbJwlJFxPesf3QuMCbddMvPpVvMg-Vi_WHl49uSLeGo1cDEbncxUmKObMU7DRGmEhAxXi3DunRFhMYM6q3Nk41hGhSWxluy82Qfj4k1s4xdOxAI5Wz2jg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "mood_params": [
+        0.0021424356899339904,
+        0.03581478300143146,
+        0.19515330270277964,
+        0.1861979567965233,
+        0.19461465726937502,
+        0.20240712175640435,
+        0.10275009748617346,
+        0.030513304596330733,
+        0.30955104077498824,
+        0.010656881356842394,
+        0.04065915532572462,
+        0.007986248311451952
+      ],
+      "popularity": 0.46547321682703763,
+      "num_google_reviews": 245,
+      "top_cats": [
+        "hiking",
+        "beach",
+        "water",
+        "views"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -1.1881391695995793,
+        -0.7474861821758005,
+        -1.3694336897448474,
+        -0.5049904971915398,
+        1.7172259425481007,
+        -1.211775160668496,
+        -1.9666117830885868,
+        -1.236900653806277,
+        0.5633104591691211,
+        -1.34081485854307,
+        -1.2829453009299256,
+        -0.3574951778989914,
+        -1.2890137659806749,
+        2.4906502382331372,
+        -0.9943419773985992,
+        1.2480076510867655,
+        0.8123576105774328,
+        -1.5187096601164232,
+        -1.3733222468623778,
+        -1.5980124893021324,
+        0.9163051556905006,
+        -0.5530051164316547,
+        -1.208265108364686,
+        -0.8170317000911421,
+        -0.5771016841675364,
+        -0.7522351049620183,
+        -1.3122499786768664,
+        1.2913387549292188,
+        1.1856348130418595,
+        1.5972808899849964
+      ],
+      "global_mood_params": [
+        -0.5942907627275859,
+        -0.44077823725089327,
+        2.3814528820820513,
+        0.9277245187667833,
+        2.9909235294567575,
+        0.612038273048191,
+        -0.19969717873201495,
+        0.03673665327898756,
+        2.4835650750177143,
+        -1.2849417939914383,
+        -1.1795832995347162,
+        -1.133136909858031
+      ]
+    },
+    {
+      "name": "Swissminiatur",
+      "orig_name": "Swissminiatur",
+      "place_id": "ChIJOyoCLRYshEcRBfre8qqtmhs",
+      "cat_params": [
+        0.1376574192866721,
+        0.08679372299746377,
+        0.1493228976473547,
+        0.12447441774378666,
+        0.24493159412322668,
+        0.10201588042898975,
+        0.36071709752034387,
+        0.1671207066221127,
+        0.24120265698353488,
+        0.3655202511926936,
+        0.07696195157706333,
+        0.11080605430474318,
+        0.2657631158470893,
+        0.15789418664310426,
+        0.2485666203013592,
+        0.15056003167609994,
+        0.463693346876982,
+        0.2509998425783119,
+        0.10238930949986406,
+        0.12729486514019622,
+        0.48260195430805136,
+        0.2065393968846462,
+        0.22123575486520555,
+        0.14011615397203936,
+        0.011691284595000833,
+        0.3121840170835053,
+        0.26536203090477883,
+        0.4118506983751219,
+        0.24924284892668713,
+        0.28326969120791073
+      ],
+      "noncat_params": [],
+      "quote": "Family attraction founded in 1959 & featuring miniaturised versions of the country's landmarks.",
+      "phone": "091 640 10 60",
+      "int_phone": "+41 91 640 10 60",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.9534888,
+        "lng": 8.950809699999999
+      },
+      "address": "6815 Melide, Switzerland",
+      "photos": [
+        {
+          "height": 1155,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105941949957984930786\">Swissminiatur</a>"
+          ],
+          "photo_reference": "CmRaAAAAYs5Kj39cOlFf4lhQCcwylkTqgwT7RT9keQ1uPkNDI6HmNyEE3XkV06qPpqX0KbK8IrXopBRy2Nfa-6sNa_hzWZlVUQp_5RlR8A8kehhxbyabr9rRX6W98DfLEejT0Qb_EhBhhvljVNVufgf_wT4ZK9AiGhTt-Iju3RqVR2JRroOQ2Lq3pdsAQQ",
+          "width": 1732
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116875993924128568390\">Steeve W\u00fcthrich</a>"
+          ],
+          "photo_reference": "CmRaAAAAOLytShqKj6YcOaXRWby6AqglNS-QwwGwsuu__njHWGEFEyQWKTiJZ6rZacy1sdWboC7wcwQhP_zwfzyP9sHObCb72zppXIOv23kRULeyIzHI0A9GeXOukpIzjoAkcC8oEhA7yIU5bMYQ3C6q9C369TsSGhTQsKA5aA7_oaG4W24ZYELJafgJ9w",
+          "width": 4032
+        },
+        {
+          "height": 1320,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105941949957984930786\">Swissminiatur</a>"
+          ],
+          "photo_reference": "CmRaAAAA5PKWIJpVvc-olGH080u5kdpX5fKUSCrR9Ns3GAm6VjlZbVKWCmdsK5_m8UY5ORq9bKlTO2TyFI5J4s2lKzds2q8iAX09nQfaPvXffbT2BW7CJnTIK39QzIxU1--FItclEhBB92X5RF0oa743Et-6ysxtGhQNArvRpPl088HWY9ZFeCoXDaz2IA",
+          "width": 2048
+        },
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105570264107590462365\">N H</a>"
+          ],
+          "photo_reference": "CmRaAAAAY0UV8bpd-EMXgREXMVKQethwg1Tu-xrIag7Bfnr5n5bmN9_XK92FSligS4nCL8G3_2ih5TpcbDTdViaTjaOITtj4D4vZSV3t1yieTB5vL13roi_E2boRUTOyl5jwOJcZEhB9GavmkAXI6III27AxHd3uGhQ1a22YwsceMf22OQvasXdcqHFrWg",
+          "width": 1024
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109483610691004330113\">Markus Stampfli</a>"
+          ],
+          "photo_reference": "CmRaAAAAOg_BZ_CL7Y79T4uSfC6n7EWZm25iRRT4Bgfw0TQdkQqZhvf_zu0-HM44pIqw_NSg9Fg_ONJxWHW-TV0-v_cnFNsiq1hSucagrWcY5s_pZygNxSry0UA9BLWCmq3gSRCBEhCuKXMURpggO7GUwwmHtuSOGhQ3epDsTv1dKch1BF6d6b8ElUtHmg",
+          "width": 4898
+        },
+        {
+          "height": 2664,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116724392416513808293\">Marc Ch\u00e9telat</a>"
+          ],
+          "photo_reference": "CmRaAAAA2eLHDclCtQnrKR4FcPoa_fVRYJ_zox2ZNEXjGAaO0Y9DUH4c7_B4EyJleZ6J4sJLzJRkuSAtDfMCrUCU9KomdQs_bUsl43MZGore_T--yU_sRMbXXkZlh0QZ3G-x-_ISEhBte-rGMTHgNoHLrP0SyE99GhSCHxe7QNcK9UCfD_mRKxY-znK0Nw",
+          "width": 3996
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111437179542658289959\">Walter Bauer</a>"
+          ],
+          "photo_reference": "CmRaAAAA1zmJZMI_du0GBSCZF6eKc8bKFUPivTZACND7yfD3oJlI80cVnwQv2XtwShoiEuVmQyad-lD9r50EAcjlCiSDSD1YIfK8KaxSgCDK54ID1Bs5mnVn4AuxGloStiw51qmUEhAV9Djk2ZRnsIB9nW-HXNwMGhTPla0It7qXil0BM_TQMl4H4PomOg",
+          "width": 4608
+        },
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105570264107590462365\">N H</a>"
+          ],
+          "photo_reference": "CmRaAAAACcG7evs20oXkGmY-e5EBYIPD8yUxqWz9eIGPXYIJt5TF8kBS3hwU3OVqtz07ET9I_XzsFWUbTxAlPUNazA4Q4zDCPwI-0bFlkRjypg0FxNgYeLOJUWmBQUmArSe23nyYEhDahwLw_diPWUTkJ4toQN_6GhRa5YMpcKGxUtuD56HTDz3vlOK8hQ",
+          "width": 1024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102714230402179586034\">Tom Sch\u00e4pper</a>"
+          ],
+          "photo_reference": "CmRaAAAAzfHKT4XqRpUVWgJ8kQPY6I5r_NIzVS8KeeLBU-ck8EIwxnrA5YRljsPh_hQlmyFN9MqZCU49wwRloIDaBZDYsxsQ0c50DoqYvg3-ZPzVcSzncsSVGkwd1WkEmVWre16VEhCdcu1-T94LIrwLFJaXSplGGhQq0YBeDjZhPxCyC9U1PkMarYXmyA",
+          "width": 3024
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112278264441003187370\">Beat Kuonen</a>"
+          ],
+          "photo_reference": "CmRaAAAAL3AxWa9F4ADygVbajOZZAH0Z0FNI6hNT9-HO92JJ-ljClDeHkUQdRfGf8RqZpNKztGG354g79OlOHsscoUDC6WGC6Cvcs4QMTENo0fT3bL_4iFIQLxAdQakCInclRDjlEhA1skjhqNLoQoUiuEoiufRUGhQ5ZMSpqRj6IOI9uEvxEvwISsfzRw",
+          "width": 6000
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.swissminiatur.ch/",
+      "mood_params": [
+        0.011254906311395214,
+        0.05510769736099206,
+        0.03994840150755266,
+        0.11448384413702323,
+        0.04724929485691882,
+        0.13303973884832643,
+        0.11292393587794014,
+        0.029177875249540148,
+        0.12692187616066092,
+        0.04169342509503295,
+        0.10120883809232759,
+        0.02912802141140382
+      ],
+      "popularity": 0.8907114173892227,
+      "num_google_reviews": 3285,
+      "top_cats": [
+        "engineering",
+        "family",
+        "friends",
+        "instagram"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.285863183271218,
+        -0.3044290573907882,
+        -0.7398864973475566,
+        -0.7632052478148202,
+        -0.3696602198301145,
+        -0.5751561556455155,
+        -0.39983415390529387,
+        -0.4888635969080608,
+        0.5118102165175089,
+        0.4695847282527595,
+        -0.1930905297562687,
+        -0.28578613683133475,
+        0.13227954194295682,
+        -0.35151235591636787,
+        -0.4520255541513904,
+        -0.23211461970284603,
+        -0.029580497310236223,
+        -0.44894073409449786,
+        -0.8093449658928356,
+        -0.16653331287385448,
+        -0.2681123225056459,
+        -0.47609402148479124,
+        -0.4037150761254296,
+        -0.2621114822989831,
+        -0.456795982608681,
+        -0.3142142416404174,
+        -0.23259354436031557,
+        -0.055757258430828675,
+        -0.3015959749508496,
+        -0.31947300187641336
+      ],
+      "global_mood_params": [
+        0.01881328710338618,
+        0.1372184943236908,
+        -0.41295353057091416,
+        -0.1778529596665354,
+        -0.24334021102671796,
+        -0.26025774617286634,
+        -0.007161327031601671,
+        -0.016514567336598427,
+        0.06762142720193193,
+        -0.07876311746545149,
+        0.22154864144322556,
+        0.15932042343448677
+      ]
+    }
+  ]
+}

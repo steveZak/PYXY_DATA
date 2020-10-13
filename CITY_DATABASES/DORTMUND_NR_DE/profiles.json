@@ -1,0 +1,4943 @@
+{
+  "sights": [
+    {
+      "name": "Westfalenpark",
+      "orig_name": "Westfalenpark",
+      "place_id": "ChIJl1ZPVnAXuUcR0gqL0g8a6tI",
+      "cat_params": [
+        0.2620032587083735,
+        0.1890900196443094,
+        0.13898025881398254,
+        0.15932039309857154,
+        0.48577332536419554,
+        0.07845232575255669,
+        0.39852243372992,
+        0.15015756738753464,
+        0.16490538823628864,
+        0.3136504437023815,
+        0.07610611830422495,
+        0.16164896178738283,
+        0.28906818968325115,
+        0.37279085323640315,
+        0.20332428293146199,
+        0.23360777476375488,
+        0.5666855856240415,
+        0.30182265899937255,
+        0.19645853267669852,
+        0.1278250137714193,
+        0.8551427242661039,
+        0.3206294896675401,
+        0.21352153771154203,
+        0.14166379593837783,
+        0.003949008707515917,
+        0.3922418414919343,
+        0.4901282548489469,
+        0.6178401356283868,
+        0.5397331364457906,
+        0.447336149172706
+      ],
+      "noncat_params": [],
+      "quote": "Vast park with a rosarium, mini train & a tower with observation deck & cafe, plus outdoor events.",
+      "phone": "0231 5026100",
+      "int_phone": "+49 231 5026100",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.49504719999999,
+        "lng": 7.4771196
+      },
+      "address": "An der Buschm\u00fchle 3, 44139 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3414,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101700423873268806500\">Stefan Brumme</a>"
+          ],
+          "photo_reference": "CmRaAAAAbYPSZKM-3zIntHnD1DRTt8RXSf2-YCHuOB1_PMLP-LmgsM5hwCzP_fTucikC5zctgUT0vs-uGaWtF9yny9Hc-XuIS7OH4HbYHeC9m5SAwoIh30UlKKP3erpZTw1uN_ntEhBW7UhKQLtQXMc7OcaQjQkLGhS76XwqSZuLSvEf3aPDAyQz2xEZKg",
+          "width": 5456
+        },
+        {
+          "height": 1520,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111139065276384742668\">Andylino 80</a>"
+          ],
+          "photo_reference": "CmRaAAAAZPhpnUJLKfHJPNCg0VMOTV_pdOwVqVNaOe49c3UHESPS4znBdKNAeBKVCE_ptFfcOFcEJouxuZxvyz8wHlp40UCw3pyXCsRbqGHOB_669tjgzwrR_dg8xHmSr1m2a7TNEhAdmfQDxv_KUvRv6B-0oL48GhQvzrgwszed5Rsm53w_zHaLZhgQiA",
+          "width": 2688
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111097823885689860843\">Michele Bergermann</a>"
+          ],
+          "photo_reference": "CmRaAAAA1yOUU8nDRxlWIWjD6PUka4dr8H9bgGnyJc2xHCGxewcUkDnLl4Khifo6GHsKdF2rPL3fZClPQluksLQ76L9wSE4wV__CwIwQnmuGJKrt-Hen07naiqQuZyNkvuLKsQDxEhD_DYlpjJeTYL14--Uq_HqfGhQM1YcLTrkRrXxPFnJSaD93_khBzg",
+          "width": 1847
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116499746431130526325\">Oliver Tiedler</a>"
+          ],
+          "photo_reference": "CmRaAAAAKReETrWlYMa3lV2_zVSqSKLtNnbvxHUgk_Ks9ie0gUtBQ9HC7YoKebblEtq1ONwMXddZZIceBFskOlIuUgr9Qo5rGguivuost3HqeU8jPyUabyr0-Ql2OK8uI1zQZoTDEhCw-sWgQbOk6hZuVuwR51R8GhQAVhUnX2UkeFZdNUAIjjMXc4l_Dw",
+          "width": 4898
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112589304655408530267\">Stefan N</a>"
+          ],
+          "photo_reference": "CmRaAAAAkb0DDB3TuIZ67VjmrR2P_u0D8ewdDQKmHn7WyIrSkL0Mf4G2si7Sn-jnqQNV_XwbUdnIHG9KFwzeYyprRs_lUI5w2eTVxx2SjcUb0Rax57NFJzE5PhUu3P25Rm-onTdOEhDya6WKB3BGc2_2wr4EOI_SGhT3GJYAyAP57n_Nn8dS31s1UfSDDg",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114560226546192094211\">\u0645\u0646 \u062f\u0627\u062e\u0644 \u0627\u0648\u0631\u0648\u0628\u0627</a>"
+          ],
+          "photo_reference": "CmRaAAAAxP9ObTqMEkhOS4VPF3nm3m1Qzy4ZjNria7emAOPc8FQm_h3xss7AimHYT7s6hlatW8zsBXGZYmIHFjujcih6sLqR9TrLyQoAZlwPotFlGsWBL2DEW7WOid-V3C5crP6TEhBQhcL0ISJdMEbRb0Vob5VZGhRozr_MXrtF4lbMp9X4bGf7WTYH7A",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115533056427471544626\">Irina Roxana</a>"
+          ],
+          "photo_reference": "CmRaAAAADCLC5P2WS18NeVUPPeLR7bdgR_Ypi4Q0tjAOSHgu1OZ6FZ-c9oOWkxk6KZPRBQU7sqpTFAC3CfJ82Nq9xCBXHxPX7DNjA0a5cSWn56lu3bH3zWrjVajCc-UIb-9Ru80iEhAM-AuJ6u0sUUN97ZevfxFGGhSuy8YsjdC20XBcNfemM5bFZhD_Nw",
+          "width": 4032
+        },
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102991897882465172840\">Florina A.</a>"
+          ],
+          "photo_reference": "CmRaAAAAY9ySoTAw1oB33L8XdGQxahL0a0sepTs95pNk8LyuTwvbxFMSPNHMBjNJi3OadTptTrwNg-UKU_Ht8sRJAiiSb8TYuk53SCi4ltLGxiMlp6UjOMra6R_SvheGmfUuqkxsEhBC56OvhQ6ukgGq3bamwfYhGhQGU5GOeq23DnTFdO808vl6GXtzEA",
+          "width": 3072
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118333222215955703461\">Valery Sergeychuk</a>"
+          ],
+          "photo_reference": "CmRaAAAAnDWRKr72SpuL9PL4yhw1PVnKlImucebHMHurU5weRp7ZdPN3EQucHVWSxs7468mp0M4_X0gWMqK3vJwt9tQtuXRwUAu5gh3GDnhYfxdbcbAfkKkQav0OH_jlxZE7xS4pEhBbl0ymLHuNZcODaGH4Q0VuGhQsOBO5nTfT5Sjp0beXWPobhaMF1A",
+          "width": 4032
+        },
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114732539222700609729\">Stefan Franke</a>"
+          ],
+          "photo_reference": "CmRaAAAAwzZgLH_IIUhjCnJm5cIHseKsMW_OoqEf8zRoEdLpJyyyVzhfx08IcSs3IlZTl6V_3qiWxCxgl70EfCw0WrN_chtENEVbsQ1tGAJacPyNi6fjIjUMQv6uAVsbxwCt-9rsEhDeshuYjMwomaCKWSzVeZguGhQKV-t_J34viVG-d_JlXaP238GTWg",
+          "width": 4288
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.dortmund.de/de/freizeit_und_kultur/westfalenpark_dortmund/start_westfalenpark/index.html",
+      "popularity": 1.0,
+      "num_google_reviews": 12136,
+      "mood_params": [
+        0.007105009717681027,
+        0.03976652740275361,
+        0.11719976806008359,
+        0.1434466047524042,
+        0.1037449735941638,
+        0.1986596523320054,
+        0.13140517767648488,
+        0.01632871762431333,
+        0.22193561661028244,
+        0.03536429952159942,
+        0.07064719407967532,
+        0.02323635139868917
+      ],
+      "top_cats": [
+        "sport",
+        "nature",
+        "walking",
+        "views"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        1.222878297241923,
+        0.9186987781619319,
+        -0.8414862603515421,
+        -0.5141882119107489,
+        1.1159347110959903,
+        -0.8895097417902406,
+        0.002483988489158009,
+        -0.6772529839422022,
+        -0.6173151487977097,
+        -0.081928206765115,
+        -0.2106920110629549,
+        0.19707853650324114,
+        0.38411861563468985,
+        1.2275544011229431,
+        -0.943991216971839,
+        0.7405311800886859,
+        0.5292597313206866,
+        0.08264667108055268,
+        0.3914092553562248,
+        -0.155969637343761,
+        1.5487720708850408,
+        0.6384823999133321,
+        -0.4906915413208085,
+        -0.24767440772052435,
+        -0.6797140631200843,
+        0.279608945433192,
+        1.873446648086374,
+        1.2824301470888877,
+        1.4519279674920245,
+        0.8086698558481333
+      ],
+      "global_mood_params": [
+        -0.2603995096977004,
+        -0.32238786317811974,
+        0.9779285383468678,
+        0.2686501714766333,
+        0.9965843020516008,
+        0.5649137813344468,
+        0.34258883540892765,
+        -0.5288841128088458,
+        1.3245282480770928,
+        -0.32473304156937516,
+        -0.48565400006330983,
+        -0.20085429215216413
+      ]
+    },
+    {
+      "name": "Rombergpark Botanical Garden",
+      "orig_name": "Rombergpark Botanical Garden",
+      "place_id": "ChIJ0SIoloUXuUcR4D2oGT3dkdY",
+      "cat_params": [
+        0.12947702426625485,
+        0.042000515808875725,
+        0.23071015601597447,
+        0.13576855206492525,
+        0.17538232767791728,
+        0.11884321897163189,
+        0.25972237697034306,
+        0.1456048808003284,
+        0.20120809493431957,
+        0.1313482252385334,
+        0.0258388335456448,
+        0.04002030577907963,
+        0.0988221129900748,
+        0.0950606233214016,
+        0.14550046254079851,
+        0.03026928923260932,
+        0.09083972238664981,
+        0.2403706848199021,
+        0.08920113210660527,
+        0.06556125287343328,
+        0.29670703524646297,
+        0.146968076394573,
+        0.08675235105888836,
+        0.11663094844971615,
+        0.04794324487818109,
+        0.18697225849922552,
+        0.18433800524880128,
+        0.14134169964726984,
+        0.09327068998913107,
+        0.22618524815968533
+      ],
+      "noncat_params": [],
+      "quote": "Sprawling arboretum & botanical garden featuring greenhouses, sculptures & a zoo.",
+      "phone": "0231 5024164",
+      "int_phone": "+49 231 5024164",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.4816616,
+        "lng": 7.470320600000001
+      },
+      "address": "Am Rombergpark, 44225 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114271535258660287823\">Sebastian Otten</a>"
+          ],
+          "photo_reference": "CmRaAAAAo5Zd9PE2WLJ6SBPqH0pvc1SsPzcopA7iEYuIjSoN9PSgTHiKn8UhSpoivtZRHJLgHeIaiETnMngf7YMrcMZiAmTAVSmW5-gQzAKn6aMBrFri1wrsvp_uq-rIAckTU-zgEhAnT0klVj5PzYXDNhnmhSEHGhSVpKLNtXCpxbuI3n0uIbK-6AsdRg",
+          "width": 3840
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106799127571298946498\">Wolfgang Gerhardus</a>"
+          ],
+          "photo_reference": "CmRaAAAAYPOtDSEg2_-rMofmml6y8gJoXAvnCoWupYQ52ihe691UuMMZ_H_vmv1XyCO0t27054y_Cxe0VETEYcBeYOAxg7tuNyWa5Wf5ZbY-IScPocpnYs8bpYGbihjYJDvDZsnpEhDNKYfEOKH2DIW-ta7mYT1SGhQSFnJPtUIH_oTyGIP727BG-S4cPA",
+          "width": 1920
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117633500393896124477\">Gareth Bromley</a>"
+          ],
+          "photo_reference": "CmRaAAAAUF7f_wz2X89fcmmNo-1mhCkuzQxAbFRzoMiwv70kmaJRLV6leIcmKKnmytllDxooqh6ABKHKD2-uwh1ASQOBkXnua68_i1S_IXWuVRqLI0txHxTzRGigV9EDY90OLm5CEhAbLmmwLy2YsTBNoj501uj8GhRGWYwufV5KkHwhX7BGPXR7_uKuZQ",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110629916633112040269\">Florian Friedel</a>"
+          ],
+          "photo_reference": "CmRaAAAAKTUgwIqRlJMmsSCza4JjQ6wVMfv3b4Bie2_bYp96MK2ymLwp-O3Yx-hoPIE0QB8cyTtY4af1cl1fp7bPTiEbCAEmQAEiE16WiYegTVHoJRg20v6yUG4yJMdHOJwY_2nHEhAqoGVlcqY5GGt5kn0j-vXzGhQoOdyh2AstN0J-pe6QteVyKfdNrA",
+          "width": 5332
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105633436308175052112\">Horst Rafflenbeul</a>"
+          ],
+          "photo_reference": "CmRaAAAAWq5K7idf6vCyuUIvOc9ah-ppqmxG5vBleaVcUc8N2C5bhQQbqXeQrhJ7sF7Trsw2Kf1yuh-coU9m5i9wRZUJaWJwrazPbJk5AupA1hbDCfzhjNkMPnCakZnubUnKozsZEhAA0O33L-wdO1XDH4GLmmWcGhSLh5LGGh2pnUnatRIfQ5pubFqfZA",
+          "width": 3968
+        },
+        {
+          "height": 2828,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109528863381808382619\">Raman Lakshmanan</a>"
+          ],
+          "photo_reference": "CmRaAAAAUzyuIvrwZDP9GtHAlKSPeNJzJJFxCB34e2LzXauE6vwcR7Co7RCUZpIrKHSflNT0FlUWJLmCVVX5V0rXdCZM1XRKpy5jlYX814JCFj2zN4phXLBCJmdJ-gSIveyHmuzKEhC7n3QlRyXY3Zza9THGyGtTGhQtzUPCe42ZXHUOzoMLzT-YBYjaNg",
+          "width": 3710
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106799127571298946498\">Wolfgang Gerhardus</a>"
+          ],
+          "photo_reference": "CmRaAAAA9HTa7mfOeX803FnQR99yPjXZKoCpBtMz06nXlT1xcciBO4IZSNsoKscdb18VxgREop0FQAjX4Z2neibPSOr0aV1J7Lj1jR7SAmLijTt6jRtrMqKdR3qn3lwbBi3yWefOEhDhrJjNoutJB8OX3uZ075bVGhTpCComBXKSo4G2WdjAmweyk0aONg",
+          "width": 3840
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110118000050931065450\">Carsten Vollmer</a>"
+          ],
+          "photo_reference": "CmRZAAAAq8k2Pm3buENv6MB363wwyqMxKXTcj9PvW48THSWlPp__WuarTTyogF35JiybfvB-AxuCXl9f5KSvR_Rv7LR8gqiLU0YT311jVFTuygO_-ECA2-NvU2DxxG1BkMsl2Jm3EhCr_6rtJRDqNiWLsDUmxvY7GhSRjUXmX9eXH2yv30EBbIITXmy1sw",
+          "width": 4032
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100577922297611794965\">Die Seerose</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ7DF3LOfaRy5JAf9ekR039GX3x7XJbjLmSA3PNvFLRxS_2DtkBrGzHKnZKJChxCiOH_3iLD7Lt_WDdEhXalJ3-9rRmPMcV04WydllE0OovMbwhtkdElcVFXQAvRjb41MEhDLiA_3LTGOXjoQateRAz2_GhTngVbNXX2VvgVO4_3IT5YlF1n4CA",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104160640649800832984\">J\u00fcrgen Zahl</a>"
+          ],
+          "photo_reference": "CmRaAAAAoLvDbhniw_9qDgRnB90FM_-OJf5d6dQr--i1WOiydMszG3Z_XVyjxP1G7yk8-NY950yALccqFUuW7owtDANSj8s8_SuA-fJFIRm-gdx5b6jruZMv4kegwW_WvzRhdF92EhBkuQVel81bZTlbS4BeWo4jGhRMAR7pfNcAB8ThIUjK2NT0ycdz1Q",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.dortmund.de/de/freizeit_und_kultur/rombergpark/startseite_rp/index.html",
+      "popularity": 0.7222844273913875,
+      "num_google_reviews": 3303,
+      "mood_params": [
+        0.0005329062324066562,
+        0.003944653032334438,
+        0.010652995956584949,
+        0.008220221687226267,
+        0.004246163601807841,
+        0.01328950237509187,
+        0.013993228368099476,
+        0.0033477171280271055,
+        0.011968429831506993,
+        0.0036123579422467893,
+        0.018469409007337675,
+        0.003933570721501713
+      ],
+      "top_cats": [
+        "science",
+        "architecture",
+        "engineering",
+        "books"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.38511942981462,
+        -0.8400087445537022,
+        0.059612189110960154,
+        -0.6824948695539867,
+        -0.7986641019580174,
+        -0.3506682000383167,
+        -1.4746032853865512,
+        -0.7278142523290129,
+        -0.08007040025846594,
+        -2.020281873954745,
+        -1.2445133184323756,
+        -0.9580517296332162,
+        -1.6717167816148597,
+        -0.8132151484282697,
+        -1.5727680613846402,
+        -1.6409462271792232,
+        -2.052699979815849,
+        -0.5601176973146607,
+        -0.9776865248081074,
+        -1.396629574335803,
+        -1.1747233688393257,
+        -1.0580620748909297,
+        -1.919992211902106,
+        -0.48119165135021447,
+        0.586982038033175,
+        -1.2429635062004962,
+        -0.9917816981271708,
+        -1.8130887993306186,
+        -1.2431108097059484,
+        -0.7119932495303106
+      ],
+      "global_mood_params": [
+        -0.7025829119947862,
+        -1.395575973543484,
+        -0.9404063912890201,
+        -1.816061443330645,
+        -1.1871404763589526,
+        -1.766119005416345,
+        -1.8793856828997142,
+        -1.0465109890640731,
+        -1.4530614770863166,
+        -1.5587143506475367,
+        -1.693058530259429,
+        -1.3808887349220016
+      ]
+    },
+    {
+      "name": "Dortmund Zoo",
+      "orig_name": "Dortmund Zoo",
+      "place_id": "ChIJe72375EXuUcRhEUHFHdBcsY",
+      "cat_params": [
+        0.1723675244631982,
+        0.23770001554929251,
+        0.18248488997905804,
+        0.11269423348364535,
+        0.18504950009237586,
+        0.12270857477398446,
+        0.31105649605567104,
+        0.13317675365576406,
+        0.18761241976007745,
+        0.2360300312453856,
+        0.05464435750013866,
+        0.06626118873957194,
+        0.16985622999114988,
+        0.10284935697980518,
+        0.2033219092907383,
+        0.10507112051859215,
+        0.27058835942322623,
+        0.2098069883747639,
+        0.10684696312671428,
+        0.10586618439027708,
+        0.36031322751629025,
+        0.15605914278267496,
+        0.1646495620832877,
+        0.0970525977348356,
+        0.02771511292746592,
+        0.23631588521552188,
+        0.21117337882972914,
+        0.27266229165456024,
+        0.15023895231040954,
+        0.20796375305681447
+      ],
+      "noncat_params": [],
+      "quote": "Leafy zoo with naturalistic habitats for about 250 species, including many of South American origin.",
+      "phone": "0231 5028593",
+      "int_phone": "+49 231 5028593",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1630"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1630"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1630"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1630"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1630"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1630"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1630"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.47366,
+        "lng": 7.468319999999999
+      },
+      "address": "Mergelteichstra\u00dfe 80, 44225 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117475299887674923233\">Forteng D\u00fcsseldorf</a>"
+          ],
+          "photo_reference": "CmRaAAAAglFOGiIAxvR0I-j4u4aYEpvNJSRtXyPXXUpjZyx0m1Bhg--FuazG0XBW-R5ho8Mb83bd9STPzmMFKyPijvom_ZM6Yi4OvbvIBfUOtt7LNj8thxKNCj62U43tPlpcMjeQEhBxlkWfQoanpSpuBwADYXZcGhS3V4k0ABQIQ4dOo6CDxR1Rjehjcg",
+          "width": 3024
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104958614244195860546\">Ralf Landsmann</a>"
+          ],
+          "photo_reference": "CmRaAAAAzW2q-He4j4KMOLk_vm50GfHjNbJguDCknsMCB1HzkIyWVr1SlLa_FEVjlhcDh7jIITJ2vrI2yMPaL30m8P4MXUjvmDRDUtr-gDVV1jM5DaYxqIem1HvWvuSvDR9ZnzDvEhBM3nAcCMae7g8eu62i8PvcGhT3AwlMrFHUvkWnCIwSuV1rYHncRQ",
+          "width": 6240
+        },
+        {
+          "height": 913,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103747997284226936221\">Stef Anie</a>"
+          ],
+          "photo_reference": "CmRaAAAAchf53mrl7t1Z-VsJJc2fljq78rmfatf_vCC9fRWjSS39uwkh4miFmkdnw0sQr-vglFY_vI16v58o5wKaqBt0bmpr9y9pvA_FBqTtaJzGhjwcqfDwoyMpg__oRXuR5zQAEhB7FstfyTBzuoxzKqKUKKr0GhQwWM4JCm8EfveAzElq9MKaNO4n3A",
+          "width": 1063
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110868544405999916165\">Nasel Mandi</a>"
+          ],
+          "photo_reference": "CmRaAAAAJz9oFv5i2I8F8GkFck2QgcaATEYh5qwJS0c_ISvmp_Zh2STmI40v1yUTTNVr2JRal-l6ghWsTCyDnxjbwxChmbsWtIkxG0HC80gSPXnSH6FnRa013BO_WWsZm_m3cuceEhDs1Mc4OiKQQPpK5-ptv1xDGhRJGwT5rRYxoTxf9GAfGw8zqops5w",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111571652717850845147\">Beate Burak</a>"
+          ],
+          "photo_reference": "CmRaAAAAiBfQCaDEgzayi36Ic1WtiFlvods-ZqKuUEexmpOx7uz8Q27EUXuWd4A-98vMXFwuW5_WdRFPP6Pr4CT4ORniWIyJBnSG_afcs2CqLCxT5yqR3VNGBGOuXl674gUQlu10EhDbY4sSkzwBrlD4TkL6qn81GhSOwj-x1ZdAfnfFYO3BWUuMbbxjtQ",
+          "width": 3024
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106587066313663281612\">Hubertus Klein</a>"
+          ],
+          "photo_reference": "CmRaAAAAK8YWyqvBCVz2WCQ3p2zy1An9bETaahrw1fZazz1NUhHTD19Z4gUeZ_juBRIDRQ4p6LHx_8bLUS1ZyK243BjWGH3AEgtfy_vuKRR8ikmeLyRTWsckfvUPsX5YCntyw9RgEhBX7Lkvmv2wuCCh9pJqvSUSGhTxSSLMyjlShemQIqjE_QmhZkoXbw",
+          "width": 3648
+        },
+        {
+          "height": 3004,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111323506496072338477\">Reiner Senft</a>"
+          ],
+          "photo_reference": "CmRaAAAA8KcmagO6BEHZhT4FquFzKo4caB6zN7cRz8VLOEgUOi4uOPaTkhqiC7BBGhfiKhwG5A2wTb4SnwJZA4tlNDpNGocO-wxoKoEZ342TEah6uhmMRN4drQOAvcBqWOYMvBteEhAUOCOkemfJR75feIkpyaP6GhRlafLx1LVvJQ3xNXAqhj0olVhI7Q",
+          "width": 5325
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107267306846871566945\">Oliver Weber</a>"
+          ],
+          "photo_reference": "CmRZAAAAY9ca55oLJu5rPBI3U4cNPBZamCtI44Wv79u3JU37nBKNRN6JR18nYo9sp_M_1EMsQG-uqz1XIa6t8CmmI7CnrFEluck_P4P3s4TmyQ-lD_HTOYca0u9pR7weGU0c2t8XEhB-Q1QdM11z69jigKI3bAjFGhQDEG8FtgVd17pJ-x5DvFtzVu6cMA",
+          "width": 4032
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116371241734990841596\">Constanze Schr\u00f6der-Porzky</a>"
+          ],
+          "photo_reference": "CmRaAAAAe7G18w_HqpbKIjmjq4HVGYvcSfVcTVMUXyHlGewAk3XPWfsKr7u0czN1EgtoUGH9IAaSrUZzl99bR_usSdPC4pKCj03f8q125VeQcCvCGM3Y_qaa0hcGEHBBJWhjcNUAEhBThZmvtPfvQomuuTfBywzzGhTHuG91enddKZYJG63OGlCvPxZxPg",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112475915164870135193\">Shahid Ahmed</a>"
+          ],
+          "photo_reference": "CmRaAAAA-4mBlJ3mu6FuVXmDEuVZ9Rb5rwTUA9erqvllQjlhYm0QrK3agpR4kSwrQRfDo-OSLqOk8UarCyX01kRV133U4XKByQoCxOSLSOJoRmh8-2GRJJLZlX138jTy7Sp1caBeEhBZkjvltmNNTmSQVbJ3T9jAGhS9Wd0D7DQV33Ak1NfaD-2pjYPkMQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.2,
+      "website": "http://www.zoo.dortmund.de/",
+      "popularity": 0.9169386413297098,
+      "num_google_reviews": 8579,
+      "mood_params": [
+        0.004045183602071164,
+        0.015253444300516119,
+        0.020203866180657584,
+        0.04422519266065466,
+        0.016120692699546153,
+        0.07053395660286255,
+        0.06447020195694506,
+        0.008692232404147831,
+        0.0703633300192583,
+        0.024539680927059188,
+        0.06871180362498433,
+        0.016232261392075936
+      ],
+      "top_cats": [
+        "animals",
+        "amusement",
+        "science",
+        "engineering"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        0.13528943201812973,
+        1.4999147266018595,
+        -0.414123351604749,
+        -0.8473890462878733,
+        -0.7390336456358975,
+        -0.2991017672619362,
+        -0.9283140706213251,
+        -0.8658386605691005,
+        -0.2812731687176875,
+        -0.907238026923042,
+        -0.6520849711062774,
+        -0.7088371192560381,
+        -0.9041085623994038,
+        -0.7559833141965432,
+        -0.9440170279665802,
+        -0.7648756163230789,
+        -1.0773762987342481,
+        -0.8798023828547594,
+        -0.7524448849891728,
+        -0.5935185339011505,
+        -0.8645154469759847,
+        -0.9692490325453045,
+        -1.0417146202137304,
+        -0.6638269866162108,
+        0.004567201321687262,
+        -0.8769606839284916,
+        -0.7403365550402148,
+        -0.9599792192821697,
+        -0.8992259494138168,
+        -0.837286681304022
+      ],
+      "global_mood_params": [
+        -0.4662703279630279,
+        -1.0567757140674412,
+        -0.7684465318062732,
+        -1.2609923844848807,
+        -0.9265272748072918,
+        -1.0462690204235927,
+        -0.9241290013062081,
+        -0.8333945387359045,
+        -0.6805737505429584,
+        -0.7454121043026123,
+        -0.5304393277550193,
+        -0.6290344381262368
+      ]
+    },
+    {
+      "name": "German Football Museum",
+      "orig_name": "German Football Museum",
+      "place_id": "ChIJefVN6uUZuUcR9mTFWAgYucc",
+      "cat_params": [
+        0.12965322175938357,
+        0.04904629039608971,
+        0.22292657482475775,
+        0.18579585857125586,
+        0.1484866701753675,
+        0.14225098599174385,
+        0.3241425350797247,
+        0.20182535666703239,
+        0.17795847739884452,
+        0.18583424765037662,
+        0.05417905518535939,
+        0.050507388473481414,
+        0.13874759070438333,
+        0.0757415370735919,
+        0.22898581016744554,
+        0.07122545995545433,
+        0.21669744802966737,
+        0.2947670881010691,
+        0.10646072633620665,
+        0.11411368781711728,
+        0.2880150311557198,
+        0.153686628567972,
+        0.18365749582457266,
+        0.10490664326576465,
+        0.046910963192296026,
+        0.20475114037227019,
+        0.3002999972505362,
+        0.21166630569974781,
+        0.10092222904342454,
+        0.19734789194690153
+      ],
+      "noncat_params": [],
+      "quote": "National museum with exhibits & multimedia installations tracing the history of soccer in Germany.",
+      "phone": "0231 22221954",
+      "int_phone": "+49 231 22221954",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.5163518,
+        "lng": 7.4584552
+      },
+      "address": "Platz der Deutschen Einheit 1, 44137 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114080675693922416330\">Deutsches Fu\u00dfballmuseum</a>"
+          ],
+          "photo_reference": "CmRaAAAAdBLl7oehzol7lZG-YGQxCa4CcHmTogMprE8mzAaKM7dl7NA7gePADWQrEvS7CU5kytOMLS7Bh66IdkEoF5XgeO9jAA4JkKuxAdJW1TLuUYpZoQA-N-AEN60hJBfEQATeEhBKQVXs79SvBp5i31JatHHyGhSbi-s2t_CSuMQpU03EQ98OU_8mpw",
+          "width": 2120
+        },
+        {
+          "height": 683,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114080675693922416330\">Deutsches Fu\u00dfballmuseum</a>"
+          ],
+          "photo_reference": "CmRaAAAAvPSiwnT7COsHj01po-dGAyOIs6-PK5P66BbkMY2DU-CIqhAVX797xCniaUqeJ2ctlX5auPjTJHAYItf1OmLTVgde4Uxl8qK3ePMHRldh59WgcsTWG1thgNtRDu8S2_qTEhDJc5I57HaYhKSNDHTIJdGkGhTAZ2ARSJznT5Eq2WYE5oX9Eb6NFw",
+          "width": 1024
+        },
+        {
+          "height": 5184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105401996121329090016\">Aldo Daniel Figueroa Valle</a>"
+          ],
+          "photo_reference": "CmRaAAAAcbhvJgUb44VymFTtgEoqDBDc_o_QwcOReWroIDGNsh7mse8etMQgeq3lXSsCPglMLzOZ7sMmjtzx5GTSUkLLr9sFpvRVsJ9dCGXk1JTiuSg3Fk0TEU0G12pFPnzfTDcsEhAplXMo4pMJFyE5YpPGyR0XGhQFm3BUbS7uSEy7jLnkbGVILFEJqQ",
+          "width": 3456
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118028439789542831403\">Sebastian Nieder</a>"
+          ],
+          "photo_reference": "CmRaAAAAXHsCgm2xvWV2_edEokNY6qhR-9-rMmNW2l33to5UpuxMpXMIpNO4PYUStc_QS6eoAFaVFDBdq9rmj5wJHlqL3JD9jxoYulo2jJJcHsuU2MrHf7v0igzcruGnuaJDOkuPEhCUTpHJ7ViBOD3JSqy73EyRGhQTSyiMET7OfygKdBr96l7T86H7pg",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102432334450174620970\">Horst Albers</a>"
+          ],
+          "photo_reference": "CmRaAAAAQfB8jyO9D46PmRXVRq4YGXJncyRIrrsyZ8KfuiLPRUkdCoivdzEc-AWvS41OpKs-y7diRZ4IDoMknkjh40gbdfSVXVPoTuazK_Q0aFt0Ivy3eAV22RV36D6JpzNb4Cs3EhA75iF-HXIwaMELdEykqMsUGhS0ZMsWtJnqxokj3DB8fZSl4vaY8w",
+          "width": 4032
+        },
+        {
+          "height": 633,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115866683756634400248\">Mikpic Insta: Mikpictures</a>"
+          ],
+          "photo_reference": "CmRaAAAACdLHrhwn0olAHGZfEvwrfZz6Br-AaOS1yX7svwdQQ-MTzApXuN9D_IEDPk4mv69lWhfwQmLa_dcdNDVkvmgK_2TwsaYY1jFQ56dlemnKnj9-fC7scR9Y3R2MQEDot-J1EhC8ZxxZiy3kz6Z3AuBNARfYGhSNKTak0dg7R2rIpxwDi35C6mZFSA",
+          "width": 950
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115197941356148006888\">Sadi ucuran</a>"
+          ],
+          "photo_reference": "CmRaAAAA-SJsGBI5llFSQ9dC-zimcQ5WxbC6aOdh2BiPt4qg_MuC3smElH71l6r3-s5dkZ9ymS1d2uDtpKWikLLzT944AoSUuFgoOe_axRYxV1buInhv93agrqKlvoNCR-ZE2M-uEhA9Qebrxp634bxtjf5DHY1ZGhR5FZleQwUj2b8Oithd7GZldGQYnQ",
+          "width": 2736
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118056168211030524311\">Roman Ferstl</a>"
+          ],
+          "photo_reference": "CmRaAAAAl2-yFN6qxscqn8DAPMV9bl5wOFRT779sa3OxcL7O9dyEE5oXSm27_K9NXb4RZAZWtafVJPDdLAT0lwjT-8OwZ06jQccJmnGyVXFLm0IyPgeUINhfb-517odAEVn7AHpJEhAQfIWNSFDvi5Eb-kv1Rq5XGhS_DxV-Alspm4oHgeXqfaqkjS-gRA",
+          "width": 3456
+        },
+        {
+          "height": 633,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115866683756634400248\">Mikpic Insta: Mikpictures</a>"
+          ],
+          "photo_reference": "CmRaAAAASqXfvhYXPaZsA8H6BKCiumiPsa9hglzIKJ_8usYTVG9PbOsx6VG5Gm3qA4AWoRu3_wTIUzSMdTcCxQaGA8p9sAV1wOqmEk1vx5J-wFEdCMRzBiidN3RO2x2_uprrfzXnEhD14tDZHwQtdPdoVTkgPbZbGhRcUkrc-DYVcAZEiNRhK3EqTHdenw",
+          "width": 950
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115942881368777798527\">Henrik Jensen</a>"
+          ],
+          "photo_reference": "CmRaAAAAvxwJxkgu-woyewKOGIGagxB9X8eh7iQEKzpQXF935fE-nEpZ_WJ5UJMjKiLQQRHQqKek1VU8Chcm2ejcrgjN_3K0JVLfmLLb1Ak1QiabIhDWoFO_l94fBsI8ZxlIn_elEhC9No6tXUnjO85wzX2XNQGJGhQlgQ7Cov5X2Hw9s7bkC5NUEwAorg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "https://www.fussballmuseum.de/",
+      "popularity": 0.7488299388982359,
+      "num_google_reviews": 3816,
+      "mood_params": [
+        0.0045588944690916405,
+        0.029299440989935196,
+        0.006615016290811338,
+        0.06572372658147593,
+        0.010154843573896167,
+        0.06507412807271103,
+        0.06427157459415997,
+        0.019880005051922438,
+        0.03277276123411753,
+        0.0308196053099789,
+        0.061399054530080696,
+        0.01070193498574683
+      ],
+      "top_cats": [
+        "science",
+        "sport",
+        "military",
+        "architecture"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.3829815499476131,
+        -0.7557644140829457,
+        -0.01684895558242535,
+        -0.32498868831976613,
+        -0.9645658011520638,
+        -0.03839292546899246,
+        -0.7890546051777934,
+        -0.10344037666651383,
+        -0.4241421255537423,
+        -1.4409516702824479,
+        -0.6616546037151882,
+        -0.8584539290708851,
+        -1.240274453006159,
+        -0.9551723381506481,
+        -0.6649474940001864,
+        -1.1612721752658037,
+        -1.369790655492418,
+        0.00884807253803895,
+        -0.7573750357966469,
+        -0.4291798088657311,
+        -1.217114344145297,
+        -0.9924267541041066,
+        -0.8274034523332923,
+        -0.5905610481505468,
+        0.5572602539855998,
+        -1.1110899213951484,
+        0.09477219625377352,
+        -1.3562328392754626,
+        -1.1969228388693747,
+        -0.9102827588588497
+      ],
+      "global_mood_params": [
+        -0.4317069009742307,
+        -0.6359714733556943,
+        -1.0131087105154382,
+        -0.9295611774218157,
+        -1.0574612282982097,
+        -1.1149264569999715,
+        -0.9278879452752594,
+        -0.38727393273346017,
+        -1.1778475351875306,
+        -0.501354294748494,
+        -0.6996578251123401,
+        -0.9671191808566174
+      ]
+    },
+    {
+      "name": "LWL Industrial Museum Zollern",
+      "orig_name": "LWL Industrial Museum Zollern",
+      "place_id": "ChIJeTlT4b8euUcRQbN1KoXtOSA",
+      "cat_params": [
+        0.1318163828307741,
+        0.048842798575552786,
+        0.27320550612623357,
+        0.20591054133755737,
+        0.16922983549322865,
+        0.15767872708431444,
+        0.3094508397229557,
+        0.19248813421978955,
+        0.20141150723479254,
+        0.2072120429938751,
+        0.04838848766639473,
+        0.05811821673921237,
+        0.16108276494109183,
+        0.10132317837705183,
+        0.24361900391657568,
+        0.10203937109791415,
+        0.27435588987818366,
+        0.2489901884139151,
+        0.1191600794294799,
+        0.09287141347974642,
+        0.31773755482111404,
+        0.17721830951228612,
+        0.1789591715415369,
+        0.1006536091870514,
+        0.04170985777195062,
+        0.22337552446957756,
+        0.20321914489576406,
+        0.26569160211087817,
+        0.12552738146768105,
+        0.2116193627798501
+      ],
+      "noncat_params": [],
+      "quote": "Industrial museum in former colliery with art nouveau building portal & original machinery displays.",
+      "phone": "0231 6961111",
+      "int_phone": "+49 231 6961111",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.5186173,
+        "lng": 7.3334746
+      },
+      "address": "Grubenweg 5, 44388 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 2832,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101185427711430944228\">LWL-Industriemuseum Zeche Zollern</a>"
+          ],
+          "photo_reference": "CmRaAAAAIiVf-lWICk7-Lng0I4xFvuK-hppgnzMTroXKjaTj7FtRtWmufeOD6TAiNg6WcwXdlMubES1JVQF14FBOlTfTfW0Nol4CTqHIEhocexQxZJKIstiBon1RaD6sIi3RPlXQEhC4ImdN6RlE0IpuP8qeN0PXGhTcvrnqlzwHsrVPWjcJnKTCqDDOBg",
+          "width": 4256
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109078569529545538679\">Rainer Bundtke</a>"
+          ],
+          "photo_reference": "CmRaAAAAg62cH_ZrUrLBLd3UvbcwSu4Nmd1BZnRP_fVOkhuDzgZq_qeU1h-BzXsbXaRKY961EcrStsPZN8slJAEVUydQJ66EhwS_Pi5quCHyhSNosi5NvEL8tdZvHpqXrstyRdjkEhBwBklCV9LLILeIZ4uI6MlXGhTeSAKPUnQRuHnStddgv3vrwo5xSQ",
+          "width": 3984
+        },
+        {
+          "height": 4016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118431127481786365825\">Ronald Kuhn</a>"
+          ],
+          "photo_reference": "CmRaAAAAfKj6GITu9PuFHbtkmqznw4Y7pRtkM5s36Qm8rq9b7M85DAPdvp-B6V0DmD5e7oyR1QctC_IgIZspVsvzq6H3J7l1KvBVEFXi8Tvd_ltGiWytQUu1SdwzoU8WgxUNJi-CEhCk1yd_wy3z3NmFPHIuG9yaGhRWBLNDeNX3C43mhUtQ3CtRwM4-2w",
+          "width": 6016
+        },
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117887644975288812437\">Detlef Busch</a>"
+          ],
+          "photo_reference": "CmRaAAAAg7ZOLhc0BnHHGvPheUk2hnzIDLIDu9LIiD1PjXYcDaJdyru0jNZqDiDRqzE513h4TXEuV_wyo7pCd6EIiwNNNdFYzrRhCDKKi_9LHWcVWmbsryCYX892jkAe6e-5QOH-EhD46GUW2Cj9PtdCHszpQv1qGhTAZi-ifFUvguTQHS9N3R3nHDvluA",
+          "width": 1000
+        },
+        {
+          "height": 1247,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116121907742800186541\">Heinz Mayer</a>"
+          ],
+          "photo_reference": "CmRaAAAAHl1-BT8uHkMlAT_ML7hriyNvbmm5IU46x__NnRwP8b1Rwo9ATgZQjr9BYNw0TC-fHL7OzAnqztMiA08qM_PADwUCSFxKhERG3q_1MFGfkbpkQJXBrZZC7NON9o5hjwn6EhBKUXCFVoELD2iH5ZNINgWsGhQSDEZZxrcFBrDJme9cdu6dqCo0vg",
+          "width": 2217
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108938749776625672934\">Freigeist Papa</a>"
+          ],
+          "photo_reference": "CmRaAAAA7etM8vR7m6oa9CAJW6ZnwwB4BkfyM6WbcdPnCTdZHImiaulEjpLk1UCxn2JyCGht7zC0yiiskODKeDM3Z7tjamwXZxnmZQqU7E56bY5ptuE5C6KbNh3pTl7tG5xQYECIEhARNmZzaxblD9AFU1hvhGwRGhRAm768HliWVkCG6KPjZEk2koCn2g",
+          "width": 5472
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103146321910960585906\">Torsten Hartmann</a>"
+          ],
+          "photo_reference": "CmRaAAAAvR6qkk_PvBZ5GK7wSTXMtaxwcDrkKUKNvOEkXvgDMrCykmtvrCfD4CN_KCt83tkRj9N-XGs_GvY8bzqfaT1Cbk3sV7DioDjSXMAgOMwFbK7734fyouqs_Y839FWn0-7pEhCWuf1Ue65nvnZR0icWYhTtGhQvIay4zHjT3rLlkOJueuTBalz1pw",
+          "width": 1816
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116121907742800186541\">Heinz Mayer</a>"
+          ],
+          "photo_reference": "CmRaAAAANy8H4eB8shz4LxyxLCxI4z4oSXVQV-00QFKzLoyEulbvcqSgXlKz0FjSzt8ln7-JI02mVq5HYP89myTvHwuBF1gB7DvngLGG8wwEniIJQsNZ5SZbumTJD8k38aktFrHTEhDIKEVtvKjx2e2LrgV1c5_PGhRgoB9H_2zW6hNWKWxYN5amD6TcGg",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103146321910960585906\">Torsten Hartmann</a>"
+          ],
+          "photo_reference": "CmRaAAAAKMs0vDzsg0rW-83gCiBp6sb7oHFqMJJXZLyU4lxhZfXAF9hPSxDxBT9rGK32BcJ0SIp_MmpVo-ymy-qKZbVaebUfijvd8FJvPtfiP9L9ttMGeM15TpL3lzVQBDOYRhmsEhCvL09wYagCC08dukmGSe2zGhSeycPWcyP_FwiViKsaYVJIYQ2jwA",
+          "width": 1620
+        },
+        {
+          "height": 4042,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109078569529545538679\">Rainer Bundtke</a>"
+          ],
+          "photo_reference": "CmRaAAAAwTJAOKThNZgIVfLFB6Z_wWMF6nTlkVmyphuClgmoPO2AtPAzVNRGuRD1sLdpD0tOCLdxR5WWZrXde1RmIcX8gG7eu3wDN6dRIdGCRk9zLnjFxUjlgTu37Y37jNNnafP1EhD-zUcehQJ2-9ZAvRWokkhBGhR7--v7ADdRR4oKDK4muU3hiQf3ww",
+          "width": 5967
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.lwl.org/industriemuseum/standorte/zeche-zollern",
+      "popularity": 0.6295233336646299,
+      "num_google_reviews": 1906,
+      "mood_params": [
+        0.004466710398717957,
+        0.03892591927343735,
+        0.016347632862145522,
+        0.09349623626243765,
+        0.016317618172220705,
+        0.09098810169057744,
+        0.08390274539334887,
+        0.03493266703635885,
+        0.05045608511012018,
+        0.02655422489983828,
+        0.08068799436664208,
+        0.005693611195066846
+      ],
+      "top_cats": [
+        "architecture",
+        "science",
+        "books",
+        "engineering"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.35673498751644134,
+        -0.7581975081260788,
+        0.47706053759650835,
+        -0.18124472277950152,
+        -0.836614797441895,
+        0.16742346366063082,
+        -0.9454012000551404,
+        -0.2071377872172595,
+        -0.07706009606472065,
+        -1.2136492910263386,
+        -0.7807462179055713,
+        -0.7861724588266319,
+        -0.9989162994100881,
+        -0.7671977175426566,
+        -0.5058259878960201,
+        -0.8003831235762315,
+        -1.0569335196818073,
+        -0.46996095528216597,
+        -0.595273114265787,
+        -0.8524507189565904,
+        -1.0721573522275514,
+        -0.7625395123932425,
+        -0.8803762466350441,
+        -0.6302351921157547,
+        0.4075083653045194,
+        -0.9729448843089085,
+        -0.8148670430783774,
+        -1.0052635264754284,
+        -1.0483955877455218,
+        -0.8121502210498731
+      ],
+      "global_mood_params": [
+        -0.4379092174725577,
+        -0.3475716556433079,
+        -0.8378765757736446,
+        -0.5014074977042837,
+        -0.922205303175544,
+        -0.789057798252691,
+        -0.5563758331154186,
+        0.2129619585261365,
+        -0.943920418011492,
+        -0.6671205263683047,
+        -0.25330784477000284,
+        -1.2732924038954392
+      ]
+    },
+    {
+      "name": "Hohensyburg",
+      "orig_name": "Hohensyburg",
+      "place_id": "ChIJIeKjmgw9uUcRDw8VJ-ukYZE",
+      "cat_params": [
+        0.13679773246958957,
+        0.04753837937845984,
+        0.1813939130509902,
+        0.14803917690461402,
+        0.2525824802224597,
+        0.1149478019638774,
+        0.3073591299248479,
+        0.15157542462371068,
+        0.19313151167453593,
+        0.19938723428972027,
+        0.04512222227010394,
+        0.07233286740135218,
+        0.15089083198712608,
+        0.17897303033135611,
+        0.178175585449419,
+        0.13485161848748176,
+        0.36007600832693026,
+        0.2486872051068198,
+        0.10166843171963233,
+        0.0832481974381938,
+        0.3941888654048783,
+        0.19295418998574382,
+        0.14194989500710187,
+        0.11820922722287606,
+        0.03654657086175321,
+        0.25006961272928074,
+        0.23314997377652197,
+        0.35506653296078505,
+        0.20738595993500608,
+        0.27783855590807083
+      ],
+      "noncat_params": [],
+      "quote": "Historic castle ruins in a serene, wooded setting, with an imposing war memorial & scenic views.",
+      "phone": "0163 7749677",
+      "int_phone": "+49 163 7749677",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.419968,
+        "lng": 7.486922099999999
+      },
+      "address": "Hohensyburgstra\u00dfe 202, 44265 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117887644975288812437\">Detlef Busch</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ2lbHgPwwS9pf-VoYS63wAjFUpztHSyRFlNC9cEQGH5uQXIvSVQWve_hpd1eYtYGuorDF0MYC5KSU3Ba6eQ2FikO4PvAsHqWkHysyu1BcUplKaaP1ADsZ3uUbXf_EF1REhBv_7YAbNqu9l8l4azr5G6SGhSnsRhB1o2rOX_WpUA8epLgyPaZWw",
+          "width": 1000
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118014507999025433600\">Timo Bouerdick</a>"
+          ],
+          "photo_reference": "CmRaAAAAQMRciXpslfNuAgxVYKN9VcswxFZ8On4ttkwlu6scpwcuX4ToDS0vRtPuF9p47PHn2uOGS8LZGDLVMbhIOQ9fPTwm1AFyCpDtBwfYbnM62zJp8lj7aQPmTmO5DywPLwyCEhDGxXdOaQzdLgF-W63FUWGnGhSbQSTxYavtLwObh0z7PAKHWbr-yQ",
+          "width": 2736
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109615039203594134330\">J\u00fcrgen Kriege</a>"
+          ],
+          "photo_reference": "CmRaAAAADfNwcH-PX3683jWS1JsJUoJog5mmdUSEnCTry_czifocxADQM4KgOzTZt46Z1RpQtBiUxEp5EdGhjykOm6MUDraxS9SDoXCLCVjyzjjhbe5zCWChtbzLswIXE_D-Q0B8EhCcO6zoJBisvi_8IT-4XOmFGhSEfZeJg1FyHqzvE7XMO7uqG1o-kw",
+          "width": 5184
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108406707085551042394\">Graham Bell</a>"
+          ],
+          "photo_reference": "CmRaAAAAjPrTPSvymYYWYygzbDCdQpxBsfyIaa-3B5yJnzX3NpsD6Ve1tWonRjCo1EZP3V4JmlSs2pbKeyrPKw00d0cNLX16F3v_3CvI93izMSF4-BkZswTEyu3oOcOorc7OReRcEhAHA44XjQeqLc6Vw1eliZMqGhRTD8jCfQO1By2D0gNQ_WhuykDoBQ",
+          "width": 1960
+        },
+        {
+          "height": 6912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111767789074699827887\">Mazen Hadadeen</a>"
+          ],
+          "photo_reference": "CmRaAAAAFGTLolNyCP25Yp5xndDNgRYuiO044DUUSaoSdahKD6DQvwZ8hUUAm1DySySj8nYZInofRBLR4VaB_K0wiyQB7OiWaCIZ3u2wL0Ve5ukldNP5Nczmh3o9GYEf5d-wWhz_EhCKLAsVih9NdYtT-wj9Pxy3GhSk3z15MpGMFGUwpnLq7OHCZLhP6w",
+          "width": 8615
+        },
+        {
+          "height": 4208,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116710237264057070502\">Man Chun Li</a>"
+          ],
+          "photo_reference": "CmRaAAAA-J6R2PmT9ZSyOvhNM7fWEeTsZvwAWiPxgpxC_9TAgvici-rTSsDBxbu35zVp2w1AXb8UAB5KqDv9ikTQMSBS9u-Rqsa76bGnCJFdgu-oMwgNHMyyk6e3oyfguaQ6JbaBEhCcE3N1ujzru7pYfSA4mHt9GhSzFYQv3NBgxJyK8FXADTy9lv9YsA",
+          "width": 3936
+        },
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109888032186249094352\">Frank Zittlau</a>"
+          ],
+          "photo_reference": "CmRaAAAAle9ygpFQgpTquJZLrtK-cgwQI8Aa7l8rWK8MA-CBfcSJb9oZzeAcPfu_-vghp77_sYp8RB9BUbdmACD4FtC94zkd6WVchKqTQxd4zqIAJxvTm00aOTgBrpCvnhKVvjpEEhB9BwwRrpcxnyBdgsdnOKfzGhSlkevr2l5BOZPKMTYnwdtCLPEDFA",
+          "width": 4160
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112086846280903862794\">helmut amann</a>"
+          ],
+          "photo_reference": "CmRaAAAA-cqKfJwVSWVABOrUCS26vlDCOxDk-IlSEfa6IKA9LOjoXDVNl7W3xMyWGhP-e5WmJPOvQ9qtex53A1IlNJ81hFLNlRAI0l-cGc3-UJd99bNL7KZ3WJsRh5A4-W1SEmEZEhDicrF9MzhQde3HIpbH2fqrGhQksctcMwK8Jw8KiJr4xzKLeVZAsQ",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116077318225991265835\">Andy Coners</a>"
+          ],
+          "photo_reference": "CmRaAAAABd3zk1Sa1UetE6agWULyRiv8KktmgrQ2fpMg5mZ-6CCL5GRjS_X-FH1xL_7jw6x0rYWMr6GKh0vjMurqcdt7RcBNIweCX6TxlEP3BrfOWM4o2Ztnh3aJVT4AkpzA6Y7XEhBGL9FNXWwIM8oQEJBxhtHoGhRdTQCxXo4IGMAJj205BPwzzWGUfA",
+          "width": 4608
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112391578917260933944\">\u0414\u0430\u0440\u044c\u044f \u0428\u0442\u0440\u0435\u043a</a>"
+          ],
+          "photo_reference": "CmRaAAAAEpOox4kTRaZtO-UdDd1M7xhV9UWmu7mbpktuI0CEkAgerCL0t1DsYOI9OgYJ5MkxGhsoI2SGX5ii0wSCSgaYT0vh5dWLHfFejwhk-4HL6zKSrRwREajPXIsrKNaAii8OEhCvGzcIjm3FmjiOEBfoTVxkGhS7E5lfjmzv04RyFJJcGm5ziuEBzg",
+          "width": 4096
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.hohensyburg.de/",
+      "popularity": 0.6430365122829034,
+      "num_google_reviews": 2075,
+      "mood_params": [
+        0.0034263579474302277,
+        0.020262279065015577,
+        0.04722512438504182,
+        0.0635948737810811,
+        0.03891052592910961,
+        0.09346414081184692,
+        0.07337666104749686,
+        0.00960282529586144,
+        0.10925234528279247,
+        0.01985407417953124,
+        0.05359467037323214,
+        0.00391680674217225
+      ],
+      "top_cats": [
+        "science",
+        "hiking",
+        "engineering",
+        "amusement"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.2962941326879009,
+        -0.7737940788866187,
+        -0.4248404421964514,
+        -0.5948062743816726,
+        -0.3224669134726649,
+        -0.40263566940920464,
+        -0.9676608301702627,
+        -0.661506532066087,
+        -0.19959597664459475,
+        -1.2968476567651714,
+        -0.8479218128959585,
+        -0.6511732428419267,
+        -1.1090522711859965,
+        -0.1966244189715873,
+        -1.217458423687298,
+        -0.416089783160004,
+        -0.5918125438205554,
+        -0.4731300458869795,
+        -0.8185466687281053,
+        -1.0442017220374158,
+        -0.6993036828974918,
+        -0.6088115162294532,
+        -1.2976494434201191,
+        -0.4664687833682765,
+        0.2588453592482007,
+        -0.7749433937171631,
+        -0.5344177499862875,
+        -0.42464925601896925,
+        -0.5542621058219532,
+        -0.35681821291988447
+      ],
+      "global_mood_params": [
+        -0.5079060742672307,
+        -0.9067159528036807,
+        -0.28193884665718494,
+        -0.9623805434257042,
+        -0.4263532172174043,
+        -0.7579215642134007,
+        -0.7555777996258259,
+        -0.7970839820717415,
+        -0.166123226749807,
+        -0.9275096662324893,
+        -0.8802528575251946,
+        -1.381913565144003
+      ]
+    },
+    {
+      "name": "Dortmund U-Tower",
+      "orig_name": "Dortmund U-Tower",
+      "place_id": "ChIJ5ZKRoOgZuUcRcAv_mDF8QNE",
+      "cat_params": [
+        0.13213168245342408,
+        0.04230438627331257,
+        0.2318683584634532,
+        0.23383700657395762,
+        0.16975244177175108,
+        0.12245072512523873,
+        0.2970942393113518,
+        0.1578906397961988,
+        0.18314977158925527,
+        0.16604841251126512,
+        0.0586457876258623,
+        0.06066204026940674,
+        0.13040543426725965,
+        0.0942383155310891,
+        0.18752939767392915,
+        0.09644901493541606,
+        0.25314558503234996,
+        0.2211006080048157,
+        0.12291074611901139,
+        0.08115016803194851,
+        0.3089034240830992,
+        0.17900025083792978,
+        0.1598545898848737,
+        0.1159169196132791,
+        0.03273987187308909,
+        0.23131363710140032,
+        0.20866897096580847,
+        0.2517108533060188,
+        0.11631296437358744,
+        0.2062689791556101
+      ],
+      "noncat_params": [],
+      "quote": "A giant U tops this vibrant cultural center in a former brewery offering creative exhibits & events.",
+      "phone": "0231 5024723",
+      "int_phone": "+49 231 5024723",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.515,
+        "lng": 7.4533333
+      },
+      "address": "Leonie-Reygers-Terrasse, 44137 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106641642344672043958\">Dortmunder U Zentrum f\u00fcr Kunst und Kreativit\u00e4t</a>"
+          ],
+          "photo_reference": "CmRaAAAAuXlwgigwH5haE1F2MxhcqISYG3sS-EBdINhmjw-_JmuPEHM2Ldfhfwc1zRD-WdzyOYRE31RN8SyxI0yqgzc4hBaESgljmzDT0uc1MSbqI0glhzer_Y2LjqBBWLiFMmNuEhCKP90GywZ6tO1AdUoXLyXNGhRE3Ucs5dhyxBDBa4accEinebJbLw",
+          "width": 5616
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112640911431867598939\">Florian Breitsameter</a>"
+          ],
+          "photo_reference": "CmRaAAAAQaMVJLwIJBMy5UIfWSzbNx7Mx1ACdUXqU8u1X9KgOdS9WudutYMHbvjb_xcvqOawO888gPm_Vdp3O5heoeNz7bv5bAeabUV1wQQfa6u0YcV2-MAtQ6Eq_pF2pXSN1f4REhC2cyZfHo5Q70VwYAqg-pbPGhRdnFoOgFUkvEcLvw4Cx3kH8qJv4Q",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100229438232861900025\">Markus Steuer</a>"
+          ],
+          "photo_reference": "CmRaAAAAyQN1iIbhxGuN_Du52_KWgsI_ju2kAaGZcwygmbhDianeywdu3b8I1Q1RzJx3oAvJ36UnXEx41U-3kevIsPtQj7LtkSd4cOjnS-FGoXeS94dv-ysugmdITDFVsvxXhXQoEhAJBC5e3fSCCVrCCceKhKwYGhSq1eZkfuQTiTcCmUxaXjWlLpRVoQ",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115742294340124605102\">Frank Simon</a>"
+          ],
+          "photo_reference": "CmRaAAAATO2lhvyj-39QUAEXDnOVlpOmsM5LGrmCFySLhzji37NsACDqJ8SMsL-J96VDhr-YrO-CbpKqR0anLHc-r4PFq3lA31yuZASREktcfIvqLzMnUOGaxzRquUvFn8rhHNJdEhDKDWP_YWqzB3PM8ul-YWm2GhQThkZh4izAUNLvnKLEinzXkmyjOw",
+          "width": 4608
+        },
+        {
+          "height": 3333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111117650736198772211\">Marco Beyers</a>"
+          ],
+          "photo_reference": "CmRaAAAAUOPP46dqLs0_7__DrXlXO3rqDLKIYf-FuDtqSTdlJQpTaPRIdiHY26UXHMUQUw80nZpV-yQkptkp39c6ACDfO0FWuCh8mEPCwjBn4dCkMo0tbpcb59a4ZvEftrOwdACbEhCweJr7eKcEJGyDB8t4LwdiGhTre2MI7Y38r_r7gFquTrvA6m2HMQ",
+          "width": 4799
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100229438232861900025\">Markus Steuer</a>"
+          ],
+          "photo_reference": "CmRaAAAAEF644YeWJXNrdMswjmaCfTO5DExzy9UvMN1b3HWoLvqm33jp5s5rGHSrRw21G5FTKOIMLCL8FfKprYtZb4I3e4cT3XqOobcz8bbOEjVfZkn10dbg_QY7iyj0pjGZd1nrEhDMz2nsG59objg6Nq3NsMjeGhSY1pGXAC3b-tQIkfRsktSqgNtn3w",
+          "width": 4032
+        },
+        {
+          "height": 3268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103080998411361263288\">C\u00e9line Lenaerts</a>"
+          ],
+          "photo_reference": "CmRaAAAAdO2rlWlTnbQlZOM2UeuwH3uk2_fcgfXVFE0lxpZX5uU2Lbfy37a8TaffMg6FZF1FQA_UJnppWZfuf0IftTEAexawRKepjhb7FFy1ktKr1UyqSzIAJKCRhQS8LXA_GtQjEhCDckU44xnuUPg0u6-HEfjRGhQtbi9gk_dOv6q0iuDwHxZjZVHT4A",
+          "width": 4895
+        },
+        {
+          "height": 3462,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101248731374937225527\">Andrej Gelenberg</a>"
+          ],
+          "photo_reference": "CmRaAAAA7pr4T8exZD2lTYx6b-wLmkVe8SFj3-uzmDVhLczm6YVWKGGz5KXdMRMXCge6Inm0myHPA6P5LXAjqBdrlNCv3g6NQueygiqHzg-OOZtJKSwKzenljpQWKM1Ds4_yjRYREhCzpe1NSIdzrngyAZrkwLh7GhSsp45OhH9ld5RUp0gr9UikU-gDXg",
+          "width": 5198
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113810521473671861509\">Anna K</a>"
+          ],
+          "photo_reference": "CmRaAAAArC4XPupSyKtPaxe2B1hr7dq9YpIqmF80TOJxySPO7WuI4CjFtf8_EBFKkCR7V5KybltJgwvPbbgalLnmFFOgrUxlBulLYVFpjLkZvpLzY4I6eE129khYQHtnKpl8z5FWEhAJ_y8ArDSjakJOCnyrzugTGhQj3kl_nxtjkwSyzYRkhiZCshBfVQ",
+          "width": 2736
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106708736990598816899\">Vila San\u017eila</a>"
+          ],
+          "photo_reference": "CmRaAAAAmi6wmADZXh9I3HgfBB_PpK-htvvn3tex0bEBBpppWVphd-77O_uYfowqDJTw30Vyu_mWVyjp8GYV4ghJfasnxUp2JHgpX_Kg2VMaiM9x_01yjthZhc2duPRpTLOV9ml6EhByJ3d4K583-KGXGeVzI_40GhSO-dR-sdfcEcMj0SAhBtS5ZbEe7g",
+          "width": 3024
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.dortmunder-u.de/",
+      "popularity": 0.5811190741583632,
+      "num_google_reviews": 1384,
+      "mood_params": [
+        0.0040951599028997985,
+        0.019275971716686345,
+        0.010950509816285767,
+        0.051506214719907906,
+        0.011218549315728075,
+        0.07649981358968601,
+        0.06989886564224083,
+        0.014342693318401808,
+        0.04019252262626414,
+        0.02298255150117462,
+        0.05708343973092541,
+        0.006924847682915082
+      ],
+      "top_cats": [
+        "science",
+        "architecture",
+        "art",
+        "books"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.35290932176280987,
+        -0.8363754515055856,
+        0.0709896621205351,
+        0.01832396558816573,
+        -0.8333911815251571,
+        -0.30254165410763545,
+        -1.0768981002902915,
+        -0.5913709575782826,
+        -0.3473160209572016,
+        -1.6513273114758198,
+        -0.5697896224756376,
+        -0.7620132873955424,
+        -1.33042138686641,
+        -0.81925748922546,
+        -1.1157449690241221,
+        -0.8658567443952029,
+        -1.1720215278033483,
+        -0.7616754001933768,
+        -0.5473974254075182,
+        -1.0860067944169083,
+        -1.1152414803590291,
+        -0.7451312542576586,
+        -1.0957771030581636,
+        -0.48785242159748327,
+        0.14924166597121405,
+        -0.9140645015704293,
+        -0.7638026413904783,
+        -1.0960879018408265,
+        -1.1040177606179467,
+        -0.8489401727965483
+      ],
+      "global_mood_params": [
+        -0.46290782906383326,
+        -0.9362647505144728,
+        -0.9350497651064787,
+        -1.1487448266449498,
+        -1.0341158175786807,
+        -0.9712482674027632,
+        -0.821393696694983,
+        -0.608078282621107,
+        -1.079693850689654,
+        -0.8059270999779206,
+        -0.799522026934199,
+        -1.198023379854102
+      ]
+    },
+    {
+      "name": "Museum Ostwall",
+      "orig_name": "Museum Ostwall",
+      "place_id": "ChIJZ9UEqugZuUcR2EAtijWnLqg",
+      "cat_params": [
+        0.08991935675210402,
+        0.04237104694085319,
+        0.3426795838745924,
+        0.5344036745681682,
+        0.1305591418823833,
+        0.1934631066427087,
+        0.2804785471707955,
+        0.2769010918821084,
+        0.13531248680875632,
+        0.2342824277808604,
+        0.06393398791812713,
+        0.04733438700098959,
+        0.1695739701042776,
+        0.07533329529387234,
+        0.26760242572844445,
+        0.15024191150259755,
+        0.43781150722096446,
+        0.2940797666969831,
+        0.15085263834301588,
+        0.10206773473329896,
+        0.34005056541838097,
+        0.13586825998767865,
+        0.3152692261892838,
+        0.08197348509661516,
+        0.01208919246493135,
+        0.28389819139217803,
+        0.1835794786072971,
+        0.3448211239674374,
+        0.1236214401607148,
+        0.1389006308127115
+      ],
+      "noncat_params": [],
+      "quote": "Museum based in a former brewery boasting an expansive collection of 20th-century artwork.",
+      "phone": "0231 5024723",
+      "int_phone": "+49 231 5024723",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.514999,
+        "lng": 7.4533332
+      },
+      "address": "Leonie-Reygers-Terrasse 2, 44137 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105602139346725364107\">Jose Luis Cazarez Lopez</a>"
+          ],
+          "photo_reference": "CmRaAAAAGdzlRYAwdbD_9S6HOmreUYtHaCFbKAwFIgj0IetD9QjAqGBnt3BvEo2DbDFSwJAuTc2ShEDGA8vdNL4t7_9b7_9UiwsMozubyuJegtsiwaDOghLiEM23cMLsIPz7AEfLEhAyoqu41cTk3coQxkTws2oZGhSQ0PsJXpFA50ku-8HygW7HYzUUEQ",
+          "width": 4000
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114596408285230164343\">karl-dieter patten</a>"
+          ],
+          "photo_reference": "CmRaAAAAlos_9DGCN8zvsvsOSd2AA5CILQgcLfdkgBgOO2P3JY463TbwI-W8dWu3poMyH8HM97NUDGz4yqcCoy2HGq2vu31T9_KLTzWZ0yHEOMPdNsQHfpa6qcSqvtnTnH5PPpYDEhBl6WjBgumH_xrkmHk_AilaGhRjGq0fE1HqHgyVuWlm4ocriIXU6A",
+          "width": 3264
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107657567171618545598\">Sirajee Ashraf</a>"
+          ],
+          "photo_reference": "CmRaAAAAZDEPzEe5ov_ncxWinKmPIfi1P9W2_8Q78tvtK5m3CWdblOmY07_nZh3gjsQlAsAD6iIQxlc4FOlf5QYmWL1UcBrFCgI4s64mORV2AgoG4AQYIKb5uQJNj4dj7qYUZVNJEhDS1imfJuSgheqsGA27C4loGhSSbv2EWLJ85vcDg5XaQSm4Qxt31w",
+          "width": 4000
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110686579573568689368\">Michael Preuhs</a>"
+          ],
+          "photo_reference": "CmRaAAAABgOBQaiY5sK30rgaMQVz3F-8dWjgW0NIWAr5NIrGNLntGRGskeedP-uT3IZS2ADQn2KQ8PSwgAkHeattUcGw5Zz4DiUv86Hrrzf3T3U1yRJpQSKEk5RJ0D5EY2UnSH6zEhBBgVWUsjMhyUNf3v6YGOQUGhTdLios6VCUvHK9BHuAINkZnE_r4g",
+          "width": 5312
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111809617950595087110\">Mohammad Alaaraf</a>"
+          ],
+          "photo_reference": "CmRaAAAAN0PYpgjG8StMU3R3cmk1uDKpgvi6ocPK-5VgBTdBd_y--WUr6bkvdZkZOywZIriZGim9-bhC9u6Jt73dIfFEZZkjw82rQCd_Oa7QGoXFouzMftDkfrzJ8nagxxTrITNGEhDpHMwsAgIPMScQXM-nNsr2GhTgsVkpygwfqWOuVANiaGfu5v7fnQ",
+          "width": 2448
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115245355694874741800\">Jin Wu</a>"
+          ],
+          "photo_reference": "CmRaAAAA42onTgqgQLP_xvaqMfD1L_JiWeRK5Zj8ZRKK1ZdwRRHotLDszL82V8Se_B1IEkJAr2EeTtQtP5GtxlmSWkSRJJVaVaPfyjuPJxVyEM6frSOTuLWBlshg8xkIug8chkqkEhCb0WQuPY5GKzYADVVVkqHAGhRjFoGoHzS_cbPiNTV6M7HMyFd7MQ",
+          "width": 5472
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113286801286665386570\">Serhii Tymchyshyn</a>"
+          ],
+          "photo_reference": "CmRaAAAA-YHTL1ttkMcQcT6C3QdnR0GK0kr4dzmpix7ITwJy7LqgiLNtwZR-_tEk7d5UNdPmP8zRFaFsXBxAQ3NSDUWSyrmc9tj7dNdSVrMY3V97vALhXVN9b7tW3KtfRRgRsdkoEhDzVGJFDs8aXq8nG_y6PN5VGhSJBHrV-U1H7XdpxPYYrlM4Nv6whg",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104889408805183679978\">Revier - Steinhart</a>"
+          ],
+          "photo_reference": "CmRaAAAACjgiNSsgqzd90uf-1KIf9sKNVhE4xIGNTxEnVM5jkh9yutady5ekOD87eRDGHYNhecpcwEi5RUo3tokOVuul-064Rc99bc9gfmGJg3HmcYETmrWrh8TmA0iLbkHSS8YOEhD3S21BQma-gP9OAJaVObPjGhQIzlaGjdDzGY5ABmu2T3zG2wIXnA",
+          "width": 4032
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109803231967236673875\">Ahmad Shanwan</a>"
+          ],
+          "photo_reference": "CmRaAAAANxNDsfH3wKzkXa27EiHXDD2BgUXY7_ezsM1OqeIlkIU8oh9Qnv9uPwJqriWrMeUv7HRvsn3C3LL0bpicoPM07ztxltQTxOWbQAO63lLzxgoSQVuc9tT88fIIc4yPuRFbEhC4i90ePnIbl5-WnooPcN6mGhQiIMTV_7qiukU0Gi6f2JDUYaHdFg",
+          "width": 2560
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110275039742346216094\">maxim lapizki</a>"
+          ],
+          "photo_reference": "CmRaAAAAM6fiMMKl2JsLH5ON6OTx_-8lY3pF8A5tr-N4BblZJ2MLzI-ezkNyfcwYSyviXVla0xNG7wKSPs42A5iE5OU96TWB6aCD9ZNFvtFwH6iPOAnOOmi2nI67nUJicBITevA2EhBFtC90JxfPg4S6ZFBv4GP1GhRnEHb44pNwJ4tOVuW7To0W1qgp0g",
+          "width": 5312
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://museumostwall.dortmund.de/",
+      "popularity": 0.3685896301204775,
+      "num_google_reviews": 224,
+      "mood_params": [
+        0.0055403353172035485,
+        0.07196723010070764,
+        0.012092459144823249,
+        0.13100660106324977,
+        0.006495153152848386,
+        0.17735288351799955,
+        0.12125523055267401,
+        0.058365072682605657,
+        0.05222172999813329,
+        0.05482670949069627,
+        0.1283623013669546,
+        0.006467021103062722
+      ],
+      "top_cats": [
+        "art",
+        "architecture",
+        "culture",
+        "original"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.8650896011409192,
+        -0.8355784087906678,
+        1.1595314183719427,
+        2.1662397576827574,
+        -1.075148983804262,
+        0.6448110308851883,
+        -1.2537195510910237,
+        0.7303364109150727,
+        -1.0552613057668696,
+        -0.9258196635745318,
+        -0.4610299358118895,
+        -0.8885885219839288,
+        -0.907158716582565,
+        -0.9581721102430171,
+        -0.2450300013423035,
+        -0.23584040729299718,
+        -0.170016450220044,
+        0.0016589510479527651,
+        -0.19073087810767766,
+        -0.6692059681988488,
+        -0.963336616370104,
+        -1.166499129741212,
+        0.6564960616872055,
+        -0.8044914803879945,
+        -0.4453392921116821,
+        -0.5240223307953364,
+        -0.9988890275382225,
+        -0.4912074128939715,
+        -1.059900666773117,
+        -1.312173925524046
+      ],
+      "global_mood_params": [
+        -0.36567372691605576,
+        0.6423135068147036,
+        -0.9144893929660658,
+        0.07686939918069928,
+        -1.1377813512661905,
+        0.2969808013119826,
+        0.15050511646774875,
+        1.1473462489575388,
+        -0.9205632583787362,
+        0.4316380317226931,
+        0.849885289364294,
+        -1.226011634089399
+      ]
+    },
+    {
+      "name": "Steinwache",
+      "orig_name": "Steinwache",
+      "place_id": "ChIJGTGds-QZuUcRlNMdidkuxUg",
+      "cat_params": [
+        0.06210241384928387,
+        0.055578958035724484,
+        0.19946036663614647,
+        0.18561740163354173,
+        0.07358641640433249,
+        0.23590327696935667,
+        0.2569712547092432,
+        0.21499364236500812,
+        0.15742584125255935,
+        0.21406003156460676,
+        0.03946394594470738,
+        0.041700857983260516,
+        0.14800456115204194,
+        0.055704099289224984,
+        0.33024349387970414,
+        0.09419774073607642,
+        0.2576382347467183,
+        0.2964594767764841,
+        0.06653466132296834,
+        0.1025100778901769,
+        0.25915270687715203,
+        0.0878266521446585,
+        0.21435521698467952,
+        0.07419462321695526,
+        0.048937937634841853,
+        0.16615299102833245,
+        0.13430045106183613,
+        0.23636041631452392,
+        0.08907871579856988,
+        0.11672021684394895
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "0231 5025002",
+      "int_phone": "+49 231 5025002",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.5195908,
+        "lng": 7.460735400000001
+      },
+      "address": "Steinstra\u00dfe 50, 44147 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3001,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106655147406959670113\">Hel Lovelt</a>"
+          ],
+          "photo_reference": "CmRaAAAAS_62sQxCXRcnOktyF1729iVX51xZI1shyZOeCtWCoL23wXq8MkEL_GEv2pC-h8U8TcJ6aX3KzAxX0ehxmZCxugCXt6CxH-8BJoyG0-CbfGtrHusP_u0RmupmPaNtp4ziEhDRi3QXJRj6ssV7KXUq3hTDGhR6MdvK-2YXbKtueqLT0mp2a4PiSQ",
+          "width": 5331
+        },
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104503479096925769082\">Miguel Rodriguez</a>"
+          ],
+          "photo_reference": "CmRaAAAAI3KKxLzj4H0aoWCxFl-Jf_E8D2AB2hKHL6gVH48RZs6pICP9-cnSIl87Lr0Un71WgQs2zT2E9JuIcUZWrECtEivEwsTG6xKSInTUdszqNst4zbrdRHwL5lP4ABJrTmN_EhCT2FChmEojCVukpYjuWZ-sGhTUcF1fb_Hu5FqZFvfdV1RAlWWj_w",
+          "width": 720
+        },
+        {
+          "height": 2871,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101089144050593341594\">Panagiotis Georgakopoulos</a>"
+          ],
+          "photo_reference": "CmRaAAAAfsKZHamAfU26kSc0zQ4vgFVMuTVBKAVpxVziedLowqkQgNRCaWMUxX4b3HOqjZSb74vOZilnMZGtzT2wdEL09RmBGMm9ft4Yddt4zTz3lRGXw-kSwXdqpCy38_-MyNa5EhAMw-4bYi0nf_Tzq9Cry5-EGhQZIl5Upo0XCn8qAA2S-wV5_0XboQ",
+          "width": 2871
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106212324821972051602\">Rick Stapel</a>"
+          ],
+          "photo_reference": "CmRaAAAANS60K7ceKaPK9hzT7QL_HuOQ7ZnI_NfM-uIeMnovyFEx-E6NtFAP84a5u0_UAn71vBcWwPbNL5vafo_JvTIP-HgQPy-a5QQ9xrFhxTlzzjFI7FCNvXxSoDFZAkqF6KI3EhAFPKmVAJXtfnnI6d2EPuN6GhRSnO8Dd6hn3lvPm9BVthtgWM30vQ",
+          "width": 4032
+        },
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110892976300502255954\">\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u041a\u0443\u043b\u0438\u043a\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAN4ZB1Qx8zdpiNtNcXX7xfr3zX1Nb02tlGIazEV4-d4M-Xa8BqcDl7tf_Ogixl3JkKCa6oGwr-qKdgb70-uzGObpPHGCTfbrtO-3PO1xX5ibrLTWmEuJCjU43LGZD3VXgEhA8jbwLHsBIzIgYz9Yx9_KJGhR1dTQP9ExMfkku1VzSMum7rlNXjA",
+          "width": 4000
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112304532706667988255\">\u041a\u0430\u0439\u0440\u0430\u0442 \u0425\u0443\u0441\u0430\u0438\u043d\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAaUEuUhGB5pNPFqEdZ_YszvOykfnE3rC05F2L9equaMRt-kbEaEaY0_d8-gzRYlvuFy7vGxYzfoqH8IgP5fqkgTZiXmaUVS48jKf41n8vmge0CF61vpGEJvBt5roxi6lJEhAEIw0X81WitzXi8F5qvW-yGhQXLSlzyxU5vgw6ECFL9Tww0Kx4AA",
+          "width": 3456
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110630496068347545990\">Ian Le Grange</a>"
+          ],
+          "photo_reference": "CmRaAAAAvPvcTTaiYoIlJ5f0k-sxrmURIscSGaKjDdTOnfL57unpr5-moG2AFIWVuF2pkwBiarbMWoktCn1dRuRG5NOIIX23BFPKkNLFEXGtcAJnY7T5n_xmDaLt7Q7DNwxtyzsPEhAVl57C-WA4YvomfUkvaRM0GhRtnZ19hgb81zCkhPHM8nLb8n1Qrw",
+          "width": 3264
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103076630180069991059\">Kevin Hagen</a>"
+          ],
+          "photo_reference": "CmRaAAAAML4-DgsMC30VROODGv2tR1GQV-A8rv5SZcrYhp__TzcD4mY6sBJIqbhB8PFfCmv1cL89D-90-Tb9uSBz-0cMjz4Lqr_XweQ0sWCXEBcPVInW8CsKUmTCtKpxnvEHq2_9EhDkEF4YPoLTatZcV-ED7Xi9GhSckKGgIMoaw1-8oMA1AYvSZz_uOw",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107465718452504981847\">Sheila H.</a>"
+          ],
+          "photo_reference": "CmRaAAAAhyFq7y3AQP8Q7TXg5OtxyRGgN1K9XK3qP-Z2kZTbZu2qRJb54u_UxpXfXBwR4ZwbCkL1Kq5L_rIsQiMXJ1z3070auzOQ4lWiNQsx1GQdO45HJn6AgaabtmylFHnG1az_EhALCF8If7zR4ezJCq2sxnATGhSbxl6v7M9L34bimtcYjHtkMzczHA",
+          "width": 1960
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102901620228346548354\">Tomasz Orciuch</a>"
+          ],
+          "photo_reference": "CmRaAAAAj_VcNZ3qj_DUiqXYtlCCu7TMA0ivahlaYX6DZlLLmxdu7R208a-lFTXAhRfk5oG_UA3BXLOleL2SPG34rwCoy4C9Oe9ct-XfrFteemf3Zc0hILOgz6UUfiJiLiB4s0OvEhDhQimC19Xvyo-RMRpEyMn6GhSRhFE9C26-dMJQg3lH7YOC6fQo9g",
+          "width": 2976
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.ns-gedenkstaetten.de/nrw/dortmund/besucherinformationen.html",
+      "popularity": 0.3404301445129088,
+      "num_google_reviews": 163,
+      "mood_params": [
+        0.005390280577186362,
+        0.04107962166702165,
+        0.00820057951962181,
+        0.11578847961633779,
+        0.0044173478520626985,
+        0.06908749850039883,
+        0.10025222823844762,
+        0.03140772437725985,
+        0.01637708221458769,
+        0.04937278876203841,
+        0.11071289859324643,
+        0.028894359191751127
+      ],
+      "top_cats": [
+        "books",
+        "science",
+        "history",
+        "culture"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -1.2026045177133982,
+        -0.6776551580065855,
+        -0.24736664347385715,
+        -0.32626398101034615,
+        -1.4265764201340305,
+        1.210991300457074,
+        -1.5038802739960417,
+        0.04280409121330227,
+        -0.7280051690181321,
+        -1.140837101077138,
+        -0.9642926623713807,
+        -0.9420912086624087,
+        -1.1402418644325614,
+        -1.1024079951904946,
+        0.43612964699452555,
+        -0.892223413888624,
+        -1.1476442210850986,
+        0.026549816909267582,
+        -1.2670145276885751,
+        -0.6603918936035124,
+        -1.3578761365918404,
+        -1.6358303577364426,
+        -0.48129195159708443,
+        -0.8770560731909911,
+        0.6156215496232796,
+        -1.397388933739369,
+        -1.4606292785165373,
+        -1.1958103037520769,
+        -1.2684153635071431,
+        -1.4646894116912583
+      ],
+      "global_mood_params": [
+        -0.3757696901978686,
+        -0.2830488509971967,
+        -0.9845612354026421,
+        -0.15774010391185764,
+        -1.1833834536469836,
+        -1.0644582556499114,
+        -0.2469683623824614,
+        0.0724022953376008,
+        -1.3947408044663416,
+        0.21968134795460215,
+        0.4414745292163169,
+        0.1450359805982225
+      ]
+    },
+    {
+      "name": "Brewery-Museum Dortmund",
+      "orig_name": "Brewery-Museum Dortmund",
+      "place_id": "ChIJO7nXdf8ZuUcR0ln6ZnTlbL0",
+      "cat_params": [
+        0.051993221165798,
+        0.023390885909807063,
+        0.0950286451451455,
+        0.06960792163295182,
+        0.09347589044855767,
+        0.07823110836397078,
+        0.2658076267435098,
+        0.09909787623054726,
+        0.08379416539017771,
+        0.17005671146812046,
+        0.025507947413126602,
+        0.06580301983605696,
+        0.12043973701969803,
+        0.0391755179617624,
+        0.1975334335587309,
+        0.04383376051276745,
+        0.1303961391308091,
+        0.15966199686013238,
+        0.10115710195866878,
+        0.0761963143961753,
+        0.16282018748176222,
+        0.12212793092027006,
+        0.12190825808822915,
+        0.05202254192720906,
+        0.01777365385559636,
+        0.13193878833706968,
+        0.3502169631889176,
+        0.16983606580215563,
+        0.05143728558322218,
+        0.09999435198778855
+      ],
+      "noncat_params": [],
+      "quote": "Industrial-style space with exhibits on Dortmund's history of brewing beer, plus tours & tastings.",
+      "phone": "0231 8400200",
+      "int_phone": "+49 231 8400200",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.5293906,
+        "lng": 7.467446899999999
+      },
+      "address": "Steigerstra\u00dfe 16, 44145 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102670189914339120833\">Ronald Stroehlein</a>"
+          ],
+          "photo_reference": "CmRaAAAAOG-cgXKJyHvfHstotw47IvkmdHwLKxNBb6mGW2cirdSz5nKPHKpcitZcAkHPu9IMbzqhM4oe4rhox01jycmYGh39CjUNnkT2QGJSCXuO3JbFi2_eC9As4O6tq44UNk6QEhBnXIR5y28f1Vp5--KgBCjlGhQ1pv8zj6Ek2ub5n1T9WfkMj8iSCQ",
+          "width": 1365
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105543608769715992196\">Mark B\u00fcsching</a>"
+          ],
+          "photo_reference": "CmRaAAAAyzOKLhwBUx067ydCfDLyUv3oMCnSsy4BySyZhoNf0HfxuBoLSHrpdHZQxRMwACYMxfEBvRKo_yHLNSz-Xuj0OewDXsNE2MMYdw1oeBY0VyQp3Klzby15YduuHJNDceVdEhBx-oNoCap5hCIdyyU55HrNGhR5KP9W89tnOqAl2TJm0jWPvxenkg",
+          "width": 4032
+        },
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117602249983270883555\">Karl-Heinz Thias</a>"
+          ],
+          "photo_reference": "CmRaAAAA3urblsONwzy_awe5EA_7CSo7pQrbgRC_MXmb6VKV1L1UNyeea-ZPOdBU3iCPAb5iI4APtWQot1ZJj4CIYLp_kI-jYnws4FUCgkk5iG5DbxfZbKA8uEy-XhHLxKLUZZ7lEhAXpGbAnHeArMqRzw90xKE9GhSZFHlsHua7G3hYuk5rYSussP-XNA",
+          "width": 5616
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104293171905582283367\">E. Ayoub</a>"
+          ],
+          "photo_reference": "CmRaAAAAosWU4yNXC-0pSRhPTYRXy8-QwzAFQjglWMBz_Cq1iaEUMdENSgYNkVudNthG0Jq72oYWrEXNTyFFpRY9GQ7JiTMRV-NY4-cdy3zEAylkQhXXr1vxFw4NNO0wl1D38C8_EhBzdwsIeVnae6yApm7U_oqzGhQz2GrLgKVXPT6UUKWbvSNPOrMGEw",
+          "width": 4032
+        },
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117602249983270883555\">Karl-Heinz Thias</a>"
+          ],
+          "photo_reference": "CmRaAAAAHMlLMOGf1luSk7MpB5q3Lpzt0VO0IPV_Tj_JKZi-L3ElAQ2x__DZT7OATVRruTwJ1SGIai0bn9ke6y-18c8mk2fDhgp7g4KkZ1HbwwVqAZ3Eif5apjBvXDX7IyviQ0rKEhBRIJhxO3QYS2Q_OrhBt3GIGhQDLMsuyUs9nd-H1LZw0Fp6EB0a0Q",
+          "width": 5616
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102660188281015117234\">\u0415\u043b\u0435\u043d\u0430 \u0420\u043e\u0432\u043d\u0430\u044f</a>"
+          ],
+          "photo_reference": "CmRaAAAAxEJaVrPRXqGv3Pppo3FV0pzingQsizITlJLnsHemlYbsF8WZRAyI2IHgPH_VMz3qvpp-SFi-b_K86jD_JUDuBMZg3UeQRabVt2uBCrcyHVaolXQobarMhyMg091tk0x_EhAiVipfEtAh4UklfGfjaxbTGhQ3gtw9sQSj-bmmc7oC86hhN3zpEw",
+          "width": 3024
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100073631059367034868\">Bernd Reckmeier</a>"
+          ],
+          "photo_reference": "CmRaAAAARLDrcavOjzfBC3h6x9NShvXqxPtMdBLuaahgQ32lCOP-5Sq81hLpB0Mm5wZcsyMZlzLbnELUsqYQjZJOrQqzx9NGgBuRQiRuc2k56D0F_XgVv5GGkcv_KA4z3cdsww0gEhBgWhBRN4EO6QgxKWLTj8FbGhTXkY7eEHH4WoJJ74OATp_-ifTcbA",
+          "width": 2976
+        },
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117602249983270883555\">Karl-Heinz Thias</a>"
+          ],
+          "photo_reference": "CmRaAAAA6aXMOl4CXBjyO2A4JZhQK7vNSGwWLJVpzwkzTWGUVEdnSWxK1oIZx0ldpvQTTeGOmR0j3VUVYLe0uCQfw47fOGKXsLgJwPOTYwjxNQw6bO6Dp0Hc2teqzbMP-Zn8Ugm_EhAv6Yicy2RiDlT65VfTFE4FGhTJV9lS5o00sfe5zlCeC4oe6Bb6jg",
+          "width": 5616
+        },
+        {
+          "height": 3744,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117602249983270883555\">Karl-Heinz Thias</a>"
+          ],
+          "photo_reference": "CmRaAAAAvHUlyZSQLfLEmKumjTwRHsXlbzoQOmyw7j04FomLUiSsXQc_TBnU79NYNJZT_ej3qXMyY5sIV-6vQNk4ZAyn-SKFpc4QTQj0m4Tyd1Kt0-EoH2T5c_0BeMrhkkR2lxIWEhBrmJdT-3AFySxguQoKDZtJGhRCVQRbMPciEMxKfoukDlYjaVhy4g",
+          "width": 5616
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115981676704397828418\">Peter Young</a>"
+          ],
+          "photo_reference": "CmRaAAAASRjO04RWK_GuXAbeRAtUiTS7tz01LZBiPhfw7q3jZjI1d01i6cmRaBrFEzDvnRurQbTj7rFKteAByTGwM4RrUSGHxL3smCQ7_H27_klv1_QCIYlfNnaFvZQP9cQiYkQ0EhAWMiRRy0FQ2d7P33W5qhH2GhR4ACp3FuUO--d5SDgzFcBxcqo8Fg",
+          "width": 4160
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.dortmund.de/de/freizeit_und_kultur/museen/brauerei_museum/start_brauereim/",
+      "popularity": 0.45343020739577616,
+      "num_google_reviews": 513,
+      "mood_params": [
+        0.0017164400017216945,
+        0.021886135362165934,
+        0.004328290062527378,
+        0.042507641980288724,
+        0.004481779711634705,
+        0.037826623256767604,
+        0.02895489326564894,
+        0.014336638856157418,
+        0.016940025868376025,
+        0.014760280586686193,
+        0.04085058319682058,
+        0.002544707808947794
+      ],
+      "top_cats": [
+        "sport",
+        "science",
+        "food",
+        "music"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        -1.325263694787667,
+        -1.0625188166188273,
+        -1.2732400520423055,
+        -1.155293346737448,
+        -1.303891278872843,
+        -0.8924609297741614,
+        -1.4098450626008865,
+        -1.2443121695208723,
+        -1.817682352382368,
+        -1.6087085158973466,
+        -1.2513184827803858,
+        -0.7131884356712797,
+        -1.438112612440811,
+        -1.2238604761850542,
+        -1.0069609752903954,
+        -1.4820806695310966,
+        -1.8380651952335283,
+        -1.4042999963073985,
+        -0.8250735788926877,
+        -1.1847166643474443,
+        -1.8276906245073425,
+        -1.3007320541540937,
+        -1.5236154359777596,
+        -1.0838868506588788,
+        -0.2816704639320307,
+        -1.651170335313017,
+        0.5624898751223619,
+        -1.6279783275259236,
+        -1.4956351775467576,
+        -1.5796986903141454
+      ],
+      "global_mood_params": [
+        -0.622952548592593,
+        -0.8580668158818348,
+        -1.0542803641622558,
+        -1.287470929360648,
+        -1.181969351827301,
+        -1.4575642932313024,
+        -1.5962421157444628,
+        -0.608319708725348,
+        -1.3872938003291861,
+        -1.125470665567417,
+        -1.1751536197687655,
+        -1.4657939151915034
+      ]
+    },
+    {
+      "name": "Museum f\u00fcr Kunst und Kulturgeschichte",
+      "orig_name": "Museum f\u00fcr Kunst und Kulturgeschichte",
+      "place_id": "ChIJnV18uuMZuUcRLymphvGA7q4",
+      "cat_params": [
+        0.08500830622111069,
+        0.0514917639047561,
+        0.3253342262626213,
+        0.542419725696929,
+        0.10940540565879583,
+        0.25930695922991054,
+        0.3271025125037228,
+        0.3529892943479076,
+        0.11696013526436425,
+        0.2819792974634707,
+        0.06813575512106795,
+        0.057960520357581015,
+        0.17518029963656503,
+        0.05561854536354795,
+        0.34097718401747024,
+        0.15770543957925273,
+        0.42937452989548164,
+        0.30179620240754695,
+        0.14766170643984708,
+        0.09118518277178259,
+        0.3358887396347118,
+        0.12928448846073287,
+        0.2808125008101545,
+        0.08149255912810513,
+        0.04824635652985908,
+        0.2740374398044887,
+        0.14956619872807225,
+        0.3329436726581446,
+        0.1248355769214074,
+        0.1330504160170442
+      ],
+      "noncat_params": [],
+      "quote": "A museum of cultural history showing human creativity in items from antiquity up to the modern day.",
+      "phone": "0231 5025522",
+      "int_phone": "+49 231 5025522",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.5166607,
+        "lng": 7.463029799999999
+      },
+      "address": "Hansastra\u00dfe 3, 44137 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108288456939485171539\">Zil</a>"
+          ],
+          "photo_reference": "CmRaAAAAtPGAX-xEDX8VQVsRF2vi9XTw89D07liF7fgKNjgxhR0C7OAb9QWK0XK6mSQs6q7JRm4igWFz2AM7KfL5hG68Pf8zg0fe6kogR4IzClcoGDpxIl0ZPU1dG4qDZzoBLA2HEhCF7OQTs3SzGshml8I3qvarGhRujZV7LNCYLwwvRBbKH8GlBXGYvA",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115849782306108666206\">Art\u042dm</a>"
+          ],
+          "photo_reference": "CmRaAAAAv4NjXi7dRiwuIZuRYGH6HS9S2JM-0KUCzqPDTE-LowhHofwotOSkDzo6FbTjVhfcmLmS9LTWkQUQw7nogJp024DG9JvPejwY_gwrr4gNKR0SM1ql8uT8mcaLZUO-6V2wEhAuhm6DynhKFxXmp5l1A2gbGhSepiNN8--fAepal5XzUuqy41sFXw",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114627060021977016137\">Frank Siebrandt</a>"
+          ],
+          "photo_reference": "CmRaAAAAGVQzAUj25zSOv7bVziwPQKo8mVgvN0CBh4q-9sG3iRtFyeTlT6edRopCucd63j4gZPPaGzxNlDzmtJnoCNlz7pPafJhwlmOf_tRNAcjUUbq73ee7OvNV_JYl8G1X8MohEhAAcKZOsqnPhSnbjIg_HRiYGhQH2FRMpqFtn7ZYJP4Ioc-e57F0cw",
+          "width": 3024
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112797747849068472259\">Joseph Turlepin</a>"
+          ],
+          "photo_reference": "CmRaAAAA7BJ-mihUb-5DnY5fZMphlRJMlyjxsWLR8kJVH5UQ0EADjis0h709ja8GmswyND29y760z6iHhs32i9lXpY0Fb1oeQJ-k_yNW3m2jwCMEGzW0K0Wbt9lFvAgd9Xi0CbohEhDXvtJa4eUiOxt09dfI9HbBGhRcZJYYBPRZvg9EeUMCDSU4E-hmqQ",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110259374784167300874\">Loreley Ramos</a>"
+          ],
+          "photo_reference": "CmRaAAAAAoIsI1R8Li4Lrhjfq50IzQsU3xF8zwLYbrkhF-IHQTwV17XyxvPdKOE4joNemwkFL0JSbAJ_kesBVSUYPZHsd6fE14e2ZsYY8uH09ONXWE-8fhMWnPMUXAk8-yB1NIG9EhCrPxWOMWMGd2lUXEXINJ7TGhTDrZi9eiK9TaeIXGg-J353deqqjA",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111106542414449505591\">Yaroslav Kostyshyn</a>"
+          ],
+          "photo_reference": "CmRaAAAAoODInm-Csh1yr4vJ2zJCcJL1kJb4lGMi5SsqWo_c2YsRBb_A3SUaM4heCGHIN8JfVR_kI0Ej5UTWNRCHFuVqkdk7UmW8YdsOV2tYcF6RrCryed_8POag7m-xVa38iOY9EhCDmavUeT545NGq46RmmVNJGhTp51AztzZPDhDmr3D37bvikVUzWQ",
+          "width": 3000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110259374784167300874\">Loreley Ramos</a>"
+          ],
+          "photo_reference": "CmRaAAAAtXOPzPyQgBr5Lk6EgHHoMzTxq9rUscnSgESYojbiA47WGCSmIFanxX19na97bGYLz7tX4Tmlv6a6EJQcuRcWhHTjyM2Luqq1c3IvlLFcUdGoxK0aE65WZeFFrdqflyLeEhBH_BtgLN3yR1-9VfrVjNdlGhR4phlQyw9U8jYAFmrtq4oxO7QNhQ",
+          "width": 3024
+        },
+        {
+          "height": 2641,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108288456939485171539\">Zil</a>"
+          ],
+          "photo_reference": "CmRaAAAAT842SgghuuWYYRtv2CGdNq14wTe8Yyqttmc8RkwwQRrgwGHFuaunvNyFM2nxM6wC6zbxAZ_BBJOQKwxAx1e4p5Df26HgKoYaUYElhIJYGms9jLMjyhZBJ5AQ2eVm-jZTEhCV9fyH2jxYvCADWCGC3ltkGhS_6Yuy7ilMGhq0NrF1zcQ62GVnYA",
+          "width": 3962
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110259374784167300874\">Loreley Ramos</a>"
+          ],
+          "photo_reference": "CmRaAAAA0P3_DkdFctBAn-ELoSy0e4ueUr3mIBKE6sFmM39Z82Y37KlIlitkCsw6wLi-1DqP4Z7Lk6cQ5XgEyihkgn50zZCaqXfutcLQUuvIIqGT6XShPt91Aga-nm8odedrhe9aEhDXpdB3tOdL8fIqoV_5rlnpGhRp-eVrN7be-qOAybAHk8Owkh84jg",
+          "width": 3024
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100612409783044094141\">Leonid Bandrivchak</a>"
+          ],
+          "photo_reference": "CmRaAAAAkQm9v7aTk-JAkSNv05ug1d11a5dWgjAeHPBYrGrgQuvETfbp0GIWwD0GlDZefo2jCw1czwQ1qYY77M83xaScTathWEnsDLBGW5muWz6TxKH22t7mwu-9uIsLFw2I_r8iEhDgLzdKOd4wSe8FqFN5oOikGhSSm86JAf85Y9BsJl4mJRcWOJ97DQ",
+          "width": 2000
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.dortmund.de/de/freizeit_und_kultur/museen/mkk/start_mkk/index.html",
+      "popularity": 0.4244779776378164,
+      "num_google_reviews": 394,
+      "mood_params": [
+        0.013975144921124559,
+        0.07751267964660485,
+        0.02873072869782538,
+        0.15225601798056854,
+        0.036332615722261284,
+        0.13453437454890763,
+        0.1082352203036501,
+        0.05675264158824003,
+        0.09378742673478858,
+        0.028185892268657774,
+        0.12148009590030566,
+        0.004744601010887077
+      ],
+      "top_cats": [
+        "art",
+        "culture",
+        "books",
+        "architecture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.9246774866983718,
+        -0.7265245802120988,
+        0.9891412257927193,
+        2.2235242294593642,
+        -1.2056325305799118,
+        1.5232120816007135,
+        -0.7575550144282,
+        1.5753574665603847,
+        -1.3268582578229409,
+        -0.4186760695919506,
+        -0.37461435788941616,
+        -0.7876701310797082,
+        -0.8465756501590175,
+        -1.103036647845338,
+        0.5528479089172386,
+        -0.1484284082971577,
+        -0.21579584481215686,
+        0.08236994515332689,
+        -0.231461786932614,
+        -0.8860503418146457,
+        -0.9836338748828057,
+        -1.2308177425919355,
+        0.2680024380326896,
+        -0.80897776612146,
+        0.5957093255329552,
+        -0.5971637504880546,
+        -1.3175905354675435,
+        -0.5683679506560473,
+        -1.0525716166439127,
+        -1.3524007831021057
+      ],
+      "global_mood_params": [
+        0.20183602346247442,
+        0.8084497189444168,
+        -0.6149235495145474,
+        0.40446010486470046,
+        -0.4829312445892357,
+        -0.24146267683126618,
+        -0.09589340746325914,
+        1.083049381332269,
+        -0.3707037591578678,
+        -0.6037087494625017,
+        0.690629658895269,
+        -1.3313081231122545
+      ]
+    },
+    {
+      "name": "DASA Working World Exhibition",
+      "orig_name": "DASA Working World Exhibition",
+      "place_id": "ChIJvYMlN64ZuUcRv_xrkL_ah5c",
+      "cat_params": [
+        0.13447121109548804,
+        0.059825944333108026,
+        0.22502265557152606,
+        0.197269302246664,
+        0.14120894158398303,
+        0.15332201151003041,
+        0.3222729442820803,
+        0.1635091303862342,
+        0.19739387615806045,
+        0.2693807623421943,
+        0.06649757133392112,
+        0.046349762537003396,
+        0.18036269449039377,
+        0.0837629921632194,
+        0.26387284305842057,
+        0.08560231523552136,
+        0.25914958230245533,
+        0.22929551373358045,
+        0.1027903917750636,
+        0.11052689146408631,
+        0.3079611555107219,
+        0.1600840256504602,
+        0.19322057676756313,
+        0.10256140704525478,
+        0.04378921341198642,
+        0.20881776874122038,
+        0.2177708577545631,
+        0.2525322410769809,
+        0.10462829843847635,
+        0.18605840334362012
+      ],
+      "noncat_params": [],
+      "quote": "Modern, family-friendly museum for interactive exhibits on the world of work past, present & future.",
+      "phone": "0231 90712479",
+      "int_phone": "+49 231 90712479",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.4983333,
+        "lng": 7.421666699999999
+      },
+      "address": "Friedrich-Henkel-Weg 1-25, 44149 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111227245597412266558\">Julian B\u00f6hmer</a>"
+          ],
+          "photo_reference": "CmRaAAAAoHkOhr5MaqJ2VlIVzjxVPHT6akV0Cm3XAdX0YYvYz8pFo1P361aCEyQT00NXsvCYBmByFGCwV9VG8u5W64wbzzfWArnvYwgk18IsRYhdGlW6NdKXyeVDmU5aKp3CCNsaEhDu_R498QrwhGoLSzPVzlsoGhS2cz1f-9DZ79gTOgoDjXBLVae1Cw",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102455464097157694168\">Radoslav Devic</a>"
+          ],
+          "photo_reference": "CmRaAAAABMY-77Go7lTji-qkp1dgTW1set6DxQ2Jsdpi0hzBP9h1XkyF8n6Nq_DI5HRH9XSXOxBhtGLQSG497D7HwRQSuoVAOTgCzXSgjnpoqP50sdgyTazL3CTIbOBuvReVZqeEEhDVD8TVMnJ0qdYX5ICB1JMrGhQTR7Rsx4x19uaOwqu4k5iem3P41w",
+          "width": 5333
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102455464097157694168\">Radoslav Devic</a>"
+          ],
+          "photo_reference": "CmRaAAAAVvzyEgZyXnAvG8c7yxEmGfFVvaB6bI9XG3m3cKnRgE-hdmYKhKb9boP7Lei1jNg3gKtcC-W_e6QtzG791XvotpS9m2ZlcBjqh2u-3_DVLpL0RYOKN60eKzeXYXpu450IEhAK45ddrirpjr1GTZyWDi8bGhTQe3cdELBEqJrPoh_ed3C9yR5H1w",
+          "width": 5333
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108540395773739602330\">Da Na</a>"
+          ],
+          "photo_reference": "CmRaAAAAbgyppF2A3GuE5AnG0NJEC4GQyffoXkRMbkysXfJ5-95b126g9GMVbKaqRbhmwF6koOOQxl1XCpninu8edeKORI7JPqN2jmOUXSO4FB8KJ__Qc3-gbwgRDzXhvmvhbmBcEhADq4wSyd5zbEkJS7mWaQ8TGhRPqWagKW4ML5wllLRcKHwSp1Fi4g",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102112200405044710738\">gerold redeker</a>"
+          ],
+          "photo_reference": "CmRaAAAARzQdHWHntI1pDycNjSk4qjxyzekaDSrSphWuHtesNvT3uCehu-eZ0ZoCVHzjplVgG2hxBV6QR1bq_Z_NpdnmErgYjGBawPJ3GqumITL33jo2qQKq5-TCkI5_Zvj7oQMrEhBuSh347QjH3R05MnLNUp7xGhTPNFc0UUc6ghW_TTdAJWbYUBAjEw",
+          "width": 3024
+        },
+        {
+          "height": 4144,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117347185943084955690\">Harry Singh</a>"
+          ],
+          "photo_reference": "CmRZAAAA6-yftpAL9V5_pOZ1gy_wQpC55ylvAvntd984es0XgwDAqSbYIsTxOAlIbuBxNQTeBpPCQuoOUiOAKBJcSmLC0PNxW9lPnTkBEycmJwpn439q5SRUGrQiFfaJ8IsXrCH8EhBFu4aa_lY_yUa-UEMRNmscGhT-T6JrAhQwpMcelF5KQwR7UaphIQ",
+          "width": 5520
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102805669252220986813\">Peter Feuerhelm</a>"
+          ],
+          "photo_reference": "CmRaAAAAlnbBWfMxpZodPsAzK3Ew59drT71RfFKgCEf5nRiAPI-i1P3ZiKrXrJUHnPx8wTm44ETNt21Y9LvhUBmZ-XpJ1zdWfroxAKM_wQnlDJNEiZl8Gar5gqpEIKaYbLIAYygtEhDt_zhlkyr7ORwYsJD0uTLDGhR24vKPjhff7x2XekmhOC3lLkoLiQ",
+          "width": 4032
+        },
+        {
+          "height": 2852,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111720459704576562192\">Kai Timmermann</a>"
+          ],
+          "photo_reference": "CmRaAAAAa2rn8Ky5wqF2HNiB-P8fGruNqYRUmWDuMY2V1GCinAkjxZoXUmi3OEZUKl79dVSWiEjwuOUGXKne8-6Tj3_2XRX6-pRlFKxG9Vg7UIqYcgWs150bAq8zz0-VOfzFIlRGEhD7DITAM-5lxA8C24yxnLx3GhSRKKqAQ5JwNpiQ2RqWwhJJy4_Mpg",
+          "width": 3803
+        },
+        {
+          "height": 3465,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117347185943084955690\">Harry Singh</a>"
+          ],
+          "photo_reference": "CmRZAAAA84l7fqTkZX8uBjvmqsqXRAghHb1BFQ4BPBAV2uQp5DjG-7-vNK3dAOFTBPJEX62nZV3apKAeBi4JnbAkMV0klpNPHvvYzZiXj5TBmib1Y78D71adYJkEBQ_WCTYWK0YuEhCZ-kwDdpMk2gIA6pukpehBGhTz7PM1TP8u1R4lj33J7VA3gtM-5g",
+          "width": 4616
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116461577745146223420\">Carsten Arndt</a>"
+          ],
+          "photo_reference": "CmRaAAAAPRNWqVG-w5pSvlgOHGe2hD5B4j7XML2i48EUoKLvf930F8pjpTKb7zySnomWWeC8gDxBgpSXDdh-oBRxsMMo_InHwiV-gqMpzXorKmPagzgjWJ5cdqQ8luEoj5g1KZ7hEhAYRX52Tsu8V8qn2P9jQqVbGhRyb3o7GyHnjE-tzjkTlWE74R4RTw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.dasa-dortmund.de/",
+      "popularity": 0.712464251883845,
+      "num_google_reviews": 3127,
+      "mood_params": [
+        0.013978516820063399,
+        0.04865931195582599,
+        0.0034706256160092672,
+        0.09826252410965132,
+        0.0036512669235842904,
+        0.10852730115659073,
+        0.06791148426299962,
+        0.046455558802766805,
+        0.02533823138771309,
+        0.04508148221553318,
+        0.0932090563646057,
+        0.009104077161846151
+      ],
+      "top_cats": [
+        "science",
+        "books",
+        "architecture",
+        "engineering"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.324522815840727,
+        -0.6268751461409167,
+        0.0037416606558332986,
+        -0.24299692581138427,
+        -1.0094573431963256,
+        0.10930196274979825,
+        -0.8089504815846674,
+        -0.5289730733378311,
+        -0.13651712816694284,
+        -0.552631744730299,
+        -0.4083060385257061,
+        -0.8979396860636436,
+        -0.7905737027432621,
+        -0.896230460289479,
+        -0.28558552338133036,
+        -0.9928920678424322,
+        -1.139443585543394,
+        -0.6759597909694263,
+        -0.8042253186931484,
+        -0.5006498658166055,
+        -1.1198369319218946,
+        -0.9299288827067087,
+        -0.7195813674437591,
+        -0.6124384273868494,
+        0.4673778371127525,
+        -1.0809259963005302,
+        -0.6785187447807353,
+        -1.0907518477945308,
+        -1.1745514147777836,
+        -0.987910788945825
+      ],
+      "global_mood_params": [
+        0.2020628911233868,
+        -0.05596878773524043,
+        -1.069722292933822,
+        -0.42792822975838385,
+        -1.2001968196150246,
+        -0.568502066824832,
+        -0.8590041001406883,
+        0.6724456841587831,
+        -1.2761965869112692,
+        0.05290754432189291,
+        0.036432069606367405,
+        -1.0648008205325232
+      ]
+    },
+    {
+      "name": "Kokerei Hansa",
+      "orig_name": "Kokerei Hansa",
+      "place_id": "ChIJ9yoRYdEbuUcRcizqKPpJRsM",
+      "cat_params": [
+        0.12264887969921034,
+        0.03451574721851695,
+        0.23229800688596144,
+        0.13998166535810883,
+        0.15699243115260883,
+        0.12260795572388743,
+        0.26273698098365594,
+        0.1516387441944085,
+        0.19700105017527114,
+        0.13419543018796345,
+        0.02462339456585105,
+        0.03466056835417778,
+        0.09696295865150127,
+        0.08997351887599793,
+        0.1606948526398986,
+        0.0344727260785829,
+        0.1042082747664287,
+        0.2375017807490058,
+        0.09618895994046534,
+        0.06994406435182356,
+        0.2688477090712099,
+        0.14806288268777026,
+        0.09181566705184571,
+        0.1124853889562174,
+        0.04674181302641117,
+        0.18079388001363547,
+        0.18240833973892112,
+        0.14625019846084225,
+        0.07555909912789356,
+        0.2135246598694435
+      ],
+      "noncat_params": [],
+      "quote": "Built in 1928, this former coking plant offers guided tours & a coal tower with panoramic views.",
+      "phone": "0231 9311220",
+      "int_phone": "+49 231 9311220",
+      "hours": "",
+      "coordinates": {
+        "lat": 51.5408841,
+        "lng": 7.4122886
+      },
+      "address": "Emscherallee 11, 44369 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3506,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117602249983270883555\">Karl-Heinz Thias</a>"
+          ],
+          "photo_reference": "CmRaAAAAKPTBfHMtDoGOja_fS6qUzuWaq2iIW1HeH5c8DpDrlCO6YV2AD4JXYahL5Ax46E2Eq2Enk2dpz8gdY6kDPufuPNT3anKJ2M-DOHJubNP2RIS0NEp2UizbVZhuCIIYlPUbEhBJEGgoJn_nQU8J1zTbW_xUGhTjxhpahPkLxs6eGrXnP7Ptq2Onsw",
+          "width": 5260
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116899793369851503202\">Deniz Fone</a>"
+          ],
+          "photo_reference": "CmRaAAAAkYD2ZA7Y36h32aRJ0cJDlg3pFTYVH7BzQdyOr5cBhwfuLFRbbFAJzmoJ79uJjRgTi9DFaDJkW0faOb9ljB-3HqAKhDDuxGGTxCPSjJOV2VngYnAuNDy1FtMwV8il15yNEhC2L2glY0WLB0_DubiYNiEpGhRinD17TPtBxuR_I7FXfrDhPrnYIw",
+          "width": 5312
+        },
+        {
+          "height": 3522,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117602249983270883555\">Karl-Heinz Thias</a>"
+          ],
+          "photo_reference": "CmRaAAAA5sTPmH0SLES4wUxCmiFxGzP47LgPOmsDOW3jrBZSdnoacqc7sKwDnoYv2CdFMOW494sN8M3ved34AqP8D5-aM2___LzHe99922ioX5BpyrptD5aCdl-TKsFwI_mRpowPEhADGavE8JVs6x_1TEQrJHLdGhRz-iNtYjIU78wMmAshB1j6W7N_1Q",
+          "width": 5284
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104793354837074483805\">Anna Mishchenko</a>"
+          ],
+          "photo_reference": "CmRaAAAAICglkaotPgqSRKs7qsKHTZGlTVzMRQQFdtSRUlX1yILFu7QaUnDnj3DcKuBG665qJOv5Mau3paOJk7nde_sLGTfoL-UVOr2WJiSSlHwlliQd97CrPTY7G_RQRjj9EnLBEhA8Hk-PGWdJEBhqrRutZoyjGhQvEnQj8gL44zl8YVLAkC2WVlrVVA",
+          "width": 4000
+        },
+        {
+          "height": 1120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104190508958563518107\">Frank Matthey</a>"
+          ],
+          "photo_reference": "CmRaAAAA6RWGanhEPoX6_Hsm24SMqnzwpz1JcoTYe9uWcSSdSPhQDjytz7PA1_ir40ob8rRHWnZ_P7ZR9iiCLDhfGdY3q5Xz35ZYfza7F5NKBpou8CtkfDFoGk4BjUHos1-fOJtnEhC8zrQF0tSaFyHDc4BSETodGhQ9ydqQZ99um4sdoWfk1xWzYhdsXw",
+          "width": 1680
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104190508958563518107\">Frank Matthey</a>"
+          ],
+          "photo_reference": "CmRaAAAAcWvVbBp86Q_gSBeCpZ--JH3spTRsfIT8CB6UqK5FUDfQc0y1O_no8QClWYdiwTG_5n7bEuUhKsU9k70WdQRfsi9GfeaMxF-8vbleOeaDsfrd4Ji0O_FN6VxO2kJ9OrnJEhDAhrtQoIT79RS9q7JjEBmxGhRUDUu8cqakfa8Z21MAZYMEBxdNaA",
+          "width": 5472
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114835699970033547541\">Marco</a>"
+          ],
+          "photo_reference": "CmRaAAAAljCtTZxwk-IBRducPmnNf8H6j8p5Vfn5QXuR6Ar15WIR959eJU252MbUWcNLyeZT7-9scT1sRW9A2HmpHISL5x5Tnq5nMqrv3fsBkhyaStBs0wS4IaCwJVRhWedQ6f93EhDUmTVMdNVPtMQF1032TF-TGhSdhoFuDf7VxKyzVTyvu3BsdqDOXQ",
+          "width": 2048
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106910960244990423311\">Alexander</a>"
+          ],
+          "photo_reference": "CmRaAAAAaW0t0xW3vDipeUhZ8u5FP6GHVK55PDnOTCpkxqwQ8Kn13wyy6DIGR9tB1dCbVmNB55J459gmz1_2GhEPvjMDElkDxsgQQ6bov0qGG5hMT9uZq1roB2k8BgLgVj1IHUJcEhCJiZbOS0O9GKofRnWT4Ay9GhQjFkMXIgVRRlu3FDjjHuyzy8ssrg",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112548053167723462993\">alfahad91</a>"
+          ],
+          "photo_reference": "CmRaAAAAFODtHsvucUyJpUPuRm5kFT05b-_paBNUCD83ViEKOoxoxBvlw0EdEurlnNU3Ww3h2gDZCrjC8Y9KLyGydT2I45xt4fa8mSFgfBzzhLedX_yS9Xd2Lg9b8xEENucXn3UOEhD_du0WLaz1Lrdkiggv_cQ5GhR0MC9ZiaR9Y1e9pWvjYezh0n3F0A",
+          "width": 4032
+        },
+        {
+          "height": 1247,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116121907742800186541\">Heinz Mayer</a>"
+          ],
+          "photo_reference": "CmRaAAAA6Vv4ZNouI6QwGg1ml4rG5qhj-h6X_1ypf6OO-T2o3r0Yq6r9DOAKKh_xwk9LxJlQTiXe1bz0_rXkd9sB8vwPoFYFypsYtQDjeArOV5J2K4jMgXR-y5_bCs3BTC2s8PEtEhCdwoNH9yeNwHBRH_Ef3I_nGhRwtZ9hG9_N6kMOykicTaQrPpHIXA",
+          "width": 2217
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.route-industriekultur.ruhr/ankerpunkte/kokerei-hansa/",
+      "popularity": 0.4628549438168818,
+      "num_google_reviews": 557,
+      "mood_params": [
+        0.0014606707792316161,
+        0.007219672990367374,
+        0.002384969917953151,
+        0.020123082715898282,
+        0.0015955545892993757,
+        0.01968170768525258,
+        0.026081618889811423,
+        0.007355979692638691,
+        0.0075469240222477895,
+        0.00807858980456182,
+        0.024479323660056992,
+        0.0028381622370911128
+      ],
+      "top_cats": [
+        "science",
+        "architecture",
+        "engineering",
+        "books"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.4679682407692272,
+        -0.9295020019405599,
+        0.07521026564398255,
+        -0.6523870314603529,
+        -0.9120993314653134,
+        -0.3004440927160882,
+        -1.4425223674979362,
+        -0.6608033169980462,
+        -0.1423305706217659,
+        -1.990008571734549,
+        -1.269510624755026,
+        -1.008954165960604,
+        -1.6918071580611176,
+        -0.8505953351322654,
+        -1.4075441001392175,
+        -1.5917160489598114,
+        -1.9801616511100522,
+        -0.590125346991311,
+        -0.8884898302303695,
+        -1.3092982192392695,
+        -1.310593531302074,
+        -1.0473666214064803,
+        -1.8629041991508033,
+        -0.5198632258350265,
+        0.5523900283768497,
+        -1.2887911867597723,
+        -1.0098624980377269,
+        -1.781201284223448,
+        -1.3500255671636827,
+        -0.7990491440221155
+      ],
+      "global_mood_params": [
+        -0.6401611797799978,
+        -1.2974595979505703,
+        -1.089269119233883,
+        -1.6325615073458948,
+        -1.2453140422431852,
+        -1.685736914982203,
+        -1.6506176923772256,
+        -0.8866785916210376,
+        -1.5115521836293742,
+        -1.3851423935962581,
+        -1.553987886158203,
+        -1.4478542028576378
+      ]
+    },
+    {
+      "name": "Florianturm",
+      "orig_name": "Florianturm",
+      "place_id": "ChIJX0QMc3AXuUcRIWSgEIPWhjE",
+      "cat_params": [
+        0.16901853413006293,
+        0.08662352829139038,
+        0.18534851183557327,
+        0.1605456085883162,
+        0.26402659460004646,
+        0.0510165261714381,
+        0.30994129552904465,
+        0.0585596495175973,
+        0.14392681192233248,
+        0.2105006377034232,
+        0.07603989461659258,
+        0.10882204480945049,
+        0.15990581625376327,
+        0.19997700430508683,
+        0.2177488289692628,
+        0.2042136503526213,
+        0.5611129367943869,
+        0.17255417137002427,
+        0.12019075305072499,
+        0.10693073470934616,
+        0.4756871361992438,
+        0.23428410143342118,
+        0.23112690774805886,
+        0.09472496532554597,
+        0.00535594970824272,
+        0.3199767359035212,
+        0.289269416005463,
+        0.6500007535322683,
+        0.2600676370354484,
+        0.2553583540479445
+      ],
+      "noncat_params": [],
+      "quote": "720-ft. telecommunications tower offering panoramic vistas of Dortmund from 2 viewing decks.",
+      "phone": "0231 5026100",
+      "int_phone": "+49 231 5026100",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.4965864,
+        "lng": 7.476594299999999
+      },
+      "address": "Florianstra\u00dfe 2, 44139 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112311177437261099708\">The Carpenter</a>"
+          ],
+          "photo_reference": "CmRaAAAApmnKDniOKWXQkriY3vjbHUL7SW2PXeSKavji7fQFW58CDNrZTIwe9Pk8rAavhBfZFJUnaUWDN9PpsSi6zvH5oL7KghaRu_DD-N1pvNdPz2hnkkX4HzYpJ5QGeKUpMTZ3EhDh2Kk04NJKJ6eGmUWmCk9aGhQsn5R9kImCTbKY8xrgxC0zOmx4cg",
+          "width": 5782
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108407861656570051706\">Heinz Lange</a>"
+          ],
+          "photo_reference": "CmRaAAAAu1_jfTe4PxO3keU6hi9jbCMEchxTAKQtPj1cXE_m4Wz4eUUKBm2E37aUvRj0c-OKlc8Acaua-IKdjAFxV1OZMg-qFmQe5VH2sxgFSBrAqd9HW7szGajVkrWpsji8rV2NEhDYXqpf1SODIuhXhZ9JkYRAGhSIjwlgfgNxnNxUhcN6JPmjeBY0wg",
+          "width": 2268
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114664976162761955239\">Idan Atlan</a>"
+          ],
+          "photo_reference": "CmRaAAAA0Q4MauaHCdmDixtOGTKKxwAsn30jaFFqraYJu3b4Yy7Y4i21_T2JrdvLDGGidm8eV0CGrtQkjkX7qiCBPGcYPENr3t1MmJzQeYnEWkQWtZA8UTCJEZ7Y1U2ZeECxzzb0EhBmaLpjPlGNueHMw9aP2wN2GhQ1JfNaUIlINLrR6yUnGM11YLtaLg",
+          "width": 4928
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105788450960561699053\">Halid Mahalbasic</a>"
+          ],
+          "photo_reference": "CmRaAAAA_c66npDH87H7CDT9_HFwAi0G7THdlVqerbEL8Tj-miCfs1LZe8WTZSuLSL7IIShujVWu0ZfsBosX4f3sntuBHDlG8M4SVSbbHX7fTN5FJ0jhB5TNqbN_JctT8UbrgdP7EhBoTwgAxWaenfqi0_UY16C9GhStXKnX3Hu2n36M2kVaWavxmpCNaA",
+          "width": 4160
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116585013227263959111\">Dirk Schuessler</a>"
+          ],
+          "photo_reference": "CmRaAAAA9lgoQhb9WrkpAM8_SGus2w6p1R1-MIAsJ99PDEh2rYvmP4aB5z1NDJfj5vwcuwRwipvjiib4W4B2EtvO8WhdMUblYZO2307S-MyIhcjl1ALnv7TBHQ8F74HuW3cKQDt8EhAugB8KDSKsRUGyViX2Jwa_GhTdDea0ZRr83_wqsFOB33yEOJ8-ig",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118333222215955703461\">Valery Sergeychuk</a>"
+          ],
+          "photo_reference": "CmRaAAAAlmIcmlamg1fy8zJ-vqoMcrzdZtpoLyZM2L8XjVpdS80ZI2OsO7OK_Vyi700iE3Guv21vQWGEhkwX47AhRgWsN83JJhHPXtS80VruTZztoX5UqbY_VW8sS5tsCoW1N74BEhBvYWdvF3VuTnM5cgnWyYImGhRPwY6j_7oxOB4yF4Fqs73lguYVhA",
+          "width": 4032
+        },
+        {
+          "height": 681,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118035944441288960119\">Thomas und B\u00e4rbel</a>"
+          ],
+          "photo_reference": "CmRaAAAAi7KvXRbvkECUg3cXRRGMJYRvHyQOKTIleVflApn38hc2M0HTD2G3PTeDSI_32SXolkvSPWf-Mdshdbn7qhS8CIxYYC9Bh3puK-LC3Wgv9KaD3aWjvfK8nrgusleJfvw1EhAlTH8QBQOqsKNJ3X-g8UBnGhRBibot3-h0j3KG8HlXt-B1x0gNtw",
+          "width": 1024
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115834037419591243951\">M H</a>"
+          ],
+          "photo_reference": "CmRaAAAA1-X5yQj7VpEHyOtMMNoM_gvP3hz7CddIkayqvxHJDJ7hMEpPw0Ucz6lh0cJKgrwGQ8xkNfthKKy3XWXoHWDeFyDQ-k-CZSJb6OKhkTa8UwrJv1RgHV1LsknWtz6zYkM6EhDhHnfJitmxh2jqbLXfJp99GhSqFjtlmKfomoJqzk7TMqD-XuEymQ",
+          "width": 4032
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100908660430631894152\">M.Refaei Hannan</a>"
+          ],
+          "photo_reference": "CmRaAAAASBiMbmI-ThJS5UThDutHw3XrRwQdXBq87aC84MScc6VKdlgqhNk4vWX2ylXJH0I8lTgVX7bVtO4hQ7XCzneqYjUB8k8cpc6TrWIlECnB5cGTg_tNoNeWlbVkVzEPCqaiEhAt529enes3iPw_MAjC7StBGhRRubC3ckA-hTwRmPtuQjgfr9CuVA",
+          "width": 4618
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111795276563635743482\">Iulian Dinu</a>"
+          ],
+          "photo_reference": "CmRaAAAAqzSvVtk9O3lVP2YjlaQGjarzNJgFa2JObDL69gx0IVIVtzuXP0wKzbAzAt-zN_gldIc42UwAmhkvnNzDSRrsKvezH0dDnEFhGfNnwLwW63o3kby5TWhVelRIvkyqPwTyEhDZlRCzcTAXCEPcmRWpxsX6GhRhiRP6CmUFhKn5vhblpdfTdy22lQ",
+          "width": 3264
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.dortmund.de/de/freizeit_und_kultur/westfalenpark_dortmund/florianturm/",
+      "popularity": 0.4505298899916652,
+      "num_google_reviews": 500,
+      "mood_params": [
+        0.003921452032319623,
+        0.03530950488230226,
+        0.06177128647378378,
+        0.12067304741388717,
+        0.07346884713706867,
+        0.1748289460813616,
+        0.14263767435500455,
+        0.008559265872198248,
+        0.15331945403410133,
+        0.054458964126911535,
+        0.07838565673794262,
+        0.013873088198960767
+      ],
+      "top_cats": [
+        "views",
+        "instagram",
+        "hospitality",
+        "amusement"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        0.09465469379980486,
+        -0.3064640272703014,
+        -0.3859928805864432,
+        -0.5054325514221676,
+        -0.2518756657653847,
+        -1.255521665946079,
+        -0.94018185039142,
+        -1.6945219789372992,
+        -0.9277776729905418,
+        -1.1786828508542622,
+        -0.21205399947461737,
+        -0.3046286488801257,
+        -1.0116346314472777,
+        -0.04228662679723775,
+        -0.7871385483231929,
+        0.3962705104535981,
+        0.4990223038802337,
+        -1.2694527352268932,
+        -0.582116997316531,
+        -0.57230643696494,
+        -0.301835947188234,
+        -0.205048633104159,
+        -0.2921940368130864,
+        -0.6855401498768682,
+        -0.6392049684000438,
+        -0.2564123071029215,
+        -0.00858340157814664,
+        1.4913580144910983,
+        -0.23625291208051014,
+        -0.5113950806313178
+      ],
+      "global_mood_params": [
+        -0.4745952191651954,
+        -0.45591587254797367,
+        -0.020040618526229258,
+        -0.08243737828947136,
+        0.332106731478352,
+        0.26524224514272715,
+        0.5551593748103603,
+        -0.8386966763176145,
+        0.41682666348355063,
+        0.4173462787514166,
+        -0.30658440449899116,
+        -0.7732574737029344
+      ]
+    },
+    {
+      "name": "St. Reinoldi",
+      "orig_name": "St. Reinoldi",
+      "place_id": "ChIJo-LZrVgXuUcRrBXnd4Kam3g",
+      "cat_params": [
+        0.13415590837860067,
+        0.054756472548252215,
+        0.20883515865711688,
+        0.22305555122976337,
+        0.28040356080257606,
+        0.08857888223369675,
+        0.33873205110661875,
+        0.1570001149148113,
+        0.16656483051645798,
+        0.23872887005161458,
+        0.0823060519657752,
+        0.09391633151712973,
+        0.20864194061097213,
+        0.16533438568909048,
+        0.21520260971942776,
+        0.2505193207486392,
+        0.5701851795890177,
+        0.22393960178227834,
+        0.15024311289687278,
+        0.10684128414086679,
+        0.4610703461608677,
+        0.21474632021393228,
+        0.19923432976761848,
+        0.49301217966880423,
+        0.005414841515345234,
+        0.3544008033695208,
+        0.2452022223382614,
+        0.46868032198961,
+        0.2598508909603653,
+        0.28986132511907836
+      ],
+      "noncat_params": [],
+      "quote": "Completed in 1270, this Romanesque Lutheran church features a Gothic choir & a Baroque-style tower.",
+      "phone": "0231 8823013",
+      "int_phone": "+49 231 8823013",
+      "hours": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.5147719,
+        "lng": 7.4677581
+      },
+      "address": "Ostenhellweg 2, 44135 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116029415700500342785\">Ralf Lieder</a>"
+          ],
+          "photo_reference": "CmRaAAAAYDnTa2kbK7WqEYRtfA_4rS06pz46mZ7yM6Bj3OhRh2TrV8WJLxnPFaokwA3JRNQXp16mFsbw7bPl7mxS_EsjxnKSLbwSy2W7LBCuGho9Yd4SFlv3aLCiwsAmWk7pHoA6EhCN6iXFRNFRohwHESpGK0XvGhRrM3FCwHn4fMaKbpM9y0JMTUK3ug",
+          "width": 4608
+        },
+        {
+          "height": 2999,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113319572843248695882\">Viteoc Birnaz</a>"
+          ],
+          "photo_reference": "CmRaAAAASB6sOtyDXls7_l9xs9jLToKjGY4V791oaAyl4U0DOgBNr8w7_KrWG5EKdJ8V2kaOGHQCDaTJ2giKXOAzDRFC2Fhk2urnmtQMKveYV7Ok4uj1Yag5fx6--aQCa7PWbZxZEhB9e71OkGvkp_WjJe9uWvviGhSNEMok1d3XYaxT2p9vZaXhGWiggQ",
+          "width": 5335
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117553090996854499731\">Alex Kursa</a>"
+          ],
+          "photo_reference": "CmRaAAAA1dh65cbS3Qfp4FjxMAKVcUK7BQ6SBw1ltdXEnpvqwUA-yRtk903m7uEPh6VkdVsnjTrT794mVtLy_xEX5Ez2WezgCcCztKib8X8_bC7AYY6ZrrBva_TA9sPxACEeSWLxEhCHYOrTckm7038OtzOZlHYQGhQ-ypkC-rmOAToSjcipZz6fW3FbgQ",
+          "width": 4032
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110468397034956712839\">Michael Steidl</a>"
+          ],
+          "photo_reference": "CmRaAAAAa3v_CX8r5jaowEMu5Ul2fspU4_dvNeLadS_sM6NpMNlvF0PueBjz1pJ6ehCVhnrzEOl9Uzy4apFcFKJ1oaClaFp9Y2rAQM5U2nREdjjfWY3CSPMifz8lxY9BI3bBtx4UEhA_x3YYwHxJeRPqzMdlesvgGhQIOqkTnY5LIjn26oy_vVVbpteTpQ",
+          "width": 3120
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100876022955882045927\">Chris Boer</a>"
+          ],
+          "photo_reference": "CmRZAAAAa7x5eo69oiJUnDD8TDOdwiC8vDJLEJ35iUHk9jLXB_8Rk3AEPN2e31gDJ4HdbcWdMWK8-O_KyDqEeSTPI6brGvmJKD9IR_2lz1wRqGNEkkjh_asD20CjXwsMoSn4zGGoEhDWnk6Q2aqA2Y4E-Tp-VUSLGhQzfB6gkfdG-yRsx2x-FGRnOfyOIw",
+          "width": 3024
+        },
+        {
+          "height": 3117,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111365419481223553477\">Dennis G.</a>"
+          ],
+          "photo_reference": "CmRaAAAAug5PZJAMLWXelrdYQptF7RcSW3hSXPF6DhJcwqRmZ-3dYO7BjOTFS7SFIf8Zg_FUpUZEzvVV4aT90tmJpZxYehwLn5bL4yzBUIGegJWTzQ9QyjoWJYtWHzE6VMcgvM5iEhDiYAk4sZjAABm9uNosvW6tGhQfEBSf_s5ITi71qv7JPlvWSd6EuA",
+          "width": 1824
+        },
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114672550541394762929\">Fariborz Alaghehband</a>"
+          ],
+          "photo_reference": "CmRaAAAAyreocKoR9a3KGKapRXSwUINqnKhrEEdrHQHCYDw5KuuAca3cjUg2CYdkCjHKu-N1q5nsT7-AsSgoG4WeriZEU04ZYB-aM8a5bWbHvlb1OhCxIH4ZkBgT2WKVjt5HP0EuEhD809y0elz8QjmHVSWaKmW4GhTfbZEXAqmlOQl0LZcDftcB_2FAXg",
+          "width": 3040
+        },
+        {
+          "height": 4010,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109696248567864959718\">\u00c9va V\u00edgh</a>"
+          ],
+          "photo_reference": "CmRaAAAALEoxNgz-kG2TkLbddrWhNTuikzKp5Q6mmhlJ8WkMu9AXelZOMw3uH_uJuA589ELsLjeFsDaj4kyViPUk3Xa0n_pptP-jhadrj3hPgtMf0T36KK5z-NHyQe-MqfnNxkKpEhDEqd1F_gcBphQdnTdwsBoFGhSdtSl7dqUjY48Ea8pG4M4y_R8zUQ",
+          "width": 3008
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117198165337236970538\">Nob</a>"
+          ],
+          "photo_reference": "CmRaAAAAaVrifLdgQl5iy4WOnYT_FL-0egKVRpeExhQjDpw5ByZiS7oGqliyFI9lOvpsgoKnYl1IwhoOI1o79VziBbQc5CrwlVgjofy-Ay2y2L_cJu6qwSZAsGM24dmScTIThYaGEhBCFgrl2p3JC4rr-zCLVrx-GhS_eXerhkMB0Dl5hoATOTnvH-9Dow",
+          "width": 4898
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102265864352984820713\">Peter Merabishvili</a>"
+          ],
+          "photo_reference": "CmRaAAAAXJABxuUjBTP2AZIUfOxl5l2rX-EDNymMKVK8VY4QmQoFl3hYL1pULKk9K2N6jrM5slkEuwpt__l_wBzxJ0M32UBpjx6YB8-50p8LPKDuCf1LXNKmAhcS1bYHmbIK6qQ4EhDb0357SoL_U-jLot4vD6tIGhQeEsa0xwg9t0m3GS41XKtXEphuHA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.sanktreinoldi.de/",
+      "popularity": 0.5723133204387276,
+      "num_google_reviews": 1302,
+      "mood_params": [
+        0.004826209545021803,
+        0.03583344034189419,
+        0.14231549466894694,
+        0.18588869152766335,
+        0.12067795631988351,
+        0.2144054456709857,
+        0.12179750813394793,
+        0.0199489315146742,
+        0.2426939378597025,
+        0.03437130325805072,
+        0.09208404744523632,
+        0.01804673695864809
+      ],
+      "top_cats": [
+        "religion",
+        "hospitality",
+        "instagram",
+        "views"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.3283485191380699,
+        -0.6874893839467334,
+        -0.1552744160561376,
+        -0.058722695474076624,
+        -0.15085688530294183,
+        -0.7544147024867154,
+        -0.6337953858486629,
+        -0.6012609569600753,
+        -0.592757017142658,
+        -0.8785422483346699,
+        -0.08318117465372363,
+        -0.4461910168893289,
+        -0.4849827744426511,
+        -0.29684156383048077,
+        -0.8148261638124128,
+        0.9385972991500745,
+        0.5482486756847934,
+        -0.7319806008543129,
+        -0.19851121505209152,
+        -0.5740888178403155,
+        -0.3731221521992568,
+        -0.39591840752985247,
+        -0.6517773416970224,
+        3.0298554921295637,
+        -0.6375093366778055,
+        -0.001074248571511237,
+        -0.4214892172424797,
+        0.31343005328473117,
+        -0.2375612843339671,
+        -0.27414804752642474
+      ],
+      "global_mood_params": [
+        -0.4137214431942444,
+        -0.4402192816879155,
+        1.430127837169042,
+        0.9229567442879077,
+        1.3682166256280612,
+        0.7629174002293801,
+        0.16076750436385576,
+        -0.3845254396865857,
+        1.599133536163273,
+        -0.3633240306004318,
+        0.010399135017931492,
+        -0.5181103334634347
+      ]
+    },
+    {
+      "name": "Haus Rodenberg",
+      "orig_name": "Haus Rodenberg",
+      "place_id": "ChIJ_yclDJAWuUcRA7g22DUgjj8",
+      "cat_params": [
+        0.12751756671404396,
+        0.041177983836915046,
+        0.23093016847858222,
+        0.14651474379072227,
+        0.19368183561927624,
+        0.11485422059250085,
+        0.25728453692612696,
+        0.1476722914936923,
+        0.1951901263483427,
+        0.1337500122646078,
+        0.02841225246036774,
+        0.08140022025564758,
+        0.10146994031420728,
+        0.10020787515766874,
+        0.1451751459825554,
+        0.07196026085098607,
+        0.14223433602781277,
+        0.24923144388741883,
+        0.09029653029293903,
+        0.06502064577071802,
+        0.3129587932148916,
+        0.15610833503159827,
+        0.09397112514245694,
+        0.11635850071527266,
+        0.044543271675098126,
+        0.20455856762145214,
+        0.18621340145725349,
+        0.17858272703766032,
+        0.1138915432712791,
+        0.2310678745067153
+      ],
+      "noncat_params": [],
+      "quote": "Historic moated castle surrounded by a public park, housing an adult education center & restaurant.",
+      "phone": "0231 5013331",
+      "int_phone": "+49 231 5013331",
+      "hours": "",
+      "coordinates": {
+        "lat": 51.4928939,
+        "lng": 7.5544113
+      },
+      "address": "Rodenbergstra\u00dfe 36, 44287 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110351549656425027569\">J. Wohlfahrt</a>"
+          ],
+          "photo_reference": "CmRaAAAA_HDlfcFT4oA4NPHU1FR1r5lSe_HPvyYn5HNq2NnR0qSITRDdmnDH1ubxkxxj9VytK537MwdQJ0z0TtDY3MYr7IOKO96JMmlelS9kvCWA0f1lIgSMopdb7p6gQRA3JybtEhAEIPZxdXD8R99QAwuowjcIGhQqGP--WS58GeqXQFkILkS00_-_vA",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105606762275157229355\">GVP Equipment Solutions</a>"
+          ],
+          "photo_reference": "CmRaAAAAoqvc5f9qzYX-TsOL5ynremxCQLZW1InyGOw9J1IRG8Rty6HtzlKkgAZLlypNroT_54_aqeU3tUWNsXLj2ihkwFVS1kNte5zmvDtDuztqKoG8Wp9BjhxfAB5ZMFEO-JSqEhBjf44WVN-W08o9x_3mAemjGhTUSKmrdoMQDO3ZopFVOnYVuWeqcA",
+          "width": 4000
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101652722688243704551\">Thomas Panzer</a>"
+          ],
+          "photo_reference": "CmRaAAAAbf7jFNxBfe6ldv0_hkQXcjHr-rkSR6HmBcIDJj95RW5JHAwSX_B_UcIZq1VrGG7oQBQx58MitgK4ChKu_kbQDPpB-_VhY45-jimV6e-X8denLtgsyv0j4NRHX0CGc7h2EhCoWhCtHRLdGSgIZ9_iPDf4GhRg-VJ1KkdKB14tsV5LrTqf68uxcQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111686137905085627244\">Sascha Ratajczak</a>"
+          ],
+          "photo_reference": "CmRaAAAAFQVWtrteFkBz1yw8G7iRGmYScT1BcuwMACFJb21DLWxynQ5haRXnVNbNhfLtgNANMOViKzx-9MC24aefLX7LHvHEYjqDcf-gQrSiE7857Y902xNF8XmE52E6KjAu8k-1EhA3svrYp2W5jvjMRYNLR5wKGhTB9cI_m4Is3BD0vWwYG0LS81YtjA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105115299741400597328\">Rosa rogu</a>"
+          ],
+          "photo_reference": "CmRaAAAAXuaP1AN9L16Dpkw3_Ql49gRHafQE79t2iBD_NUH0mJRax8TN7TKLoSs_simfbsSBB3iEpVxE4j5pxE2IIW9NEBFVxuSL5AeeotvzdZ0TQJ7K1kwtNceMWd6pAb-C0x_fEhC9zhT1bd6wRAP8zpEj8zp1GhSr9-A8vzQVcqr7GwXMTwxd6ESdng",
+          "width": 3024
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101816060988504354721\">Sylvia Schmidt</a>"
+          ],
+          "photo_reference": "CmRaAAAAX6gaN6FD98-AeyYs_6LTpWdbCMzPhHvmEN_gGvmGQ98QMnxbLslH1rGp6jhLMRGaszHFxW0Sn1hFnOLMly-qeUG45lMRWGhr85EASjwnak9QYW6cqUUCpfR_qom7GkZ7EhC-wOFqlzbYJ25qZBZijVCGGhT1qT1BiMf4UcBkVh1gqkwt5VYQAQ",
+          "width": 3264
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109352148260309756631\">Stefan Friedrich</a>"
+          ],
+          "photo_reference": "CmRaAAAAG_OpLfsDQ4_TejPSRVmZteoygxEifTNlloUBk68jG5MzS3F_k6I-SoApOYjyB_7FbsYsE9ZjW4HHBh0X8tfX3b7EZ8lbN8JhNRdKbu07tVknXn4VOhh3UrHUcnZ__7r6EhClBp-fSUqcSjxyvWE38HUdGhSZoCS2TRXsSXkwvXUeZzdTyzXIPw",
+          "width": 3648
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107212035240599796611\">Ulrike Menke-Thrun</a>"
+          ],
+          "photo_reference": "CmRaAAAA403mwV8E9HMfR579qN-HtRB8i9ParQArpc0mvanqXPanD5ZHqhVPkuZkL6y-6xY4213rMg-v804W5GeAU26aTLzyMOB1Q-n7nMuTbj8xvOXG54QQgHgnpoNQY3yi8qRLEhAZx6pWMJPhXo-ke54BgUhXGhQx7s-r-q7H0aNZeM1B9YWL4aZMIQ",
+          "width": 4608
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104575939391168315691\">Lucjan Lucco</a>"
+          ],
+          "photo_reference": "CmRaAAAAWfdDfb_-QinLAATjxtdh3cczZ-L5bMhLf5hlhjvMUv3qqKpneCGgRDMIwJTUYuGYkd3XzDdFdtpGtoi2kSsTrf1blM-mWe7sWcnvN6_8m26SXpIP_g4vgba9Sn9DQOnuEhDnsU07jppg6lcJfrfkWt5cGhSN1wsKsCuaSeYUumAciR9orvezYA",
+          "width": 5120
+        },
+        {
+          "height": 1153,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116130497781761058430\">Castle Biker</a>"
+          ],
+          "photo_reference": "CmRaAAAAp-kKVJjrdrp1lkj5pP-qKnv3YTU5RJ3Lja69ki1wpx3ooLUIjqbSFAhGZ-oDV-7ansVOkzIFgoRaO17hmCD-Ur_qAdXetr_NsoS12zFk40joO8l9OPbMUfgNq99kf-7EEhBTuqhdnELWjvRCz_j5ES5lGhSvNWW2P6WHJi2hd2MXVm0ipGWjsQ",
+          "width": 2048
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.dortmund.de/de/freizeit_und_kultur/parks/parks_und_gaerten_in_dortmund/haus_rodenberg/index.html",
+      "popularity": 0.43808460217651446,
+      "num_google_reviews": 447,
+      "mood_params": [
+        0.0009867350877988772,
+        0.004799208963910976,
+        0.019484650049089086,
+        0.019224449487569278,
+        0.009863322822453734,
+        0.027229123513784672,
+        0.024751964852499423,
+        0.0036577206274199816,
+        0.04526058406872722,
+        0.006717818100552406,
+        0.027875811601244426,
+        0.0024145443332630172
+      ],
+      "top_cats": [
+        "science",
+        "architecture",
+        "engineering",
+        "books"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.40889436994992584,
+        -0.8498435262957076,
+        0.061773457083186385,
+        -0.6057002100970696,
+        -0.685786420436434,
+        -0.40388410752019904,
+        -1.500546376399068,
+        -0.7048539837204331,
+        -0.16913048182713789,
+        -1.9947445396917334,
+        -1.1915871395149047,
+        -0.5650588841087316,
+        -1.6431038544345784,
+        -0.7753929970026204,
+        -1.576305557135446,
+        -1.1526662700581494,
+        -1.7738306398827417,
+        -0.4674375144306869,
+        -0.963704225903435,
+        -1.407401644064952,
+        -1.0954634118114668,
+        -0.9687684603989588,
+        -1.8386017816969322,
+        -0.4837331618199768,
+        0.4890889234973569,
+        -1.112518316002163,
+        -0.9742093969047968,
+        -1.5711566183073635,
+        -1.1186344967363786,
+        -0.6784196592384942
+      ],
+      "global_mood_params": [
+        -0.6720484586363503,
+        -1.369974318646066,
+        -0.7813957502566007,
+        -1.646415247171549,
+        -1.0638593057063175,
+        -1.5908280326425193,
+        -1.6757808670496221,
+        -1.03414937309581,
+        -1.0126500634910667,
+        -1.438026304473758,
+        -1.4753924662633033,
+        -1.473751182440579
+      ]
+    },
+    {
+      "name": "St. Mary's Church",
+      "orig_name": "St. Mary's Church",
+      "place_id": "ChIJMeccVF8XuUcRgacfQQio2nY",
+      "cat_params": [
+        0.1267027990073767,
+        0.03304651097868462,
+        0.23586111953723266,
+        0.14143148151887364,
+        0.16105490957191318,
+        0.12141403848270836,
+        0.25296110916499326,
+        0.1493610021763072,
+        0.20138318217561627,
+        0.12022314143815731,
+        0.022909029588832775,
+        0.034277745594450314,
+        0.08780283812434375,
+        0.08169831811128946,
+        0.1440478633053257,
+        0.03153674267087596,
+        0.07939792817614598,
+        0.23976837953213098,
+        0.09132939061989842,
+        0.06472396267752102,
+        0.2606312664117288,
+        0.14447855215649097,
+        0.0791352000476168,
+        0.13114922758857353,
+        0.0492610424146447,
+        0.17604285958838184,
+        0.17388672062418856,
+        0.12626746747015377,
+        0.07162753223152221,
+        0.21885970064946256
+      ],
+      "noncat_params": [],
+      "quote": "Historic Lutheran church with Romanesque & Gothic elements, medieval art & sacred music concerts.",
+      "phone": "0231 526548",
+      "int_phone": "+49 231 526548",
+      "hours": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.5142111,
+        "lng": 7.467604499999999
+      },
+      "address": "Kleppingstra\u00dfe 5, 44135 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3716,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111351494077215904752\">Harald Helmlechner</a>"
+          ],
+          "photo_reference": "CmRaAAAAvU5BZ8XHdPLwpTpVK7f8sORLdsratzzY6o8NiEIIXpU1H_JjdmRxnXAUrH_M0uZfPCEBn_9gNe8pEdT5hEcRirY_xcNcOknG-6zaqAuJ3_q_JMOFVR-ElLapO9IINc0oEhC4juM0dbF6brKfOzoAYAZeGhQaCE2QYYj7Caum37EQxu3q7W4VjQ",
+          "width": 2972
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106732022530530587460\">Ahmed Al-Tameemi</a>"
+          ],
+          "photo_reference": "CmRaAAAAYVTxMNToO8OjyC4Kdq9y966fL6A87VtKodLnIVUaLgzt-Gfmdr6m89iBev6tuYi2mNwJI-hliVipW0xDxf09fcT1oN8KeFGH6qMB3xPLq2lSR4x0r0jPX0goA_KYgENwEhB9a9XsyUtYSA0sb2eaoohEGhSPjzl7VuMflJ00Xg_fCh9tEL9CBw",
+          "width": 4618
+        },
+        {
+          "height": 3868,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115178279059568928867\">Ryszard Magiera</a>"
+          ],
+          "photo_reference": "CmRaAAAAesXWBF6WBxW86I8k8L6UcKphTbK7ruvl0ExwDnxLMRQkbDwTdGGU4u4vy0Mgm0zaa6QMthW2W4aa92mLXwyA6LBYBcAGtoIdC-XWtxorKVCZd-tGEpRLZ07O58jKgtfQEhApBX6FUlvyByDxE7JUq8iSGhRh9f03sT-ThdweuuU-dMcI5KuZwQ",
+          "width": 2900
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109265679180086209218\">ausmRuhrpott</a>"
+          ],
+          "photo_reference": "CmRaAAAAWLAYwKkgX_9QiTWs0HGq4I1DoRieYRKuj-WQJpbz1dqgvVlmSNeq4Zdz-wIe5xFJWhjiy-mRVU4MpdFwvpRxN8KFUknzn_E2OS0sc2FNZxuwzI-CvS5npurCKgsVaDAXEhDCDwcEyFsm_Qenn1nIS1BLGhSXh0CqEX3K8oUnGTj9HzG_frDLpw",
+          "width": 4032
+        },
+        {
+          "height": 731,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103009997845259376046\">aorta besler</a>"
+          ],
+          "photo_reference": "CmRaAAAAnPQtqFQl6EDyXprhPzeukf-TF0nQoROqfAbjHoaM9O3N6BCpcJxZwmbjAAFoCJdzs0bPnlMisw78Qp3z_CwklYA1jyM5nOrFGuqB9BMD3Bp3cEnX6mthXme5G_5jLRN4EhC4gM-OKASmlY6BqCavI2nTGhSi8xVCPjZDpJVxutBuEytGlPFgTA",
+          "width": 1300
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113497231555116675771\">\u041f\u0430\u0432\u0435\u043b \u0422\u0438\u043c\u0438\u043d\u0441\u043a\u0438\u0439</a>"
+          ],
+          "photo_reference": "CmRaAAAA0THf5IZlK7kTJln_U3n4SNWv2wq0G84N9bj-hjNuoachy0NLfEGLF5gzPH5uOcVTkxeQM0MXiixD5ZaRj6R509pP6vLnarW_uVlQheyw7W8QGstKYG2sw_oKgqMu5FJCEhDg8QHqXakzLQmeN18_FZknGhT3ISQXcOba40hU07H9MSPEMFQkMQ",
+          "width": 3024
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109807869062304349577\">Lore Laza</a>"
+          ],
+          "photo_reference": "CmRaAAAA_DsvEJn3TemShT3L-RlrwKwHhcldCal5pg5dEyaY2ICphqqk8lJKNaqJdHbw4AQ5WBILhdBN_FD1b3Ur3ioYC11Sx7CEn4CyoTGyO1D97FkiM4Ph14ENM2t-j3Q-DPq1EhBmJJ8IWal3mcJZwnvn7MAnGhRKGAH72WfyjawAXvGS_fN2acImRg",
+          "width": 2322
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116364386716242830175\">Martin Pol\u00e1k</a>"
+          ],
+          "photo_reference": "CmRaAAAAdf_ATTKPNT8NfpnQ6FprmpCdOYAgxZbSW_qqXLKL9uCh-pG-0klmPZfDvce8eMYIpiJOwyIuYSw8a3pOZafin-RJK7Ihq8dUltSUlHwSW7xO1m5w8dIZZlijygn15UW1EhD9GxFwHE5aQtyUxRE_ClavGhSmYi0jhnvTk_DaQaHbhTQLjhblSg",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114627060021977016137\">Frank Siebrandt</a>"
+          ],
+          "photo_reference": "CmRaAAAAvdbTCGUsHVt_zWr2ExaMOjP5srZiFoGFcsikncBeLX7geeOF7fnGiJeP_NlqdDD-NxTwM2fCdxq7P6klaOJeNJPWGqpx-ubzEmz-bp_lck6BTicTcDuy_BzGz77v-dOgEhCM4QaHF2ci0IODeIfFgKy3GhRdtysRo01RdOdI_kd4UwlEbtatNw",
+          "width": 3024
+        },
+        {
+          "height": 1018,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109805373479166206534\">Zbigniew Jasinski</a>"
+          ],
+          "photo_reference": "CmRaAAAAlOH_QdrXNAuTFXhvqnz1mrPtsvWc5jeSVCodqoXKswoROiY5AM263JhXwrmD6ZWVKzK64bZ9xgFWZoDtlSmP5WHdxH2_mzyRR9dx9I7zVScAA4HoxtlOmtMEFuM5vFa6EhAM1I_3_DfUmUKoUIl7DNjSGhRBbgRGiuRz455v32OxOaAzbvAs7Q",
+          "width": 1280
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.st-marien-dortmund.de/",
+      "popularity": 0.2892916106720414,
+      "num_google_reviews": 85,
+      "mood_params": [
+        0.00027570164344182407,
+        0.0012447314181926418,
+        0.0059174647702178,
+        0.008113497013168791,
+        0.004189523180029944,
+        0.010503512247583571,
+        0.012881775543957757,
+        0.0031655052995609926,
+        0.0094299683064222,
+        0.0034377340912125085,
+        0.017102793767020556,
+        0.002341259114460521
+      ],
+      "top_cats": [
+        "science",
+        "architecture",
+        "engineering",
+        "books"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.4187802965056393,
+        -0.9470692433837735,
+        0.1102121067367576,
+        -0.6420263249717656,
+        -0.8870405623075845,
+        -0.316371747583035,
+        -1.5465555803906283,
+        -0.6860994851587908,
+        -0.07747927938956459,
+        -2.1385708731998485,
+        -1.3047690846133908,
+        -1.012589905849869,
+        -1.7907931679180982,
+        -0.9114017433587246,
+        -1.588563641083565,
+        -1.6261019554708371,
+        -2.114783637481058,
+        -0.5664175824370596,
+        -0.9505201965719098,
+        -1.4133133143913794,
+        -1.3506651896037456,
+        -1.0823828984487258,
+        -2.005874273117504,
+        -0.34575885536933426,
+        0.6249244856545488,
+        -1.3240315409865215,
+        -1.089709336434615,
+        -1.911016867469836,
+        -1.3737581908702483,
+        -0.7623646917196274
+      ],
+      "global_mood_params": [
+        -0.7198881173205579,
+        -1.4764629686027977,
+        -1.0256678657179565,
+        -1.8177067595962357,
+        -1.1883835775830327,
+        -1.8011528786278375,
+        -1.9004194862569737,
+        -1.053776818813687,
+        -1.4866419843930463,
+        -1.5655007881873337,
+        -1.7246822841214675,
+        -1.4782313184261198
+      ]
+    },
+    {
+      "name": "BINARIUM - Digital Adventure Center GmbH",
+      "orig_name": "BINARIUM - Digital Adventure Center GmbH",
+      "place_id": "ChIJVYvR9tQbuUcRgzp8nBgm4Uc",
+      "cat_params": [
+        0.16335600566188554,
+        0.08499041205051151,
+        0.1647662844910679,
+        0.22537497642840035,
+        0.10605422630459058,
+        0.20875819881894783,
+        0.37595903174402223,
+        0.2059259766914945,
+        0.1333206422126223,
+        0.29695555726487116,
+        0.0931326553668511,
+        0.052007793450894436,
+        0.19411031335618004,
+        0.07658792808760062,
+        0.4247463427649239,
+        0.15531004957394207,
+        0.4131557275426462,
+        0.25797851827644813,
+        0.1412940963687169,
+        0.15447576644051655,
+        0.3252854154582744,
+        0.15052589072115805,
+        0.3209675516879138,
+        0.06429841008874831,
+        0.07747596514403401,
+        0.23654441014986458,
+        0.31647261078247285,
+        0.3024038983424399,
+        0.12000446009096082,
+        0.1368521595463023
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "0231 53315125",
+      "int_phone": "+49 231 53315125",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.5366391,
+        "lng": 7.415554999999999
+      },
+      "address": "H\u00fclshof 28, 44369 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108251828716458673607\">BINARIUM - Digitales Erlebnis-Center GmbH</a>"
+          ],
+          "photo_reference": "CmRaAAAAuoUiSt7SD5NUbKnRvfRmutTzREYUVOgSKCdSQeGwf1hyeSlwQL9dG0fHpb6fXxOTjd8AaoRzM2zRM5Y-KvkpQp1ik4j9alN3bYvIjF6bukMxS8Ipex5E6dzuuej5XhJeEhBiXNJPFVIa2Cv5SD2AFO-kGhRxnAI8vePD-CVpI4xA8GBXtv_O2w",
+          "width": 1200
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105804476754333567904\">Gustav_Altan</a>"
+          ],
+          "photo_reference": "CmRaAAAALhzK9ILnI_wD6zBGZgVGvR2ZkVvZqi0ntUKDL3nhymQuf7dQTJjvaBR_6CkDQWcWZc4t9R5B6VtptidOe8NGgmZPdIPjPOCnpcOvGNnqM_ERGnzGfTuk5nJ7sGxbfrNYEhANjMlrqXreq4C9NQiWSlaqGhR8cZ2YnxWSEmGVQWkkr9tJk51NxA",
+          "width": 4128
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116932557678399962646\">Janet Hoffmann</a>"
+          ],
+          "photo_reference": "CmRaAAAAHfRoXchEgsEcFfCY5dBOEBANTYgfTofmQmNU6T9qbNCpg9IGR2oxywJKp2vInVtTPbLsJTx2MchBXnTJYz6wFdw3XZYCczs5nEKlvWsInJHFxusqD0zPr802JiyiGLBFEhC0hmjDbGPK38vxhuEuiyDcGhQyXdUcUivL40sNROvVnMBSoZ2i6g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101366575460751291831\">J\u00f6rg Schulte</a>"
+          ],
+          "photo_reference": "CmRaAAAAw2pRYGIthueLjFBpc_YQIJlQJfRDue0OAzmlrntr-qEFyn7ea7rNbUUBw0FVL-RPv1WhLx0ZCgL_Wtoh7e6KwIsQRwXEyP1NfUiw5H7kcP0MGvBMrex40vKjFFddrxLUEhCjAjL0RpO7mmNEdZPocXqxGhRNv9TTfaoUyEC4t3WkM7jJQAs9sQ",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105804476754333567904\">Gustav_Altan</a>"
+          ],
+          "photo_reference": "CmRaAAAAXxAbrYhovfpq7StRg_AyjKc4OIRRXLiYB6jMkovZ_S8LK4dkKKUNIponsu73-NfaJ5BJXag4NE90FS41GMBUYYiBWjhhEq1QVDDRU69xrR6kbphbHv4tjeZkvjFW3L3OEhCJeJ--oP6KVJVOiNqhG7hYGhTAK4H_Lk5XJZoQuSasjC3AFqa9Cw",
+          "width": 3294
+        },
+        {
+          "height": 3094,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108894668653197686429\">Steven Hoff</a>"
+          ],
+          "photo_reference": "CmRaAAAAe61nU2qTfbiA_AMKtSARC46Ex7t68n0ZOyJkb-upBTZK--ZVVpqAPCGGZg7YtD6d9r5yyUt0zR4aU2of1Qq0Fvv-opQvElziw3zGXQvJ2jh4RpyOjuCXvRsg6QmuoXwJEhAoyLAFGf3Ap2g7tl4kYX2IGhSIl593WhlbbrqzSWpRQ9MQlbxtqA",
+          "width": 5169
+        },
+        {
+          "height": 1936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108251828716458673607\">BINARIUM - Digitales Erlebnis-Center GmbH</a>"
+          ],
+          "photo_reference": "CmRaAAAAreGpcFTsXxeZ4Hti3j3E8SwyNboOT5EnBu8RQoWAb3cbOkJIWZdfVWqj0IfdGtwigaohFPKzr4HkLvaN7D1EXanwZ2vLEYhRkTT-PE3BMN2sFgL3Gq87_UWtaZGG7XacEhBAhv35qbBN_FqdpAdpzJyiGhSC2V_ThTvwQHv8Q4B-qREoPLIl8g",
+          "width": 2592
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114258449920624788114\">Marc Ernst</a>"
+          ],
+          "photo_reference": "CmRaAAAAsJBQVXzz8QSuPo4cWYFQj040iBh7dPp8qf6fDv4bIdHhIhv37o8bToLGAWSmtjjvyPYu-6y5QxFTVoPsscqtmY25A0BnZGP-cDhUlt_4lZy5Y4Xfj4EbVYW5l0DctLYqEhBdDdx0uHOu7HnafkswyVW4GhQScz8AqiJLtWINz_7cmF7tPywvEg",
+          "width": 4608
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112447517489824181409\">Christian Kleibrink</a>"
+          ],
+          "photo_reference": "CmRaAAAA9REgvmhmNbt6avfVhP53XxPXqwEFvJQoihLJmsYWOW1c2EIJ-O_XOeESw9xOsUEbypFGHz2SQoYoQhcBUosLrXbQXG4GzxAj8Zmt5qWpiIW9k0Djyy5smcSu80vVTRXnEhCUdESc9gleYjZyfFzinwDmGhTF_mLpnC78u_ZamIkx71P_Fm6R4Q",
+          "width": 3648
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107842413606393491189\">J K</a>"
+          ],
+          "photo_reference": "CmRaAAAA8lIA4Mf-4ZxSi1gEl5vAfYsH1omFvHOIHlQn_aK-CCbZVTXrUZx1w1B8tXgSHzaygaUoPqh_wFun40DBpbhOagLYc3e9JuxTwVSYGGxoXb843BzMlvNkDNMfKSvJ1rmOEhAonC2oUYGI6SJ0XyPfmX4JGhS8LbvKyx0EfIIzJoIrddxnFXC5PA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://binarium.de/",
+      "popularity": 0.4498525692743626,
+      "num_google_reviews": 497,
+      "mood_params": [
+        0.01782954425727063,
+        0.054101179209561485,
+        0.01137704590210565,
+        0.13929144526641246,
+        0.011486502938413419,
+        0.17061207479396262,
+        0.14661291507589333,
+        0.04513038063347709,
+        0.07634440642044227,
+        0.07901858027334743,
+        0.1064772598929357,
+        0.022658817921851548
+      ],
+      "top_cats": [
+        "history",
+        "science",
+        "books",
+        "original"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        0.025948803644908806,
+        -0.32599073545415774,
+        -0.5881801032078566,
+        -0.04214757074058332,
+        -1.2263037615811971,
+        0.8488577947133835,
+        -0.23763200790730563,
+        -0.057899673251568286,
+        -1.084738668380091,
+        -0.25943890642717043,
+        0.13948399089532668,
+        -0.8442043002601117,
+        -0.6420143106998685,
+        -0.9489530331476189,
+        1.4637546414797178,
+        -0.17648294585477578,
+        -0.3037997500116357,
+        -0.37594643021343427,
+        -0.3127416616245152,
+        0.3750699376893975,
+        -1.0353463739373399,
+        -1.0233048416956674,
+        0.7207436968692353,
+        -0.969372235510022,
+        1.4372975537313335,
+        -0.8752656165713667,
+        0.24630819448999594,
+        -0.7667661884571596,
+        -1.0817343094942535,
+        -1.326259487296516
+      ],
+      "global_mood_params": [
+        0.4611672126452854,
+        0.10706420083774727,
+        -0.9273701418196877,
+        0.2045923371585442,
+        -1.0282349737236858,
+        0.21221501702255896,
+        0.6303892269505199,
+        0.6196032367336172,
+        -0.6014519762685353,
+        1.3718109752518446,
+        0.34346099054388946,
+        -0.2361605729372138
+      ]
+    },
+    {
+      "name": "Hoesch-Museum",
+      "orig_name": "Hoesch-Museum",
+      "place_id": "ChIJj4ZNb1MXuUcRClzezybZrjA",
+      "cat_params": [
+        0.12569466654441128,
+        0.035813885448725484,
+        0.24445387879181701,
+        0.15564924086906035,
+        0.15136367541717635,
+        0.1322415831867111,
+        0.26152273330224346,
+        0.16738837461989214,
+        0.1981629560804361,
+        0.13539571522603333,
+        0.024548125196955137,
+        0.03469185379692138,
+        0.09384053316809109,
+        0.07738978453646587,
+        0.17269538103881213,
+        0.03656550614500335,
+        0.10149730479434803,
+        0.24962266340227562,
+        0.08593112198241955,
+        0.0691391394919271,
+        0.25775968623853807,
+        0.13951701759098117,
+        0.1032124779444094,
+        0.11173963088912932,
+        0.0536366216582133,
+        0.18206715566189144,
+        0.1714657957573892,
+        0.14561339337055967,
+        0.0688233952425842,
+        0.20911675650606892
+      ],
+      "noncat_params": [],
+      "quote": "Small museum offering exhibits on Dortmund's steel history, including a 3D steel plant, plus events.",
+      "phone": "0231 8445856",
+      "int_phone": "+49 231 8445856",
+      "hours": "",
+      "coordinates": {
+        "lat": 51.5294649,
+        "lng": 7.4822903
+      },
+      "address": "Eberhardstra\u00dfe 12, 44145 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114055445747735121810\">Stefan Krebs</a>"
+          ],
+          "photo_reference": "CmRaAAAA-AY8C3uRvHSc2xZgz5LfEEqdsDUE7XMPPCNZPiQEN63ES4oJq-YNQ3b1ipiAPr2a9yZu6Y4b23-m7C8h3IQbqQiVOjI_7GDMbIgonef0Z6bEpVLakb3AVxAVX6gkghIhEhBV174lVhL2aKEbzErSZbDjGhRCicYh5HfPSB778H4ucEtPO2KjBA",
+          "width": 4032
+        },
+        {
+          "height": 5344,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113184965862165541983\">Hartmut czeh</a>"
+          ],
+          "photo_reference": "CmRaAAAAx1OPi4Qm6oYD2BPL1nhysQb2zR6GDmsH4e0GsycIiJUxVopcsUupwZBZHH-4jjNV2KNdrTojmedMgEfnuLb7i2rl78g4CsLfLGy2ux6Xm9u3WG4hB7M6PJZkDwKgSOftEhB4390cWLchWJM37s0roI64GhQ4GIJk2VwMnHU1i6Jk01wz5dI1yw",
+          "width": 3008
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104423828194579249061\">Ruhrgebiet. TV</a>"
+          ],
+          "photo_reference": "CmRaAAAACGHEf--p1pSR2TdUW2KQSqyOZun8ycCS8uqHT5ujoArigh2JPsV70MCCs8I4eVgHpb1fSdwyp81DQIlDoghRLNo29w_eLGRps3vf0o2MR_FEJSEseryc8dBncLYXsprKEhDbZW2VMcuRsOetoie5xcDBGhRTYF0FMWY8CurMuz7RGFhIhxkuBg",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113227425280633466546\">Helmut Guth</a>"
+          ],
+          "photo_reference": "CmRaAAAA-1neuxH31YufpDz9VmPcJLn4hZFw2JDQQMa2vWsCI-8RPJLhWCPDMz0SWWK3OHxtSfcJTpvfJAfXuZzWI0rezp6-cV-3Nh46ffcfZDhE1DquSlut4AFUuszS1R4lCB-GEhDvokrMnJOqnkvyWBJl7ehhGhSumAqThjLyDf5kOI3J2WxSkE2P7w",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105739939094857514785\">Patrick Schallert</a>"
+          ],
+          "photo_reference": "CmRaAAAAf0HAbX826lFNPz5wCPMJgg5WGcs_n73iWGGFoR_XK7EO3Qc4YLQTx0iVs-52PW_Ql10g3toqfTrP84ezPv1dleDbEkIToCi3cg4uaB6_j5TzHh8S74J3jdBjn6vEUPTHEhBZEniIYQMQ5TG5MkS-TyCdGhSF3c-wFtdQNxJjQFpEzUtg65UhKA",
+          "width": 4032
+        },
+        {
+          "height": 5184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114350151836992507484\">Hans Monasso</a>"
+          ],
+          "photo_reference": "CmRaAAAAqRWg1RLJpEBLKvBfxPnmutZiGAvolf73QCIaBOfGuZnhMxHKo23wL58ChMXqdH9WZKUtrjZ38LwIt33NgSW_x47uzmt_-_QmUjKjkpkLmCSbIOiAjlhDnutUJsw--IkXEhCdz6tblehA0zAGjtAgkN6JGhRe7X8jH4kIaCXWS0y4z4uN6799lQ",
+          "width": 3456
+        },
+        {
+          "height": 5344,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113184965862165541983\">Hartmut czeh</a>"
+          ],
+          "photo_reference": "CmRaAAAAXH08uXhHC0XAL3LHLNcqDrUr4wddlrj-Iw-vxkC5DpdyWWch-UoXc2Zot-MoUmC01UP0l-n8lNibx4eIl17dn6x9mTlA9_n75THx0GsJT8Z-92hGcVyws7mWCf2YY5fGEhD7nVBMDnGlQXPDAnTRkUKwGhSrEJ9An68fMp__MzD7ye6lfzFh3Q",
+          "width": 3008
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100280437536700209635\">Carsten L\u00fcbke</a>"
+          ],
+          "photo_reference": "CmRaAAAARQTuQYliYV5ql2rV5AeeecSAhFrqAsiUq2JaDv1pPgVucW8pTGXmqoQHCJTywu-6UPVb4ytIKVsdyR9eveU3ghhoETtJU_xBl9FFG99I_-4gH5v_KSaQeZhHDr9P0zOaEhB2L71PtUFm8FgN55lmx90fGhRyEft29DM3vtgCafL8IxrMSGZgMA",
+          "width": 3000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100280437536700209635\">Carsten L\u00fcbke</a>"
+          ],
+          "photo_reference": "CmRaAAAAAoyw-dwIzphzN5xPrstJCArfIjqCD35CCwUWxwOGQycz-jNktRNdoAK0n3DWEkKE15k7cjcZ3LU5EuLRSIHuN2nQL-KJoxqZBzSOi80V29M0UdZhxZ-Gm4-xyOeiie97EhBKKzXYyYX7Wk5_-8JUtpMhGhQFcVaz-lh8gPzBa0L9LBXMCYCGhw",
+          "width": 3000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100280437536700209635\">Carsten L\u00fcbke</a>"
+          ],
+          "photo_reference": "CmRaAAAA3h8BALv43C2c9iZ7dyzLEKU0oE1u63q-fj556J0k6MuAGOyXFuy6WtGJdqpVp5qmml2z4mjbFpg4mUOMIU_uvF_A9YyXwSY8Y9iKP1UdEQq6c42bXZKtymnM5IknfFuCEhCiTyjoH3hk0LiqO9bd6XxQGhQhJiCtRcZdf76-kxwXu51tBEcDoQ",
+          "width": 4000
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://hoeschmuseum.dortmund.de/",
+      "popularity": 0.3532617036932449,
+      "num_google_reviews": 189,
+      "mood_params": [
+        0.0011239242408959244,
+        0.009388139501703497,
+        0.0015647186166125831,
+        0.0206950085589722,
+        0.0003286356457290416,
+        0.019482969445586074,
+        0.0197388990432356,
+        0.01064875196988931,
+        0.011741796936858433,
+        0.00810677340299975,
+        0.030505061340854584,
+        0.0034820339719532066
+      ],
+      "top_cats": [
+        "science",
+        "architecture",
+        "engineering",
+        "books"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.4310124007063235,
+        -0.9139805309214802,
+        0.19462212219617092,
+        -0.5404230765468444,
+        -0.9468194397492605,
+        -0.17192505634379898,
+        -1.4554441907263962,
+        -0.48589092720742333,
+        -0.12513549337755395,
+        -1.977246374297676,
+        -1.2710586510256028,
+        -1.0086570422153565,
+        -1.7255486834877962,
+        -0.9430609693832375,
+        -1.2770502253489344,
+        -1.5672056448740217,
+        -1.9948714884476968,
+        -0.46334550652160955,
+        -1.0194268339925687,
+        -1.325337051644505,
+        -1.3646699096821087,
+        -1.1308534475190315,
+        -1.734407125994828,
+        -0.5268199800884088,
+        0.7509075609513798,
+        -1.2793467556993778,
+        -1.1123931942799092,
+        -1.7853382174708514,
+        -1.390685164195197,
+        -0.8293584757320623
+      ],
+      "global_mood_params": [
+        -0.6628181160815455,
+        -1.2324944748632898,
+        -1.1040374382676348,
+        -1.6237444376229697,
+        -1.2731194229258769,
+        -1.6882360517242911,
+        -1.7706511468840185,
+        -0.7553768919885113,
+        -1.4560595322072967,
+        -1.384047089436415,
+        -1.4145510939777388,
+        -1.4084924737591364
+      ]
+    },
+    {
+      "name": "St. Petri Church",
+      "orig_name": "St. Petri Church",
+      "place_id": "ChIJ7XQuqeYZuUcRvQjBV1y_dMI",
+      "cat_params": [
+        0.12358569585931864,
+        0.03334446007952698,
+        0.2368553285166171,
+        0.13934155834076997,
+        0.15634598217371543,
+        0.11946467147994118,
+        0.25265832283600426,
+        0.14816063984069694,
+        0.20097188449015707,
+        0.12111065815985748,
+        0.02308014106125297,
+        0.03363056914151924,
+        0.08802526130964401,
+        0.07714980727885597,
+        0.1451313513029961,
+        0.022746830696765665,
+        0.07652132467847067,
+        0.24255910602136027,
+        0.08328389047990273,
+        0.06386341177561235,
+        0.2556488664982622,
+        0.14082079319356214,
+        0.08022830958974594,
+        0.12539509283513275,
+        0.0491914646711212,
+        0.17832784526147843,
+        0.17273559416607134,
+        0.1257193782564511,
+        0.06782955836076884,
+        0.2128083207519969
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "0231 7214173",
+      "int_phone": "+49 231 7214173",
+      "hours": [
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 51.5146217,
+        "lng": 7.460640799999999
+      },
+      "address": "Westenhellweg (N\u00e4he Hbf, Petrikirchhof, 44137 Dortmund, Germany",
+      "photos": [
+        {
+          "height": 5984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103740687337566733336\">Ev. Stadtkirche St. Petri Dortmund</a>"
+          ],
+          "photo_reference": "CmRaAAAAAKs94VxB9S1zEbPeoYpjpZZSXHGPt1UG5GXWIhKqGqaK9Y8Lr6iGnB9PO-lSIH4Hs-8uFRmFy3wY7swSEXP3HmYgM139qcsptLsepzB19lnx9vZwjOQqlcDGHkWwid_9EhBsqpeSeAxzPYZDFBIF4j5AGhTugw80B7sUgvezxIlg1Bi7QqWeiQ",
+          "width": 3366
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114573115389673403299\">Herbert Waibel</a>"
+          ],
+          "photo_reference": "CmRaAAAA_-Z6hxgafq6No3udlTDy01IB0Xn4ZL3ghoMpD-hojN3509fB5sQgLvTPe7z0CHSFh3LRhmgKjyICYc3rNsyzGBTAgXL2zr_hSO2Vqi6gpEW30eZZm203kqzmpE404gs-EhDSwqS8cT-v9yWLAnvTsc2AGhTx4yR15ottECkdmX0UQADx6aruyQ",
+          "width": 3024
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100886312746560908547\">Werner H.</a>"
+          ],
+          "photo_reference": "CmRaAAAAfRhcqKxqazMyUoBlOVws-FkAKsDGbKU6oXbm7dapmLy6u8JnedG5tR-hGmPujG1ukegWlwMv7Dh6xjEFlW7BIK-aB2zoP7UhpuipNwGoNgdcHJS_sj-KfsoUHvPrgtZJEhDN_cZjM15tBx3H-TCMkoUUGhS0zBNWMGO7vzcUhTdya3wcDQ1W9A",
+          "width": 3264
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114802749640161377807\">Beata Sz.</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ3VIY-u-W4d77ovI6KUuM_CKZSuFoWjt-PWZARNwgxaiydknImz-ElMjh24FvM1Oc09PPuVSLaOHiRRZk63XqQKHYxhz5ywrof6n7_PZPBghFli5q9qFWhOpA9oa_JCHEhDs1ueVMY_Fktj4BofEpiX9GhTgcnSRD_updRWi1QZ97knJS6e1Xg",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113546077199109726467\">\u041e\u043b\u0435\u0433 \u0428\u043a\u0430\u043c\u0431\u0430\u0440\u043d\u044b\u0439</a>"
+          ],
+          "photo_reference": "CmRaAAAA1UdxqR2BNiWMpserEfGhV_IpQWrHx-Bb3-y_SdTIPrVTTMAz9giwEa4lteXcgQRvRT0N4S_2_q0OAl-K264YNrVo9BPark6xzl801BYOd0kn6Ar0z4CTELhWOqrC6lqaEhDhzkBhbFtXij2mv8EqQGwsGhR5u-BCzT0zU1JvYpDYJP70Qt59Kw",
+          "width": 4128
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110446434292855177449\">Avadhoot Adawale</a>"
+          ],
+          "photo_reference": "CmRaAAAA91nO_aSjf3V2WJi8Dck6V9KV9qasc0HPqfjpuIaadERWFHR1xsIvlwwa0_-faz3MMcZWkI_pVoTXfdRMhG8XNbhViVwe4WMIeWtf6t8G6nCzEA-5AWDsI28feNlUdD_VEhA-pxdSlOuyzM4rXFvyU8mRGhSUtoPSRZ4Ipb04IYb92UJyYPoJug",
+          "width": 2048
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105962405812933081152\">Frank Shen</a>"
+          ],
+          "photo_reference": "CmRaAAAAJUBXJSJ3l1hYiT8kFdLFTcIh8rc4rc9UBWMLaFHEhE009iKRpesddmnvAYgiUrXPoOl21MDs7XyMh-H8YymWbK22VnJNN4Zl0lY2TcLH-vFyT5kHLR5HUfYgWXj8XG_YEhCW7ys9QNRGNxs4zYCrx7VZGhQvGI6c0hznjSigPk_MUQQDsLJRUg",
+          "width": 3024
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103740687337566733336\">Ev. Stadtkirche St. Petri Dortmund</a>"
+          ],
+          "photo_reference": "CmRaAAAA_061Z3OlST8GL7IWfFamz0VpXezKa8iCUJxz1LH3C8uV9shlNLw_zXrxpAnYpY2DoiWgpdovWlznzkREG2x_YFPdK7P6RtQbe_BoKYBiWQzIvVJZqTmYBkgTldDwTA8lEhA8LtJckQkDSxn800mbDEDgGhRAT-h7oZBSmPQCAu-ZymppICKd1w",
+          "width": 2160
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107324396915859430089\">Gerhard Giesbert</a>"
+          ],
+          "photo_reference": "CmRaAAAAdUR6a0OBpDb160kB5KA8V5x6Ar2vLE5ryNgFizLRR_WfKXmsI33eYcjd-TIZs48d051Kvco-TKd7YpbYrbHOC4k4mFV4-BxK8LgYw1-iiYDaFV-Z3RsqDDoC7exaoMN8EhDBegg5OZNPRWp988D1P2Q1GhTl2iZAQVMc7P1n__Up_-_aI98Asg",
+          "width": 3072
+        },
+        {
+          "height": 1300,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103009997845259376046\">aorta besler</a>"
+          ],
+          "photo_reference": "CmRaAAAAwpSu52QrOpOekmLbm2eQBc6LR6hyO0o5DhXZo2cQl816I9fxZR_T_ScNl-pM-JbqhnM_duOB5Ef984dXJPfLgy4he2duK1l2eEVd68__CFOMkxlWrymiSe5i_CvEKgD9EhANxuewCdGlZGdYjnGJKHVMGhQbNBNqqoL_II1SYyOg5sHlk9pqtw",
+          "width": 731
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://stpetridortmund.de/",
+      "popularity": 0.32046721079171164,
+      "num_google_reviews": 128,
+      "mood_params": [
+        0.0002753122343409176,
+        0.0012641935179640669,
+        0.004523546118988233,
+        0.005923850848871769,
+        0.002715558970973641,
+        0.007276676333926145,
+        0.011797945932798088,
+        0.002834693582862267,
+        0.005960837009505673,
+        0.0037709352627065826,
+        0.017413306928320837,
+        0.0033678374382010707
+      ],
+      "top_cats": [
+        "science",
+        "architecture",
+        "engineering",
+        "books"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.4566014479039104,
+        -0.9435067504024655,
+        0.119978608140245,
+        -0.6569613775791288,
+        -0.9160868519053884,
+        -0.34237760775339954,
+        -1.5497777824825762,
+        -0.6994304801767135,
+        -0.08356608507701166,
+        -2.129134228343325,
+        -1.3012499232548063,
+        -1.0187362625789977,
+        -1.788389620546939,
+        -0.9448243290292689,
+        -1.576781780951675,
+        -1.7290484130661015,
+        -2.1303922093101395,
+        -0.5372276406465075,
+        -1.0532176349997715,
+        -1.4304605443746392,
+        -1.3749643948838224,
+        -1.1181165173440677,
+        -1.9935496519470228,
+        -0.39943591658683675,
+        0.6229211810374085,
+        -1.307082823171091,
+        -1.1004952923707074,
+        -1.914577467919345,
+        -1.3966843897873138,
+        -0.8039747873807932
+      ],
+      "global_mood_params": [
+        -0.7199143174924678,
+        -1.475879903242748,
+        -1.0507648516231431,
+        -1.851463343833411,
+        -1.2207330314715148,
+        -1.8417303950939392,
+        -1.9209305312772706,
+        -1.066968177645572,
+        -1.5325340287328633,
+        -1.5525515322572963,
+        -1.7174969465852017,
+        -1.415473635972294
+      ]
+    }
+  ]
+}

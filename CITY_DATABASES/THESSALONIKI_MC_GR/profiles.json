@@ -1,0 +1,4759 @@
+{
+  "sights": [
+    {
+      "name": "Aristotelous Square",
+      "orig_name": "Aristotelous Square",
+      "place_id": "ChIJvZyphQg5qBQRq2CB7Bg9nuM",
+      "cat_params": [
+        0.16988268343257715,
+        0.11838234636582087,
+        0.19704879007688147,
+        0.20031219278089146,
+        0.39622097814866464,
+        0.08521380497365956,
+        0.44243985981768136,
+        0.1971194784938684,
+        0.18156108547376976,
+        0.31627946986522354,
+        0.10765264751962382,
+        0.3804719697393142,
+        0.3108511279893417,
+        0.18122044722453634,
+        0.2201109482026083,
+        0.21543901107805283,
+        0.5103771524519958,
+        0.2767707641025098,
+        0.13883724318857257,
+        0.11581054406500622,
+        0.5648659830954318,
+        0.3827544133616342,
+        0.2121604304133966,
+        0.20625513735597303,
+        0.005029344754374575,
+        0.571217305175453,
+        0.2761992089074951,
+        0.48736496156213616,
+        0.3525053641762634,
+        0.40350006711431735
+      ],
+      "noncat_params": [],
+      "quote": "Vast, waterfront public square, designed by Ernest Hebrard & surrounded by mansions & cafes.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 40.6323456,
+        "lng": 22.9408366
+      },
+      "address": "Thessaloniki 546 24, Greece",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105500619774906094724\">Zorica Nesic</a>"
+          ],
+          "photo_reference": "CmRaAAAAIcs9hhhXp5eFx1LB0_zsM3GwWAKILd1ehh4tcB4xuj9Q4e2tvm_Zr2kEAj9dfj68brtz9fQDr2_WpYue82x_atlo7Zmw3T8AaQmQDcxrRv0ajEjlLj9S7Hv5TrC15tmpEhAD9UPoxEEOSxuSPpkPiDRJGhQIx9qtcg6f2JTssnjPCL8lyBE47g",
+          "width": 4128
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109000201998995922861\">Gianluca Vigi</a>"
+          ],
+          "photo_reference": "CmRaAAAAfglU5269h4UAykHPExOaMSlPVWPn2av0zgK21GFhXAEi9jlfVRhAlvPjPGPR4I4SXOdChh8LaVz-HAF_qLpfScZGyO6qtRRNK6HeSvqwWRGY_h7jx6UJWu78BRyNQV3VEhDH5qF23t--jEsdMLXxNtClGhTq5t_2wFT2ZqJxRm-UssueRYknxA",
+          "width": 4128
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109197822145078542089\">kal el</a>"
+          ],
+          "photo_reference": "CmRaAAAA3ScABqFpA1e_TXVm8Z5Apdwf01IGDQyd7sEf4cWePx2E1BxdD2EfwChFETVuhmr0rdxlY4ZSweBBNlyjaMYqyrW5_0Ep3GgshEWbWUG8dwouNuJar98QBdrPNVK67ZGWEhD64gMIGcWduVzhLPpnf3f3GhRVNT392-TMKFNKJ9U4NtaS0zkh4g",
+          "width": 4618
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101479825999582009942\">Roby Occelli</a>"
+          ],
+          "photo_reference": "CmRaAAAAQgJ1_nQkMU050MPGhMXta7FnOz-OAguK2pqpsPBvPSbBRzOM8kJFFPTrSYsgasbmNixallpnEiYJN989kmsS1-pR5rZzl_hChVb6cQmhgEkQ22kqWEvoE2Fm9kRK2Y4GEhBGKhf2IOHhEFkGzn4KmKnWGhTwzTYCGmklzKwtkAgb8xBONkYjsQ",
+          "width": 4128
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115822181399094789618\">\u0418\u043b\u044c\u044f \u0425.</a>"
+          ],
+          "photo_reference": "CmRaAAAARGWA06EPMnJZqtZEm_9g4d87iKN5uwTv1-ZHV2gQYLwRB3BXL9O_oNX5A-BySNRGqZnD84c31qC4JgSukXXWGLw2Hp9JZEuOQGl0zisdsUjJgPcfH4DE96GTUFJg36JEEhBsG6qiUQkW1oorgZD0FVniGhQnZuO_olBSF5uuBiJzJgYhEnCkdA",
+          "width": 5333
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104649427268725281764\">roni tuval</a>"
+          ],
+          "photo_reference": "CmRaAAAAc4DVLAaFAPBFZ7oSahAoVY15hDNrmiO89mvZvjb2C-PbnYvwoOcA58rS3XVy5J0yniKsIcasv5Nwkj0omBmT4eZ1GQ9stwkwok1ecW5UyUFmy0rURwW0wEXjBCX96_StEhCw0Cfkcm9zqZfzJhzm4EupGhR3n8r8YvDPhvW1HGIt_7oStdwOyw",
+          "width": 4032
+        },
+        {
+          "height": 4624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111883793848732829729\">\u0393\u0399\u0391\u039d\u039d\u0397\u03a3 \u0392\u0391\u0393\u0399\u039f\u03a3</a>"
+          ],
+          "photo_reference": "CmRZAAAAV2_cnDAQr8AI-5znlhb--m4CXhwsbd32YxISv-G5c0mbYPnBaIrOx9Bn-9b9Qcsb4xKlPacf6MzWqRabOEBLvw2NMQ3I8R668dzOXQ-Q03bSb-NO65bGHkkzjKjfmIR7EhDEUCbzUCwLHA4-kkwHxuzfGhSNl_j6HmumuhXwBEb_gOtOygVG5g",
+          "width": 3472
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101273354434623513239\">Marco Grimaldi</a>"
+          ],
+          "photo_reference": "CmRaAAAAcKUb0h6oWHdCN_q1qwODqHxGyBUZTjxuL4w96WKvVOnE5cfx3BA5hnET2oHazPbPSAfKyqsdZrlB-2Gv-T-tTWuldoqudT_wX9k-JxBm6AYMpMae-kggOZrH8kacRDA1EhDAgB_AY4TT3_7kn0JW8bZ1GhSysex5Gry9o7d6pgbCHBfKrVWtEg",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112780539389751478394\">Morgi M</a>"
+          ],
+          "photo_reference": "CmRaAAAA6MqYnuxIjsPXg2CtFShDn1o6HS6oiTx2tN5xkUbd1-OOZtjChv-ESUJv_YPm8zOzz7PYguqyzjRRRa6UeQ50nWHvibRRtjynQ5WzianhWCLWwRy11b-C8DWeSfgp1RNQEhDlDFJevZ1l87KeQqj4K8xTGhQZrQ0Z8DFZq4cTnDOeMQP0lzqRUw",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101196049905054580123\">george katinis</a>"
+          ],
+          "photo_reference": "CmRaAAAAzRrwp7Nk9LKRkxvi4o-kZMcWE_mDhc2JtiYNM7MnE4NUpqVNGf4ewlUrmTubFcrhuh6K761gx1Dax5nBOBbPYb6ET6djNVAT6nB-Uf7l_818_E0ywrvTzz7t2n_92hXMEhAYiAmqq62wDfLgYZuRrhJXGhSmrAcnb6gYVT8C6CJET0cYdVCkAw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.visitgreece.gr/en/main_cities/what_to_see_in_the_centre_of_thessaloniki",
+      "popularity": 1.0,
+      "num_google_reviews": 27614,
+      "mood_params": [
+        0.0032359758655807528,
+        0.035311214642828714,
+        0.08248688628649554,
+        0.09634988512429705,
+        0.06125524092174219,
+        0.14627308392929014,
+        0.08534911613754594,
+        0.015691015138434013,
+        0.14921040326476714,
+        0.03326350132104486,
+        0.061811897980564315,
+        0.01883513922888533
+      ],
+      "top_cats": [
+        "food",
+        "shopping",
+        "nightlife",
+        "friends"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        0.10513978846902107,
+        0.07326716226820656,
+        -0.2710564977590815,
+        -0.22125175800652241,
+        0.5635449222067115,
+        -0.7993070847640266,
+        0.4698459816328203,
+        -0.1557029615713508,
+        -0.37082703019740515,
+        -0.05397472080743894,
+        0.43810917708684805,
+        2.2752818786090594,
+        0.6195092024166057,
+        -0.18011033635928805,
+        -0.761452838391969,
+        0.5277406691213875,
+        0.2237277994923431,
+        -0.17938665845021265,
+        -0.34410236311029047,
+        -0.3953684628238549,
+        0.13309002122189587,
+        1.2453972813163978,
+        -0.506037790873571,
+        0.3548616008982643,
+        -0.6486086825610815,
+        1.6071466475610836,
+        -0.13105011828002966,
+        0.4348127304066062,
+        0.3217408477479005,
+        0.5072471061998792
+      ],
+      "global_mood_params": [
+        -0.5207153364581301,
+        -0.45586464980486446,
+        0.3529360369324745,
+        -0.4574143449477504,
+        0.06405172129072685,
+        -0.09384820683072453,
+        -0.5290038411115053,
+        -0.5543129652182068,
+        0.36246932616730315,
+        -0.4063767327795873,
+        -0.6901045439279307,
+        -0.4699130374781272
+      ]
+    },
+    {
+      "name": "White Tower of Thessaloniki",
+      "orig_name": "White Tower of Thessaloniki",
+      "place_id": "ChIJacxIJa85qBQRFi10gJ0wGO8",
+      "cat_params": [
+        0.12400563688267147,
+        0.05856594040338046,
+        0.2997291720466724,
+        0.24937396627254094,
+        0.2968844217098319,
+        0.17998254221962418,
+        0.3912611056445856,
+        0.2008291702574021,
+        0.1949911320180053,
+        0.22736537384409716,
+        0.055882216427941625,
+        0.08930811243980084,
+        0.18387611459295788,
+        0.15828295828770542,
+        0.2913515049865783,
+        0.14922406003974412,
+        0.4892191998977655,
+        0.29970001479682684,
+        0.13250924889015772,
+        0.10530754677480378,
+        0.43839993854104636,
+        0.24073580326009156,
+        0.25770271052914656,
+        0.14358761950490798,
+        0.04465417563893273,
+        0.3566416405031685,
+        0.24262350355142406,
+        0.5048580545027125,
+        0.23931393057816677,
+        0.31918721916210313
+      ],
+      "noncat_params": [],
+      "quote": "Landmark Ottoman fortress & former prison housing an interactive exhibition of the city's history.",
+      "phone": "231 026 7832",
+      "int_phone": "+30 231 026 7832",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1530"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1530"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1530"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1530"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1530"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1530"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1530"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.6264463,
+        "lng": 22.9484257
+      },
+      "address": "Thessaloniki 546 21, Greece",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114269938409528527994\">Iulian Rosu</a>"
+          ],
+          "photo_reference": "CmRZAAAAG2JyESceRgZihSj4jDXxf_QGYTar63en0j0bqlJg-v7WjCQKseYjVPKputQ4nX8dTcGeTIfDwvWmRnJzedpeyrMpcoRtwI1wSfdfcJcEocV_JP4QWHMMo6tBlInwz9SUEhCU9L1wSv7Hrgugs70y9LfWGhTQdV1wlPH6sD3Q97aAGgWjgM2W0w",
+          "width": 5472
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104762177281741289115\">Ionut Savulescu</a>"
+          ],
+          "photo_reference": "CmRaAAAAnFZJjkf7DOMyQ2sbvt6uufN2XggriS0IGxcHZbXOvi41jzhaxM-n7ZepubiTkRyDKLaCgs4EqEvRCIlsOj9Ue3v0tUbNIXUq-3V6D5JHN2WTSliUtySFBJv669IT_TSQEhA2__HmK1AN6SDZTqDhaH8jGhTeiLWfgDl-MYFA6BEo0yztI0vTsA",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100250412552543015054\">Jonh Diakogiannis</a>"
+          ],
+          "photo_reference": "CmRaAAAAtT366LwdUwGGC1SrlkRC5-Ix_3u4F4Nq6MsaoL1f5LTahBEUR0MhlG0Hx4dZLpzsXbn-Ot87iYiTvtRO1qQOIqrpUDq1wDL7mQd_2Brwi38Gar_exYk3GgLUL6vMCilrEhCJjBZIgqs4nN6sFT66FL6dGhS7uBh_Ny8kDPdVzgXrWTAFKaEpCQ",
+          "width": 2736
+        },
+        {
+          "height": 3104,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113880656945667510734\">Aggeliki Vasilakou</a>"
+          ],
+          "photo_reference": "CmRaAAAAnLh-EfolEHXzSqsSpKgKKs-B3Wl3AvDxXgkOPhsC1ZRkyKzGQ73esXKHDlfaWmdRRpLoTKKXdq2vg_9_r7XPiQmHL6qWHkaX_SjYCfXulHl9Xy5qSFBnM931fDARiHQ4EhAdmP0GFGSW0eHgLW3KBvIoGhTodKVCvTAHLEVexvAeXGjfvqbvaQ",
+          "width": 4192
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109571535947303269079\">Jakub Lupt\u00e1k</a>"
+          ],
+          "photo_reference": "CmRaAAAAO-eH38RX9rifr1TxDZoKNPNUTvM_C5BOTBa9lTRV9eTQwRr4uzTv0Fv4Yd9rascumJs7unQpftYBE2tw9SEg1_CYY9KHdfScxzNlf3ULaP6bveKwbUulgzZNbhgBndFbEhCF9fuZWKMRcDYq1M487zcdGhSZpJR-sxPEhsrFfBp2GPyF4ONQOA",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115963138611644363050\">Thomas Harsha Kreutz</a>"
+          ],
+          "photo_reference": "CmRaAAAAx5-AI90eHNPbtsq5E3ohvyTqo7ViJMyqoyq3r10Ob4M_rWtfU22-hREdOCscDqR3ExvQ3hUP3jdV-XNeFPdtHpnK3lghsWkip6QfIPPe7LNtl6z1Xz4xczhtBRaIWXqkEhB5PDFXwGjB9N9x20dfsKWfGhRADKcuheFvigN-_Fs0opm2xxDGmw",
+          "width": 4032
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113080852159752913414\">Rusyaev Maxim</a>"
+          ],
+          "photo_reference": "CmRaAAAAX9h1UQxBamkG3Alg8HxA467oEB-gxBJHziiC0icKGVst-DTi7QjHbO3sVwCoT0aUN6t7pn53p3Isx6vPkJLetzp7mTbbkee-YBoiLpQPeQIfneOMDk9b9BiGcNrpPqe9EhBroUivLaNBCs3tNCVisg90GhQdM5lm1sbdBc11hC54mrS3F7ydkw",
+          "width": 4608
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115862768054225664710\">John Demetriou</a>"
+          ],
+          "photo_reference": "CmRaAAAADtggtI4SvFy8ziLwe9crdmuIrLL2I6Vpqd3LeuT5ubs1j5OpGcDjKVFHDyGQLa-pSLZpePYuhIGNNXum0Ivt0bgBVmugYFoqb52nrYV6fDp4cC7O3GTcOc4HCE0IB8SdEhCSv8SaikJ7Il8XfPy0wBaHGhSlAa2uYaeLv6ueF6E3gCmPMtW7aA",
+          "width": 5472
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111185689780051215382\">jianu teodor</a>"
+          ],
+          "photo_reference": "CmRaAAAA7v9XxhSkN0JS5SopEmEY8Z57Tu5vnI4t_mGQQNtpdgTY57ww-QRNDDObTB-4cR53lWwjziQd50q5c-aSaN4QSsUqeHLOzvNWpEmccVfQcOpziOjTclJbgRHN5j6wyRlGEhCxZWfPOEdb30zN28S8tiQUGhS00wBKrMlbVDqhWjYmjmhHic6JsA",
+          "width": 5120
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103273978326826547986\">Kostas Tsitlakidis</a>"
+          ],
+          "photo_reference": "CmRaAAAA270r0y4JVkSzXy2MxNvN6rarO-fCy765ZfwWp3M2941dZ3YSKLqt61oXYtW7tqqHhOSKtl5Wg5TKESXyqx45H82lD7g8d9etT5GWNlUjTbMmYefnsZNY1ZZwOJ0RArRwEhCJOAh58LpJR9avOi84gEAkGhSLfcrMjW7Ym0KqUIp9vJRfF8YQhw",
+          "width": 4000
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.lpth.gr/",
+      "popularity": 0.9776321239761926,
+      "num_google_reviews": 25225,
+      "mood_params": [
+        0.002596678956547443,
+        0.03842699168742281,
+        0.04488281482042332,
+        0.10973677720323005,
+        0.05389323895731021,
+        0.12781079049325011,
+        0.09833582061126288,
+        0.020929924172012723,
+        0.11859246836554568,
+        0.03510887989728181,
+        0.07799644368556365,
+        0.017761973724810566
+      ],
+      "top_cats": [
+        "architecture",
+        "views",
+        "science",
+        "books"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.45150612308847493,
+        -0.6419406561336787,
+        0.7376128216826812,
+        0.12935451105892015,
+        -0.049197246439854965,
+        0.4649712814143716,
+        -0.07478986540315093,
+        -0.11450383281615377,
+        -0.17207540436010849,
+        -0.9993662006241197,
+        -0.6266265652817667,
+        -0.4899561418517114,
+        -0.7526070148734852,
+        -0.3486556509250754,
+        0.013217741763408916,
+        -0.2477613688188406,
+        0.10892385711172525,
+        0.060444616900935264,
+        -0.42487655906147803,
+        -0.6046498773795831,
+        -0.48368591626968727,
+        -0.14202024423623294,
+        0.0074435465716123925,
+        -0.2297281482432739,
+        0.4922821058507627,
+        0.015547000609917526,
+        -0.4456515905510503,
+        0.5484546577248676,
+        -0.36153118378479676,
+        -0.0724992868874633
+      ],
+      "global_mood_params": [
+        -0.5637284270078686,
+        -0.36251903521667433,
+        -0.3241112575629147,
+        -0.25103590924210967,
+        -0.09752394086716601,
+        -0.32601186062302256,
+        -0.28323561575300665,
+        -0.34540764094736454,
+        -0.04256568280961564,
+        -0.33465945950485826,
+        -0.31559087347812337,
+        -0.535518728118197
+      ]
+    },
+    {
+      "name": "Archaeological Museum of Thessaloniki",
+      "orig_name": "Archaeological Museum of Thessaloniki",
+      "place_id": "ChIJiZfaVVM4qBQRiWVSh4VWUU8",
+      "cat_params": [
+        0.13191891485493404,
+        0.04456950098342092,
+        0.27405691605723664,
+        0.2553526528975595,
+        0.16046011945671426,
+        0.18299313896080563,
+        0.35346230254788,
+        0.2505262057193372,
+        0.1982819359567451,
+        0.21937386588570648,
+        0.042583010032280794,
+        0.04336764197221113,
+        0.15817164542494078,
+        0.07272790855775406,
+        0.2605843760127382,
+        0.09003166757550118,
+        0.24737609915942493,
+        0.2992042176997599,
+        0.11381806998998989,
+        0.12087624873549713,
+        0.31105330796664366,
+        0.15967354257229335,
+        0.22206883619767026,
+        0.13317761320245805,
+        0.03391170982966687,
+        0.24977516500797606,
+        0.21990301862529302,
+        0.22936874240862878,
+        0.11519637320697804,
+        0.22138213488441394
+      ],
+      "noncat_params": [],
+      "quote": "Noted archaeological museum with a massive collection of Greek art & artifacts up to late antiquity.",
+      "phone": "231 331 0201",
+      "int_phone": "+30 231 331 0201",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.625237,
+        "lng": 22.953817
+      },
+      "address": "Manoli Andronikou 6, Thessaloniki 546 21, Greece",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100693268722968915630\">Arif Tort</a>"
+          ],
+          "photo_reference": "CmRaAAAAYlAcMT0NpzqsDLtnLVsMAOJmxnytTV_Z5uJJ_lKadmttyphNNJ4CjVJsZgn30U2791dS3s0Budrouf9_AWDPG9PWgiyYTYQdQimCBWxMmujQndHuHiLhgfcGkvq19xuSEhCdWjjHaubQtbTcNOrdbiQsGhRBj4n6yX-eY2y6_mLY4wlqmDzDfw",
+          "width": 4032
+        },
+        {
+          "height": 2366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108471654408540603811\">Little Travellers</a>"
+          ],
+          "photo_reference": "CmRaAAAATvqqTtQ2wGff8qrXcaRSu5k-pHJIdiv14pLg8_jrUNpffPru-ftLTq0fGPys7gDKS3P_hgFMJ4NEzv5fcqCDQ6GKKdk2LhLNJWJzwHk3X8m_a1J0PQi_u8lFH-ikSwBaEhAMHvUGruu6E08S2R02TV-mGhQW3Dendw5rgD0RG6ZuMrLeXiKuOw",
+          "width": 3899
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114611857783305504836\">Gabriel Susa</a>"
+          ],
+          "photo_reference": "CmRaAAAAQiKUbh99P3PI0HRD885pgm8Pw4qn9vzyZ_HLgQj0Ulm5YlgCR9sYiaBdsu81CObI2q5mvmgTr69piCvMNyCYAusL2hHGpoajArIFr4Fh8GXTwBWAeBIlrz3FRxQI_jmJEhBlHt0Pbpgi1iIEtFwwEt0tGhSZvna6NSqGRbmsKhXpbj0P8KP5UQ",
+          "width": 4608
+        },
+        {
+          "height": 3999,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAA5KESv7ON_itJL0LGQhgEl4dDX_Nlz-IEqvst2nn7SiPZ04GJ98iWuNebSFl3hoahKK9A4iefuDsCWh31ulrf-h-kzvhHNkiOcdAvRi4QQDB_ggIlQGufAG12y3zl9K_YEhBBaJV_4U0HYWtW9NnKTTBBGhQ8vh1dkh1_DxhATPFv_A5FydQ0Ig",
+          "width": 5333
+        },
+        {
+          "height": 4896,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAfLtJVu4Mx6HDmuqQVnxNZb84CG8J0FYflcujjhZzkf3KhHcKyF1vJqF0aZYgTOfcRbnvZFhcICnSFSerBLjiE6at-UAosSoCY13TDiz3LKXw_i7MylcqVnGKhpmjL-usEhBS7YQG7wPPxAM8rm4NX6CDGhRF7DLxaBTiJBaHpe6Lkr3bjOIJPw",
+          "width": 3672
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106545091766270530394\">Maks Tr\u010dek</a>"
+          ],
+          "photo_reference": "CmRaAAAAsryRFYgmaaDSF_Q2hrFVD7OvrAPvMsAfJ_ER9vN7mSc6uQ1azGzrnQBJFpoxx-w-UsPcH8psP5NPUMYqYyygR85IXfJT_1tHjvXoF69vXdPNdK7ZF32Y3W9dsaJ1ophYEhAD5SPtRVG_hmFBMcZLIX1fGhTMvgXeJ2RvpLf01EiLrUm-KDqXCQ",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109582262199357383431\">Argiro Gerakaki</a>"
+          ],
+          "photo_reference": "CmRaAAAAoiA2adIn46GRzTahccEHcYfe55FKlsE6EewnRygaPySkrffvo5YHZT-NwlxA-y-2NqXmeqjilNGJJJFl8rRmKydWGM52J1l98rEULPOTgEYe6xO2tsdY79IJlQun9vxGEhBKiDCuiqDxfmfzBYFpl6zNGhQGxxPC5GD2E2IJ80LR6mY-3k3p0Q",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107850056321422756033\">George Tsiotsios</a>"
+          ],
+          "photo_reference": "CmRaAAAAIpn-nhfnv1_eBlISUnw-hEzN55CfsmHT-dxMHWa20AgYFMuFwrKUg1WClxKfZ0PCs_ER_xbhMUdLZasrLqYDCdeWqcdS3_puGz_clF-cxzuUBGcAxb6Krv7eA7V6Txg9EhDioS_gbZ9ScEdK0Fi6svwgGhQf0IXcWuppni4roMbCoEXqc0pheQ",
+          "width": 3024
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAEqdUpJyG1WkFPubeZgnH_QJd0MSznF850Haxw_nhJZHTdLeQQCE2gxroYjo-42O9ZUccv-p_JbEvvhNyKigX_bFT9sjIiCN5WRbeXnpcj61RPiYBUiXs8McaHiQLo4nBEhB8GtPXEHVvmQQGsU6t5ieXGhSVFBkfL5tL_2p-9lJJJpIBogl9OQ",
+          "width": 6000
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117605306239138595007\">Tiana Kosolap</a>"
+          ],
+          "photo_reference": "CmRaAAAAzj1dEcNB0Fe50CFwvWPFZ6U2sJLC1WgE84r_1TzFWH1VYcRR5WnnIYNhFxLE_cKXDkva20cf3i__OuG-NavAa1D4mFfhWQ0SQE3s2Z7Tyq_v62Kb3LptFbQvBEWgw09KEhD54m0WGnKrFXrACa4P3sU3GhRQ3I6YRRqsO2HmbHuvGOM35OPbjg",
+          "width": 4000
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.amth.gr/",
+      "popularity": 0.6038287205596095,
+      "num_google_reviews": 3671,
+      "mood_params": [
+        0.0025169044097454237,
+        0.030035639560468754,
+        0.013595470986047485,
+        0.07414258026791533,
+        0.020432526736821943,
+        0.06803458994140275,
+        0.09412749467551274,
+        0.019531123021568078,
+        0.03597378805971853,
+        0.02482916041322666,
+        0.07741158290917614,
+        0.009571291791289249
+      ],
+      "top_cats": [
+        "books",
+        "architecture",
+        "culture",
+        "science"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.35549092242628216,
+        -0.8092921166883141,
+        0.4854242684202162,
+        0.17207952612316343,
+        -0.8907094330450248,
+        0.5051346563814151,
+        -0.4770384834897227,
+        0.43742195866726563,
+        -0.1233747069364614,
+        -1.0843370193450863,
+        -0.9001444807405088,
+        -0.9262614470261616,
+        -1.0303744122445484,
+        -0.9773165653406923,
+        -0.32134434938020034,
+        -0.9410159928390336,
+        -1.2033270013373951,
+        0.05525876710190848,
+        -0.6634616265952858,
+        -0.2944298631204305,
+        -1.1047564790099045,
+        -0.9339390009312448,
+        -0.39432222807945183,
+        -0.32683719582632903,
+        0.18298159874382183,
+        -0.7771274386319947,
+        -0.6585405807500276,
+        -1.241230933514108,
+        -1.110757983712122,
+        -0.7450200973306214
+      ],
+      "global_mood_params": [
+        -0.5690958075734156,
+        -0.6139156885412341,
+        -0.8874282248259742,
+        -0.7997722881114812,
+        -0.8318943959988263,
+        -1.0776985986773129,
+        -0.3628765130301151,
+        -0.40118585852111993,
+        -1.1355021603831825,
+        -0.7341620119452839,
+        -0.32912467047554833,
+        -1.036238647852378
+      ]
+    },
+    {
+      "name": "Heptapyrgion of Thessalonica",
+      "orig_name": "Heptapyrgion of Thessalonica",
+      "place_id": "ChIJV7rX5U44qBQROp_AVgN38yc",
+      "cat_params": [
+        0.14932155563654653,
+        0.037595329733818454,
+        0.2375956877026969,
+        0.18639175758378554,
+        0.2306149896572072,
+        0.12130469017047331,
+        0.3813374455787394,
+        0.18783331933207145,
+        0.22875022759495678,
+        0.19881237800521004,
+        0.02413032293163091,
+        0.05886608589804011,
+        0.13541055881089276,
+        0.1059540843802023,
+        0.21501567002215355,
+        0.07682472941723366,
+        0.2761261860296558,
+        0.3246918388050303,
+        0.10379934900158458,
+        0.09217275593525577,
+        0.3746073924789217,
+        0.2110100846473909,
+        0.15249546875763714,
+        0.17436446491029386,
+        0.023765380487713747,
+        0.26826374440854706,
+        0.25947967515928794,
+        0.28444082034327084,
+        0.13943819293985985,
+        0.2834587975239798
+      ],
+      "noncat_params": [],
+      "quote": "This Byzantine-era fortress features multiple towers & overlooks the city's acropolis.",
+      "phone": "231 331 0400",
+      "int_phone": "+30 231 331 0400",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.6441685,
+        "lng": 22.9619222
+      },
+      "address": "\u0395\u03c0\u03c4\u03b1\u03c0\u03cd\u03c1\u03b3\u03b9\u03bf, Thessaloniki 546 34, Greece",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107722462795835634518\">Manos Rigkas</a>"
+          ],
+          "photo_reference": "CmRZAAAAsqbLmMKF9kYYA-tULbhZy-uqQtPNMG9TB8QNGtJIiQLoES9FI2oTqvrB5UpxXJdfbbjQWApe_81lk0Co86U6ywofGvcP109fCXgYrSJeAJiMOm13uBFK4WOiZLkdaW8UEhDWILosyKDv6hnkVo4z421tGhSNfppL0wnRYW4Q1NiZsxGPZE6FHg",
+          "width": 4032
+        },
+        {
+          "height": 1294,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112197923079182070428\">\u039a\u03c1\u03c5\u03c3\u03c4\u03ac\u03bb\u03bb\u03b9\u03b1 \u03a3\u03b7\u03c6\u03b1\u03ba\u03ac\u03ba\u03b7</a>"
+          ],
+          "photo_reference": "CmRaAAAAwCbULiRRoAkWhJO2h3c8tIpPsUAV1SigRqqIBshrKKsY_BLUPT1yV1HxFWhziy3esNEsZ-zSb8AKd1bDOIEHnr0Sw2ONgAUX7xgvu6ANt-8Pn57-cFuInPEw0rYpUnodEhBjNs3jtapfB7TRBI_u2HAKGhT0JkMFYlKnWrdE1qBm30YqiVaFmg",
+          "width": 2081
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107722462795835634518\">Manos Rigkas</a>"
+          ],
+          "photo_reference": "CmRZAAAAI6ilfaOUn08sQoiTOA3jfideXtYYu4GeL-J6_KsVozqQjTHpJIFsZaZsM898oRQj-FEwwATRxcm8AfKvjJ32TggD2v2QLSU80jMNhbWIKQZ2e2jNX0YDtO86VWb6CicDEhCDgr8q1zLAPMnVoMZgCafmGhRUNO2PqK0UPsaLSwqR5A6T0ixaTg",
+          "width": 4032
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104857536137751854229\">marian o</a>"
+          ],
+          "photo_reference": "CmRaAAAAhth7Cw7GVPWwhmcaE5TqaRhlSXD5zY6oDyXy0kfkyxGsf77Px5shuuClyO696IyTFkAdshW8YyVBdLQBY4L8hmURrmR64RNurPGYAEGzx1rWxkUpALrrlEOnNg3G1UDxEhBXZSA1fqdJsPbC4yt2AEZhGhT75ByOGuVNYWQ_Pd25vNuwQo8DpQ",
+          "width": 4000
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113110604248202688524\">Mitja Maro\u0161a</a>"
+          ],
+          "photo_reference": "CmRaAAAAYjlIJjmRWDWLH0II8XSXJf6zOu7k0AbXSAqZ6Jm4WWlEV0930JbsF_fAm3WYlm2X6U-RW62urStM4Hu2QVhNG_q6CKXTRQK_fJJTKG7fit5pOA0spYwxbk-t-1GLjFs4EhDst1Xm91q2Sz5R7j-kicdXGhRSnQyruvfyn926NEefhsOM1N08iA",
+          "width": 4032
+        },
+        {
+          "height": 1776,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101545211277478679768\">T\u00fcnde Husz\u00e1r</a>"
+          ],
+          "photo_reference": "CmRaAAAA0pYAcTI_DsnnLOsqGPqY96BO-1XOzKalrZpLkgh9mb7n53OUN9LaGC9E8eFg54WVazo2JXHIDOOqvg0PT0OO9tr5dNzlZvr-h9K0idGor4GMHYDm58MsE4UxSnkvKpv6EhC16zKBrLCxxIS-IsSJHvXfGhQLNGYFLeQTOqTG5rCIT3tf62JfnQ",
+          "width": 2640
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101867659260062157523\">\u00c1gnes Balogh</a>"
+          ],
+          "photo_reference": "CmRaAAAACTXug1y7ylubNkE9tDTVewys7uIP-e7UZUQ66obmfpRlJN1PSpeQsHT_HWoAT-eK2XbiChMorQjuIvkgK0Ot8kdjTOes3zEWdXnv-Ja1jfVIwISQGvkGa4uF5hEHQnSwEhA3BmtjM-hz2jOMSDsbzwT0GhTedDjMho7FtlY4XqtnqV1Zlb_RBw",
+          "width": 3264
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107998815714936447859\">Jan Lokaj</a>"
+          ],
+          "photo_reference": "CmRaAAAAiEOKQ82N-L30SUQOkU4Vi9pCbTDANBMl7KH5NZZ2yGQ5mjz3eV9f85TnK4WVoimDyd4gSqxfqe8EjRr7pBKY8C17beeoAQt9u9iEYMV5ww0-uvlHvEMrlNn1sioGVtV9EhAqAbhkokaVAQ0g2e0hMHFJGhS-CDgWGYqR-0NIWh89Km_dtzZ11w",
+          "width": 4000
+        },
+        {
+          "height": 1159,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101049034038248464613\">Maris Binde</a>"
+          ],
+          "photo_reference": "CmRaAAAAywonn4ApfYtmR3ZKZYgvskjvdvDUiQ0hFTM2SmIpvOhCYXQCmOHnzHkonPhLFOOwW4o3bBCgxcnOU3s4IRi9L2kOfO4ip0hxrpjyeQgPf1-5bG5wtP3MAuDS-f3_q4GMEhDYVHeYxMjPkY_X-z5CV_3hGhRyDURkCnizoyDhcJrY9tucHqaF5Q",
+          "width": 2048
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100409698606527316458\">\u039d\u0399\u039a\u039f\u039b\u0391\u039f\u03a3 \u0391\u039c\u0391\u03a1\u0391\u039d\u03a4\u0399\u0394\u0397\u03a3</a>"
+          ],
+          "photo_reference": "CmRaAAAAcrgBMIFSq5lAyruwK91nMbWO8f4KAUfDyLxphI2cA8xwKACR0fo4tnRhnPsFuz_1155nPkiUxtG_cg0kjQ3UyyjbgS9iq5gjgwDMbCV31PwmMKVDCiTWPrrvnScHKmCcEhDQaOziCZw_UfmdHVuOEVuwGhQ7XiR873SqAdSiM2VuuBxZ0tZzVQ",
+          "width": 4000
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://web.facebook.com/pg/%CE%95%CF%86%CE%BF%CF%81%CE%B5%CE%AF%CE%B1-%CE%91%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CF%84%CE%AE%CF%84%CF%89%CE%BD-%CE%A0%CF%8C%CE%BB%CE%B7%CF%82-%CE%98%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7%CF%82-171313346857754/about/",
+      "popularity": 0.5645983265051152,
+      "num_google_reviews": 2806,
+      "mood_params": [
+        0.0015936377487828176,
+        0.01689781130447154,
+        0.025686193036870242,
+        0.052477596391432825,
+        0.02992979135451561,
+        0.060944595985341105,
+        0.06382326420762668,
+        0.010024986038861417,
+        0.055936882079087716,
+        0.017589409166531327,
+        0.04105397422081573,
+        0.01013203005857812
+      ],
+      "top_cats": [
+        "engineering",
+        "military",
+        "architecture",
+        "religion"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.1443372067909356,
+        -0.8926803063385141,
+        0.12725144431439644,
+        -0.32073026236705626,
+        -0.4579699779156544,
+        -0.31783052723500066,
+        -0.1803958164073363,
+        -0.2588332730190313,
+        0.32752637368404336,
+        -1.3029598960817128,
+        -1.27965137462772,
+        -0.7790698044948027,
+        -1.2763350562397955,
+        -0.7331696898376577,
+        -0.816858948089782,
+        -1.0956941628910133,
+        -1.0473278181447934,
+        0.32184962769461184,
+        -0.7913464024239307,
+        -0.8663720820838027,
+        -0.7948026871079,
+        -0.4324186852111101,
+        -1.1787499219251687,
+        0.05737159580054834,
+        -0.10915475676901013,
+        -0.6399897231714855,
+        -0.28771071191726505,
+        -0.8834613212920611,
+        -0.9644239645163961,
+        -0.3181726816130864
+      ],
+      "global_mood_params": [
+        -0.6312149136231999,
+        -1.0075120965505608,
+        -0.6697392796171824,
+        -1.1337695636294267,
+        -0.6234556008577307,
+        -1.1668553931951255,
+        -0.9363720413237262,
+        -0.7802500140937585,
+        -0.8714166826409239,
+        -1.0155217422934495,
+        -1.170447110218149,
+        -1.0019591064823643
+      ]
+    },
+    {
+      "name": "Roman Agora of Thessaloniki",
+      "orig_name": "Roman Agora of Thessaloniki",
+      "place_id": "ChIJN3sEbKk5qBQRdzsoK_u6o_8",
+      "cat_params": [
+        0.14392985326087837,
+        0.057169780632506974,
+        0.2933054862538373,
+        0.23589235117300805,
+        0.2728329072517137,
+        0.1517447486203294,
+        0.4520093598935445,
+        0.2880695800870475,
+        0.2110278031122408,
+        0.2985641968670023,
+        0.06250398454682776,
+        0.11619577761202168,
+        0.24972088786960298,
+        0.12976894317410353,
+        0.33633004010748674,
+        0.11854370598362358,
+        0.48642015870208255,
+        0.3566134657979672,
+        0.13004748481567527,
+        0.14005580353543448,
+        0.49252571486454527,
+        0.248861712347726,
+        0.258563553939111,
+        0.23971080585810442,
+        0.03154089341792434,
+        0.4183727017643701,
+        0.29933794661025676,
+        0.4163177158740968,
+        0.2580308239695138,
+        0.2909975294276661
+      ],
+      "noncat_params": [],
+      "quote": "Ruins of a 2nd-century Roman forum with a restored amphitheater & excavated corridors & arches.",
+      "phone": "231 022 1260",
+      "int_phone": "+30 231 022 1260",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1530"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1530"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1530"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1530"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1530"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1530"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.637516,
+        "lng": 22.9464626
+      },
+      "address": "Olimpou 75, Thessaloniki 546 31, Greece",
+      "photos": [
+        {
+          "height": 3140,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108673075667839829126\">mila pilipovic</a>"
+          ],
+          "photo_reference": "CmRaAAAAvHAopcPUKaoGhixbGKnLqVQRq7nf4xMKVGK5aRw5MNPnDtSPtDPZxzb7HJrcsJ4lhld1NYzu9AaFDBXGIyOGry9ExocEqNscwdvWsVGo4wmn7te1OxRQ0RlEgJALD6pXEhBS5IrxL0ssMi7wZTOIo2xjGhQx8_yd1QKRFmJ-p3Yb5lABOl7N3w",
+          "width": 6364
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100410716733570947216\">Ivan Dabi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAGljfaw-2wSx77Q5xvnuzJWVuVJU6xOVEI_nHiqIbn3ZZWpGYQixytclI2yXsX2qHBYQfSSz6b1t78bA-Om88A9FK1US9qjx3hZSrNCGaYuNVY5RJxYd_1I_T55Urr1GfEhAtAmHXg-0udPQ5RhuMa8tFGhQqb4MVfNnLkjAxmlPSC9236WBcIw",
+          "width": 4032
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108877586204506946020\">Ajit Skanda</a>"
+          ],
+          "photo_reference": "CmRaAAAAJKCKn7_xgnOns_---z-nWZPOvPgCkQPco3oIcOvGBJVLmcxWdyFa7S0jkWLnzQoBfZW3U2vhxdgjXqtYjcSycfmpA2wgfUgkcoYaR1KQAtq_uTdaDfDsy0er7xSl7v6XEhBHE5kO0eOCWU8udEEu_BXcGhSxZaVPO5e-HUQ90It2NSFmtrM9Yw",
+          "width": 3968
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112187654680633341035\">\u0391\u0393\u0393\u0395\u039b\u0399\u039a\u0397</a>"
+          ],
+          "photo_reference": "CmRaAAAA55Ebxwxlkd8qEoZsdAh3VRMaqA2-gMhc4FEkJDLO6s5mqKxRekVQygWuXhLs6EFSP6FZPsiHXcJDhFGXT6tCezDqHOPSLnJb6cAIaxkTIrYBQwhiWSPy3WiJm6VFw7cbEhA_ERK2q0OoLy_n7BMaKKO9GhQqRohuuw0IIxJpRlntUttC2F5hqw",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108780565256941936290\">Slavisa Djuricic</a>"
+          ],
+          "photo_reference": "CmRaAAAA9QfDM3ImcGaaww73nrdzXTjPUA03SuFNrVy72MUXrUDw57KeGvBk-f4Jq68xEHrrKCxeGLBkezQGWEH3XDatW0x0wtJI5zg-2sGZurMzK0ZZnWDMKml7UIQmS73b943aEhDItZbkCNLnAAHQsIVYZ-BkGhT4WISQkkW5cKBHesB8mlNYPNrz3w",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100410716733570947216\">Ivan Dabi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAsvk1zB1I65Uh5pIMmH6IVbWeid5dbhtrlVKuLhjPbPBEBPUcUfWLWgdxjyq5s7cUDHRuHSMGhVMbkFNRS23fw0HJ_-02cxxiOX8u4txIF63fgFDNk6Vytt53o7Q3GSM_EhA0Nqpg05GY8G8OOHcGIuWyGhRysAptqgXPZMVzbRVU8xq2x36uWg",
+          "width": 3024
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117382533842071442265\">Vitaly Ageenko</a>"
+          ],
+          "photo_reference": "CmRaAAAAOHHc3iB64OaaqNv1xzZB4qFlkNjMOFnJkqRcfJLxEipFhdPrMaIfoMkdyx8V2YZnyaoLqVf9DV_RwJ0aGw-es7JVo4zyKX5A3JkpVPjb01y6v39bTTbEZJc806jqXTRdEhDnRN3KmxUPz5NoQbA3euirGhQRld1hBSn_4NTnzK1zOf4sqLycIA",
+          "width": 6000
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102722136382666485362\">Andrei Muzika</a>"
+          ],
+          "photo_reference": "CmRaAAAA6rWVS5BcFJ0KiloiMJjfwz7_FtMWu7411BV_56slhpIstiYSrHTiU-f1z86eQdv6c-t0JUAYjXzXb5kfD19hjhbBdqnt7Eub1gj_8ggLlxbVVRKO4MRHkpHq3l_np6d6EhBbY8wpR45sTb4i0JQ-FBxKGhTuGdgnXHXGo9m8wBe0zUoRE83uQQ",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106104378236158362006\">Gabrielius Gudynas</a>"
+          ],
+          "photo_reference": "CmRaAAAAH1gO0o-tLZtanaWIMJyGDEiLgf8y8dLnamJMQ7Eqi1Y_It_AL1f2sC_HEzuyzR2Kc_jrJgx04Z0TaqvTYrDouloY7ACiEReqFd_mNaFsDLTNSYfSmheM3MHpJUrET-LNEhAKh17R7h0VaZ3AkMY35fQeGhSO8uGlrQhftcqsqAHhARDmsJjbiQ",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117382533842071442265\">Vitaly Ageenko</a>"
+          ],
+          "photo_reference": "CmRaAAAAawOTOrpYyj7prB653NIIxD0Clv6xbRU63O1RTRkdlojWWZZWXXDvzfppfH1UTlmKzh-Hrfga1o571mPj-p1s_i5K_nGiTh3lw9Lm-GaNaeVtORkPkgdcKHwVSnIhx1ACEhAL2iRNI6aoUhgEG81Cf2GPGhRH8NFXjmUV4Hi4vSeApVJgLjnl3A",
+          "width": 6000
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2457",
+      "popularity": 0.5841799939661746,
+      "num_google_reviews": 3216,
+      "mood_params": [
+        0.0033500474628645614,
+        0.05076657010320784,
+        0.034428639335753235,
+        0.137015019904483,
+        0.04255709914425519,
+        0.11657264789144398,
+        0.12275104525077156,
+        0.03300851524154021,
+        0.08844656311512414,
+        0.04706979539376655,
+        0.11391003209330113,
+        0.02394767022206038
+      ],
+      "top_cats": [
+        "culture",
+        "architecture",
+        "religion",
+        "military"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.2097570476363069,
+        -0.6586341429421958,
+        0.6745104582840628,
+        0.03301191203265235,
+        -0.19755528960774207,
+        0.08826022042870475,
+        0.5716830205318323,
+        0.8543715094856034,
+        0.06525172942896598,
+        -0.24233482235045514,
+        -0.49044007725795286,
+        -0.23459891892839688,
+        -0.04107583389511067,
+        -0.558177436857744,
+        0.502314816093033,
+        -0.6070862149775872,
+        0.09373614160255535,
+        0.6557377523029384,
+        -0.4562999460559401,
+        0.08773955463466326,
+        -0.21971406080432912,
+        -0.06263607992726994,
+        0.017149407243409364,
+        0.6669505670434434,
+        0.11472029529364733,
+        0.47343273270962005,
+        0.08575786447365319,
+        -0.026737777446399248,
+        -0.24854798916518495,
+        -0.2663353550873391
+      ],
+      "global_mood_params": [
+        -0.5130403862530039,
+        0.007162592991956394,
+        -0.5123347916677765,
+        0.16949792521994475,
+        -0.34632098078348705,
+        -0.467331694874006,
+        0.17881281566584833,
+        0.136235000286068,
+        -0.4413563603622127,
+        0.1301797102586444,
+        0.5154568469068074,
+        -0.1573693287468375
+      ]
+    },
+    {
+      "name": "Church of St. Demetrios",
+      "orig_name": "Church of St. Demetrios",
+      "place_id": "ChIJ1WFSVak5qBQRq2qyhmVr25o",
+      "cat_params": [
+        0.08635832188352754,
+        0.04824336475399671,
+        0.21290506552784755,
+        0.20621055151556725,
+        0.19217073783417069,
+        0.10807692049079498,
+        0.31607073262925817,
+        0.227053736886319,
+        0.14196591459711158,
+        0.24263168753491357,
+        0.04821680014536431,
+        0.061186416517904775,
+        0.18712725827577115,
+        0.09617449532905215,
+        0.25774681101005226,
+        0.12607052164809854,
+        0.38569512310586423,
+        0.2618205806258548,
+        0.09803420998832196,
+        0.09536671180792371,
+        0.3800074650517968,
+        0.17115168464515754,
+        0.22111134144459896,
+        0.5294000115114548,
+        0.020286161082360463,
+        0.31212334865948954,
+        0.2130292183867531,
+        0.326557691815548,
+        0.19474989444992338,
+        0.22187465427814584
+      ],
+      "noncat_params": [],
+      "quote": "This church is built upon the site of an ancient Roman bath house & contains Saint Demetrius' body.",
+      "phone": "231 027 0008",
+      "int_phone": "+30 231 027 0008",
+      "hours": "",
+      "coordinates": {
+        "lat": 40.6387957,
+        "lng": 22.9478228
+      },
+      "address": "Agiou Dimitriou, Thessaloniki 546 33, Greece",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102532650599721524154\">\u0392\u03b1\u03c3\u03af\u03bb\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03c4\u03c3\u03af\u03bc\u03c0\u03b1\u03c2</a>"
+          ],
+          "photo_reference": "CmRaAAAAXtU1bSDfcsjtg3bBDPTrMBmkQp0tMawpN4ALaOdqx5oK__AaGgKWJp6GJVyI7Od8Y7ZCxH7pWtP7MXDb4INNAZfEz2zhtMEAxEqfbhIVmgLrIcKJyKhHafZL67AD-r-qEhD8DABVEJ6vjRJTQmEgF9XXGhRCQoboC-oBIhcncXQBxYA9YjtsbA",
+          "width": 3264
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAMw4WoFGUFao_3KZueuP-omi_l0LdRb_Z_ppNnxQXxVrihCtweQvNNobB25pNUpdVZ3IL145R37C2sNMysjcksT72qqP_IiNW123S1heGH7lZHo5lEaU6CppjBoujr5JpEhAFyzdL8YAmUNUo2g0lEHa3GhTBM1pmhqbof1Jnzn4nPSyflOnU0Q",
+          "width": 6000
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105529153134591764302\">Damjan Milenkovic</a>"
+          ],
+          "photo_reference": "CmRaAAAAImmUlrXkzMzI7g9COWL4fFM7L0v3wUAJ9a9tml0QHQH4q4htsNfhbn34RwrezxvrxupWLRGJOeETgjHHdgdhbVAvysjbbatRnSxfGovpVnnNiJKvjEfgxVSdbFacqVoMEhAtOEfnLkoi_sfKmOHKtWmfGhQZZamqQVwr0BW6txNwZPXCxLvBrQ",
+          "width": 5184
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAK2LLSkvBGxD0Mh4bZ0iZ0t0YFNFCcKNzj_fpF0QC26GwGLZ_2kCdD0FoxC92GYwetBaCLZVF2p8XueqaZjTRceKvDv4cRObJF0tsJ7rkziDME6h-rjhH2G-9akR1lL05EhDXjOxkn3YWwehTm-1g10oKGhSZtrL5EsFQ4XsOqIkyv_cpIvJE1A",
+          "width": 6000
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104566325824742705017\">Ludovica Ibba</a>"
+          ],
+          "photo_reference": "CmRaAAAATdvvij5NPnfBx6fil5q7eok8b32TjAKEtjWXEGYeoMTmIvVe3o8jWujq1kBJ8P2EwtThB-uNJZ0NjgDemnoquGN4xAUZiIUM4Ee_XOw1QkrlNsW1YsTwGRjr-IhoKq1dEhAoc8IW5Gq6hdw-bFSZlW47GhTTTljLmDPZeeHxs18LIu9CPjew-Q",
+          "width": 3968
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115371566873387728560\">fotis k</a>"
+          ],
+          "photo_reference": "CmRaAAAArFPXLJZvK72K-55v7ALVoZiXI4zOgWbjv3I62XPQvNbMWechj9CvyQi7WdE0FG3Yg2TLb0QHYKt02iga-fzwUsvKBrs-JuWwYUlTubDSJebcTi0T0rQXtkJ7wc8XxNilEhAb3_JPBWadxhb5oiScq8SZGhTfA7BioIfW5K3Wa1uFfr1x24cFvA",
+          "width": 2448
+        },
+        {
+          "height": 3336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110356669714402335663\">\u039d\u03b9\u03ba\u03bf\u03bb\u03b1\u03bf\u03c2 \u039a\u03c9\u03c3\u03c4\u03b7\u03c2</a>"
+          ],
+          "photo_reference": "CmRaAAAAKHTumn44lBf3ZxNziBr9NDuse7KSGMhc8s_NvLXyXG2tRaX6UXmckQvLZd4blf-ntpzKcp_jE8r2tGtOh0XpXmIzQTLIHHcz4sb1kJDJFF32bzdp6MBeJLoZcFXBM-VhEhCs1kdD3rSkaarrCFILN5WZGhQX4gMf1eXCTp_2Xmx2YpdyHdjAIA",
+          "width": 5004
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111776749194820615488\">Nikolaos D. Foteinopoulos</a>"
+          ],
+          "photo_reference": "CmRaAAAAUy2wn2z-PEGX102UJTF4Ij3zkZJpQi9IhplrfjX6KIeyqBH-rSDwclQRLE_ypIpnTNI2G3w0Vr__AhzECwZfz4h9HBxEV_HKWJ7EfPa0ZwZOQXMDAsfO7VP9e1K5cLC7EhAB7nSBpnJkwSG-jH3R3038GhTOcSpBMIdD_7rqHt71NSO17-J4WQ",
+          "width": 3648
+        },
+        {
+          "height": 2999,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110331906560471672439\">Kreszentia</a>"
+          ],
+          "photo_reference": "CmRaAAAAUs4wJlarpnye2TpMzbFBcR-H8Eo3Hvj-yO9umeQvpUrWIjHkx4Dqtlpdw9LBtm8Ffb5vQlf83az0Aurcl91PElY6MVyCh1BvG63FexelfzZeaHO-XMt4EisiJ7PEL6q0EhCQObkJ1ksxObOUOZlljmhrGhT9M-u56Bojxqx5hZlKKRsvcnUb5g",
+          "width": 5335
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115515439801969728822\">\u041e\u043b\u0435\u0433 \u0416\u0438\u043b\u0456\u0445\u043e\u0432\u0441\u044c\u043a\u0438\u0439</a>"
+          ],
+          "photo_reference": "CmRaAAAAOua492tQItPQmIYP_HJIA-zIk_v6Zu27SpJaNI2kUxPZ4bB9yG2_4M-VrzWSkKsHyaMymMcIohUvPHB9A-Jw78eMMw4QRqHEkqyI0_tSRUA0KmEHPx9Zmqh8Az3VaKBSEhApl7uSXZ-cTUmvKBNUJlEAGhQgcaTIhvcE94jLafsaFvzAaPbO4A",
+          "width": 4128
+        }
+      ],
+      "rating": 4.8,
+      "website": "http://www.inad.gr/",
+      "popularity": 0.4850075602909394,
+      "num_google_reviews": 1528,
+      "mood_params": [
+        0.0029315130628427824,
+        0.03472206161484991,
+        0.07633587962016697,
+        0.1376838494495621,
+        0.07435698093199063,
+        0.1386917505738972,
+        0.11344008662767785,
+        0.024353134518363444,
+        0.11112651176173259,
+        0.029239105920347706,
+        0.06373183769887991,
+        0.02671536891821616
+      ],
+      "top_cats": [
+        "religion",
+        "culture",
+        "architecture",
+        "art"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.9082971667881645,
+        -0.7653647684937549,
+        -0.11529413827825571,
+        -0.17910078378774036,
+        -0.6951073931686903,
+        -0.49429782567966773,
+        -0.8749533933711938,
+        0.17674119937617566,
+        -0.9567970460957631,
+        -0.8370449991795555,
+        -0.7842772265586773,
+        -0.7570331873487096,
+        -0.7174745360289873,
+        -0.8050303855524156,
+        -0.3522000617172765,
+        -0.5189329988916352,
+        -0.4528021471678263,
+        -0.3357599136315731,
+        -0.8649359864821465,
+        -0.8027297155677168,
+        -0.768466488839081,
+        -0.8218059821579411,
+        -0.4051178159409777,
+        3.3692969478970354,
+        -0.2093295532746573,
+        -0.3146642453367453,
+        -0.7229474979601983,
+        -0.6098537629841138,
+        -0.6305388156410772,
+        -0.741633468258342
+      ],
+      "global_mood_params": [
+        -0.5412001627073262,
+        -0.4735150948450804,
+        0.2421894539296672,
+        0.17980890662274265,
+        0.3515988216316301,
+        -0.18918360264723535,
+        0.002606620952217238,
+        -0.20890462803606852,
+        -0.14133046920034031,
+        -0.562777521449143,
+        -0.6456767494099398,
+        0.011828044589782913
+      ]
+    },
+    {
+      "name": "Museum of Byzantine Culture",
+      "orig_name": "Museum of Byzantine Culture",
+      "place_id": "ChIJvz6ZIuM4qBQR1YIlrzCJKM4",
+      "cat_params": [
+        0.09834438234785445,
+        0.047882729910901756,
+        0.3799278513570919,
+        0.4263162459691824,
+        0.1452027785522698,
+        0.24420010169652806,
+        0.3709492537286718,
+        0.36440550676803657,
+        0.17765246620674888,
+        0.2531344305005308,
+        0.054908950459977686,
+        0.07539933267008633,
+        0.1868584153228237,
+        0.06862179445620195,
+        0.32997788708976983,
+        0.1503849364366281,
+        0.36416752466577357,
+        0.3556710728129237,
+        0.12892046329357984,
+        0.13400490951462415,
+        0.3479989880437367,
+        0.15340772566192015,
+        0.31838725835874826,
+        0.13605865650130733,
+        0.04614537701530096,
+        0.2911023666417898,
+        0.19299852431060668,
+        0.29833944451233574,
+        0.14811859212288003,
+        0.17276259830311497
+      ],
+      "noncat_params": [],
+      "quote": "Byzantine history & culture museum with architectural relics & art, plus public art classes.",
+      "phone": "231 330 6400",
+      "int_phone": "+30 231 330 6400",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.6239004,
+        "lng": 22.9550583
+      },
+      "address": "Leof. Stratou 2, Thessaloniki 546 40, Greece",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106924595143276982535\">\u0421\u0435\u0440\u0433\u0435\u0439 \u0423\u0440\u044b\u0432\u0430\u0435\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAA_PcjFDqIZAW0GSPmKa6_O21ReoAE5J2UJUMd6bVKduwWYGg35K7Z3HrZEUDICqODbcEDD8kS3suQ7W4ibYDhAh00LjAUBlkyOyy4zd1xV0WdHhSQTHPL1VEkWnJcA3-cEhDkLqSw2o0XaJIMOZcCIuk4GhR0BzWSa7wYIzy9q99xJMD8DZkdoA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116653902326497641095\">Joceline Lopez</a>"
+          ],
+          "photo_reference": "CmRaAAAAScLOZhQXLuzSUKSls74J1coscuQzKE-QhaVbkGC3uD1xH0d9ionPaFrazArlOyeISYQbiClplYi8s2gSFA09QGpHoIeFwlkoknNEb14TzgNxqU8ebHwI50i7mNp4XpB5EhDv70ZAD8nrA7IbehiccVjbGhSnyqlClZg5gMX-Nxf6jSibOgYdbQ",
+          "width": 4032
+        },
+        {
+          "height": 1908,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115220321491855989303\">Jun Eugenio</a>"
+          ],
+          "photo_reference": "CmRaAAAA5BeILs0h_XyJ3KllX1RqSWa0Wu0K4wIqjQqlvitgUcq549bVMN-ZFEPq_mZmymEGYr_DEgzc-n2T-sMkAOK2vuwji44fTyfh6uOYgV8M44sEpknfrtfNwJ7xdBD8u0rlEhB5Pmp3Lr7iy2b5gWP3gzQ-GhTSCU3ucVJT7k51KMIoiwEoXnCh5w",
+          "width": 4032
+        },
+        {
+          "height": 3312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111747592790318673556\">Ivan Vidanovic</a>"
+          ],
+          "photo_reference": "CmRaAAAAhtnIP3hCjl8VZO7BASQa0vgMCkYsPLYyMWYjUUTmnwk_8e-EeuH3dIdGWAg7_sbMAyIf8wE_NnEJxxqBkx9GEsL_212bZB-mSeSw7NL3Tt3KJAqDCnENwKb73UqbX70OEhDkfDHpQqll7TbgDtZuTc4xGhQiQ4ZPJqDHGK2apTbMGsk99-QaNQ",
+          "width": 2654
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115176082485187093123\">Aleksandar Milincic</a>"
+          ],
+          "photo_reference": "CmRaAAAAS1hzMyXi7d5aiyhuahwwF9VQ4oMNtvH_PJQmj7v-W25E8lzBaAIMhV0XDI84yHKJJbmL8KoSRNr1XooPj8l9G72BqOAzRf9B0kA7CS1KdQfmolCtYfaF7DdMZSp2cGO6EhCUzogHaoliOGw2NUK-tH2VGhROwJ6QfLbOIPBAIS9uZPYMnaOgIg",
+          "width": 3024
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115997338103626498469\">R Max B\u00e1ez</a>"
+          ],
+          "photo_reference": "CmRaAAAAJedgpZCgdWyx112iXwmuOhMhsFp76aVJFtlUW7vZWTZUckm5hoZmcGU9ZySoSJWvqhAWnG2jPt6LsreQvV4leYGwPWMj9H7hmFF5L779hCqhUn3_N4mQpyWZaH4ntVcmEhDj20oOsRFj7Wo4lk_JijD7GhQ-DI-8-pi-GBPOrP1M9fjULfwsPA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116653902326497641095\">Joceline Lopez</a>"
+          ],
+          "photo_reference": "CmRaAAAAaEllQYxE6K7rDWT9yzX1Ojbf-rvpX3NikIfQcwKPR-WKdjDWtwrmM2MhARBwjNge0FoJAB6EjyoqFH04o0tX6Nbu5ZieSgHmwdohR3vxa1m5WTBrJBExEnLI6dvk-brMEhA4bhA6Jlv7Ae1n3mDEWc5tGhSzHYtp6pL5xATJ3pSuAQGF178Zuw",
+          "width": 4032
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115640745274176364316\">Kevin Reed</a>"
+          ],
+          "photo_reference": "CmRaAAAAdz_yc09-wfPFkyh-iDZKkGr1g5UhACiD2EgRM9bQ3oVeJQEoCQ4h9RQagvM7a65OQk0J1p3q9UycfH92IbtMyBtJXzNA0CgqofqYdWbTU7hexf0MSzMojEwiki2L-k5qEhB1Mfe1HyVvwOENmSsM1NsAGhRBBNKjIkjTXI1Ndx00wosSuvbR_g",
+          "width": 2560
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111205422037768741361\">Panos Kou</a>"
+          ],
+          "photo_reference": "CmRaAAAAMypKy6dZ3TCaPJuhKDlcAfvcfIT9XSNXhEsPEJhoLunz8eTMiRH8g1ntn8UTffDMyFNGbDYQNwR2xnJw2KmkSffL40IvN4lD3pIdSy5v-ilD_8tMRU0SV52ZcyXLKFXUEhDXLMJy1pdNFf4CsIyNueAIGhSDEb1DIGl716ZrJBzIpB9GTVwfTQ",
+          "width": 3968
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104034190091705827994\">Natalia Voinotinschi</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ13r8oVBeJnsVLiIelFVcBy8_lLANgOL2JYDHPqr0W5kWHUGqs-QfYUbBFQbt-XejE8Y3QxkvzC49dzZHmEmBaGlDd1MEFU0KSdsQx9v2dZ6HroOIGWxvgAfQq48fJCKEhCLWiYLOm8j_rPbnbQ_gCdYGhQtvyQxA44gKWtJScjI8Yzvj1Buaw",
+          "width": 3024
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.mbp.gr/",
+      "popularity": 0.49493514855708887,
+      "num_google_reviews": 1657,
+      "mood_params": [
+        0.003361644822916001,
+        0.0465953036486843,
+        0.028712666774218874,
+        0.12320760291327544,
+        0.0340958839111316,
+        0.11245595680195394,
+        0.12123568879360919,
+        0.03548937497946955,
+        0.06505934798980657,
+        0.04069297738225607,
+        0.12281218052317737,
+        0.020554298676430233
+      ],
+      "top_cats": [
+        "culture",
+        "architecture",
+        "art",
+        "books"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.7628651467497641,
+        -0.7696767771345215,
+        1.525435633872535,
+        1.3938231209213916,
+        -0.9848219782018109,
+        1.3216764938591148,
+        -0.2909452379172481,
+        1.702143742988254,
+        -0.42867079354853216,
+        -0.7253731253290933,
+        -0.6466432242330322,
+        -0.6220504443319336,
+        -0.7203797042646602,
+        -1.007488407376019,
+        0.4332414359060642,
+        -0.23416531539792385,
+        -0.5696118037059356,
+        0.6458806787117384,
+        -0.47068590359223966,
+        -0.03282980523590131,
+        -0.9245720939751234,
+        -0.9951514306764743,
+        0.6916513355229573,
+        -0.29996157609390356,
+        0.5352172522220392,
+        -0.47058587610058644,
+        -0.9106333791691429,
+        -0.7931704594639031,
+        -0.9120253527508084,
+        -1.0793345185747198
+      ],
+      "global_mood_params": [
+        -0.5122600941993712,
+        -0.11780444580312083,
+        -0.6152487477187419,
+        -0.043363514386732464,
+        -0.5320213460587734,
+        -0.5190991553025409,
+        0.15013529643715784,
+        0.23516109438329244,
+        -0.7507384568166995,
+        -0.11764369348287051,
+        0.7214543672655094,
+        -0.3648158810299019
+      ]
+    },
+    {
+      "name": "Arch of Galerius",
+      "orig_name": "Arch of Galerius",
+      "place_id": "ChIJMSSAKqk5qBQRwssZ-H1wH6M",
+      "cat_params": [
+        0.11682888552936832,
+        0.057014688158361165,
+        0.2439886660644117,
+        0.20956151797908554,
+        0.23063770715653398,
+        0.13242616602370183,
+        0.39181851548306607,
+        0.21896997850349206,
+        0.18889324091020623,
+        0.26073486626108294,
+        0.04793220092188673,
+        0.09266587750774412,
+        0.22513386526576748,
+        0.11409866721116968,
+        0.2976670622567117,
+        0.1153542295549814,
+        0.38414021533502324,
+        0.3383678115017225,
+        0.10863666706453047,
+        0.10427905404562067,
+        0.4081460730621573,
+        0.2039098371641368,
+        0.23907338063584768,
+        0.2114953549720073,
+        0.03121734780149656,
+        0.32323986861253035,
+        0.22894048748699405,
+        0.3610885142832977,
+        0.18201200742328058,
+        0.2923940258175456
+      ],
+      "noncat_params": [],
+      "quote": "Iconic monument dedicated in 303 CE featuring relief scenes of Galerius' victory over the Persians.",
+      "phone": "231 331 0400",
+      "int_phone": "+30 231 331 0400",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.6321991,
+        "lng": 22.9517345
+      },
+      "address": "Egnatia 144, Thessaloniki 546 22, Greece",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101486977377845846992\">Lajos Molnar</a>"
+          ],
+          "photo_reference": "CmRaAAAACfJ5t81tUit5XMeTGx_WqDP-rlOO6xElO232U44raNYHo9vqaykF3CUK4Aa9EGpAhMy1LaA9VCvKnPJyW8isCD0ZYdAzk98nQ0hMJjPTl5czOQwfQiExxavYUKseQNeAEhBDsILJMY2MbXlXaH9f-EWeGhSFItbVo_b4C0cxLVWR6h8YllmeKw",
+          "width": 4608
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113707099708062625240\">Albrecht Klein</a>"
+          ],
+          "photo_reference": "CmRaAAAAfrMZ9mZBVChf565t20oQUXh61RYbQi4A4m9o2faxwoYZGCRnw-_tZ1pctAiHoPmBHL1J2BTRyynCMcQNHqjQmO0BXjV-MMDJNBkUph4D5umdvShjEwVBrOgP-Z-vwSFKEhBwJQaX2wvjPbYpCoSBlzNhGhTiURxlHjIZHaItiAmFI8Ix5Bs3Aw",
+          "width": 5504
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100975641715989600793\">kulturosupa Kulturosupa</a>"
+          ],
+          "photo_reference": "CmRaAAAAiUGoTHubzQteqmwpeS9L69epJg-SGI3E47aSBYxH48OkxRxrZ6IAbnk5ThMwd9cTuyCZljF4BWYCi6cDiy2kR3bkJbn2-tsbDeMVHt_dDEkBP47UhzCnsEGpthVxs2q7EhDuRqDJB3zRxJ-NtQCCH-DmGhQc2N7BUWBBM7QJwyh3vV3jDos3uA",
+          "width": 3120
+        },
+        {
+          "height": 3376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104190449012399638022\">Mateuszppp</a>"
+          ],
+          "photo_reference": "CmRaAAAAstcSr7KqB6Yc57xi0CfFwNtsjMHl-5z5X4vO9ag59qx38Qi5IvSRspLA7jsi8NrF-YiecocTr_dgxGkXLgSwC6PUnvdkfzVmHzj_Wjd9cqmlRHkfAyVMKHjwsBYW5CV7EhDVcjUtzT_9xJodn5oy1GnlGhQP4j6nI89NXfCsaurpR8PpkLkgMw",
+          "width": 5984
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107612997855711957528\">Lo Sauer</a>"
+          ],
+          "photo_reference": "CmRaAAAAvy34w9G9Jl12qxMI5jLvos4GEtXoTXahLsFcvZfvVxTmrWjdIgcGF8dTeZ7ck0K1FFP0FTWQ_xlvLnzzFQlFNpV3FyIlXFCL8jXm9GR_S9ixs8XL8J7Qbxg-6_C9bq1UEhBD_elZAgoep1rwpt046UQwGhQxmdGwXPVlAwlXhM9f3SSM2-eMHA",
+          "width": 4898
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102301516066647039624\">Ivan I</a>"
+          ],
+          "photo_reference": "CmRaAAAAb4cLVdT5sjCA1HtMqNI_CwaORTklqMhDhxHGSWmpVYX-0PfGiSoEfPHoVQTUfW0Wjn2K85h_DkfYb3MxGwanMoSk-1ud9oZt6JyO4PfqgcxIjl_knQHS8Hg2-30s8kuJEhB3MHHQ1hsKM0wYOgfK1PsBGhTqeIU0jtK6UscDF8ljoW42uAUb4g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117367216304817598467\">Ferhad Salah</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ2l3C0g2QZFWLc9_TwDataV7r1afNmFTtmb83UP_hpRMcIe4jmJAACF7w96m2iqEKYBV9T1q1X429t2LWRw-dqnjQUG2KIPdSo9v0Scqom_n9CSAZTScdAYEoPpHO4u0EhCTwIhfdaGEHv_gA7sGKStQGhTLlCrtxlkijuofxYpaiWG7JN7JvQ",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107983345809068872672\">\u03b3\u03b9\u03b1\u03bd\u03bd\u03b7\u03c2 \u03b2\u03b1\u03c1\u03bf\u03c5\u03c7\u03b1\u03c2</a>"
+          ],
+          "photo_reference": "CmRaAAAA6baykapmK0jDR_tub9IzOSCA9r6mupXZfZAFYnftQgFyKlttQBogz6fYeJ2swZNnzn2Zo3ScfeK9bNP7t-Z1mW4FEoYcACfaJ88owKGzTA42wMyIJLigrtR-Hn3z3qvJEhBpwL8zdEYqh34uF89m6IJ1GhSTZTen33TDA1vwdHie-WJwmbMOrg",
+          "width": 3456
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101427840552035997316\">Emilia Majcher</a>"
+          ],
+          "photo_reference": "CmRZAAAAtS5t7I8htNZkigei5K_joijDii3VwsriaHWWo44q6nXh_SAclhybSAKxQzL96UqNOmnKd6fKpY3pnB4dgTiR44JurSosreGbvyuoT99ACDjjkbA31go1f0-AfZUSOQZyEhCoDXM8ccimUmiIxT3cqfe4GhTzqCnX_Q9BlhkZ4pKK-iZyIgLt9w",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117446310915782264883\">Clara Lourenco</a>"
+          ],
+          "photo_reference": "CmRaAAAALiFipwx3IzhWXZzPG59F8GRLz0xWo50pTU3WwAHgsyUqVgVIhp3HWKO5vj7sLRF-4bgWEZvMBNqNhvpF3I_wlXWnTtFsNRLto9xmoR2rROsrqH0YkysGTiikPogSSqSyEhBdpWY35BRf8Tt73si9tkp-GhQ86hnRCzK195j-VRlhbNa2QafLCQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "",
+      "popularity": 0.7167042199458696,
+      "num_google_reviews": 7286,
+      "mood_params": [
+        0.002010733382156363,
+        0.027916796185957268,
+        0.027819370237789135,
+        0.08601019700405341,
+        0.03926518212219501,
+        0.0963413327873492,
+        0.11176391586601833,
+        0.016425401700517504,
+        0.0806622521155169,
+        0.03703129994286038,
+        0.06952063639624999,
+        0.017132118968314677
+      ],
+      "top_cats": [
+        "military",
+        "religion",
+        "architecture",
+        "science"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.5385847299193486,
+        -0.6604885397134432,
+        0.19005215667650982,
+        -0.15515403735107647,
+        -0.4578298485382858,
+        -0.16946259779093725,
+        -0.06885800198771473,
+        0.08696452150934753,
+        -0.26231826151342635,
+        -0.6445604360878652,
+        -0.7901304319328086,
+        -0.45806681425532464,
+        -0.30676789052269837,
+        -0.6733230658661775,
+        0.0818931793978269,
+        -0.6444410031574248,
+        -0.4612391422727763,
+        0.464895120861473,
+        -0.7296000640632139,
+        -0.6251434952751632,
+        -0.6312342665738006,
+        -0.501782888867126,
+        -0.20259892835512025,
+        0.40374462046966225,
+        0.10540466655345405,
+        -0.23220825360251282,
+        -0.5738602745779772,
+        -0.38552812597697894,
+        -0.7074301639477971,
+        -0.2567328595643437
+      ],
+      "global_mood_params": [
+        -0.6031519400772694,
+        -0.677394151274326,
+        -0.6313322189917272,
+        -0.6168156942197139,
+        -0.4185694907917633,
+        -0.7217408262130756,
+        -0.02911424513236828,
+        -0.5250287646510897,
+        -0.5443325566988643,
+        -0.25994811001107687,
+        -0.5117227733661481,
+        -0.5740235590561535
+      ]
+    },
+    {
+      "name": "Atat\u00fcrk Museum",
+      "orig_name": "Atat\u00fcrk Museum",
+      "place_id": "ChIJiTHTulM4qBQRrAsHHFdervQ",
+      "cat_params": [
+        0.06659594060500634,
+        0.07324184811585291,
+        0.2613508723960814,
+        0.18754405517979156,
+        0.20819732664998683,
+        0.14789001372839475,
+        0.386381886218726,
+        0.2550962787065841,
+        0.11378138393452704,
+        0.31390394447920533,
+        0.04900504129119473,
+        0.08618459633504542,
+        0.21086746748083038,
+        0.06722576807530481,
+        0.3094291299673832,
+        0.11363524981176007,
+        0.3476767694726011,
+        0.34783763937273754,
+        0.09320422575680419,
+        0.11226789587464464,
+        0.46258191216562267,
+        0.14365735178573658,
+        0.22689977745487652,
+        0.15016050327476138,
+        0.030742356145329906,
+        0.28255087579422317,
+        0.2285400728031399,
+        0.2981851294559384,
+        0.16433322935485192,
+        0.16744844525974675
+      ],
+      "noncat_params": [],
+      "quote": "Modest home & birthplace of Mustafa Kemal Atat\u00fcrk, the founder of modern Turkey, offering tours.",
+      "phone": "231 024 8452",
+      "int_phone": "+30 231 024 8452",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.6357527,
+        "lng": 22.9543451
+      },
+      "address": "Apostolou Pavlou 17, Thessaloniki 546 34, Greece",
+      "photos": [
+        {
+          "height": 3992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105918362086273688528\">MUSTAFA MERT K\u00d6\u015eKER</a>"
+          ],
+          "photo_reference": "CmRaAAAAGqNMD-bfkpqRQuydgT30Cco7_1e91cP_nCGDAfZN3QRuvpVst_mQSkhx7uZG9QkJNSK41DD8aNcF8GsiMFFhY5wjibNomrMpdoYYNclbEYFkOmVnQhxaUAelyPwFPHIsEhCK1AnCx9UeQjPn_mrLwX6SGhRaAbRlcaMjEIfxkGMC4Nrp1P5A1Q",
+          "width": 3672
+        },
+        {
+          "height": 3004,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118414957832126528519\">Yuk Yin Wong</a>"
+          ],
+          "photo_reference": "CmRaAAAAjqtz4YvWHY668P7HX6dXKdMuSHq6CeMjM0_2aNd3IfvYlSpUVD9m2HyCwCG1yt49KxTltKuu-JyieZYbyVZJ-F0xdwNx_3ZHd7LerO-1g24K6dTaFFUDDXEuj2G51zB2EhCFGGKIB0KvKHpciVpUlOKKGhSQtwcAnz6UUstm_9I8MJhWbnXgqQ",
+          "width": 5325
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113039611031567106014\">Sema Kaymak</a>"
+          ],
+          "photo_reference": "CmRaAAAAT6Dae8sGQWRAMYYfarjQ-qdPIypn9L-EhvdlBLYHOIYPHAXxBrcvGGTVp9y-yJxuOWvaNUVp0HGbgka8gkNX3AQtxBEXIKXnwigOW6HSoRD7FhW0nLmfbObJ6hQrEloxEhDUdW3bdfqJHrdaEOIqKI6gGhRRwCCG9QllJZgFszS_RC4vFC2Y1g",
+          "width": 2976
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102663495021192941522\">leonid oumanov</a>"
+          ],
+          "photo_reference": "CmRaAAAAb5b6SEgM6nkhtms9WRsMDfgqYfTl_2sqqmF2RBM1kU1m61TBpDvhwN9NeHpSA3jWir-qxUFg6ahCQsCtp_V9ptzzMEx4zaSTMui9cQb3RACM_sgpqWYmrtDzVznayZ-KEhAvipc7W-eNfMTt6qniB_0WGhT6rz5iuGdH-DJ0zS6df3GKatte6Q",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115629597913569932391\">halil Temiz</a>"
+          ],
+          "photo_reference": "CmRaAAAAK_KpxkVf8oW-iIoN1JJ4zfkR8XfJWSAwjof_o3mUIsarvk0md8apK1mr06eOBTiuRY_iktfrNf_ytPD9lThxgjBJ9m_Bb1Ed6Cx3vgrxOEEyohcHtCAeVZ5xU9rzyNl8EhCsyvmuErek7LiWPJQPiW1AGhTGPznY-BKpLvBeJRPjWI2xfR0BvA",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112505799921401200560\">soner \u00e7a\u011flayan</a>"
+          ],
+          "photo_reference": "CmRaAAAAsKlmyYG17FcP6M28yiUZXZxOZtPjJJ2USA_jJxykZwcIC3_S4dP6K3hqIanQaiHMLHPGzv7FxkXBUdiXye3Iplru4ny2EXCzb7lohp9Y6-gkZdB_FwYwwByCEOLmK66KEhBQZnIbFEgDfZqseEYm6dTTGhRbGckRGypKUWxfPL2LM7uhY3pYdw",
+          "width": 4032
+        },
+        {
+          "height": 4248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118155600545098429984\">Panagiotis Tatinas</a>"
+          ],
+          "photo_reference": "CmRaAAAAA1hQlHfbxBD7jc2-DbLQnKaiMN4-6qo7vWl9DtikH9OwUwowSU_d80FyDOBYLOm6BsHHPJ3kFXnY6hDKWqKNoSGmz9Zdo6QqL_Kdj9rcD3fs9M4nfmFkZ9kSbouoOk2FEhBvQT4dhnWP29izjZcwKjQiGhQBd-rxvQ1Zp4QibUNIjXWUkNih6A",
+          "width": 5664
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109014232543006125425\">serkan kavastan</a>"
+          ],
+          "photo_reference": "CmRaAAAARKPiD51cg1QZCJeGcLByaeHXd_ZvdtZrpkmT3ensuea0Z1QUbEFgvnB0UaAGg2WOnCSujvjCIcmTs-MW875VRQzjYWTIfvuSb2enZkP9W__vbLMHucevtpR20m4vxPPCEhCQVeC1rIUCFyyycvpV_HuMGhSm5_GHa7KtqFk3CBLaPAx-p8pU-w",
+          "width": 4608
+        },
+        {
+          "height": 6936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103201243749452440741\">Deniz \u00e7ak\u0131r</a>"
+          ],
+          "photo_reference": "CmRaAAAAs1gjc8r279gjGRgvXTkToUVl0CM_AVsrImMkON-wwNifNjUPnSjaRxO9ZC4JucnOD-gGWeHJMjasDatrC2a1Rc0KGO7Vf7w4LTZf_5oUvVMGX56-m7kwyNDoSO31UZd1EhDoKgDrvfFeHeNsmJaQ0XkTGhTZDEyyjEPVg_8gjlTZlPKKQfP90A",
+          "width": 9248
+        },
+        {
+          "height": 4912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108201951126399970390\">Yavuz Meyveci</a>"
+          ],
+          "photo_reference": "CmRaAAAAWfB1CnswvAWnnil9QaWHSKYWKWH-6kmIGi8oIIPYNGtpp5_ttwM5gYk-ERWxEg7BrP-wnKUX2ByAlF4MXI5_3HRWttvngmCac8zCuG68Zed2ToXVesbYT-4MaM4S9Kh3EhB0lHQxO_BXxVAszhHZ9wF_GhRoAoHhAVRWHrCbOX8oIVT0l-nRgg",
+          "width": 7360
+        }
+      ],
+      "rating": 4.5,
+      "website": "",
+      "popularity": 0.6185767681538201,
+      "num_google_reviews": 4043,
+      "mood_params": [
+        0.0030897278804517753,
+        0.02973523794114179,
+        0.022567288070034938,
+        0.07448233406218269,
+        0.02248590233518871,
+        0.09741804287891571,
+        0.09189036391564107,
+        0.02117313806006058,
+        0.049842093579635045,
+        0.05025376858562273,
+        0.08577423098950211,
+        0.055139445190420494
+      ],
+      "top_cats": [
+        "military",
+        "culture",
+        "architecture",
+        "history"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -1.1480826274621112,
+        -0.4664649857181807,
+        0.3606078607809714,
+        -0.31249568925164467,
+        -0.5962498613691374,
+        0.036835477703924605,
+        -0.1267137124723785,
+        0.48817631709484605,
+        -1.3739006856251579,
+        -0.07923282453371686,
+        -0.7680658776501672,
+        -0.5196207629022089,
+        -0.4609333065318698,
+        -1.017746448531197,
+        0.20979403010121422,
+        -0.664573500020178,
+        -0.6590913364800708,
+        0.5639459326799455,
+        -0.9265887115573717,
+        -0.4659588289894994,
+        -0.36575023238514226,
+        -1.0904054230006865,
+        -0.33985420031350083,
+        -0.16841344158316662,
+        0.09172855505983492,
+        -0.5340159478875255,
+        -0.5776121257371272,
+        -0.7941729500173341,
+        -0.8141468493174757,
+        -1.1158753440127716
+      ],
+      "global_mood_params": [
+        -0.5305551741582397,
+        -0.6229154254858318,
+        -0.7258940013602594,
+        -0.7945344886153383,
+        -0.7868284582867916,
+        -0.7082011785090069,
+        -0.4052133243328833,
+        -0.3357093095153522,
+        -0.9520427184174584,
+        0.2539190223110245,
+        -0.13561129763645305,
+        1.7494734940227814
+      ]
+    },
+    {
+      "name": "War Museum of Thessaloniki",
+      "orig_name": "War Museum of Thessaloniki",
+      "place_id": "ChIJkR68g_s4qBQRXsP5AmJ4bWU",
+      "cat_params": [
+        0.12649296699061546,
+        0.03640918065234685,
+        0.23993386772495462,
+        0.17149499216831077,
+        0.1453737856098601,
+        0.15628018592740522,
+        0.3275377204786178,
+        0.19943415331559441,
+        0.20816748862986112,
+        0.1821755638497015,
+        0.020907960330457512,
+        0.02882278985297252,
+        0.11650015051590377,
+        0.05864893834941408,
+        0.21417619022321782,
+        0.044850219654924375,
+        0.12505900259045322,
+        0.32148503812962076,
+        0.08107127604014136,
+        0.08720388022724068,
+        0.2682958219397354,
+        0.1436679971676758,
+        0.13309045001724357,
+        0.13831218426438666,
+        0.03011049523562658,
+        0.18677893514984278,
+        0.21165539049898016,
+        0.15340780305264057,
+        0.06940450743876452,
+        0.21568059178731505
+      ],
+      "noncat_params": [],
+      "quote": "War museum featuring exhibits on the liberation of Thessaloniki in 1912, Sofia Vembo, WWII & more.",
+      "phone": "231 024 9803",
+      "int_phone": "+30 231 024 9803",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.624308,
+        "lng": 22.9595298
+      },
+      "address": "Grigoriou Lampraki 4, Thessaloniki 546 36, Greece",
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110634373518220934448\">\u03a0\u03bf\u03bb\u03b5\u03bc\u03b9\u03ba\u03cc \u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u03a0\u03b1\u03c1\u03ac\u03c1\u03c4\u03b7\u03bc\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2</a>"
+          ],
+          "photo_reference": "CmRaAAAA7-vLWKcTIlNdjSddFWzJ0P7LJBp5V5tpFtLkfg6wz9Kb236isTqmzax5NgCtkgfHbUFp_NFFTswVVWouGRp5IhK6Cq3O3c4mkw4sABWNTUWSdN99Ywy6hImvs71iuBIpEhB1fGHkeW0HgtS7t-8gwhCJGhSVzntFVal9KXLhta79ailEoBmkIQ",
+          "width": 2540
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109555266574534738381\">Sandor Bartos</a>"
+          ],
+          "photo_reference": "CmRaAAAANcEts3lM4SosbgZEn3YQ0L4djWJhCf0Euot7KAQf79Z2sCefcuPce_G6TtHrDcOcDW2UKWJnhFpM4yjeZupji3YL1aUginaUQOFWVG3WHy1gTImf1wZdamVaQADA5unUEhDP3718tON3R9fTwv0JxQE3GhTozLW-hhclhK7M7WwZfQ6SfJlUBA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105852996165313770879\">Eitan Rosenberg</a>"
+          ],
+          "photo_reference": "CmRaAAAAPUZ8xl55JnLoHz-AuvYMVHdiO_y-DcdqG9oBhNTmpcb8QzmDfClruy3B6RHc9_HFQwPn_uy7WkZSyKBmwD5eW0AE2F_4LxXHmX6-nl_9wwFfgkUMYxfYkgf_0yRojRVREhCKFipfFWMwZi4vId3aWULPGhTp3hp-Pi96H8QHJGAWWGbRVQ38vA",
+          "width": 4032
+        },
+        {
+          "height": 886,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111683365675203687716\">EL ETOS</a>"
+          ],
+          "photo_reference": "CmRaAAAAoLv7trJ7alSYpshp6-qgGPDR7708cJaRT52ZIVLSlk5IUkvbUwrK_3a3FD4XERY_czN7I2CDcUEQIluOEL_qx84jAyRyffcPTjBM3qHVJK3L2d1UJQj3WbZIOmSrh6fsEhCRmjHlYP8MyMv2skYYUkU6GhSfXQgPcXLDCtrB6T_i55M7o-R4wQ",
+          "width": 1181
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109555266574534738381\">Sandor Bartos</a>"
+          ],
+          "photo_reference": "CmRaAAAAoOjmuOTqHUx2_ERuPWxKPxae1zOC9VW2z9K50ZnrOvdaqwLtox20jUj5fjdizo8gpzTniVsllYKCHkZW7dKgEwuCtvr5sNSjIaZTbfYzSSvSyyJx1wZ3GMxrnCThXKCzEhD8Cq7H1AV4EVByF6onpT3HGhRrIRZeUS32RzhHIf9x3BLX2A6I6g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105852996165313770879\">Eitan Rosenberg</a>"
+          ],
+          "photo_reference": "CmRaAAAAfY-mASZjvp1qPeuYBTUX2-qsKxA455iOP7VHRrpWgq-ECfp_DYsd0tbT5dv7SOllYNnGZmULPeaXx25FrQSJeij9vjkQeeoA8p1k47ElPTLGPA18sU2UUTaYFIhPzARXEhCKTFybiGMBk-qiqP5Myyj7GhQoYEYh4nsFm7UCcrZl09eja2L4nA",
+          "width": 4032
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106208389246132379143\">Alex Moraitis</a>"
+          ],
+          "photo_reference": "CmRaAAAAEm6-BQ1AKw0BxaraWh-wwIWipK5n9tLieAexuwvT6EGGfIDaTw12PGMRi-7yEO-w3k_ta1_15qo66O24YOT3jAw9GWPQxSWkRtdZv2188aSK5ACr6ZYQBUC2FmV9HJ_AEhAl41uKwj8UK7L0-fbf-gP4GhSTBT8E5btHqIb-flQwnUjBVkaiTg",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115862768054225664710\">John Demetriou</a>"
+          ],
+          "photo_reference": "CmRaAAAAsFnKdDk-RHGsq_u7vn5owYT_Pnuc8d1O76W26S3SG6MukYLnkNRfQCcLkUdGQ7HAEjnt7EI9atLG549lN88jFvdwve9heCICO_PKtVQgUtD7iLOZHiutnL95w7QIN3MJEhBv5mwI9JVrHF9jxXZPR1v-GhRYWcduKZhjifPaxCjvF010j8p4RQ",
+          "width": 5472
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115862768054225664710\">John Demetriou</a>"
+          ],
+          "photo_reference": "CmRaAAAAN3ycTzsWnjvQ61jd0PhWFarsReCcDmU4fuwrs9eoSxxtz_1PBaQjIzQO5NXmw48oauJtaTzzBxGl92yMZLGfwvT0003lkVkPvOoDmwn00rAhFjRlXGfiuVwaNp_WEILwEhBOKZuZ7tF7w67HDk759b_kGhTUHV5HWvOdU6YrU-4J29odYc33bg",
+          "width": 5472
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102237620869879332874\">Clemens Epe</a>"
+          ],
+          "photo_reference": "CmRaAAAAtkIbuQNTunFXJiPFWY76o_BWWawj3_GKD593CjAE2f4Z1mLGKvNswueZdTIGyItwAlJvZQwvSrXLxVoldyBfJHx53S4Pn5piPwyKKjxPbVL2pOWalIvtoIYQMRLO8aNnEhBYVAHQy6k858vbmS7YIYrfGhQjfioPK2NKhg731m-YgX-psJpf4Q",
+          "width": 3024
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://warmuseumthessaloniki.com/",
+      "popularity": 0.4078411188196008,
+      "num_google_reviews": 764,
+      "mood_params": [
+        0.0008789091647772527,
+        0.013145128477468782,
+        0.0030529252094738234,
+        0.030519344251350757,
+        0.0047986942370571465,
+        0.024742237694793695,
+        0.03261857233655293,
+        0.008603486235433656,
+        0.012828104780710236,
+        0.009814892840964243,
+        0.03952852529874237,
+        0.005537958451860276
+      ],
+      "top_cats": [
+        "military",
+        "architecture",
+        "books",
+        "science"
+      ],
+      "duration": 1.375,
+      "global_cat_params": [
+        -0.4213262784950627,
+        -0.9068627548358611,
+        0.1502202958762935,
+        -0.4271858380985713,
+        -0.9837671476431707,
+        0.14876598884062403,
+        -0.7529236030569487,
+        -0.1299966247419361,
+        0.02292185723481946,
+        -1.4798531341367251,
+        -1.3459240434850683,
+        -1.06439664847297,
+        -1.480684535740385,
+        -1.0807692348574829,
+        -0.8259874604460552,
+        -1.470176014708206,
+        -1.8670247230652512,
+        0.2883077075493101,
+        -1.0814607312943558,
+        -0.9653812799529711,
+        -1.3132850893728916,
+        -1.0903014254368593,
+        -1.3975381545442078,
+        -0.2789396930693847,
+        0.07353581390875571,
+        -1.2443974683186838,
+        -0.7358201471437903,
+        -1.7347027042663692,
+        -1.387177321788656,
+        -0.7842246684708174
+      ],
+      "global_mood_params": [
+        -0.6793031882072336,
+        -1.1199387817169102,
+        -1.0772428331074997,
+        -1.4722879964949418,
+        -1.1750139510355089,
+        -1.6221006640900366,
+        -1.5269084441142624,
+        -0.836933357034562,
+        -1.4416891081818213,
+        -1.3176641422754165,
+        -1.2057463076934862,
+        -1.2828079033028605
+      ]
+    },
+    {
+      "name": "Rotunda",
+      "orig_name": "Rotunda",
+      "place_id": "ChIJz4i6VgA5qBQR8uS5nQItEx4",
+      "cat_params": [
+        0.08915707710497975,
+        0.0448654042172353,
+        0.32194832721742206,
+        0.2654828163696949,
+        0.17377528920019383,
+        0.12295134572792443,
+        0.33100163771916624,
+        0.22473647807790026,
+        0.18213003372677294,
+        0.22414762949960468,
+        0.03886563313572919,
+        0.06429358872101681,
+        0.1655484393819561,
+        0.07829394220200526,
+        0.29394523458960387,
+        0.09997301793388445,
+        0.3766742582196855,
+        0.3281049690002861,
+        0.10702804773567856,
+        0.11182092135895834,
+        0.37962518100209086,
+        0.15617716687680702,
+        0.24621023616689378,
+        0.3357542814644996,
+        0.028671387321645453,
+        0.27440509212713843,
+        0.21579076362617447,
+        0.32262924840055707,
+        0.17865602280882015,
+        0.19847684622564402
+      ],
+      "noncat_params": [],
+      "quote": "Circular building built as a house of worship by Romans in the early 300s & known for its mosaics.",
+      "phone": "231 020 4868",
+      "int_phone": "+30 231 020 4868",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1530"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1530"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1530"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1530"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1530"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1530"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.6333007,
+        "lng": 22.9528538
+      },
+      "address": "Pl. Agiou Georgiou Rotonta 5, Thessaloniki 546 35, Greece",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105174813337536668406\">Sofia Eulgem</a>"
+          ],
+          "photo_reference": "CmRaAAAACBtnjSYduYnkBw7sFIavELGF7opJIU1bL3aZJB1tvh2cKZMk969dgcrYc0Pet_OlTpYcLVeTpFeZUidkXfX0TFV8xRnQPUrfrC_orguW14OzhYHGdH3FpAD4ZRpOl-piEhBDwYgV83nRjvZ2Q7KMdh8BGhRwG9Bb1-zL2Ot8-obZwyj3H2EcTw",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106749186026683312538\">Jaromir Sobotka</a>"
+          ],
+          "photo_reference": "CmRaAAAAaLs6mR22SEjbIJVZP4qJ52AjHiIQUHbsqM-I5irvsiyMCv4H_CJqtKesSE3JkldBfvkkoTlAHTW80pdTOxgANNmbPuwUE5x2hFCiOPbpVlsp2ZaMh6diiW-jGI7iXeabEhDR8S6n9FFtCJfO1hiDyoCkGhRUz6mVWmJ98hbxK9rWfzV-DAQy9A",
+          "width": 4608
+        },
+        {
+          "height": 5120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100713758821281307470\">Maria Baiceanu</a>"
+          ],
+          "photo_reference": "CmRaAAAA4Z5KPmBODA1AdkCmiGyRwgWdnH6HbkcIBeIJlazXLaKgQ_tf4-Wur6QuwnTLfe-BXQ3Ng_KStzAoa67Uzp5vG12nGfeyI7xN5h7uq4F6bU_Uw77YkknJamMmqzXCQtivEhA3Bsluha1BRn5Uem-J7w0tGhSCPTofcUhEQSlnk4OOdW3xDYBddw",
+          "width": 3840
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109529650763824138358\">Petar Gavrilov</a>"
+          ],
+          "photo_reference": "CmRaAAAAh-d_xPRpKCwY-PmzBo3ioRSTsthqAA3MfjYKkId3DBNzmReZdSVz1OXbtR0MMJoscqeqXmpkzMMMUAWxaZLSUX67vMyrTgmGju0_SdBjqUX2rhbPwb0ZvYG7ENaBp1AfEhDjS4lvOPXkB-wyL_yGClboGhSYtKgDgVc_TBKI_r2XYDeo2IndCA",
+          "width": 2448
+        },
+        {
+          "height": 375,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100390039295604342823\">Konstantinos K</a>"
+          ],
+          "photo_reference": "CmRaAAAAm-sXhJZo457Exj7_eWHd6Xf6KvCvd8YpQoagfpGnebs3LGih5Leayrh8fdm4IQ-JCJaSwFmzENqlOP_oR0DGX8WIRnAn4-XCjJy03VIrr3p6_iOI2l9VHCHUD9w378a_EhBezi5LWt8t9cbJ93GQkIRJGhT564OXVGRFnUgos-vCB8XuzV6QoQ",
+          "width": 600
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102673300552560967213\">Thomas Margaritidis</a>"
+          ],
+          "photo_reference": "CmRaAAAA2NahjE7CdCZ1eRbgKRXcR6rfX7aHvWDGOm7a7OeZ-EtFeUpgdAxbyXy__mtk2xT9c-NzyixQjbjlsZCSxYcPlIHolKYB-NcQOKKG8q5NqUqzegQIG4lIjaO_V967ahXzEhBAtTBThhqMUjz7IcjGALunGhQHa6b9SFjok81mINsXcB90MfHcnA",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101028535911822477034\">Iman Fadaei</a>"
+          ],
+          "photo_reference": "CmRaAAAAmrAMuVOrQH6hNyZjJ7agWA6PG9z59IS54YxhqC1-UQ1i7eRzkHhp1rl_bYdsbv904wC4qVXFI28Q2OmLifljbh4-1nr9DgXrWGY9GmO7B61q609kIzO2o0kkI1MwhnWbEhCPhuXWMIvvRuxHBxBVZQTkGhS-NZJyndC7DWAN-yb-y3gwkTtaUg",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115408665184540726515\">Christina Lamprianou</a>"
+          ],
+          "photo_reference": "CmRaAAAA7S_WRMUt4mnoBCxvhqgZuF1yqhulq0TWLWbVcxVyFggRFhuR1_Vt5GA_c48phfBhStAzLsMMeZUi7O9Fp7KXWpsh9gAGyz1_iHHoaSveRD7ydimpdgkthPZJg406qzOeEhB2VYTrDgmsbA-B_RohkYXkGhShZ1L-tLZbWsY73ORalz6HBZVxwQ",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113506807555734108115\">Asaf Duek</a>"
+          ],
+          "photo_reference": "CmRaAAAA-tQ7ce-j5Ssdez3sQ-NLJENv4v6VSARa7K-9iK59W1ZR4T-FwcoPFPk4nhfBtky3nW1cBeZG95Qn92_yNOka0NVc4VeKXpsvVZx89mT5S0COm5eLicbv1dzKoHDVA3aCEhAjIXYDv4-KUeCdFEAMyeblGhRwvUO5M-OwP1Nr2uN4bk4boYOvhA",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114738521771546113291\">\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u03a4\u03ac\u03ba\u03bf\u03c2</a>"
+          ],
+          "photo_reference": "CmRaAAAAwWmUWaV6ALGY8Q80n30mr0OmYVh340ILi08PtJN6oPf3evbqgpBEh8MmTCBOFK6-lze2KykGCXb8-w7Luh838wypj6uGg9LKih-chcrYMOvuccgIiqECnYV1-kVG4c80EhAG-I82h5zpC35bSfYfDjzcGhS7oXlizzhdndNE4LKdBVVjeqF3Vg",
+          "width": 3000
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=1812",
+      "popularity": 0.5450998910090002,
+      "num_google_reviews": 2438,
+      "mood_params": [
+        0.00236915381914607,
+        0.03550866521374888,
+        0.04325945151481873,
+        0.12807559815314196,
+        0.05950236922670365,
+        0.10826505275158857,
+        0.13758991143694982,
+        0.022449590357290907,
+        0.08547414050261722,
+        0.04074849482803311,
+        0.07484736010182293,
+        0.020110864615344864
+      ],
+      "top_cats": [
+        "religion",
+        "architecture",
+        "military",
+        "art"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.8743386675247727,
+        -0.8057540855594073,
+        0.9558802228620482,
+        0.24447191162453427,
+        -0.8085768699987042,
+        -0.29586304029434785,
+        -0.7160611680319015,
+        0.15100616528368863,
+        -0.362407149452449,
+        -1.033579314445675,
+        -0.9765978531801626,
+        -0.7275237874120072,
+        -0.9506593695027885,
+        -0.9364171933982078,
+        0.04142198534385921,
+        -0.8245840187620056,
+        -0.5017497402755131,
+        0.3575496764480843,
+        -0.7501334158255725,
+        -0.4748651874630421,
+        -0.7703308912877876,
+        -0.9680960238197635,
+        -0.12213211567203602,
+        1.5628857059595886,
+        0.032100559147037924,
+        -0.5944367156781017,
+        -0.6970720565107486,
+        -0.6353744574980477,
+        -0.7276883261816697,
+        -0.902519918592412
+      ],
+      "global_mood_params": [
+        -0.5790367433771523,
+        -0.4499492249751867,
+        -0.3533393089731011,
+        0.03168372112562198,
+        0.02558101642376164,
+        -0.5717998449756034,
+        0.4596324659697467,
+        -0.28480984182846836,
+        -0.4806776020952909,
+        -0.11548610919009851,
+        -0.38846130635877363,
+        -0.39192427924096646
+      ]
+    },
+    {
+      "name": "Alexander the Great Statue",
+      "orig_name": "Alexander the Great Statue",
+      "place_id": "ChIJZ5w-RwM5qBQReHMVSGamp7A",
+      "cat_params": [
+        0.1112110967530643,
+        0.06095625674325439,
+        0.13460757668728224,
+        0.2094227867461299,
+        0.2768253575811279,
+        0.09521315126050502,
+        0.3232028734995841,
+        0.13468160993435233,
+        0.13127735889327327,
+        0.19569926518113873,
+        0.03744951807187385,
+        0.03884013984096377,
+        0.13212056539817546,
+        0.1608551351094651,
+        0.25022787319028617,
+        0.11743390381971573,
+        0.3052236597981116,
+        0.22284981873556253,
+        0.12407049378873179,
+        0.08103944594014444,
+        0.35102964117481633,
+        0.17675729318949857,
+        0.188257220966465,
+        0.10054675323409556,
+        0.01886112136985949,
+        0.24048297102719815,
+        0.20959139066561128,
+        0.32243051223115365,
+        0.2064736084478492,
+        0.31936893641635244
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.6240612,
+        "lng": 22.9500053
+      },
+      "address": "Thessaloniki 546 21, Greece",
+      "photos": [
+        {
+          "height": 2813,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107648630123169165023\">\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3 \u0391\u03a1\u0393\u03a5\u03a1\u0399\u039f\u03a5</a>"
+          ],
+          "photo_reference": "CmRaAAAATIkjExQ7Y9wKSII8whHRdUjIj-NbsjW9iIKmRVzNwv4au_PyQ5TmfcS1JIiKXuqaMTOEZ8_VOlTLNNZcE8JRWBR2AzflLKfGcSXQXGI-mM8dc9yCHnNbSY9e9qTl3-gyEhCqyKltCLD0GDRFQkwtrQ46GhS5bVNR2hMvJmXWvOxMus69AeI08g",
+          "width": 4096
+        },
+        {
+          "height": 3848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110976785935985189462\">mar_raf chry</a>"
+          ],
+          "photo_reference": "CmRaAAAAdgRc_9WRY1I8G817spq0BjKcDOwwjZMmOdxnDP9lsEHJSTb7u0WBtLDc-m3wuSaTyvUrl0k09BnIvLH1Z0MB7ysMQ58aQOiMsAJtKZ1CWlbQBBONjHwxtrmIBirJZknWEhB-jjmaos78m3isIa4onNzwGhRHiEzOYD9JPEHSkuZWtuF0Xd4vfA",
+          "width": 2200
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115058073840605637559\">yvette talhamy</a>"
+          ],
+          "photo_reference": "CmRaAAAAawO0axdp62VpKTuBI5Obi8RVNZvPFZhyKpGQpLGLcaOrIFFJ23SnbNcLXtXG6pPlmdLY9jL7_R6Bh5ClSwmxTvf3ISD6FboKi3FMBUjj9T_5yAZq4fvp8u719LR8ma5sEhB8KDOokTLt40Dl7GGl7dIEGhTN8634pCHWjW5kyYtILAl9-ZZyxA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115176082485187093123\">Aleksandar Milincic</a>"
+          ],
+          "photo_reference": "CmRaAAAADAjqT4Xw24_Oi4hzqBt3xKdzkEjuh5VDTmYKTTykx8qyxr7g2zvzq2J_Iy_t7Qq5bZp86TOVbuk9UQJ5VCAw8OP1Xhqw1HKEyqeJjcJ8H3HtiGoW4cPlA_bEc12S3LSPEhAWlX5UyxZxKdbFukNf3AqQGhQH-hprzJ9SGjW9661TeEhxn5BhGA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115963138611644363050\">Thomas Harsha Kreutz</a>"
+          ],
+          "photo_reference": "CmRaAAAAqyUDtFw7SRVEN5_JpFe9B675I1IS10Qgj1GUcJX0LsAIUwofIkw2Vy-zKRby_II1Qjh9dVzA7trXLmvvx0K8OFlfw9jmnBxYvQCQ6SUmwInZwmLw8svEGQP2dRUV8UxPEhAdHQg9_Qb1bI5go7-GUTw1GhQ9ULQvAk3jEn8hs1KUVHgrSdkXGA",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111543465013023141644\">\u039a\u03a9\u039d\u03a3\u03a4\u0391\u039d\u03a4\u0399\u039d\u039f\u03a3 \u0392\u0391\u03a3\u03a3\u0397\u03a3</a>"
+          ],
+          "photo_reference": "CmRaAAAAhHZXSKcjCpHeg7YqcXNMVNX5CkfjNsPJatdF6XXMCC0wD_SEnmcfX89XW4gs9ytKkcqA753p-t1m_b-78ywROjfC6QfzfWeg_1nwXZcJOnm4OUOVeOkoZbQxbelTN5p-EhBT8y4rgDHq8jivi3GohWF9GhSuLM3rLjfmdOd2l3L-yPFpo7YsPw",
+          "width": 4128
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115963138611644363050\">Thomas Harsha Kreutz</a>"
+          ],
+          "photo_reference": "CmRaAAAAP9OtZS_zpapbb6zUQM-Q8blx_1yq7XQt5k6-1_zsw5vmR03dqMQCHk4DU-m7YmFh_dkzxdc-XLlcuf5sibkpsnHbaqP4cg_NjXXImtatI824F5qO56G-JY0uoVKZzee3EhBdrG2a8uDJNN9MCH7pvLr4GhRdbfIT--qXPSEOpt4Jft3o1lQGxA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101202713706918292979\">George Tsagkarakis</a>"
+          ],
+          "photo_reference": "CmRaAAAAE2mbRs3dBO9PEGZsvB81TWwKxDZmkFOLigmXbvADK_Z-nfrTciNRwXlxgySps7KcqdXBBYecFwIW1FqTORhhtn__z9zIdoVagr54f2e3FTQlX4pI4KPgaq9L1WR6-HQLEhBYKI93ICg9PBRSKpGVWQ2sGhT9mlBIVDFrPbPzhhgJpcXWdfQKtw",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101676894179785835911\">Joni Gritzner</a>"
+          ],
+          "photo_reference": "CmRaAAAANLavSru8kByHFcTv2MUK3AGWBvvgYKn_AOenqXB5uzw4EChMpqG_tjKjmL7jfz0YgFw0K83W7s-_a0UqLIwhfOEdF2V47BIOBHpSBgLP4YHqTPxzMlvZBzMI4U4UtG-kEhCjzFb7WGyri97wuyvgT8yPGhSFMr4iOcvmQ5_cv0JNqqpGgkJ56w",
+          "width": 4160
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111167711048761729485\">Ioannis Penteridis</a>"
+          ],
+          "photo_reference": "CmRaAAAAkzYYvZECrbf-6dZ_jKtynhX3hOmAhAr8XVdKp1Bp9xYygUoo_ayb-AAYlQhkQPYyHn-JUN5QE68UZVNWl-Lwjqx5fmcmfQuwz_g-lyAXIzIqY-PHn-MtmLE62T1JQJ4REhCLakCJuqKRcES38fRG8RlKGhTzCkezRKaCYbeuwF4oIyqdpm4Dfw",
+          "width": 3968
+        }
+      ],
+      "rating": 4.8,
+      "website": "",
+      "popularity": 0.4117871550593263,
+      "num_google_reviews": 794,
+      "mood_params": [
+        0.002677666594719383,
+        0.016379199342272516,
+        0.031969563583166924,
+        0.055370305949518646,
+        0.029070930135998964,
+        0.11358030114036699,
+        0.1208856426536299,
+        0.006730862924543991,
+        0.05892035251253976,
+        0.025386396361538624,
+        0.03932184385092085,
+        0.017200986389337845
+      ],
+      "top_cats": [
+        "water",
+        "art",
+        "beach",
+        "science"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.6067477741755104,
+        -0.6133603209024868,
+        -0.8844408172032254,
+        -0.15614544138170536,
+        -0.17292847788042687,
+        -0.6659091145708201,
+        -0.7990543284789139,
+        -0.849126013931158,
+        -1.1149772740639377,
+        -1.336060500724713,
+        -1.0057223609734858,
+        -0.9692599879410931,
+        -1.3118873526768482,
+        -0.32975522321320866,
+        -0.43396107238221615,
+        -0.6200840927427325,
+        -0.8894436989998409,
+        -0.7433793186508212,
+        -0.5325937323082063,
+        -1.0882130290140497,
+        -0.9097915737752559,
+        -0.7670433033072921,
+        -0.7755423463075029,
+        -0.6312319907264989,
+        -0.2503597518854735,
+        -0.8460516229368431,
+        -0.7551596481150656,
+        -0.6366655248579235,
+        -0.559769450629644,
+        -0.07124977479919313
+      ],
+      "global_mood_params": [
+        -0.5582794273883231,
+        -1.0230492006666099,
+        -0.55660953427776,
+        -1.0891742333594534,
+        -0.6423052385994762,
+        -0.504960506134659,
+        0.14351081223561055,
+        -0.9116055793409901,
+        -0.8319492927672082,
+        -0.7125060529468412,
+        -1.2105289583188672,
+        -0.5698134957419021
+      ]
+    },
+    {
+      "name": "Vlatadon Monastery",
+      "orig_name": "Vlatadon Monastery",
+      "place_id": "ChIJ3yvwo1I4qBQR98a5cTpKhss",
+      "cat_params": [
+        0.1257907773302544,
+        0.07159545006731344,
+        0.2098021460845455,
+        0.26040439896706635,
+        0.3432164228715755,
+        0.07929628963195591,
+        0.3750769714328055,
+        0.19545744555127675,
+        0.18264114462725992,
+        0.22620359965881484,
+        0.047948759276606225,
+        0.09897752008111906,
+        0.17002239504538505,
+        0.16619640399344163,
+        0.21339944658670001,
+        0.2113228285595165,
+        0.6367190753853769,
+        0.3000098131864442,
+        0.104784397193518,
+        0.08513973610044262,
+        0.549924135961156,
+        0.26955745415453486,
+        0.24668802724607786,
+        0.41017296240403406,
+        0.01661041952916246,
+        0.3816227339145792,
+        0.2779297105128832,
+        0.5484925087286552,
+        0.2906506107206548,
+        0.3391885172889785
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "231 020 9913",
+      "int_phone": "+30 231 020 9913",
+      "hours": "",
+      "coordinates": {
+        "lat": 40.6417948,
+        "lng": 22.9544911
+      },
+      "address": "Eptapirgiou 64, Thessaloniki 546 34, Greece",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108152216632620040587\">\ubc15\uc6a9\uc6b0</a>"
+          ],
+          "photo_reference": "CmRaAAAAoblwFB7DLJB9hGwf8OjBZ4Ivl27nPMYTWpvP4RHOxYCyt22lZ3lKXhFtOfEyb-dRyNQ02F4ZA4Ob5TDcfHmy4f1QJZX1DvFS8ob9kRkBDwz7NqC_R7nQwLYmV3t0HNw1EhCHxL441tjpzljgtnWFSk1DGhRusAA3pdWLAxptoItb_fL0cxMUAA",
+          "width": 4608
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117576166543967767195\">Jose Cortes</a>"
+          ],
+          "photo_reference": "CmRaAAAATL5zQ_PTq0ofp6cOQxAOlcRDy6U4C0hhctIB5_Qi1Lrg5uo3wXc4hZSwYM1z84da0xuPTJDUEOMTK-DtedqAtLH9Asyz9OCQgcUIO-U7AOqaB2fHA8UcKeDI3MemGP67EhD8FAT2WoCzpF326CWg8SjqGhSuVYKI--fUTDeCuy0CllRHvVQvuQ",
+          "width": 1600
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100424164360828403667\">gabriela n</a>"
+          ],
+          "photo_reference": "CmRaAAAAuUJsAAmFL2UNA5JU2BbKt4Asd8BWi2WUKQjwZ29-UnThZCt1idTj_awP6QLpXpOcFqwUkbumlGtdNZa3htXHtM5XXSkgvvhY1u85wRqb6QokI0hRwopigQC3jITWNn7YEhB-Mh4IyJcvt_YtFKQ76zj4GhRgiG6TDi7HXhHHYfRdn2LRYGxEEA",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111882916907895191900\">Tolga DA\u011eLIER</a>"
+          ],
+          "photo_reference": "CmRaAAAA9TqOFCVR1iJNi_XGW4qmHEMtTtpecpflE1qYxOSSo5KWED9JrBBiuf81O-MAQRFL_R2EduAD0jBpD5A4dciU9_I42rra4nymo5pkrgz7v8YCK045oluC-kkJfdsjDmTzEhBmzvfxT386GWKLqQHauBWoGhRL03T6PpF_TeecijSrmKGQaeuUJw",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107397490574489549164\">Nikolas Kanouras</a>"
+          ],
+          "photo_reference": "CmRaAAAAL__3ZLhORWORqOk4VGQDy4a7RPEquwL4DGn1RvlcNkoy3zF11lErFlAe9yAIrpGE7Keli6LrdIw1n6Xrs1pL24p_7J2NQss8kpOXPKe-SkDgCeM8YjaTjTXOkjbZGcnDEhDSSSDwbSbfVSdrGpoy4iKoGhQaTNJLHZkdKitxo_Rqm-t5M-WY-A",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117774465146332527579\">Taka Loitzenbauer</a>"
+          ],
+          "photo_reference": "CmRaAAAATDhNxyLU0W7IE81Mc6CaIzpdR341fb20NZpuC3PxibZR0VirLQcQZ9ofRY3PbcyXxfUJOvzaoo_ffutqcKU795jqRrkfQOHtsPZyfgeUsCCs4lFcwK9a5Hhv-GbhhRujEhD1uT98h5Iru_BZO8EtFWlUGhRRSJsLpVwvj7jwYsogR5pJ2a2yZw",
+          "width": 4032
+        },
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114091932727041773754\">TheYiannisbaris</a>"
+          ],
+          "photo_reference": "CmRaAAAAiGTq_m8Yy4kKFWsprfdU_gU35mS62wXRe_85Fl6GzAktv3mWp8EVuT1SB0dfwzXuBNtV_yXgzETJbGwSPJjF5ImIOJdH20N7YQ2sQL7U5BRJgsSuKlqVKPkwj7-XAMv2EhCczAfF1xyTDKbiN4qa5V79GhTKjhYmgzzVYaazRtv1oaU4nqsg2g",
+          "width": 960
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111483368634906593731\">kostas kostas</a>"
+          ],
+          "photo_reference": "CmRaAAAAOJR3PVnD_MsWIXPmHuxXXS-PR3CwsSgnGhjxFBUiS_I_hLtw6nWm6lLI-qgh-64mYEYCHYYPfWskCM9pSuUEk_zOnWE373uDcFLYODUOrquyoZIQv6IcuaIzKit02eS4EhDm184PaR46xpFmdya0YDfrGhTMcu8aROHYDcJ22pOeukaaEc_SzA",
+          "width": 3120
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107116943536871006824\">Spilios Avgerinos</a>"
+          ],
+          "photo_reference": "CmRaAAAAxd9EquNuLD8B61xByPueOULhH0_6cAENiW9WlnvE_RM3vYLRUiPvENLdag1_mc8hDs5MtcEXJNAO01lnb_9z8e4uPrXcTcotIZlXTiYD94PfW3wRgd1nsZRyKHRtfy25EhBnKdxQAZzb-BVilNkSy47aGhQfBjShOx6uQNuo-Dov6Edkauco_A",
+          "width": 4160
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117382533842071442265\">Vitaly Ageenko</a>"
+          ],
+          "photo_reference": "CmRaAAAAEknnREILR7PoKFOwfhI-w7VttOgJzFaTJcRnfAtz_o5h2-mRYOQR5x399LAghFc7TtaT76YesITfWrkr5OIRfXQFLEy8fD30ZZkfJUzyEJ8AVyorv26H9JsSEZ4Maj-EEhAO_DTHSHiA2RNE7ygVw4a6GhSnRPKBq-uZuUEn3VXOxfLFmLruoA",
+          "width": 6000
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://pipm.gr/el/node/925",
+      "popularity": 0.4890822951807349,
+      "num_google_reviews": 1580,
+      "mood_params": [
+        0.00352027816203554,
+        0.04359104835714524,
+        0.1455397039916741,
+        0.17497234447369545,
+        0.13699754882661658,
+        0.18443864919216385,
+        0.13761626955102987,
+        0.023476213473083565,
+        0.20250684576456446,
+        0.027444484041403462,
+        0.05483361836192498,
+        0.018808963660611334
+      ],
+      "top_cats": [
+        "religion",
+        "instagram",
+        "views",
+        "hospitality"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.4298462472588047,
+        -0.48615050071312066,
+        -0.1457753225426354,
+        0.20818041925531403,
+        0.23659452939106085,
+        -0.8782506989289739,
+        -0.24701874802043022,
+        -0.17416118224356825,
+        -0.3548432052680149,
+        -1.0117189260679673,
+        -0.7897898847955163,
+        -0.3981239553533643,
+        -0.9023129511246784,
+        -0.29050742905799315,
+        -0.8344337790979139,
+        0.47953240374319434,
+        0.9092643987225152,
+        0.06368499068698662,
+        -0.778772674963948,
+        -1.0065111584788058,
+        0.060218510085673485,
+        0.13954611905741784,
+        -0.11674510382863966,
+        2.2570953940675285,
+        -0.31516267823722977,
+        0.20084247442228836,
+        -0.11483546702999982,
+        0.8319210231389883,
+        -0.05164096843821853,
+        0.06503230797329454
+      ],
+      "global_mood_params": [
+        -0.5015869467410585,
+        -0.207808978397997,
+        1.488178524600821,
+        0.7546653578082057,
+        1.7263867236750032,
+        0.38608442511306107,
+        0.4601312828123385,
+        -0.24387249522939894,
+        1.0675111631623955,
+        -0.632522228239608,
+        -0.8515833497614744,
+        -0.471513225173307
+      ]
+    },
+    {
+      "name": "Cathedral Church of Hagia Sophia of Thessalonica",
+      "orig_name": "Cathedral Church of Hagia Sophia of Thessalonica",
+      "place_id": "ChIJiWodOQc5qBQRZGkE_j9rvSk",
+      "cat_params": [
+        0.10969918589330707,
+        0.053554999004087035,
+        0.29300916874504246,
+        0.25133250411276686,
+        0.2022171362467015,
+        0.11451242189580534,
+        0.33787785986261104,
+        0.24354025310005165,
+        0.16308487769436317,
+        0.23614895823262902,
+        0.05329074279156926,
+        0.0646027651552247,
+        0.18216845708432808,
+        0.09650511584502296,
+        0.2857391734909879,
+        0.13328221712653987,
+        0.41360712079996104,
+        0.29491990190136763,
+        0.11212590439186042,
+        0.11604713163362701,
+        0.38703903076083834,
+        0.17889027377550318,
+        0.23573588498440465,
+        0.49800806543211296,
+        0.021529033572543738,
+        0.28448654152608294,
+        0.2247006275276242,
+        0.3257079623549107,
+        0.20313505089603176,
+        0.2404519688759799
+      ],
+      "noncat_params": [],
+      "quote": "Historic, iconic orthodox church with elaborate statuary, paintings & mosaics under massive arches.",
+      "phone": "231 027 0253",
+      "int_phone": "+30 231 027 0253",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.632817,
+        "lng": 22.9469808
+      },
+      "address": "Agias Sofias, Thessaloniki 546 22, Greece",
+      "photos": [
+        {
+          "height": 3495,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106673614524276753301\">UGLY Berlin</a>"
+          ],
+          "photo_reference": "CmRaAAAAjGytYPOHEKqRQb8JX_m4hjBE7DYKp9mkVsJmh6myuBdjCACovauYqWar_nDonop8Dth_3qXd5Tik3wvm0teTC71hgn090XqYZ6uPaCyhD8XfEvNFqCKi6K8dX9jsJrCKEhBl9rO9Ie9F7RdFI5MTHRhTGhR8yuMaNmShVBh-7jvYfJ1qqxXSvQ",
+          "width": 5223
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAd6n3JfajGLU00umlFYrQ81AcjNnjD71_3FbtxAx-019juD28EOQ3ZdWBYzGsNPNtLPkX1ELPEcgotIH2Z5YGDduESNBuqq7E02ujJwmB7BKOhbF_zQAwjwo3XmSgk0E0EhA6SdqO90uXMq2Ze30-1auqGhQ9XJ2iypeyWRsfRdYDFHXcas7I0w",
+          "width": 6000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAuYXhJAsBQiq1HTDNQFZLJYf7EG7abRwYwBjlyg0RD31JjkqylJR5EiTp76rVYoDKFWM-4vGc5ED813XdCyVE2n_6k9yvpO1Mrum4dlu-aYJyGYzcnDfX9OG88cZrjdDPEhCJ1OX-98a5smaQNr0ASE7hGhRH631gRPdHUdcV31v-CZ_Iom3mXA",
+          "width": 6000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAUrI0CXk-ZMbL5pctJ9yyMQ_UjUXcanO8evIuK7KVLy9b3w5nZFO1t-RLTUEqH9a2TR0jA7zzEH8E0wXHMiqUXPbT3TKAlBxRRhNLRUwO3e1yih8a7swpN9DBIRoMlH5iEhCHyYQQkgyMbMo2lC7EmA-DGhRgUSk0tnLihcSTVUlylpOc-f_TTw",
+          "width": 6000
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111303317343836594803\">Rock Cyprus</a>"
+          ],
+          "photo_reference": "CmRaAAAAiR7Bu7XQDXxrhQ14d3d3pS0povRJg1NZwkngn3XTVgYOXMkahVaVNi4lXQBFUH-PKSVZ3kxeCt63HHTZQJof07sVwpDkoD4O3Bhx-UhItDBuQCqQy4G5jaagPY_TdU4sEhDx--BRNowE4Vedhis9A5IFGhRrky-oLuDMzkVtaXMwCGTJsYXpaQ",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAbooYeLPD0gsEd9DdYKXlKySvT8q__Bf86GZjxKCUqYrzRKgZmpVukR2uiAdb-rX7O-n51dat16MHXe5k2YtdJd4xkehCY6c1PI-8waYqMUTkr9uCCJBVj71bWmA24wWrEhA_WnMWAwxkjfFDKMvJQ5mhGhQH26uuiw3olkGKyJA22VWUlBKkeQ",
+          "width": 6000
+        },
+        {
+          "height": 4618,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105909573732759604050\">Nataliia Shychkina</a>"
+          ],
+          "photo_reference": "CmRZAAAAjAn5yDSPxD4rjw0gf4R3nl-Ez4GkwLBL7NnJfoEd6nrcyH-G3u8ZZ_x_pbZbfDrcar2ngn2HCa_OVNXq8JNvYz4F4AKs9-Mb6OClOPOYstG4kRzAZS3iwOBHAbjsJdtiEhAb7a65vFtwilJ1ZhBz7FVkGhQnDu548sn4xnMjE87Dd_XaELxnMg",
+          "width": 3464
+        },
+        {
+          "height": 6000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAJWK-tTZkJHXSn1aOUDPwG7NQqARFYcRGQqtvGsp-BRq249eO95yofh4-I9tTcD0S5KI1CbzGs4xg2TUeyDw7WnhGFwPI5KnIa3o2Dfe2SRHzYYmJkGqjNqlO9ITvR-KwEhBiOwCC_3wGkCRH4qfty7AaGhRGiSrQ3whFZY58F1VuiwAISzZUjg",
+          "width": 4000
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102348250769960796399\">Stanimir Enev</a>"
+          ],
+          "photo_reference": "CmRaAAAAtkDZUbr2Ki43PV5Pp9QeSyrm04UkW8Oy20uatjP8v_iJVbhotMAl3i9pNmgJxDV2eA28YAvN_r6rBch7OBa2hD9-B8yhg-hnyszE74XamN85Qf83lfy8oJLTSJxjr2H4EhAAcQCOh1gS3ZkMAF1TB4lkGhQ_553NSxiWPEPwljnY_uZ7aXQvCA",
+          "width": 3968
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117301296991095298861\">Minna Kein\u00e4nen-Toivola</a>"
+          ],
+          "photo_reference": "CmRaAAAAT2mpn0fN0yZyKd_L-LV4W7WvbhBDRtWA-YaMHNIF-S6k03JDQHYLdn1IPWnJv9spCmPgsYHlszMoCCwqAR_c_23YI6zlEww905-ZjjJ-uGaEsb5afdyBcJ_jNQHfmMUKEhD1CgNNNF9wVTRDCek1Rmo0GhSCovsmHdjn_VvcOUkNCVBoiwhSVA",
+          "width": 4000
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.agiasofia.info/",
+      "popularity": 0.5390757631603812,
+      "num_google_reviews": 2332,
+      "mood_params": [
+        0.002337515992287793,
+        0.02676717684914409,
+        0.08080259488584415,
+        0.1329422227160878,
+        0.08409138187562368,
+        0.12988189100759923,
+        0.1290595540576046,
+        0.014285501354607546,
+        0.12255234920883033,
+        0.03621503296736764,
+        0.062079226288398154,
+        0.027601550923570882
+      ],
+      "top_cats": [
+        "religion",
+        "architecture",
+        "culture",
+        "art"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.6250924380545972,
+        -0.7018550627026507,
+        0.6715996161718597,
+        0.14335065502428204,
+        -0.6331377399909895,
+        -0.408443930837234,
+        -0.6428855479525972,
+        0.35983730210121956,
+        -0.6442569340603178,
+        -0.9059735192072634,
+        -0.6799240663430424,
+        -0.72458748055431,
+        -0.771060287674911,
+        -0.8026009766916782,
+        -0.04781081124042757,
+        -0.43447043488097953,
+        -0.301350471170928,
+        0.010446446994555054,
+        -0.6850614114812185,
+        -0.3906542484277942,
+        -0.7341734851517335,
+        -0.7462056493929888,
+        -0.24022861502133058,
+        3.0764592783534472,
+        -0.17354437151951754,
+        -0.51965828575399,
+        -0.6135873978444886,
+        -0.6153739356564915,
+        -0.5799224156403945,
+        -0.6138933741572948
+      ],
+      "global_mood_params": [
+        -0.5811653954826501,
+        -0.7118356154745585,
+        0.3226109978743572,
+        0.10670982565723211,
+        0.5652421058601315,
+        -0.2999677364491663,
+        0.2981988398301502,
+        -0.6103588539510438,
+        0.009818332578310145,
+        -0.2916708375318025,
+        -0.6839185126603949,
+        0.06600289671962571
+      ]
+    },
+    {
+      "name": "Jewish Museum of Thessaloniki",
+      "orig_name": "Jewish Museum of Thessaloniki",
+      "place_id": "ChIJvZRxKwg5qBQRD-hbrVWConU",
+      "cat_params": [
+        0.12546143423507716,
+        0.04241970836053421,
+        0.28102560412772276,
+        0.20105862635269872,
+        0.13992181478984456,
+        0.18801324765710742,
+        0.3464630062245976,
+        0.29490159213855643,
+        0.19890237316965792,
+        0.21054278562515044,
+        0.018771783076467752,
+        0.0255987602661204,
+        0.13735709282052103,
+        0.052403762544859414,
+        0.27326993940260386,
+        0.056235573336088425,
+        0.14244866811722431,
+        0.3115856926581378,
+        0.08056366768073162,
+        0.09181919371718454,
+        0.2931535652579509,
+        0.14125919753436791,
+        0.1589692416094386,
+        0.19882668018297792,
+        0.04422621068214868,
+        0.19956305954786055,
+        0.20221464352103194,
+        0.16350231825647177,
+        0.06700645952830463,
+        0.20546866978256914
+      ],
+      "noncat_params": [],
+      "quote": "Museum on the history of Jewish people in Thessaloniki & the Holocaust's impact on the community.",
+      "phone": "231 025 0406",
+      "int_phone": "+30 231 025 0406",
+      "hours": "",
+      "coordinates": {
+        "lat": 40.6353498,
+        "lng": 22.9393519
+      },
+      "address": "Agiou Mina 11, Thessaloniki 546 24, Greece",
+      "photos": [
+        {
+          "height": 502,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108475137953868171517\">\u0395\u03b2\u03c1\u03b1\u03ca\u03ba\u03cc \u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2</a>"
+          ],
+          "photo_reference": "CmRaAAAAUS89HEHcmDRtUGU_ghDjglXpeJsi0lsAtnyPi3Dc9j046_HE4EnSLvr8whp0cEfKkUXZAlkDX2NVhdS4HwDtzg8v2HKOlZBqwuvxTAV1S1vLRjOt9cSxSSlncGYFXI-PEhA_JiOXEAEgD4A1L1Jna6K6GhTwScoe_gTtRUKE8QAq_XZbjxjDQw",
+          "width": 744
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114086175156378903352\">Michael Gatlan</a>"
+          ],
+          "photo_reference": "CmRaAAAAbEIyMf_ot91Rpr46Rh79mJ63DNcUSr8mvc75R0F06QOUuktHe7I9gN8fLME3osJ552lCctw1fpQsKGScH3jNOE0t865ISOOl48uQ_tDK8QywXr3S9hV8raMGpMjVyBvREhDPKeeqMHZxsGRidCW46NFlGhRWEcLtC7JQZTCFxup0fdgwBC672Q",
+          "width": 5504
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100519768751274769074\">tasos kyriakidis</a>"
+          ],
+          "photo_reference": "CmRaAAAABZ7yjkdiw6WhZ48B-V2leD8sxzf67vsSgKXdnj6FWAiKLA2E6T3rjjhWM0SnyEzXGis5Iu_ZeyYh7MWxdG07XdXbtlj8Ii7XmzbnAikJYdf93emvIymtXLsenSqkQHsSEhCXjXWMtvJo0-frGMrQ0CTSGhTBasK3yAzOiVo7UBYxvzQs244jkQ",
+          "width": 4128
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114086175156378903352\">Michael Gatlan</a>"
+          ],
+          "photo_reference": "CmRaAAAA0FXM5U-VPhGCXQsfLEWPaQRjrf5W7BfTk45DgwLw2CZVShc-0rtujtilMK0DjAyGt2u7u0EezRgEytf98RrDkIBscZWfRAZug-rtCM2CheMQrve3xeNcWKkCMI7ruxRFEhBvFbbXWNoS-DuLmLTHdKUNGhRTGU9LjMbbFi5M2chA4uhPwkka2g",
+          "width": 5504
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112502595323646597821\">Liat Cohen Raviv</a>"
+          ],
+          "photo_reference": "CmRaAAAAIIzhmdyLW5VSECnnwYCDSzwnGLKyzdfwoaqsFzLg3RTqItZXuJnZkz0B86Ayfe-_Wjbjdk1aP6IqCJpeA78pUDp2AmSyhYy91xlYVgeWDu6NL38-xV6FP8vfTBGW2n3PEhBqg5Bgq-4pwJmQswOZPjiEGhSEtiOoU6sFQMIJgKBHVuT4_V-vqQ",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117753254617593358621\">Adi Gamliel</a>"
+          ],
+          "photo_reference": "CmRaAAAAJDIJ8qlTqaMlspzQ7CtiNBnU5OdSEcLmPjzKpv1TWedU4dN9WpgL7l2rxBfGgXsJsOphGi5Re93e0Hrc2aa5F6zkAiUBlDbuxIJHYOWkea7VETK5jwvz296NryACMNLiEhD_siuauJTNrz1a73LhKrM8GhQ5AnUZZUBdqGb9FPKHIO5JrIOuGg",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117753254617593358621\">Adi Gamliel</a>"
+          ],
+          "photo_reference": "CmRaAAAAewWD6zjM_Inkmq8C4fD3GqVIaY3JTcS8IQI9KF71EcG-63OG4z1zUo1ckDj2Bw6mxTHEOOwABaFxMnHbxDC2HYlnzcwhAZaNWdz4SUJ77IZZ0S5VQFPqOJu17CwT3p7ZEhAPXfBp5nOs-Qb82CsDAy9KGhR4E9G94WxQX2dtNy808LZSQd1wvQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109651002864844886620\">Iris Winerlak-rosen</a>"
+          ],
+          "photo_reference": "CmRaAAAApY0NPenlhyMUKdK8nVvhSIdmDOiEc3dysUxc2848eni3hx3wE3RybSEA-1SlgsVP6jgDhLoao9Vnw-iICmWZHNfO9YFo2uMQi0lO5vRylLmr46Rkk4YMDml-To2PwNcgEhDtfTCU0wsvQseSAFx-Ro6SGhSMsJxTaBwDDe8DCbSVymj8xl9k9A",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117350082161706062470\">Natty Briskin</a>"
+          ],
+          "photo_reference": "CmRaAAAAPZeRCN8cdPvEqyaYKGhdDkbpgaLm9JHiw9Q7CuNWzubANcVonjQJDjjUHXEmaPS-ywgPWyKCDs593LwKouB96tZd9aNiN8gPRhglZ8UgR7E4M_6dH3ZS9D97--M6rciqEhDJ7s0FpnfrJQNiPCrsvucHGhTUkScsCo5n9TGsoObn7Lv4Y4takQ",
+          "width": 3000
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117753254617593358621\">Adi Gamliel</a>"
+          ],
+          "photo_reference": "CmRaAAAA2bWk0IrqFEWIiaX1Y1pXQIq0GB02gqxRVAS9s745wM6Ihy9HAoXb47DQzU3w6EH9-tQEwir-LNrodLx1NtewHxRdrmjaCCfSDNNJyIa3lA8GzpM7G2AznmgDT5mCaDhxEhAbC1bsi3ujCjIELrBnjTPlGhQ0w4fG1REFQc0Q_Yro9poiFabf7g",
+          "width": 4032
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.jmth.gr/",
+      "popularity": 0.41410137941164005,
+      "num_google_reviews": 812,
+      "mood_params": [
+        0.0014085280124363797,
+        0.017560168593121848,
+        0.004042638004803586,
+        0.04812634148507883,
+        0.005011202733680076,
+        0.03328932917746788,
+        0.040550078565557826,
+        0.0177975009890804,
+        0.00988688094637659,
+        0.021844781227814733,
+        0.05430915168585464,
+        0.01304128550686741
+      ],
+      "top_cats": [
+        "culture",
+        "books",
+        "architecture",
+        "science"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.4338423084967633,
+        -0.8349965779827077,
+        0.5538804011167926,
+        -0.21591757884642584,
+        -1.0173967855470292,
+        0.5721062654271888,
+        -0.5515238386586585,
+        0.9302465314844807,
+        -0.11419283966666299,
+        -1.1782347072203951,
+        -1.389857698785906,
+        -1.0950158650039663,
+        -1.2553004383990407,
+        -1.126658962516693,
+        -0.1834013967356153,
+        -1.3368320365890531,
+        -1.7726676649313589,
+        0.18476430435577262,
+        -1.0879401393272763,
+        -0.8734171187611359,
+        -1.1920536711448606,
+        -1.1138336288882702,
+        -1.1057592518530803,
+        0.285565734966723,
+        0.4799600021077718,
+        -1.1495721398754952,
+        -0.824279134590309,
+        -1.6691248120660733,
+        -1.4016529672982843,
+        -0.8544432068375459
+      ],
+      "global_mood_params": [
+        -0.6436694425574118,
+        -0.9876685238875862,
+        -1.0594234230202153,
+        -1.2008504944111895,
+        -1.170349974956459,
+        -1.514620843406378,
+        -1.3768078382009212,
+        -0.47031530332320315,
+        -1.4805976311133515,
+        -0.8501444669015176,
+        -0.8637196150273595,
+        -0.8241079621726534
+      ]
+    },
+    {
+      "name": "Macedonian Struggle Museum",
+      "orig_name": "Macedonian Struggle Museum",
+      "place_id": "ChIJh6sqWCc5qBQRXXWWg7eHrGo",
+      "cat_params": [
+        0.08614691564309516,
+        0.035805716750373764,
+        0.3179139374288751,
+        0.28724683553575625,
+        0.10505666576301735,
+        0.23978359261474108,
+        0.3274987184552553,
+        0.32607144461567733,
+        0.15669315133189218,
+        0.2421076296300471,
+        0.03483730359311724,
+        0.04298803800578808,
+        0.16969871591878857,
+        0.06263209875506878,
+        0.3751476850962768,
+        0.13448521327823765,
+        0.2770651647881047,
+        0.37935281917683156,
+        0.10462730671728901,
+        0.12790671750186375,
+        0.2924270247563469,
+        0.12235957725877193,
+        0.2566262453958236,
+        0.10847725036412016,
+        0.07101311407670093,
+        0.20706741946442006,
+        0.16910430881960153,
+        0.2458917136013746,
+        0.10973186627883794,
+        0.15705858882773413
+      ],
+      "noncat_params": [],
+      "quote": "Museum tracing the history of the Macedonian Struggle with 19th- & 20th-century objects & documents.",
+      "phone": "231 022 9778",
+      "int_phone": "+30 231 022 9778",
+      "hours": "",
+      "coordinates": {
+        "lat": 40.6307504,
+        "lng": 22.9437346
+      },
+      "address": "Proxenou Koromila 23, Thessaloniki 546 22, Greece",
+      "photos": [
+        {
+          "height": 699,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117901719743400745460\">\u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03b9\u03ba\u03bf\u03cd \u0391\u03b3\u03ce\u03bd\u03b1</a>"
+          ],
+          "photo_reference": "CmRaAAAAwu9Nrg8B9vw5nwZyrxPXJAAxkKXRTq91ya3hRLFGJmDPEGTEFFBpHlHVKrDOlgsHnmxKCksw7qXbBAAWIcPSMoggeZr2RlzWbNxXJREGe1cWyP_tJGA30KW7WA76eTpNEhD07ALk8tSsfkBB-8Zt26kIGhQE6XbFtT7XbtWC_VcwNbQC-vzxwg",
+          "width": 1242
+        },
+        {
+          "height": 522,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109216782279137760353\">Christos Kazantzoglou</a>"
+          ],
+          "photo_reference": "CmRaAAAAqsIVmPoIjpRNA3gJ0YtaFWedGDR_MW3ZsjBRFDzAGKXZuX4SzP3YmO8o-SkJ6GCUIx2FhQ-qXF5cg4_ZpnPZ9pFFn4vmby1QT5w_gvNeOokugnYXWi_Zz2Lzey442ec9EhA1UP0uX2g1hCFUNJcnAeSsGhTh8HMSWb4OC8N7tQ_wpGeyMSJWXQ",
+          "width": 800
+        },
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107564531275651323203\">Tolis Nubis</a>"
+          ],
+          "photo_reference": "CmRaAAAA1CfPBU_hYNxE9Vee4xihC6PKe4pNHmZMtl2AYGubeQkTQvR3eMyDHFZ2iiSV0RcmbEto0zMaSnhtewvoCFJiNZUtoHbugt1DL7Mo3G3m6pv8ygBCxl-2PM5QjHUvDLOkEhCFjOGnj057ZsPHDxxVXluSGhTwzGCC-vI8z9IKdO1UNjyxL62THg",
+          "width": 800
+        },
+        {
+          "height": 4248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112834426997459310087\">Giwrgos Tsegkos</a>"
+          ],
+          "photo_reference": "CmRaAAAAJmGq0oKIeSLSON3pzmRSzZ0Le-8N_cBe4TW-0sqJoJmwBNSNR0-UX6_d4KAxvoRWOv2WPMAwRIM4HuD1iQ8YCKH7Tay4WKFbVez5AkFEIRWudh8v7cIOZsPd_VCiETTcEhDAIAESUaY5l8dSt94o5lz_GhTrwRAMDGXqzLknq1UW91osx97bKg",
+          "width": 5664
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114639716761714441361\">Angelo P</a>"
+          ],
+          "photo_reference": "CmRZAAAA6XX8QL5qcYVDdTTC9CbCGyU-v-yavpRLWwYRzPd3RdYr9q6HoUGp2Yb8MCK7m9ZFZ_IyJSEi1FoJCm6JLRhrj3snWkS912a15Ypa8BIzsnenf3Imzkqw2gF0D_jsNRDXEhDBVV1vJgCDRScY8XAf2famGhSCplHlWbp68WySkRuhr0yzbp5iRQ",
+          "width": 4000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114235603800934837338\">Vasilis Politis</a>"
+          ],
+          "photo_reference": "CmRaAAAAYdm4yQA_RBt7ToCEBInHAY33qAY6nVPeWNV39k4BQT-FL_Gxi8xMr3Ga8jRgo_hNU0kTjZwqw5nJMVKvg2wRf83L5bjmG-YZiuuOi5k4nfBwrlq8LWupp-RR0HP23qdYEhDNlO2C32oGRkHcvrPW3D-QGhT3mkfm_vZ-ANuNztPI-vl1vbI1Mw",
+          "width": 4000
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101501593437726908942\">Sebastian Meneghini</a>"
+          ],
+          "photo_reference": "CmRaAAAAFfeTVgR8ahXC5ROlfnTqZbhdwqbWNN69fDNQ88pDiglaVE019ZsBX1FZMoD-I5BxlR2dzyYsciFQxXp1BajuCZNT4J6BQTlxXEvobLoqnXTr0TLDrvMQJ5KeWkKcdcFWEhDNT9M1Q36pQVh6UyNZufyqGhSV-n2tYyNn12S4J3TsfIjK3aHnLA",
+          "width": 5312
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100750925450175166472\">\u039a\u03a9\u03a3\u03a4\u0391\u03a3</a>"
+          ],
+          "photo_reference": "CmRaAAAAJddRXTPdajiKjpiIDzkZ8BV8X2lfW-ytfSEj_o2stc4Rybd5MRnIGMhyqdoDDgtjifvCkIf7hcB6I5KUM7I6ANKyI66f9mdlrmQ2jwECNFonDNVhukXZOrULVLEWoPiUEhATXTmA-jkNRJetAalIFlWKGhRtG2gRuXbUBTJ6j5dWO6f_ZYkRXA",
+          "width": 5312
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101048708898432968874\">Alex Vergidis</a>"
+          ],
+          "photo_reference": "CmRaAAAAd6pRX0w7yn6kJ_A_EYE6sorX_4m_qzhIys296b4VwUlNC1ljEwgwyYoKYZkusOQg9fWGgLGvaCJVbQNY_RWNAaivwNFGBEQkaFRlSokAZw9fZVGfpobrNLoUcLDGr25WEhAsaBL2pggRN5S_3JH7g1hKGhROsr8qN7Uz8_M99HYslmQ95--08g",
+          "width": 3456
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113391334031660198167\">\u0398\u03c9\u03bc\u03ac\u03c2 \u0396\u03bf\u03c1\u03bc\u03c0\u03ac\u03c2</a>"
+          ],
+          "photo_reference": "CmRaAAAA4bkSfZT07VSMMdx6wNE4H_ASrKoQTvH752QH90jxZ5hU9jjON8gCuIU1Dmh9QY0eOodJLD3wfCD186gwerzEK8I7lCBsl-oihIncC5mJz4__I2ijhpJabU608HmRWizlEhDX2TDupKN-4N9WzbD-wVeXGhSbX58dPuBDq-xbZaPAygbWBp_ncA",
+          "width": 4000
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.imma.edu.gr/",
+      "popularity": 0.3275853337841631,
+      "num_google_reviews": 318,
+      "mood_params": [
+        0.0044202419532511595,
+        0.04007389669846537,
+        0.022973517568441904,
+        0.11337691587908406,
+        0.02852339731957536,
+        0.08638704050935667,
+        0.09512578316031531,
+        0.03128282798270109,
+        0.05254799020202223,
+        0.03799361953790439,
+        0.11419778523637887,
+        0.018914394908969803
+      ],
+      "top_cats": [
+        "culture",
+        "books",
+        "science",
+        "history"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.9108622495095733,
+        -0.9140782017332468,
+        0.9162488431933039,
+        0.400002399346922,
+        -1.232457059334942,
+        1.2627573075493757,
+        -0.7533386561463284,
+        1.2764129645312399,
+        -0.7388482671777362,
+        -0.8426171176665234,
+        -1.0594464282376623,
+        -0.9298666174288568,
+        -0.9058106895136863,
+        -1.0515008600416558,
+        0.924418304909361,
+        -0.42038107964252086,
+        -1.0422328798228884,
+        0.8935827736784137,
+        -0.7807778690761115,
+        -0.1543416189972416,
+        -1.1955970151355846,
+        -1.2984690395425735,
+        -0.00469341176615453,
+        -0.5572528786316678,
+        1.2512170813356418,
+        -1.093909086881894,
+        -1.1345201238409721,
+        -1.1338912939348604,
+        -1.1437440908001548,
+        -1.1873173832446637
+      ],
+      "global_mood_params": [
+        -0.4410357013086696,
+        -0.313179381504653,
+        -0.7185799906130774,
+        -0.19491787069777924,
+        -0.6543220755677674,
+        -0.8469162208183785,
+        -0.3439842998591526,
+        0.0674219603788673,
+        -0.9162472649897003,
+        -0.2225493137618371,
+        0.5221155130048138,
+        -0.4650679100403299
+      ]
+    },
+    {
+      "name": "Trigonion (Chain) Tower",
+      "orig_name": "Trigonion (Chain) Tower",
+      "place_id": "ChIJ6TGR-lE4qBQRNpiJA_LmLiM",
+      "cat_params": [
+        0.2085296802232467,
+        0.07163790713526358,
+        0.24923575973632348,
+        0.3178213546784848,
+        0.5095670782312037,
+        0.07955174716800696,
+        0.5151926448422012,
+        0.165730752472059,
+        0.2656037097815469,
+        0.28256863389353487,
+        0.060698341695353306,
+        0.15132487501629993,
+        0.22551292932445133,
+        0.22467082829686447,
+        0.243995687423879,
+        0.24138790819010164,
+        0.8372170027488178,
+        0.37251517171934334,
+        0.1869805829585251,
+        0.12043266336370645,
+        0.6620207494232973,
+        0.4171527347309663,
+        0.27332734139825915,
+        0.2517652761977298,
+        0.010192028434648837,
+        0.5144386718563655,
+        0.38954178764657377,
+        0.7861556886782511,
+        0.3455924452962603,
+        0.4844606983324687
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "231 331 0400",
+      "int_phone": "+30 231 331 0400",
+      "hours": "",
+      "coordinates": {
+        "lat": 40.6406435,
+        "lng": 22.9601197
+      },
+      "address": "Agios Pavlos 546 34, Greece",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111143148165886320283\">Ana Assuncao</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ8sz7W1Nurhlx3w8ftnQHyTZOMg-K7eoyV_isOrnjG6yD7pgi0C9mAYw01Xcy2O492-HQE9A-FJRZJu932-jY_LQYfhyPSp3zPqaPUF86RgNc2dbn_y9vdPMHjpQ3iKBEhDNLw0eLwRynZyxlNIOksm7GhRsOoBmHCMnjOCGarBmSoYu1q67yg",
+          "width": 3024
+        },
+        {
+          "height": 5472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106282874793198840903\">george antoniou</a>"
+          ],
+          "photo_reference": "CmRaAAAAxnaCA-IuMPA2NZ1LYtJpwX_2EzykbfqWjBPeuOtT8q8VDTSz77L6gTTLTjjRNQ7azY_w6u561MNLSBUa_Swg2o-OFSZBmrs_Re-hjQWaqvFItE7aFKCbxSeLv0uFpfKVEhAWc7kdJW8BWJWJyVp0hJ9mGhTaq3vvFO_CjXR03CSN_wxR2Nxa2A",
+          "width": 7296
+        },
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101136006521034838462\">F1Fun</a>"
+          ],
+          "photo_reference": "CmRaAAAASUFeNQj-mPSjsKxD6gMJyZYuviB6qY9EjbHBCP4tCMvx3hWY4kLOay5VMO2TmaxZQMPPQACFY_b8e4guwzTKCB0qRulXyqzGlzOeAAnx8POT_icJl33MBzpPohwjWfGLEhAQI2qgyMewvKBbsO-XUcVTGhQL4HzJ56DBOYobeGa84dq_5IA7Vg",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107982218690142382296\">VOR DER BRUGGE FRANTZ</a>"
+          ],
+          "photo_reference": "CmRaAAAAlSxlv5JRsz4rnlItMkpNVl5Nv3E2SBL9eMidGGOzkGZjGlgyNYjRKEBVivCya8a7EzOxRlA9S14L6laqRLya8hCYx-yD_nujS10WHTcrkEx0r3Wn7txN2Zv8NWnGsM1tEhB3t5uo7X1j1r1YoOnXbqj2GhQ6WPp7iaNSgQCAPWFSaLekakb9yA",
+          "width": 4032
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100889646584986249830\">Cosmin Meleaca</a>"
+          ],
+          "photo_reference": "CmRaAAAABA_gUKAodJmDuh19ATFTEfLnG-hK9u3BOoLSpNF5lfiTyhQuHpolfy3-L4mbmMl5FJqOoiCIAC1C1nR9ZojRsq5xXIOdjQXV_AhtfkKjBa-hI5_pD_9RdcwpCupVPUviEhD3jf3ul6WWJawu9SPjK7ylGhQ7mhilTG6CaStchFNOUPTyDL2PDA",
+          "width": 4898
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109977329134132286282\">Mihai Puiu</a>"
+          ],
+          "photo_reference": "CmRaAAAAhwjQj0lVjTyR7VTVxOAOrWmuQz2AdWoXNijvoit46D7-lFHuZ2W2662niD2GYEcmK8-HOPLdikwckCqXP0uFbjAQCtjn6071Z1FgYNu8DzQnLrTdxkHpLwAFytkFjtDtEhC2LM0xRFA46_B440CdgAwGGhTEIWbLmPkyMKTkQ7B7IegAWnFBcw",
+          "width": 4618
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100416957285965699677\">\u0410\u043b\u044c\u0431\u0435\u0440\u0442 \u0428\u0430\u043c\u0447\u0438\u043d\u0441\u043a\u0438\u0439</a>"
+          ],
+          "photo_reference": "CmRaAAAAKwER-g3HvdSfGC1OGdwvuuuIx2xEfXEXa4HmFuna-wvw8TnLbd5II0vqs6o0eBEuPim0KkZjRtKpc4NwXU4LBAnJwRHCafhRpz2xtLxUWrv_m3v15WyKQXBZTCyaPhm-EhB6jZOkcVeJQiA7QHakZYTaGhT8zcI4KYRNlGL_UYyJHGe8slMaCw",
+          "width": 4608
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117382533842071442265\">Vitaly Ageenko</a>"
+          ],
+          "photo_reference": "CmRaAAAA1khgg5tdyhWqgzzTQ2QIh5KDrq0A6La5TWFW2Uevw9NhsCPsEFzs7LxoyEhp6iuO3V0jHuQVWNpghwJAwp-D1Y96GisueCPVzWpshRMkWUzMiaKrZNhzSO4mhKzfaxs3EhBewA2ozswcXdu3vea9bq_yGhSmwoBawC8bQvNNOOIIDMJlsCYFjQ",
+          "width": 6000
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106749186026683312538\">Jaromir Sobotka</a>"
+          ],
+          "photo_reference": "CmRaAAAAM9l0jBGHT-X4TvK1P837MpIMDfeNOSeZWBqUp5qYI7A1m094CePw2xrd7axrQyJAQNO9GaoSxSSpkiItdWTTCI2CpLKrG2PwOYxC3yvB2hrPKOqd6GNac-0Nb2Xg4rVoEhAIxhChhZ37ch8IZ0bJrNS1GhSshpILZ4NDcCVzWvSWjfFGhWRqDQ",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106749186026683312538\">Jaromir Sobotka</a>"
+          ],
+          "photo_reference": "CmRaAAAA1LX3363fCnfovbCDxP7vzwJPsSdrVDLBJM18igbTvA5-_KVTqkbcvYU3E9JaUAyK326TTPwpIYMzm4n7pwNZl579njBE2PUMMS42uhVsRItynsRuoRl-akRlnRV_Sv6iEhBrBcsynjBg56hvDKqLZPPVGhTn0D76sJSC2P1P5kaNm3um9Lyl1A",
+          "width": 4608
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://web.facebook.com/%CE%95%CF%86%CE%BF%CF%81%CE%B5%CE%AF%CE%B1-%CE%91%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CF%84%CE%AE%CF%84%CF%89%CE%BD-%CE%A0%CF%8C%CE%BB%CE%B7%CF%82-%CE%98%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7%CF%82-171313346857754/",
+      "popularity": 0.5652511295026492,
+      "num_google_reviews": 2819,
+      "mood_params": [
+        0.0038199617320241286,
+        0.04681046166501762,
+        0.11722945323984518,
+        0.17722077220133609,
+        0.1564489674014342,
+        0.22841389627398367,
+        0.16548756423874506,
+        0.02182730804296549,
+        0.25515865131269944,
+        0.032383502672897524,
+        0.048391351988405155,
+        0.016855896111104107
+      ],
+      "top_cats": [
+        "views",
+        "instagram",
+        "nightlife",
+        "beach"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.5740604007429623,
+        -0.4856428535809371,
+        0.24159639815246717,
+        0.6184946657735839,
+        1.2627027917969602,
+        -0.8748427244672234,
+        1.2440691008990794,
+        -0.5043001624348242,
+        0.8729220637305939,
+        -0.4124098681159119,
+        -0.5275758020602547,
+        0.09902873894005222,
+        -0.3026716519919866,
+        0.13916428720596608,
+        -0.5017299273890464,
+        0.8316512252290669,
+        1.9971746037136706,
+        0.8220635717649655,
+        0.27042719822273187,
+        -0.3032686899352466,
+        0.6069146141771675,
+        1.5814436197735897,
+        0.18360855928876527,
+        0.7793998874174105,
+        -0.49996304489340315,
+        1.1859951955404306,
+        0.9309600990529241,
+        2.3758733655752966,
+        0.28001150501573235,
+        1.0639432097095116
+      ],
+      "global_mood_params": [
+        -0.4814236762011152,
+        -0.11135852333153191,
+        0.9784630089470083,
+        0.7893281454434257,
+        2.153291776311591,
+        0.9390739046868515,
+        0.9875844675449698,
+        -0.3096238036340544,
+        1.7640253011352374,
+        -0.4405762755418476,
+        -1.0006587003792555,
+        -0.5909098559498435
+      ]
+    },
+    {
+      "name": "Latomos Monastery - Church of Hosios David",
+      "orig_name": "Latomos Monastery - Church of Hosios David",
+      "place_id": "ChIJMSSAKqk5qBQRqz0IL2wmxec",
+      "cat_params": [
+        0.08122417780017156,
+        0.05287163790508464,
+        0.19636271301184444,
+        0.2438918392393809,
+        0.19009351162596086,
+        0.11225653262659067,
+        0.2668146767621664,
+        0.20887800624189173,
+        0.1404776103846742,
+        0.20454618672735503,
+        0.035703589359220834,
+        0.030753559761518702,
+        0.11942030741315234,
+        0.11232145664674965,
+        0.23038914039423167,
+        0.11527294738361496,
+        0.3527018149972842,
+        0.2657877626613841,
+        0.08948650138730505,
+        0.07664284857555449,
+        0.38558064649019697,
+        0.15075277672577425,
+        0.2087001784714582,
+        0.4066911181258354,
+        0.02321351099659781,
+        0.28787683586002855,
+        0.17587055969349896,
+        0.2877307027180752,
+        0.16866099515766056,
+        0.2127614964224961
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "231 026 1376",
+      "int_phone": "+30 231 026 1376",
+      "hours": "",
+      "coordinates": {
+        "lat": 40.6416899,
+        "lng": 22.9522064
+      },
+      "address": "Epimenidou 17, Thessaloniki 546 33, Greece",
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112418687005964581739\">Glenn Albrecht</a>"
+          ],
+          "photo_reference": "CmRaAAAATrS8Mk6lDd2Hb45TruMd6BHPV4hj3ZgRkj7LXIlVkKzoZnyKGr3jHXVifB4BFhHSG6sPLMaWckZZ-FD-CJzSMUkxas2bfe2f1cr6lrLmn2X7z6dq8w-UW3EzNOfsW6nMEhCr5lGy2GMekuYHwxHcQQbdGhSlASp4i01EgZpimNIPqbL9QjdJNQ",
+          "width": 3264
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111186366993116607992\">Kei growsclover</a>"
+          ],
+          "photo_reference": "CmRaAAAArnIkoRPtsCN9cfaSqt_94vrwpd0r5lT1jlyjcyUSShz0zmoyqQ5rOE5LBU2riTQRV4c7NNjr5JScoguG6GaVVYSlGUehJKEBG-jMaepU7XPaussWruNhmx1QHAuuQf3LEhDHrkNmRkzE59QgfD3-2jy3GhTfFRt3ZqvIvX-pHUhwJXMDszZiSw",
+          "width": 6000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105407356171002056060\">\u03a3\u03c4\u03b1\u03cd\u03c1\u03bf\u03c2 \u03a0\u03b1\u03c0\u03b1\u03b3\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5</a>"
+          ],
+          "photo_reference": "CmRaAAAAujW4VW5bvuRDBmBkkOYAKdmol-MwUEMuWq-vcDMC5l2xNo4nVsJ6M4BQS53BtMGms_IbfCOuPN3v5NsmDaEKU8OB8ZltQPa--FaQnaMlPDiw4FSS-hHNT5Xfkmy6tDE8EhBtchhNr820uxyHoiowRZKzGhQaGZrG36SiAZqC-3tnr30WkX5niw",
+          "width": 4000
+        },
+        {
+          "height": 886,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111683365675203687716\">EL ETOS</a>"
+          ],
+          "photo_reference": "CmRaAAAA6dVfqz5ydJN1uQJZ4QiNnCKOqNfwDdDA5kHO7XdOr-dzJNaloRLyjGZmm0FhZxHcrr_VfNopghkJx8AQ3NDBdNq7rMhL1n4Kn5I7SjD2BCC5ucn47NACZqAKDQtKzNHgEhAlgMwy4qt_0MCSSeERpGm7GhRQX_xz6dvcdDMXoQaD2F9fsho8jA",
+          "width": 1181
+        },
+        {
+          "height": 3405,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115026293068281310352\">Maria Papageorgiou</a>"
+          ],
+          "photo_reference": "CmRaAAAAMrLcajMLWftia5DgG0BFhlPWw6aJF9uD2kux0OuwZqYHkjopTAbsdGe2Ki4zaSVy6JAuzL9RYeoxb3r8nId-lHtgYaSs-3Tfisy7zj7kTJjrqeIJkgADZYRTTXPJ6Kr4EhCZ__CsplJZpF7yAuIIQDrxGhQPs-oqSeIqNeW3W1TyeQUg3wcACg",
+          "width": 2515
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111998593598560445362\">Dimitri Trapezanlis</a>"
+          ],
+          "photo_reference": "CmRaAAAAy-qZTUtdeD1aXLy-l9XanJNTQEBSFdz1QXtOaCLv44YB7nf5ANO7j8YJiCRgY-znzGP0O7FUK1bzE9VOekysc8O8sXJZXO6z_prO3w8--q7BlPgee_tuo39lynxhVIumEhAKCvdfjAZAVOBBpg1tSIcjGhTViq5V5pyJ5wUGasrQDUNTNmpXTg",
+          "width": 4032
+        },
+        {
+          "height": 886,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111683365675203687716\">EL ETOS</a>"
+          ],
+          "photo_reference": "CmRaAAAAKl7XVi4x1ZmNz6SzydBNaqzO4jI1pA0Pjn24ckuyqtWGjXv2kTH9E35NumcOkaY8Ooy4cOAR9M2fKka5uo31WDk201CyXTg-NU7vrUSpUMZntZ1SBUtwM-wrdK8TWxaTEhCLS7qsSBChuvoT-elvQ93bGhRwItTIvRUT2SpY8hTLOWv8iTukIQ",
+          "width": 1181
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114642460864593273599\">konstantinos karatzas</a>"
+          ],
+          "photo_reference": "CmRaAAAAvuLj5xDAe3oVaVoomRNKdszMMLbR8900NENg-TE-kISsHqM8Y3mdNbHHx38EUhVg2YWF9b5rWLz6BTMDv2Uy0mDA0RdVNlO_z9vKcQGT9Ue4EkOz_013bvcCxDSiwjipEhADel20hayvYPRAdDcW6y7dGhROdUHu2fh28uVGtuks_WBTK9G8gg",
+          "width": 3000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111186366993116607992\">Kei growsclover</a>"
+          ],
+          "photo_reference": "CmRaAAAAHprr9E-Xg-yzjsB5-6bVaHBDUmkAUlPifQ2g-lMPOXmfgwgpsHti2guwiGw2W6V2lJ1iNs19ayS_UCmn9r8vCSs6oqv-i98_P-wfiEYc3vCKNXq26smTIS174cmoAqEPEhBu5JVoJX5MmBmBkd1UVzCvGhQqhat2KeHSNpyLXVMQeObRpCkeqA",
+          "width": 6000
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103067409864381728126\">Sokratis Toumpektsis</a>"
+          ],
+          "photo_reference": "CmRaAAAAKFiszlwMwlqukkqFPzr457fyOI21I6xlyEtJ0Li8TSx7xFWutKNj03u2Swfj9ZvuodC1uGGhQX-pbfL23YKAAg1sWCv73e2KPyrZeRo2LKYKK9e-MJrXg3CC-MuSxfKGEhAZ2eoA4fXwN4A153A0F9CxGhRitSkxalXPDf7NaiFHvKIHZ9rKOg",
+          "width": 2048
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://agiatheodora.wordpress.com/",
+      "popularity": 0.35201334979084037,
+      "num_google_reviews": 424,
+      "mood_params": [
+        0.006061309089534152,
+        0.02189017284949054,
+        0.06980348151510855,
+        0.11795328338612919,
+        0.07669755167538363,
+        0.10411462097967493,
+        0.0813750474132634,
+        0.01432667854220083,
+        0.10270240656730657,
+        0.031817610776148426,
+        0.053755911543175314,
+        0.013152804192604096
+      ],
+      "top_cats": [
+        "religion",
+        "art",
+        "culture",
+        "science"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.9705919422427778,
+        -0.7100258177477652,
+        -0.2777960995505816,
+        0.09017802050734668,
+        -0.7079204414282373,
+        -0.43853900314108635,
+        -1.3991282026698375,
+        -0.025114996440546523,
+        -0.9788225008094245,
+        -1.241994378178607,
+        -1.041629975895548,
+        -1.046059762812119,
+        -1.449128763241759,
+        -0.686382059135002,
+        -0.649687666031259,
+        -0.6453929707803625,
+        -0.6318252276542262,
+        -0.2942646925353611,
+        -0.9740439055024187,
+        -1.1758190799602586,
+        -0.7412860372119903,
+        -1.0210883320503326,
+        -0.5450515334997195,
+        2.2246152425801267,
+        -0.12504435944401027,
+        -0.49451101999480185,
+        -1.0711209349301631,
+        -0.8620889673582444,
+        -0.7880225991150954,
+        -0.8042967577186024
+      ],
+      "global_mood_params": [
+        -0.33062163808743983,
+        -0.8579458567341444,
+        0.12457606018885994,
+        -0.12436650136206898,
+        0.40296790160718726,
+        -0.6239915950591614,
+        -0.6042115136812722,
+        -0.60871688351949,
+        -0.25277030125555877,
+        -0.46256863219197636,
+        -0.8765217041469204,
+        -0.8172905045025655
+      ]
+    },
+    {
+      "name": "Modiano Market",
+      "orig_name": "Modiano Market",
+      "place_id": "ChIJMSSAKqk5qBQR2EgsTwoMHRw",
+      "cat_params": [
+        0.132860887456078,
+        0.13498995585008755,
+        0.1225708359956117,
+        0.12621803306227894,
+        0.1751294060992306,
+        0.09312549070156928,
+        0.32833090290181527,
+        0.17293122502256753,
+        0.12161531104215537,
+        0.24946558680822362,
+        0.147144081788646,
+        0.32144165186197726,
+        0.21679914641665549,
+        0.09211449014238063,
+        0.2322570283620215,
+        0.13696931318065197,
+        0.44775375817577723,
+        0.19241864690347105,
+        0.10179550802306195,
+        0.0932556309977741,
+        0.39128142711720465,
+        0.2430288003715813,
+        0.2886485774726378,
+        0.12561080153958615,
+        0.0017013198794434586,
+        0.7227171188534743,
+        0.20165651070281618,
+        0.32203684816781614,
+        0.18779938621513598,
+        0.22991292321725093
+      ],
+      "noncat_params": [],
+      "quote": "Well-known, long-running locale with fish markets, butcher shops & other food stalls, plus tavernas.",
+      "phone": "231 400 5162",
+      "int_phone": "+30 231 400 5162",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1430"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.6348956,
+        "lng": 22.9418796
+      },
+      "address": "Thessaloniki 546 24, Greece",
+      "photos": [
+        {
+          "height": 3984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117247549644227194713\">ToTo Alava</a>"
+          ],
+          "photo_reference": "CmRaAAAARJZBYgqIPP6nLITVJwkId7HnTx7VLVktDzipuYjTj78UrhY-xP4qlh3aFGJt7AwLhxLnkcQqrtiXPmZWKzYk5zY1M5b9nI2Ul34DbL4oTlOE-kMrM1-F6vbf0LjKvCBCEhC0M8UsS4WnPvS39m7d6y9hGhS6g-oST0L_JuUUlCBm68cr7vJx1Q",
+          "width": 5312
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100059538581429732781\">Igor \u017dili\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAzRJCcpRGyLE48CHCo-YtZlPF-gjXZm9SIQlPie3By2oQA3MKi9VtcXFtWFgq2Ox010SjLlYXYanS4O48eFirATw_8wMW4d9L6bo7hrd5lfogSjF2EZROyit9LyXAlxbDEhAwqxcrAJFAB6ERcQViCQkQGhTkx3iIJ4xgJTOw63Cc7gPi9tx9pQ",
+          "width": 4618
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110348954193352071360\">\u05e2\u05de\u05dc\u05d9 \u05de\u05e8\u05d2\u05dc\u05d9\u05ea</a>"
+          ],
+          "photo_reference": "CmRaAAAAhJa0sHM6jTrov17rlDnEfMovQCp2Tr2rcsMCBduqEuQKjpreJvgMAMETl8QClEvxy3PJE5_wH49jAo0WchlT6aq1zyeLWUzrjiX1nZ8Yh7cq4KFsdAR_z09OR77VD6YsEhBlthScfja5pyY7NNmOCUcLGhRc1ktVnrsVm0kDH2Y4aQCiwUfqIw",
+          "width": 1620
+        },
+        {
+          "height": 2112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106241469435745043489\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041b\u0435\u043e\u043d\u0442\u044c\u0435\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAPNUL7iP7EPl7FgVMmCWT_0J5VOs02CcXDKzzoloPVyiMOBupxrQwIID6v5C5N1zTl_-2B7RbTTN3kaoOoB887q3u2TTu4m26VTQ_VrpqjbjAK4sjJk8OR0lcCWF3TCHyEhAOGuc9XmU1CCAjMfxE4Wn2GhSwnjgUYL1YhfJ52W1MU3HvGXu4Mw",
+          "width": 2816
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102766108208712747128\">zvika shaal</a>"
+          ],
+          "photo_reference": "CmRaAAAA5lCd6B4ZCW2oOl8lRnzjJ4wDet4tfcKemmTFuDsi01nAI5poDSJL_WGHv8F8U-7-ft4_DYRKgaophntfPCaLpiIry4p8a7Z6HpFqMGBjtJMbhcSvp7WMG0pi_2X--4eGEhBOWtTCwkWOuFgBTArMV3jwGhSKNgs1QZ6AamsczZTsZOCOk938AQ",
+          "width": 2880
+        },
+        {
+          "height": 2184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115410744066581338834\">Erika Fegyvernekin\u00e9 Cs\u00e9csi</a>"
+          ],
+          "photo_reference": "CmRaAAAAMBKprfZ4zN39E3Rgi0hCdwgEpwtsp4Z3PKOD4r_zh9wLtjowgWNSId3kRIyehQ82OpMbbth_T2ianjnvBXroxaSoXHk2E83jdu6JBt-HsQomZoLAN0nSOdHW4IHumW90EhDX8T3XXpmvOy_WAEGISM7OGhQpj60Bb1DHvaiDV18Bpoxe7uouDQ",
+          "width": 4608
+        },
+        {
+          "height": 2112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106241469435745043489\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041b\u0435\u043e\u043d\u0442\u044c\u0435\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAA__iz04e2xBhAuuQDKhFSR9e7_VUTbXm3IQteuNECtVg_eQpXoLUsg6ozaxnCRlrPsEdouj98UctU2sLi5uhAYo0v56z_ks1FI7SqFJVE2zcLMMN2McKxX37A_S2738SFEhA7RxlV2Cim_7GEwQniwh0IGhQD6A8uBrz_hk9RMJLkaHClCWN6uA",
+          "width": 2816
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110094387626050606165\">Arkadiusz Pyrda</a>"
+          ],
+          "photo_reference": "CmRaAAAAAFs7fF2Rp-VAIf_kF3kHTiHPPwBhevIcXRXpidNvz6vt7pkOq62m7vL1bgxPK5rUZJyd0-IEeC7Qluz45hQEvWfZY6vsv32fgrhENwyugsJOorqGbJZDUGd3W_Gv-r2jEhAiptJswbusJKmHuMVDPsmxGhTp24gxwekOL8JZE8zPYUSsbwIx1w",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116973810896536572172\">\u05d9\u05d5\u05e1\u05d9 \u05de\u05d5\u05e0\u05d3\u05e8\u05e8</a>"
+          ],
+          "photo_reference": "CmRaAAAAoo61LqiG_wjvvd455t7QMGUbx6RW8-60Y2MuTOeK_akLz-YYrAMBldu_ZHN3isTVb7c34pRml9ahnOsDzDV1c8QCwwbbBGoIjPsOCBTGQeWLBJStcfyJy6xekMjRxVEDEhDPhhdorz2bFnu7MejHj8glGhTwpjTTCKKqdifbddsHMaKD1XZPSg",
+          "width": 3264
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117576166543967767195\">Jose Cortes</a>"
+          ],
+          "photo_reference": "CmRaAAAANwJjgwqxps9IZRJ_43YA1ekCU7DvAQEJoinwBk0NQyi8KMktj21mYDSlU2hHNbdjhTjLwQoELe67afQw5Zp9_6K1fo18BrA4bF00e3Oj7j-0wb45JX0oEZWOX69RcRBaEhDqc9RHOjZ-FivvQtG3F-CGGhRe6hIII7QYWZoAZTOxmyIqhkVMqQ",
+          "width": 2880
+        }
+      ],
+      "rating": 4.2,
+      "website": "",
+      "popularity": 0.6200251678145725,
+      "num_google_reviews": 4081,
+      "mood_params": [
+        0.006494916835182229,
+        0.029424317249532792,
+        0.03454117669186924,
+        0.07606274419610862,
+        0.035859386552552185,
+        0.10808943310092328,
+        0.08170894643040306,
+        0.020903551387562294,
+        0.09816426739024764,
+        0.04306341941791485,
+        0.09675322662087266,
+        0.021065128909078794
+      ],
+      "top_cats": [
+        "shopping",
+        "food",
+        "fashion",
+        "original"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.3440615642470111,
+        0.2718396434629331,
+        -1.002682401514202,
+        -0.7507449876571645,
+        -0.8002242095576543,
+        -0.693759903314961,
+        -0.7444826867452481,
+        -0.4243330884523533,
+        -1.2579661842663148,
+        -0.7643826156427805,
+        1.2503091278495604,
+        1.7146598258987757,
+        -0.39683445238805565,
+        -0.8348634179828968,
+        -0.6293762321936365,
+        -0.3912875817759303,
+        -0.1160693774669312,
+        -1.0616778469463535,
+        -0.8169245929565536,
+        -0.8447948485942384,
+        -0.7134832832945587,
+        -0.11961934638032662,
+        0.35635284812960033,
+        -0.3974236923636954,
+        -0.7444302378498904,
+        2.7308856807425625,
+        -0.829508791107464,
+        -0.6392229195408183,
+        -0.6724950638376526,
+        -0.6863612584196538
+      ],
+      "global_mood_params": [
+        -0.301447698775218,
+        -0.6322303034860991,
+        -0.5103085985052422,
+        -0.7701701649702513,
+        -0.4933173212050244,
+        -0.5740082650680167,
+        -0.5978926073677081,
+        -0.34645927499029777,
+        -0.31280391385447087,
+        -0.02552078632313282,
+        0.11844488822774898,
+        -0.333587361211209
+      ]
+    },
+    {
+      "name": "Kapani Market",
+      "orig_name": "Kapani Market",
+      "place_id": "ChIJMSSAKqk5qBQRTWSgt7WaK8E",
+      "cat_params": [
+        0.14750544497958332,
+        0.06880611833830841,
+        0.18527724535826848,
+        0.12462087415734364,
+        0.16176335919795032,
+        0.1188053504171727,
+        0.3254541213812789,
+        0.16019338823074838,
+        0.1829879697242174,
+        0.19257193738765085,
+        0.07354664827580278,
+        0.14649619031976613,
+        0.13739443073292285,
+        0.06941971550169944,
+        0.17500175177110236,
+        0.06656570354750632,
+        0.21107330672439964,
+        0.222579121893201,
+        0.088471235522989,
+        0.09211149985049256,
+        0.3103604600994616,
+        0.19255630153751185,
+        0.1740768154565038,
+        0.13917584805699254,
+        0.015271469776963776,
+        0.36968520954309353,
+        0.2162807126948225,
+        0.18892606111841478,
+        0.10028838481534195,
+        0.2299177073359823
+      ],
+      "noncat_params": [],
+      "quote": "Bustling, storied covered market for fruits, vegetables, meat, seafood, clothing & souvenirs.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 40.6358798,
+        "lng": 22.9422581
+      },
+      "address": "menexr, Thessaloniki 546 24, Greece",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAN6_lHZoQxMQ4pg3Q2_jl4IL80X-Up33CiES0FDCi3k2XwSk-VFMDUdP8kjRHqBkcBgbhsOGhJP-0x8j_bEEbQiEu3dlnEG0TXS7BtpV4h9SLrKQgqqI_Tw5Tb_eWzZTFEhAIr1PTdeBEkyQ5kG92riP1GhSfKByvY6afZKp_kkWySf3wIK8yEA",
+          "width": 6000
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103530421596097074606\">AsH AsH</a>"
+          ],
+          "photo_reference": "CmRaAAAAF4VrS84TC2h8SrePOSaSPAIhxaOrxbw2a8GWn8pJ2ZohfQIJtKck1BQv1HNfSWSRsmsxADUecVRob-qWLLNO5L95i6dQgfyBLNHYS5u2cq8YkxAh4P9fbl6I52ZQWZvWEhCatf8wCJZ5Eog5LUfdU3FAGhShmm1r6Kj7yPV6eC95Gh3bH99mAw",
+          "width": 4608
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113181631526482435170\">Georgi Yakaliev</a>"
+          ],
+          "photo_reference": "CmRaAAAAPjsgxP5DvfScVMC121X5WsP6xB0F2qbiTfwIgVmkffMgRk6G6LxeSGAf0h7trlpnblHrfppvq9-xdNod0HfQoMHWEFtP8MjG6P7dvXSyHBuQprXZ41SBGpeyY_F8TYjZEhASpgBaDDIwgWTx5O61JybnGhRaP1Q7dw2gk6ZmMnKgpEBrWooUDw",
+          "width": 6000
+        },
+        {
+          "height": 3496,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100891209157403679352\">\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0421\u0430\u0444\u043e\u043d\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAj6quMAqKBuQUC3wdFdd6QZUN6rWlzj0KYcYkHr-iqoyHp37fK7j7MtsjU9HuyQTnN0waCPZ-QbvZYASRQu6s3ZMcTjRa6d7zyX0aNP5EBVgS_zijXAGSDNn1vlIiWkRWEhCXJD7VOkH0IgWiVSV_2E3qGhRnOyxO1r8kE8_VqLFR62frEKdvRg",
+          "width": 4656
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101276208853270368364\">\u05d0\u05e9\u05e8 \u05d0\u05dc\u05d7\u05d9\u05d0\u05e0\u05d9</a>"
+          ],
+          "photo_reference": "CmRaAAAA3bfZE6tqmgwGreCJSAgP6zz4qXIfWhFQQxmlDvnI45IKREHdPLuZTkjAayJWXfWOeM39rGT2wqBIYiU4Bxalsm0mpYQJrmvx0eyxo5kF9213jv7DJM9TTwvzK8f7A4bHEhBm-ue3w_cqveRXpYFZW9JwGhTmgyLMTThVBviWELa4fH_Vk7yS5A",
+          "width": 3968
+        },
+        {
+          "height": 1512,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105032824088023386114\">Thad Wilson</a>"
+          ],
+          "photo_reference": "CmRaAAAAodMingTnMeCQv6m8p-3lhhKr2EsaQniwkWNPkGaTS6KUeX59qjoNCHjduuO7cga_si6IqKd_csBCi3ANL-rj8imN-8itOfOTE0rF4iA84avnnjP0eRLLNrrNv1dcL4nrEhDjYdApCX1CB5CoXWEeMdRNGhQrBjwgtlQT72a8TDGHWjkN7uiLYg",
+          "width": 2688
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116490742107921039694\">Moshe Bialer</a>"
+          ],
+          "photo_reference": "CmRaAAAAU20W_7fsvr2Z3F7i5zLsrtGsY1JX1k3G0rTOWySazIcrSALDwy7nIQwLtNtd6qVVXsnUuZEGF2RG3c9kzpG0SCXF-Rj_q2XhfWbtGg-YqtF4JHU77MFRMMNg3EnR1iQAEhAfGEn-mB244YujhqkNTCitGhSUSuh4w2d2vYA-OudtBakPKw3VxQ",
+          "width": 4032
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104580435188526644380\">Nenko Lazarov</a>"
+          ],
+          "photo_reference": "CmRaAAAAoYFNxs5w1128QckG4kHjNo5o4WG9ZYeE8t3TsMrspE07jURDBk8vHyH4IYJd55rHGOjI8quDQAUvbfSAUtmQDUOEX_MXLYYy7Mpq3R3SDE8hr2HPbdsYkmKl3UQP4ARZEhAqXOWVOIIqvRhpxbBlcEOGGhRVWJwOUT609vGwiX0lRZopNqc_RA",
+          "width": 4898
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111537091898513627785\">Armin Pfeiffer</a>"
+          ],
+          "photo_reference": "CmRaAAAAmmXixLarFKA-dSbKTd7btDA_-Zh5YUbKDi68GhzjzLOP1KyjUouWZtp3EncEukrwwqwpK8KZBZFlCozK61qd6hy7fmE6yb9fblM-1lQ4-WvETSBcDGB1GXjdCYPYZwwOEhCcFa-XRUf-pifsCfkzjs4iGhSlSCfjecLP9XNtTou-zf7bpDUEsg",
+          "width": 4608
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105973974049531263382\">florence ceugnart</a>"
+          ],
+          "photo_reference": "CmRaAAAAePb13Wfw1YAlT1sBYxaG9Ji75Ap0yjnWAHZrgD-Oeq05tNFZ4e3zD6eFERF7v415vKdDjStlas-xHN2EoTtMJiHBrbOaS9J7LM_6EIoVnpvV3fen1kZMRhv8VxeUAaFXEhBHxxjGdYdAdqJC_TvNQgQRGhTFAMxROnkBC32OFYnTwhQJvIApYA",
+          "width": 4160
+        }
+      ],
+      "rating": 4.3,
+      "website": "https://kapani.gr/",
+      "popularity": 0.6490659781860166,
+      "num_google_reviews": 4901,
+      "mood_params": [
+        0.0018441966621690134,
+        0.012129783979420543,
+        0.014114975546139394,
+        0.03324614169189531,
+        0.012591945052105116,
+        0.04864067061378181,
+        0.04310517096653246,
+        0.007477218621535279,
+        0.032822804105737,
+        0.018544441130478862,
+        0.05375779575743533,
+        0.008221294450758173
+      ],
+      "top_cats": [
+        "shopping",
+        "food",
+        "amusement",
+        "fashion"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.16637285747378563,
+        -0.5195017498997319,
+        -0.3866929589050375,
+        -0.7621586379374448,
+        -0.8826706004748311,
+        -0.35117339189327346,
+        -0.775096920434399,
+        -0.5657970729287757,
+        -0.349710531179773,
+        -1.3693122480050863,
+        -0.2633313104335979,
+        0.05316981044695636,
+        -1.2548969577948184,
+        -1.0016252610663943,
+        -1.251970725217365,
+        -1.2158467167251494,
+        -1.4003074832759885,
+        -0.7462107050664787,
+        -0.9870033488899324,
+        -0.867592663191764,
+        -1.108135503745959,
+        -0.6126985941687265,
+        -0.9354239676989577,
+        -0.27088306314091015,
+        -0.35371414721081995,
+        0.11229674112981407,
+        -0.6924812758644497,
+        -1.5039623020234147,
+        -1.2007489944328336,
+        -0.686328362180872
+      ],
+      "global_mood_params": [
+        -0.6143568417676342,
+        -1.1503575038631213,
+        -0.8780747388023773,
+        -1.4302504431220169,
+        -1.003973564617863,
+        -1.321577463892625,
+        -1.3284537290976137,
+        -0.8818441007770365,
+        -1.177185533814076,
+        -0.9784061665376095,
+        -0.876478103046754,
+        -1.1187678640371244
+      ]
+    }
+  ]
+}

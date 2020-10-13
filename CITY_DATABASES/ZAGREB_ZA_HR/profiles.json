@@ -1,0 +1,4723 @@
+{
+  "sights": [
+    {
+      "name": "Cathedral of Zagreb",
+      "orig_name": "Cathedral of Zagreb",
+      "place_id": "ChIJHR3v-AHXZUcR-W1_Hi9RKzE",
+      "cat_params": [
+        0.0989330266086933,
+        0.05057401883407718,
+        0.2714772178846897,
+        0.24370621856506505,
+        0.22265455629093273,
+        0.1030949426751235,
+        0.31925882539927847,
+        0.16692055132740066,
+        0.1889352886198264,
+        0.21974548917194364,
+        0.060785880661592386,
+        0.060465770943627296,
+        0.1828320602391119,
+        0.14067899858186933,
+        0.24145001874422958,
+        0.12168874795121383,
+        0.40456664101112844,
+        0.25360735703683596,
+        0.121017633493708,
+        0.11956397276396463,
+        0.40857462284951657,
+        0.17872574056438684,
+        0.20983950944716814,
+        0.30190900064546283,
+        0.017061828450200843,
+        0.2819673442600877,
+        0.2194850815148891,
+        0.3284623286397208,
+        0.22653782482996748,
+        0.24537061785627015
+      ],
+      "noncat_params": [],
+      "quote": "Huge Roman Catholic edifice that was restored to its former glory during the 1990s.",
+      "phone": "",
+      "int_phone": "",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.8145084,
+        "lng": 15.9798007
+      },
+      "address": "10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108031456132209653302\">Andy Cheng</a>"
+          ],
+          "photo_reference": "CmRaAAAAZwn0jIgXYzuLWZ8SvlFBfK4yLfdKngfuHpZgHadRTmRPBcHJPDuMnKtfDARhjC2ESIEAMlaxxk-V3hP-uyAvM6xln_QPHn3NWyRCNOQTRfROUah8QDAnPRZmy_RMcYurEhD7Ob-BSY8KDMJEKAVbN8NzGhR1WI0IAT5AskyUOYRv-QjRq3rA8Q",
+          "width": 3024
+        },
+        {
+          "height": 438,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117152555860261298062\">Kamp\u00fcs Avrupa</a>"
+          ],
+          "photo_reference": "CmRaAAAA6MuwicL_ICfH823JPMUziu3agWnmeeJKs9OOzwmSU-Zr2pYS8GXgXZnka_7L20gI0FEFLrsyJnwaC8XeLs2UqwtpD-G9vwwG4KQK1nYgVYQSMIdPe1tERL9EZclLivdkEhClWg0nsrYbwkXU11D6kMUtGhSbghBPBzh8VumuLsw00sNePYH4lw",
+          "width": 701
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117365648199764639815\">Henrique Vargas</a>"
+          ],
+          "photo_reference": "CmRaAAAA-aBK41UVFSgOXo2lrXpVX2wMFhaf-4etbDmJQt_oax4RLzzYY9VLHUJ0vd3QUB3GicipXxUsW6wqZZDxT7Hdcoh8EuI0a4tiy-dbbQd1CSlaOzPN5l27i1ouN2vpIABAEhAlyLHUv5AN8CsN2XgZU5tqGhRvuBWtAheCNrWo-COD9eYNp536dQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101536505753120931847\">Catherine Castaner</a>"
+          ],
+          "photo_reference": "CmRaAAAAT9S5XVwjwNaHP_Dpq7wdURfUqi74Y62zYCN_vK1tZE-W3Bol7nrKnEIvqfj3hHZSIEes0k5j-EWsD7yJg00WvAmCx_FzbuT3uYV5cxV9DnK4KNzSSCka4wgU-yluCP2ZEhCO5_Ul94-BrvBqHOZWu9f_GhQ13iMIZE-Ms9B20RNXBgjKSi8PXQ",
+          "width": 3024
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103410589862029832447\">Gabriel Treeby Coleiro</a>"
+          ],
+          "photo_reference": "CmRaAAAAK7oiDK6A0c9OZFoeKNibN3bpXahnJu9altYGgnDX7y6baB66cYE1YvrnwsVQUpvxd9-uxM8fhkWm0GbGHY41vGiUmyCw_K9MGy5OefA9fPDj64yg3dPQpsHt-h3XjOZSEhArYsadDdAoaG8QQ4E0romgGhQZfJ_5bcZyNgKe96hUldJZDn0Ifw",
+          "width": 6000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106341349263769972421\">Motoki Makita</a>"
+          ],
+          "photo_reference": "CmRaAAAAK3I0YBnHWeFGLchNy01HeaUjAwXs9rUzEv7j8pmeulv4O56EAIv641KM2ZRZNGCtJYC-4_yE5PjMb1fHbFCnKUGqsGCQHyOkf07WeQmYMoL8gJFlAsL2tkV-aiJjIk7rEhBO2Iomz3jPO3It_PaZrBIcGhRtfHrqEceLC4QhEF4W1oKmR9Km9g",
+          "width": 3024
+        },
+        {
+          "height": 2623,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113609978341577702101\">yb kim</a>"
+          ],
+          "photo_reference": "CmRaAAAABG2jnliy7WH4fmr_mD9Zj47ynK70kIq2u3zEU2JZ2Pr6mBJpGjQ1A_JtxIJg1qK0jZP975qf6TnEs01zLhCW_asmIF5JD9JyDO5fobhCZJ1A1cLIrrN3ImhHpByYcCITEhAqFbeGgP_iudZgy9t8OpDcGhRlDj8_XG_wQlqQUQ2I6pY_utyzPQ",
+          "width": 3969
+        },
+        {
+          "height": 1835,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108333267329986988323\">Oliver Thomas</a>"
+          ],
+          "photo_reference": "CmRaAAAA9oza03cbDkWqcqqxD331nM_AVG_6ry5bHD_RsW6ibacSEvx24jiV6B6n-B7Wo2gtZLmr1l14yjKsr4n1Fpj_aMQUGQIMTqk7TF5k10KVPyvbBtP31CbiU1_XaKjRuUTwEhAsGfpJxzWECXPceYBHALx0GhTc424oSNYSoiOaBpFF7e9kf-4dGw",
+          "width": 1836
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107834103405158287995\">ruy freitas</a>"
+          ],
+          "photo_reference": "CmRaAAAAk_lN-La1EdSzlHwHIQR8bI4IxqtgdV7jl-nVy9aJzpEaY9S1xe3Rz6NotmFx-64e-_vycQaZFYeLkFby4ePjnoiuoIU-D3IVq6hCLMeLV3WDjAYLQjlbbP2wkZ5-OtIEEhB8JUyeovUcePBi28MCCCU2GhSnEhgJHu3G9RF0Milmn1RkieOVkA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117365648199764639815\">Henrique Vargas</a>"
+          ],
+          "photo_reference": "CmRaAAAARA1zPqUI8zMoMogw0bLKgLND9puSV76aYkTZDa78oQFkUVJ80zBudE0IPsFjabCQb8xQjh1R7r6uJZWQh1r8JSxbQkFFxf7rTdkytR_rAiMSWib1Lazsk4EuKKW6r1fsEhDvyzu0znGW-504v558nhMfGhTLRG5B2S8hHXk8IDuD7B5k0UXAyw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.glas-koncila.hr/index.php?option=com_content&view=article&id=95&Itemid=89",
+      "popularity": 0.9986757428056965,
+      "num_google_reviews": 15241,
+      "mood_params": [
+        0.0030813927740394684,
+        0.02804414968732372,
+        0.0782801694836794,
+        0.14165785367697584,
+        0.08873583471811633,
+        0.13213160641255187,
+        0.115152918588502,
+        0.01816231294095934,
+        0.132869137655439,
+        0.034688180489755055,
+        0.0608799509318312,
+        0.013314330171074844
+      ],
+      "top_cats": [
+        "religion",
+        "architecture",
+        "art",
+        "engineering"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.7557228730900748,
+        -0.7374977979988964,
+        0.46008289015349313,
+        0.08885153417284088,
+        -0.5070726786643056,
+        -0.5607607432638352,
+        -0.8410262367945289,
+        -0.49108648341279315,
+        -0.26169599630963764,
+        -1.0803856831202137,
+        -0.5257754333123166,
+        -0.7638772941679807,
+        -0.7638892653913278,
+        -0.47801004252368434,
+        -0.5294115559721505,
+        -0.5702518381936686,
+        -0.35040449556719533,
+        -0.42166712073392826,
+        -0.5715622149036509,
+        -0.3205781105227223,
+        -0.6291442257427483,
+        -0.7478130180362607,
+        -0.5322057736538494,
+        1.2471622673729854,
+        -0.30216556838659014,
+        -0.538344251309693,
+        -0.6624566155393309,
+        -0.5974805022762679,
+        -0.4386532366836435,
+        -0.5800720874323797
+      ],
+      "global_mood_params": [
+        -0.5311159756915935,
+        -0.6735787656787376,
+        0.27719566842943444,
+        0.2410739688272793,
+        0.6671750511394742,
+        -0.2716775269897584,
+        0.03502128567343473,
+        -0.45576816027936057,
+        0.14629587473910982,
+        -0.3510091748232389,
+        -0.7116699876696165,
+        -0.8074159573487015
+      ]
+    },
+    {
+      "name": "Botanical Garden",
+      "orig_name": "Botanical Garden",
+      "place_id": "ChIJbfV5l_DWZUcR0-WX1Td7oc0",
+      "cat_params": [
+        0.13676227204611593,
+        0.10583755865069085,
+        0.2262854943583607,
+        0.21376917845466015,
+        0.4342911539612734,
+        0.1059310794268517,
+        0.385868314961266,
+        0.14009801524198046,
+        0.18766317049222395,
+        0.28773003157888644,
+        0.06459691148554672,
+        0.1788695451139927,
+        0.24271606728998604,
+        0.22052066492462188,
+        0.2162210347832542,
+        0.20548903856474462,
+        0.48933359641006446,
+        0.2341397732082376,
+        0.107589349610608,
+        0.11590738956442308,
+        0.8564347104645176,
+        0.226748121230438,
+        0.2024059252405575,
+        0.13599652450349412,
+        0.011418230679353781,
+        0.3487873606723678,
+        0.26498192816958854,
+        0.4114703761747723,
+        0.45663851080996665,
+        0.3265746683083996
+      ],
+      "noncat_params": [],
+      "quote": "Botanical garden open Apr 1\u2013Nov 1, offering many annuals, perennials, trees & ponds.",
+      "phone": "01 4898 066",
+      "int_phone": "+385 1 4898 066",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1430"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1430"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8049444,
+        "lng": 15.9722022
+      },
+      "address": "Trg Marka Maruli\u0107a 9A, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101431208244786202338\">Carlos Nieto</a>"
+          ],
+          "photo_reference": "CmRaAAAAsQIuhupC433FCjQOtgquZQOJNJ-VCuDnAVsuUwM92AFJ7C_je9yxvyJbSQMXQqL1VyasLvE4xG7qswTO5CYKwLJIA-qCVm-ndGsa2eIl8EHKEO-QxUypOlYQifk8dKXbEhC4SrnImek6O-VPr6YYb0xUGhRAX4EylWqB9GEasqfdlmA0f-osog",
+          "width": 3648
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112408163108228190284\">\uc885\ub098\ubb34</a>"
+          ],
+          "photo_reference": "CmRaAAAAy2DfYB3Dg2y_bpGbRX_v0mt-lVsjrV03TdVhtT5T4WIbZWu-LLy_BqAqcX7b-33haokqY_ktjeCby880Zro32QNwa3P2axNzZcW9DLjoqN_BsDD4SrYQevC9jmzvDnYYEhBSvEScCuHiMeHTT4l5bAX1GhTqt6JEbndgvf-5Hvl5S1_J5qA-iQ",
+          "width": 1616
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105948750212672220501\">Jasna Petricevic</a>"
+          ],
+          "photo_reference": "CmRaAAAAyX5sWnJ4xFoRYAbO_FlZlSbzPYcq-_I4YoPPxQ_2S8OTorLP6EZREltp7BVeILeftW29NMLz8fX4axkjXKRwqI2ztKjsraTAKLOHtH57mWxBhqHJlmW2z5fHNFXUBP-hEhDeGSTaCklKj8gA6tKWycmtGhSmGLP7sg6WThDrLqV7GyaBwmvSLw",
+          "width": 4000
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111120302188215873085\">Natascha Ivancevic Goc</a>"
+          ],
+          "photo_reference": "CmRaAAAAbyuhv032kBzMwl0oyH3RAslre3XOIyMQoPEi7p8b0-mUmU5D0z3RxDsurMuXPYoxiBKY_x0a5XBpirZUUfaRuEDL3sZ4_L6gxqwIwvjQkVmtW7eyMVFJoOSy2HSSq47yEhAv1lcl1HyhKZN61LjeZB78GhTP8x5epBEkZzxms4tpvYred4Bg1g",
+          "width": 3968
+        },
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104766207665688077317\">Paulius Patackas</a>"
+          ],
+          "photo_reference": "CmRaAAAAhqvE8EGCaznmtYAuLwWPJ1jHRNvMva1xtQQyT2MaT1gvXYJx_ZUlCnrN5fvqtc-BpNn1LzNlVvpFy4BPlgMMEOk4M3AVT5QAHp-96nDrGnvtdX6Pjl1VTDhOyMHBc9lYEhCYWMiiuYb6GhhcO2ZVlnzqGhR3WRuBStKAOdXY5SO4udhMuJ1fww",
+          "width": 4640
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117932088565511607647\">J\u00f8rgen Sandgaard</a>"
+          ],
+          "photo_reference": "CmRaAAAAkX6d2_xzatl-Kv99bWF0dKg10sOKmNL-pDeE7uL2XUwGnvgsbfMvWVghRcFpmSDzF50UOz6YBDjl6NaXFUnzCpoHk8xPSv4zjWTwwY9Cu8iCvLvVblLfE_jY6n_G8VRsEhCe1ZNDnHNMEo4hI-j8YmCLGhT916Xp5pFJaa2n7GE1J6WFKvDGng",
+          "width": 4608
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110511814675606736875\">Ivana Vrselja</a>"
+          ],
+          "photo_reference": "CmRaAAAAExsBvbtMydzNcEE0cbkNm3vKM_SacXJ6BevNYIC7L5_aK3eEntbU3keCAIahHrYqht_vnx0RMDX8tqLIKvUvBYmWgvCjp6KEATvCusEFpBqSh1JCWCSHAkxT6A9f2McBEhAooL_4UdTXLuixi6k6cYcNGhSO9dkzG2sIVv1RL6LLYb2F3NHwNw",
+          "width": 3264
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113901052990393548377\">Mirko Vokic</a>"
+          ],
+          "photo_reference": "CmRaAAAAFX9sOBuCFvS-kxFFrOf3ipKNfI_LWkn9SixYjYduWTBGPFyIHepKKhBcE2djbQdRcjjMQbcgNsdBXFaAUIT7a-gtWWYkvnwJlp4P4Z5Wb68fEPUZF_b9t10IQHftC69PEhDBzpM9rCLPa6hT0Z8U7al4GhS5oXmBL-wKnu74bN5-VlOSwiIdoQ",
+          "width": 3968
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117704098589910216033\">Krzysztof Walencik</a>"
+          ],
+          "photo_reference": "CmRaAAAAdbXN6lKDrjnumsKFtzr7EuD1g59un2WjASM61n18MhfLELp0SoaDohle03hd6n5aZY7NXA7YR7LuwGOdVlXCAQ2piYn69YvGWSnQlYo38O0kGQ8MkoKzyw12HiedCJAFEhCQxYnh_OVqLbWT9b15F72gGhTy-jATTapqZyyRAWWmbRtbjXBbpA",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116169800079019090010\">abdel razzak Malti</a>"
+          ],
+          "photo_reference": "CmRaAAAAqrbfOpp5nb2vGj2GqgfAOpSX_u-rM_vRPTMVtGNVsOi6ElL7Bi3veTFxNsh4wPULnCdrSsNFk7USW1GABoKoBfs7ywevtNQiuBCsw_91zygljwNNJi7t6aszyvvSys5BEhCh36RyzWJdzaEhGH7L_JzrGhRGTUi295aqXKVCUxV22B6qy0j5MQ",
+          "width": 4608
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://botanickivrt.biol.pmf.hr/",
+      "popularity": 0.7353851767227111,
+      "num_google_reviews": 4481,
+      "mood_params": [
+        0.003356232130308139,
+        0.0438668696698185,
+        0.16550925735899652,
+        0.14239772650496743,
+        0.08309530673922386,
+        0.1556848440730421,
+        0.10667133377428577,
+        0.015345831485305876,
+        0.18405554303813212,
+        0.03797585786893891,
+        0.08263025089777243,
+        0.023607955488592597
+      ],
+      "top_cats": [
+        "nature",
+        "walking",
+        "beach",
+        "hospitality"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.29672438923737654,
+        -0.0767273101460446,
+        0.01614701711482966,
+        -0.1250851662963758,
+        0.7983749075056066,
+        -0.5229247812901398,
+        -0.13217905295085172,
+        -0.7889724502704566,
+        -0.28052210724568694,
+        -0.3575305900932516,
+        -0.44739592887383334,
+        0.36062566144831926,
+        -0.11677126136079106,
+        0.10866876988929693,
+        -0.8037517987224319,
+        0.4112077133384023,
+        0.10954457740934619,
+        -0.6252906721470283,
+        -0.7429686325632556,
+        -0.3934387314765735,
+        1.5550730981810281,
+        -0.2786696254400287,
+        -0.6160181508716905,
+        -0.30054117028018695,
+        -0.46465783817114614,
+        -0.04271155832243039,
+        -0.23615507430695257,
+        -0.05822797918881421,
+        0.950333174822192,
+        -0.02170220078845117
+      ],
+      "global_mood_params": [
+        -0.5126242702715065,
+        -0.19954564325574795,
+        1.847722891806523,
+        0.25248018589108223,
+        0.5433810006199576,
+        0.024504836964188235,
+        -0.12548933903787876,
+        -0.5680774155126355,
+        0.8234246958668366,
+        -0.2232395886373643,
+        -0.20836363467678734,
+        -0.17813706645843705
+      ]
+    },
+    {
+      "name": "Maksimir",
+      "orig_name": "Maksimir",
+      "place_id": "ChIJz7l8terXZUcR_k-oDwggPNc",
+      "cat_params": [
+        0.2661448114497953,
+        0.2784914735246638,
+        0.11901569875311374,
+        0.1670562374185439,
+        0.5502196833358963,
+        0.06379276564521233,
+        0.43160654068178494,
+        0.16838307716652529,
+        0.16596012335764904,
+        0.30776815712331923,
+        0.06702801436822872,
+        0.15384990280214178,
+        0.2519041133467368,
+        0.4690314432822789,
+        0.1939396214532458,
+        0.21733719662143294,
+        0.5140116904376549,
+        0.3245019898317203,
+        0.18543246588941367,
+        0.10838150555724985,
+        0.9080280361769988,
+        0.29191944447357066,
+        0.21201473005707788,
+        0.17050032808720106,
+        0.0042895411846520385,
+        0.36322167804977157,
+        0.4999871067586061,
+        0.5692159546733535,
+        0.5311367981326022,
+        0.5460891858428985
+      ],
+      "noncat_params": [],
+      "quote": "Family-friendly park with shaded trails, lakes & diverse wildlife, plus playgrounds & a zoo.",
+      "phone": "01 2320 460",
+      "int_phone": "+385 1 2320 460",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8196544,
+        "lng": 16.0156401
+      },
+      "address": "Maksimirski perivoj, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109745417967552261228\">Hrvoje Liovi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAkOAwg1fOyBx2fJzPyUF_Hb2j-Gr8Kx8bXwcke11wRc5HhUMyc9aA--J6pHm4vBQzywW_3GDaE2eiPkce_0DMEdBi_SLC4cn5SUEfEKVbSuvyv5tqbXJvjY7prXCgYAAoEhACJ-30ZOwAyl35W4PZ-Bs6GhT7eLfhMp9u80b8TAWegk4PYOrt-Q",
+          "width": 4032
+        },
+        {
+          "height": 2800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103098449883811663200\">blueworld</a>"
+          ],
+          "photo_reference": "CmRaAAAANdTroFBrh8IZisLUGMitRvq88Zsoqw49OcyiKUkFzjWDrtHYvTuZPJVwLYh6pxxtDMWb8idjkXyTJ6mbiHcIJsHmC96eLsmkATW0dMsq5gWaTHH5q7TEYRCaFysQQ1byEhBUAOxsF6sXrToFIDWWa-Z1GhR5Skr9358DRj-I4pLu3S3U8XjGsA",
+          "width": 4000
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102165251100141757946\">Boris Khalfin</a>"
+          ],
+          "photo_reference": "CmRaAAAATVs34gZdZfhpsjS2Hh29yCvTXuvb5r2NcH8UUIO3TTYqumo5z1KcX3W8bMMlNO6mLz98RRqMw3LfLNfaVrIhRoIa7LKBbNnWJjhNwm8wgWdoAxpg2i25xZkedFiB6w4DEhDCuvwaxIkV_Zc2tnH0MPnPGhSO-WgRoPNZrBAlK2vbE7luD6IQNQ",
+          "width": 1600
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103152148707404013039\">aldenita matic</a>"
+          ],
+          "photo_reference": "CmRaAAAAMNARIDGAHyB1EqpyzgTh0bj_tdl66MHCz2VUPBsADlNhIf-z7jGIQ7taqUyEQ39Qk7TL0Af5jpNVvDcJ8XZNGW56DydeTbaLAtbAY27sqZMeR6S5sLn_QDxngqM69PJvEhCQzEKnHuHi9JvkPIihbYdYGhR9LSrES8NKvJbByK46zF8cyeTO4w",
+          "width": 2736
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105960679542752539863\">Tomislav Lendi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAA6oe87KpaffSCTJnBHH8ZWvB-uWkbqpnWVKaERhpGQXsEvUSNA9l5qYdEv6Yq9bMS6ke4A-UfZu3FtDABLbA9nXt2NjBlS0UmAJszC1sCg2kvUj0NX8Xp-wMps7LhPJ9kEhAb4zMLdPkBCTDT-2WbXXThGhRWIBmd8xKo0cMrSjtZR9ovluJpwg",
+          "width": 3120
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103826719165636686550\">MOJ SERVIS Informatika</a>"
+          ],
+          "photo_reference": "CmRaAAAAJ8rk58MjyC0l9VgSDYwJncRIHL2eMRNMZ0azvmVj31D8eTww3R4ElZdGU5XVUHbvgoiC1ZnwWFGxp0oxN7JXC-gFzL7wkC-2FaQZgC4_LD02H8RB4eNjxLD6hFTpBjk7EhD02-7c9Eez4dZM5pXRYYbgGhRzSJcA0gftRBGWkIRmdEdeuYdGmg",
+          "width": 3648
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104751288922763877931\">Dora</a>"
+          ],
+          "photo_reference": "CmRZAAAACADs8qN5jtqmW5ZLzXgDI6BS6uIOpwn2IwkDczczWJCXWM-wgkJ_lQdURixwx0q_VW3zWvaE2frAZTfzPc2TAAbefwuzZtCozf2dqZwt4PCKnduohi3rBat95mP3CiqIEhBcOyvICsoXQiMXbjLf-RBMGhTQj08gd9JIEdtCGXKwfq7Pnn2bSg",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101973975854308777746\">Biserka Zorbas</a>"
+          ],
+          "photo_reference": "CmRZAAAAlV5vHmIbrMd8F1i34GKk_tNbcBEMw-U29fnerYG0E4_Q5RCbErCX037w9xEy9Z6cJH5uZWkGlacy-2ax4PLns7UCthQmYX4MFTg00c6PzjSPsbxTmAYZMY0Z8eA9pNQkEhBCv9w-i_AG0x1M_YmlGwGeGhRLonI3FRXSsdNDEQqnkFV8PM4C3g",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100308674064967386804\">Ivan Bi\u0161kupi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAvQ4Hpysqll5lrPb3F_WOLC4Ju-peSext64RMfCtsIPTVXD6-vEE5iYlFQSY9NXi1FLnJHAjB6LzcyUJL9JNzUMwU_sGTXLkbAmnb8Q767XezZbMbabR0T7DT1K3Tp-r5EhBbk5zzkBjmbYC9Kg6sUfxaGhS-VoynUOstXcC-OIH-beA9eosaCQ",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100950656016254992252\">Jasmir Ceman</a>"
+          ],
+          "photo_reference": "CmRaAAAAWmeaKnf-qsjOlCWPkcsu9r9JrB8ERjLf0JQquIu5OtW8AMUX6g28OUUvWE6MNAzCZGua09qh0HDOB1zl9dg1lKXezwxQK1JJkj-4OUzbFk354aA7phcowMnjknTY7UuhEhDJstdnOKPDZk3tREeSg7f0GhRWdOqRoLL1gOwec9Se1lZwETgLkA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.8,
+      "website": "http://www.park-maksimir.hr/",
+      "popularity": 0.9073456484228647,
+      "num_google_reviews": 10385,
+      "mood_params": [
+        0.004070099911221664,
+        0.028387672663193062,
+        0.14551553430322592,
+        0.11990743322198447,
+        0.10014674525081767,
+        0.19916430640946384,
+        0.10282326622714777,
+        0.011306137289407886,
+        0.1871602170872618,
+        0.02366047198283069,
+        0.05354471745802161,
+        0.018649806426594213
+      ],
+      "top_cats": [
+        "animals",
+        "sport",
+        "hiking",
+        "nature"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        1.2731295355927694,
+        1.987646632231838,
+        -1.037605897065353,
+        -0.45890615987571126,
+        1.5134620923603945,
+        -1.085078082574443,
+        0.3545595890833973,
+        -0.47484395055704404,
+        -0.6017060949118872,
+        -0.14447243611165345,
+        -0.3973966903513096,
+        0.12300940364510601,
+        -0.01748348290378155,
+        1.9347329666560285,
+        -1.046040126751379,
+        0.5499720041023393,
+        0.24344895580065304,
+        0.31986387935943733,
+        0.2506661324570581,
+        -0.5433985579227619,
+        1.8066941712267632,
+        0.3580063423526994,
+        -0.5076805372103514,
+        0.021325253875390814,
+        -0.6699093432601676,
+        0.06435395852890463,
+        1.9658232427934133,
+        0.9665485784736219,
+        1.4000367831834146,
+        1.4877089134353538
+      ],
+      "global_mood_params": [
+        -0.46459391212789375,
+        -0.6632871553199916,
+        1.4877433583665636,
+        -0.09424043596314696,
+        0.9176131023724511,
+        0.5712598149369257,
+        -0.1983124893631789,
+        -0.7291631722112262,
+        0.8644954501648876,
+        -0.7795809566621104,
+        -0.8814087781155008,
+        -0.48124296417293944
+      ]
+    },
+    {
+      "name": "Museum of Broken Relationships",
+      "orig_name": "Museum of Broken Relationships",
+      "place_id": "ChIJb1qoV_3WZUcRqGE4Q3JSbwg",
+      "cat_params": [
+        0.08538286648392186,
+        0.09368534875489784,
+        0.22640301183046369,
+        0.2516697097687388,
+        0.10386116536061005,
+        0.1356556977948203,
+        0.364760461521367,
+        0.2565638575896811,
+        0.1382354038591438,
+        0.32525632560238493,
+        0.09924002783405307,
+        0.06460725769091728,
+        0.2506400929732006,
+        0.06195193079240505,
+        0.4412305543241424,
+        0.12106178436004494,
+        0.4655590178152739,
+        0.27251125874097354,
+        0.109652716951652,
+        0.24853795448387947,
+        0.38110211739662503,
+        0.15258929415414185,
+        0.32368247322349863,
+        0.11377826180374036,
+        0.009623477810890064,
+        0.28545991068178195,
+        0.18944478630621422,
+        0.3437871068607709,
+        0.1256299805856592,
+        0.14182891073305554
+      ],
+      "noncat_params": [],
+      "quote": "Museum in a baroque palace displaying personal objects from former lovers along with brief synopses.",
+      "phone": "01 4851 021",
+      "int_phone": "+385 1 4851 021",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8149942,
+        "lng": 15.9735254
+      },
+      "address": "\u0106irilometodska ul. 2, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102789457814258550846\">Museum of Broken Relationships</a>"
+          ],
+          "photo_reference": "CmRaAAAAnSh5JVekMoTDCWUxdEmAlq-Gk4A6yMjwc1KnAyOTzjZpIC6ZBdtEAzyajPENqMat2coajC2PljuWp1B1S6Ii94nXfOPcmn-Rftg41iJNTUUwxh5Y3BAEnOH5AlwkRZLvEhAYI2gAHUAfaGkTRHYg2mWIGhSVZG1QIP4rciqJWhes7Gv591WRAQ",
+          "width": 2048
+        },
+        {
+          "height": 562,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102789457814258550846\">Museum of Broken Relationships</a>"
+          ],
+          "photo_reference": "CmRaAAAAuxpJ6028ZDEYbJs0cUhDHZlIogTNGOfeOjJz0NBTfcHqaWM8vUZUKklLJK6te3aIv5tGEM6Cauz3SXRdgiLDKpiHDeD_peohRkdkT64V9qCVuw5W9LjNgJJDGxuGb6SiEhC_wUL0oSCllx0H_eCFbCGJGhS7sg_IfnpI6gAnDiEVVquOhYBqTg",
+          "width": 843
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108049295743838499545\">corrado biazzo</a>"
+          ],
+          "photo_reference": "CmRaAAAABYnF17dcVmYYBjbku28eOyau0gb31AeF_TJO9f0Vq1XSMPWnmZUbie35V0uD0oGpGJucm2dmYlIbdSgkgPJWSC_QVKuHEyQu-wu8H9ksPlKjFIsBwoxvQuBklXyfPCTsEhB2RyBC6gfqVj-Zb7fWelvTGhT23x7ba65PkIdRNbG8XqAwY3MiFA",
+          "width": 2880
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113068233662947921341\">Georgiana Geo</a>"
+          ],
+          "photo_reference": "CmRaAAAAQVitmGJFLYPymoFHO6HwoWfAVuUi5eR-gXflsDBwSuxJfVkU6SVix-9Cr-yBLpWisgDoAQaBML13O1DRAoYOgR1-6CT0mi6vOh_7aFNwsVdYcMU6yTBUeMgp8IZphFwSEhBZDzg6RgLm9SPjmFaR65tPGhTUxTTo_x4ze4n8ZrWj60aEz507PA",
+          "width": 3024
+        },
+        {
+          "height": 5472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106915631897726959839\">\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u041c\u0435\u043b\u044c\u043d\u0438\u043a</a>"
+          ],
+          "photo_reference": "CmRaAAAAUmiw2gj_tNDpO_kizIOha8NTz7Nxva_M6-nNRuULQOxzUYKjhnQM7kyPclmsEvQdGrOQLKd9-cKyqMahUzwRJvVcbU4xzCfCaKvp1s0rBt9xE_dDD2V5EHWeKonCYdJEEhAWuwz2Tfoj_f0DAQEv8T2iGhSMlwjTDkGpIyMSVLPyTTA5RRcncg",
+          "width": 7296
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105863505420698257699\">Abbey Ferguson</a>"
+          ],
+          "photo_reference": "CmRaAAAANJ1PxG23t964Uqm9Crjx_Dt95Uzf4x9aA2kCbzfsYvC1uy4QDqJhOZae5q7eIXPwtCZuNZ5Lz57IEH9A_qI-mrygBrVMZ0atqRUnXgggswSnlmitKLGOwgGnLQhguaz3EhA5abmmeBKFljPgZnGYircOGhRQKReNMiM_wOSBCjTBdxB2CNulaw",
+          "width": 3024
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100017264618627074867\">\ubc15\ub300\uc21c</a>"
+          ],
+          "photo_reference": "CmRaAAAAvsZLUz8YYfXUNstTq6KbbweQflTdI5GgxEfOq3eF1mPQXE7tEe9OALCttIs8rGK-ICuRvqRIB5coArCGW7C9B8IOKRga4XxaIjjw38qVu_pDUdyld74koVjk2mQQWicDEhBrLb4Jn3WL-Nue-jEReV2VGhTbvtIaXmLCdukiWuQXl3BRSD4XHw",
+          "width": 4128
+        },
+        {
+          "height": 2206,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116015482651232613878\">Anna Romanelli</a>"
+          ],
+          "photo_reference": "CmRaAAAAlwWzOqX-Wl6xm-3PWtM1wHCsMBjtmHWEZTe6GGmfpstC5OL_hK8Yyn21qI6Axg1MGYZLCdaBjziRSGOSpAmRdE2LDuyuw7lfF8mU2ZYLIZJNW9nyhfRh9XhBdT3iO4XVEhBkLNuris3esCCtPkAY4GNoGhTXvx3lYmU00mDEwpDB5DZngJCiZg",
+          "width": 2976
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114784472705433088424\">Wioletta Kmiecik</a>"
+          ],
+          "photo_reference": "CmRaAAAAknApOP29y32BOJNrermrayBPpQl2lf77CZKMpozBE2I_N9wzScGCfSrgslro35gmElF5mEI6ehW4BZuJFFzEyCdKCJJ6WiOF34SUYMhuQHZgMunvq210OCtU5PBxbKboEhCXHBt5_c_7BXo-aw55MgFWGhR_lcfzS5XC8lofRJ-Q817f80S-2w",
+          "width": 5472
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109754911316354828783\">Gustavo Mateos</a>"
+          ],
+          "photo_reference": "CmRaAAAA0Yux9QwpTPGcypLROAAx4iOFZkLs_fv9ru1P3UR_W8-7A3BZALawCmyHclRDmMJAHGmVTSUQxkx0PWv69wsNa_NTfpEPcwwO6uIYi70Qhv8k7rTU1qwXJyNie6X7IBeyEhAVy0XhT8fu-Xa5Gzy_GtmhGhR_jvmz3TfETH-oyAV0Wt3DDe5AFw",
+          "width": 4608
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.brokenships.com/",
+      "popularity": 0.7162279524609518,
+      "num_google_reviews": 4032,
+      "mood_params": [
+        0.015549809332123408,
+        0.12640531757277712,
+        0.015468855042353126,
+        0.3081012308198538,
+        0.024660519270254287,
+        0.19573941735693826,
+        0.11322823650569726,
+        0.06096481388116741,
+        0.1052139550830686,
+        0.19060626363470645,
+        0.1573349210975421,
+        0.11470134921265358
+      ],
+      "top_cats": [
+        "movies",
+        "history",
+        "original",
+        "culture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.9201327861431838,
+        -0.22202784080295743,
+        0.01730143694006465,
+        0.14576040111648586,
+        -1.2398313184742746,
+        -0.12637848303151258,
+        -0.3568053421815095,
+        0.5044749680926118,
+        -1.0120049764579133,
+        0.04147294507716283,
+        0.26509116898260177,
+        -0.7245448140962523,
+        -0.03114272819245709,
+        -1.056498753383008,
+        1.6430041351453417,
+        -0.5775947650559795,
+        -0.019457288159829268,
+        -0.22393947078766424,
+        -0.7166306129530737,
+        2.2493413695486795,
+        -0.7631278603670055,
+        -1.0031469054705466,
+        0.7513539679757257,
+        -0.5078027479427702,
+        -0.5163329360680043,
+        -0.5124383896537972,
+        -0.9439315987118394,
+        -0.49792478970553966,
+        -1.047776255473229,
+        -1.2920386820468985
+      ],
+      "global_mood_params": [
+        0.30778238725478757,
+        2.273225044885932,
+        -0.8536986429636245,
+        2.8070410062674624,
+        -0.7391016072318015,
+        0.5281917768829205,
+        -0.001402558484068929,
+        1.2510128281298094,
+        -0.2195458176652723,
+        5.70846280635718,
+        1.5203175866698109,
+        5.390663817769824
+      ]
+    },
+    {
+      "name": "Zagreb 360\u00b0 observation deck",
+      "orig_name": "Zagreb 360\u00b0 observation deck",
+      "place_id": "ChIJHeuqu_3WZUcRB3LKU_1qRbg",
+      "cat_params": [
+        0.12795533818207094,
+        0.04774026367326236,
+        0.14226090224305724,
+        0.15564487065870114,
+        0.23857804491455753,
+        0.054932714150231245,
+        0.37000910510962853,
+        0.08084718949210094,
+        0.16893728915077333,
+        0.2500422678537008,
+        0.06757864927810343,
+        0.24768028362583625,
+        0.21377963819643755,
+        0.11572917837849378,
+        0.18528378674582158,
+        0.1998594871307687,
+        0.5313769299947947,
+        0.20681133831278622,
+        0.14125011484623123,
+        0.12052807997867004,
+        0.4259679242639706,
+        0.3319192427788015,
+        0.1990790525441022,
+        0.14722115578023445,
+        0.008519195061353723,
+        0.3728903149630147,
+        0.2688872786876566,
+        0.48286457643958797,
+        0.2233622840711809,
+        0.24451251565410287
+      ],
+      "noncat_params": [],
+      "quote": "Observation deck on the 16th floor of a skyscraper, offering a bar & panoramic views of the city.",
+      "phone": "099 487 6587",
+      "int_phone": "+385 99 487 6587",
+      "hours": [
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8128899,
+        "lng": 15.9757907
+      },
+      "address": "Ilica 1A, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 1520,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112820823951250162760\">Zagreb 360\u00b0 observation deck</a>"
+          ],
+          "photo_reference": "CmRaAAAAfy5REDXbDlq9LsB_xqA2NNc22XesC61zelPumaxQ_0eNiUXdNdfYabeXMzfjXO5V6VC28d0P-OFejil7_19D-3ZjUDCU04V6YiMwv6jegD7rjq6XbP4tlTwr4_NqVeSvEhB0mJDDpj2tVcxeW1r3h1BrGhTqNrSfu9kptQY6dHFnsnBj80REdQ",
+          "width": 2048
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104284705884901412719\">Dinudija</a>"
+          ],
+          "photo_reference": "CmRaAAAAUKpAZCOL0WQ9P48fQZqFl84L3fjVnM6_jyLNvrZ4w1VFmn7xwLJO5bfgrTG15qodHz5IYZV4INIfMhJdM-644vFT4Q_8-om-xvzxGuiIeH129NiBXAQPnovxqY7qbKRkEhDFRaLjCBYRRbQgH0UvKb5eGhSS7jHB2aFDkQD64ghllgULpFfBgQ",
+          "width": 6000
+        },
+        {
+          "height": 6048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110319720490459298253\">\u30b7\u30e5\u30fc\u30eb\u306a\u30cd\u30bf\u3057\u305d\u3046\u306a\u5974</a>"
+          ],
+          "photo_reference": "CmRaAAAAl5oSVRUpf1oIAQUvcH4kxBSYcxTDA13yjgdjQZapnDw5oM7642aO_ZD1pqOcHgcu2e0-CZ37CiyeFiP87pYbm4gAhPMdZn1aJ609HXj0wWAVmIwBCuLBkimeMwHktGFsEhBm6LkuEsdKIXlEY1F2lusUGhQ5qEwq0QiIGn4KguOpRnMGefiTaw",
+          "width": 8064
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100288997580467424127\">Drago Ivanovi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAq3bUZ1u1RXtPk-tpmeLLBks7TXsfoDPIrlmgDPhBLuPSzV1sZi2N-Gmn9zYjOsHuZ4-K9yB_zXgCakRMfD_xKMe_Qgpcv2aHA85Zdi1eEtmshiVII2fK9kEOjzb6WpciEhA4Cj2hqqEjkJ6tZqpRaAsvGhRU6kYF4XtaxIpDMvBR5sD75SHpYw",
+          "width": 4608
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110283956834887597784\">Won il Kim</a>"
+          ],
+          "photo_reference": "CmRaAAAAzoBulEg5zotAcsGhBsjcImJUgLRlH1OJEPO3PDKrWbl1sAOQZTEkRNBgC7UEZhD-JsFUZ9X3ltq6ygYiuTZv7KvtJm1I-ryYkS5hyfPo1VpEB6OAgXpzAEtJB4NVBAvkEhC-zv46K4UG9oCBMHE8xs27GhQ5lo49FvkKrdn59lluw0SdelisDw",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100950822160447840662\">D\u00f6ner Spie\u00df</a>"
+          ],
+          "photo_reference": "CmRaAAAAoWFYV9L6XtClAMuGldUgivs2Zqltr63U2cdtb86jIs9npNzmwdjw0gHfKV6VPJtWIw8Nbjmw1F6ApaIYFJfXGEnFFD8C-rn8QJarLG0f6RNUectWVFDx1H2YZ4vVOapwEhBAkMNKvfU-13bMeuNRiRBdGhTtPrFZmEeNe0nezlKZ6C1lETNXhw",
+          "width": 4032
+        },
+        {
+          "height": 2192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110135770250710614639\">Boni Butir</a>"
+          ],
+          "photo_reference": "CmRaAAAAuu9nIfEsFtUsp6ArFIhZ41xMzpmmfzXySnq9PSAFsgSK4KTObWm_gjA4sTFOwOgD7PR-1UcDA0uErAe3AQw1G1ivVlFKi03eRqALwY4HyDCtUhB5jBRPhft9rV7fVPk-EhDNySGLSzEfm_60le-i_rCDGhTlo8KwPdIUz49kC2RQLXiEXfp0EA",
+          "width": 4090
+        },
+        {
+          "height": 3454,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105244072039781906656\">Haru X</a>"
+          ],
+          "photo_reference": "CmRaAAAAMbwGaZn1Lo6kIqjRARgpTZ_QVAyDSqze89Xe93IzBjd3VBNBlhKSt-WFexR9hsTfAGwK7UNwWCAQjGk9_y-f-XMB-XGvCpTOhJWERXThHZ1H9DFDyp1gSzr4GH1jBjvQEhAKXLDUTNblCyT1_IWqLGJdGhSeRv6jRtar7RteVm3Dvz18srUzmA",
+          "width": 2414
+        },
+        {
+          "height": 4144,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105699591495995670742\">Maria Jose</a>"
+          ],
+          "photo_reference": "CmRaAAAAo8gOOvGrGbxkrhO3Hfsx-GHRDDKXMrnP2GyNB2SUMIO5WSWwfMA2Ot-yJ2eNTQQoUNzfOP17npSCLA3Zw1Ahlk61toD2CEIT7gfY2aaV0z9Ujn3wTaZi_Ny-JLZ3dYUMEhAclRYR2sdsDVdw4ITw99EZGhSQ11M5CVfHmZaYNGwnzCZoS2JJFQ",
+          "width": 5520
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105750536643394322381\">Eugenio Mari</a>"
+          ],
+          "photo_reference": "CmRaAAAAEf1i0bLztFJTIDk8fjBrPebAbLWeBVS5rXPf1JXX01BEvk9k07JR2WO4UlVHN6ttE9jH1X5-gg52KMcpSrk_7BDUNNjfsAHgtI06-cYHNVwPJOGTjg81EbxjFqmy45dIEhAOCettlW9zpcbgqlbG70xIGhS-yXYhXXTFyZPar1IAm8ic5BQnUw",
+          "width": 4608
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.zagreb360.hr/",
+      "popularity": 0.6256038430379456,
+      "num_google_reviews": 2347,
+      "mood_params": [
+        0.0040441366859420335,
+        0.031552579123216795,
+        0.048837583768157555,
+        0.08944346233753697,
+        0.040412678384909285,
+        0.12019392447216225,
+        0.10720227310511772,
+        0.006646093498123519,
+        0.1069968863985472,
+        0.050663850826258454,
+        0.09815122931676688,
+        0.016232389608441464
+      ],
+      "top_cats": [
+        "food",
+        "nightlife",
+        "views",
+        "hospitality"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        -0.40358270069047036,
+        -0.7713802055732342,
+        -0.809259224266797,
+        -0.5404543070352681,
+        -0.40885110443783507,
+        -1.203277097923338,
+        -0.30095014420591104,
+        -1.4470008134128858,
+        -0.557646936976607,
+        -0.7582509743017227,
+        -0.3860720662912692,
+        1.014134211972842,
+        -0.42946383423555345,
+        -0.661342023897874,
+        -1.140163766391969,
+        0.34527504192085695,
+        0.3376734775937556,
+        -0.9111357475794913,
+        -0.3133030673319095,
+        -0.3013674303614364,
+        -0.5443169519573314,
+        0.7487749968802155,
+        -0.6535280655563301,
+        -0.19583294810565294,
+        -0.5481277977399336,
+        0.1360703813633365,
+        -0.1995622757435577,
+        0.4055764803770584,
+        -0.45782216242739765,
+        -0.58597251267823
+      ],
+      "global_mood_params": [
+        -0.4663407664363319,
+        -0.5684696717848255,
+        -0.2529071163083264,
+        -0.5638869095018784,
+        -0.3933851089663406,
+        -0.4217940803146546,
+        -0.11544152302915343,
+        -0.9149858221360295,
+        -0.19595998133284015,
+        0.269856120798836,
+        0.15079495417840114,
+        -0.6290265998914261
+      ]
+    },
+    {
+      "name": "Zoo Zagreb",
+      "orig_name": "Zoo Zagreb",
+      "place_id": "ChIJD5I4GMfXZUcRDQqSyISI1CY",
+      "cat_params": [
+        0.20452843697735154,
+        0.35207243550392286,
+        0.15451685559005368,
+        0.13415429451961766,
+        0.2446649964697569,
+        0.10469198759905225,
+        0.3650464913526514,
+        0.13761714624213797,
+        0.17323056854980912,
+        0.27756593024699744,
+        0.06662189171001513,
+        0.08574469082024681,
+        0.21825798635581714,
+        0.1395753056028133,
+        0.23111776072202536,
+        0.13268281200570564,
+        0.36385275324117333,
+        0.22945163293106602,
+        0.12589022321275797,
+        0.12944757794501588,
+        0.4514492527612883,
+        0.19420926410456094,
+        0.21207600146032768,
+        0.11418022090946763,
+        0.011914103222740672,
+        0.3025466483224079,
+        0.26745219413574345,
+        0.35815735970869633,
+        0.22182189789013082,
+        0.2595982798904329
+      ],
+      "noncat_params": [],
+      "quote": "This 17-acre zoo features many animals from around the globe, plus educational talks & feedings.",
+      "phone": "01 2302 198",
+      "int_phone": "+385 1 2302 198",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.8218443,
+        "lng": 16.0194796
+      },
+      "address": "Maksimirski perivoj, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 1025,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112978228495208134217\">Zoolo\u0161ki vrt Grada Zagreba</a>"
+          ],
+          "photo_reference": "CmRaAAAAGFG332k52uOe681XTcHzw93lRc-exsA7nlBgJ09Z0RtutZMMxKOeUTndKkuyGea6w_uS9uALwRBaMA1C_Mo1KGnYjmA6uq-LvHHo1mksZR4j13ulpgrogmPmvHmc1Us2EhBMs4cTKxIYtEJUFpNY0Z4WGhQTx2D9U7sQuOrJlOTwmVIJKuonZw",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101449677473601549740\">Dragan Medic</a>"
+          ],
+          "photo_reference": "CmRaAAAAo-vUYpyWO2-IgskMRXBrM73K7amOBVw6AXu-N3czDWyvxUeiGgEVmLdWP13RbnFP4k75s17Oa4ae7xBxD142x1mgTYyNTlu1ltPrNz4Crbf4TrKN8f5sRUUo4Gg4rAX9EhCy8goWAnx4U06pLSldwyXUGhQFgOJ6vJpxsujIokEtn2kYAbgiBQ",
+          "width": 4032
+        },
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117770997080240027960\">Filip Vukasovic</a>"
+          ],
+          "photo_reference": "CmRaAAAAVMziVjGwXLnQKgsD2W_t8H674NR0mZBG2OBONQko8UkLf-g_jXoj7uwTmgivl1YKtilW91pPk7tAuFQ4tezTqtd8uPagSe74bNCYlg-vM53-I7zwJJrTeW3avAN1uhfmEhChcAkQYY84Nvj1kLryC3P9GhRX0sYbzKphPy6yw53wkItx0BGEmA",
+          "width": 1200
+        },
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102110796144350872519\">noemie debray</a>"
+          ],
+          "photo_reference": "CmRaAAAA8w2YDGgJYOjpWWPdCezgrqaJs102fQyVIExBNeFcgjukAHv55IllRhXP2BmgvUaT2eYLyGoEoi0O6y4GNyXZdUIw2HOU0-YlxoSJ3Zy0aAa4lDPJIcPNbMQDoVaIJxsWEhD48UGq8UoaNUmYBrqGj6A_GhRMM9Q_yF7hlXyWPQuHkZSowMH82A",
+          "width": 1920
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109438526689737729632\">Ivana Janci</a>"
+          ],
+          "photo_reference": "CmRaAAAASYjIZ_gFYOSuFNuggn64yL55mexw-Prvxd68gFtpymzylJdVpJKXUAnhosVuKjMNPZciVF-eBCEfZluP6KOj-sarsOyv8olFROfI-7aHwGpnRtpkbaFOcfyEWMtTfduQEhD5w478os9Ysr8_IWi9oQeOGhSA9Wqa3xo__Qs88_fcB6_qaMgXcw",
+          "width": 3096
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107224930991000861076\">zdenko safarzik</a>"
+          ],
+          "photo_reference": "CmRaAAAAtn7mdRixEjLerCgde4k1x8CEnrUFbepEN8wz5TRNrfxSacz_aDJdo4PHF5Y-mclhMtcwAhOja9U8nzGbYY14DJcDflvXJuIiC4dNDBoITa8-sifoWNGnQcPuhYwHuO0_EhDwNWKXbmhRhhMacs8xHbFTGhSvRcX9lVp015LshB-6uDHIh5wkzg",
+          "width": 4032
+        },
+        {
+          "height": 1958,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113082549696340377267\">Marina Lisica</a>"
+          ],
+          "photo_reference": "CmRaAAAAwsQsCY6stMkDdb0uwyw56TysRxTBM-eCPVcJaT_xwW9dEorNOs-lGr-aS7PTdhbrOUvTxawE73vZlhLkusbbyeLZhWElt9TIe7eE8iEzR5EchH737RGEd5sr5eyZlXuNEhA9njYNvS6egQQiwaXlDuukGhRU270WjRqxLrr_adA_vksEDqIRHg",
+          "width": 3968
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102679836174488346038\">Marin \u017du\u017eul</a>"
+          ],
+          "photo_reference": "CmRaAAAAslNfMbcTzTtszHSd2XGTld0c5R73xs06aiVR-D3yIyGJIGLhnE8uv-Tv381FqT9vGqwdt2Gq9kFRmoRdSe1gf4O-5cVUjkTFXtYRm_-hHinWjSGUAKlgnQJJXm_UnlI8EhAB7Qf-TQZ8sB_jskYGZwQAGhSVRgYkUvgqJE62Oc5PjI5v5pKa6g",
+          "width": 4032
+        },
+        {
+          "height": 2931,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113070704557075928717\">Hemendra Zaveri</a>"
+          ],
+          "photo_reference": "CmRaAAAAlehpm5uh4Oeh0Ij7rLXIjxVn4KPfZLVD3iYzLhHI-0cRy2vPdljkzRxtcw_01AO7t3nSVs0TSAKhr9VKKXNG1cYIqDLJ4yxaLen5HpLbTG5TOpO9i-cTP9s8qytm2tcqEhDZuzH1qoo9V2lRhhiTqeEYGhRTX4aekpcbc3_d05-TsnUxrHc-5Q",
+          "width": 3911
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100074208548172441060\">Ivica tunanovi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAg6NxXVNnA3gAB6nXw27NTgCZOnzAqOHr_fyDYcDLNmGQuBUSe9lg4-7i8pq2JISOGkmk1J8U--fjk_seqlc4w5aBdfgEZulRMQcJH2_Dm3UabTnuGuwdJDcwAxbFbKKBEhBnF0Gwn95UzWy6H0l3jw_QGhQj1j57oMIOyIUA_Z8gHHbvyjc2ag",
+          "width": 3648
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://zoo.hr/",
+      "popularity": 1.0,
+      "num_google_reviews": 15322,
+      "mood_params": [
+        0.006406983705715147,
+        0.03434793154336957,
+        0.033479116228288024,
+        0.08401708547555709,
+        0.030893624481820568,
+        0.11221902018580705,
+        0.1005935810010354,
+        0.015291957725609071,
+        0.09390943336499226,
+        0.03844375898132931,
+        0.08164296005137334,
+        0.019475653360429605
+      ],
+      "top_cats": [
+        "animals",
+        "amusement",
+        "movies",
+        "sport"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        0.5255115977690891,
+        2.8674333470361737,
+        -0.6888642288015295,
+        -0.694030710494742,
+        -0.37130468617965773,
+        -0.5394550953696597,
+        -0.3537614599699134,
+        -0.8165245079249521,
+        -0.4941105778194314,
+        -0.4656018097216678,
+        -0.4057492055007389,
+        -0.5237986284732099,
+        -0.3810699497082614,
+        -0.48612000961081175,
+        -0.6417646407556908,
+        -0.441490600047149,
+        -0.5713197667236353,
+        -0.6743268433106072,
+        -0.509365648630689,
+        -0.12363862591195741,
+        -0.42004430369161083,
+        -0.5965503637856335,
+        -0.5069897127279609,
+        -0.5040530993075599,
+        -0.4503805175025822,
+        -0.3856987351925048,
+        -0.2130088946031565,
+        -0.4045700447649816,
+        -0.4671205939589572,
+        -0.4822407847696288
+      ],
+      "global_mood_params": [
+        -0.3073640040265741,
+        -0.4847236636734722,
+        -0.5294306014007784,
+        -0.6475424108476361,
+        -0.6023021188963839,
+        -0.522078637278191,
+        -0.24050839689605136,
+        -0.5702256710305333,
+        -0.36908977190750475,
+        -0.20505546513286366,
+        -0.23120974512227271,
+        -0.430756568317375
+      ]
+    },
+    {
+      "name": "St. Mark's Church",
+      "orig_name": "St. Mark's Church",
+      "place_id": "ChIJpe7-NB3XZUcRhluyxHW0U9o",
+      "cat_params": [
+        0.08733795316694032,
+        0.051262360470924924,
+        0.21709771661269958,
+        0.24934473136249843,
+        0.2567154073878993,
+        0.07658246636367697,
+        0.29151420659501254,
+        0.14689233512637448,
+        0.1686471849466301,
+        0.22562642433249902,
+        0.08207726263203219,
+        0.05299836495376624,
+        0.1885087758085772,
+        0.18826517685625105,
+        0.23047933180522828,
+        0.14917295048504892,
+        0.5018577624368322,
+        0.26785572473610836,
+        0.11473516183996506,
+        0.12096963946886977,
+        0.48133055415781284,
+        0.1946627244900836,
+        0.23624346418566644,
+        0.3714171790069719,
+        0.008833278562813638,
+        0.3351488710790351,
+        0.19782777113674083,
+        0.3736856663003267,
+        0.2748854743797373,
+        0.2592252124983519
+      ],
+      "noncat_params": [],
+      "quote": "Monumental, medieval-style, Catholic church constructed in the 13th century.",
+      "phone": "01 4851 611",
+      "int_phone": "+385 1 4851 611",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.816398,
+        "lng": 15.9736343
+      },
+      "address": "Trg Sv. Marka 5, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110456017225507063168\">Chou Simon</a>"
+          ],
+          "photo_reference": "CmRZAAAA8DPkmgS7bZ9zWtH7YRlKYcO61TtC29PHoOcVp7-KTaVnq0M6qLTtF6xn6pNjywEB5_Sup463zZ3VZJyFuRdYIYPM50t7R8m20Gd-z9rNQBcHqO9c0yZGBWP9XCoWo5beEhDN5Xm2HofjqQe3N5Zmi3ZNGhRU_KYAjYyDqBAckI926rVH4Rg2_Q",
+          "width": 4928
+        },
+        {
+          "height": 4685,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117745729632848874821\">Kristof Zerbe</a>"
+          ],
+          "photo_reference": "CmRaAAAAuY1WJIu-d8ih9_B8mqZnIVTLtQlp236VXvFNE3eir20STvainWAVEyyTqktq5c0gTx9KjV-0EzcDeg2qqDXm4aQSftgnSD2KzEUZ97VlMRf4AR1lnEuYikLL34CPLMlWEhDL7qF5dPcrt7mDGpr-y7zeGhRMZUVku0BBvzBQ6EDvCed1qsJB5g",
+          "width": 3020
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110226908003353566684\">Bal\u00e1zs L\u00e1szl\u00f3</a>"
+          ],
+          "photo_reference": "CmRaAAAA1CBiYU7QI1V7UljrKP_FXrAnh93wdLpI2WJSbRRAi6wYK9C2zer4rEYdP5Hu2Llrz6ITrDmiAIJMSRFJkD5n53lPEGDidVmEwyjrqKfS05own6ie9vKWedrL-9w5YHkvEhDdF3MGvATKMOg9Y4pdXZAcGhQBsWhInPq4Xdj0mZGdDXbeg90QIw",
+          "width": 4608
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110930684840723072804\">Aya Okamoto</a>"
+          ],
+          "photo_reference": "CmRaAAAA6cEljm7D5I2MB7403hfUYadSsVdIFFwFlGfXm632m7jBLCQXEpiIbgfyf4VI0LGWY4Y9RdYgQxdpc2S1b1gPtoJNc31EYG3eLSe2qgBr0M-HFO2jP7CJ_cbbnG1b2UKqEhCaASuc1625cw0rdDFUNmRZGhQ9KA32aqjIJyx414GZDPsmSJ3S3Q",
+          "width": 5504
+        },
+        {
+          "height": 4557,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117745729632848874821\">Kristof Zerbe</a>"
+          ],
+          "photo_reference": "CmRaAAAAp1MU6QyS__55INd4Tb800oi_mNmpTEDvwTJD1oXWQEgbBo2_YAIOZPnM_Q9HHifSDUxcr0wp2Z-KioojHDgD4FJyryRYQ5fGj14qybvETL8ijoMhtU1IO0zU1khSgb4AEhBG72lyb3-eE3j_ypWggXbQGhRGjsHYWJ88SamY7oDLuczMB5DpIw",
+          "width": 2852
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110914183623509613336\">radoslav irgl</a>"
+          ],
+          "photo_reference": "CmRaAAAA4pBzeIZhox0ay2nWbmbdbtlZa-hnc9VGJbcD59HOZPWM-AriB8qDIj1ziSeT19HcAs1y3u-9CA46hlvABwMdkqjcRwjwEehiTZZxzGibmUCk21u4_sZaZLUIhnslCKGDEhAcMVD3H_UYDoZ1Ny4v8DLEGhR_f6uRV4No9vzOQGzBaAuddw142Q",
+          "width": 3264
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111944330037594797766\">Daigen Kou</a>"
+          ],
+          "photo_reference": "CmRaAAAAmfQIwiAGOEjs0BmAK26ImDqaf7a6AXxC3cKPvsvPBrCDBLTT0NqZeJUZCuEomdXrFYFLIPbGzpoFWU7Dmjhb48UUjy4cyPNYm6CDDaFfZJvjStQW4M667ELjr-XHfNS5EhD7gz8aytL6i39s_QJcnbwRGhTqyfRQhGdbSXk1nGc4ybwjDGsdng",
+          "width": 4608
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102305671217789061025\">Romana Mikuli\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAHHate_uCcHswxB4fCBGGfpDnbVvtON4Sjleldek3fxBVxTfnZBFdYchVrP8OrY2ngnlHC1zTd2Dqex1JIplJhNlMcPggINVXs_GkYT4PN4vCunH4duvnU-nQmCI32j7hEhDB6WFdL4Z1QPMbYBS1Pmt5GhRuP6Eu6QWRrjj1XT96yEVcIcygTQ",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107496241861484087474\">\uae40\u4f73\u4eba</a>"
+          ],
+          "photo_reference": "CmRaAAAAnblyOvPuhsHH9kJBIWSVf73b9kj_nvjdYeLjruykxs8Hv5Uoq-tHZS5fMHvUToohMVZUZGEtO8euthdWo24wMlRR4CDGxao-fiYF1ELQkJmx2IH6eYQe29X3JoK6qla3EhDpLVWNbAXjjhnlAooAkhGyGhR812BS2VK0-YXbULzrvz-WOkdEsg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103883733707048287295\">Johann Pelzl</a>"
+          ],
+          "photo_reference": "CmRaAAAAV1G7MdVX-9TZ7pBdXMx_rLhgT8ORTmPwUqOZUIqN0fWpKAP7xrviKka6dzri3i3_noD_ZErJv6aQ3XN4tc1cufuJq-S58JNc4Ak0A9c23xlBpwbPT6iuRGjFBh2TPIYGEhDjkjlC0X67nCsxGUCmATk8GhRmP7DETGhAog2QrMjTahlH-A1WGw",
+          "width": 3024
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.zg-nadbiskupija.hr/nadbiskupija/zupe?zupeid=169",
+      "popularity": 0.6754368724527122,
+      "num_google_reviews": 3189,
+      "mood_params": [
+        0.0033263225326769716,
+        0.03212104075227767,
+        0.09362069868585002,
+        0.1764941151039349,
+        0.10670686515221514,
+        0.15533108435746404,
+        0.10103584720704457,
+        0.01612146020308263,
+        0.1734226061945697,
+        0.03879862944563067,
+        0.06811715070450579,
+        0.020330554449520345
+      ],
+      "top_cats": [
+        "religion",
+        "instagram",
+        "art",
+        "architecture"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        -0.8964108796412282,
+        -0.7292674920738934,
+        -0.0741080963558692,
+        0.1291455919349873,
+        -0.29697359213160246,
+        -0.9144549171914972,
+        -1.1362798866204773,
+        -0.7135160302862515,
+        -0.5619401970219676,
+        -1.0178558229187178,
+        -0.08788656682396626,
+        -0.8347966560314244,
+        -0.7025455940227661,
+        -0.1283454646648224,
+        -0.6487069236587134,
+        -0.24835995815860185,
+        0.17750123017227448,
+        -0.2726345926960389,
+        -0.6517553333684276,
+        -0.2925689710106273,
+        -0.27431295147568596,
+        -0.5921203888297587,
+        -0.23450574724965026,
+        1.8955646605906273,
+        -0.539084605236432,
+        -0.14387407950043998,
+        -0.8653837516378707,
+        -0.303692132833897,
+        -0.1468060917398265,
+        -0.4848060459390775
+      ],
+      "global_mood_params": [
+        -0.514636643885452,
+        -0.5514391206975594,
+        0.5533961804359069,
+        0.7781256681117332,
+        1.0615896622843377,
+        0.02005630252735608,
+        -0.23213868456395867,
+        -0.5371486538635245,
+        0.6827649262233645,
+        -0.19126407165233,
+        -0.544199716952927,
+        -0.3784940084738204
+      ]
+    },
+    {
+      "name": "Lotr\u0161\u010dak Tower",
+      "orig_name": "Lotr\u0161\u010dak Tower",
+      "place_id": "ChIJO9f2UP3WZUcR36vSGxppSsE",
+      "cat_params": [
+        0.11916753801726387,
+        0.03810724256023014,
+        0.23130365788553872,
+        0.1785410773843486,
+        0.25915222326875237,
+        0.07152230979701711,
+        0.35921796598061945,
+        0.12649434648526767,
+        0.17722133187230663,
+        0.23660776043352372,
+        0.05176902902888052,
+        0.06339510899492602,
+        0.15664942235282975,
+        0.19233557712740862,
+        0.23542607736438786,
+        0.1380145117704477,
+        0.5028941827074067,
+        0.30572034284975064,
+        0.12266255761835895,
+        0.10213369733280318,
+        0.4610717369373567,
+        0.254851089393415,
+        0.23050305215000014,
+        0.16588284461933167,
+        0.015085048979592588,
+        0.3687939109681781,
+        0.24170980264446965,
+        0.5350053746950784,
+        0.22588694049371905,
+        0.2738490819179292
+      ],
+      "noncat_params": [],
+      "quote": "Large tower with daily cannon blasts & an observation area providing panoramic city views.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8146243,
+        "lng": 15.9732754
+      },
+      "address": "Tomi\u0107eva ul. 9, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 675,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113398322650293547536\">Marijan Podvorec</a>"
+          ],
+          "photo_reference": "CmRaAAAA9Pg5GDcHV4bos4IPD1jb7Ht0rKZOMt_XOWpPnQIL7v1G3xEOn3qr3wjyiUpEd0LmtnoxejjcV2Q4qg4R1uth2aOyRK3T9QzMATCTX9fmHhZJidhOdxUq7SAjHOqihuChEhDyVCLDpVtr-4ds8z_9JoS8GhSRAckmDhpk1LS-_9irLnXbza80_g",
+          "width": 1200
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100968325816579326681\">Sime Simicevic</a>"
+          ],
+          "photo_reference": "CmRaAAAA7RHYBoVNKZoLRfH-WdmAl9qk0uLPnjkGOHnz92QMPkvBrYn0DPIq36ydc6LGPWYvGfJr-OhJfAeF1EWESj6iR76Rnj7B92X9O6UXIVQIPJ3YA9WO1oftF3NaHuhUcpkPEhB6vMhduQKMMIFQV6L6F_eMGhQ-13aGQBfR6YfUQXt3Z71JdRhCJw",
+          "width": 3096
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116353224096885115003\">Pacurar Cristian</a>"
+          ],
+          "photo_reference": "CmRaAAAARNwOaHyu37qnGuGudGYEgPdFQXMMYr36Qkv6GQUEInnz7Tp3BwQssNTxqdI_571KgErcqxTvEbOGv4GZGVf4tfEbKh6ARKHOT0K8i8H3BbOgr6h7BrN16sKmIj1VBMAmEhCG8H_gYNNupA7PgFRiCuXyGhS8lzNGL2EHqQVm2v0JdcuvKHs7eA",
+          "width": 5120
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106324741820433275993\">Olga Kurygina</a>"
+          ],
+          "photo_reference": "CmRaAAAAAIbbIUuGIHqXEndUoKyFra4Y1XpAVmNGSXc5eqPKPkB9wniKFxUNE6x2q_AE1VOJ1-yphyS1gJ4NvIxxgylfQtWtdEb6Ij-oPkISuWKdPh9b6ZP2dGTaG3bIvtR7x7wSEhCwaXnnqeD3pipNin2ti2qNGhS2PSQSGvrc1dHIJ_7GKywKJp7TRQ",
+          "width": 4000
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106591816355562711567\">Horacio Verna</a>"
+          ],
+          "photo_reference": "CmRaAAAAOu5Ir7M-fyApyPdk7HY0nlACeonzQkkUJX_rh2Q9y8zYvTql6W1kqXiNTaXT7TvsgY9RRga1rquwzQJwYaZLRwJUqtOLfo0h27yb7GBzt3AHokcc5FjQBAj0vHDyZ-puEhDFeDDGUc4daElfDiaEfle9GhRadrR7qtY6mco7-zsf1QO_kD6ouQ",
+          "width": 4912
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112348839847081342886\">Robi \u0160trangar</a>"
+          ],
+          "photo_reference": "CmRaAAAAJbI5HvzvKI1liJAgbumVHQgYgY9AHMojKdMrQBHn3eTKJnXadb-kjDt1MZ8UuQjjwYB64Kb-Y-Dl8IwaqBWsV6S8poKWbI4Cr-2-9n6ZA4e7tP08UEZ7pgkJVwUFi6FaEhDLkOYDxiDIHknTfereLbWFGhQJTiIPKU7MXyt-eXmk7HOgTpMXdA",
+          "width": 4032
+        },
+        {
+          "height": 4096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100494696482329478001\">Adriana Nina</a>"
+          ],
+          "photo_reference": "CmRaAAAAWgB0sp5tmUDgazTLJzfdcqP6rrCY1okUWiMl1YJy5UsHvtkavWyHH7fxm3JqKsI3rSWEQbOkjeFO4gN34tmmTvQQ1ZVj5f5GytuQLipCPHR_0tdr-twu4FvxYyYa298rEhD_Myjo36kBNGOIH5E_u_kIGhQRB9FjfMGBSCSPZbke8sTpJFHd8g",
+          "width": 3072
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104557053950568687953\">Jadranka K.</a>"
+          ],
+          "photo_reference": "CmRaAAAAknQ5PiS6b2YmmmlnVsLvUaysu07TLAtILXNjoGndU9EDTvI5BGf_5cByYIsU4oe1NukCY2dWVe5dyh6pyql_rMrKBLQg08prBlVep8NdEWSJfvLA9kIXPfXUtT8U5lCUEhB9TKQX0v6J8UuTsRz1wwHpGhSuxjO2wrSUgkjSzQ0FB2uSXyBi5Q",
+          "width": 2988
+        },
+        {
+          "height": 3376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105160707074939639641\">Rumiana Dimitrova</a>"
+          ],
+          "photo_reference": "CmRaAAAAMtSQCZ0a0COkusq4obWNXMFLEc9gtrDsT7mRlS2Q4k52_HeTVHiaWO7UOoQyTP-pQQbRG1eLiGm1jNcXlgK7gD0ddCaBcMZARDqXvJxG87D5VHKp5jlb3IeXLFLVz3VaEhAX5mfgP_wjfd0M86PFU6zpGhRG-FJ0EEHt0gUQiGv6cleYdqygdA",
+          "width": 5984
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108144318158033706332\">Alexandre Chaym</a>"
+          ],
+          "photo_reference": "CmRaAAAAuB1-yppQhYUjbvd2VDox5GMo5e8-lbA8FJF_X2Yum9N6yUNAt0igMNMYILEBA8wtqxThldtwNafx508stjnUudUW-hVCca2U7wkmI8ZwjfEK4XUolLoCGYQvMdXmAT15EhCXHDfJ-AaM-t3oUELVkn7LGhRu0HLqKbpyaaWfr01bi6J7RQ73ug",
+          "width": 4608
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://gkd.hr/kula-lotrscak/",
+      "popularity": 0.6178646040599827,
+      "num_google_reviews": 2233,
+      "mood_params": [
+        0.0047701007278093226,
+        0.03840216066750559,
+        0.0504398273085776,
+        0.1098971886647281,
+        0.05520099534758351,
+        0.1251641642955548,
+        0.09596145780043416,
+        0.021333815078160772,
+        0.11062436989268687,
+        0.03973525677917033,
+        0.07552819594311123,
+        0.013254135816028103
+      ],
+      "top_cats": [
+        "views",
+        "instagram",
+        "military",
+        "shopping"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.5102088547521294,
+        -0.8865595097125895,
+        0.06544238875938872,
+        -0.37683295695919156,
+        -0.28194247064969635,
+        -0.9819607916245346,
+        -0.4157876640902949,
+        -0.940052199310574,
+        -0.43505116234639446,
+        -0.9010952410595113,
+        -0.7112203680856263,
+        -0.7360568186825872,
+        -1.0468238451503469,
+        -0.09843604886084016,
+        -0.594915959281278,
+        -0.37904633378391867,
+        0.1831248902461954,
+        0.12341496748996972,
+        -0.5505654476337002,
+        -0.6678916056649372,
+        -0.3731153693709025,
+        -0.0041242646490461015,
+        -0.29922790086314466,
+        -0.02174863184260063,
+        -0.35908163435817997,
+        0.10568559769316174,
+        -0.45421288948713506,
+        0.7443033610833444,
+        -0.44258225364706816,
+        -0.38425036842495325
+      ],
+      "global_mood_params": [
+        -0.4174965492541947,
+        -0.36326294814171683,
+        -0.22405931840051613,
+        -0.2485629329681528,
+        -0.06882229072899909,
+        -0.3592932300481179,
+        -0.32816948912754823,
+        -0.3293021960583423,
+        -0.14797314569390724,
+        -0.15486375829602098,
+        -0.372706626892182,
+        -0.8110958112207096
+      ]
+    },
+    {
+      "name": "Nikola Tesla Technical Museum",
+      "orig_name": "Nikola Tesla Technical Museum",
+      "place_id": "ChIJW6_1Se7WZUcRZfD8Y5T8YkY",
+      "cat_params": [
+        0.11552290737739779,
+        0.07028815548965034,
+        0.22459192072339285,
+        0.29769904093551375,
+        0.14260144438739045,
+        0.16786918581415866,
+        0.33313834521120705,
+        0.2547316826016833,
+        0.17483032730951978,
+        0.2824227522151988,
+        0.0964117637597014,
+        0.06540036369915592,
+        0.20391816684757907,
+        0.09201363595745146,
+        0.3065672159345271,
+        0.1581313758334332,
+        0.4941107273469975,
+        0.3008564247286752,
+        0.14479632810230741,
+        0.1426042832616829,
+        0.36460480088349084,
+        0.1839590140646247,
+        0.3261115217455543,
+        0.08943956687864014,
+        0.07697297467374402,
+        0.2806147644558393,
+        0.2301513392774511,
+        0.3833187891055145,
+        0.17209965088127788,
+        0.15937724344464663
+      ],
+      "noncat_params": [],
+      "quote": "This science museum founded in 1954 houses historic equipment & an interactive Nikola Tesla exhibit.",
+      "phone": "01 4844 050",
+      "int_phone": "+385 1 4844 050",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8041766,
+        "lng": 15.963988
+      },
+      "address": "Savska cesta 18, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102078081658538024387\">J\u00e1nos Heisler</a>"
+          ],
+          "photo_reference": "CmRaAAAAaeKSfv5SUwyC3ypA9RTRZTUB6r9MOdzD6aJl_0O3JDOP6mVsyS4pF0ts44jJ7zbfLrHezEIv9dTGuFpCLEwguTsyljcDJKH1YGeFOKCVsK0luTkqelEEX_AftZ85v4DTEhBHgKFZ6uxejj8S8tt47jy4GhS1cCHvICVk8Odeb9NREpJ6smRgrA",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115227106099098289183\">Milan Stani\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAcPypcGO93qtek8WxWPYcRUfnvSeFStb8W77oF1hh-Yqvp0MY6je0TXRwAuzWAAz6RZSGy8qoFdkKEXqPmVmtiWJ-bXtbaDIUyaZI3_0WdA2tRyNJFwcvYjsRx7VWl8zaEhCJuaUxji2Bk6hqAUjjTQPxGhQ5J8TOUfhFX-jJ7X2nQqAxQYMycw",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109684228384946890808\">Milka Sa\u0107er</a>"
+          ],
+          "photo_reference": "CmRaAAAAelCcw_4T9nVB9WzeutYHJhZw1rB4Y3ChRc6kZdUQEa22sitw39jQE2JTYe3s64ZWh_xR6kL5wexU8jau7bV3n-Qb6zvDyYq4oWOPJU6FbTnboHy4ZIttLFDp-1Hnrb4uEhB5r8X3aud_ug4nU37lLuqdGhSHSamLt3MBcT7590-u-oU2lsWG-w",
+          "width": 4160
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114048278103188165223\">Marino Kokot</a>"
+          ],
+          "photo_reference": "CmRaAAAAFpibLXO1xt_RF0Yo4BkRURDfdSQhw9CcDsxHmjDCSIxdKqBRKMa8-Z2xFefyBVEEyoI-joRZ9uGc_OHu4hQlAIxd5wSpx0DTVIR-x4-VyS7eko52fMIr2L56KMM_XT7hEhBEsqdQ1UxR2_B9vmCv7SndGhQL4hUsRG5L_9CPhX8G2Gw-uOWKWQ",
+          "width": 4160
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105274752517047344623\">capucine loire</a>"
+          ],
+          "photo_reference": "CmRaAAAAh6B2UMaZ238uqcffJJh0WPUrwZu4cyAHyxYC2sTzD5XSNgUO1SIlvt0Sk8I8O4GevoRSwKxKqu4q1EKlI5A71V_sZna3QQd4ZZPjRLH-pguG8lqeAdmOxfakF-hhVMoWEhBNPMr7KJslDOrR5Y8Kj_ZwGhTD5oV-mSUMo44QxkooQ3jxgh9H9w",
+          "width": 4000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115601006293797181086\">Roberto De La Parra</a>"
+          ],
+          "photo_reference": "CmRaAAAAatW6vUgySUSTYXYnDpBHiWVhyovjalWl7L1lqanh9pTM5FndQNNDXRp6_HTVSQXg2syWPDiHvJbw4u2qhGSseRfMvWgqHyIBAFpFRkvb_q9d_R8tIKbvrPpWp4DapHZtEhDEN1Zd-lTwYJEgg5eYFvQyGhRSKTz9u7gp1-TMH9jLsrC8Adshng",
+          "width": 3024
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104540492673374853131\">Massimo Betella</a>"
+          ],
+          "photo_reference": "CmRaAAAArYV6UqZ6fD57x3pSbNNPT66m1Q2ZVS8lE_lNsSEZs4fzfTvpBuY5wK_8-G5FdnpGNiybXMXoo6DSRCQxx09m5g7egPTsmuzF8HRNvRknGfW5zY8nS85flGkvs2ALljKjEhDv2ARXTYSdC0NvoXG7QaSvGhT489P7vjoeRL4Zb4Onrnx7DVcRCw",
+          "width": 3648
+        },
+        {
+          "height": 1588,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110606152699384453698\">Nicoletta Poli</a>"
+          ],
+          "photo_reference": "CmRaAAAAVC0OsfA2B0MayeuWEWQxz8AAgsnTSHxTBtRiVTl_wyf_IgX1IAFS9kns3piiTIM49WX5DDvgjbcwmiYFb1NEZL2hQdy0Yc08UrrYZOJz79ZTyhy-5FE3iiU6-YgMGLS7EhAQRkyskGWzDNgJxSCxG3W0GhR8wuqKKquP3LjR0Jh0HC8jUFoS3w",
+          "width": 1588
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115601006293797181086\">Roberto De La Parra</a>"
+          ],
+          "photo_reference": "CmRaAAAAIpyLzJhlLbwKKlpdPDXTTbMfWbsY68K-N1MBsL03KpSopQ5r5E1Fx-MrSqh0aOU1nT1l6KdDyELpFLh3Cozh6ekCz3Kd_jsjnhYkm55qOcLUImNrYkx4Toxu_Erttr64EhAEGRBX_-4eC41iPQCrqrXCGhSc3eis46ivtkIOB0QZTvxymU-OjQ",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105604703133731260935\">Maria Luisa Gonzalez Delgado</a>"
+          ],
+          "photo_reference": "CmRaAAAAYoNmxNxvXO5fTs-ViapDMwjiSPzs9mrZijQSm4CBd_WXzfBfT6O7Q0aPPgnpNEuRcrEbLTxAEvw93fCnKRZWvjkWqbnQhjRAt7mmgkJkDrcfvssLQnfveMvwoR9pa3m6EhBBKpN1mOxJ-WQx1swOFO2EGhQ1yov4oHv-3z3D4k2PFTYHyeRf2A",
+          "width": 4608
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://tehnicki-muzej.hr/",
+      "popularity": 0.6734691208049531,
+      "num_google_reviews": 3152,
+      "mood_params": [
+        0.009755734652769675,
+        0.08448914647815864,
+        0.018078458796400076,
+        0.18402041537638486,
+        0.029592812564598826,
+        0.19495881253682862,
+        0.14390719846930736,
+        0.07264442271386969,
+        0.08735009119949766,
+        0.06606304330633775,
+        0.13861683629847837,
+        0.025671209658501355
+      ],
+      "top_cats": [
+        "science",
+        "original",
+        "culture",
+        "art"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.554430723799687,
+        -0.5017814515844607,
+        -0.0004896152489856717,
+        0.47469616758867506,
+        -1.0008679052472493,
+        0.30337100171991266,
+        -0.6933226798916896,
+        0.48412718233461915,
+        -0.47043570421473613,
+        -0.41396097532986265,
+        0.2069237211688798,
+        -0.7170125368810163,
+        -0.5360287748657993,
+        -0.8356044973735386,
+        0.17867354614836714,
+        -0.143439890931065,
+        0.1354654912322991,
+        0.07254022667385564,
+        -0.2680371408909281,
+        0.13852024393117388,
+        -0.8435854084332614,
+        -0.6966877791323679,
+        0.7787410702607745,
+        -0.734844635807409,
+        1.4228152914376557,
+        -0.548376915275585,
+        -0.5625146974131803,
+        -0.24111162489320284,
+        -0.7672653986156307,
+        -1.1713740047013104
+      ],
+      "global_mood_params": [
+        -0.08205378325296726,
+        1.0174578009493183,
+        -0.8067136997779752,
+        0.8941545467880275,
+        -0.6308513569818152,
+        0.5183756580008124,
+        0.5791846145664107,
+        1.7167457612488142,
+        -0.45586124168913733,
+        0.8683176557517565,
+        1.0871773076860956,
+        -0.052004410992987395
+      ]
+    },
+    {
+      "name": "Muzej iluzija",
+      "orig_name": "Muzej iluzija",
+      "place_id": "ChIJhf8nxuPWZUcR7LRMTaT6BNM",
+      "cat_params": [
+        0.19729903535016527,
+        0.13465736231153638,
+        0.13296521883574888,
+        0.18898543368496165,
+        0.15933984315272162,
+        0.07189642728271697,
+        0.37283314000805995,
+        0.20882970006792775,
+        0.10628077426787948,
+        0.370685365324719,
+        0.18890745588213223,
+        0.1333388802223424,
+        0.37557997732763154,
+        0.07262785475114085,
+        0.27288885970992377,
+        0.17601153976761497,
+        0.7044511552110603,
+        0.23239339285582747,
+        0.10991623916824132,
+        0.18093685422945213,
+        0.43493197376871906,
+        0.29581997683141764,
+        0.31377347279625756,
+        0.11883680672704788,
+        0.010792596718430244,
+        0.3737320503742028,
+        0.2746962827266205,
+        0.45200439575772017,
+        0.29420195722104614,
+        0.17499288874629662
+      ],
+      "noncat_params": [],
+      "quote": "Attraction featuring various optical illusion exhibits & a \"smart playroom\" with games & puzzles.",
+      "phone": "01 7999 609",
+      "int_phone": "+385 1 7999 609",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8130207,
+        "lng": 15.9664482
+      },
+      "address": "Ilica 72, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 2362,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109351073759798444461\">Hidaeta Ribi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAy1MdNHbA24QP6fAm4fQzTGYiXoohA8Xuz32DH7jiFAOGPP6Kyz-dgrlqrCixD6lxxm9fCf011eCsut4j7-te3ENg0H2rMhvE9ngFNup0piUPzhDhpIxpWq7NxQSkmhX8EhCOk6Imnd9SxH3OG6Ro2gblGhSnJCWlw7qtYXpWq28uc7QKlKOgeg",
+          "width": 3836
+        },
+        {
+          "height": 5106,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116325748496170053020\">Muzej iluzija</a>"
+          ],
+          "photo_reference": "CmRaAAAA6SACgmUfcMvThDom5M4x8BzNN__Pdczj2ejjSOGR466hiussjztBQQg-OFMHeMQP_MLP53JJWxPCDMzgZfI3Dcvm0fHnryk4zkaTPvdJWwYfPZ2KvBExdbWeyGhCPjlREhC3vHI4QQ0bfKUrrIOOPHEKGhT3AOP-u08QgyV8p_ySgog1tVwJYg",
+          "width": 3409
+        },
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116340566509591334814\">Aco Kelemen</a>"
+          ],
+          "photo_reference": "CmRaAAAAV1ZlN8ZpgCkKGB9tD1FotNzoR6cA_gOb95gllSU4Y6xRkg-RlKp2NjxZYWHOFwczATR1XTm3aan31RDwZRBCdrPEbxEl7e2ZhOrIzb1r44fAjMSSeBbQWsEgugFKUHqSEhAoaqBK4dM5CAPiWVbtbNjWGhQyOBIxxeCGWh6flVks3LV5YoPKBA",
+          "width": 4224
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109996206808200814077\">Sa\u0161a Peru\u0161inovi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAA4QSEAL38atFFFNQVv-U7zD94OjLvhIq2638MrJAlTNS0Cofu4jh9kGLj3vf6bl5UB9qAJJYK1Rdvt54jVhpqakE7z_4ZNa0IT1HKZDSqOcsOXWLK86I4MIeMlG98ErkGEhCsCzAyxI9l-Gxx6irW8EJnGhRSXD8RED4uqLYXIzNoCkqpU9qvwQ",
+          "width": 2976
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114385761939128111062\">Markus Kruger</a>"
+          ],
+          "photo_reference": "CmRaAAAABhy_wxkAjgHQNB_GB8OIIXB4tLZerD8uEWBGh2Ak_MjP-k_wJHXwKR8gDnDrq_kJyTd57kkCl2F8uOWkgxmJ5XatrBMsRQt4MtGl6P_ECvlboLB_bTqclQvnqHKiWXxIEhCLcL2dlszgWdl66j_Nvsd6GhSGSvDYuHQpfFryD_9oHN1jzza9yA",
+          "width": 2736
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101542482805238463526\">Diana Njuguna</a>"
+          ],
+          "photo_reference": "CmRaAAAA23C7ncVLscLWYkX277Jfr-K9USYnf-Az6hJwUWKSdG9hzT9GB_PPJjEQenmAEl3YJa9uwEDfq0LlsmeqJF2NLcH68VLzv0e-Erhlfc_aWBU9kcOTJvKhZI8SFu9zG5O5EhBC93pIuizGxScwCM_K8dE4GhQ3YEyrmNjd2pkZ5tOzmDVFo36Z_A",
+          "width": 3024
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103412367983333883715\">Liz Wisely</a>"
+          ],
+          "photo_reference": "CmRaAAAAWfkyBtgDZw0ogEb0LyrlyRykfLd8VuetdqRa_IMMwgiKsB9OOdgD-XqHplCcH4toDibIkTTbODVXKGZIxrRhEFzrv6GdHnQLAIsyqjlz60OEUzmqntxosn5ho-hY0VTsEhD_kpOFCifbiGdezMNdHsSYGhR7w14LUMFr5_ruJ9DvZ7nyjdCWeQ",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117363121678514931877\">Anto Abramusic</a>"
+          ],
+          "photo_reference": "CmRaAAAA4bi0YKlFkFdG56hkOcDEvNFXY1zZG6729ZffXGkykRO8_4x2wyAyVp8ozkq3ZIlN8HhZALgnxnGF1PqkY7xgYTzd-Yhflqnu4X9WAkG-ODdi9pF00eCaAS4VC2t4zZDDEhDlScmjTW2Y-evkkndg59PxGhQTET5pSj9SP8BC4cmJTAS-p4K_RA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117197216285830186704\">\u017dELJKO MIHOKOVI\u0106</a>"
+          ],
+          "photo_reference": "CmRaAAAAmpnTeI9U-GfjAQPbEPbliteH3k4s8lUjZFMafYtfsNM_fP-6jo3up-zGvX-GAF4cB5AuO_V8oAjLOy5VcM-e05VAcdC7mJwHqyvj5b8G0L4zxVHvmPZu1Iu51a-poTj2EhB2Jpu7MVi4zw2pEi5si4l0GhSITBftw4VL_z9qfeTw9vA_8am4Uw",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105884114109860425633\">Denis Breber</a>"
+          ],
+          "photo_reference": "CmRaAAAAEp2mezrJBhUuxT8KsNUzVm-Kz5rfrxs9gFMoEhYGyeqtUXAfWddVJQzzEmHViBh_Bui4eQnfyNB9Pu4B95GrscFDyRrNkb6v8t9Fw44wbOpNLhoF5HqWtucHu-eCEF7eEhBlt41ah4beUKpr3VlQNe1CGhTEEfYkgFO0Ea9zbBQv4-v1gudJBw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://muzejiluzija.com/",
+      "popularity": 0.7493425516932544,
+      "num_google_reviews": 4831,
+      "mood_params": [
+        0.08814057623287654,
+        0.2124060551277635,
+        0.01650511677730572,
+        0.3014776443809277,
+        0.020051783258971997,
+        0.30365113423349366,
+        0.15194640187523806,
+        0.14205434634412328,
+        0.21159786924498922,
+        0.08141074342854818,
+        0.18182878083785886,
+        0.022404808920421734
+      ],
+      "top_cats": [
+        "fashion",
+        "friends",
+        "instagram",
+        "movies"
+      ],
+      "duration": 1.5,
+      "global_cat_params": [
+        0.4377941625500901,
+        0.2678629167556965,
+        -0.9005743370110634,
+        -0.30219528011346247,
+        -0.8976196839798304,
+        -0.9769698140371497,
+        -0.27089723135531085,
+        -0.02565147558967055,
+        -1.4849024130657087,
+        0.5245035219110488,
+        2.1092348926456475,
+        -0.07178764294658797,
+        1.3189814964366497,
+        -0.9780517635289321,
+        -0.18754526140962557,
+        0.06597057229862284,
+        1.276781518807581,
+        -0.6435571490044911,
+        -0.713266862267393,
+        0.9023302739667006,
+        -0.5005992089339496,
+        0.39611167902929917,
+        0.6396317006849183,
+        -0.46061444993541123,
+        -0.4826712910238482,
+        0.14231389357763796,
+        -0.14513240736982,
+        0.20509675835245833,
+        -0.03020351808650096,
+        -1.0639987438811103
+      ],
+      "global_mood_params": [
+        5.1918248183349265,
+        4.8497225243946644,
+        -0.835041136563772,
+        2.7049287758881753,
+        -0.8402506664593777,
+        1.8851834509592882,
+        0.7313233467882964,
+        4.484517163778298,
+        1.1877734469879728,
+        1.4647780341136145,
+        2.0871104693390605,
+        -0.25168887300306875
+      ]
+    },
+    {
+      "name": "Arheolo\u0161ki muzej u Zagrebu",
+      "orig_name": "Arheolo\u0161ki muzej u Zagrebu",
+      "place_id": "ChIJUYfvnv7WZUcRKGeT0YFespo",
+      "cat_params": [
+        0.12167311411760083,
+        0.04438537632349022,
+        0.22870991631502793,
+        0.253143905041181,
+        0.1885916091009743,
+        0.14914259077632927,
+        0.3257080766903978,
+        0.20861408341998894,
+        0.18281234462397894,
+        0.20385742644220384,
+        0.04514215814756449,
+        0.057327163421321846,
+        0.13893098854491098,
+        0.10499342725302609,
+        0.25194812428328617,
+        0.09561186665962045,
+        0.24991159299803647,
+        0.2708746975170596,
+        0.12773034699725586,
+        0.09846471176644886,
+        0.3117279208847671,
+        0.16240427935305893,
+        0.20482853158530043,
+        0.12603759677067167,
+        0.028927977024154707,
+        0.24868593873829148,
+        0.21730698870193937,
+        0.24673879162489443,
+        0.1327571553160241,
+        0.22756251690361998
+      ],
+      "noncat_params": [],
+      "quote": "Egyptian mummies & rare coins in an archaeology museum with a courtyard filled by Roman monuments.",
+      "phone": "01 4873 100",
+      "int_phone": "+385 1 4873 100",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.8110694,
+        "lng": 15.977327
+      },
+      "address": "Zrinjevac 19, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108507579117835101116\">Arheolo\u0161ki muzej u Zagrebu</a>"
+          ],
+          "photo_reference": "CmRaAAAAM0C1kBDp11tHnMCmCLfORj3xL_Nacci5XEOVuo8pFiBFttwx1eXPEGS4IDGX1lsjgc-0V72D3HOScrxxCvfsdlGZHP9ZyokX7SZ9AGPlWFS3YiiIVYSHyRutbvvfNHKPEhBiqakeX-8yjsGAi0uoPxfxGhQ9MvaUHlUaFJU5d4gyS6sQB8YHLw",
+          "width": 1640
+        },
+        {
+          "height": 686,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108507579117835101116\">Arheolo\u0161ki muzej u Zagrebu</a>"
+          ],
+          "photo_reference": "CmRaAAAAZRLb7FAPg9HLPAbZr64iWdkuwAY25bJMQpjH4RIgsB6_uN28-ZVQRxmZamjqP29zkS4vOGnKA20azMO6ILyONDI8XtK_KC6z9E8UNBiToTJ4Q3FhXQyGzmzvdpSay9wCEhAyQbh02TC-UR4Ybqync7IoGhSfjahY2MI820spN35r7qaJsgagjw",
+          "width": 1024
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105153704635207400661\">Ana Juri\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAY6w2vnzWgGLhhIJzCI5xCdZTTDH5uNYoDfbm7WyVJvwKA8jXkJ3yRxhVGIb7Xb4J2-EoW17jEBlFBY2hXNerHLRF4FccF5sRIu0CdxqCL2_7wStG6ldLya4DmcDtkmNIEhCDF7bmMwiQfFl0zBfxrnKCGhRmhjQfHXcJdUve-y0hJTKsViU9_g",
+          "width": 3120
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106553889529189832535\">fusun talay</a>"
+          ],
+          "photo_reference": "CmRaAAAAg5IN2g1fXZBsKfPiChxVJhC_3hfW44eqtuvxpQhWRfFOaIQHPD6PlYSLLOXXy7jkRXaM5X3ZuPNBlvQlMh7XQBPOD3Wp3AnsudJT9qJC21DMCjgn_DHza5rsMq3dEhsQEhCmAEyhoeqge5Qxay1Y3oFnGhRX_EOFnff8ZyXULB4O8cECje5lVg",
+          "width": 2976
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118186701578443972628\">Aleksandar Kralji\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAASQcZ_zHredLzHswtqR9-EuQW_42nIIsuLr3w86XcyDU9ab6VY2KkPFOfp6PcK4nYj0oY5D7EshnKnBZQkooyGaj1zR62bHhPwUP09Rup2rGFD-AWv45V1bqkg2ai7LM7EhCGjp6vXTJP8Yt88EjyWrdRGhRs_cFYj1CoV1Lqi-vEpfgs7-Sapg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118418852901294844062\">Mustafa Ali</a>"
+          ],
+          "photo_reference": "CmRaAAAAU6OwLJn-9ovp3kmsVMZvNFlZDMdRcK41iUknXFyH689-MQbCwuy63nNfsNZXTgG47Xi_PCCFq8CjpP2MvP19gICwp-7HryVHZ2pwYWeBJLKFfiW6YQLN4R3CxDyV5eyREhDaJwOdMfQhb9JMAOEVgDByGhQUNNZyAJXuEWAyBbD667mUbpG5Hw",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104776608379534852549\">Rafa\u0142 Kowalski</a>"
+          ],
+          "photo_reference": "CmRaAAAAraXBisoH_rTuerGFKq1IL2X43WHWA2KWhYecu5XWxKCoF-y1SJEOHTDux-01Cj-RC_y77ncN2U-6HBwu12oq_fCNEjp9t2fe3ygma-5T1l1TWcnkPdi9-UxP4CvpODC1EhBTH2wqrynV2KWJ_BKY0g3KGhQOUHg-SMIjiWmUaPNAdsE76qL4aQ",
+          "width": 4032
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108488727199745692054\">Igor Krajcar</a>"
+          ],
+          "photo_reference": "CmRaAAAAScxVzXiDzj0tq70kgbW1sH1lugPld_4t-ncrjsHDMMXMLagha_VM_MkGoVYT7T_Zc_23uuEqXirfUMxp0RGVe1kugIbjcfT0XTObdhbRnnCyi7b--BEvQ6Lw0qiF8eVGEhCmDp8mR3Tt2ztH4Zb-6SGZGhS06KCqwqh9xbiD8uOHuU_da9KMUQ",
+          "width": 1203
+        },
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100635385734679372144\">Goran Butulija</a>"
+          ],
+          "photo_reference": "CmRaAAAAKYVacr4St2lle7xovKVGJQycJbadvLLqs1Lx-Gd5080Z2Cv7vEkGhV6j8_xo2mc-dEl4DhmBVEYIbqXh2v3kr2LuMjOVrvSxf7Qu_dhKG6GJDgl5J1tktYu5Btj2rRtFEhC9LNICdNho3J89lH5jOuzRGhQewBoZMM55B-NxiTU7EOuYj6iKfQ",
+          "width": 4160
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102839246462316861840\">Ramzi</a>"
+          ],
+          "photo_reference": "CmRaAAAAd8FScS10thv1GFlbJhL19fKmv_6zweVdqo87G4cUsIYfPmxI7ziww60AJ6TU48qhXFtT69iovUZbzNSPoB48YQ8s0-X2qaaVlgVyYrtbErLaOtLehGrx6Yyirbp9aEC-EhBZH_GkixEpmF6AnrsNVxxeGhRgKWfyRuqFNcm0-Yq3Fee-BULyzg",
+          "width": 3456
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.amz.hr/",
+      "popularity": 0.5368812493224555,
+      "num_google_reviews": 1273,
+      "mood_params": [
+        0.0032474942306243318,
+        0.03744885966829255,
+        0.024848681317312948,
+        0.08737824747713957,
+        0.017876284254373154,
+        0.08756818901970106,
+        0.07302881554928198,
+        0.03337486822334647,
+        0.04361711857206241,
+        0.023703121520036074,
+        0.07682387621463825,
+        0.008651104910170274
+      ],
+      "top_cats": [
+        "art",
+        "books",
+        "architecture",
+        "science"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.4798076236957328,
+        -0.8114936430793466,
+        0.03996305673367973,
+        0.15629532612144603,
+        -0.7171846946221023,
+        0.05354569364322848,
+        -0.7723943699888867,
+        -0.028046072932640484,
+        -0.3523096118378528,
+        -1.2493177176079742,
+        -0.8475118019912755,
+        -0.7936852412548174,
+        -1.2382926209553253,
+        -0.7402286254576677,
+        -0.4152550435078448,
+        -0.875661330576382,
+        -1.189569304896386,
+        -0.24105728116682293,
+        -0.48587723948646694,
+        -0.7409993546336492,
+        -1.1014663862701053,
+        -0.9072617079722696,
+        -0.5887036830224714,
+        -0.39344236159409246,
+        0.03948837182558299,
+        -0.7852066965894505,
+        -0.6828651579193054,
+        -1.1283883460280069,
+        -1.0047535725518701,
+        -0.7025229658665374
+      ],
+      "global_mood_params": [
+        -0.5199403593362265,
+        -0.3918229081085154,
+        -0.6848183660492471,
+        -0.595725203989633,
+        -0.8879968765106835,
+        -0.8320632582228655,
+        -0.7621606375558206,
+        0.1508435930238478,
+        -1.0343909504707374,
+        -0.7779234601710454,
+        -0.34272432259623287,
+        -1.0924923157391313
+      ]
+    },
+    {
+      "name": "Croatian Museum of Na\u00efve Art",
+      "orig_name": "Croatian Museum of Na\u00efve Art",
+      "place_id": "ChIJC_QorALXZUcRDVBSOVCegn8",
+      "cat_params": [
+        0.06607924026911371,
+        0.06931792290261009,
+        0.33486140139745696,
+        0.6700081797944608,
+        0.09752567275087147,
+        0.27618861268638956,
+        0.26040405337767636,
+        0.3443275894577085,
+        0.12641675268335104,
+        0.26307614441815763,
+        0.07675410676599183,
+        0.055020446449481085,
+        0.20085725832700985,
+        0.06660789126549269,
+        0.26752408416185075,
+        0.14377411378433091,
+        0.532087128907852,
+        0.22454550041271762,
+        0.23057000567904645,
+        0.13784333677402147,
+        0.45289726312708434,
+        0.11032730312469613,
+        0.28496590040921904,
+        0.06243524088428809,
+        0.01681683911088535,
+        0.3856719912244037,
+        0.1501877285513161,
+        0.26960700790724085,
+        0.12586099918194057,
+        0.12486143543868576
+      ],
+      "noncat_params": [],
+      "quote": "Museum with paintings, sculptures & other works by outsider Croatian artists in a historic palace.",
+      "phone": "01 4851 911",
+      "int_phone": "+385 1 4851 911",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8153634,
+        "lng": 15.9732883
+      },
+      "address": "\u0106irilometodska ul. 3, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 2187,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110611271377010812009\">Pavle Miljovski</a>"
+          ],
+          "photo_reference": "CmRaAAAAyWYob5O3gAl7OkcQ1wYwCLe3zM7nuf7FmTOVkAwT8mBQrxehekcWUQBeyGoFKWJNn2qEjv_jq64MgA27ELilPB7h9igfgDlePdEsOBVgsBgjnPINblpmwBP0Fg4sIYffEhAp0tugAybnZG_4VfJHQBCDGhQPZrf92XKPJNLnrHTouaSoLxT48A",
+          "width": 3888
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104959901784687788258\">Elisa Lopez Alonso</a>"
+          ],
+          "photo_reference": "CmRaAAAAKLvRHaXp4S-6TWU-GGbAX_O-m2VnZvnnR_HsNwXwDKlAgV4XNPQDFzgikB0_aSJmpIP42O358fXg5JVAqDdqL_fAX6f16eEvXyNDpyNIHEYbuahGhiZN_h8EsMyQQrugEhCMnI2evJpl-WhVRx9E2cq-GhT2H-k3AZLBmqPYBNvapjNrgmsfrg",
+          "width": 4032
+        },
+        {
+          "height": 864,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102895861555809528420\">JUZER KAPADIA</a>"
+          ],
+          "photo_reference": "CmRaAAAA0Le0hUZ0CqmxhgjPPmd9TaeBNktEgCSH2M-wP44JzANNCKhqR5l2_onlzSysoPeLUw76Cvs9NI_fnTw7qg7Onh6c4s17IQswtV7mzj9iMyDBIr7EHVybp4UkUDun3-6_EhBVkbIe2ttHszPpjxTmvHKLGhQX-YDer5e0mNt-odWhjq9YlxTJHA",
+          "width": 1440
+        },
+        {
+          "height": 648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102895861555809528420\">JUZER KAPADIA</a>"
+          ],
+          "photo_reference": "CmRaAAAAnFT5-PW1Sdy_BZAvAXDIvknwH31_1NqVa9xgnHAHkrw5oqvY4WbBMAWAs2-scVD12aZBZwQfp7fisfcCQfaLM4hujHB4KVvJYXzJWyq3d3gbcU3I8xMihYbY6zCA7bm0EhBGE9TO-v5k7W4cz5ja42zpGhSkk8jhvAAKpEoXCJJZkJR1VcOEHw",
+          "width": 847
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109174982975414593977\">Chris</a>"
+          ],
+          "photo_reference": "CmRaAAAAmf3RyF0ccZB7hB-aVEgIqQFx5jVT2e8XTwD5ZsnrxfqyRcgeTxhwL3uCF2hp3PZoHzeSYDC7tRO3pslxFQIYQ0uIKs2nBMRTv21KUzdT2QKUJ6C7pJIWOoEIB9sHjK68EhAep3VwgHzBDZ_gVMSD7AGcGhQzMdjmbVO60eqw8RjM7IHvGVU-uA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118112068887180596956\">Kate Griffiths-Lambeth</a>"
+          ],
+          "photo_reference": "CmRaAAAASy4LjbJqgofa5wf_GhYeu8R-9IAjC_4lHTGHt4XUZAVFEeGJkZ-7RY3aEtg99kwA-zpJJCoCU9uAclOFQWQFge1E5AuN4nF8f-L2qCXrzojcdle5bfNyGVnV4IosyaPQEhAAX6-Nymt08HoqZBXHNBUzGhT4LoghsL5shSS3qjE7FWtHncW5yQ",
+          "width": 3024
+        },
+        {
+          "height": 918,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102895861555809528420\">JUZER KAPADIA</a>"
+          ],
+          "photo_reference": "CmRaAAAAC3nRzjIonYzN0K_IGECQdvxz-XN09tQ7WGVmE0KRssoIoSNT7hmaqPf8cVtg1si0HG9RjEPndjD6YNxVLCto-K9JDYlunnZyu39PX4-bQlge_uniQIcl7FV1eNtUuP7wEhBuKTD10X61sZeKOmqgZi-4GhT7UhKwFU6Td2yamU5HI1Q4gR_hkw",
+          "width": 918
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110212657518017525387\">Reva Minkoff</a>"
+          ],
+          "photo_reference": "CmRaAAAAk1vJREqCifMGDokDhm_tKfIrRwPeCFDoPiWWb6VF-A9kwCFtwhjZ_xIF1e5-naO0qkZ2IaFwQBIOdivYO2k0pN2XIFgDsNQWVVynhTwDZEjof7S2zSA9ZMcf9Ck0on0ZEhA_CsGJvh624QvKLbqEJ6-1GhQEcqmFoHXt0kiw3KTOiKUcCRI-xA",
+          "width": 2560
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104959901784687788258\">Elisa Lopez Alonso</a>"
+          ],
+          "photo_reference": "CmRaAAAARbZBrJluSYIiNLQfaI4S7yuwwgCkFjoU3-7w-UmElS68tUM4npxAGU0r7_qS4rt3Q5_ikHgCnfR7cCqLeFW-6GhPH2MwVkfz6HQ9EWnNE7RRTbhbIXAGlWpAwsin1JMhEhBr9FA-Gci4IOqD0Ks5ZugdGhSht8FEmBwVSd5SEDV0CyFUBj3KuA",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103743960336163596102\">Anna B. Babich</a>"
+          ],
+          "photo_reference": "CmRaAAAAsrjK9migod64P8eohFI2CXEz6B6okDv3zvY0bFJrPtIRhhhPNwlosRPndY6h-NrG_xh5ChTZZzpuLPGi90ZDraQTqZhB0knCecagw0-GmgrSG-vUEDjt5UnyXCN2AXxzEhCRzrR4ro3ZD8GRlacm5LfrGhT5RnOXGUAqvq5nZiSRBA512SmXeQ",
+          "width": 2736
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.hmnu.hr/",
+      "popularity": 0.3633280691285165,
+      "num_google_reviews": 267,
+      "mood_params": [
+        0.006399159782619784,
+        0.0774465857761625,
+        0.034368430886594886,
+        0.17586779812204925,
+        0.046132416261264804,
+        0.14149189877738297,
+        0.12933629196073013,
+        0.039212577261104116,
+        0.0849361011299663,
+        0.05755368148730919,
+        0.12694673172062476,
+        0.031625163185127335
+      ],
+      "top_cats": [
+        "art",
+        "books",
+        "culture",
+        "architecture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -1.1543519745780406,
+        -0.5133822477331828,
+        1.0827303717922385,
+        3.1352995013943854,
+        -1.2789108237470983,
+        1.7484246345014964,
+        -1.4673489976745697,
+        1.4791622250800234,
+        -1.1869095181998714,
+        -0.619666470781696,
+        -0.19736516673624227,
+        -0.8155925670202357,
+        -0.5691055362566673,
+        -1.0222866247274442,
+        -0.2458818883794508,
+        -0.3115905246433679,
+        0.3415270468313476,
+        -0.7256431307289686,
+        0.8268279163947625,
+        0.04365421778344132,
+        -0.41298234525044736,
+        -1.4160155216123136,
+        0.3148313006994577,
+        -0.9867526848271978,
+        -0.3092193797024909,
+        0.23087755092816387,
+        -1.3117668544642938,
+        -0.9798275293968529,
+        -1.046381728161529,
+        -1.4087093062830134
+      ],
+      "global_mood_params": [
+        -0.307890412191231,
+        0.8064696116168856,
+        -0.5134188223596446,
+        0.7684700797783627,
+        -0.26785261940620936,
+        -0.1539716913896581,
+        0.30343599475873423,
+        0.38362650483144717,
+        -0.48779515534794804,
+        0.5376168256742442,
+        0.8171287206173221,
+        0.3119778747495512
+      ]
+    },
+    {
+      "name": "Tunel Gri\u010d",
+      "orig_name": "Tunel Gri\u010d",
+      "place_id": "ChIJiUDsmeLWZUcR0uw4pxXGo70",
+      "cat_params": [
+        0.11975761190750382,
+        0.06965059337214598,
+        0.1865157792769572,
+        0.14895003653591424,
+        0.19749266697465565,
+        0.13783341586472084,
+        0.35849324000075744,
+        0.1500932846839973,
+        0.18342629589145235,
+        0.26413969186580677,
+        0.08027039106730596,
+        0.05045920132470266,
+        0.19097376340638197,
+        0.14947296867084262,
+        0.33807932995238776,
+        0.08747510210550541,
+        0.3500677083152517,
+        0.3175394086937195,
+        0.16094837302471057,
+        0.12652705970178096,
+        0.3958999785189795,
+        0.20992942184734478,
+        0.2080750451602777,
+        0.111615714909887,
+        0.023025078642939033,
+        0.29674880588707836,
+        0.22535467389170402,
+        0.29857724487000703,
+        0.20551537238065412,
+        0.24553869757599703
+      ],
+      "noncat_params": [],
+      "quote": "Built as a bomb shelter & promenade in 1943, this historic tunnel offers a central hall & 6 exits.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8148681,
+        "lng": 15.9710197
+      },
+      "address": "Mesni\u010dka ul. 19, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 2261,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115867125690299860501\">Igal Epshtein</a>"
+          ],
+          "photo_reference": "CmRaAAAAbqWctQsbsfDUHDT9lt_jSoiCccVyL070Yj1vcgXQNdcPr2gdWx2RMeWSp1Tz-wMys42AcMB9VKt9wfEULy4VHxrStfDCnBgjf3ZvHP-EOoHvXxvPmyLqTI70FqETpXqQEhALRQ9HTbLW_Esv9iimvuaJGhRkU8K8Au9LRuLhMeWog3p-2OX-Dw",
+          "width": 3024
+        },
+        {
+          "height": 4248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118298502298666769799\">Petia Nesheva</a>"
+          ],
+          "photo_reference": "CmRZAAAAwIZjf30sZhBVintKeHqZX2PrydFsV3HrvVuFIwBP0gOH0IzoLBNKAWt5UIYRoRefqA-mIR7eobBwt7QQGzBHpcnWfRnZrm2hv02mNsN-_lxhXcy-huzF3MNDhbnlaGYAEhA8jCztDPgPSIB9rSTYDATYGhQLr4aV-tLouO5FUyYLaCIPSIHTQg",
+          "width": 5664
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113313831458979409405\">Rasp Berry</a>"
+          ],
+          "photo_reference": "CmRaAAAAJLCK4PjAku8qtCtBRzU_TNT4yYIJOIPc2asSNkOohRVw0DUEQ34C_155PsploLVIjVSfpBc7LsMhy3AsKC0mOl0Xwi_4enPa3wUVZsp9lxDkCQ0E5rW4w-kU85z0c617EhDzo4ukcwNPOmus5a-v1SQfGhS8bQ1uO9vrYtEayEJ21T8C_mERNw",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106427856805616946175\">Katarina Smol\u010di\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAZPKvfksUX7DC4fRhNNGzaH7zR8OggU_AdYJAx4dD13fv9kTRxMi17Cok4wR7SYTg-AihYfUymOiivqxLzYVjCwvfxSKVn_MwBhyfHEF_ArHgtaYstxcLua9fFtu0x2q2EhAtJucXueTDbRXEirrRnnyXGhSPKb4FaKOl2kzs7xWogB3iiL9doA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109771241311722432508\">John Hotting</a>"
+          ],
+          "photo_reference": "CmRaAAAAmmAzrBKxiPJWCuZ1o69ouB2AH1FXkZt9F94MyUpvD47MgedTSg5tLbj_CRIL4NOzgPsVpQXYLYbeXwgYgIYX2TBmvU6FBS8SeTCUnSRKkLV-OJpj5SpEZUkTm8LI8GSDEhC2EFI7CT0koOXakCe9qzOYGhRzuH6U7faOblLhQ00j-DI0C0m3aA",
+          "width": 4032
+        },
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105867847537250366893\">Alma Jelenic</a>"
+          ],
+          "photo_reference": "CmRaAAAAuDvoIhnrdQBiKSw-WEOLA2FuOhQzt6cmq_Kj4zcJ3L9_j2mLgMBrpp3Vih_IvizauDw-wrWEiuQxwLsAS8CgmBny4AARZmtDWH_gVhEEgFQaZUJ5JEj2GaFxvMqgmNn7EhCT6ARweYe76FkGQ9uYtSqnGhTDCIuWpRZ0nZY4DPtPnHWSx8aPqA",
+          "width": 2592
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106987752600300873338\">Ole Kristensen</a>"
+          ],
+          "photo_reference": "CmRaAAAAPZ8gm-ya6O3Cm6bhq7uZYREVeXKeZLMGKNgUEhTOXthTeVVZOe8K6IBwjxukQ-AWt45Fmi_nzkZgiNGcH-pwpJc0yYZse7v8Doj-7TZqDDiW6mfweFjBxiP2a0SVqOAGEhAEnDcAvzi-3dNj4sF7L5ZlGhTbMXNxzgmurCPHJAbIQqs5mNT47Q",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100758026294728600320\">A R Construction</a>"
+          ],
+          "photo_reference": "CmRaAAAA40jvClIsyLCMtHSqLP51-kmSVNIpVTFQ6a7HJvh7kZh9hPxL1-Dw48eD7wdi9AIZMVMyn6JekLzTlr2ylDdZumOQU6PTXS5a5qhjDp7rjzyZ6Wiyw9dML35ucg6Po_8_EhCv-yLytiHYNpziTn891xp4GhRnrcFofWmt9WH1ODlY66-C-zE2Ag",
+          "width": 4032
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110984099458364654773\">Silvijo Vlahovi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAdkhmYH-MxS0aebdP3YbR2ewJYFUx87QlnUXCKaeu0i0Yj7UTNoZiUoM0S4jK2CVOELbGUcHaRaQ3zpOlcUkfkEDstMufXFyoZz6EQR65VCxn10RbxGsR3Dg25313FFnYEhBP_zIFRQRrWNGvEwYKuzfWGhRwMcU-WqryM9d76lNI8J3tGNVncw",
+          "width": 3120
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108434566238120920804\">Alessandro P.</a>"
+          ],
+          "photo_reference": "CmRaAAAA1pl4tNBkrt7hocnB3W7__sWqrM7EC68oXICwkDEhd7U6JKv8-pai5qDCwfNvrIhSMmd-9XK7VUkmuEs1iPnXPq0gcu2lHqfUFGv1hdGPJzFK7wqBoLchgxBvwweuTm9MEhA2QO_GxIX9KC71ZZFCwWXrGhQs15NXDu5I6ZdlG6ePd6TM_CO5wg",
+          "width": 3968
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.zagreb.info/aktualno/zg/zavirite-u-novoobnovljeni-tunel-gric-kroz-njega-ce-svi-htjeti-proci-provjerite-i-zasto-foto/67838",
+      "popularity": 0.6339644954259298,
+      "num_google_reviews": 2475,
+      "mood_params": [
+        0.007573228840822794,
+        0.0482117117637099,
+        0.014120216142090332,
+        0.11082803543182339,
+        0.014776407908706313,
+        0.09219743000504829,
+        0.07727894684321907,
+        0.031656375322063106,
+        0.06339030395960044,
+        0.049506779973682184,
+        0.08585590116558027,
+        0.02040052780181602
+      ],
+      "top_cats": [
+        "history",
+        "military",
+        "music",
+        "books"
+      ],
+      "duration": 1.5,
+      "global_cat_params": [
+        -0.5030492347848416,
+        -0.5094046011839586,
+        -0.3745263586168069,
+        -0.5882970702855986,
+        -0.6622798972313605,
+        -0.09732626683214302,
+        -0.42350007824121644,
+        -0.677966895379751,
+        -0.34322373025186653,
+        -0.6083581547735192,
+        -0.12504756193769279,
+        -0.8589115715033506,
+        -0.6759084678048042,
+        -0.41339170269537934,
+        0.5213366126676816,
+        -0.9709581992594883,
+        -0.6461180015402325,
+        0.24703791847985027,
+        -0.06186305475096543,
+        -0.1818325083144761,
+        -0.6909585701929503,
+        -0.44297596715412274,
+        -0.5520998035444046,
+        -0.5279759220134114,
+        -0.13046976396256535,
+        -0.4287038168136776,
+        -0.6074590396494519,
+        -0.7916256159616969,
+        -0.5655537744385024,
+        -0.578916348851256
+      ],
+      "global_mood_params": [
+        -0.2288968522372266,
+        -0.06937844908933509,
+        -0.8779803838250625,
+        -0.23421257453229913,
+        -0.956030622708869,
+        -0.7738504741412693,
+        -0.6817285904752439,
+        0.08231743337902074,
+        -0.7728177141533726,
+        0.224888672059049,
+        -0.13372143319621332,
+        -0.3742163364033632
+      ]
+    },
+    {
+      "name": "King Tomislav Square",
+      "orig_name": "King Tomislav Square",
+      "place_id": "ChIJdQJAUPjWZUcRlzOXEYN5AHM",
+      "cat_params": [
+        0.15366734098732324,
+        0.09497461997491113,
+        0.15378271040569172,
+        0.17105587347476087,
+        0.33079365812400996,
+        0.08706278402058842,
+        0.38044602474132033,
+        0.15215802060573316,
+        0.19846970131186803,
+        0.2656725938661943,
+        0.06867411776782588,
+        0.1333654897091185,
+        0.2430655382579442,
+        0.21229073540156154,
+        0.22340821512762063,
+        0.1802368695231374,
+        0.4534389663074383,
+        0.2821440267861409,
+        0.1547136436080012,
+        0.1172093044145586,
+        0.5593655840312141,
+        0.24649513590038402,
+        0.16544026853447075,
+        0.1478980486840437,
+        0.008738261234627658,
+        0.31718836735695355,
+        0.293389141078965,
+        0.41509385541825916,
+        0.34180879084720733,
+        0.3315421198479237
+      ],
+      "noncat_params": [],
+      "quote": "Public area with an art pavilion & a towering statue of its namesake, hosting special events.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8053408,
+        "lng": 15.9787162
+      },
+      "address": "Trg kralja Tomislava 10, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 4248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103930562211754051846\">Ljiljki P</a>"
+          ],
+          "photo_reference": "CmRaAAAAw_SG-0ltKEX6itzGQdlfF53P_xjo8NJrj39bo_7WeYYcPHieDo_ETwwiZgrC6WEPU5MsOkz286WUhXL_Rnalj2VRqUQkxt7_VlxAmktaEvKvJHDgrYMUvC9lXi5JtLRTEhA7NbVRbqTTSOHWv5w8npOcGhQeGHXbjYiBmWAy90KAkPGbKP03PQ",
+          "width": 5664
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102012829311912835105\">Filip Gavranovic</a>"
+          ],
+          "photo_reference": "CmRaAAAAROOGdpas_YvSj7lHMRnYy9Fc8K2NYkAbcPH3EnHjidE66mt-y-WmqeOH0vSPAquiRKXex01ep-HzmoW9mIqYRaJAc7-m9E4ZNqtHMwC_ZF4eNVjyf6EKBgUPRMXE9ShAEhCknJM20K78lbM7hwWiWCbxGhT62y-w9WEBniQv0XnjdpqLeFrV6w",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112951285754983148952\">Jakub Kulig</a>"
+          ],
+          "photo_reference": "CmRaAAAAUGsFiZl7jjTZtmcHpswvvsKJb6t15Woq57np8nmEvJbSJFWfktUH_0RmHwlVkX0XwKjMHbGt-9h_5LS4IrIKdZNNxZkZYro8N_8pvxOdAJpEXvs7yi_sw4CrmzDeRnBeEhDulsh3Smt0epkIGGw88cvtGhRu5BZr7SQtXsrcc3Aj6C8tRCVXzw",
+          "width": 4608
+        },
+        {
+          "height": 5472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106915631897726959839\">\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u041c\u0435\u043b\u044c\u043d\u0438\u043a</a>"
+          ],
+          "photo_reference": "CmRaAAAAmfk-hwco-hfCrpAMsyxdaq4D7wCAB47_GtSTGzqv0Jrc9T8Ygf2B4xI9CDd5Pn-budPi0Wjr6IeRAakDcJqb3X-fYnyKTEz3QnO6MuZNbWJrKN1vbmtFGda2kQo91RMAEhAuF5Ztk5qf3xY6C5pVsJ4jGhRy_N6mo9e0eF2GB2iLP_uFGgcCNA",
+          "width": 7296
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108520410301380087989\">Luciano Zanze</a>"
+          ],
+          "photo_reference": "CmRaAAAAJqCPxzmfeGFMGwJuRdt5ABRFtapTwk5r5_1j_a-WrBSFxa--RVqrw4Gz5AZF7EbipxDiyMJLQlCP7zJ6F0wbunCX07An3MS04FC38KGEL1sn66cvFoICWXYQPDgkURyZEhB8mnz6kMrlsF9c-xIEwifLGhQmP1zKfWR6QDWPObWno2ICUmphhg",
+          "width": 4032
+        },
+        {
+          "height": 2248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104344317843585102166\">Adriano Falc\u00e3o</a>"
+          ],
+          "photo_reference": "CmRaAAAAcIfx5xFWwUSoe39vCHWRtOAHyCijmH4u-NswQiUNBIhYLVf8OzuG-DegzD2VfXNRLYmPfr30cm_mIJUVlF9feN0Rhx-r_NGOBEc1HiNOwtwheiEPB4X4_GzXshvjx1vmEhCCa82yh25gymH4isEVcgpJGhRKXtSDneYOQwEH54hFxeioKSt2Zg",
+          "width": 4000
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103033387906739566035\">MIHAITA POSTOLACHE</a>"
+          ],
+          "photo_reference": "CmRaAAAA95yQr1JspKErVwcNNXsPf70_D6g1AqHSW3BCVBJ5yqHOr2m1OikuZh64nmmgq8FlSpU4Js3y5Ew2ogC3kNWTkBl8XCUdnyKtR9P0JiJTMRJ6EAA9yuqw56s6yy88GYRUEhDJkyM0rYKHEswKqgFWGjRCGhTkwfxlBexNPfwmJ-P16cgLcSWkGg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103800091824044548792\">Dajna Bakoti\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAz2cDZZ5fMlc66MiiFcW3302rsNW01dSp5CJcmMr7NJKmLzDGepXmkXiQJTvl0si_WAPlhU5_lnSqO9d6jYI4SynBdghKZlyuT3zne3IvsXXx09bnJig7mwn8bunOMk5xEhBNhZUzX9-5wtqOiABDEjEkGhRUBdZrz6WVrLQYoYEgcGfcLLZZyw",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104632429684780590069\">Bo\u0161tjan Sr\u010di\u010d</a>"
+          ],
+          "photo_reference": "CmRaAAAAYtHliQhP2rhFbdOw_9KZfeNvWDHLsWSAg5QvBgPyl6ghchihXqFFbkRjNkqslfXQCSyyZNnzwjsqZcyuZ7aQ06RNb6_VeKNlZZgNEGJxqwjtdCKF4DxFgZ7vhzQZzofWEhDlqqC0iq7gA0Qpohry-9jHGhQ_QxZERfxBpEn4wMS8BEEAruMSrw",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115630108947042689061\">Vladimir Kova\u010di\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAKn8yhTvHnDdscZXqcvzBlsu4rf1lSXsDsurcVsPlpRLOEOJXMGi9lVugJwDIdt1OHBHjT3MXcT_rg3gcUGoUQDbuvtPwGVc-aC9-05sgHhyut07LJk70_dtvDbuPONOYEhDZ6eRXg-PQWTGbsL97BLhCGhRP8IWlZtCs8on7HWKgwJG6cGT1Ng",
+          "width": 4032
+        }
+      ],
+      "rating": 4.8,
+      "website": "http://www.infozagreb.hr/istrazi-zagreb/atrakcije/trgovi/trg-kralja-tomislava",
+      "popularity": 0.7660327410193504,
+      "num_google_reviews": 5276,
+      "mood_params": [
+        0.0038586336431975714,
+        0.02687153498844114,
+        0.10152627244292727,
+        0.11716897813665553,
+        0.08274189504704055,
+        0.14656877655249975,
+        0.09516504060163802,
+        0.01286943452460539,
+        0.16852763530719744,
+        0.02545354534182217,
+        0.05517833412669137,
+        0.012776765326177542
+      ],
+      "top_cats": [
+        "walking",
+        "beach",
+        "hospitality",
+        "nature"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.09160792646586452,
+        -0.20661239011250568,
+        -0.6960760224204867,
+        -0.43032387726563537,
+        0.15996662839575562,
+        -0.7746404670957738,
+        -0.1898821696939207,
+        -0.6550363322744092,
+        -0.12059596231456586,
+        -0.592059361270451,
+        -0.36354213113232764,
+        -0.07153492763631328,
+        -0.11299481141381985,
+        0.04819501602118449,
+        -0.7255983224106847,
+        0.11545715780529121,
+        -0.08522119850934386,
+        -0.12318436647861401,
+        -0.14144676356278735,
+        -0.3674969384874773,
+        0.10626452983118663,
+        -0.08575579385951239,
+        -1.0327995416307503,
+        -0.18951859792229392,
+        -0.5418203745014847,
+        -0.2770948313820136,
+        0.030018068137253304,
+        -0.03468845040300313,
+        0.2571717442684523,
+        0.012454658845889234
+      ],
+      "global_mood_params": [
+        -0.4788217577598858,
+        -0.708709148301028,
+        0.6957330901104902,
+        -0.13645770890656114,
+        0.5356245875607463,
+        -0.0901298670674878,
+        -0.343241368370604,
+        -0.6668255531081976,
+        0.6180108994140975,
+        -0.7098964302758474,
+        -0.8436065570434251,
+        -0.840278840826973
+      ]
+    },
+    {
+      "name": "Strossmayer Promenade",
+      "orig_name": "Strossmayer Promenade",
+      "place_id": "ChIJPYZvTf3WZUcRegnR41CTPSU",
+      "cat_params": [
+        0.14406297915656174,
+        0.05640545867212859,
+        0.1279071374722881,
+        0.13600344276181572,
+        0.2973801828802263,
+        0.0918631311742149,
+        0.32011932380264835,
+        0.11086818647417805,
+        0.17158976703603185,
+        0.23151400734122168,
+        0.048725322367193784,
+        0.12707888340949214,
+        0.18333975341217376,
+        0.2230543000209404,
+        0.20941562405367717,
+        0.12317574349533975,
+        0.3591616408357603,
+        0.25714405674454116,
+        0.16245363101038954,
+        0.07731641420683116,
+        0.46480948670086764,
+        0.28752285454675175,
+        0.1340877141633995,
+        0.14037973225313746,
+        0.006565369394204371,
+        0.34472266685322284,
+        0.2044914817654135,
+        0.37982995385488794,
+        0.3054957386056475,
+        0.29196837214374377
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8144716,
+        "lng": 15.9726417
+      },
+      "address": "Strossmayerovo \u0161etali\u0161te 16-99, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105638444065551314028\">Damir Jureti\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAA9qgkPaSaaX1jbXbgJEe9pjAUWuC3Rp-dzZik_TfZt6DH3nMpCbPjoTwKiSSFHd3VR0uTvvSHJItRhA5oGq37v59IlcxGZXvjp2B6HaXbPPBgtLG1PR9NgCnr73u2Hyq-EhDQavEMIBJ9ceP30u50PpnJGhTdzSgXIPtEaWksCF_CbLzfPEjSww",
+          "width": 4618
+        },
+        {
+          "height": 3496,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105638444065551314028\">Damir Jureti\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAG-4bCeNXMp1JvtnSfBGWcaAR9lHvv1qLIQfdAvZeSLUIcE87XNniAQvS4DRCmWgTPcaDh47gl3G_sD2E-vceIT7Mr22HMaPTQF0lwlhVUxZXlrzY7o29eLeQPmXbVuRIEhB-DOdoxBocUeQSmNAiD02QGhQMTPX7R6pE0XWdxfSDV9fdS6Z5Zg",
+          "width": 4656
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116463370358437570564\">Michael Schafhauser</a>"
+          ],
+          "photo_reference": "CmRaAAAAZLj4H8hqnPoZIOszwdiHeu5LMg8_mw18vEJsu1yDD2iwpj73yTN0ZW3rhcizn8OGJpA3Zo0fTNzYInz0wc2sfmKf-xbmExxFaljwH2Ca6BLodvthxBSbbZJYXS_GfrlFEhBtFfJPSTxHDZLG4HsGGNINGhRktmFjuBK5KDycyYx42KbGkYPL-w",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117575348496001775743\">Andrei Chiriac</a>"
+          ],
+          "photo_reference": "CmRaAAAAe_yl9-0lCbzGyrdPtaLeeTe4HjxdJfJnbbmdKT9X-fGCveY8Ehq6l-9jfRbQQ9CkO7p2uE7df2vaWc13GSoP3Dc_NZWr8uSGc33FfEIJKGvV2r9dL-yN6Raz9ezjHngFEhCLF8h6qBfknyzNA335B2kjGhTPGuDbtmpCVX6MvO9DKC8qtUYcxA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110601691431019824535\">Rade Rajicevic</a>"
+          ],
+          "photo_reference": "CmRaAAAAwIMZy5JfFX5B3ANUJpzu8oW6jCp_E01GswFGTQ_3gQlkOc6fUKXl7pBEOoL1ByA0irl8owrMH_FHpgyJdYf_iIAnpRD7yLVHKrNwRFsT6tTHDFAwGYTYJ3ow1qW6vOywEhCf79Ft8wOFdAp1HvPVPbGRGhTJrMrVxtPZVcMQTTOmtgq-Zj3IVQ",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102725396538595857406\">Alexandre Cabrol</a>"
+          ],
+          "photo_reference": "CmRaAAAA8FdmUCZKE_amTSm2xd0ZQhPQQ3FEc7gfWODNZ8hxO5YWKKkf5lgTa2mcANUN53p9lfzA2kWmcHRGgan-69mMV2dZNcimTizp6C6KHYCPoOGqu97fJE6hgfoh8OkS__rSEhAGKkDDdusg7Com0Xk9EdLIGhST_BlDtgfuGp48a7cxak4x5YQG6g",
+          "width": 1920
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105638444065551314028\">Damir Jureti\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAt9jtC7norRSlXO4pTMdUHKsHd08ZmaKwdiJduM1_Awjc1YqE4WH7HyTz_ZyjBaic_lAodc6nDJzWpj7K7VYvR2a2zOPXgHUJLBXDunq52j1PI1epUeQoteBw_msqRxYJEhCEejWTNxrivEonahEebT3DGhTdql62W0zVbGkuZMkviUWvOCW2gA",
+          "width": 3000
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109504412599345122546\">Stefan Steurs</a>"
+          ],
+          "photo_reference": "CmRaAAAA-lP_58VBeC4Z9rLYkxGVnGK6ddtW2BSKejiGhoEnRjkhjxscZu2VVQ9ptvDv1J1Tc3PnaPBmW4K8nuksOv7Jhc32JcZkn2sbI0kOO6WtaR-vqG5bWpfkKj7mtGu-LPHSEhAOoz0DbaG3gHZuBQBM82jTGhQASYmPEZGoFZMbLkWF2shctQRQnw",
+          "width": 3648
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116463370358437570564\">Michael Schafhauser</a>"
+          ],
+          "photo_reference": "CmRaAAAAWp1v5E3U7AKWchjIyRIxH_lDKS0lZAbOg4iH-KXutQgbvmTzxny_AVdLZ59dEbPrR35i83Jas256TIJFW1v1xKADRU2KU2eaYhgYlVZcSE66gg_FCiJa0J8b89vK1ljNEhB3m0JFWkW9rrcTyFl4oWPMGhQ7aRgn6uqyUtijk3OcKoFqpZOrtw",
+          "width": 2048
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112995088234977749131\">Mahmoud Naguib</a>"
+          ],
+          "photo_reference": "CmRaAAAA3AnYuI9RmxU_HBgor_4Zyu5tHYE2amZWYA0tiJRXoVNsUTwpkRLPPyRTT8gudQ9QTZwumfStkHNlGkOvkvSljXuDBLWWyU7d7Dewf7Lr9xB2QcPl-NKjoh0YcfX3w59JEhA54UTnkCQ2VCT9UTzM_byuGhR76-HIUv1pFtAR2uwZnJJpMf3vnw",
+          "width": 4160
+        }
+      ],
+      "rating": 4.7,
+      "website": "",
+      "popularity": 0.34888122598349425,
+      "num_google_reviews": 227,
+      "mood_params": [
+        0.005888709779156173,
+        0.0348501900953357,
+        0.06331006765956818,
+        0.07610408671844394,
+        0.04411919766731311,
+        0.09049118427751676,
+        0.05583129803045071,
+        0.015705788902590348,
+        0.1019841645445376,
+        0.018131488606783236,
+        0.03992229972791151,
+        0.01041509948095667
+      ],
+      "top_cats": [
+        "nightlife",
+        "hiking",
+        "walking",
+        "music"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.2081417739618351,
+        -0.6677729240682656,
+        -0.9502618370835121,
+        -0.6808162887564749,
+        -0.046139220416321076,
+        -0.7106006240753433,
+        -0.8318689549426227,
+        -1.1135933502424644,
+        -0.5183928442632141,
+        -0.9552552785479205,
+        -0.7738187124232302,
+        -0.13124001232858162,
+        -0.758403036112572,
+        0.12728599191739057,
+        -0.8777539081397366,
+        -0.5528363141043958,
+        -0.5967739403688239,
+        -0.3846745816954329,
+        -0.04264906722844513,
+        -1.1623976951674433,
+        -0.3548863330898871,
+        0.31505488752029887,
+        -1.3862941736488112,
+        -0.2596527099315743,
+        -0.6043829704700714,
+        -0.07286113403222126,
+        -0.8029453560081744,
+        -0.263776453995976,
+        0.03797058930878242,
+        -0.2596597110239319
+      ],
+      "global_mood_params": [
+        -0.34223444218708177,
+        -0.46967649163759223,
+        0.007664563334083622,
+        -0.7695328097844932,
+        -0.31203722149649477,
+        -0.7953065431688551,
+        -1.0876168277485547,
+        -0.5537238505815528,
+        -0.2622716985606797,
+        -0.9944548133425161,
+        -1.1966342875302105,
+        -0.98465425938868
+      ]
+    },
+    {
+      "name": "Zagreb City Museum",
+      "orig_name": "Zagreb City Museum",
+      "place_id": "ChIJQ6XUNAPXZUcR8v1yw9tT4Tg",
+      "cat_params": [
+        0.1221980738090628,
+        0.03942352291618318,
+        0.26768131537957673,
+        0.252384613211896,
+        0.1835340445396692,
+        0.18006077094930845,
+        0.35642876242893184,
+        0.2330703960435839,
+        0.2049429980454043,
+        0.20772375553549124,
+        0.03275735372030337,
+        0.035485826597343346,
+        0.1342146838369843,
+        0.09415057009785946,
+        0.2788963967917615,
+        0.06516579482274135,
+        0.186645333156776,
+        0.3166952783053523,
+        0.10499421555955263,
+        0.09322662393700974,
+        0.2986732802239793,
+        0.1609521917975692,
+        0.18349809992006022,
+        0.13303352483079336,
+        0.04627530591730324,
+        0.23622513670483625,
+        0.21776723338925985,
+        0.20712684574752604,
+        0.11356138126869883,
+        0.22757014287265295
+      ],
+      "noncat_params": [],
+      "quote": "Local museum with artifacts & displays tracing the history of Zagreb from ancient to modern times.",
+      "phone": "01 4851 361",
+      "int_phone": "+385 1 4851 361",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8183957,
+        "lng": 15.9747247
+      },
+      "address": "Opati\u010dka ul. 20, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103623736011855537419\">Lam Pun Tam</a>"
+          ],
+          "photo_reference": "CmRaAAAAHCYjO0I0tt_5kRjXYN748zpAlOQPOy-Gua2j7ZXDFNaNC5EZqo7z8pgOhbktj3yll_E1hIS71w83uvmZgBwGypULRW8iu9GUhSLLFFlVPiXboNUDfBmXoskMB70n3oUoEhDzcgFuJNmHD0X5PzHUbli-GhQuosDQcnkkTNRmA07D7p2MNGl1Wg",
+          "width": 1616
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109421065405097980189\">Saso Dzuljo Petrovski</a>"
+          ],
+          "photo_reference": "CmRaAAAAYf7TYXLX4589aFEgFF54xFUKBpNVqQpZlPHHu2WwaqEQJgXFH6Ga3CL2lMmEyBJIEzYMQjR1SX7UPOMN88Pf8ufUC1eSyLyTdXvxRZJCS4mPH9Vr4eS6Ws2ugyzvja4nEhBBJxVTLyVgnP6Uc3dmxyt0GhSsB4oc0uKHxPNcdSMKV_1VRdKWqw",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100012334862624763663\">James Brosnan</a>"
+          ],
+          "photo_reference": "CmRaAAAAlnJcER34fIgx8AkBilRoWEvpB-H98rwrcFYklTdqNONL9KT3CTSL6MlRqONq3soJ48cBh7UIGQud4p865ZX1Aak7lzB_LoZQsW-PPEtJT_3jGvGtEc3IAS2L44xy9aOZEhDz8zZ37JkvNONfpuT6vxPLGhQoaMrAhbTiIQ6DlnP-tsHrn3VEfA",
+          "width": 4032
+        },
+        {
+          "height": 5120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104722696113924065639\">Sonia Stiplosek</a>"
+          ],
+          "photo_reference": "CmRaAAAAh1ARVq2yZg3CdYhXEzDsEmcrvWvNfEKZKUrnYdd9NIYm_F7KLZznGmyOf6vRvioKLuoBgRgrfTLP3kQgwpN9KojkoZtGUuxKsSoFWCaed5HtW0-k8DR9OV5GDnIwc5LxEhCDlVvyMcd2JF_iKCZ0D5cGGhRlpIjwtugrRvnpZQjP4ebK9-lhIw",
+          "width": 3840
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102311926701220058197\">Andrey Ta</a>"
+          ],
+          "photo_reference": "CmRaAAAA55aIeglxRLr_l-hwfezpCnVVwJW0hVNsIyCE4Gyzo06iYZWa_f_Ho2JPDoiRwxwUMj73H4-Sp-DBIPZzf_wItkMLvb-oG2xDkWyyvR-Qr-sDeOJW7xj46F_Fm4F0jc8jEhBQ6rEIY2IdEPgdfXbuuPS2GhQSBKAsyhwlju_aviwI8riUcgOgpg",
+          "width": 4896
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103075269744416297331\">Mc Nino Florin</a>"
+          ],
+          "photo_reference": "CmRaAAAAaDgmkTogZNS2brLtjs9a_Ry1l6AebVFyOyXNxzvkr6nOl-eJQyltxONsAGAckAM3HHX5o5B7a5hD7GLQ1uZ7OSJaOMiwZM4DqNKZAVfvS-2hY9VVmzaIXqqGOjm71TRBEhBRb1QbvzeLlrMbDjHRiamyGhQfOfl11xX1CryCN_2-vsHFoD-nJg",
+          "width": 4000
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103075269744416297331\">Mc Nino Florin</a>"
+          ],
+          "photo_reference": "CmRaAAAAkI3VOkV0BxPqeBBv10hXVKlBrWqZSvGF_k2_eU25YC8HDGi4reViHnZyMafDmYEYvuMOZV_4hf9oGkiBXR532co_-zCCyH1AIabsQ2TNXd12KfbmLLGL2WuV-J5Vw6sbEhCcRXIbHNa1NlWcLrObJPnuGhSU38AkG_YAVWCKbhTUdWJe5QDXzw",
+          "width": 4000
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103075269744416297331\">Mc Nino Florin</a>"
+          ],
+          "photo_reference": "CmRaAAAAKHjfZbepMHxB_phGzkjKJLBjwN7FIjEkjLtWU1IulCmAPiTDc0fgW-TMGmsxuac3g_rGhf07M1TSbtV1Gdho4haODCkIWutYqukdwSPObRiUkIU3LxuFvrVcOM13oeyCEhCUvqaI-Ri3meVHuupsW8peGhQeCUoC1jojSAejeJLClwEAM5lmng",
+          "width": 3000
+        },
+        {
+          "height": 2617,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103075269744416297331\">Mc Nino Florin</a>"
+          ],
+          "photo_reference": "CmRaAAAAl3_Ois8c13BcevvYqXLuAdBfqzYOpjC1033vA0iqr0S8O-XDpwZriScyrz9cLCPTYwyz8lrVdSAGkz98g8WyaSvFQIPEhtxPc1YWuP8NIqw7QXLKysxuSHtPXS2AOkKkEhDky5x-t6MG2Ltan64WQiLjGhRs8m8kZ9KqUGtn5WfUSYXe2KjkPw",
+          "width": 3489
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115916348584520514863\">Madan Gopal Madabhushi</a>"
+          ],
+          "photo_reference": "CmRaAAAAh2qIJR6IutqZ20cpzNqfika4KkheobgQPeHuR84bUdJ3rs7Yv0g5G70iUyLhh0LN0h1_wVef-vZdDavVnbqdICScdKXCEpyG8eCR-hfR2UxgQ9Xyb-VbABZ4T3fCjcM_EhAUhoSPLQHe_klTfT-CeK48GhRyNV4_FgEpWWVn38GKyEsFguRwbQ",
+          "width": 4608
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.mgz.hr/",
+      "popularity": 0.4659136506569086,
+      "num_google_reviews": 722,
+      "mood_params": [
+        0.0023080305417150578,
+        0.02387286671130391,
+        0.007787278866433895,
+        0.05313282333483303,
+        0.005621406593921648,
+        0.04046702752114089,
+        0.05151342831382034,
+        0.016556906358667908,
+        0.017761136323454416,
+        0.023217808622325465,
+        0.05692871625514282,
+        0.006634621683938082
+      ],
+      "top_cats": [
+        "science",
+        "books",
+        "architecture",
+        "culture"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.4734380622710036,
+        -0.8708211184361633,
+        0.4227942638059009,
+        0.15086925901356196,
+        -0.7483814985829114,
+        0.46601490501248655,
+        -0.44546990750308385,
+        0.24356106773638975,
+        -0.024797467046519108,
+        -1.2082084363294152,
+        -1.1022236840035662,
+        -1.001116532911415,
+        -1.2892579093402614,
+        -0.8199022451395067,
+        -0.12221923861330541,
+        -1.2322422898088998,
+        -1.5328546975087765,
+        0.2382086344223937,
+        -0.7760944314300553,
+        -0.8453728396706078,
+        -1.1651339759424504,
+        -0.9214475370103291,
+        -0.8292006136090192,
+        -0.32818131456493704,
+        0.5389582066724122,
+        -0.8776338045164631,
+        -0.6785527047719955,
+        -1.385722934578046,
+        -1.1206274961628098,
+        -0.7024705286858699
+      ],
+      "global_mood_params": [
+        -0.5831492316899964,
+        -0.7985462994415872,
+        -0.9920025596567597,
+        -1.1236682861399392,
+        -1.1569576812235625,
+        -1.424361164723496,
+        -1.1693307975807892,
+        -0.5197849203548909,
+        -1.3764315889606404,
+        -0.7967842609612207,
+        -0.803102359547563,
+        -1.2157657290372375
+      ]
+    },
+    {
+      "name": "Croatian National Theatre in Zagreb",
+      "orig_name": "Croatian National Theatre in Zagreb",
+      "place_id": "ChIJp5AjU_vWZUcRIronALJH5p4",
+      "cat_params": [
+        0.19125239690848694,
+        0.06176652412433558,
+        0.3304519776080688,
+        0.3036448731461414,
+        0.25822928079854085,
+        0.11257550854407637,
+        0.3518445788513337,
+        0.2121149735770383,
+        0.1975228107052189,
+        0.23128769739176985,
+        0.06548016503168108,
+        0.0928437957907816,
+        0.2143360997059885,
+        0.16108643469316808,
+        0.2402993405992464,
+        0.20191565262065514,
+        0.5068557289130223,
+        0.3010958801389704,
+        0.34153294555298497,
+        0.21552106639319907,
+        0.5625492204393857,
+        0.23503682298442527,
+        0.23684834995103285,
+        0.1753792866351037,
+        0.011670664768938778,
+        0.30532757943608163,
+        0.31140094838652943,
+        0.38515275753439393,
+        0.27144576223544126,
+        0.26887417546267733
+      ],
+      "noncat_params": [],
+      "quote": "National theater in a grand, neo-Baroque building dating to 1895, hosting opera, ballet & drama.",
+      "phone": "01 4888 488",
+      "int_phone": "+385 1 4888 488",
+      "hours": "",
+      "coordinates": {
+        "lat": 45.8093983,
+        "lng": 15.9700411
+      },
+      "address": "Trg Republike Hrvatske 15, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103349552118426391594\">Albert Bredenhann</a>"
+          ],
+          "photo_reference": "CmRaAAAA68_yJWADcT3o9W_WNmS6zt9Irfw98ymgBcl-ChDsW9kxRAWJxxCGmx1W86T-tbjTX09SADLBTGJN3i9iQ7ghsvTeTNGvsmxQbbOrQaHv7Y9RS4fERoplXBT5g5u1dx6EEhCthGy-5oDZ0psROrtQnXCNGhQy0Z-dtpLW-WDq_8wp0NcT8yPxyQ",
+          "width": 5120
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106552467751474832146\">Rajka Bozanic</a>"
+          ],
+          "photo_reference": "CmRaAAAAaz6ZauK6_SyUXCCtlwRsUjv-iJatm28SOzy0mK_SLzTtPL1X29FDavt9IpHGVt3WZ2fWY47FLE5C1ryW9k3Jk2fvvd7Jg8UK_fpWUdeaD4U4xW6clduGqY1d9xpxzCv6EhDGl_DiVzu9cX-nS2P1H8XsGhSI8fVn2mvQJscBTJT9VewMN7AjbA",
+          "width": 4608
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102361552637233343074\">Oleg Weisz</a>"
+          ],
+          "photo_reference": "CmRaAAAAtn-ecV-2rqeVBhcZuUg4Zc5tJcyfaOTwqsrbWWvvj_A9dhJrELEDSNbp9nI6KkumHG3nz05r3dELbPf_tztKKOWNCDx1yyywUSKw-4nwJVHjFoma-q4BvaNq9DTL5JEEEhAhjrgywqgcVKITAZvYIWFnGhQfHnJe4fghnBk1rhI9vJeuRhjc-w",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114539952271651059766\">Alessandro Mandolesi</a>"
+          ],
+          "photo_reference": "CmRaAAAAxepwfws7X7wjeDEwS8wKh2PW2nEWfUgMc_HQrde-5bHjS8Y_mPzZz_tgDhbQVR-Zxf1ZWmusPGBjOHh2DuhNrv-Ky6V35REbjOo9nkkWtdfYwng6Do6WLttMmDaO22oMEhBtxmovIzKbjAQoP89J1iw2GhRRfsjlvsJY7dXCs1gqGH_r91Zgig",
+          "width": 3024
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118205754050356059409\">CARLOS GONZALEZ</a>"
+          ],
+          "photo_reference": "CmRaAAAArcn5YlXkU2SBG6RFRNBxCAizDonBx1aBNDz0HriKmgk4rDtCrxNuOdxqph3J9NSpAaH7TZSwO9-suSszvCaOl4pPyp2poCEwNNhCdimXYAqSn7s2JdH9HnWjsXx_0jFLEhDX8JlpuPoy5z8WhHOsISFQGhS3BdEd5w1jbiTvGPvrcyKX4Rtrww",
+          "width": 5312
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113267203202187044878\">Marijan Kataleni\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAAqB1aKPqMwNJPHteItgm4-6Ikl8fOHAQnJhrSMIk51tlZAfBa66iasqdIpX0c5FTVxzzRHmCcddNx95ByQp7Y8teLY7FYzveMSJVhgjE272ZyWhNTi79si3NBUsb-nDDEhDgP11jzvbzbdLQa0G6KObFGhSLgHMvzmfLQwLv0dXMdfoJrlBs8w",
+          "width": 3024
+        },
+        {
+          "height": 2610,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102382098084908496127\">George Szirb</a>"
+          ],
+          "photo_reference": "CmRaAAAAAPn403VpXe72A_Au08-2Nr8THexNqvUJPrVJDdAshAnZd-E8MnNpsjwW_VfUF0eiOsvGIQhFA-OBPdhg4rAlhl0NEXcN15dZJ1S8ldgUuBONNtLAU5n22pY22xz45eHMEhAotn5B-YnHD9KtI-jCjlneGhRnScxSKPYbD8gJqMeGvmcq5BQ0hw",
+          "width": 4640
+        },
+        {
+          "height": 2016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111824196258471922137\">Ivan Gellineo</a>"
+          ],
+          "photo_reference": "CmRaAAAAvOWDFRD-KJSwNUMXS50YtAXPcc32xLUFrWm5xxrnDsq-8W1OdI1fKKwrwzUtQmY_wztTAcg1k9BsaxA7FvofLlwXT5HC8QSuHUq7zBa-9CfHtRmOqyibdyvG2k1SW1LZEhCYYqvBFX4X05_jvh4DiaEuGhQUtCLqDfRjqFf1Ld4RekBW2xbYaA",
+          "width": 3584
+        },
+        {
+          "height": 533,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113504520933780793159\">Ivan Brncic</a>"
+          ],
+          "photo_reference": "CmRZAAAANdwmiJLyDamrEDxW_m9j2u75XUDbPeOvHT9oqSjIu_eRJMOs0DQIuiMDySOj7nDrDRD2zeyG9gTco87ZfXg68_d0sMC1iNibeU93FqyQxXg4uJtV6B2LTDgPjHKoDb04EhDZBLeQORTia0PMh3MZOds9GhQQYRp_bDBwIBuEZ80E0JECrfj0cQ",
+          "width": 800
+        },
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113219391751960077068\">Mladen Jakulic</a>"
+          ],
+          "photo_reference": "CmRaAAAAxHHugvGFQhP3TyU3ixnx5PsSR4tooHdYIQNo2OkCeKjVIZgMlN5MiDiw_LROqHJTxd1-WjY8q8YydHaTuDtxSVcFmGSZNxPhYXE-pOyeOHr4NRwYK2NSEzMRq00TvjsEEhBpJ1SVvr2OBGeUPXQ8uZH7GhQxCKrk_34ipt8KDLsD8AcEpSFVVw",
+          "width": 2250
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.hnk.hr/",
+      "popularity": 0.7747749528650254,
+      "num_google_reviews": 5521,
+      "mood_params": [
+        0.005399351790239643,
+        0.0434165511734594,
+        0.10909972232781598,
+        0.16370121212591182,
+        0.12600025966292144,
+        0.19736973008349623,
+        0.11886916561188854,
+        0.018533622563392266,
+        0.20376129935222276,
+        0.034336535186228624,
+        0.062353616136709394,
+        0.01879021047979095
+      ],
+      "top_cats": [
+        "music",
+        "movies",
+        "architecture",
+        "art"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        0.3644277010982784,
+        -0.6036721833987195,
+        1.039414887300946,
+        0.5171863977515149,
+        -0.28763549838296243,
+        -0.4342836509698064,
+        -0.4942540318158648,
+        0.010834145029373523,
+        -0.13460902227989827,
+        -0.957661550529347,
+        -0.4292305089553159,
+        -0.45637709079392585,
+        -0.42345060500935117,
+        -0.32805562735938554,
+        -0.541924042488073,
+        0.36935662021616916,
+        0.20462040693959677,
+        0.07504483954614023,
+        2.2432233532463015,
+        1.5914509737955085,
+        0.12179115072932017,
+        -0.19769509633191815,
+        -0.2276857647847301,
+        0.0668382923903172,
+        -0.45738967522736723,
+        -0.3650713775400025,
+        0.19878715391305182,
+        -0.22919745353387327,
+        -0.1675696692475186,
+        -0.41845848905460964
+      ],
+      "global_mood_params": [
+        -0.3751593620343135,
+        -0.21303674233037587,
+        0.8320902332242782,
+        0.5809044393775975,
+        1.4850265220409142,
+        0.5486929871325051,
+        0.10534978493049874,
+        -0.4409619178762076,
+        1.0841059342274821,
+        -0.36467522831141047,
+        -0.6775690759138655,
+        -0.47265966099774215
+      ]
+    },
+    {
+      "name": "Art Park Zagreb",
+      "orig_name": "Art Park Zagreb",
+      "place_id": "ChIJqZhFyuLWZUcRo5DsOkYfdL8",
+      "cat_params": [
+        0.16157344875979418,
+        0.07518681390481737,
+        0.18031377709228086,
+        0.19222788453569573,
+        0.27120275655892523,
+        0.1074883638791713,
+        0.3368445404567586,
+        0.1761228139470759,
+        0.17443984516442707,
+        0.22217320483498523,
+        0.058921977937776114,
+        0.09666882774770076,
+        0.17769595379609235,
+        0.1529250472267385,
+        0.1755288666487811,
+        0.1072214081679468,
+        0.2732684309999011,
+        0.2639992223933969,
+        0.1482657147268833,
+        0.08241506344432639,
+        0.4251369366981868,
+        0.2294886958937683,
+        0.13960533197962877,
+        0.14875921829806288,
+        0.01710219518221377,
+        0.27230870000305457,
+        0.2821083008252934,
+        0.2687964016144142,
+        0.21221254819598018,
+        0.2929913332726944
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8165734,
+        "lng": 15.9807883
+      },
+      "address": "Ribnjak ul. 26, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116942903569183739130\">Hrvoje Herceg</a>"
+          ],
+          "photo_reference": "CmRaAAAAHbGbftSWx-OICT43jpJU1CEvegV6rMr9KuscAfDwXiVq9e2Xe2PGNRlnUHMMCeCFoA0tlWvmHpSszzLEmxZmTI8-ulifdZXWYpL3dC8M0yloDWfcOmGEJJcx-XFHu9-AEhBNa24MaMkP_bBt6cCOvFmYGhQCLDxChX5ExLIIm5LuS1q25jl1jA",
+          "width": 4032
+        },
+        {
+          "height": 388,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115269027699751445438\">Gabrijel Cavara</a>"
+          ],
+          "photo_reference": "CmRaAAAA0dOo-XdKpRaBQ5z8QcEEaRz_-Mhrskax8O80OpAPr4XyqnGoKdiEP4339qeeB51C1DdlX2YUCV5ijZz0mW4NTG9KUzw9ra3o8Fa0b0MhYhovSNFX5R22VdPFN8Si8JFgEhCcgp65ggiDpYadzYD68caiGhSfxzrw54afSZYo6VKQNt7cQ_2K0Q",
+          "width": 580
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115269027699751445438\">Gabrijel Cavara</a>"
+          ],
+          "photo_reference": "CmRaAAAAL2X_82Eo4yG2nDP-eDPl8y-acQaeEPo_D6SffEzKJ7bK3QSbWW8BQho4Bbw-WaBwSOBbjNuCajxt2SCkLr4LVYggLAWjns7ukSktbujpDzr4nNY0ZFhlOXQWGFAs9uHCEhBVnwqf6Euxiqpf2o4ewFgvGhTCOe0gs34eqTl1umcyshGJPx2Wyg",
+          "width": 1440
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101201802740575783089\">Vi\u0161nja Dabi\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAAdOI8OCfj_iQoRkj8ByJFZxWSyJUZK2V56tcFZRFxhgKmqfztfuvZ4sE_8sVM4sTTUKKTc4pAIyRgmDhGlrvZP61SOmcCIE3PGaVTNYUZUprKPY2moeA1Fe49fWlT7Lu3EhACfNrLSeapqy490srJn6btGhQDzx-8n4DPirHX1kIjFx3IxsKCcA",
+          "width": 1458
+        },
+        {
+          "height": 1932,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104425947762378598937\">Anna Pujol Reig</a>"
+          ],
+          "photo_reference": "CmRaAAAAwUQXJ7iZFAG3zD50qGGfryNSHcvRgL0dbxSz5Qyc56m9-t2Nu38MoT9ki1b9OO6wQZgtsjXKN_OsbNE3fdKz5coIaPsFjyPuVonFInJMSCmxWnljMG561FnMfG6rH6s-EhAc59m8e_veV-H2zTLkq3mlGhTnnBDhY6fi-6wxXXAidbIO9SQQmw",
+          "width": 2576
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116792146603560119979\">beat berner</a>"
+          ],
+          "photo_reference": "CmRaAAAAN1I9Tc-4YXI7wKBRGKjYEyV6jYz6Y6a7KSWz6wwD-sQ-ghK9N-dSCsPFP7e-wZ5kAkNWHUhgzAq2Jvfh-vlhKCPEeBoKS4g7--wlM12xcZ5yS6GvENd48jC4L3yhxnXXEhDAMgeSBBmliYfiy16vlOjxGhTeavkvqkhGBbMqEx2IwAJCifU7rw",
+          "width": 4032
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104789614908121499128\">Mario Flaming</a>"
+          ],
+          "photo_reference": "CmRaAAAAXpbAlYJVKpzylebnjXcQ1RjYfZgXGwS9XBtnCdE7-yTkI_fypeUEpb18XinEjLRIhoGGue8jXio1zhfmwj7itCvWQWdw7y9uXwu6_r33mUy6rf3nC4Y1JMIT2FUMKA5pEhBRyK8QQZpnMstJvR85LlaXGhR8GXNbVTO5sUS0g3hwBCbcnAVUyw",
+          "width": 3968
+        },
+        {
+          "height": 3632,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100593870064364340507\">Michelle Swanson</a>"
+          ],
+          "photo_reference": "CmRZAAAAgiwBPp9yPC_VV4u5zYfeE9Th28boMHfeIP1vK-m119w0y-_UPe5aFURq2Rw0Pylo88mW8hf0hJjJj2q1uVgQawo58YuvwUjsuffwJa4YCZ_8nUXVc9jS9gMCfrQXVrXHEhCpxXnYqcqOUqUtUEtx7guXGhRr3ivf_D9Vb4WUywIzr9arJf_lpw",
+          "width": 5456
+        },
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115269027699751445438\">Gabrijel Cavara</a>"
+          ],
+          "photo_reference": "CmRaAAAA2AAfO0KDwYY9HxvlnJ91Qx-mIGE2YRJO94fGY3eebUxfBJXpK5UVQHbBfSCwilx9gFClYBJbZEqKeI4TE4cwzRYMOA9QZVkcUnI7HgSJ3DwecUsjVz88lEhPWNzEz0C9EhBI5FGKK76464wnBj_FBZJMGhQmeiAtIjioMtOb4xibtss77_eEuw",
+          "width": 1440
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110134604100301395804\">Milojka \u0160mit</a>"
+          ],
+          "photo_reference": "CmRaAAAANqdM7vXI2Pmy7My4U1n3H2HD0qwak_t7oJ7yRxQKZYXe92s_5w6JmpKp60nuQVteyn-3PeYf6oOCFFzniaSvSsAkTov734rW7hn2AOXxYUhL2hYC3Q0LG8ozFPx_FZbQEhAMDtF6UQDLng78jXx1WNAKGhQfvALqgI9hA-YYuG7Kr0sw0wOhHQ",
+          "width": 4208
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://m.facebook.com/ArtParkZagreb/",
+      "popularity": 0.5532988218656084,
+      "num_google_reviews": 1436,
+      "mood_params": [
+        0.006405208710933981,
+        0.021847401603872926,
+        0.04889007164491537,
+        0.047606464168945914,
+        0.020006626102108595,
+        0.07039551314880056,
+        0.05319211334118193,
+        0.017769366237409583,
+        0.06257891010186403,
+        0.01684450371892377,
+        0.0435358261897695,
+        0.00901169019649314
+      ],
+      "top_cats": [
+        "amusement",
+        "sport",
+        "religion",
+        "beach"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        0.004320275082409315,
+        -0.4432095808437215,
+        -0.4354510377306252,
+        -0.2790240102123156,
+        -0.20761062176871728,
+        -0.5021495646916146,
+        -0.6538819623624071,
+        -0.3888879109508055,
+        -0.47621446015143265,
+        -1.054572659022081,
+        -0.5641093588465826,
+        -0.4200500414999268,
+        -0.8193910114096192,
+        -0.3880257322654153,
+        -1.2462388723721078,
+        -0.7396916899124489,
+        -1.0628341173924623,
+        -0.3129721461371731,
+        -0.2237518742126506,
+        -1.060802646129216,
+        -0.5483696851374994,
+        -0.25189622359310654,
+        -1.3240839863549836,
+        -0.18148523477195752,
+        -0.30100331654390067,
+        -0.6099865543313292,
+        -0.07568243508739649,
+        -0.9850935427728783,
+        -0.5251267493588728,
+        -0.25262569379901506
+      ],
+      "global_mood_params": [
+        -0.30748342899198344,
+        -0.859227241169467,
+        -0.2519620916456446,
+        -1.2088651602970228,
+        -0.8412417416528676,
+        -1.0480099492117743,
+        -1.1375623500161656,
+        -0.47143719709600973,
+        -0.7835513877186802,
+        -1.0444711341623218,
+        -1.1130165522433988,
+        -1.0704487011670671
+      ]
+    },
+    {
+      "name": "Tortureum",
+      "orig_name": "Tortureum",
+      "place_id": "ChIJ__xRf_3WZUcRXySNCQ_hyxw",
+      "cat_params": [
+        0.09129271957225235,
+        0.0668993119505124,
+        0.18356298287492606,
+        0.23726701537020323,
+        0.0923342444625508,
+        0.1513008086422274,
+        0.28617450198324984,
+        0.21535968888638107,
+        0.13700058574162546,
+        0.2726493494017554,
+        0.07747666990124669,
+        0.057738077677911614,
+        0.15317758461344427,
+        0.05230767466361779,
+        0.2787213338176602,
+        0.11552429281001331,
+        0.4202271974409652,
+        0.26284881956143386,
+        0.10894788361288571,
+        0.167489606742106,
+        0.3361537975890229,
+        0.11306056640478387,
+        0.2781205031377456,
+        0.07768875135246096,
+        0.024893135014447402,
+        0.2667695174145312,
+        0.1773519487948587,
+        0.293704937978131,
+        0.1245539490324604,
+        0.12352830039523453
+      ],
+      "noncat_params": [],
+      "quote": "Macabre museum displaying instruments of torture & execution, including a full-scale guillotine.",
+      "phone": "01 6459 803",
+      "int_phone": "+385 1 6459 803",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8144166,
+        "lng": 15.9758325
+      },
+      "address": "Radi\u0107eva ulica 14 1st floor, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105071796222204575188\">Dino</a>"
+          ],
+          "photo_reference": "CmRaAAAA378eK65xbMdktinkczJVUXRr9tjhHMmNsDG2mvNfHSBmOXIbZHj3Rq26yFL2B8gWE_l7y2uLeAIG4oIntT0wYONVw4mGSTbMVyWEY9oNYwZmPR0VuHKUawg7fWhb0LSHEhB9HVI9HNp-NoyKrFGfgKb2GhRr1B6ksWTdMzGYVhslI_HwrqqruA",
+          "width": 3456
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116724178353224117379\">Vijay P</a>"
+          ],
+          "photo_reference": "CmRaAAAAQD4cTC6tafmpEVFmPnY0hveJGeBPQSLo5K6mJl1WRybWQ-GyyoM_TDF-HS6jKpXIrlBG815MqMaaZheH6RcQcz5Pb6ANw9Hvrk1iGvtC1urL25yutvfPGQh_0QXeEjUMEhC7AtIZQ5YcFGO_icAiQ1eiGhRB4QVjIC7dIDpbQEkiOSHO3arcqw",
+          "width": 3120
+        },
+        {
+          "height": 5664,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118240464451234566658\">Jesuthas Ajendra</a>"
+          ],
+          "photo_reference": "CmRaAAAAQA-yIJwP0apMujlGRN-D00uY6Kry4Rln8zIFmarQFLF-vcveMO-fSLppDP56FOIvnY3ypm8nAJKCIsKE1T6eYK0uGabyrPR_yDFtyxjABqzZD36n7AEbb-Cphjvu85uPEhAumfw5VRYvAm9P7bZ3bwm8GhSA1Ky4Q26HlV4lEyLsr8kyxFWBWQ",
+          "width": 4248
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109665586640253275269\">Paul Bacon</a>"
+          ],
+          "photo_reference": "CmRaAAAAOB2ecb6ikd-eMqEOv6gYuZX1vt9W0AnjEfNYe_rcvBX1Y8Fzaq_QmaW1sbO_6XPJPo3GITvyoIRIEdN-dwAYT86SKVLLaPl0M7VrCZ1viSq-NIdWkr3lLhiVWuq0nXMUEhDVKq1yMA1mYYQufMuMUxWpGhQEpusiYGK_sh_lxE_naSAR3v8eww",
+          "width": 3840
+        },
+        {
+          "height": 1236,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108734987640676776509\">Zoltan Varga</a>"
+          ],
+          "photo_reference": "CmRaAAAAM2YO7ek7YOmsL4iYyzioOnlcb9TQ2vZ9reboLEylsaTSc0gNVDrI8CdRi6ByrGKfiZgs_w34fUNAsB8b7VXEJwW0gZsUkfl-Q1FOap15D1if2mdtVZXHEibyGn4GeALgEhDdncrhgFm2XPsLUQzVfW8cGhQ5gGxqaVIaYcYmLyLy0oHZjPA_Bw",
+          "width": 2543
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111254548529059322406\">Ale\u0161 Zavr\u0161an</a>"
+          ],
+          "photo_reference": "CmRaAAAA7ViklgW_GGbMuIQc67g0E_u0l3ztXDK7ApHoKDMWr28Sln3uycT9MiphirQxZuhyshh-AezaJeaAlqaLLmQYkfII4cKKsi1qoPEaDVKNNXaEi-QtB23wZEv1au3sNEDVEhBEDflBFndqmRJe_7dG0CjQGhRByJiRMjLDyjoqzuHBDiKvzmN97w",
+          "width": 5312
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115020441425780764988\">Sonia Burbach</a>"
+          ],
+          "photo_reference": "CmRaAAAAY-2M2sliK0EQn9fO8ImVG7DUoKBghtfrLrqWOZedV8EoMVfo263n28skjE-fewEs9dA8MPJUR3lYAues25BJtumVdZkdpAIGMm7cUii0PmHqTHKCOJB_Ph94Q-DUCDZ6EhBWx6312Xp0fgRxrFVQBY01GhTb1Z4iUkZC8PRN41ZXaJ1EW_GNpA",
+          "width": 3024
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101772639224495835152\">Gil Lavamani</a>"
+          ],
+          "photo_reference": "CmRaAAAAaAFYxMtNM4osXu84zxvCaYZQgDFkbpYmYvBnMDrdOByhXzclT7w3j7owsjdunYUPt7Mzm28rzGoOHBJq-hIN8_l6GDx9ojcuFqcElazNciF2jXNjRl0jO5AHM8eTDZLnEhCDQJRhahYF5Kgjf6vAgCOFGhQuqmbB-GaIdlXfAW856A1EoJVd6Q",
+          "width": 3000
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112572410755086298180\">pascal breville</a>"
+          ],
+          "photo_reference": "CmRaAAAAGIYeRnnDqdg3QVpAiQiZip2ROXl4-zsgpN2LfZnFwHFcbLji-HMO2F2JdFM_bcoxtq8QQG26o4xbnktDXkXJGYr-AZTeR2VpdmD0SzPElVgzhH0bcaJWJ1HN7Xu7OzffEhDq595AFLRTxZGUw_3fUqQBGhQvyrb554rJZs36RoFQAIIxQbAFIg",
+          "width": 3456
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115601006293797181086\">Roberto De La Parra</a>"
+          ],
+          "photo_reference": "CmRaAAAAdEc5pS6T1r8vpljamC8yrkKRefMFCuyDK-7jAINF-kRxKT4uR2B3PVTHWJtsDspG2y-yLCFpo5MtPoW9MexE8jDFoDg6-0I7HbrrQVDKqCJpVp-uiMsgtav8i7xS3-zCEhCUxWaJi2JBy1I2_kjA9Ok2GhSMaHa1HA5yrAAnWK6HpWt9Z2vyUQ",
+          "width": 3024
+        }
+      ],
+      "rating": 4.2,
+      "website": "http://tortureum.com/",
+      "popularity": 0.4279686090610484,
+      "num_google_reviews": 514,
+      "mood_params": [
+        0.011615507212180267,
+        0.0835214636112462,
+        0.015119296768455736,
+        0.19116001286147513,
+        0.011275467729200768,
+        0.13514858106898622,
+        0.11529530089963246,
+        0.05850098224923337,
+        0.04637664305567216,
+        0.13131573057287935,
+        0.16973158403767624,
+        0.03195961285762174
+      ],
+      "top_cats": [
+        "movies",
+        "original",
+        "books",
+        "culture"
+      ],
+      "duration": 1.4375,
+      "global_cat_params": [
+        -0.8484260001375497,
+        -0.5423008936260649,
+        -0.4035328258713122,
+        0.04283556599164498,
+        -1.3109333453826,
+        0.08233776407329949,
+        -1.193104140964638,
+        0.04686933402206624,
+        -1.0302790835253572,
+        -0.5178780386766056,
+        -0.18250458358094027,
+        -0.7897827111262152,
+        -1.0843411860711099,
+        -1.1273650189736324,
+        -0.12412287527524259,
+        -0.6424492414965319,
+        -0.2654296562763335,
+        -0.32500492392112623,
+        -0.7256275152152486,
+        0.634382097053621,
+        -0.9823411850636855,
+        -1.3893135466103625,
+        0.23765062952168342,
+        -0.8444613325622308,
+        -0.07668408819029342,
+        -0.6510730450373304,
+        -1.0572404464236203,
+        -0.8232780142859806,
+        -1.054271643348233,
+        -1.417876120733134
+      ],
+      "global_mood_params": [
+        0.043075189481795235,
+        0.9884669743768183,
+        -0.8599923094306782,
+        1.0042218388714264,
+        -1.032866615202716,
+        -0.23373901940059516,
+        0.03771581437390628,
+        1.1527657421966642,
+        -0.997886070972175,
+        3.404244356574207,
+        1.8071788816151872,
+        0.3324237441564867
+      ]
+    },
+    {
+      "name": "Art Pavilion in Zagreb",
+      "orig_name": "Art Pavilion in Zagreb",
+      "place_id": "ChIJTaNU_fjWZUcRp4xqLnvVHVI",
+      "cat_params": [
+        0.11914265024326676,
+        0.04282516930916852,
+        0.2939521637282529,
+        0.33655793158419506,
+        0.20130525635983965,
+        0.14431930221225628,
+        0.2831182944455531,
+        0.1891976493889845,
+        0.21685765776240182,
+        0.17363618694111843,
+        0.03427772957421462,
+        0.04340757676735128,
+        0.12833321068775203,
+        0.11917340932923058,
+        0.2046701145328064,
+        0.10966939904789186,
+        0.2791534608139162,
+        0.24861750036170804,
+        0.13444195616010182,
+        0.08135051996498642,
+        0.38340215702999497,
+        0.14641205652003797,
+        0.1565614590295574,
+        0.13692546876330913,
+        0.021851263737703304,
+        0.2390764932699513,
+        0.21069977584500826,
+        0.24710745131384113,
+        0.14680853326477286,
+        0.2335347971654981
+      ],
+      "noncat_params": [],
+      "quote": "Imposing, 19th-century museum hosting major art exhibitions, drawing on all movements & periods.",
+      "phone": "01 4841 070",
+      "int_phone": "+385 1 4841 070",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.8071199,
+        "lng": 15.9785638
+      },
+      "address": "Trg kralja Tomislava 22, 10000, Zagreb, Croatia",
+      "photos": [
+        {
+          "height": 1420,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105812225319439818791\">Umjetni\u010dki paviljon u Zagrebu</a>"
+          ],
+          "photo_reference": "CmRaAAAAyfuAhb3IfvVcbjFBeh5wVsXUfblsGtlCSwh8W5XUtz_caCjRVsh7xyXwwzq_Wx8Ej8451vSDzR25Z5M0wec9L3acP9eHDsRaJJloKj9XCOgqP-Na0CQ_xe64SKWCf8txEhAyLSxIpj1-d5rEn81HvSE7GhTAnR6yvlMJL7DNFrWj1IHvO6jTCw",
+          "width": 2048
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109832135177694961248\">Zlatko K</a>"
+          ],
+          "photo_reference": "CmRaAAAAUQ0kVKKHonF9G_q-aQufaGH2KuAVbXxglTVRRxaN73xVDh8RZ2d3GDalokakCTqVtUolHqje7VwDiSN1hxJcfPUOdUSO8H17oc14ktu0wsxOPvVAsnVJCyDLlbEk-oQLEhCBELyaZ2hSDYnNGdCIji9cGhQUyLxGOniXX1YbcQHVyWqHtOsYxA",
+          "width": 4000
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109511794001372919921\">ines zeli\u0107</a>"
+          ],
+          "photo_reference": "CmRaAAAA50gILOBXI4vXOdOYLY--GoGSCh2FAHXgUwMwMdQJy69y0wdgcevsrsLbHZsNOy-e-MrEA3dVEksyDGBRePEDBZze1qndizWhFoRyYEBbKxQUpVW4t5131Jx43Nhj2ZLVEhCzNBErG2XtOPln5-IRaYYgGhTpdY_YXQ1lvZyiMfLV7KxZ66fqRA",
+          "width": 4096
+        },
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102607572597512512789\">Nick Zdunic</a>"
+          ],
+          "photo_reference": "CmRaAAAACzjdNdGRUeUCr1od5bFUlysTEDDJX2Rt8vpujFXB74aORULtzHWTkNaBJ10bv55fET5Teu0ImEq_8igFRKxpUluAKVCxzA-uuAP_7V39kO3ZHKbXZwzc0-xxedLAWu-pEhCI6Bs4KNXDPuONVRtZ2rpEGhT9fzcQYEQTghEjeJUVV_ILBFfuSQ",
+          "width": 4128
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110611271377010812009\">Pavle Miljovski</a>"
+          ],
+          "photo_reference": "CmRaAAAAsXHCFMCNM0gazDVNbDrg1e7mmDxt2pcXg8XZ13Qt2EMPsRjPMMFXtCe7Zz6kYh251cENasNR5zRes2NDl47sLu1rYpnyU2fVkSUmKrjhF4Px4ooE1T06iu4XphnfoVffEhAT17FQ1bz2MubxbpclDNtXGhRFex-Yh09S_BCCf9_qKfxDsF8OWA",
+          "width": 3888
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105812225319439818791\">Umjetni\u010dki paviljon u Zagrebu</a>"
+          ],
+          "photo_reference": "CmRaAAAA2K36C1AyrJD0tHZ11ldrxGLtC-Cve0_8FOnVj9d7VlYjnj23BA0uc3ajhAP6oIzSJdk3I3V1LfsHycWNTN2RzCMlJeLJAp3ed_NI9SAtICM1N8N3KUxVW4Z1A6rOMCJAEhDHYdfXD9C7z3oIrJrsTrO7GhQ6J4ecPty9txcVhjPqFCwfEt_3MQ",
+          "width": 5760
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107418952456644053809\">Tomasz Marzewski</a>"
+          ],
+          "photo_reference": "CmRaAAAACoJxeLkO7keH-CwfFYUhgvWcSRx7ZosI4qvcaxMDZxOAQWGw5kP9Uf_L8GbYZa1_IPjbp2cGtDF1U1Vl8KC0Uw5fJXs0E1CUAkuItE1jSfwyG0-WUvJmXCCCCqzVt9mFEhCQqw7I2oOn27ac2-xgIvgGGhSuopStN0bU41cR6FYPXmklRhSYMQ",
+          "width": 1616
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113355415493992923185\">Chris Kubica</a>"
+          ],
+          "photo_reference": "CmRaAAAAroU0GZSQ7rj68UwYbIYi6eGHW4um03IEZAFRXkriN-yI_nnaLfYXSsB1vEzaQEXZHhH0oFz2Uba6NZv3F_v7I9J6WuhoIIiq--Jy-amgz8WF9W5br_yS65S8xTCeNvmjEhCo_170kti7BnMDp21jDHBEGhTT_ajTiw9RFLT6fUSR4VyrOUzfNA",
+          "width": 2304
+        },
+        {
+          "height": 1417,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105812225319439818791\">Umjetni\u010dki paviljon u Zagrebu</a>"
+          ],
+          "photo_reference": "CmRaAAAAXsh2TSI9ld4ZvtrYz3vYpxBn2fVUqbmtVOeqcn0ylfRaEET6nYOnL7KXXJY9mcP_v1XBGIsy_QlyoqXbxXt2sKCHDYBdwQKvYwsFsSSeJ46dBEJk-TCkwwC017V4CM3pEhAgfy0FTrZrPBOnf7WT6HS9GhQ-SQE2vf9fqudPNRWNApGbt5mZ0A",
+          "width": 2126
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109091867195462592898\">Thammasorn Jeeraaumponwat</a>"
+          ],
+          "photo_reference": "CmRaAAAA4CWjwybL4zjjZDCpcDQcqadZd2attzarzL0C5aH1n7L1_4vP2MrMF5SUX5YsM982GVJ_fAyFOrdzUHceY7tfeqfblc2rN9adJN6SgJ7Pj8t59ry4Lqy7WWVikr4jjoZuEhBjf_hQeKCuHTKffuzXKnVoGhSBBfcfJs3ddtPTNgLmhVrFiyU0TQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.umjetnicki-paviljon.hr/",
+      "popularity": 0.5492079673841582,
+      "num_google_reviews": 1394,
+      "mood_params": [
+        0.0007351291781704577,
+        0.025371639496467528,
+        0.047404759603137184,
+        0.0759120840440969,
+        0.04919850459816899,
+        0.0868098820016225,
+        0.05898836872115023,
+        0.020039341190677736,
+        0.0817187123813729,
+        0.01807580096911007,
+        0.04667540193748083,
+        0.008703694609863751
+      ],
+      "top_cats": [
+        "art",
+        "architecture",
+        "engineering",
+        "books"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.5105108288041903,
+        -0.8301485962985189,
+        0.6808630225763246,
+        0.7523903824681079,
+        -0.6387625298916237,
+        -0.0108002031430328,
+        -1.2256277966867268,
+        -0.24368128378049583,
+        0.1515279077205415,
+        -1.5706492455924332,
+        -1.0709548983404389,
+        -0.9258821787512972,
+        -1.352814230176591,
+        -0.6360337178915862,
+        -0.9293566296739544,
+        -0.711021096844153,
+        -1.0309016975638092,
+        -0.47385913111270483,
+        -0.40020636051565195,
+        -1.0820146067778367,
+        -0.7519105481933059,
+        -1.0634939807371697,
+        -1.1329065843154058,
+        -0.29187557587923524,
+        -0.16426661767244075,
+        -0.8564840711144945,
+        -0.7447741742855897,
+        -1.1259933894746534,
+        -0.9199334297929684,
+        -0.6614567698545968
+      ],
+      "global_mood_params": [
+        -0.6889769743553784,
+        -0.7536445414669959,
+        -0.27870458149211397,
+        -0.7724928106083888,
+        -0.2005604269206142,
+        -0.8415989818654004,
+        -1.0278705185478745,
+        -0.380920287819721,
+        -0.530356976873733,
+        -0.9966190118329823,
+        -1.0403661326170164,
+        -1.0892773562982583
+      ]
+    }
+  ]
+}

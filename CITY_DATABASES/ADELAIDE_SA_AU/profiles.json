@@ -1,0 +1,4729 @@
+{
+  "sights": [
+    {
+      "name": "Adelaide Botanic Garden",
+      "orig_name": "Adelaide Botanic Garden",
+      "place_id": "ChIJk0CE5jLJsGoRqFcVvG-ngDY",
+      "cat_params": [
+        0.13517317931638698,
+        0.09000739260203097,
+        0.24494676393512224,
+        0.25388236839664274,
+        0.4449907652513195,
+        0.09742825978501196,
+        0.3891760145276607,
+        0.14727135111736256,
+        0.1659257437230352,
+        0.31043763473151387,
+        0.07334175111676779,
+        0.25703952029309934,
+        0.2827318775242459,
+        0.20881160965073936,
+        0.2281796405468959,
+        0.20990988251045192,
+        0.4876114170691324,
+        0.22362751246773485,
+        0.1383676072797787,
+        0.11603777877175318,
+        0.8067212402072559,
+        0.24109078859805771,
+        0.23768954638936576,
+        0.13432516736415573,
+        0.01098112409397869,
+        0.3594966011449663,
+        0.25910781390853943,
+        0.39321911385468905,
+        0.48334707851542047,
+        0.31662948129088736
+      ],
+      "noncat_params": [],
+      "quote": "Verdant, 125-acre garden with rare plants like the Wollemi pine, plus statuary, greenhouses & cafes.",
+      "phone": "(08) 8222 9311",
+      "int_phone": "+61 8 8222 9311",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0715"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0715"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0715"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0715"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0715"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.9173675,
+        "lng": 138.6099918
+      },
+      "address": "North Terrace, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101333267916405459896\">Florian Eisenreich</a>"
+          ],
+          "photo_reference": "CmRaAAAA40IBoeCN8lvCq4Qdc4HkeB9F_xIfgWOYTDPl4n7QAJ53B3bsw7bUHuU2eKX6q1B9xvrpoI-KNL2bX8doMItcR0r873Uz7KQx23mL0HY0tpIpTFdqMqdDE-evl3Vj4FR8EhBttu4hO2WmlNY2H9g-G1vMGhShweE8kQe75qgKnVqt0SWIWpo5CA",
+          "width": 4032
+        },
+        {
+          "height": 898,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109642938201486404628\">Adelaide Botanic Garden</a>"
+          ],
+          "photo_reference": "CmRaAAAA6cKUougLjC_4bHu2n4rtk_80yLzBkQB6LlVX_gNEFDV4DCcYt7oXh7o-WYfKsLcnE5kO8asR2SYV06a2ZuoV3dWr_DK10fRYEJVRz6bhh4j5NXKxonSja-0vjkbSM5qBEhBFoKLuhP25Z0UOoyMhzmR1GhTRE9LsTJdH02Er9ibI8aQbUvhy0Q",
+          "width": 1200
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106254468980029007979\">William Burbidge</a>"
+          ],
+          "photo_reference": "CmRaAAAA--UVmIFKUDDSpvsM5zuIjDVnuLvfDhzb7qf_VBZZkdbTds2_CnkABwWXEdhLUpFZyuDpn5x5H1MzKEYuXQzZksL6eLxwMQk7wI_OC-SHu1C0m34BDBoqr5OPJHpW4-ENEhCmADZy4JqDvjZbThduW_mAGhSpBAv4_8k5GAQV1eMJQjcsqLu8HQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112398049120116994443\">Joel Fiddler</a>"
+          ],
+          "photo_reference": "CmRaAAAAgD7HJ89sFKkPs0sO9wQl4bDV4Ujpogd19FGtiyOW_Le4X82aSbcIuAQAYv_lZZe3qu4Afiovut8nnTQ5nQtUU_2PomLrwmufViDGPLypuCaF6e6rfb6_2CQBRQWxv18mEhCEZkP1-SsCTu4NyZwCk0y_GhQwkEfk9lD5oNxu0YCxscIfTFIZgA",
+          "width": 4032
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105802378843733582466\">Astro Spectra</a>"
+          ],
+          "photo_reference": "CmRaAAAA6-mPwZ0hHZ71hsNMv6H5ugkI2AHStOAcGPXs7zB_Jfo3wPaLXN4AikSV_HIndk-Ph9nOiE-5Ro0BKRt4GaQ0UKatHOl22aI9Rh7OzC1m69D1B5JjEjhjVYFOpuFrT1pOEhB5yde0S67LAoOxT5nUcG-sGhSIl6tU_zSVaObpNj_HnntrUTwfZQ",
+          "width": 4096
+        },
+        {
+          "height": 3278,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116439758539255527770\">Luca Oliva</a>"
+          ],
+          "photo_reference": "CmRaAAAApPt8ehcaMeO_B6kjmL8KkRn4z5g4RCIIhHXlp5ljrBy1MnXRD0MDoNTzexQTwH6feauP_8h_g-IGqElH0Xo2w0qi076u_qc2aZFjSDD8mwsAMc1iKTIZ4P78TH6MC36JEhBJsVIq5ZXb4Kt8eTPfxoZwGhTC_kFkoz4QXq-LbDPAaZjmBeYSPw",
+          "width": 4879
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104204805935604872893\">Dashon Burton</a>"
+          ],
+          "photo_reference": "CmRaAAAAW0mVrWKnbt1-HQZGJ-CUfQDJ9aNwRkWODFzfrwN6kngixleGrspKdXTLgmy586JDhWiJZ2j-mJOHvECHKUL3mR2DAz-B0dNuhuQ1BRb6_Rp-3VQdo0SGWfwoY0cBJ3lzEhB1CYtT3mGs74LaocIGQTLrGhSlUuJgkwERbVfz_lXwUV_Q_iGOqg",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117899811735656913475\">Kevin Ruggirello</a>"
+          ],
+          "photo_reference": "CmRaAAAA8vwAgwK7Z_e35zsHQ5k_x1hhW6tiNiL8B8eW6rht0r4GjClNhJowDhb6UZOcZCF52LWZ0IPzuge0t0YOrhLnA0Ag7nrFOBP6SJ1QuJ5yZGk4LLEAu8E0ZS2ccod01Hb6EhDE8c3ZLvCjNCsko3EMhxXKGhRsUmMTqOxqggE4Dv4YAUQmet7RNA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105619078205394983220\">Alan Lai</a>"
+          ],
+          "photo_reference": "CmRaAAAAC-3j9oyXIOv8wVdeXQf-KdYwohuXV23q-jMBrbKSaCMav0R3Bs2MLuWUSn6dNPA_nXOgcXUcNzn7evAb9KDCmyY-qgBK4nWCLjaYZ-nZ2U14TEWNa9hszwEzJkiHF9ZFEhBmBXnyWi742r3p_4mdYcB7GhQCixmMrfxncxi41Ll3ZiXnMfD18A",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102496644749515929809\">kousuke tamura</a>"
+          ],
+          "photo_reference": "CmRaAAAAWF8yZxLzZhD535HTyxkUALbLA_kLR5zhg9GgzMf3FxfEkIqNcuKCvN6BjbrgzgljpZ4YexJ0P6F3mY-H71qUmhikSigO7syvxWvo6O5XCU302oej_vagHBF4QFEwqMGEEhCwR7sePOkPzg1_HbGsr91zGhRA4xeuawFvQc3sIvku64utQjyyaw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.botanicgardens.sa.gov.au/",
+      "mood_params": [
+        0.004868493627138122,
+        0.05135371839580844,
+        0.14268191717642723,
+        0.15372672394962758,
+        0.10564423210137067,
+        0.19713100936673172,
+        0.1304772154320207,
+        0.024242230071743885,
+        0.17997139533199732,
+        0.03334902549505979,
+        0.08691983300253757,
+        0.029429674485796635
+      ],
+      "popularity": 0.7159153120610046,
+      "num_google_reviews": 5340,
+      "top_cats": [
+        "nature",
+        "walking",
+        "food",
+        "beach"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.3160055338970949,
+        -0.26600412045308275,
+        0.19946392461765886,
+        0.16157254835525,
+        0.864373803184813,
+        -0.6363580846884341,
+        -0.0969790606065495,
+        -0.7093067510230812,
+        -0.6022148800640968,
+        -0.11608884454087506,
+        -0.26754532457514507,
+        1.1030206462811492,
+        0.3156472176908869,
+        0.022630302041325802,
+        -0.6737137911186748,
+        0.4629841389877732,
+        0.10019995971447743,
+        -0.7352449368471582,
+        -0.3500970687205867,
+        -0.390840612387435,
+        1.312620095622728,
+        -0.13855229817721768,
+        -0.21820142032258422,
+        -0.31613231357604576,
+        -0.47724315060469247,
+        0.03672346699292842,
+        -0.29119501986330404,
+        -0.176795269323905,
+        1.1115575425621629,
+        -0.09008663379028249
+      ],
+      "global_mood_params": [
+        -0.41087649114272895,
+        0.024752978132735772,
+        1.4367251378777053,
+        0.4271331790545647,
+        1.0382677941769165,
+        0.5456910700612612,
+        0.32502751841097677,
+        -0.21332702385085342,
+        0.7693967933233691,
+        -0.4030529917118159,
+        -0.1091018346835283,
+        0.17776134256960477
+      ]
+    },
+    {
+      "name": "Adelaide Zoo",
+      "orig_name": "Adelaide Zoo",
+      "place_id": "ChIJzZhiVCzJsGoR8iNzazfuaZY",
+      "cat_params": [
+        0.23259482287117772,
+        0.37773209167648325,
+        0.12921027347794456,
+        0.12881717201104956,
+        0.27353665398847077,
+        0.09191350733130413,
+        0.3418859941994141,
+        0.11172054656952354,
+        0.15420096377311202,
+        0.30646172193927573,
+        0.06726648808877297,
+        0.09509382116328466,
+        0.24297091884827424,
+        0.16316463274632095,
+        0.24347173695680102,
+        0.16145834265826564,
+        0.3830874358235567,
+        0.20196778903106152,
+        0.1518364915177062,
+        0.11699967173366835,
+        0.505209480319378,
+        0.21067915820298616,
+        0.2252126910316372,
+        0.09803946796504463,
+        0.01387663068586968,
+        0.30916076672232595,
+        0.25108098319767097,
+        0.37949638101312105,
+        0.2638290649717475,
+        0.2807017157383636
+      ],
+      "noncat_params": [],
+      "quote": "Established zoo in a green oasis with thousands of animals, also offering interactive experiences.",
+      "phone": "(08) 8267 3255",
+      "int_phone": "+61 8 8267 3255",
+      "hours": "",
+      "coordinates": {
+        "lat": -34.9145983,
+        "lng": 138.6061217
+      },
+      "address": "Frome Rd, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 3712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110459432197267430660\">Joshua Adam</a>"
+          ],
+          "photo_reference": "CmRaAAAAf5ukzmKptIbajAPhrLgPys_ckHIk6dWYkfkeXmzdZ3iDikMQ-gNm-ZDOV8egoU9EZg5a-QhED0K4OkXS5xLHcwlTFCDnAp99EeTEqhicPmKOW8JBa0g_M3aQoLMOZAMCEhBGG1ApFCSwY8KPROXm8ULOGhSrrTJZrYTcbxmwgGUhkNqN-ncEPA",
+          "width": 5568
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104785010285107144869\">zach le sage</a>"
+          ],
+          "photo_reference": "CmRZAAAAn64nsankE-BxYKmpQzQuNShP9FeoM47k2OvglYOMCW6WNGopFg_0b_v2LRcAgxZ6ghcwACXwIlQpFHWJ31yNQPxg8Ou8XBP4mPaOVxLmmYeIlVoo27Tg5yPZLn5rRrIiEhAcI79ZwixF9EHp21YzofbYGhShGyViyzazjWlNgALQrNJYhuHqwQ",
+          "width": 4032
+        },
+        {
+          "height": 1936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111336504827261137082\">Nick Griffin</a>"
+          ],
+          "photo_reference": "CmRaAAAAEQXDcpG7EJXb0v0yZvWldTERyqOeTpNAkf4oTHaE7JcfkekskTKQt1E73yJKH39Jd-EPM9TGDZfpOTp0RsSL3fenSDuumBnzRGvAbPqpIgOhPZYpk8cRY7AtYh_duXwGEhDKeaDXwgG7I0d2tkeQrqeQGhRJHic53iGTPReHYzZmxRYbHaaYZg",
+          "width": 1340
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118010308911931065137\">Simon Winsall</a>"
+          ],
+          "photo_reference": "CmRZAAAA1AbwOJKv7FqfF47YJgNTeF_BNl2Mjykxags9pJ-teV9iioSqBT0Cl2PuKnkpNbM5Xst7kHjWk7qnBmaSkeJIEB7ITXljOGP6dabjHdBXEDgvpyL2jGuq9-ADsfhr9PdCEhDWb7ZAY7XgWTrWt5i3EiQFGhSDbGp0QKdzNA1aYHAb9G1lwr3s5Q",
+          "width": 4032
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113711108173605322645\">Paul Carmona</a>"
+          ],
+          "photo_reference": "CmRaAAAA0C10BHjKSvBgpRNCcChXPkRFLePKnXZD8PVs4m-Irwp0NKIuYtolcd1IieA_5QoFhm6MAyPUet-UB-HELaLyF6lnC2o2VVa08uV6DU9N3PPzODoK_wuLK69rqBu5VZYPEhAEPhCbQjK4Cn2KIkPzhCdZGhRUNpxaLnj0oSpJKRQKe_0GxSsuYw",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105449409118144327313\">Jessica Hilton</a>"
+          ],
+          "photo_reference": "CmRaAAAAOTadknEFKII0YiHw0Iunfy6veQ0A-6UOugI6fsT2IVpTlNLAjVgLMLoCEzfElgnt5TS7sWNgd8md5txKLfl8GNJysvlEJK12yK2yJwdcctNvedHkGNO9h01OzmyX13aIEhCgAND4gBUkj2-LhyY2gQNTGhS2nKi_hhEhqYRCJemPY-o8zW8DFA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117570247942438861841\">Daniel Fletcher</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ-9CbLwo92VKqtNbj_NiHEEDUN9Kwa1qkqR5b79wmRttk_rVqLa9t5vt1tO1ZjaPBQIWEMT7-OkzZu10BTcFRqugNN8oIUOPWbFx_wdi_Nr3BZKfTykVEe5rZ0uV4Zj0EhAXZzkUlGDfXJK7Y-VSP7TfGhSSy_R_Pj5bpqtxuetpC7i_yV0wWQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111761175703766431755\">Mert Tyson</a>"
+          ],
+          "photo_reference": "CmRaAAAA1lzwkzPYIw9Oz0kdKD5rsKiVeCzRpLqjOt_TTFDIx7vLpeF0Qdu1_apEepN60KXVoKGR1NZJLCvnzL_rrm6fvTjK04WOJ74gKEBf3jb0JxKBMD3GIPSvUqw715-0xtMTEhAIEyGDjnxOMnsUWSkXRKLmGhStOeqziN_s3n9OHr5OaaDmc9RZow",
+          "width": 3024
+        },
+        {
+          "height": 4265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107738189319795761023\">Adelaide Zoo</a>"
+          ],
+          "photo_reference": "CmRaAAAALQX5K5JLg9cSQiQn23qFAeGKLWz7XMgQO1cRy6j_yyws66n7s_L-cMaI8SdrRrDJCsEaKakwY73e7b7FzuLQHg0A5yap9Ruwa_cWtdTQZ7CH48zk23d744w0XZ5CqkaQEhDBBaLPgvQv_kRnvuzb2rSAGhRJXzrxEeomFF8H9ZLOusigwYTLew",
+          "width": 3509
+        },
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100286294403061255712\">\u0413\u0435\u043e\u0440\u0433\u0438 \u0411\u0435\u0440\u0431\u0435\u043d\u043a\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAHzuJk0rFXysoYHcwTSMcvgNZDmi4UIwqGpf-L6g1LkmQiLdOZxpQ2J3UvYYL1YnOlRk3JEapFV5aipy8nec-nu3PLrq3MYNZZXp7p36NgYnei2DH8lWFVviIaPx_EDAnEhCWKZ7GEyjopEw_AdhbI0FZGhTypRcyKRkeVcEYS5v8HSoxYaEghQ",
+          "width": 3648
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.adelaidezoo.com.au/",
+      "mood_params": [
+        0.010710380975044441,
+        0.052859197518526045,
+        0.03308775591069991,
+        0.10969091694770793,
+        0.0443294849812756,
+        0.1603250811403629,
+        0.13538031942039455,
+        0.02307917154916098,
+        0.09397210492732422,
+        0.04045999449480937,
+        0.09903195942421511,
+        0.03458812539213143
+      ],
+      "popularity": 0.7061657127754538,
+      "num_google_reviews": 5055,
+      "top_cats": [
+        "animals",
+        "amusement",
+        "hospitality",
+        "friends"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.8660531132957776,
+        3.1742385857802544,
+        -0.9374606253744218,
+        -0.7321709666881457,
+        -0.19321433681938985,
+        -0.7099285724322596,
+        -0.6002316444954029,
+        -1.1041272016909525,
+        -0.7757302189690087,
+        -0.1583632897242684,
+        -0.3924921243949352,
+        -0.43500817583053264,
+        -0.11401728680488965,
+        -0.3127849695483544,
+        -0.5074273703994204,
+        -0.10447483073907925,
+        -0.46695156827733003,
+        -0.9617974380528778,
+        -0.17817240454212133,
+        -0.37167405315118823,
+        -0.15785523255605916,
+        -0.43565159354831806,
+        -0.35887580816424486,
+        -0.6546210336744613,
+        -0.39387479988293417,
+        -0.33663898498140604,
+        -0.36640573345901567,
+        -0.2659434727597927,
+        -0.21354732009530386,
+        -0.33713074387144726
+      ],
+      "global_mood_params": [
+        -0.017823394958003714,
+        0.06985565138196101,
+        -0.5364768980879591,
+        -0.25174291186377207,
+        -0.3074219942578921,
+        0.08285589696352083,
+        0.4178168144490597,
+        -0.2597048319496087,
+        -0.3682607095656037,
+        -0.12669814855377676,
+        0.1711752275100277,
+        0.4931122675275979
+      ]
+    },
+    {
+      "name": "Adelaide Oval",
+      "orig_name": "Adelaide Oval",
+      "place_id": "ChIJFyYX1NTIsGoRN-L4Sq-CI_o",
+      "cat_params": [
+        0.1863824503850091,
+        0.06617220140436916,
+        0.10646208047070259,
+        0.12312579366457654,
+        0.20031406425299034,
+        0.07595991139369226,
+        0.3556986621266194,
+        0.10479228511747234,
+        0.1684027541044242,
+        0.21772315183353286,
+        0.0548884645891629,
+        0.16316835144259137,
+        0.17565944586761717,
+        0.16373355075410875,
+        0.2560567712655837,
+        0.19092508252530563,
+        0.33358087367393874,
+        0.16901757207715634,
+        0.2257217528708922,
+        0.1261059151618454,
+        0.34500191232224203,
+        0.2931119197111608,
+        0.24309278584715857,
+        0.07083365785100175,
+        0.009145583194284537,
+        0.2772716956579178,
+        0.4558340096143116,
+        0.30961053266379807,
+        0.204542385246113,
+        0.23787404929817146
+      ],
+      "noncat_params": [],
+      "quote": "Modernised 53,500-capacity sports & big-name gig venue, also hosting stadium tours & functions.",
+      "phone": "(08) 8211 1100",
+      "int_phone": "+61 8 8211 1100",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.9155163,
+        "lng": 138.5961146
+      },
+      "address": "War Memorial Dr, North Adelaide SA 5006, Australia",
+      "photos": [
+        {
+          "height": 6000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113765350778987233802\">bhavya pandya</a>"
+          ],
+          "photo_reference": "CmRaAAAAao43KENvb9LGwul4DCTOkbFQ-BCc7yLUyxFXvm5Lj4RR3-jbeniLE9HJkYtYqJ9msfodyxTsa_Tuou_cqOlOzlZOcD4LU1kS_apj4qq1XqHqDR3Loj3O-km4J_cEcaK_EhAlGBhbXVwFru7xdjKRlRX7GhTRPQqrMpvOaNuPO64yiuuUF81xWw",
+          "width": 8000
+        },
+        {
+          "height": 3381,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112280003927255781748\">Gary Pore Photography</a>"
+          ],
+          "photo_reference": "CmRZAAAAGxPgKPgARu9s0flkK4AzIZoR0kW6_eV4M0VMmTOjjeDzgZrpDkVaeu3vTR4IJY7VyOLpnTjcHLH1jnW02i3O_rw6nFyrvrvOj8luPpnudKMekRr1coUlpj3GWqq8TFcpEhB1eKPU6YA32ZEP18kVPkZNGhTFCyMovR1J5f61WCT8IBsM2Bi0fQ",
+          "width": 5071
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101888016203116914860\">Christopher Trzeciak</a>"
+          ],
+          "photo_reference": "CmRaAAAA9ohatwE7exvu8pwZCNh1PSGDeQ0S1nluRCTz2T6eVOzClcjWOm64Y0W6_4l_VtLWLAUUME2wdexTP6h4fxJGaj3oy2TXlwPL7m_NKZqDjZ38iOC4tjBt3s1JQwb0HadtEhDu5l_3v45L3jsUlgRamAxDGhT7DTo2JwIXRus_S5gQk67uhQ6HJQ",
+          "width": 4032
+        },
+        {
+          "height": 850,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112407640268612634560\">Arefin Bashar Arif</a>"
+          ],
+          "photo_reference": "CmRaAAAAPXrknSxZthFh7VjEfYkN809zE4X1GHtFZvXqnd6yuDi_zBuip1IQIkYAG4mKq_mKaGQLD2S3Sm2DgHXFduLxg48dRvadQMvWWC8fztMK4reeYPGjWTArfGIfFJHp90R6EhCTuGH6U-kevZEUUsDyIPKaGhRfze-rQbkhoq0a54Vm_FtNtt_Y_A",
+          "width": 1280
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114490746913650391884\">Jar Milligan</a>"
+          ],
+          "photo_reference": "CmRaAAAAn9hIClYNTCUGW6-FVAxgklqO0jjVcOXxivWLHKYtAy0sBB2WeCi8T4Q7zULHNPrH8w-EgpUom7Uel7-lDtWoQxAI53SHLsHK5WdM968F6VAVEiCVpEh1SYf3sIJZNWzLEhAM5dTzpuisWoYu8XyFvlJcGhQ177sigKTQWf4Gn8VWfR-fNDTkjQ",
+          "width": 3024
+        },
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102609434293655158934\">Jane Tarrant</a>"
+          ],
+          "photo_reference": "CmRaAAAAcaSREhhIpsR37_Y1n88FcXRgT9hWtBYOmET6QR8HHbnn_RQnD31903bM1mTNqtOaMDu_106yZQj_aCI7Byvl81Num6nwngYnESoQSM3XWb8VTwD3m_e3nL23rOGW0_3EEhC_2dn-uS3I_rntTJ00fZo6GhTik2U0mqDtYTIiiW-vGg1BTPnW9g",
+          "width": 4160
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107886260310697043786\">Rajesh Rao</a>"
+          ],
+          "photo_reference": "CmRaAAAAVQzsvA7kmJiWuaLREp7jkGFF9Vq6SSFh1zZyu4VosZtSmfAPk7O5KDXGS96U4yUuIihQE7DiR7MQ31c2ypBPEX8TU8eyuqA-cj9YcfDR80K-EAKAALVRSFw7Gd5MNrNkEhB_2Nsxwfz_UkG-uB5Wu58cGhSoUj0R_w30t280jo_StaZ9RYNvNA",
+          "width": 3456
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103693194049103978354\">\u77bf\u8679\u79cb</a>"
+          ],
+          "photo_reference": "CmRaAAAAoneaBou9D2InIb-v67XMWXkswfJYMo4NXhiqJiACH5PcQs5_4ERlQw0KbJp2V_15l1afzEcH8UxOtiz_JaA0yt3Lr8mfLswumXray7yhn5VG4UvCI6YP4VedOE6a42nxEhC5Geyx8IJ7Sv7xfYWTndO4GhSPJ8s-VMVe1N8gZcg4jgj5yjcg1w",
+          "width": 4032
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113301317971198648577\">Lorenz Vetter</a>"
+          ],
+          "photo_reference": "CmRaAAAAXLNVsBk4TGR_vA7AikBrHwK7aUz8sRo7qYcHyrqkVk-GPr1RZc8z5DaxFLqCSYBuYjrxu747JkyuNZ4gCyBo5FsJ89SVBbfdvgg60DQRO76MUP7SsEpynxU2LfN_OcFMEhAvKytmwYAWhTu3m8yZPl6vGhRbI-SlK6efTQFnKjc-RnqUVPdkmA",
+          "width": 4618
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101536180398819490393\">Aiin Ojani</a>"
+          ],
+          "photo_reference": "CmRaAAAA3lnWohHI1dKuSs-gkNU0mp-6BUBUg2YcysuhsUe9WibYXL8n_27lJI6ayn2HSvHwOe5uk_7ZBWo0xy54CoK-xWO9vnOB1wNar5iR5bO5uGHoZ9Uap0wnyh49xV8gbd71EhAAEKgMp5x-hbehkgTR5-evGhTFyfnbsETDwERagIO3MzhezotkFg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.adelaideoval.com.au/",
+      "mood_params": [
+        0.006525244360158073,
+        0.0361148283253553,
+        0.03379825273190569,
+        0.07865671446430068,
+        0.03817003454591331,
+        0.1464367380699627,
+        0.13621143172862776,
+        0.01449041974827331,
+        0.06643417909307255,
+        0.03145582264247889,
+        0.07511508270645355,
+        0.01843989681691909
+      ],
+      "popularity": 0.7866923678194085,
+      "num_google_reviews": 7786,
+      "top_cats": [
+        "sport",
+        "music",
+        "nightlife",
+        "amusement"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        0.30533854811959454,
+        -0.5509947484151781,
+        -1.1609249709384584,
+        -0.7728428133395185,
+        -0.6448765449417647,
+        -0.9227602170528395,
+        -0.45323951430567,
+        -1.181071151163679,
+        -0.5655575357358126,
+        -1.1018884658577721,
+        -0.6470645465672316,
+        0.21150846637656148,
+        -0.8413979045814077,
+        -0.30860454400792975,
+        -0.3705775720630085,
+        0.24063630292502802,
+        -0.7355762612347242,
+        -1.3064442239642335,
+        0.7649420005928399,
+        -0.19022418191153126,
+        -0.9391888568727974,
+        0.36965594969808296,
+        -0.15728082925264913,
+        -0.9084086138297579,
+        -0.5300926305258885,
+        -0.5731738889987316,
+        1.552112518934896,
+        -0.7199490923301844,
+        -0.5714271420153599,
+        -0.6316194931676589
+      ],
+      "global_mood_params": [
+        -0.2994072062286359,
+        -0.4317891745660079,
+        -0.5236846675716714,
+        -0.7301803358852103,
+        -0.44260496316099385,
+        -0.09179025322986724,
+        0.4335452848613552,
+        -0.6021875833289685,
+        -0.7325512495446885,
+        -0.4766288682779732,
+        -0.38226615098338207,
+        -0.49407534171623085
+      ]
+    },
+    {
+      "name": "Adelaide Himeji Garden",
+      "orig_name": "Adelaide Himeji Garden",
+      "place_id": "ChIJI0IWX8POsGoRZkwTur16aRg",
+      "cat_params": [
+        0.11975958594270275,
+        0.09441761358344783,
+        0.2540015447156522,
+        0.27805969388983964,
+        0.5065179831919117,
+        0.08181319695632829,
+        0.3833309824726554,
+        0.14807371911728473,
+        0.1624038985300618,
+        0.32000457644838126,
+        0.0788430925324761,
+        0.22849875935818817,
+        0.2424159801618246,
+        0.18845891822616975,
+        0.20352675822487212,
+        0.23980396161111164,
+        0.5146018181828939,
+        0.19490262789097518,
+        0.10425333798896687,
+        0.10024901504878939,
+        0.859566644897998,
+        0.20972541568816394,
+        0.2030045635875674,
+        0.13534785134599206,
+        0.004389488268655608,
+        0.35938851626127416,
+        0.2614501148892966,
+        0.3937851886516201,
+        0.5299242743418017,
+        0.36216391650691854
+      ],
+      "noncat_params": [],
+      "quote": "Traditional Japanese garden offering meditative paths, an ornamental gate, a lake & a teahouse.",
+      "phone": "(08) 8203 7203",
+      "int_phone": "+61 8 8203 7203",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.9355827,
+        "lng": 138.6098141
+      },
+      "address": "South Terrace &, Glen Osmond Rd, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100145296535627940855\">Chuang Lim</a>"
+          ],
+          "photo_reference": "CmRaAAAAxb1cCERTwCJRACkdVqFBhT-578BqVcV8kEYXHaX8X9suTcXQ5QQcJfHtnRpmCSG_GZh8fY8XDciXrTpmUPnH1SzVtZymBYD8R7Def-sTX8mtD1lvrJ5sQkVnT0uTVIVXEhAN4Og-OypwwENHdrE6V9WBGhRmhliJSOj5TPGT-uTrtDeNVfFkxw",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100834570216379469311\">Lewis Dyer</a>"
+          ],
+          "photo_reference": "CmRaAAAASI1r-prS5dwKxTDfgG0sWolhT_yvgdlNfNrOU1394zeRGRM_vgtm78sWZKJGjABtZuXyZCm3BcoP1q3ar9PQdubxopkJxUTGimQDdyNC1z-fWcoO8R2pYP9hnvv1EMPkEhD6s2KlXpRrz1JyCixAO7WzGhQ-wWOupO8IQii_SEtMnqHeNi30HQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114291326572379770589\">CP</a>"
+          ],
+          "photo_reference": "CmRaAAAASrQ4-e3WlqFfoiZVKljLiz8i0AiZ6bWgdK_wBHNL0-A7iGzUqXuC3MVuMNbUH8KrbjOZhtnkis6BH5d_R9Ky62vhnS881METokT-AbxXnHr1LhrbV-o-lLHtkpT2b4QIEhDA-KfF2x9v45G8EmRxWFFrGhTgHMp1awXxQCV_iDFBRoskYYo1_A",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108550151579394636148\">Gemma Costantini</a>"
+          ],
+          "photo_reference": "CmRaAAAA3zsVO1LdlLsC6blXXhykMFcO8hpiPtjVCtiWt_DQgRgucw31iaBS-uFHdMMZZQSjAcC00jslusqutWlzfDwnOAHxnkxi1_i5JCaT6mF-W6O95SbBGvksHx89d_EnrI25EhBbBJev7cHxdHkdI2V6y9npGhSYY56RZQF0rW2LGa4S_q2R2XCK0A",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105763798950889727510\">Eli the Drift Panda</a>"
+          ],
+          "photo_reference": "CmRaAAAAGaN-Dmec1pI3vQf3kex2yhY0K3BIVDFlYZh1EkPnCXvtoCQTs1siQAQdWw3qMWIWDosV224vpmFCs_-gkxB706X6Pa28unKVMj8JHdhoELIeMg6SHkzwUhwnD23ariIsEhDL-3C7X4r4FkPTmokL4G5BGhSkLjzhNp42Jv3bm3dqQYJlzYmpcw",
+          "width": 4608
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102416599493329709680\">Mathew Sams</a>"
+          ],
+          "photo_reference": "CmRaAAAAZpNmj9VHG6dHUvbX4WH6IMQocW8ecjILVwN8_J5Md7ZsGs1dELUnpR8QhOW7L5Ey7YBpjH0jSXYFHw7WNVNH0Jo0MbD5rLq4PhX1IQL3R_PUSgzOIXYK6aeMtOtMPSAGEhDqonwjpiayKrmFGrxwbQYoGhTBQfqZkLdPw66I1QkmneQ2hkjglw",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100615644870256070432\">Yuki Iio</a>"
+          ],
+          "photo_reference": "CmRaAAAAgMGX8T1rdsU08imalHmqR0QDrsceBnqMbvTHpRCMuItqWoyBtudb3IG66pDCyaBS4fQ_5hsjAFT7eyjyFJg5v1sQOtfFbHugyfFNbaqpaP4cHmVB5HW-f0Osho5kOfREEhD5JVGHh__T9us4MsQOMnzUGhSV3LwliSGXOE85jj34uu2_EREWFw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100834570216379469311\">Lewis Dyer</a>"
+          ],
+          "photo_reference": "CmRaAAAAcKyM_3rdhydIOfV7tntNL_LETjaKp44V9LzY5j8p9Vklpnh_Q1ieuTLNqkW9HdEHnuXPfGxHKx6cl-Qib44xTxeqDenzg6G5HnUt1DkUB8zW0KvcFt9ucA5RRDvyxCfJEhBu0suw_xAogUi6XUeyZ-O4GhTTWOZItwhN0DCo-nFjsxa0oa5dCw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115215125585712527097\">Richard Jones</a>"
+          ],
+          "photo_reference": "CmRaAAAANDDZdPxjLn7mv1Ow-4qMI__3oDEULLuHsURv1YigNeXR-GHrPaFpVaYQc5hSnfOwXCZLR0rPUJeMCt2U_7zZTWcsCSB8MrWGTt0wqqUjgRQbh-jPuQ_ShTH9avWlRmj6EhCPG0Iq4F4du1JmpazUDPqZGhRC8Ghe3KNBNaVwEqxoVa2XZ2uDSg",
+          "width": 4032
+        },
+        {
+          "height": 3798,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100145296535627940855\">Chuang Lim</a>"
+          ],
+          "photo_reference": "CmRaAAAAXQ1idk50m8WLY3DiZFibgsBpDX9XprIi9Q8W9HkgZnSUzqXd6_7HLZ1wioNzinsuWdb2Q5GY8KbO7VNEFs6-ypCPOEvRHnGnZqpsr_jnvBilBB_mf9bGXi53bu2Xhhq8EhD-gIUoPrjkvtz9ge2Gzml6GhTf4SWlvVrdXZdGGmfWB64jVCXqxg",
+          "width": 5893
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://explore.cityofadelaide.com.au/see-and-do/parks-gardens/adelaideparklands/city-squares-formal-gardens/",
+      "mood_params": [
+        0.0009451322111806996,
+        0.04012185568623338,
+        0.30789071467560725,
+        0.16097306079442905,
+        0.12357715781470485,
+        0.19839561599743027,
+        0.11035030122642638,
+        0.009272484207042452,
+        0.21350915219460068,
+        0.037166347409682506,
+        0.08130935686437919,
+        0.039735391934204264
+      ],
+      "popularity": 0.5104416555659115,
+      "num_google_reviews": 1380,
+      "top_cats": [
+        "nature",
+        "walking",
+        "beach",
+        "food"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.5030252829678571,
+        -0.21327235771946157,
+        0.28841255718389325,
+        0.33434905608979715,
+        1.2438949211221222,
+        -0.8446734711178536,
+        -0.15918092612018314,
+        -0.7003958051426733,
+        -0.6543347633232637,
+        -0.01436700748952396,
+        -0.15440207440780204,
+        0.8319636613858271,
+        -0.12001406011415615,
+        -0.12692184762342423,
+        -0.9417894984551126,
+        0.8131002215549188,
+        0.24665101382058502,
+        -1.0356963468911087,
+        -0.7855514232097927,
+        -0.7054455498856469,
+        1.5703475681241545,
+        -0.4449689575119766,
+        -0.6092686069690277,
+        -0.30659227444742393,
+        -0.667031634890875,
+        0.03592175509802235,
+        -0.2692478610699649,
+        -0.1731178275388493,
+        1.3927174696321467,
+        0.22301421879537695
+      ],
+      "global_mood_params": [
+        -0.6748475779091356,
+        -0.3117425774188151,
+        4.411247975772411,
+        0.5388460138042921,
+        1.4318461116724939,
+        0.561593519938903,
+        -0.05586634086353978,
+        -0.8102565742731703,
+        1.2130572066275882,
+        -0.2546997364752291,
+        -0.23892939053662235,
+        0.8077794601637918
+      ]
+    },
+    {
+      "name": "South Australian Museum",
+      "orig_name": "South Australian Museum",
+      "place_id": "ChIJF1k2tdXOsGoRKq4uZzLQMtg",
+      "cat_params": [
+        0.11714649030081167,
+        0.11810519789493583,
+        0.22992862386121538,
+        0.33683369398943586,
+        0.19732724925785308,
+        0.1966155692875082,
+        0.39978888673874385,
+        0.29814156231269723,
+        0.12692399643034924,
+        0.31814240107867114,
+        0.08127076150159092,
+        0.09564826533568062,
+        0.25118706017241116,
+        0.11104564819605753,
+        0.328219411319262,
+        0.16065656826903735,
+        0.4349952420338296,
+        0.2858040618393452,
+        0.15252076448830057,
+        0.1286342857528338,
+        0.41053812701959447,
+        0.19404878164390685,
+        0.30575225598672345,
+        0.09639040610623081,
+        0.045698260306414,
+        0.3140828730583603,
+        0.21554042518698824,
+        0.35834049696881776,
+        0.18743712308414806,
+        0.21861996140975637
+      ],
+      "noncat_params": [],
+      "quote": "The 5-floor building is devoted to natural history artifacts & an exploration of Aboriginal culture.",
+      "phone": "(08) 8207 7500",
+      "int_phone": "+61 8 8207 7500",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.9204639,
+        "lng": 138.6032167
+      },
+      "address": "North Terrace, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116914638134698694678\">Giulio Martino</a>"
+          ],
+          "photo_reference": "CmRaAAAANsaVTczDg5Yb1Pj5C0w6o4Osut8wkrTUfC8ShSfrZzfGVvmMOZOrE2UVSFLBcZ7UqI3zqpXUuWv0w3jTW7Uf8uIZ9ENnbNQbTVA8hBoon9caYA6uKp6RuktVy3vh6vBeEhCzbuEjYsqfgpStk6424_zBGhRXNELN1Z4MNSN-7TMaKbzGeW_hTQ",
+          "width": 4608
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116914638134698694678\">Giulio Martino</a>"
+          ],
+          "photo_reference": "CmRaAAAAA8jNgyS39svzqu20bQ7fzrTSGACPvgZatwkeUO_4fKPUPi7yd9LwV9fHJSMpeeRLDo4YSVYuwZ7DAsoMUlgThj_8TODOgPpqXncoL2UtzKvXnlBj_BVm3ltKjr5_1jTmEhBDA62lWHDOWPjtPhxnwG5RGhQVOA6Tvjx2HchRiwYLSpkTWPVtMg",
+          "width": 4608
+        },
+        {
+          "height": 2872,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100564109913360203166\">Kelli Hoare</a>"
+          ],
+          "photo_reference": "CmRaAAAAO-ePNMBViJmjxu0OlBHsklpIiyngFTvGwe7QubGuYz6slvd-6vRA2Qi8ZvoXXoiOu-bpV29z3f38WHbJHa8OtqUPbs209fCTSdycVKLmsDRY61x0RLA3r1t00RR-8knKEhBhQMssrKdg4IOgisz4IBPrGhQGBOdjBdCAeSu4nsh3qPgPGC1ruQ",
+          "width": 2871
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108222714950580494562\">Andrew Harry</a>"
+          ],
+          "photo_reference": "CmRaAAAAumw9cM-jyMV4jpstu5lxz_ShJR6abcFBkTNE_Q4cqRtvqj9EY308KKettB83iC2OOXaN2hEe3fRkqQfHmZj1X3c-2yR93Lxn2fl-gyEerL7bPYhPy9ez570GszJ3xgw1EhBdjj-vl_Lzqe9CEkG2iNCmGhTjQREwkonKwKtgVdaAliuAd8DbsQ",
+          "width": 4048
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114492010099655815020\">\u8389\u7cd6</a>"
+          ],
+          "photo_reference": "CmRaAAAA5Tq8gtjFn9CE0FI1rdmFnDqsA1lRlQQW5CRZJq8spk8_nGkG6hgisy7Z-c_gqdRT3xa1JxuzPYRjP3QmoAsBsXjYNTAE7j7sGgQ7z766jpG96fT4qDx05zGqzc9YvLWKEhB48uvZCyCI2edubWKsrHn3GhSStZUsDNbPDbNQeNXjp5DDdVk-Jw",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114492010099655815020\">\u8389\u7cd6</a>"
+          ],
+          "photo_reference": "CmRaAAAA3KPemz_99tF7UDrBqqZHJywbr8KMfWppxdBmrjzsBB35naWKO4aZwqOeGU5ilPLuQ2h4VWgpf3LmKWX1JcXLUcjgvBmCc3WMaznbfoYnPEd3trsclAMU_j5TZGeQKUMnEhDa-8HSdSDPPqmMQEaqsOXRGhTx93WNMX6mfVCjXEhxMy0yqJxxLQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116228583362425351970\">Prasanna Amarasekara</a>"
+          ],
+          "photo_reference": "CmRaAAAA7CA-2V0D_YssPQLfybh8F8AuhTZaHK0HJpY4tXcQ5iZTrLmIjljTe1LggG9nvs5KF5I1u-DvHnilqKuNDawhvdIl5XiBQvBFj-7f--719e9-Tj_70_hKhFWfd7M-GAlJEhB05ahG_Aulqs6SSnAUx6L0GhQZAN23RzaeaiQQ_j6JUeox-mvsUg",
+          "width": 3024
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112129809482942771421\">Ruwan Jayaneththi</a>"
+          ],
+          "photo_reference": "CmRaAAAAn3OAlfZULyzJB2MLhjgxHPbmwOzjQ70XA0duYiS0Ja-iFAxu-qZwPhIxsXWY7ybRnsZ5lkJQ4eirFten9C0S7ajxOILgd8EV25HuYnjtX5nBIsGy4rijI-o5VJ6pSR9YEhAplsrPAHHYwNpinQSIcLR7GhRGM0PANVYlRem58UFUE-JDNxKmiA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105156509243627494470\">Sukhwant Singh</a>"
+          ],
+          "photo_reference": "CmRaAAAAkX-YfvRDg67OS8H0_x1tM9TfqJ7JlJcan0EK8a5CyTSoWZOyyIqmOVY8xsK4DHPGh8iZkPZlDkD4V4DOr2dDqTDgz_-uK48exuV6Y3rveOSBQ7sYCE2epUJEDHODwKt8EhDZBcfq2JOAyAZAwWB0ERezGhRfbEYyAaV59brdx1uUjaZUgLTQkA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114243564455995663778\">Tash Allen</a>"
+          ],
+          "photo_reference": "CmRZAAAA23qIR66stwAsC7DxWepgpsUh5QwKmjqqlXNHliVcy9Z0nYh2cep6Y6v1pPE996l8nfMPx7mSXpAj8QWSIrZ2vl8ChDllcd0pA5yNtmoW6KmBugbwFU6adSbbh50gCc3LEhD5bxfBmb9yk_5cq7qm7Lg2GhQFEYZfBSEzu8r7vDLOUlImPSAM_Q",
+          "width": 3024
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.samuseum.sa.gov.au/",
+      "mood_params": [
+        0.009768346647915623,
+        0.07491831439747684,
+        0.02293521994089662,
+        0.14885694381535147,
+        0.033883192726715076,
+        0.1808774662692723,
+        0.14835604717729006,
+        0.04672670146612023,
+        0.07971011838540862,
+        0.051532102355824096,
+        0.12999648983878057,
+        0.03320636881632451
+      ],
+      "popularity": 0.6081175483634896,
+      "num_google_reviews": 2780,
+      "top_cats": [
+        "culture",
+        "art",
+        "books",
+        "original"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.5347310948052665,
+        0.06995337652588739,
+        0.051934894855328775,
+        0.7543610415203421,
+        -0.6633002508067191,
+        0.6868669919313009,
+        0.015961372187462658,
+        0.9662290219111984,
+        -1.1794028041256028,
+        -0.03416684584170294,
+        -0.10447345941369166,
+        -0.42974251504436206,
+        -0.025232096294985646,
+        -0.6957567355540201,
+        0.4141197514776379,
+        -0.11386512195072862,
+        -0.18529762383283413,
+        -0.0849017864526803,
+        -0.16943794676539164,
+        -0.13984418473712892,
+        -0.6195681997862503,
+        -0.5981181595716654,
+        0.5491938674269174,
+        -0.6700041969370296,
+        0.5223437251147489,
+        -0.30012961324695026,
+        -0.6994177061612563,
+        -0.4033803139795406,
+        -0.6746818394406402,
+        -0.7640131707222574
+      ],
+      "global_mood_params": [
+        -0.0812052246543565,
+        0.7307250887221519,
+        -0.7192695251263421,
+        0.35205842679568095,
+        -0.5366893316316212,
+        0.34130248932239204,
+        0.6633773098003863,
+        0.6832576959055902,
+        -0.5569280336698288,
+        0.30359913321856247,
+        0.8877007420773878,
+        0.4086415180410811
+      ]
+    },
+    {
+      "name": "Rundle Mall",
+      "orig_name": "Rundle Mall",
+      "place_id": "ChIJBWewK9TOsGoR4nBWNlaHETc",
+      "cat_params": [
+        0.29954326598650965,
+        0.10721485085307604,
+        0.13734521546945289,
+        0.18883047244699674,
+        0.22114530555630352,
+        0.10505815507728357,
+        0.3622963244065441,
+        0.13482831551981053,
+        0.1729152577619284,
+        0.2956673007090263,
+        0.2451888745826415,
+        0.34872621048020286,
+        0.26096333562990165,
+        0.12302195608861469,
+        0.2303107786107042,
+        0.16735316043546497,
+        0.41859197806801307,
+        0.1883019640436969,
+        0.15561324163122212,
+        0.11811555710885732,
+        0.4343302293104319,
+        0.31080148532598245,
+        0.2533116296699379,
+        0.12270625396435977,
+        0.007119850433924863,
+        0.7583850669017232,
+        0.23421249895716312,
+        0.3528277902726992,
+        0.30317887422373413,
+        0.22125783274406888
+      ],
+      "noncat_params": [],
+      "quote": "This wide street was pedestrianised to attract shoppers and is now home to the city's top stores.",
+      "phone": "(08) 8203 7200",
+      "int_phone": "+61 8 8203 7200",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.922844,
+        "lng": 138.601913
+      },
+      "address": "Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 3751,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118277421819150245491\">Rundle Mall</a>"
+          ],
+          "photo_reference": "CmRaAAAAu6aQMNkSGrEQ5s6afYx9AWyWQCrGG83yft3oNZCTDorzU0IA3UBwmOYpB1hczBVCzHSihRfVucLcNpL8efekabrw-W4Uz9i3O6t-ZCUulvGhKgeTT6Tz4h3Ed-UeQLRaEhDfhuWOxkzb3nh_rujgWTiSGhRrHP8kamlSuXOJqRfOu4S2jByksA",
+          "width": 6669
+        },
+        {
+          "height": 2515,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115163446012200396596\">Savie Tikiriyadura</a>"
+          ],
+          "photo_reference": "CmRaAAAAFeBpoDxso7rAjr984nOsIg8qWVynq0d6tHIXuJm_spKd9vOXBZkEb-lqquXVS9OMPFKDdvL3l-yD08htJwJNz8UVeVG6j4UOvYoQJUe0EOQNnD9-WUvEfJ1h4kAH8TXQEhDr8stx08hs8GXaSDe1RvXaGhT3fSkao46VU1YTTlRcp_G5YhovSw",
+          "width": 2515
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118414613762443455768\">Chris Abbott</a>"
+          ],
+          "photo_reference": "CmRaAAAAIpBcMLScdHz_A9LVG7slNR3QOzat3ilnZDLa64o_pP8EbwUpd-ful7MxNGgnN3A-ZaBopFKQW4tVWcn9DUMO8wUCxBAkG-9NTv5inixqC94S9rG00bfjXG_h81OMKc9-EhCTX4ExwDwVIL2yaMtMcnwuGhQewXydR8H8Qvs8dzmq3X-SP_mfNw",
+          "width": 4608
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105669051778945580654\">Raj Singh</a>"
+          ],
+          "photo_reference": "CmRaAAAAurEztD7fF-hl7CjX6g2RwHpfgg0pF9GNiJlOSD-9CWgsSrAs1qGhg8yJXNQcogUrxKhXAhTqi6ty-1vDA-24lDFsNgz1T420doo4b5jP3XxhhUFvQUEJQOFfa23om7iUEhDo0cELqO2q0bURPsaZ24g0GhRHCfN2a3E0Lp_hnxBjS9DrRNvdOg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115101518727369876937\">\u6ce2\u897f\u6372\u6372</a>"
+          ],
+          "photo_reference": "CmRaAAAAtqJIKtaEfK_kdF6y-uET55kj9Z2uxbMHcJDu-DhfvsVi1y6-VRCymE_O57qswOkOSNnX4dcs9Lw57T20oS7df1q9I6fboxMhKEqbh6iPQTH-f-AM-ciym6eLUWaLZgBDEhBKtLpnod72Vj_UNW4UGLpJGhTWq6XCp79uzmtdC36uAuBlNrRlIw",
+          "width": 3024
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112908762077769991566\">Ryd Jeavons</a>"
+          ],
+          "photo_reference": "CmRaAAAAfvNJQ4jaEvqnJcRFsy57MUn62eHr4YPk25_cNm5orqXJTZsWlTLSbgCMTxGFh5f2jGcKn9tsXIrhfWqLGXp6NNkM7S9sdBSgDgXQVz6ceGjh3EkTUu0vRD_lAinu0QVdEhBOR2ctLnJd9AWtSgldJt6xGhQQ3hrOAShHnkybS3UWGcRQStmTaQ",
+          "width": 4048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113185441260697253392\">Palaninaathan Meenatchinathan</a>"
+          ],
+          "photo_reference": "CmRaAAAA4oVQQD4bfngoLQPR85Q5KJVhGutY3SjHJJvQkONWlO0bMPH5d2lLU0A1fXG_UiJexTi87QO7DvCcL0KjTmhVmkyOMe1x8uhaDBSSNTvJkY_YfOyBtXrK2DZ7KvMF402FEhAKT41d2CLvfUmiD88t7-K9GhQysWX9-VyV-RSfW7mrjY4dBRUosg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
+          ],
+          "photo_reference": "CmRaAAAARDYfrE5QU9RJPlXK210o7MvtB56kEbVTENlfYblRwW8kqsfkHqbV-CpqU-55-_gu1vZi1ev9a-fv29uau4yT3fDbqh8IotKdJSbGowvhLu38ldikS4qQ1fFoYSA2tGm_EhDHvqnpfRp4JRpc5NHz8k-6GhTrVfY4mkbcA7sAZ2ILQsnglUGknQ",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109601387367203073533\">Khuzema Saifee</a>"
+          ],
+          "photo_reference": "CmRaAAAAJcGS3TlkPB3wJvFxyQJPp3QLTYEYRo2EbcUz3pE6PcVabDAP-wqx0NqYzWn13RRx14j_o3QHYaQvAKLeoZu8CvRzX5AJf-j34y2pGVZ0Nl0ghKQA7Zb4e6E1HBMNN-DOEhBGROpbYiTDj1ubnmeJpBd-GhQE0uIESqC7cNhmQhJOgjmyMD1w7g",
+          "width": 4208
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112673460654122926685\">Jaideep Chaudhary</a>"
+          ],
+          "photo_reference": "CmRaAAAA-q-kCw3H49GPmd4CR3z08VMe7nCjQTjDbvp1kgQvf8bWszhN4nHvkMXlMcAyaQOAwDbaIFGdEZhR7gFIDX4N7qt7vYk6-D_MMsjUUV14qX-7bMcOALU9J5LjaIcG7b8qEhCDBGaTk7gV8Iz79c8FvH3LGhThbZiACyXOl_vGv9hD2xAeY2q-cg",
+          "width": 2048
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.rundlemall.com/",
+      "mood_params": [
+        0.006546428485741923,
+        0.04803270116861955,
+        0.035075762079954685,
+        0.08345801498653016,
+        0.029830281698752605,
+        0.14141476829540647,
+        0.10233523123630874,
+        0.02051451714068233,
+        0.08195987562679417,
+        0.03756605502971743,
+        0.1002623270999991,
+        0.02773661746971891
+      ],
+      "popularity": 1.0,
+      "num_google_reviews": 20328,
+      "top_cats": [
+        "fashion",
+        "shopping",
+        "food",
+        "amusement"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        1.678367330270273,
+        -0.06025941750822263,
+        -0.8575479269128304,
+        -0.3033026673444171,
+        -0.5163822581516675,
+        -0.5345701762013856,
+        -0.38302828227507385,
+        -0.8474967296968685,
+        -0.4987768707863929,
+        -0.2731364732496946,
+        3.2667457894647685,
+        1.973786420670448,
+        0.08041220128064928,
+        -0.6077544879389133,
+        -0.6505397729075614,
+        -0.035435389830038126,
+        -0.27430242551952444,
+        -1.1047367900247047,
+        -0.12996377170498016,
+        -0.34943906028687066,
+        -0.503533921596927,
+        0.5424700149524097,
+        -0.04206513122593684,
+        -0.4245185701663654,
+        -0.5884181752534272,
+        2.995450134534503,
+        -0.524461980402007,
+        -0.4391929982095573,
+        0.023985002390283394,
+        -0.7458748154343073
+      ],
+      "global_mood_params": [
+        -0.29798189867735586,
+        -0.07474143038656807,
+        -0.5006835877931289,
+        -0.6561612965676561,
+        -0.6256395636709289,
+        -0.15494160851162672,
+        -0.2075483577741455,
+        -0.36197229973953743,
+        -0.527166704322837,
+        -0.23916582869870595,
+        0.19964618509262616,
+        0.07425990275342476
+      ]
+    },
+    {
+      "name": "Victoria Square Tarntanyangga",
+      "orig_name": "Victoria Square Tarntanyangga",
+      "place_id": "ChIJVeCrXdjOsGoRMEC6RVU2Aw8",
+      "cat_params": [
+        0.18818485394842657,
+        0.07410150316416868,
+        0.17236798623982877,
+        0.1605892863535132,
+        0.3324846848870981,
+        0.07753488354725864,
+        0.4067843828505374,
+        0.14897853160430763,
+        0.2089339621303324,
+        0.27201788567318963,
+        0.06954999299306866,
+        0.15613825965791103,
+        0.28002916003969985,
+        0.19252871708319816,
+        0.21735544901813508,
+        0.1839505445969729,
+        0.411674229503021,
+        0.23398442997129948,
+        0.19260135699569572,
+        0.10769923362775648,
+        0.508198123744764,
+        0.3003866733358758,
+        0.18665923027587783,
+        0.15867668096358614,
+        0.007888381186271106,
+        0.3435429696298775,
+        0.31859395897721565,
+        0.38652290533171874,
+        0.3212341267794537,
+        0.3484256277483502
+      ],
+      "noncat_params": [],
+      "quote": "Large green space accented by gum trees & a fountain, with a promenade & seasonal outdoor events.",
+      "phone": "(08) 8203 7203",
+      "int_phone": "+61 8 8203 7203",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.928133,
+        "lng": 138.5999216
+      },
+      "address": "Grote St, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116089233112573657784\">Hsu-Long Kao</a>"
+          ],
+          "photo_reference": "CmRaAAAA_odrU9LTk9RPNgN9yjxXzFhHtpvYXq3m4GeC89qcnOjMAhLxwUf_1YtjQKdIAQfmb54t55l8jQhbxSVaPR4i3cgCuFM5QJ_P2KFmWUUmeiinf3t81iuZWQekQQENCbT1EhBA-RqLes8hj7RGeKQyZ5-0GhS0iyZ-yjQe13m7m9YdjBAyEksw-Q",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118158616038259043012\">\uc0ac\ub791\ud574</a>"
+          ],
+          "photo_reference": "CmRaAAAAUTU8_tiHH6V1HVAM9OpQhTBSjIrTM206eZEyRBZImp55YEBA0hrQzVCu7FynU0jlFp8C49lBn6FSE8-MzZzsGRz7lTueTd317QsRvJTH9NPlvAvAIDsOKgVUhovRvRNHEhAT2tIwchPMCjcpYUTJ0q1CGhQmsDaap7QJqXivt9w3wuZRXRV2SQ",
+          "width": 1920
+        },
+        {
+          "height": 5333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102536211622711204894\">Atsushi Morimoto</a>"
+          ],
+          "photo_reference": "CmRaAAAAC8IFeAAxWNwkkO-ipqeFL6UKSEYz4CEbXJX74FUKP431GJ-OzPUL8MAla9lkFvub5oJBgyTUO6Xesusuk5yPm-kuMUX1HFRMK71jfzfKNSpdmjMEH1GOQtp1xx85pHFREhBoSdkoZZ2YFpGYwT8bzWhqGhQp-YCeWBT3a65kKacxkOj0DKE9TQ",
+          "width": 3000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100414005714009536270\">Huyen Anh</a>"
+          ],
+          "photo_reference": "CmRaAAAAo3kNh51b0uSZsQ607MRgLM-WXU06gCciOKQwsA0QWVbtXXMCM3spbszjwIWamQP69aDj-LwCuSG_29YEUqJeNqknQ4Dg39bgPIgh2RQL8VFGdMoM_XQyhPHJMy81AfzkEhBqhDcNg8RJG9XRKg9VBIM3GhReTNYS-gOWRKJOjFKZNV0A20jB5A",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116270298623188651586\">Martin Beales</a>"
+          ],
+          "photo_reference": "CmRaAAAAglFVakw1PLF6xVWG-XUO6AchXnyvHSSrYoqm3fkERxpO3Y5Qgg_KljQRTj3bRa_iCQbd7oVbV2uTL7XRVX6ac6ui7S9AX5-WUMGFpnelO0Kdmh5YPMJLbtShGGZkWSRKEhCt7yt9PX4THOU0bcev_KmoGhRaINNHozqnQCHnedpoJF4NBa-NeA",
+          "width": 3024
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
+          ],
+          "photo_reference": "CmRaAAAALCIqsDOqc2jOyRWgFLTnGYibCWpyaLnmMA7w4fA1wBUL-NsjFtB-lOR9xs_8un5B5b677z02i6KUUQyZtGcDquJjRhe5JdJdToSaWW9-5x8nZeb9ZsNFRngQ59sDSFsfEhAirRMojhG0UlZEC5SnD6u-GhToyFyi8_cHvdqtuM4j_HWq_1Om8g",
+          "width": 4032
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115875384556296162172\">Deng Zhou</a>"
+          ],
+          "photo_reference": "CmRaAAAAPZ9C5F42VFIPLyTIVFMh5fbpJlhWboNiKAD-89hpEkTZOLjDOyWXCaY2L2reePmb2CU93aW2_Ez_Wjy5Eh-zvrodz-ZmTjU2_eO5jz6bZGdxou-b13VlAa8Xg4IqVABqEhASNV1go5V1S7HvwKlfr2kYGhTpelkIJPP1KFfxm-O8HeCsOtmUbg",
+          "width": 4160
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110883954175375000349\">Brady Denehey</a>"
+          ],
+          "photo_reference": "CmRaAAAAEyqRgkzwbhIxI8AHslCrqNlXA284uWByIEmkZhQdMRoCh-tCXBiD4yr8cSgS3RdCyUjjIVNBUeLCQdwPhfHl3lD5x7vUdmvXkrrD4vNlVtnS4knhNPb7yt1lW39hWpGpEhBplBqLgHsPgYh8uyDxBIvWGhRciOa0nzqm5NjrUvGSJmbuMT820Q",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108336636479898311851\">Victor Khor</a>"
+          ],
+          "photo_reference": "CmRaAAAAtVf2acV9N03sJIYz3yQ08pX23jyzP2zWg5MLWyfgX82SmxLDKt_l1bBHjtOPj4IYPumi9lWxebwW42GFbkLDd2FBVNPE1wTsaYWMkiGLTr1LEvE_vwoNB5kDPhP_5M7gEhC6SxZjxXYvp75_XM9pTETkGhSKH6Yrp6g2OKNLk8DBJ6LSixuv6A",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112532610549853583764\">S Chin</a>"
+          ],
+          "photo_reference": "CmRaAAAACgpoDPf61VwUS4to3ijjYz4KnYxB3uZtujO6SLAN7xqWnXPIhbmiPj3NnpuSSTcHfv8ZPt5wE5-fY_QMGb-IH7kEj_WDjrku1cs7PXn2YfusExJs-5f6mtgYdTWtM7jCEhBhi3JXwEKmioiaJVx_wiUkGhTQ5ecejTvfhhcyJfQxDVVIELyuyQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.adelaideparklands.com.au/parks-and-squares/victoria-square-tarntanyangga/",
+      "mood_params": [
+        0.004816772071969572,
+        0.032459037463150625,
+        0.07913813312726858,
+        0.08752524739976142,
+        0.05247688889330797,
+        0.15833586957001503,
+        0.10422157745245678,
+        0.013279859426791123,
+        0.12885163492418641,
+        0.034061510934949656,
+        0.0726861323565893,
+        0.02292434901943815
+      ],
+      "popularity": 0.6036386763615644,
+      "num_google_reviews": 2699,
+      "top_cats": [
+        "nightlife",
+        "music",
+        "amusement",
+        "friends"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        0.32720788474878637,
+        -0.45618633387022195,
+        -0.5135056310016883,
+        -0.5051204204654781,
+        0.17039746517125862,
+        -0.901749034684551,
+        0.09040628613353943,
+        -0.6903471303393907,
+        0.0342649195152149,
+        -0.5245921645071995,
+        -0.34552845733232357,
+        0.14474235992836437,
+        0.2864411369659943,
+        -0.0970168510273973,
+        -0.7914161661397645,
+        0.15895130139139865,
+        -0.311838420820741,
+        -0.6269155035524993,
+        0.3421740238463733,
+        -0.5569934233283957,
+        -0.1432795940357301,
+        0.4407249502029507,
+        -0.7935594151705939,
+        -0.08897084756521606,
+        -0.566290392335753,
+        -0.08161145381826644,
+        0.26618504467640264,
+        -0.2202964411784372,
+        0.13297424920365594,
+        0.12854791207677888
+      ],
+      "global_mood_params": [
+        -0.41435641401487633,
+        -0.5413130718007156,
+        0.29264298413277673,
+        -0.5934589861176529,
+        -0.12860892298808474,
+        0.05784152765248183,
+        -0.17185000467057832,
+        -0.65045956035467,
+        0.09314959755961702,
+        -0.3753635443242539,
+        -0.4384725547619576,
+        -0.21992789402847102
+      ]
+    },
+    {
+      "name": "National Wine Centre",
+      "orig_name": "National Wine Centre",
+      "place_id": "ChIJAW52zNfOsGoRoDuEjQFKphw",
+      "cat_params": [
+        0.15451416456296244,
+        0.07040341430441595,
+        0.17619312705352633,
+        0.15846975611291358,
+        0.20015018278675223,
+        0.15687214139872707,
+        0.31110953137598646,
+        0.11852692496636111,
+        0.16331579059393012,
+        0.21413212315770241,
+        0.049670386821157625,
+        0.40240354827629504,
+        0.19482415313857593,
+        0.115147981629586,
+        0.20922495703739452,
+        0.21744994240779847,
+        0.3284672011339549,
+        0.15540199913285568,
+        0.1458191467304746,
+        0.08607907161574115,
+        0.3674319643639317,
+        0.24919577720783503,
+        0.2553291659839184,
+        0.08856872038453616,
+        0.07736943621950829,
+        0.4196042488058425,
+        0.2284695501797439,
+        0.282922663887865,
+        0.20743352704573917,
+        0.1957542733487929
+      ],
+      "noncat_params": [],
+      "quote": "Modern facility with interactive displays about winemaking, a tasting room & an event space.",
+      "phone": "(08) 8313 3355",
+      "int_phone": "+61 8 8313 3355",
+      "hours": "",
+      "coordinates": {
+        "lat": -34.9194589,
+        "lng": 138.6147557
+      },
+      "address": "Corner of Hackney Rd &, Botanic Rd, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106216518410495493912\">Jack Morelli</a>"
+          ],
+          "photo_reference": "CmRaAAAAPH9I4qm-o8o_JEulR4H6zDXbdOIKaWnRmoD_IAJsWjQk4zUMulp5P_yRyg8yvWnBUToPOlHhZASaG4eL0DDGFl5cNX4x_lqPMWswlye51MBfckv96DFCuTO4loiGTNLvEhDZUFFpd8OMhAUYBWyMpy4GGhT6zi_8Ma7ne7ke_FDOPzEoeHQKFQ",
+          "width": 4608
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108751607543955329489\">Linh Ha</a>"
+          ],
+          "photo_reference": "CmRaAAAAUf8BT6rbSFcg-GXyK7aBFz3tfiXKZmxZSF8sw9e7AZk6awPNQaQpU1D3YDU5wDrtORgl8wYUFxRyfOtHlhEnpIls3IyrdJCV2tDEdVuAu84EfAwTAN6gSSGlKbPvO6THEhDVNS4P65ubrjfkpdh-AFh0GhSsukJ3AZiJ7_phYKWMDv7hLncE-w",
+          "width": 3120
+        },
+        {
+          "height": 1267,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114225348241963063392\">Paul Hinderer</a>"
+          ],
+          "photo_reference": "CmRaAAAAWkko7D1PDuiIlRsCW0HXkECbR9Ero0ZxU2E7RPJsMABM6p57xOpsCDuiWhyWHNUajqPU6qRUZfuLXrPGTC1QW-tJ-NYITz5V6AOFONPQcUy3uFO2W5NNVUrVidne9dhkEhCetJYb-IonoXan75qRCAceGhQ0nM5ydvCsdGiu8TxKkfCTug2XRQ",
+          "width": 1900
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110432349166879772625\">Josh Palin</a>"
+          ],
+          "photo_reference": "CmRZAAAAYFfd4Gtav0OTdIEL_dFkVXVTEPLPsFlV1WktsxHgLhLggyD1cRl3DEB6OVpJk5a2BYyPJ1inM59qb8tNlmwVdETHOkGZXJbP7OWwgUJr2OGOawhlME91Y_13lKhytmK2EhC7K7pEBAO-YKTKKZERYC-MGhRiruL5497L51Os2RVLLnuAib78zg",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110802470022983529908\">Manan Prajapati</a>"
+          ],
+          "photo_reference": "CmRaAAAAnyBc1J-YEXNO79PxwwWpZk666aeFN_YkLEH_a7pgWvxcxvUDBpim1vs1ek3LAy2mW7lkDe29erlOjUzi_u-4yqXCeEkWOgJqtz22PDhPmzHx4ema9508c0b93Sr890cDEhDbe7G4wDi65I4gTj4KW3R8GhQfUIOkD0nGRChTKVqm_nou_vAhuQ",
+          "width": 4608
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107125361453416216126\">Naoaki Tamakawa</a>"
+          ],
+          "photo_reference": "CmRaAAAAWu-1XdpB4e6VJGQtPtMMZ-vnIOYOXPhboj6dl7u-vC2qkXnE3LnROCUA39Dtv30CkYObChYTOTTFmZhOId3y4_S3Tk7aCHXuJ6YNlZBn_Xa--cR1n-LSR8UafdrgaWixEhBfVjc1J1trzLUNxm2dffgNGhRLxzwEHzKXwRbJN0PCbdRjQ0r8dw",
+          "width": 5472
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111113332217387860290\">Jenny Robinson</a>"
+          ],
+          "photo_reference": "CmRaAAAA8oUhZsLWFLMC6RpFk2WwWeYss5phpS5mf-QZSRxlHNpP55CEfk813R69j1WxVvDRAriXoSs3AeCcWUddTyxy683UJJR_Y1ayBfN_PRaDliI8VXQVlGEcDHVScSP0ukHxEhD8FbeYZ63PkOZaInrInf-cGhTS6zrAUbTMZqOn8hGUqqkplGI6bA",
+          "width": 4608
+        },
+        {
+          "height": 4312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112257756136045053515\">keith walls</a>"
+          ],
+          "photo_reference": "CmRaAAAArQXsrsromwxoSF4wHqq8GS_b1rfjOBNp_X165qLgW0s-mJ7sVF3CEXhZ4TrHKDZsyX1nCe9gMuObFl2FCAsFtEwR-9QM-YAubKDlEucEaKiWnunddcrvWFUWjZpUFNYlEhAzm1t5coNcNO-Xa0IsaB7CGhR66S_jknqBu6wSOCpnW9FZN8t8fw",
+          "width": 5760
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118444187824371489164\">Mye Joves</a>"
+          ],
+          "photo_reference": "CmRaAAAA5aQHMzx2ap81mBtqN8ZB1eXA0RbXnKM_kwHe4fEbB9ZGwHAkb3YfIFDhAvzfXy7lvf_AXFJf9l9v-SQiJnEg3hVtKKQsl6iTXahLu17T5PGeN9Jo2Sq750m600yRZnXBEhAkj_Bf6OHRUzJIx9kFerKdGhQgWbm86DCLeqk6ZCSUQhbFlbm-Cw",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102852606741210972322\">Paul O&#39;Leary</a>"
+          ],
+          "photo_reference": "CmRaAAAAGSQy4-C86sYlm9IdVY4ZyFQXwV3trqEmPw1Y7LKGD_t-BmgP3n5Orc0fyHaC_w32jQaZymzXGEHUK7UKozV-QQ19vn-LUcFI3XTPlMHqF-N3XPSWcwGyDwZCvOVOuUIPEhAemxlBl-wZx2VeWZoDuxlkGhRdky1w1vRlAesVDdE2VZqcGwAUfQ",
+          "width": 6000
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.nationalwinecentre.com.au/",
+      "mood_params": [
+        0.005911984383083878,
+        0.047081884204686765,
+        0.03460892104076709,
+        0.10735668486814456,
+        0.04327233107818337,
+        0.14046355700243252,
+        0.12078704667304564,
+        0.026907296043883953,
+        0.08237775656679022,
+        0.02937857493799222,
+        0.09009570769302677,
+        0.016040836906200506
+      ],
+      "popularity": 0.4677400384925314,
+      "num_google_reviews": 973,
+      "top_cats": [
+        "food",
+        "science",
+        "hospitality",
+        "shopping"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        -0.08133305228281776,
+        -0.5004033345924124,
+        -0.4759297853795289,
+        -0.5202670516803992,
+        -0.6458874223933658,
+        0.15666307091517723,
+        -0.9277496775041124,
+        -1.0285368621688382,
+        -0.640839647749018,
+        -1.140070577197023,
+        -0.754382059458232,
+        2.4835702128194272,
+        -0.6343004218348635,
+        -0.6656126739737845,
+        -0.8798272233240645,
+        0.5512924700352531,
+        -0.7633232639812767,
+        -1.448857958603959,
+        -0.2549812896372699,
+        -0.9877940761115189,
+        -0.82979730893007,
+        -0.05937251157341004,
+        -0.01931775796719963,
+        -0.7429682690864378,
+        1.4342303389072524,
+        0.4825676448134923,
+        -0.5782729166546523,
+        -0.8933238553876064,
+        -0.5539749703440147,
+        -0.9212406929892922
+      ],
+      "global_mood_params": [
+        -0.34066848334682165,
+        -0.10322697110045621,
+        -0.5090888867466359,
+        -0.2877284985342077,
+        -0.3306236101661958,
+        -0.16690310669008365,
+        0.1416449224538945,
+        -0.10705557161821297,
+        -0.5216386890977838,
+        -0.5573573124033838,
+        -0.035611450158471517,
+        -0.6407367669409384
+      ]
+    },
+    {
+      "name": "Botanic Park",
+      "orig_name": "Botanic Park",
+      "place_id": "ChIJ9_KfSjDJsGoRVNPX_sEO2VY",
+      "cat_params": [
+        0.22529595264435742,
+        0.15118056549274264,
+        0.1914065742722262,
+        0.22031610532004114,
+        0.49616819130129197,
+        0.08059325077615132,
+        0.38134897244232563,
+        0.14825546891207528,
+        0.18707781638788823,
+        0.29896117807485856,
+        0.07279753427176061,
+        0.2333580822396374,
+        0.2767709086182777,
+        0.29979382676751554,
+        0.22747605683924865,
+        0.24667300439257117,
+        0.5077974255093092,
+        0.2449243901947146,
+        0.20713147617745975,
+        0.11945710737931739,
+        0.8414054746781796,
+        0.2962144655875622,
+        0.24025645945453605,
+        0.13334976755652295,
+        0.0055249564614571495,
+        0.3774870715477858,
+        0.343100928953697,
+        0.48379686122587057,
+        0.5538623796285105,
+        0.4020517388430727
+      ],
+      "noncat_params": [],
+      "quote": "Tranquil green space with century-old fig trees, grassy picnic areas & various music & film events.",
+      "phone": "(08) 8222 9311",
+      "int_phone": "+61 8 8222 9311",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.9144999,
+        "lng": 138.6107008
+      },
+      "address": "Plane Tree Dr, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109987782003771676167\">Dostum</a>"
+          ],
+          "photo_reference": "CmRaAAAAt6_67lkS1VD9mwEbUaBL2pGwL7adMnb10-GhQZ5_RDOQywpUYdFL5_8CqMjAzo5wyVtD1xvd-oPEi4lG3hH5ehGDqcXtfjzOg9oSGM04uzK7Da-Y3hbSFBwMt55ygXAyEhBCzaNN8nvJQnDJnRCDPejPGhT9OoR2-B5iK6EQq6okAZPy5-Lbww",
+          "width": 4618
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114940046664463049161\">Simon Juffermans</a>"
+          ],
+          "photo_reference": "CmRaAAAAH4_-csg09784liqlOXje2HbFBySV2bdFd1LjntpkkfkqZ5hqXMLWFURHQ8oO7tc2ImHfMep6ZXCa_GjmCx7nC8hIP97uEgwB0QUX9cEU8Thtluz162J4EdLgbA2YqV3XEhBKMh9jt81gN-I9WRS6YIQCGhSNnFMmFmfuHQICdfM9xPD9Aa0GOQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103048094789882205478\">Lynn Matthews</a>"
+          ],
+          "photo_reference": "CmRaAAAAu0FUonwvR_Vf7KIya9Pcfag9rc4P3gHle222lQebJxcDvIzrwp_Gi4C-RAutI1uEecXCjNXQ-ZtKzFQQs1_xgyU3N6qAYekM9H_BD0MQNVTrvvs4IyS1VMA-D7olNHbIEhDi3NEqHlmY73n5_bo3331_GhSSOjhFuiXqiZgCA9MJTk4N9Zgw3A",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104204805935604872893\">Dashon Burton</a>"
+          ],
+          "photo_reference": "CmRaAAAA43ZgTkPnbxHDRej7umX3OecPVJ0eJ4MC3P9spATJDlN9XekAGbQKdY16Dc_0_RusTAg_YSRIOPY7DZ1ESDd9MxoYmig5iO8PsD_6oUQKMTQsoNTuCaajIR8nNfSfw-krEhC8GV8AkV9Veczf2TzalmI2GhQUsf7jxd4eSRR626xv90ws_6xSeg",
+          "width": 3024
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110455804950421133535\">Allan Fisher</a>"
+          ],
+          "photo_reference": "CmRZAAAApCl88H40-RHbds60OWSwJHkRTeBAHKzYj9_DXuzyqA777NJun6KKoXmpDyUCdR2kl0kVgwVG95Z0YhSR2ruE3huLri5PSPvyJK3chnLOpAtpajyYtkXNG9ujDUXaVIaWEhAvFRuT0QN7MM9fTXgmNxoAGhSD0BMf5kNhem0xYlpR6FMbuHHR4g",
+          "width": 1620
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109987782003771676167\">Dostum</a>"
+          ],
+          "photo_reference": "CmRaAAAAP99cF6Zfhcz1lLND0P-Yr6-klOEcYu5RxtYWdbECf-S0DqeHRU7eacPgGSpxEqMHHTu8rn2l2ul1d0WyxI3bJub6KCJnNTvpeHpGm0ZM5rPatWUJGpdywpctVC0IsalxEhCTXDHgVKIGeB3JIQ893Z2yGhRlbLmeI0v0ECEVycWYWBFzw6AwfA",
+          "width": 4618
+        },
+        {
+          "height": 3888,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112820991619321268282\">Ryan Smith</a>"
+          ],
+          "photo_reference": "CmRaAAAADxkPb68nUlD3LdK3kmiTd5xIdWzN3Tuf0QEanJ-Wvpp9wguQdJcn7WPM4uAy-aVAPS815Pm7_GiG9fiHO_DVkyOYlyaLeexvKTivCBcO14WK4hiWkejObv9kqDwG9bk2EhDSz7YsUsMnGx5vlkfaQjOVGhSHzWOCgDGa4yZgqpV7FRLg44pRjA",
+          "width": 5184
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103048094789882205478\">Lynn Matthews</a>"
+          ],
+          "photo_reference": "CmRaAAAAunxW-aIjkY_zEah6Bm5_hVpF7PidJRH9tM-bhLL8gQ1OM6m4BMIQckkCmQzoC6DeWVtgPnKHXGE-o43NbOrIYHdnpCkvSKiXEVTxf1RplmGCD9Lxt46jy6TQSBxHFNJgEhDGjmBkrM38-9nwd5lZKVFdGhTWUqm9JOYRJEFDOSQt5xB-fjpdnw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101157619224859663064\">Mick &amp; Zeny Hughes</a>"
+          ],
+          "photo_reference": "CmRaAAAAPvmcBE2bgZjgd-GnKIXX4olJmWw73r7CCZN-0UoAExBDTQ9gEypbbMhBeKI5fX87aRd_LSA8fo8R07Np_ikaYco1TyxoRgZjXEOnON_1NVyF_i9E1jV6_1J6Lbl9gbQjEhDjfW1qdjKZJ9XK_RYnSDBaGhTxNKuoM0qmigqieStACsFWoxerMA",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115738662862700661839\">Adam Clune</a>"
+          ],
+          "photo_reference": "CmRaAAAAVMGFSQxROhZbsd7rGwfhyhtsh31SIS2jFmb1uKqsr96BcEVCgT2nswx-7hiyrcNlPI5TTqBxd_ApbyIAbN9fEHNstbe-C66-REhQtGiJd8hM3m431ROsxP9HZdYA5bWaEhDYaaWOtfXx4yKqKlo-ei9jGhQMTuF58ins8Q3h4KFhCJW8k--oOw",
+          "width": 4608
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.environment.sa.gov.au/botanicgardens/Visit/Adelaide_Botanic_Garden/Botanic_Park",
+      "mood_params": [
+        0.006002034860633054,
+        0.05251564664648635,
+        0.15631913909710005,
+        0.15298203889363662,
+        0.11565725542968695,
+        0.22601457967983787,
+        0.14815813777148104,
+        0.024234468421881636,
+        0.18305013702310932,
+        0.030064370021092825,
+        0.08245586991496427,
+        0.024676541994422017
+      ],
+      "popularity": 0.44978727912170247,
+      "num_google_reviews": 832,
+      "top_cats": [
+        "walking",
+        "nature",
+        "beach",
+        "hospitality"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.7774927857182692,
+        0.46542617569943867,
+        -0.32648217758855025,
+        -0.07829938097399583,
+        1.1800538322476155,
+        -0.8609483694474227,
+        -0.1802731494293218,
+        -0.6983773266074988,
+        -0.2891847786328679,
+        -0.23811386450069574,
+        -0.27873795160681986,
+        0.8781135664946053,
+        0.2512318505421729,
+        0.6911701952297583,
+        -0.6813645679176794,
+        0.8935496758275432,
+        0.2097300923641689,
+        -0.5124876642981286,
+        0.5276449074525603,
+        -0.32270749685388694,
+        1.4817753918712977,
+        0.3999655444735328,
+        -0.1892599191404041,
+        -0.32523126544792147,
+        -0.6343388719747118,
+        0.170166494585756,
+        0.49581324619112205,
+        0.41163296451525777,
+        1.5372181381930594,
+        0.497288207744256
+      ],
+      "global_mood_params": [
+        -0.33460971896029135,
+        0.0595632052813987,
+        1.6822582369772308,
+        0.4156527744884714,
+        1.2580260721957897,
+        0.9089024577303211,
+        0.6596319528820183,
+        -0.2136365253083052,
+        0.8101244966319573,
+        -0.5307051370619504,
+        -0.21239884599000658,
+        -0.11281130313729887
+      ]
+    },
+    {
+      "name": "Migration Museum",
+      "orig_name": "Migration Museum",
+      "place_id": "ChIJQcWL5dTOsGoRuootlxRH12Y",
+      "cat_params": [
+        0.09928753832387704,
+        0.07693167551260788,
+        0.27282162219102096,
+        0.271202126454054,
+        0.16212455242808424,
+        0.2389213935420666,
+        0.43442347017051897,
+        0.3361290672439757,
+        0.1567559443409181,
+        0.3347721244556954,
+        0.0510323685747922,
+        0.055629331247195414,
+        0.23510393418483003,
+        0.09153619424775307,
+        0.46575742961501465,
+        0.12375154467936059,
+        0.38801139276580215,
+        0.3503529333189973,
+        0.10482526946154226,
+        0.13645865988955425,
+        0.3868256369452454,
+        0.1366217919704869,
+        0.30038656178993994,
+        0.11412585353782531,
+        0.056224240304978884,
+        0.2579294899532783,
+        0.19857622463463812,
+        0.3492722419353254,
+        0.1476088933482095,
+        0.20504860894090232
+      ],
+      "noncat_params": [],
+      "quote": "Social history museum displaying exhibits on South Australia's diverse cultures & communities.",
+      "phone": "(08) 8207 7580",
+      "int_phone": "+61 8 8207 7580",
+      "hours": "",
+      "coordinates": {
+        "lat": -34.9197336,
+        "lng": 138.6022379
+      },
+      "address": "82 Kintore Ave, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
+          ],
+          "photo_reference": "CmRaAAAA1QScVD2BYxbcwiOUuoLwasDXOV_58YwHelWkqB8ROUc4Mf4pztLrOcKVGpN1m5WG_hV4nTCovsgDWuRQ6axrya33KmOpzbldSbEPUHhzSFQqVKXs0IsjoFal1wKbIsF_EhBjWaq6acSagEN6KjJI9qajGhQp6WHZrE0KNCci7Gu821KjpsgPQQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
+          ],
+          "photo_reference": "CmRaAAAAvovey2jHPT5laU42Jh2CqkMp2QqDYN9X11cFVugS4c2wQSidx0Hgnk_NWH04Z2kt8Wp1XGcBT1znoLpGAJ-19PPI6lod6KCvuOtsJGQWyau4VrYSU9SbY0k_zjVzKqZyEhBVHRE1EOFNAsuucGCmuNyfGhS2IT1lZ2-FPKOy-127Hc-scnfpjA",
+          "width": 4032
+        },
+        {
+          "height": 1801,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111831423730708334373\">Levi Stock</a>"
+          ],
+          "photo_reference": "CmRaAAAAn_PKQohnL2ITICLM17lfX8TaWChDIT0T78BmxhCh057Giqj0mexgX5NH7kxaMLUGD3-ccY1aHrRUuTXdgz4Lt-D00IiFdiQEE6zWx6d5QtyEVIC7FpqGU4Ifol1qyuHgEhAb9Q6PFlmrk_PElotTQiJMGhSJ6VaIebL0sRq2CSK8_l-XqufX_A",
+          "width": 3806
+        },
+        {
+          "height": 3016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114268009596788010551\">Jane Irvin</a>"
+          ],
+          "photo_reference": "CmRaAAAAs9RaKgPVREFT4J_doHFSIZc3urJJvI4-HXDI9aejO62VjcdRDObFuMgBmZtvdjhOSMbI1WVkZB2dhL5ip-9jlVlslJW1gcpAlRhH_lqNRBEFplrYP1-tg622dKzTZ_VSEhBMKnX-natMe7ejl2hxrNAnGhTjIKquio-4eKrsNPILhrDh9OGQJw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114790070668344656883\">Leann Chan</a>"
+          ],
+          "photo_reference": "CmRZAAAA9xJF4ex-aWGE6-VP5yyfssMd7N6sqU9L_OYblZ2p_r6oVZI0Avax2hvA372ZHg1ZXZzYGywT2b5MNeNIp0YPDAnAwh55IJIcXpVRVSxrd6Cn7i8-ZDDPxpj-ONGUD1TdEhB-hVK-S3j1OJTkx2cnzh9qGhR5nnryIRzYiAjVS_zZSbbKQkgrKw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
+          ],
+          "photo_reference": "CmRaAAAAL4A9u9g9GxfO_zXEJqUYkJcpVr0KYdyM3nSXldf_KlaitBerQ8_xVB7173bKnKnRV2JWvkD1ImtINzhchOyZkScIB0pTK9uh58kMqy6ThUUpN1B827F_8KYyNu93z3RGEhDFOvpdUkG6L8cdXBMosUy6GhQRc1VcyO1IObbMv1cwulPbHhTfTA",
+          "width": 4032
+        },
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108964302996355879875\">John Joves</a>"
+          ],
+          "photo_reference": "CmRaAAAAu0TTeMo9d8icUAcmdL4Jf383t0n3piGr9LxM4naxxzg_ak4c4c-nq_sh3tsqk4FMQGkHDBVUm4RqAHZKnCMCx1WoxD-B5bqQ1MDhHRyTpsaxsQJYyotgsOjolBFwKCNTEhAkm1jucY9DzuhOcCDft4BkGhSu3oeGjAFiAz16tqsEOMCIyIaK9A",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110447745138208809645\">haibo zhou</a>"
+          ],
+          "photo_reference": "CmRaAAAA_8WWlkCK_QOJSdri0ZjNuebaiWyKJE6wDl9XolJiP61zByAXqm6YEA7Y95TJ2h1I7ih8tkJOcyUfhtJtjKCyDxD0ToOPMOXWCwlq-29P2Yy1erqZL9vh_Zhi24OU2NgSEhB_vFkQKmwDMQ8mg1n180MJGhQxDC46Y8467iHzQSzC7YSdYA3Bog",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108307423364012455790\">Marc Witarsa</a>"
+          ],
+          "photo_reference": "CmRaAAAA3CeL3XU2DKIcSvEBu82bbFtC4y9hc7FGu9LyUDfxgb9_AKHnzehVJs-c1JYW88XLg1U0X_N0wUPw2dpWfL5plegjOPaWy1PBEAmaataUuyDfayxserqJkR9AnQCtcBkMEhCl_jKAABXsYpW6HNI-J1RJGhRAxMW686uXGtRoIyctgYmWRF720g",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101045950660255817729\">Simon Gyllenhammar</a>"
+          ],
+          "photo_reference": "CmRaAAAAV6ZyZpFDJYg1Mv7mSGTelp5xccO4si7otO6yczoBRF8svlX8t9duMIliAyy27FK8aUa35vFDPgWjuMbd4fgWJwZx4-CJkJqbjiAbGHbFFdwpGJYI21I_BWIcF0lGW5CvEhCZlvYpNTJhpHDzKsq3CWW7GhTN94Qksuua7gffMDWrFrHt_nABcQ",
+          "width": 4048
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://migrationmuseum.com.au/",
+      "mood_params": [
+        0.007521931021780414,
+        0.08600277319662807,
+        0.012709150118912639,
+        0.19752111840794495,
+        0.01677340544621297,
+        0.1355109944852758,
+        0.11517264442229397,
+        0.07369107376754981,
+        0.04201296428950916,
+        0.06341042524825732,
+        0.1620186316306651,
+        0.026189175926496815
+      ],
+      "popularity": 0.3528206335136769,
+      "num_google_reviews": 315,
+      "top_cats": [
+        "history",
+        "culture",
+        "books",
+        "science"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.7514214301747904,
+        -0.4223467649683468,
+        0.4732894964273253,
+        0.2853433646437939,
+        -0.8804426359563611,
+        1.25125499500835,
+        0.3845368873378314,
+        1.3881110020090868,
+        -0.7379189917210941,
+        0.1426509985258703,
+        -0.7263708835230637,
+        -0.8098098733564814,
+        -0.19902942383209193,
+        -0.8391127524998759,
+        1.909709640670727,
+        -0.5460925955838125,
+        -0.4402339703607411,
+        0.5902549544206347,
+        -0.7782509575870552,
+        0.016063318816510956,
+        -0.7352142085421978,
+        -1.1591376756454066,
+        0.48869659268608984,
+        -0.5045602616978975,
+        0.8254111036067012,
+        -0.7166433165210847,
+        -0.8583708067163038,
+        -0.462291221440005,
+        -0.9151021131218752,
+        -0.8573316012370756
+      ],
+      "global_mood_params": [
+        -0.2323482653510651,
+        1.0628045681507052,
+        -0.90338610177262,
+        1.102287544062616,
+        -0.9122020281215251,
+        -0.22918166453021446,
+        0.03539458924514373,
+        1.7584817364997731,
+        -1.0556118017911456,
+        0.7652284920351359,
+        1.628699598439377,
+        -0.02033964483056865
+      ]
+    },
+    {
+      "name": "Chinatown Adelaide South Australia Inc.",
+      "orig_name": "Chinatown Adelaide South Australia Inc.",
+      "place_id": "ChIJQX7XJSHPsGoRKr_ML1s5H88",
+      "cat_params": [
+        0.1625754422045459,
+        0.10197778517251559,
+        0.16323628579846877,
+        0.10186088447841164,
+        0.2124054284991257,
+        0.11258718477746851,
+        0.31504395751434255,
+        0.1120703097501393,
+        0.16837267203229703,
+        0.19000992708756653,
+        0.07029096392464791,
+        0.26421279120945773,
+        0.15696895344068693,
+        0.1265180542490579,
+        0.17266271282374282,
+        0.09754612570304154,
+        0.21263437473969057,
+        0.18239861020589335,
+        0.10413072329719249,
+        0.07736963959815735,
+        0.35402303297978804,
+        0.24760383811908393,
+        0.16846851965141446,
+        0.09173329671113957,
+        0.027005482167889724,
+        0.4265523954898209,
+        0.21888666117939484,
+        0.21504099685205616,
+        0.1518348119269683,
+        0.25679737344564735
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.9297621,
+        "lng": 138.5958912
+      },
+      "address": "18 Moonta St, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111478921469695467007\">Brasva S.</a>"
+          ],
+          "photo_reference": "CmRaAAAAnv6H5RPm1jFH2HyGdoeZXAYDmRqQylqZk1aX-OEZtTu21F2dI51EKkZDu8n5cKr-D1ioQfd_IRdvEbAzhwC_s3dZ16luXcv9rfLeRusxa1-EICOn30sqnC1ZmXWM95dPEhB9WlIH_ze7-hzfs7JChDHMGhRYs_UUfcdLuSAsRC3d9OThi6tqvg",
+          "width": 3000
+        },
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103775188709831065730\">P G</a>"
+          ],
+          "photo_reference": "CmRaAAAANINr7-bkg_RtZIW5GX4TyBuRXcVqwHRA1MWZOZFuvTei6ptkx_5Qve3vs7pwJV0P3QE7ePhjXYR9BgPgpiNAI1ugaOQ4tffP9pJ7z38mpxenAHkms02yX-QK6lnnMdpIEhDNo3ga-WgwFxU73saJerdfGhQov6nvgdC_BoHKo0w9fEnx-R1FHw",
+          "width": 2976
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109914147718259835040\">\u9648\u5bb6\u624d</a>"
+          ],
+          "photo_reference": "CmRaAAAAgw3lSmdV43OlYoFrLtgNFQAJzYIYUGdSaea6-xHdoe5LNGo7roOGS2PzXJr7leLChlPQg_I-BneDh1Rrz8O1_wGc0OeNEns8atkpib-ICoymrgnHtdblGsrqKGWyQaH0EhC96AH4reOKtfNM3y9RUz_zGhRJgoVp_J04M45u0VtpCCQhb_ULzA",
+          "width": 4032
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109709845073694818306\">Josh Haynes</a>"
+          ],
+          "photo_reference": "CmRaAAAATXpmdt5VFy4XxVPg7E3vK9YhuAM7VTEB4lOAFIefFw4-HO3Z56xLNAy30qe8o9XZ1JH9wwL3qnT7zVWEvJ1YrnK6nYPWcpIfZXgk38rOiwfa73v5LyUa8Csb9K-IIpG3EhAZ63hI7bBIX4fthDKB_54oGhTubmVVdjFOCQ0dJU4wOg41_MngmA",
+          "width": 2988
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105461650932718702141\">Melody MeOw</a>"
+          ],
+          "photo_reference": "CmRaAAAAbl866tUjz0Kbam3e_JhtPJO56hM4qYdyDwXRazTgeliwH09YA5p46f71R9T6B6H5iMg9WTBmK25eQ8grywdiMppwxzAeNHTBx20qKx97B0wh06i1j1pEQZckDYrXzgOtEhC0oDn_LiUVl1Q0WR0rQhZrGhRHlcAsAHpGfpgvpDxFNij--8xzzw",
+          "width": 4608
+        },
+        {
+          "height": 1286,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105146354217260691068\">Siva Kumaraguru</a>"
+          ],
+          "photo_reference": "CmRaAAAAKVG3E81DHU4z89_BCeKpyqJ9mfwQi1tu5y0acjXj7DVcM_skkPObvteCaFNqh7Aze30THeJ_JOVS2E-LaImfcl-6JIIV682vFx_p3BvTYJfUWrhIdVfCePqq485mq1j8EhAjyUWkE-p-w9LK-nNRywrYGhTsgMqgWXpWNwqtyBv5RQOMPviqLA",
+          "width": 1714
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118128213985350666486\">Sarah Ninnes</a>"
+          ],
+          "photo_reference": "CmRaAAAABYNp4aHkx_m_y8tCf21-UgdUAMylBrC2SI6cUQLr65hKo1LVT-KnQVZE8htq5gm_HzemCbaMLeK9rwJ3SL05rlDn1j-EcZ72ONwqUgGM8opBBD8WPaQV0F8xpqsJJab_EhAABfvWi9NxTkaiHjsIaSVyGhThMOHODObiXSVEGQBb426MtBFPTQ",
+          "width": 3840
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105461650932718702141\">Melody MeOw</a>"
+          ],
+          "photo_reference": "CmRaAAAA-GlpIVh42LWc3F0o1ZlowD6qPX7wHjF9kAXnUqNopCdKgrERZkhZREJoyhz5Tc3UWKV9fvRc1imLGmfKi4GAMlyTEJiAoCbBHzSBLWYJJfxZwbGMIDpFAZb9lnFkb_UDEhBN0BOOz75ZOYeWujJz1c_HGhSxj1CR1fpsbzMoH_JbFhLcHaDN6g",
+          "width": 4608
+        },
+        {
+          "height": 2491,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112113836996893050812\">Greg Jones</a>"
+          ],
+          "photo_reference": "CmRaAAAAu3zZ9UgwMmU4B8lcLoMX6RaoJeZCbwbMqgVqOcmLDSPh6tDuxR1aItfNs187xK1Ao3Jv1l4LbyXZwarJfm98jLkSOIr7u7YEp6p2D9PDhvKkKcB8eXy3W5GLFAMTcbf9EhBjVL3WAdy4aJzhkT3VMtbyGhQtbn6GQvDnaTDEEEAxUZNhRgYAMA",
+          "width": 4043
+        },
+        {
+          "height": 2610,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116864009090409744747\">Bassam Ashqar</a>"
+          ],
+          "photo_reference": "CmRaAAAAqAth7aTdVk70YJO3801nzNncnpOXHPf4ylskWBJjCUBKqUKaM8vxwqnmw5pB4rcJJw-Z5UMpSujBr-7ZhM1UJEZC9o-VVaEo0iqdyG3nGYRKBt8mdrO4p1FC031EJSLfEhAj5J8KvwbU53TcSnDCQAVrGhRvs1fiOYKH0jcAJRmIJFdwCtjcsg",
+          "width": 4640
+        }
+      ],
+      "rating": 4.3,
+      "website": "http://www.chinatownadelaide.net/",
+      "mood_params": [
+        0.004332355990193521,
+        0.021930550433053628,
+        0.012375968480168467,
+        0.04278671373775463,
+        0.010211940862370952,
+        0.0672373979679025,
+        0.061074913125721546,
+        0.010988420693819063,
+        0.031306200345626964,
+        0.016638957280267253,
+        0.049184481643462376,
+        0.015611354868870176
+      ],
+      "popularity": 0.3700049898075965,
+      "num_google_reviews": 381,
+      "top_cats": [
+        "food",
+        "shopping",
+        "amusement",
+        "science"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        0.016477891938187494,
+        -0.12287752804085705,
+        -0.6032098753065305,
+        -0.9248065509130433,
+        -0.570292836630569,
+        -0.4341278822035959,
+        -0.8858801645179892,
+        -1.1002427985570677,
+        -0.5660027211433344,
+        -1.3965531784906955,
+        -0.3302892905285657,
+        1.1711465519239468,
+        -1.0433709312592612,
+        -0.5820650602152618,
+        -1.277405459870713,
+        -0.853007506831809,
+        -1.3918370624249952,
+        -1.1664836346401035,
+        -0.7871165483778667,
+        -1.161337132655691,
+        -0.8951927773687066,
+        -0.0749245873877443,
+        -0.998656533645729,
+        -0.7134477304669733,
+        -0.015864714189394176,
+        0.5341050259329891,
+        -0.6680637626293732,
+        -1.3343095345771472,
+        -0.8895926564376121,
+        -0.5015001912323286
+      ],
+      "global_mood_params": [
+        -0.4469488331158691,
+        -0.856736184058809,
+        -0.9093849130260984,
+        -1.283168631828417,
+        -1.0562081001087167,
+        -1.0877233012952672,
+        -0.9883834942238023,
+        -0.7418323535240332,
+        -1.197248206871958,
+        -1.0524593216819997,
+        -0.9823055192846316,
+        -0.6669922378534637
+      ]
+    },
+    {
+      "name": "Cleland Conservation Park",
+      "orig_name": "Cleland Conservation Park",
+      "place_id": "ChIJZZskfpTMsGoRMH26RVU2Aw8",
+      "cat_params": [
+        0.1663141591045452,
+        0.2824073335457772,
+        0.09632425652954837,
+        0.10765043016765588,
+        0.28555918587633544,
+        0.08222041921052424,
+        0.3394133265359574,
+        0.13354991597700352,
+        0.1398940579692724,
+        0.313134537590995,
+        0.0672880495961058,
+        0.12321778144804499,
+        0.24522080430524013,
+        0.22623788253416072,
+        0.22801670603165003,
+        0.18512173202031318,
+        0.3972042213126028,
+        0.19279548484429632,
+        0.12901695652897888,
+        0.10442675705777855,
+        0.5515413758219418,
+        0.21479061841272115,
+        0.21978165068179048,
+        0.09289790197579369,
+        0.009133405677229879,
+        0.34451190151912026,
+        0.2697516225562327,
+        0.44008076534221496,
+        0.30887122208791495,
+        0.29233282216345835
+      ],
+      "noncat_params": [],
+      "quote": "Home to diverse native wildlife, this bushland area features hiking/walking trails & mountain views.",
+      "phone": "(08) 8339 2444",
+      "int_phone": "+61 8 8339 2444",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.9666872,
+        "lng": 138.6968449
+      },
+      "address": "Cleland SA 5152, Australia",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100704588987559795755\">Weiqing NI</a>"
+          ],
+          "photo_reference": "CmRZAAAAiZNJwTDehLukcQeeOe316APvyDlof4JHCEEX_Ckpq-Vu5qqtBxIKDQ_fQ9r6HAcJZ09ujZwRK7Pu9HJdbugfrc5vaCkgkjevi-T2h3xRLRthhrvoCFm2n0Wl_P9PvzwZEhBTSHZReerlBBOEWm4qpJXBGhSKqoroBM_Qs6mB4cg7GKraEdPnvA",
+          "width": 1616
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100140483023982599292\">Rehan Yusuf</a>"
+          ],
+          "photo_reference": "CmRaAAAAfhuUorHff0Ryn86LBw_DkajBbiAUTNK_o1S3bMKl-vnD68dAuVO-MQZ5gY_grHFuiuk7lz35Njv07ZSBZIfvOa0OdGpd2woUVy9n-Sm86333S3FWI6oPVFMmpQCz_xeGEhBY0j-yvBOwfsw6FMmGC1m2GhTxDYWLvKbTeEsCtDbUEptCE5zhyA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116272557153703775907\">Emina Kuralic</a>"
+          ],
+          "photo_reference": "CmRaAAAAiDBZ8e9CRge679KOxk1gb4uKDYExv9yeRSkCDlBIIVJvZxYhsXkXA_nNLDpGMKVpDwara5rzqtUr1aN9oNR1B-mzlWMZLDRfdipfWJ6I98YKSPPXDmV1GR3YP9DwSLzXEhAHHYcHiV56f1zoEuw8STfQGhSjr4SnNJOAYAqgs3qV_HmKiQeXjg",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116727602597876295370\">Natasha B</a>"
+          ],
+          "photo_reference": "CmRaAAAATST2R9FaMBCuVHE0IgGG2Rel20YYYHYyGeDt3gaRYprzFbuv2ieyV9BOtU_LilZ5x_gqWknqgZNQ7HJrIZopngou-SIuFtUZm3xjGUMPm8AtXpzT2lagsJuekGiFGNz0EhBMpOUR3N0KB4wTnQYS4zC5GhSmrr8_Dhp_LSdTJzGW4c3fxxWS0A",
+          "width": 4000
+        },
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107236241563964088115\">Ahmed Naseem</a>"
+          ],
+          "photo_reference": "CmRaAAAARyWjSfrMNIPDQD98KTd2X_FkXTvj_UQeMaAswuHIsbBV_vstz41-LA_G8LGiOIIB88S1dO42K8KkUDZgBDG8yjRcBw_CUomTkgb_v5NIPj9iZ5ynEwb4Oa9VynkZJZEqEhBdQhHa67Jgjcry4eqaev6nGhR9Ojq_BTMfWBtROSOVC-hrSc5nhw",
+          "width": 3840
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116953318332358393488\">szilvia zentai-solya</a>"
+          ],
+          "photo_reference": "CmRaAAAAM-pT66yAtKTwpBd587Fy2kXi71A0rIgjAnYdF28vB4D0KvAxYVeLXX_6fabbGwMhv8tifsxLRkgDklqj2-0nNEhSH-5yjCqJZtZrOZJAb6h-SiY9UA2niD8l0jH6SCC_EhDH-I7rfm1t9wzSJG_mTLXnGhSJqFOInHakhNDr7gCGLDMgAVs7ww",
+          "width": 4160
+        },
+        {
+          "height": 3265,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103601251010351912685\">Jarred Lloyd</a>"
+          ],
+          "photo_reference": "CmRaAAAAKGcIOnzIdlW1HpSsNJNPViQ6NbAfGzXCSNjF7UlyzDeqCrBQRwEbQHoEKFHoVMwMfKA2M4taaRA2XCNYrdiSfXNldlLa_v_i8bnu9ZAUWv58a0engqjKMI3wb7D_Ugj4EhAQD1dSQClwVRYa2oRRPcTUGhRE_iHV1pHyxA9eQAxMFA574dyi-w",
+          "width": 4898
+        },
+        {
+          "height": 3715,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118393685295963403337\">Sammy Jones</a>"
+          ],
+          "photo_reference": "CmRaAAAAVadImSDuqRez_u1qvrV_d78aEjBi-ZMVaHTJ_O3jmgCmx2YZ2BD66BlX0Ehn8zTTXtSNV0p0CxAJlb_jkxFbL33FNYRZO1mTnvRrAqCE0bS_NhyuTxAJNfoXPGyujg9ZEhBHr87xQPpdhnpfEtAi2b3iGhTDY26QRF8P3urpsajvF6tcBCGglA",
+          "width": 2904
+        },
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105566551438557935559\">Vic Sebastian</a>"
+          ],
+          "photo_reference": "CmRaAAAABJw2akfErEXdHSK0Ynh0Wz-Mj-UP6OHYAWCixSkwPhOQn2ZP8Osqn15u300S4W-8A2SpgEe_1tbb8m3Uj7_7eGQRY0uJbyVgXqO_sxku83gtLE5qXNqRwRI4E1Whi3m2EhD-2FJ8AnsbI9KCFzf6btsSGhS8kfcfK5d4SyWo4idFiqIsjS7Q5w",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117899811735656913475\">Kevin Ruggirello</a>"
+          ],
+          "photo_reference": "CmRaAAAAhx4oVk8REE--sqiRQPkS3NXn0t7kh7SDM82hZdPUCDy-4_kgrjIUMsCIFWBIKzgCp8SlTg4LaxyAXFN2FGdx9zdzzrG-pOhsMEH_lu0BSwKElYoxz0Hy-ADj5Ds7gvIYEhAFc9SPQW51bn13nig5Od4ZGhRu9ke2EFkZQdAitaugBJugZO0BWw",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Cleland_Conservation_Park",
+      "mood_params": [
+        0.00747336678717594,
+        0.04310716865396169,
+        0.050216545996118356,
+        0.10380666465632678,
+        0.05483600541993156,
+        0.15808987896246757,
+        0.12767047912433116,
+        0.01993651939356025,
+        0.10178881332588831,
+        0.034511447285709346,
+        0.08824306024898904,
+        0.026516600985384917
+      ],
+      "popularity": 0.6167371266876545,
+      "num_google_reviews": 2941,
+      "top_cats": [
+        "animals",
+        "hospitality",
+        "hiking",
+        "views"
+      ],
+      "duration": 0.875,
+      "global_cat_params": [
+        0.061841349993222314,
+        2.0344674610296467,
+        -1.2605127576137445,
+        -0.8834331787491665,
+        -0.11905521025324185,
+        -0.8392408537677869,
+        -0.6265453652782577,
+        -0.8616943910450234,
+        -0.9874585089528344,
+        -0.08741365017528287,
+        -0.39204867999950505,
+        -0.16790962525271005,
+        -0.08970459535503042,
+        0.15067904586564862,
+        -0.6754855427886626,
+        0.1726681163911541,
+        -0.39035329518214057,
+        -1.057736264853083,
+        -0.4694542078705734,
+        -0.6222003834696047,
+        0.06810580216316085,
+        -0.3954856466592444,
+        -0.4201098494873894,
+        -0.7025837881431193,
+        -0.5304432494868593,
+        -0.07442447082467413,
+        -0.19146344801324766,
+        0.12763622317713838,
+        0.05834645507017105,
+        -0.25715370405676263
+      ],
+      "global_mood_params": [
+        -0.23561575779628846,
+        -0.22230553820762336,
+        -0.22807941523094324,
+        -0.34245722972278075,
+        -0.07683281416083787,
+        0.0547481915810639,
+        0.271911148296743,
+        -0.38502038208195444,
+        -0.26485593825090387,
+        -0.3578775885213706,
+        -0.07848208780026224,
+        -0.0003232102362239908
+      ]
+    },
+    {
+      "name": "Adelaide Gaol",
+      "orig_name": "Adelaide Gaol",
+      "place_id": "ChIJQ-7nITHPsGoRvyom__Ts3NI",
+      "cat_params": [
+        0.11063261046221508,
+        0.048374060359457405,
+        0.1842711740339906,
+        0.1283911690504419,
+        0.18740056812809755,
+        0.16391201712475179,
+        0.3491323320574485,
+        0.1686765257456159,
+        0.18363547087897047,
+        0.23684349735154928,
+        0.04727442623778349,
+        0.06266928718548014,
+        0.18358760128603727,
+        0.13989379276651656,
+        0.31508816707747983,
+        0.09025736456892125,
+        0.26140966795752985,
+        0.2290846540946752,
+        0.14935771950356008,
+        0.09591777698096114,
+        0.3394294887849716,
+        0.1952484839357536,
+        0.20887111601673733,
+        0.10243603936650135,
+        0.053500547143784695,
+        0.22387682936352185,
+        0.21472120181962837,
+        0.26485676084939386,
+        0.1572970986498664,
+        0.22878121325888112
+      ],
+      "noncat_params": [],
+      "quote": "One of the country's longest continuously operating prisons, with history & ghost tours & a museum.",
+      "phone": "(08) 8231 4062",
+      "int_phone": "+61 8 8231 4062",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.91799400000001,
+        "lng": 138.584845
+      },
+      "address": "18 Gaol Rd, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107035536433722657835\">Bruce Seeley</a>"
+          ],
+          "photo_reference": "CmRaAAAAZmgvknnZbNlY9dp0F8uMm-2m68Ilo9JcbOaogxnH1zjE5BuDXqO63yIbfnwJod6_RaiprAaWONs5sfawQUAyzgUcthCKKXiwGKTUWNhmoogPD-p78Lw5H9Awhq31FG4ZEhCrK86dAxZCupJPtZHYX-FDGhR58km1f7dusD-P_0l1TFEoCGKEeQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101095806438599634900\">Garry Bentancor</a>"
+          ],
+          "photo_reference": "CmRaAAAAYa_vaAQpgjRqDdhJR1-N34k8ZXgaH5z6bm0kd61bR-m0VpIf6cGYvRbemJxBbPmra4dIOp6VL1qqKCob5zUpsnvQTUC57ZkulYGF2JAkRam9QoG8vZ0ewxksG-KvwJAwEhBUvCNmr7P5wWv1pnd6zTk8GhQ4w8RK9lAGAbvoE3vP_HHvEfkWHA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117322090295377180730\">Vp Smile</a>"
+          ],
+          "photo_reference": "CmRaAAAAE3sVPrdRSndHS4o6YnrYmMHlciyOwHTD5eAq-tU2T9pewwz2-igvkY2y8yiFNNiMH7qg2G5TDRf2sFFbL9OY1Jk8Hcj7cn2dJf_gfb5IynKMonH9npn_BwaoT6PF91oDEhBlAJz3EXO8FsHjXkzX8hSmGhRLskaTW0HwPGQnAUZmEov4SdX8lg",
+          "width": 4032
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114888008029500540847\">Mark Harman-Smith</a>"
+          ],
+          "photo_reference": "CmRaAAAAfN0PmtErbNKwi7oHIuiaYsucwtWHI1TKgEs96MEohNlaPbJhTU3CIVGCdZYJ-riFLkI8WncOdgVn7msW_2RmKbaHpDNFwLwliJ-JTBi2VmyUyC8L4EStv7CF-Z0Mb5aoEhCth3gl44BbqpnxFVEzJwX5GhTTwDsW-nr2wjqnA1dJP5ljjbAaYg",
+          "width": 1553
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110117363516389770490\">Darrin Murphy</a>"
+          ],
+          "photo_reference": "CmRaAAAAIvSgMzbkNxKbbnvy2DxurrVqfVgADE258pxW3wKMsqrbamhY1C4woeXCoKaVKB6gly8YzoCBNltwU9zS1GRbwKfREROhlnXAoenSrZtAlAlsJq80OAD5ztcLipEqSpKmEhBgFyMlMAW-kdvzrVSmFeHpGhQNvc0q8HfHuyL2h5TnsWpvByxu7Q",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114833965028194767567\">Sinead McCurdy</a>"
+          ],
+          "photo_reference": "CmRaAAAAoCyCuHYKG-5Oe7PVFBih7TYh7Sgqq8UGs3IzlWCwy3tlXrFtmoCoXHMGO5Ft7qdKqK4TMsD7IcigtBOrU8_ZKeWmvYiPHWiMV0gmxMsBthzNOL8pBgT5-cpTBGYuJGkGEhDuGcihldByxWv9Mu1ZABIjGhRUUZMP7Pz4vq5Buvz7ecBbWexgXg",
+          "width": 4032
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115867464889047047479\">Daniel Prosser</a>"
+          ],
+          "photo_reference": "CmRaAAAA6bzj6bI92qvVjj2vbTtmzhGIzLT3s9J0BK8s1BGawAQtCrG2-Nn9_ehZVP6wVUrKq6EFbvmyuN-Z-kI96H9JB7K60guC3NcY_znfy_eQudSNZDFfd-fLZ1kPhxYdeUG9EhCxcxLLtGL6n3T1kY8OpnydGhTYNxiOPdCt0EPqr1cCmkcZWX4Seg",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117322090295377180730\">Vp Smile</a>"
+          ],
+          "photo_reference": "CmRaAAAA5c5RhorWzzUdcRJ74GRZktK2Ox3FpIxVcLulB4-7l44OQe6JHwoJrrhjln6VGXxGIQ3iV41vwjWGbQxdgql_kXwX_qdzRk5mZ3FWD3L4U_f_O26DalksSp4aeITyJJQwEhCyqXdM1vtfLJomanh74FIrGhSfsTLB-QO7MUUPj00edT1v4sO_QQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117322090295377180730\">Vp Smile</a>"
+          ],
+          "photo_reference": "CmRaAAAAyIjWtKcuCzOgqBVL2Ic2NXk7X6Rk2SinphD0hLhkDhgEmZoeW27vMx6_njmCZQHvgYpUKKfJ3I-B89YbhpZTEXh7soX5w_XgArA7QP6TAXLmqOS4-uiIOnaaB0SiojxlEhD7JrhZiJhXVAbrgBpTSwzoGhQ1_WpJgKPi2lcK5EPs0XqFCV687g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117322090295377180730\">Vp Smile</a>"
+          ],
+          "photo_reference": "CmRaAAAADFxFTLvpNN77DSKAOHdeSNDS39K43gczFupMuva7RAXeMpjIr4qh73L8NtsNchToXdQpsAzskROBtZW-FnUEYq-D8Q4hKvA5_0TQwpvL13sS7Vz46f62BiL_8yuQ36VnEhCHrDpOPo7yrfG0gNpFl_ugGhTMvRn5lM0zkiAXxdvzzJNyQbp4HA",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.adelaidegaol.sa.gov.au/",
+      "mood_params": [
+        0.005827729102197673,
+        0.05376985343769907,
+        0.007495015282633698,
+        0.10870447305753933,
+        0.010531611210814208,
+        0.10056710307272272,
+        0.07915937933552827,
+        0.038790818406813074,
+        0.029268362401920853,
+        0.058895070734372466,
+        0.09015436861241798,
+        0.022091163773494498
+      ],
+      "popularity": 0.39502777874864675,
+      "num_google_reviews": 495,
+      "top_cats": [
+        "science",
+        "history",
+        "books",
+        "music"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.6137667968221185,
+        -0.7638020781690478,
+        -0.39657598873509603,
+        -0.7352152779308876,
+        -0.7245314464608054,
+        0.2505797235967184,
+        -0.5231173141255935,
+        -0.47158496664042143,
+        -0.3401281438950517,
+        -0.898588735524926,
+        -0.8036585444445561,
+        -0.7429500851826761,
+        -0.7557247447066293,
+        -0.4837797569641789,
+        0.2713304604591785,
+        -0.9383726551092665,
+        -1.1271802655148897,
+        -0.6781653029066855,
+        -0.20981289076049756,
+        -0.7917492596331758,
+        -0.9663656122098565,
+        -0.5863979492135741,
+        -0.5431242422190361,
+        -0.6136079113936534,
+        0.7469896600649003,
+        -0.9692264911097767,
+        -0.7070937586747335,
+        -1.01068697962246,
+        -0.85661995146048,
+        -0.6941430471069222
+      ],
+      "global_mood_params": [
+        -0.34633733607369005,
+        0.09713800671000515,
+        -0.997264656578099,
+        -0.2669503809136464,
+        -1.0491922165934031,
+        -0.6686016930421065,
+        -0.6461421522470843,
+        0.3668085624592769,
+        -1.2242061226340528,
+        0.5897474727068929,
+        -0.03425402458511273,
+        -0.27086290198735663
+      ]
+    },
+    {
+      "name": "Ayers House Museum",
+      "orig_name": "Ayers House Museum",
+      "place_id": "ChIJa6CftjLJsGoRfAiUm5qOfNk",
+      "cat_params": [
+        0.10042569259544121,
+        0.06113992632627597,
+        0.2762629837658846,
+        0.1982173466187706,
+        0.24530125538712164,
+        0.15716796232182628,
+        0.33420962187180403,
+        0.2067550376714657,
+        0.16426576097842813,
+        0.2891759654293544,
+        0.07969495805730088,
+        0.11781780037594829,
+        0.21232620394050894,
+        0.1454698947833136,
+        0.3322323734728079,
+        0.20820679470055223,
+        0.3908769625867841,
+        0.3319610030280895,
+        0.19316011291343838,
+        0.11366581576016743,
+        0.48713737339505997,
+        0.22498094738721397,
+        0.2683852094767219,
+        0.09128270536864712,
+        0.03052961831469337,
+        0.26448422861162774,
+        0.20558989098195427,
+        0.3234340526631917,
+        0.20384101847557673,
+        0.19905410360224526
+      ],
+      "noncat_params": [],
+      "quote": "Grand 19th-century manor offering Victorian-era decor & antiques, plus tours & family activities.",
+      "phone": "(08) 8223 1234",
+      "int_phone": "+61 8 8223 1234",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.9216944,
+        "lng": 138.6093708
+      },
+      "address": "288 North Terrace, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 1184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114020101803333969588\">Ayers House Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAFuW2NK0Xos2LfG4FNbS_B3qN4hVHR2w55WpzfVooiNEa-We1YUm-9VI0LNqrJKgJykFT96Etvw0pSbjLukWVJ_8QylXQcu2XK2LD0xzRShdQJRSegWqSz9z2PCsFaO26EhChAes2yTxTgBGCHhe6yeFkGhRU9TwI3njcjIk6KCmO-UsMLAEmVQ",
+          "width": 1776
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105806487368214989184\">Kerry O&#39;Neill</a>"
+          ],
+          "photo_reference": "CmRaAAAAFfY1Fr8fTvK8iBWG43phthFkqirK-zkCH6YVDMiZUlkfzUjjXRshFXSReIbOFJ1ErOQjrIEY5OhFQ7eZ5VYjwGc_if4U1WdjUeWX-ai89FJCErAphH7MAxQ4qkv6DZbGEhALx2gzR2om9tlpEGY4URDnGhTzNfphE3sXYZ6MpJ-Uez6oBNUE_g",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107964482395872457446\">Estella Carvalho</a>"
+          ],
+          "photo_reference": "CmRaAAAAE39WZ9km5l3pOmDmrTXOxWe_Dbkc1f3bX1Npzdc2gVIyi3AY1_ROuAhf2juwANaUWF1NngLQiAEqwKCGFqn4uF0DitdwSZoyFiHvIKKeuPgRQVkjQyFc_lPVAZMWpNAkEhB4IeV-p0vOVV1gjsBM9eA-GhTJZKkDRm-xE7H_Tvn_ARRJ7qQyoA",
+          "width": 4032
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109435162604494352362\">Andrea Claridge</a>"
+          ],
+          "photo_reference": "CmRaAAAA9QoneeY9VMdHD_UPY9dlUDmjrPiUQ-8JBj-lt7j-ILqrY-RWHLtb4K3JV1f2sIep3jjEAtRtxaYcEPWRTYa_KRZm2GpBvclnI985WP18FGdYse8A2_Oual5h9TfqRW0-EhBPlKz7WCaA-y1R95jSm0RzGhRF1hjnT6lAdFGG5MRtUGAb4K8MSg",
+          "width": 2048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103859336664878816649\">Adam Winston</a>"
+          ],
+          "photo_reference": "CmRaAAAAEFiI5cnLKVAYlb_3htD757OOhaQo-6ulRs2Ev48b6havlYWd_lwZ6MZKr0Tvo0JCgo7gU5z4e2pnvMD3_gfcjbdQt5MNN65-66d41EmNim6Xrjn7QbZROPtH5DuSeujOEhD7NpWOTXk_iay59p9YERX0GhSQeI-DJ-YY-xJ4BnwyXmHBo8GGRg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107964482395872457446\">Estella Carvalho</a>"
+          ],
+          "photo_reference": "CmRaAAAAV8f729yVk2SJkuzsh_UagApMghjnylgwx70CTdNJ6te4_zCL5sKtCKxgf5FvRqkhvfQrozr-LoXQMkeOzUcxAMGXx8UxEYl75Mw4wFq-u4hpyfpeTzgp3nqsUceJuVkAEhDTytW-QhlTWGtGUmeEit8wGhSLrE25hi0SC7pQMh1gIaC2sC1xtw",
+          "width": 3024
+        },
+        {
+          "height": 710,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107600561058095618974\">Lola Johnston</a>"
+          ],
+          "photo_reference": "CmRaAAAAFfxST-FDB-6elaX10jt8RF_q4-X9Pn4r4gMz5lSmLM8HNII0JhNa5UQDjVlDemtDPSFlrXUWciQUrLdyrKEAxzIIz92wWPVMoGsJ44weaa8kDRbmG_YOOVaUz8Bv0xBvEhACZtk2EJx0_y74FMzN8aCEGhSt7qWz3zlEo9YMvzHi0XKJguuhtw",
+          "width": 960
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107964482395872457446\">Estella Carvalho</a>"
+          ],
+          "photo_reference": "CmRaAAAAnVHXFvEG9g1_318UlwJfsIgwMu5ZKKV3YjsswFCTJ9u4SgFXZQu14pU5YMVXVepFGrCnVuTlUqA87t7dI77h1Zg6PeovnZnkF56H2ipQDgsbedEZz4Yr-sdt8Ni69MYrEhBwntPk58_F_vCtkv1vWoD9GhTeMAFhbJMtQn6wcym04MhqalO9Mg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107964482395872457446\">Estella Carvalho</a>"
+          ],
+          "photo_reference": "CmRaAAAAsBgFgrC7HmE-CTgtpDpuecSuL6oi1whGcflHPTbwRl0mx5O-PTVGNSza9Dy8KywjYG1NdATEVLykMNuUKkTwY0OrJjfs5dHHfAHeNW2LZlq4C7EpmvsWJrJ9o1IGGzowEhCEi-uKTLzwcy96nxjStZMLGhSbYx1SDtEDvP4E5KCKYmJ7xpqSng",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107964482395872457446\">Estella Carvalho</a>"
+          ],
+          "photo_reference": "CmRaAAAAoUfuy9A8o1iSQ6dC6C_9C8Ncju9h3tjYkqad28uabFEUoLMTkPdYCgrrsQzEm1zIqleZfLKsFgFCsbejpuCIxuVZZaOWye2SlVbs_ROIXc8MHakWdJHJ1Ec0LcHnpkAEEhDGbOGLnsxUgUDQPDjA136UGhSixM_-WoSKGzZR8J4tY5WflRtcOg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.ayershousemuseum.org.au/",
+      "mood_params": [
+        0.006980494208353141,
+        0.07540243179117677,
+        0.05006635238234455,
+        0.1716258739519249,
+        0.06875897322808115,
+        0.1685057902097876,
+        0.12674526420173435,
+        0.05145763288606048,
+        0.10578601037500932,
+        0.04227787190335341,
+        0.1247319962080876,
+        0.02096357656791714
+      ],
+      "popularity": 0.28807684094467145,
+      "num_google_reviews": 140,
+      "top_cats": [
+        "architecture",
+        "history",
+        "hospitality",
+        "military"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        -0.7376117155215441,
+        -0.6111642357371204,
+        0.5070953293535407,
+        -0.23622199134495367,
+        -0.3673800215564498,
+        0.1606095199679547,
+        -0.6819223306475336,
+        -0.04869228022891824,
+        -0.6267810100671328,
+        -0.34215649752770205,
+        -0.1368821957271264,
+        -0.21919426308112663,
+        -0.4451699220711103,
+        -0.44280640233672924,
+        0.4577567450662175,
+        0.4430377666555751,
+        -0.4246852677264743,
+        0.397882331492705,
+        0.34930630903189197,
+        -0.4381040516345914,
+        -0.245993046385612,
+        -0.29593361611726593,
+        0.12788687599904636,
+        -0.7176510416703791,
+        0.08560333948410036,
+        -0.6680240112964246,
+        -0.7926533560929054,
+        -0.6301461363640757,
+        -0.575660892599838,
+        -0.8985506198426259
+      ],
+      "global_mood_params": [
+        -0.26877714581933565,
+        0.7452287695057811,
+        -0.23078359528090897,
+        0.7030746415055842,
+        0.2287379740124531,
+        0.18572845257256007,
+        0.25440182327421573,
+        0.871907041800152,
+        -0.21197827853929452,
+        -0.05604965801241441,
+        0.7658792916253415,
+        -0.3397955476025245
+      ]
+    },
+    {
+      "name": "National War Memorial",
+      "orig_name": "National War Memorial",
+      "place_id": "ChIJbdszUNTOsGoRlA4QQHYyiTg",
+      "cat_params": [
+        0.08456515471029913,
+        0.08412490609768923,
+        0.1786593434127376,
+        0.16397746080699732,
+        0.27766408520375035,
+        0.13096045082250585,
+        0.3876523514991188,
+        0.18575844536452876,
+        0.1681738608385968,
+        0.27496622178296126,
+        0.06931857309700747,
+        0.06074353738304496,
+        0.21354621129736442,
+        0.16793688506562107,
+        0.3714788449199856,
+        0.10129378354768845,
+        0.3671306673374217,
+        0.43748084731237863,
+        0.11117262305731018,
+        0.10508665731107573,
+        0.4837820443108168,
+        0.1424295443463588,
+        0.20438731474219632,
+        0.11309030714415655,
+        0.012280690275624825,
+        0.28804701417652445,
+        0.211305092844558,
+        0.3322426047716899,
+        0.24973646424317017,
+        0.2907451894790078
+      ],
+      "noncat_params": [],
+      "quote": "1931 monument commemorating South Australian World War I casualties, including a list of the fallen.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.9209932,
+        "lng": 138.6016148
+      },
+      "address": "190 North Terrace, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102944183521255063343\">Ahmad Syahid</a>"
+          ],
+          "photo_reference": "CmRaAAAA0Ae9cz4N5Ar-FM7VoYckE581UrHIO_MM4pS3gc3VzakHatRSVhEXLGrpkFsJHbaDkNG5YOEYEfY5krMEMeKSVIsgzxtFF67kz5dJHOexhlO1knrrG9z0FdKp5k8mbnyHEhB-7b8MCJqNME1PHDz5UEQDGhTV9BLLA93MOaONKmqiSkpRDFhspg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117636322471443788381\">Merih Ayg\u00fcn</a>"
+          ],
+          "photo_reference": "CmRaAAAAw_NXMtCob57XjrS0GESxpg-_CqUqOzjzaUoRFFtsbWV8vaaB8cci7Zh6lDAlda8V7WE7ALVTZMg5m86cC-gk7yETeSaK1coP13cIgGv4VMdb3Xcq1vuF2h-g-lM3D0pnEhACyZwPRAfYEV3FS3t0BKU5GhS3WOf9wH4t9Ly63xKOKpbl8LOuiw",
+          "width": 3024
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100726048745034015308\">Maria Bitunjac</a>"
+          ],
+          "photo_reference": "CmRaAAAAsc6KPnuhQj-3tbGuEC8WrflQzkHlpeY5zywJTFq5BV9i0hELpAo-wR1AQoZ89ZFwSMpSc9ynQCiBUXxkqgR0y_LgLBAIg2VjL3w1PsPpIdo2LaSPWPjvGSdrXg2hVM-gEhCTQKgN-CVBhCRKoQbs3x9SGhRpO5k3qeqg7ynneGMGfOoIXq0PcA",
+          "width": 2048
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107953133270995351798\">Happydriving Joe</a>"
+          ],
+          "photo_reference": "CmRaAAAAxUE-S9F4-ExPj4dWZWK6WV2uUvirz6-Kgx-X9HTF6KZjJqYp3i2SVfHq2KsPw54y90LZIXhML5wjYO4zlm-rH1zzx_nt1MBda35u53dOE8J-BtfOpkwd6H8zOHjIZI7nEhDy9cFGwv8fEfs0ZZ-lvFCyGhQkRb61JcUUbH81NszmSHYIDBCbsw",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
+          ],
+          "photo_reference": "CmRaAAAAVJcCEbZhpdyFZo7PpsPxeCuHPltO0ra5EnEd2w-2QzqS4E15SW7J2pt358kCVNTznN_WvbywBgVFeK3RzWukVuHhMKWQ-SDWT-RlnOC5x_Fe8I__-EAzrmdbBAqt2YqGEhDLYEBNHBxHeH_iAMp-4DEuGhQNsPSJSNcVvcPqmqlBlbu7YeNufQ",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101045950660255817729\">Simon Gyllenhammar</a>"
+          ],
+          "photo_reference": "CmRaAAAATWl7KPSkLZxCgMp3TUYEleLE0SvuvnLWbQd6VptuGnsrYAdit0eTMd6yRy6nwOLoDtxoWVzt2VWhpiFnycpotTX-fnjbLZD4CrUG3CaMMjFtB4up-mmxffAseRCTr9cnEhChglQBfSqfJAY6sgodeN-bGhSYVy671kc5rgmKeDWACgQpdp_QdQ",
+          "width": 4048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110725239985095841232\">B Strika</a>"
+          ],
+          "photo_reference": "CmRaAAAAJRwlC4X99FGmCRqdeSOm4B-muGhGijTutdmxodh4WK_NeTIpUvenQN1gbA4fq7skf3ZaSpjeoLoQAkjTaVbAU0yCEEMZKKd6VdV2ZWOJLfwhCIEN12m0G69-4z_O2xcgEhBMRj5jHttJb-desv1KUcnLGhQY5lzS0hfzzHaNBS5Lw-zfbVORhg",
+          "width": 4032
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117549090629229332056\">Tim Hemley</a>"
+          ],
+          "photo_reference": "CmRaAAAAo0IclZ8Cgc3xp2kzSUfuyc3l7l_teXwE3fB9hAR_qbE-qGDyCW3aDOSqg-5lHbKcAQvwdxsJqG1HNVIGsoDpbDtCqFUe81KYbg8eRJQQvFGRISzUGp2LoT2cTV5TiwGpEhBDzj4U4j1vFpJe9XkRKTL8GhTz7j8PzToT2E3D9R4ybER7OqCL7Q",
+          "width": 4032
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117549090629229332056\">Tim Hemley</a>"
+          ],
+          "photo_reference": "CmRaAAAA6NhP0Se_bCelCjim3LwdJlz-6eA_M7cQ-qpUsXHX0RyklpyKo1Ww6E0wD9wE7QpAYOovamBLa55I4qgJnZRNAJzClVoTR2s0wJhLV_2PUZ2JktMuigSOFGd7mKwm6dP2EhBAP2SqmSy3ukW9SoHDT0gbGhTLmHho0UP5rY6UN_aA_ZZjXBDoXA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112814710948620677527\">Sithu Win</a>"
+          ],
+          "photo_reference": "CmRaAAAAeEBXkraePFOdh4TmEr_saiiG95Y4nERHDNxSnGbpigOWoDRslhi_1hoNLv4APkffOTxh53tOlR_C5-_Qv0IYUd_zVY8wsSQFSnqBr-nsCVZ6co3X3GWpCiNma6s6ejwoEhCKW3EBu5cjgBZamgtHd8inGhRN91bLxLjQfKPvUaw9ofHl_6V-YQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://adelaidia.sa.gov.au/things/war-memorial",
+      "mood_params": [
+        0.0030496253895603777,
+        0.024206131519681418,
+        0.043627379007223806,
+        0.0864407816360936,
+        0.0486451374826606,
+        0.08934131534654943,
+        0.12248498031622261,
+        0.011880441190567873,
+        0.08671232127935895,
+        0.04209109261875018,
+        0.0740447110522499,
+        0.033827220895250365
+      ],
+      "popularity": 0.2783340215781206,
+      "num_google_reviews": 122,
+      "top_cats": [
+        "military",
+        "history",
+        "cosmopolitan",
+        "beach"
+      ],
+      "duration": 1.4375,
+      "global_cat_params": [
+        -0.9300544343278458,
+        -0.336339344909573,
+        -0.45170318309270036,
+        -0.48090777751482927,
+        -0.16775491639598075,
+        -0.18901621930898493,
+        -0.11319363084287526,
+        -0.2818764273263235,
+        -0.5689449334322063,
+        -0.4932435711733407,
+        -0.35028795092037623,
+        -0.7612392939497886,
+        -0.4319862898368781,
+        -0.277718325132356,
+        0.8845232974000381,
+        -0.8091153608669964,
+        -0.5535336666711954,
+        1.5015799257550348,
+        -0.6972296483162072,
+        -0.6090512932946938,
+        -0.262357013874426,
+        -1.1024002000103943,
+        -0.5936783266750207,
+        -0.5142202869750747,
+        -0.43982562597496777,
+        -0.49324873450279466,
+        -0.7391024060463384,
+        -0.5729223599916803,
+        -0.298616301230252,
+        -0.26807047824614183
+      ],
+      "global_mood_params": [
+        -0.5332533446758949,
+        -0.788562013687705,
+        -0.34671491157166323,
+        -0.6101776050892884,
+        -0.21270531068139578,
+        -0.8097661645219906,
+        0.17377764242951574,
+        -0.7062623846745735,
+        -0.46429809891608115,
+        -0.06330849431215269,
+        -0.4070347681733854,
+        0.4465959894330504
+      ]
+    },
+    {
+      "name": "Tandanya National Aboriginal Cultural Institute",
+      "orig_name": "Tandanya National Aboriginal Cultural Institute",
+      "place_id": "ChIJQe5HCc3OsGoRwRVZmVdkwgw",
+      "cat_params": [
+        0.1147621497564737,
+        0.06627475971859671,
+        0.21786471056730458,
+        0.4684792429237436,
+        0.13118360634695853,
+        0.237620037384457,
+        0.32038207919804257,
+        0.2959737626671888,
+        0.1387832952339929,
+        0.2605884108136087,
+        0.10410605452051364,
+        0.13537872896160028,
+        0.20023420290884425,
+        0.08119162178577603,
+        0.26135110236050313,
+        0.16757420437405543,
+        0.4907158250291021,
+        0.17472128280406496,
+        0.24288375172990237,
+        0.13701171772335174,
+        0.41793981629117377,
+        0.19129455237734735,
+        0.2580799234473953,
+        0.09810039181422,
+        0.024151147074511416,
+        0.41396398961180886,
+        0.23209512610941652,
+        0.2865236865273366,
+        0.13688798026126373,
+        0.14918622075655621
+      ],
+      "noncat_params": [],
+      "quote": "Museum dedicated to Aboriginal & Torres Strait Islander art & culture, with frequent events.",
+      "phone": "(08) 8224 3200",
+      "int_phone": "+61 8 8224 3200",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.92401,
+        "lng": 138.610449
+      },
+      "address": "253 Grenfell St, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101098653813875302976\">Tandanya National Aboriginal Cultural Institute</a>"
+          ],
+          "photo_reference": "CmRaAAAAWG8Q9ogXeYFKel5umQ9tcHJ1D281Qk6KullShpGeivm8gEAuj_fPlEGtSHaOfjmqgwo7ImNmggolPAjsfhxZGjg-z47n3vBB0oaieedbErLPAdEp3Hb_vY3wCRotByWxEhAk5SYKJtnMu9ravFLM5kAtGhTjYQpKnTT4qsQ5-iTza4ksrFyJhQ",
+          "width": 2048
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108112201554788340856\">Kristina Macrae</a>"
+          ],
+          "photo_reference": "CmRaAAAAqavSb74rLnGVLeNe7bU8WQ4Cmag5GYpHwD9oKyu0hdAodocuitUHjoIqMNx6vnq9CCH1-B9OZetAhmL9AkCRAVhUM7CRMeVVzFlkyq1xsM_nnisiVPpe6dOckysqPS4MEhCOJdTj97-CzEgWDZsyajudGhRBlumfXPVBcjkusxGT7oWGgASUfw",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104709482285438313747\">BegNoFriend</a>"
+          ],
+          "photo_reference": "CmRaAAAA3oTGyA0-lsyKlm87uolF-D--h_oy79uXrs9e8PzTowJfUTgL6NRVFYJD7DLQiOg-tC_uMkWNngPyemyVNzdpsiArE2BQPDZzehMQw47P-oXXfEEmj1vwhRT5Tqhg1DMQEhC4QDRIpvg40Ni3b2zyUCrRGhTKncOXjBLjTWFfUYVd9HPh8k9lXA",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118027894862436412760\">Morgana White</a>"
+          ],
+          "photo_reference": "CmRaAAAAErATjaTs6BT6CNsJCUopwQrtaQgZ2QJ7J3SiftDaJe0ZCFjnd7l8ukX1ZVnRrQxZZGHCxiMf5jLsGI82bKT6c45taA4Z9j_tm9xuhaVrjS5MtZrmeQcS1adb6wU2k24cEhDLQ3OS2pTrUuxTtqsHCsFTGhRqJeCqSPsExBShuwI74yssXMEznQ",
+          "width": 1080
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105669051778945580654\">Raj Singh</a>"
+          ],
+          "photo_reference": "CmRaAAAAzV3wS9ttX7DUtFQsOLkT8plcVuGkxmVSQW428mgpcxBIunpLj70TgWc1vmpiQ29JBosXog9tovZXwX-V0Qi3PWi6dkHX8m2ucQ-DmpmPuMmORxHKEzISCCb806Hy7d_9EhBf2aYB25JuBMtRtMffAGBhGhQtJUUt41b2IiLU-rMQzL_AyGAOIQ",
+          "width": 3024
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118069364265606689433\">Ron Sanderson</a>"
+          ],
+          "photo_reference": "CmRaAAAAzwJ4uvtjG2i4mZAUHCiMZ91Jf8euJdUc1P3s6NqY4fSdBLX-4P37pG6VWA--QNMIuv_rPVYchgojqlF2XkbeTsil2LZXMz1Ug0izBnA1ZdGmsBpyyB9F7gkm8hdwdmUlEhCSWK65vaFzyR06LXqkcYB1GhQGX1pprIsun0oDduxeW7DTP71y1A",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103450134124854298485\">Christoph Stangenberg</a>"
+          ],
+          "photo_reference": "CmRaAAAAQuplpkownByChXFpzcI1Rhb9ol8gFrRdNSaiwdgVT3_TIgPZ5y_RgxI1qLqx4PE3oVhmmYaFCRrI5-FRufqxAxHp3I5SyspEr7Al2UbHQuV4CJf1YnQFSOrySt2qpekLEhAWjDGAJKPJGREzy--iRv9_GhR3agNcqtbLBNfxvN56B_3aZNBQqQ",
+          "width": 4032
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102655163234234707286\">Amanda Mingin</a>"
+          ],
+          "photo_reference": "CmRaAAAAFI--unv4vUutcD_FJDRssYIEFB3HA9ByPybvBBs7sCT-m7R-KkQXYjufvxxzcp_Wm1vdga19SHLAp7o_Tz24MUnCpRdMQ_TLT09cKipyb74VRhMqAcY5nT--PjfMowurEhCIJ5fS3weEVjQWxFgkA74UGhRq4vLrasFriab7MdrJav0bWeuItw",
+          "width": 3264
+        },
+        {
+          "height": 1500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112969942672020696341\">Alexander Kondakov</a>"
+          ],
+          "photo_reference": "CmRaAAAADnUewsfmjzwOFtRjWXpkFe4Ds2_yAjntHRz3BismfQS5BrcpTLcIwTwp6F1pOpKtNw-PzzxE6i-_t5VJ6Yhz_mtEUj_WpWqKNznzHQKRPxKkz-XbB-3Yi2QZf7ytsa52EhAyTbPWJsAfdUxlhNdNVigoGhT1KWlg9sBRE3p1N2M6mamT1KCu-w",
+          "width": 1001
+        },
+        {
+          "height": 1520,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117842042896793920600\">Ash Curnow</a>"
+          ],
+          "photo_reference": "CmRaAAAA3sfZXDNCZfcmliiplJaVJVi4nlIDppbMYelSFGWURJmQ29Hi-wTyPhBaZ5RkKJO41mxtRRcIN3mNCwbzS7Ncss1gsU0qJCZt8gJonok7tBRvTV28OqwoFxuCsJ0rITyNEhCg4GMWuJVt2JehzMtK2SH8GhROCJKHEe_AoIk0tNzpm2yy9cwa5A",
+          "width": 2688
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.tandanya.com.au/",
+      "mood_params": [
+        0.004257881463575099,
+        0.04815993815874518,
+        0.029274391923332876,
+        0.1313469794953898,
+        0.03608202170196315,
+        0.15112061381160696,
+        0.12777964889221852,
+        0.035805869392820384,
+        0.057959008920975774,
+        0.05986299740094446,
+        0.12242945779093635,
+        0.03366222718451121
+      ],
+      "popularity": 0.3425830289189105,
+      "num_google_reviews": 280,
+      "top_cats": [
+        "art",
+        "books",
+        "music",
+        "culture"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.5636613227858913,
+        -0.54976848770965,
+        -0.0665736164935428,
+        1.695129209201555,
+        -1.0712970714370142,
+        1.2338940331070778,
+        -0.8290727554327677,
+        0.9421538527586814,
+        -1.0038967170282218,
+        -0.6461176439818982,
+        0.3651682289402211,
+        -0.05241481507536473,
+        -0.5758383919632202,
+        -0.915124962225802,
+        -0.3130069588339053,
+        -0.03284654815360072,
+        0.11704460815807338,
+        -1.2467855706525683,
+        0.9840077255886726,
+        0.027083480260924355,
+        -0.5834701004459447,
+        -0.6250249568645161,
+        0.011696557032917032,
+        -0.6540527096219464,
+        -0.09804764197433088,
+        0.4407314256147895,
+        -0.5443015819288687,
+        -0.8699302134252399,
+        -0.9798181418172314,
+        -1.2414488365779452
+      ],
+      "global_mood_params": [
+        -0.451959618420511,
+        -0.0709295353531172,
+        -0.6051350957222875,
+        0.08211682837926162,
+        -0.4884310929943431,
+        -0.03289043615911871,
+        0.27397714280449326,
+        0.24778154028666421,
+        -0.8446666040921115,
+        0.6273641775664425,
+        0.7125980856108511,
+        0.43650944984226964
+      ]
+    },
+    {
+      "name": "State Library of South Australia",
+      "orig_name": "State Library of South Australia",
+      "place_id": "ChIJO-oXXtTOsGoRfYnU7yRVa74",
+      "cat_params": [
+        0.08656468801608239,
+        0.05493523800537726,
+        0.323893572540909,
+        0.23650509337756473,
+        0.18079595726091818,
+        0.45755137393625,
+        0.352365260808503,
+        0.21649261813500265,
+        0.1759635106638099,
+        0.2653723382907661,
+        0.06579040724137618,
+        0.07477950483022104,
+        0.19865272919780466,
+        0.11669839424468526,
+        0.3492121656258682,
+        0.15826022544833987,
+        0.37322662078639396,
+        0.25846713623857953,
+        0.1325416678423351,
+        0.11632768589271754,
+        0.38978256216944945,
+        0.15676047843717042,
+        0.2650373655340799,
+        0.11109953788929103,
+        0.06227702923448927,
+        0.26749627131262377,
+        0.18493218866156985,
+        0.30185931599037646,
+        0.17902862727936458,
+        0.21982490022301432
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "(08) 8207 7250",
+      "int_phone": "+61 8 8207 7250",
+      "hours": "",
+      "coordinates": {
+        "lat": -34.9205386,
+        "lng": 138.6026274
+      },
+      "address": "North Terrace &, Kintore Ave, Adelaide SA 5000, Australia",
+      "photos": [
+        {
+          "height": 3912,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100145296535627940855\">Chuang Lim</a>"
+          ],
+          "photo_reference": "CmRaAAAAHHoYrZIkqTMk888TQGNMgFkiwGRE_Rq9ep77k5lCrevPld6nGBZmXb0DcsUAcK9yJHarUdiiNUEPL76oVkhHnwe7YK4t-3-9KQRo_ysXbg4HJgqXIe-pp6LzlYq0uNYyEhBewom68ZdJ3R-omOHo5M5FGhTZScHkqH5KnVJYD_1VIw9AD5o55g",
+          "width": 5838
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110676712597321422457\">Mick Black</a>"
+          ],
+          "photo_reference": "CmRaAAAAC0oiCxjswsnP0kR3mdneDIpc8LQPRb79pmPlhTWWscofUWVDU5hceAOhFfiLZETrt4P6AnRTJjtuCwj7QUeLb6L0lRrwCc3f3SIRQo_NVux8Koe4gKlcT1yQBXSTu4bxEhBBm5pgAqRCKz803vCHr4NUGhQNp_70Wcq1X-yiBc9V29yscJP6Sw",
+          "width": 4032
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113085514695491145488\">State Library of South Australia</a>"
+          ],
+          "photo_reference": "CmRZAAAAsu2xd74rbaAGCP3GWykxcbqTGejLGKhIfsWTHe5htvG8Ru7AYUlDmcpVOxmKU-7ZrKig-8ha9YgIkh23DAmHLx7R6iXx8-Vh2P3XF7jkyl48g8cmHKrKpXIff7_IYm-8EhDPyqbMy1-IFpbk3QZQe9wIGhTtLiKQwFtmHkJpUfJTfl_FI3ZqcA",
+          "width": 5760
+        },
+        {
+          "height": 798,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107569050817939542355\">Charo Perez Torrego</a>"
+          ],
+          "photo_reference": "CmRaAAAAEjSYJYAcC443uXsHH1hq0-87kfiPqxXPzf9rjSjn221I99Q35R9NTuXntwvO22nbozRt1hKz5IqWtX8-eOKkFSnBj8u7hkQvF2_edo-ZH6Y_82uiBafnEVQSD1n8-hUpEhANu-O7UFJVF5bWV3xZNEtjGhQNWSWSOqEdaNjt-N_DpPmgfV3cOA",
+          "width": 1200
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113085514695491145488\">State Library of South Australia</a>"
+          ],
+          "photo_reference": "CmRZAAAAL1uZtJpInpSWcqmx6osRAj0pd6O2Ngb4zEdRJvW1UFm9Uu-0cQ2WOFZAI1mMDbblUfE5wGep0Z42U8AXbQdUFoYfKgZG2jWUjMAtoIBv9wl6Ht7hMxqQp6MenJ8xKnAOEhDpT0be4LIX6a-hseFONbyvGhQ4065QvQNj9dRmd70_NzgAFAPQAA",
+          "width": 5760
+        },
+        {
+          "height": 3488,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104198506875900765893\">Fred</a>"
+          ],
+          "photo_reference": "CmRaAAAAsflCaUKTCec2K40xXY-CETIU-49BfXHmayhleQML2R_ugL_oA3SeGf1avnwdvVf62YfOcJkHzfH0QrfoEr7BuXy33AgMGmepen3IkCLcv5a4w2Vp9ZzsTAR2cRf1W9wNEhB-ydwhu8IrZofmH-sIHQuqGhTu0rzCnDYoyeL5ZB6w15nbyujOkg",
+          "width": 5232
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113085514695491145488\">State Library of South Australia</a>"
+          ],
+          "photo_reference": "CmRZAAAA9gLZm-7jX5E8dj7yq6DDSg-ygimCkE4ILpExK0nBF8cN-sXJ6sd1CXOqG1JGb0TH7rjZsTEErxD9VkCFlsz1rGQahRwEQ_mVigR64J9vk1auPA2l_hgQz5cWfmiMZ0_uEhAt1PFX4k2sH80k9aGutf2kGhSA_81Uk89gCS3zb9ooxRIaWqdbNA",
+          "width": 5760
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116263293284648242650\">Warren</a>"
+          ],
+          "photo_reference": "CmRaAAAAWtMXuNDGItn6BOMowqAgNRedAsSH2Xw3zvwFALC1Z21kEZ_FVrmFMh7tq9xzw6TGX_3MpSy3UwH-SLKoNkyxXvw0sL2V_lPIV8Zn_O7qcOZYPgNnLPQ8Ffr3I3Stk-ixEhCv9Mzf66UQ3eDBclt3Hzb9GhSs1pMFwjS0qC3FdEA_eQMZzfE4uw",
+          "width": 4608
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113085514695491145488\">State Library of South Australia</a>"
+          ],
+          "photo_reference": "CmRZAAAA24tDc-ZCPbQpk_gb9GuSkMsKAB_Q_5pY8BG3qt1DwgPk-AwJtD7jpa_S8UO1_f1CaeRhyO8xA88feyOaR28-JTBybH2y-UJ7D0KunKBgoToQ1ILAW4LXnOzC3AzddTYHEhDQmh73vhs6FXbjvZjhBdICGhQvWynxKrU_qZeDP_H7nmBvNGSD-w",
+          "width": 5298
+        },
+        {
+          "height": 5760,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113085514695491145488\">State Library of South Australia</a>"
+          ],
+          "photo_reference": "CmRZAAAA624vgyjRa1aTqaZtqkwABTiDhp-qJYLHgE8ChyxV-XlgT76q3llVvUQFv3209KH2YC1B_42waXV8Q8p4uZEcXBe1loRWs1foLvgBC6cJPVskzORbnOvDZAIYu7aBAQOQEhA_WhXADRU-I9C0bkP0E9HCGhSQh4TOTO7y80HELR5iSvVe3brVXw",
+          "width": 3840
+        }
+      ],
+      "rating": 4.4,
+      "website": "http://www.slsa.sa.gov.au/",
+      "mood_params": [
+        0.004148293755955476,
+        0.044585775072391934,
+        0.06053220552507372,
+        0.1281913137145495,
+        0.06664524871579235,
+        0.1376112298376442,
+        0.11172266879825764,
+        0.034538703334831014,
+        0.09471213529102651,
+        0.03905219560458207,
+        0.09644153600612268,
+        0.024315263458342555
+      ],
+      "popularity": 0.2930887520752139,
+      "num_google_reviews": 150,
+      "top_cats": [
+        "books",
+        "science",
+        "architecture",
+        "history"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.9057932378605335,
+        -0.6853519360252334,
+        0.9749891240849333,
+        0.0373907031555439,
+        -0.7652709660385159,
+        4.167925222374319,
+        -0.48871302044579257,
+        0.05945143004505967,
+        -0.4536656927858781,
+        -0.595251870394199,
+        -0.42284991751560386,
+        -0.6279370661291316,
+        -0.5929280985762944,
+        -0.6542201984225888,
+        0.6423951874357294,
+        -0.1419308187746856,
+        -0.5204567663086972,
+        -0.37083567144596624,
+        -0.4244627447196473,
+        -0.38506395923892894,
+        -0.7207932599494182,
+        -0.9623974982453547,
+        0.0901405141380148,
+        -0.5327910448287104,
+        0.9996849359417359,
+        -0.6456823999733101,
+        -0.9862142506387679,
+        -0.770304006971143,
+        -0.7254391258185837,
+        -0.75572785065724
+      ],
+      "global_mood_params": [
+        -0.4593328841509973,
+        -0.17800794473832096,
+        -0.042349809294091365,
+        0.0334676450124569,
+        0.18234754388998795,
+        -0.2027711692730125,
+        -0.029894829511207706,
+        0.19725236817228506,
+        -0.3584710811666952,
+        -0.18140968526846762,
+        0.11123230417982526,
+        -0.1348972980588009
+      ]
+    },
+    {
+      "name": "Adelaide Dolphin Sanctuary",
+      "orig_name": "Adelaide Dolphin Sanctuary",
+      "place_id": "ChIJJ30QyePGsGoR2ERgyPR87_Q",
+      "cat_params": [
+        0.09347097190888977,
+        0.12898133291406957,
+        0.13885268738159742,
+        0.08620653810034345,
+        0.3831019298442612,
+        0.09732639585988181,
+        0.24587883744004185,
+        0.12002016060591829,
+        0.14307001118393334,
+        0.22372978383437275,
+        0.0333502461984685,
+        0.07853499432386174,
+        0.18169727661281468,
+        0.22872148364522837,
+        0.1847740853435099,
+        0.10640500643678008,
+        0.27388677762287794,
+        0.1455779847946161,
+        0.08752137882035617,
+        0.09313602088299942,
+        0.4441845865205818,
+        0.1718179275448155,
+        0.1518173820808379,
+        0.109838517321037,
+        0.008180313033305062,
+        0.23054952714030072,
+        0.1578717274469814,
+        0.3128579062672425,
+        0.24658118413668262,
+        0.5199304781717853
+      ],
+      "noncat_params": [],
+      "quote": "",
+      "phone": "(08) 8273 9100",
+      "int_phone": "+61 8 8273 9100",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.84411,
+        "lng": 138.5047661
+      },
+      "address": "66 Commercial Rd, Port Adelaide SA 5015, Australia",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109636390598895811194\">Adelaide Dolphin Sanctuary</a>"
+          ],
+          "photo_reference": "CmRaAAAAfCyx1gdLHDmCD2bmfk0_4JjXjWCAZmecHYrAm-M2tb0ULS-_Q1HJLMRmRRfnwi7ztPNFf4M1w1T-fV2SwjFwIxvyvBzOuOWGdcvGm5Mx5EeHr9UyHUbRjqTGyxEQYbP1EhAv1CGxQGoU26WBdtnRhx6pGhSuY1cYF3IOZdcZax9Y6nkESiHceA",
+          "width": 5184
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116033219999095667347\">Giulietta Lopez Castillejos</a>"
+          ],
+          "photo_reference": "CmRaAAAALnA_aeh_fxF5RjN8id_KjFiLwV9Fq-OHQM5_WZ38tN9ZxEC97lmB9Aeh1Nhus7Z-jBi19ezPhjCWbtuIhr9SrIzSi2ddMrGrUnF1qgRynfgeYr5vi1wfNQFoayMjxKCkEhBJDZ1KAzzbBcSi0rlQdRywGhR3LsldArBoEaBkQMzJdvGiSDTjgA",
+          "width": 2336
+        },
+        {
+          "height": 2361,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109636390598895811194\">Adelaide Dolphin Sanctuary</a>"
+          ],
+          "photo_reference": "CmRaAAAAS3XuKWPEy8CmhpLAkMfaMXMeM2CtPtHH62TdvQgvybHoWnIR_qHF94Wu3Ks3JIKwPVu17kUuxOsuxYreTekozEYUi3H68sYJo8m3GciXmeVVes576m74J8LHwMh8-PerEhBCAIWkN-Ng3j4WJi-FLhgoGhTbkBofmeoWchaZH9w--IDeO7yJcA",
+          "width": 2282
+        },
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114956307054135214365\">ET G</a>"
+          ],
+          "photo_reference": "CmRaAAAAX9jtQtrGV2sKzRHA8w6Pw-jpJ6oK3B3fsER6vhXMQ5XN6Ni6aCmB2PAtJvSluLfjFCTBtSD6AQnVcgl7G8nmX6-QjbJgUGRrUvMrozQhqQ9Ee83NIRT5ap4Kcw-af_NHEhDEkWAUj0sDkSMy3S6Ihk0JGhQJQBovjdiU1tH8f4r47Od_FLQmFA",
+          "width": 1600
+        },
+        {
+          "height": 412,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105968114869275516591\">Phil Quin</a>"
+          ],
+          "photo_reference": "CmRaAAAACHQG3QGwSvrqUDYOmzeTbmTWA3DczrJqfNAwUU7Rc_xfUCJkcBQDQ_pogEGYTAGaKCxWTXhu0dBlXqISSnmdguI0TfGBui2B5S0eMXx9SMnmFr2r8thG6ACukP24nLI3EhCzZrlGeWHUHXMpm-yIP69AGhR2PvZPp1akX2_o1Dk8fzUbfkGvjg",
+          "width": 550
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107812632033752539480\">Rex Varcoe</a>"
+          ],
+          "photo_reference": "CmRaAAAAUnGTxRvA8ys-5ww_JjJcUCSvx6Is9vi3sRmAkNTp1Y5P8tjWXg7_EnR5xSDHXA4kGeX2WOqdSeHUv-J-EZPhkCDQbS9df2Xk42G2_RxUUpf9oeLj_nUsr9LE8JeLoktGEhC4TlI7xfnB4915--wl4uW0GhQNG-3EiPuJOKRS--bVjv_iTNeuMw",
+          "width": 4032
+        },
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110046004029569772147\">Naufal Fadhil</a>"
+          ],
+          "photo_reference": "CmRaAAAADW6xZ_QA325IJJVKPoNk5rq6fG26d0pqrsjXZewsYjmSbBkG66ew69dLjb3UYzc5a3mFhUJvRl3rkRoU2gdwDOuQICNjZbPbHCaYsfFsA6_mm_QmO6h4is72pbSnw4drEhByKg3dkoyRpdXWAsIEk2fiGhQaFa5Pu--4CO9PPex2deYFEeheYQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102713552625860023677\">alicia Steer</a>"
+          ],
+          "photo_reference": "CmRaAAAALutbAb5UBGPrQuwlxDbLQhXsk8xkszoKLiwhjA_CsH5ozP5TgH492k_Tm5eO9ADxO1MWxCpM3M5-bOvgrzy89F0QVfjH7USUAwnsoA8lkIl94nhnRGW7cfbNFfwEKGpEEhDYeGZ1LHCt3bFFuuZsceuBGhROXB1eVCOo15paFKZhS0NPx7mBKw",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100724398782889484624\">Morgan Sarges</a>"
+          ],
+          "photo_reference": "CmRaAAAA8oQ4WyeevRfn6i6wlCdKEH-XCX6ek5rZp_b7rx3YqCFLZC4FSoV6-xVVnnYUlWApICt8XEf075g84nPgt5GyTbTrq0CP8hO0hyN2LCu_5YBvMrImred60pQnfdq2FdJWEhBN0URUtb6GrRZIKVYS7YRcGhS0DZzzUVZTsfwOj8qbFmLPxL3evA",
+          "width": 4048
+        },
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109636390598895811194\">Adelaide Dolphin Sanctuary</a>"
+          ],
+          "photo_reference": "CmRaAAAA-A2ECDHFfWCRAwDwYW4eQmZwKRpG0ktMjEb-POWx_8lp1B0UOvQuWGaPa-J2LViNH5uvuz0Ew6uH0z1av8xaBO_YJp-zDkTuhAB-4Skgt4tMbCCf25Ey0uACJ04kwvQjEhBfeMckbHsaUIz5qZ_lRcA8GhRUdOy32FcznYs8kT4IzpTzcun8cQ",
+          "width": 960
+        }
+      ],
+      "rating": 4.3,
+      "website": "https://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide/adelaide-dolphin-sanctuary",
+      "mood_params": [
+        0.0015799469012594263,
+        0.02021504036422972,
+        0.03711079382148086,
+        0.08007234462293195,
+        0.041306920269554,
+        0.0846327658882482,
+        0.07349098036721445,
+        0.01079719689476974,
+        0.06453234690426915,
+        0.02265749827817868,
+        0.04243991475595681,
+        0.017288757886575155
+      ],
+      "popularity": 0.27244625507156556,
+      "num_google_reviews": 112,
+      "top_cats": [
+        "water",
+        "beach",
+        "animals",
+        "hiking"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.8219963289029205,
+        0.1999962414309328,
+        -0.8427394441381194,
+        -1.0366759675212052,
+        0.4826221038929014,
+        -0.6377170176084942,
+        -1.6219239460763557,
+        -1.0119532721302513,
+        -0.9404574905335806,
+        -1.0380221165374237,
+        -1.090029970341689,
+        -0.5922704747136538,
+        -0.7761519537353482,
+        0.1689286167612966,
+        -1.1457062649189267,
+        -0.7492532949030111,
+        -1.0594789425524807,
+        -1.551613426683512,
+        -0.9991278717333287,
+        -0.8471781848289882,
+        -0.4554741405854842,
+        -0.8152972783014567,
+        -1.186395232015522,
+        -0.5445543908640508,
+        -0.5578849973425117,
+        -0.9197322325602197,
+        -1.2397684454995777,
+        -0.6988528918885879,
+        -0.31766292498863075,
+        1.3078381489138027
+      ],
+      "global_mood_params": [
+        -0.6321360594255732,
+        -0.9081311778002362,
+        -0.4640435995924989,
+        -0.708356335515788,
+        -0.37375896307031187,
+        -0.8689762539991206,
+        -0.7534143518944909,
+        -0.7494575421830951,
+        -0.7577099880487724,
+        -0.8185597007475515,
+        -1.1383761651139854,
+        -0.5644477719342483
+      ]
+    },
+    {
+      "name": "St Peter's Cathedral",
+      "orig_name": "St Peter's Cathedral",
+      "place_id": "ChIJoeoW8dXIsGoRqOPzKTEdsxY",
+      "cat_params": [
+        0.07161619361335828,
+        0.03858880029348389,
+        0.2195065320956452,
+        0.21806791246054552,
+        0.19026492675774562,
+        0.1008895622595024,
+        0.25090897468776996,
+        0.1342403141256975,
+        0.16845296607934965,
+        0.1916979941943179,
+        0.05717980755642835,
+        0.05827961328364796,
+        0.15950695578635024,
+        0.12948941478658732,
+        0.20481852402767398,
+        0.16487410087055732,
+        0.3547886148923473,
+        0.20176082766982617,
+        0.1438591686583839,
+        0.08430201583758647,
+        0.35406197452125576,
+        0.14243604642847943,
+        0.191860704417656,
+        0.31346499522572613,
+        0.01630971561515938,
+        0.2337148219943647,
+        0.15942028295575347,
+        0.2835160009451267,
+        0.1970200825629618,
+        0.21061680804937025
+      ],
+      "noncat_params": [],
+      "quote": "Landmark neo-Gothic Anglican cathedral operating since 1878 with notable stained glass & sculptures.",
+      "phone": "(08) 8267 4551",
+      "int_phone": "+61 8 8267 4551",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": -34.912779,
+        "lng": 138.5981205
+      },
+      "address": "27 King William Rd, North Adelaide SA 5006, Australia",
+      "photos": [
+        {
+          "height": 5333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112989370092332175577\">Edgar Fern\u00e1ndez Morgan</a>"
+          ],
+          "photo_reference": "CmRaAAAATnGtEGrbhSRIU7VDjtQTtLuXwaLf1x3BI9u_CsuzvZWLZYZP3x97dF_s3iVdcnTVz4Xjxevcgan_7vTpJAFsCPZNEAoU2hE1YiC0dImf0msem8dyyJnR3dZfjJzx-MTqEhB00TkRPy14Mh5Owu0eG_EWGhRUjVu7VPZsEB6LO_dEmt3-J6z_rQ",
+          "width": 3000
+        },
+        {
+          "height": 1688,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102171859817619723193\">\u5f35\u98db</a>"
+          ],
+          "photo_reference": "CmRaAAAAUsRT6GWMrTTyQ1CkeiqdiX420GuUreVSOD-vfZIuC5gFKv6LI11BGvaIUfpJHDKF6q98FzPirxxqHxkZR5IoCiSFDkGifYo2yfzQdGSHCxX1FwW4KEdXtjLcpvsCdcTJEhA7zTnMaM_1hD8pR9ljDVemGhTlSKCS6Axuv2FswjL-ZYYNRNRvjQ",
+          "width": 3008
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108687512637882906673\">Mark Khoury</a>"
+          ],
+          "photo_reference": "CmRaAAAA1m1wpbLU2IsziP0aYab9QlODUCVhFdGv4TW0yQlC7WJdkx3d2tdb-02YuLaiokOgMBMOPCeMTUJ_OsMY9QpZQ4QQWgNQcoZTZ2dJ_YkGFmVwFyvedskS_Y0et7GaThiEEhAuhqxuQQ_d7_wXL59-GhtzGhTSYoPJs7hW0xhOxEVNqwyJ-BZdhQ",
+          "width": 1080
+        },
+        {
+          "height": 5664,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112902414667751595666\">Dave Vincent</a>"
+          ],
+          "photo_reference": "CmRaAAAAOcV1E3B5-NaPisTT6ZAIe_j7zUqaRcxBiJy6ZKjcFX7yIQ_87xJ0SCthx9mokH0yyz9GPNYORchF-GkkGvrMKOEywnH0AWx9LN1kiwBMdIksCDirrDkepipZbMXIeLiLEhDG2GRRZRt8cMx7WQYdhc3tGhTA2A1sfsPiLnyfbxt9NfYGoeehJA",
+          "width": 4248
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101233184196328747413\">Tony Iasiello</a>"
+          ],
+          "photo_reference": "CmRaAAAAyEjrsbHkzuTTZF7q8vbD19S1vEwy8H_raovFyiqtD53Vz11SOxg6aC5QF7vB3C1ShGCvKgAhJuvqtJzTSxSRet6wtX96uXCs-X5vredeSDr_TcA4XDyv4ZRn-Urx33mWEhBoOn1SQYYmrwlwWp3O_PX4GhSd5unSju74l6lwRoHNXPZjXdyLOg",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108687512637882906673\">Mark Khoury</a>"
+          ],
+          "photo_reference": "CmRaAAAAdje_cUQYPlhjpPseM0IdRRBoeBzUlD152x5XWZoODU2ANTmpRYPCqPZLNXbK2Nm73vyoLaN1wDPo4e1xGRwqPsQIyZITye3LdW0YsVwZYUxE0rXWXldc6LIZ6iQBavU1EhB6aX8NZJGbyk1WYHKYutlgGhTYqEmTijYyHx7aygy8uh3JSFmeVA",
+          "width": 4032
+        },
+        {
+          "height": 3018,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106638371572203424227\">Kingsley Tan</a>"
+          ],
+          "photo_reference": "CmRaAAAAAtBT1N0Ubn7EZbuvizFWFwq50g9Wxo1QIIxLVG2pjN6opaGnrOrWWc_ZsKuiWA_vU2xJVMvddPzBMQDA80YJbyUzeGGvbHBkRGeZgCURbPTJqZFt_yZrspq7rJ22TO63EhDAcFrWWDSzHXhh6SjuNnSXGhRY4Zw_z8TdLFZ2QWsemgAL2Zom0A",
+          "width": 4024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
+          ],
+          "photo_reference": "CmRaAAAAByADKjZjQrysQQ6ndU_L3FM8PUGWqwLmPhQsBQvfhak22VxZJZFcJtAUfVyrO9kDswE_og4c5uqACg1pK6HC_9ANmSNFnnfSrP6hgKNIFHMXuuVP-sJiHyzhKF2MQcGREhDUpWLD1NljtphhfSxkm_ccGhSGeaF64BJ_DjEXrDFiXBHZq0H7jg",
+          "width": 2268
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109124500510284889906\">David Maddison</a>"
+          ],
+          "photo_reference": "CmRaAAAAEA0ZoyfZFQg7wDoyBgd5Lk4MZmnnpscDvsrMkDs-72ubUH3WKh8CE__l8rZHKKYHu-l8IpAbk-K_iaEP6HI585t46wbmRynXH_BhuGZnZNOk-mY0DUBtWuQg30zgH2i8EhCZMvWsrX2QrxruNPF6Z9AIGhTui3cvuRxHJ_Lw6sG2QQTMWiYg2w",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116243753960231418046\">K.A. Curreen</a>"
+          ],
+          "photo_reference": "CmRaAAAAaY3-dU6w9QWJOT5AF0XV_r9XPbA3OQfhH0BLC0QLhroc-1QUmYneLPhQUyVAEFuJBXTWkNxvB0rz-3Umr456btPhimyWiT78S7xHaDT56P8hSve-g-GgBMN1N3acJsGvEhB3n5X3FUjyuH6Wp9QaXPtuGhRZHguBUFWPRodF5axS1HMIHkFveQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.stpeters-cathedral.org.au/",
+      "mood_params": [
+        0.0021349873602156174,
+        0.02823791011611236,
+        0.10108764866016125,
+        0.1333930037850628,
+        0.10025986223055003,
+        0.1485240578614615,
+        0.10184069962573966,
+        0.020893013322366632,
+        0.1385874159557979,
+        0.021870579225506247,
+        0.0709702359761635,
+        0.021254589622627492
+      ],
+      "popularity": 0.36171885544864424,
+      "num_google_reviews": 348,
+      "top_cats": [
+        "religion",
+        "architecture",
+        "hospitality",
+        "art"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -1.0871697413406511,
+        -0.8808016603350919,
+        -0.050445365196976955,
+        -0.09436546367974004,
+        -0.7068630937271086,
+        -0.5901819936644467,
+        -1.568394056478852,
+        -0.8540269609636361,
+        -0.5648144473466501,
+        -1.3786045704353165,
+        -0.5999396781080145,
+        -0.7846396454301354,
+        -1.0159447937472008,
+        -0.5602314193199802,
+        -0.9277428232316737,
+        -0.06446985583226816,
+        -0.6205021634636505,
+        -0.9639621754826004,
+        -0.27999958854672724,
+        -1.023203467994688,
+        -0.8950028591512852,
+        -1.1023366794430525,
+        -0.7349136931685654,
+        1.3549615899632335,
+        -0.32382064138475697,
+        -0.8962538843518207,
+        -1.2252586135307015,
+        -0.8894693073688191,
+        -0.6168349866970534,
+        -0.8190439211559088
+      ],
+      "global_mood_params": [
+        -0.5947919002680522,
+        -0.6677738938765245,
+        0.687835832344373,
+        0.11365927227353687,
+        0.9200957084611018,
+        -0.06554217137014798,
+        -0.2169071721338023,
+        -0.34687948803709373,
+        0.22194117578053568,
+        -0.8491418747644852,
+        -0.478178745053496,
+        -0.32200508344107226
+      ]
+    },
+    {
+      "name": "Carrick Hill",
+      "orig_name": "Carrick Hill",
+      "place_id": "ChIJNUg8dXHOsGoRhT8q5xSFPD0",
+      "cat_params": [
+        0.11208979727584645,
+        0.06685549550669104,
+        0.2912471539417035,
+        0.28858147011310564,
+        0.3892163127745086,
+        0.13758872332453018,
+        0.33893488449449105,
+        0.18168962124518437,
+        0.1493987038609316,
+        0.31832455190417713,
+        0.07014353791780333,
+        0.26701465383873,
+        0.2543930690876107,
+        0.23587103092656808,
+        0.28293881304821594,
+        0.2431078112192078,
+        0.5236407951245168,
+        0.2572139909038047,
+        0.1648656522707978,
+        0.10229180518059303,
+        0.7048461555742185,
+        0.23340760498737578,
+        0.24868532791946124,
+        0.10442702492024934,
+        0.01701115421384582,
+        0.35411735659866234,
+        0.22928107876216608,
+        0.397532843802443,
+        0.39624656973235867,
+        0.2612908621036134
+      ],
+      "noncat_params": [],
+      "quote": "Well-preserved 1930s estate turned museum featuring a notable art collection & formal gardens.",
+      "phone": "(08) 8433 1700",
+      "int_phone": "+61 8 8433 1700",
+      "hours": "",
+      "coordinates": {
+        "lat": -34.98054279999999,
+        "lng": 138.6319964
+      },
+      "address": "46 Carrick Hill Dr, Springfield SA 5062, Australia",
+      "photos": [
+        {
+          "height": 3908,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103879851208403423506\">Steve Dobbs</a>"
+          ],
+          "photo_reference": "CmRaAAAANWZs2QYKluxKKFwQC8UTtl_LNZtAxgh9IwxOKlxSGWfjMgdnzNYhfWAt2pg_zuxTInAopC_DbSDvv7P6_nWygHTZVaew0rWO66YHesLJ37IruxUZaPnnLK9KKy_mNVE5EhBB7ynuGfOx-ArgY15JAMPzGhSuiUkj-saL4WbrAZ3Twglwc0jNeA",
+          "width": 5863
+        },
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105560960768476992303\">JM Xu</a>"
+          ],
+          "photo_reference": "CmRaAAAA0l5dR8dVPxMCRbrcuplJdHLMKASdEpuJMCicVVVLuFl1jaUp0CMqG9qd9Y-G5IwaZyNZoILNgyWDFs3Mqj9lCBVtmQWG_LabyNiL-QfOBwx2g-pOdVz1PGkqn2P4zagzEhDSe9Fb10O3bZsFxi0YxA4zGhTZXvMApTFkroMJHZvqrRf1OXEHMw",
+          "width": 3968
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105525415289682818003\">\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u041b\u0435\u043e\u043d\u0442\u044c\u0435\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAp-Z3g3m36V_5heLsfz1ZSn9dfxNH7g6oBi7qbM-J2O_gaqTlTl1k-0pgpfmP5AmhWTrNN5ZahBqrAkF7Q5_TdgoQE-m_f0R-ZW-ltKeRL422QYkJjDbpfzl65uXbkfXaEhD3xv5AJshCTpK8tZJ8ewUPGhTZ1BASC0KP1scZtX2e4eKW4T10_g",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100436889979760978105\">Dang Bach Khoa</a>"
+          ],
+          "photo_reference": "CmRaAAAAD2LHPpg0KJi6ZpKwCLtOLhkwAyH98sZ7a_u3OA_MQ1msE5GGycUZm2DV0B480XXgWmxMNjOaALalCN10OSnjFn_ymf0XIILddI8DvxpWO5s07-E0iU0z5yotcxNegDm7EhArXORRdpoNahviX8c16YFNGhTxJGOxgV86SVdm9SM6MThmxc8GVg",
+          "width": 6000
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116995250552621001666\">Patrick Tunhapong</a>"
+          ],
+          "photo_reference": "CmRaAAAA_2QQCYDtGIqounniZWkK1pjcLxszakTrKQr9HTZJp5ixJxR31PC5tAcneUDOx5OGp8DG5lS85fS8QbpMJ0ETJujbX91CB4eHWmu0UuzdILaRxQwmOp73i5UVSw1JNgL3EhAxzwpNKdbTN96Fya5xSqwyGhQ5qTANYtvWxhYSRs6L0klofex35w",
+          "width": 4160
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105525415289682818003\">\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u041b\u0435\u043e\u043d\u0442\u044c\u0435\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAGl26wfEUSnfTa0zTBA6Ue9whmlrBfw9NpmHj3rBkIx0zzKFKfEf--8DLx-dCyaHA6oMd9psII4MnrV9Rk0szAfLvDSHhdtaHyWoKB2C8uINNxCrzSTw6brJsYbvrwITREhBYg-ku0xbcCoP0szqWyjR1GhSSTvmVqkezifjZmKEMdqxJMGmUjg",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112090884860633761187\">Yumcha Hotpot</a>"
+          ],
+          "photo_reference": "CmRaAAAA9y7fG6CWmbUuOMIzR-IrVsjBqc-EuLM6Hwrc4NSKYt_junW_nffBt3Nud-ULFrdFJYf9vHGnmIqn9vE7Epi_p5uE4GKuw-sXK3UqFtvjNegV16u5QZxJejIUGgbfR7HvEhBUKPw8qNs0KJOn3b2UxU7fGhTghgHUP3hJ00V8rXguZhfVGbkCOw",
+          "width": 4000
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100436889979760978105\">Dang Bach Khoa</a>"
+          ],
+          "photo_reference": "CmRaAAAAEeG3a3-cD73tXQhZBtDuG2xZf3j50xcmvdu1zYy-vjb2cwIeAvx4Rgkjdoxchez6UP4Hff3I6Lvt-zOURrKE7LF_9sMc-P56odKHahfwdYBHeI2MVJP3PXvhlDHyoyxqEhCA2jPxZl3a2mN9LKm-REbNGhR9bwUg4t6ht3lVHWNIIaiIooTe2Q",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115285375584590181574\">Mark Matthew</a>"
+          ],
+          "photo_reference": "CmRaAAAATwOmzfBHPlwwD5WwZGyHq_ytHPpqO-KJNB9v8eIyCWBdXccM9WCUfUIW9I5l7fcJ7M0BqD7A1_yhZvgcQpLwIE_2Q5Edox6Ed7kFoxogwNslLdUZAdzJkHuZykivGV0hEhC_h1QJ7kzf_4fyWm5-J3fxGhSLGTmliZT3Eopu8P2mkY4HQ2nKuA",
+          "width": 3024
+        },
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116995250552621001666\">Patrick Tunhapong</a>"
+          ],
+          "photo_reference": "CmRaAAAAepNub3-y6vrvoMwCb9IHarEO4jr2Jc7CUkOw1WTzmH__haPNQ00FPkZnztDcbxRqNBv-Wt7wf2qt57hAOZ73Lj7ox5jDSIsHYsaA1SDJ-psOsLLCOoAT83Gr4g9WbPVTEhB5JUAGbcjZpy7l78UA1c76GhT3283Vu1TDQNZNG53_fH_QRsWCqw",
+          "width": 4160
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.carrickhill.sa.gov.au/",
+      "mood_params": [
+        0.006905638485390992,
+        0.0648193982717722,
+        0.12134952354176003,
+        0.19930130665513934,
+        0.13594571817060577,
+        0.23270063982383976,
+        0.14864622749459877,
+        0.03868902927271231,
+        0.21168792266887915,
+        0.036132234342379194,
+        0.08110360608079967,
+        0.033125743256126515
+      ],
+      "popularity": 0.4109919687772075,
+      "num_google_reviews": 580,
+      "top_cats": [
+        "food",
+        "hospitality",
+        "nature",
+        "architecture"
+      ],
+      "duration": 0.8125,
+      "global_cat_params": [
+        -0.5960861233005345,
+        -0.5428247944303908,
+        0.6542906595977291,
+        0.40953999280162756,
+        0.5203377283410094,
+        -0.10059062904608045,
+        -0.6316368664435719,
+        -0.32706401148707376,
+        -0.8467989946501179,
+        -0.032230101881172535,
+        -0.3333213251385176,
+        1.1977563693045497,
+        0.009412647640494941,
+        0.22146369149658968,
+        -0.07826196079312779,
+        0.8517945355119625,
+        0.29569688370454666,
+        -0.38394309688459505,
+        -0.01186062641467073,
+        -0.6647411684017869,
+        0.8157744715425437,
+        -0.21361135970357087,
+        -0.09422588392040347,
+        -0.5950351358103584,
+        -0.3036245971868817,
+        -0.0031766947231601965,
+        -0.5706689636144263,
+        -0.14877160382012392,
+        0.5857815214275128,
+        -0.4706023636164096
+      ],
+      "global_mood_params": [
+        -0.2738135787262392,
+        0.4281714980972834,
+        1.0526433394880514,
+        1.1297317382453504,
+        1.70330193837557,
+        0.992979777695152,
+        0.6688688570796258,
+        0.3627496463891037,
+        1.1889647353447388,
+        -0.2948886551067615,
+        -0.2436905054026695,
+        0.4037126458960598
+      ]
+    }
+  ]
+}

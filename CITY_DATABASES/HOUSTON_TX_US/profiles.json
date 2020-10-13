@@ -1,0 +1,5119 @@
+{
+  "sights": [
+    {
+      "name": "Space Center Houston",
+      "orig_name": "Space Center Houston",
+      "place_id": "ChIJLZlhwACdQIYRFvnVL8mq8BM",
+      "cat_params": [
+        0.14838515610394953,
+        0.07062652621607313,
+        0.18801773480106598,
+        0.13441412660413435,
+        0.13813461519738757,
+        0.11648603276141181,
+        0.3481388193008648,
+        0.12217464660793831,
+        0.2676004582475818,
+        0.3177181804878233,
+        0.09161974574472721,
+        0.07477858149924915,
+        0.24703738168971623,
+        0.13688576636458638,
+        0.29314072401383784,
+        0.10810246688034526,
+        0.38470693228837205,
+        0.19278917525671402,
+        0.1791570016950923,
+        0.13293785205418057,
+        0.358732270846663,
+        0.25688394135075543,
+        0.22587742823011464,
+        0.10868544840345186,
+        0.03581969023868099,
+        0.30699348281258204,
+        0.23127379272038107,
+        0.41457513959108744,
+        0.19770904585665536,
+        0.17050518595752426
+      ],
+      "noncat_params": [],
+      "quote": "Educational center highlighting all eras of U.S. space travel via exhibits, tours & attractions.",
+      "phone": "(281) 244-2100",
+      "int_phone": "+1 281-244-2100",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.5518461,
+        "lng": -95.0982892
+      },
+      "address": "1601 E NASA Pkwy, Houston, TX 77058, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103788106150531523200\">Connor Hargreaves</a>"
+          ],
+          "photo_reference": "CmRaAAAAgGKyPGNW5MlEsL_q-8vkjPBTMGaiJwDf8Fyux7OLbUuSVpS_I5QJD6yIyvAMiTAq88SpKvvp8XOFfigwsHLpfD8WLcCJI4tmkgHQndDWE-mBNCM9Os4ks21u8ZAADtc6EhBEVT9Ajq0JNjRNrftnhlhPGhQPfkvwb-c9iBz9HDIMq0PI2nLrtg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111152648584548746595\">Lothar Langer</a>"
+          ],
+          "photo_reference": "CmRaAAAAnd1ypEx0RuxS4BXp12LZCCne1qxWUlbxoOF8xOyv_0RERnKybOTWkKR2Eegf8thIaTMkiapuKAiP_GD3GXXNCxtYR521mR5M2Ct2Z8MPcQGxHnM6CKLpUQ-T2AkVMsqCEhCXHvWpG3fPvDxk8t7pzQY7GhRtfE6I-_titvjKcVMne6_1K5cRrw",
+          "width": 4032
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117099781513595225453\">Donald DeFord</a>"
+          ],
+          "photo_reference": "CmRaAAAAxaZY-ofyUpPlNUu80ZCibTGVeZb5vN_7TY_Kd58FN66mr2LTiiawm9tzLdi9r0y7G5N-tNL9infVgQ54G-8CpbslHu2g6KNDtoxl-MBvyFv5kGg727EeTRMlyaFGDhsvEhCet8M6xUJQyhQusDCPBxAxGhRF3m5IjTqS5We16k6-d4QfOpvAeg",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101525448457570996007\">Johnatan Pesok</a>"
+          ],
+          "photo_reference": "CmRaAAAAtrG26mPefR1pFRwJpcyfBrO-kBA1VgmMBxSr3aI1a5d-Gjzu0U9Ac9E41JoKXq9XDfIlOgzUd_9mQXeg6XF3iHWIxdZkZiETiC2KICYY1uz3G4MabEgepfG8X6lyurHVEhBa0SReY7kry6Q8As2b21bpGhRXJRahS_A16lA5CVspkI-tYQ8Otw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112252878216274669712\">Zarius Dubash</a>"
+          ],
+          "photo_reference": "CmRaAAAAHiu6iN6T0Tnw64P0iiWsEiaEJDkrn4hcbWAukJUACy1zXwq8g93r63WiEgFxrqRzYTjvQdngVgGNabVsu5EMfk5-mheBIUAYOQq3kyUX1yM4V7z2V475F0cZYJQ1fZo_EhAA6CNx-3kX5sat6f80z-qHGhRERzL-3SQ5mEyshhBflLnQKV5NhA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100412773638719568507\">Zhiwei Yang</a>"
+          ],
+          "photo_reference": "CmRaAAAASvT1MvPzRrnE5AJRq6SxRMABscvPKvIQJBQloejqUVwbll_9xBdyLIdlYJH_agTpLwzvts5FXJrWoDSd-l_Q3Gf_ozs3dIA7dR-7V8ChW87CI-WSB0s4VYLv3czfDIrfEhATi8ZL1QWInFChlTgkEktWGhSRgDSTTwe9A16sx3pBQrDtBZ0x9A",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105602267691132270028\">Geert Motski</a>"
+          ],
+          "photo_reference": "CmRaAAAAt7GK6z7aoLB1hUVLIAjdB9mSqaVdPjPiovjwSIRCoea0ENaVunLB7Q91w4E3iJjv6118bT2X7Phv75xSHYcbJsbOMxDVWkSHxhL70gaaTE4URTT8J7SsUj0PhpLt6tJXEhBpClf5Zv9AFKbApD-4F75iGhSHFlSTuNjlxNcderBfWLLxYe8v5w",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100348370122875959907\">Arty Trollz</a>"
+          ],
+          "photo_reference": "CmRaAAAAWdAFmgfCFprvJVGw_KxCp4TKcUwY-XrIHHKQuzsjqVMFo3lo6_todFnY36NR8RUeO8D6j5CquKzRAi-g9IcV2cLbPT25Lc4RLnFWSNJOXwk5GaV5iSTFzrND1P3AGha4EhCEvdkBStn5LIRjE18u5HMhGhRPnG2OnIJNayBLbF7J9yeUU3VsgQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109047917715858736039\">Aldon DSilva</a>"
+          ],
+          "photo_reference": "CmRaAAAARYeLZiHL9m6suIv8Uycztru_9lqbGfpEfUU5PIXV6WdVM4A_M0cPcXoQknl4uIpNy-Skix0qOTdwoDX0Njvv4bdeS-BqhEhVWccdryk0UdBSPLFhZU8TWPYVVaKaIzT7EhCFnGmSxBhFKoqlotuXy0SqGhRsJaKkyN8-rfnLBl0nDj42s2CDNw",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102439439463540277304\">Scott Filipek</a>"
+          ],
+          "photo_reference": "CmRaAAAAH-gfxjQ-5ZEOmmCexAA1GNECPvpXRXdPzrVC6XYUP1YL3IfhFsQU-X51CAaBW7CKYakGnEWaGVkBT21i9UTE4m_pOQX6-EjVEM58QcNvZb8wzGeJq_uYUTxLZSiSvHazEhC918cKgyZdVZDQdjWtvEdPGhTvwBJT7iOHKmzla2abLJtzm-UwZQ",
+          "width": 4032
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.spacecenter.org/",
+      "mood_params": [
+        0.0160888652417948,
+        0.060812123993854474,
+        0.008504863233445376,
+        0.11762274486548899,
+        0.023641851430397532,
+        0.14179482294654613,
+        0.12148253669410501,
+        0.03924179262360571,
+        0.056191694293419206,
+        0.05737249119633383,
+        0.08524419352386665,
+        0.02729003568404296
+      ],
+      "popularity": 1.0,
+      "num_google_reviews": 26255,
+      "top_cats": [
+        "engineering",
+        "science",
+        "music",
+        "fashion"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.15569894453570202,
+        -0.49773564867868497,
+        -0.3597720654668231,
+        -0.6921738930327438,
+        -1.0284208495305704,
+        -0.3821146413146268,
+        -0.5336901127500555,
+        -0.9880259617614943,
+        0.9024719988484955,
+        -0.03867743021580555,
+        0.10836875936874378,
+        -0.6279458351773666,
+        -0.07007431359698915,
+        -0.5058828196634895,
+        0.03267372869617901,
+        -0.729372829650592,
+        -0.45816411219642006,
+        -1.0578022607487614,
+        0.17056246127585115,
+        -0.05409185915856509,
+        -0.8722257856323312,
+        0.015735206095326772,
+        -0.35138101113484205,
+        -0.5553107171458096,
+        0.2379167801571204,
+        -0.3527146583848164,
+        -0.5519974051640215,
+        -0.03805822992286994,
+        -0.6126761088176114,
+        -1.0948567870883965
+      ],
+      "global_mood_params": [
+        0.3440510760697045,
+        0.3081175035585288,
+        -0.9790827205192436,
+        -0.12946223399574977,
+        -0.7614585600741124,
+        -0.15016241481312886,
+        0.154806794934803,
+        0.3847914887504211,
+        -0.8680458521829295,
+        0.5305751954201933,
+        -0.14787647210284116,
+        0.04695907509422209
+      ]
+    },
+    {
+      "name": "Houston Museum of Natural Science",
+      "orig_name": "Houston Museum of Natural Science",
+      "place_id": "ChIJqzEuToa_QIYRetkd7kIw47s",
+      "cat_params": [
+        0.13609224489621696,
+        0.12255355177343469,
+        0.20584792621588482,
+        0.2955643801531976,
+        0.16574535599427243,
+        0.1451783943669575,
+        0.3811410630562374,
+        0.2006963885078079,
+        0.154220295469664,
+        0.35469248966709876,
+        0.1009876209303035,
+        0.07091868730734104,
+        0.2894471825128743,
+        0.09857511376118741,
+        0.3019525427926326,
+        0.13447896496575915,
+        0.45243996435441347,
+        0.2766787019363411,
+        0.17550092265089512,
+        0.1600027490154622,
+        0.42115315993585767,
+        0.2180287939473882,
+        0.2702853205493331,
+        0.10590010628527942,
+        0.05221247839168105,
+        0.31269739165682636,
+        0.2529560352248489,
+        0.35745499047925716,
+        0.20513438091831016,
+        0.18743486559365324
+      ],
+      "noncat_params": [],
+      "quote": "Museum with dinosaur hall & other permanent exhibits, planetarium, IMAX theater & butterfly house.",
+      "phone": "(713) 639-4629",
+      "int_phone": "+1 713-639-4629",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7221004,
+        "lng": -95.389614
+      },
+      "address": "5555 Hermann Park Dr, Houston, TX 77030, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104170353867009823090\">Kitty Jacklitsch</a>"
+          ],
+          "photo_reference": "CmRaAAAArAKmhF5pRPHcaanOAg1uiRwLaP_i_icQclmaBNNSECHmQhrR6KtqDHLA8opyz1rGG5YiiT-8qYt1aR8xDiKy0_xmCgICsUNPJIXFOac5lh2BhCHO2054KWgZ8hyHm_MMEhBrp7LvXCTj02eIib4t_hBlGhR38EzA52DmdNUoEbO-5aiYz0GgQA",
+          "width": 4032
+        },
+        {
+          "height": 3872,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100015079655231933329\">Anoma Jayaratne</a>"
+          ],
+          "photo_reference": "CmRaAAAAXI400fZkVnAtd19q4uyYxFXQo6_l51pJhrGm1GKpftMvvsIdbvMiB6y5Y6IQFxIdyJJ3iGdkhS-1g7u1KQHrvvd0-xwqit42aNT7YXgO3OWnWuGHtHvoHYxrKwGmxXlREhDGQiVphSO7dw5BbcDOuaurGhSycCAcL6whyg1NtCfHBnT90dqjCQ",
+          "width": 2592
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113210301291819662053\">Robert James Hughes</a>"
+          ],
+          "photo_reference": "CmRaAAAAPkTMAnyw9Utg0oBpnzyTg1pe_sI3J3CQ_cQblUVPTxvUhFp1yK_kaVRWh3MMjsxONyOT2DUCev_O5yyBPgCkrEnFedDiDLZro_N3C5GvUVhlsP4b8rrkKTKeV_N_rHKJEhBlSXsEaiqD0cmir7aX86-2GhTzcN1TQQoMJt8X_Un0wLpyQp0GCg",
+          "width": 3264
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109430355325252455015\">From a Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA3f1kn4V1tMpc51YcS66IuVvi-PfzdXcx9H5M-pQ5UzqXNxJA3H2ivztIJL_swJNz9OgnNcFhqZxu1S2H9a39wkyiyQ-CEk423to8GtsCg4m0vgo6Wki8K0vDsw7w3JExEhAdhdblenjOe-t1bSOyk02aGhSIvOTMDAVFB8hiqw4zqlltJvt-zQ",
+          "width": 5312
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111361907245676243226\">Kevin Hammond</a>"
+          ],
+          "photo_reference": "CmRaAAAAsA6kD3Z5sWEIMwwKhonIjijZDAk-ulghjn6ghn4rTy52g9L-4A6O8PIGtYTTTqHWTwxkYC9FCBLlMWv9lM-sPnQpBIQjOpwx6F833pBNfKUTdHDLE1FJzRVyyNSP3sqgEhCZj6YYpf3_yB075saR_lMzGhTEzY_2Z7dB-ue31s1fj99XMfy0kQ",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113973956409855082787\">JANETT HERNANDEZ</a>"
+          ],
+          "photo_reference": "CmRaAAAA6uE0I9x2EaAGg6dDPleVYLh7eUsJbNAdSA9H7ixYFUS0JiSXhqlqJ6oMu46TK5t5jBHpa4rB93jXX-I-ca1IwfFGrzfFb_oUQzOJ-41rGMuzmvCPvQM-M6X-iO_d1ny9EhD18NtO5_f6yIhwJ2dZziJEGhTZmASOaxKYfjNeFU1xgK0rLh04_g",
+          "width": 3016
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109510634851950009731\">Andrey Dovydenko</a>"
+          ],
+          "photo_reference": "CmRaAAAAGyeZS53WiPeMydHy-8NUWtDlh34gOHpGrbKOi0QDN1ziuqVzGkdsnrMJ_RO3IIcru_UjQ-i7CFD6VA8aXC2KBq8IO4Va76YI8rlxHF-CuigJg38aBBdOm9hhuaU9d3MnEhBTvi7YMyJ2Yfc_-dmVmJqzGhRTl1aMSvNayjiExnGCRDM-SF04xg",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100606679886269573523\">Christopher Winkler</a>"
+          ],
+          "photo_reference": "CmRaAAAAH38dqXifT1xLnD2wbtWaan0Hff3R0Qgp5JM34HdA_84uEYG-LbwElfOT-BSKubkVedPQLkm_m-we2AIB-mWcLwt6Mjg33lu4IoCsUnOnAjR6HlkLYN0eMA1yI2VMCE3CEhCt0oyWTZv_cKBUQ2LHrMR6GhRmGn8tmp8Qz-r2DBILQsyj6FQQ7g",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109706930952837885810\">Wanderley Pasqual Junior</a>"
+          ],
+          "photo_reference": "CmRaAAAAbGP1ngDX462nGG18Hffi_xTjd0z_-IJIuYIY-N6-DxUOp4GVLKNcGxKczBpjkWsJMRzxE2UZ3iXSsVWe3hKMH5isrIP0Bvld0ncsLmA4iVEKOHVcwEKd7-j0yqfzeR3iEhCzRhKYQE4TjVn9-BBpJmEWGhSv_blLyciIb1cDOeaDwCrsUuJkeA",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101531224775101833884\">Danielle Vivion</a>"
+          ],
+          "photo_reference": "CmRaAAAAl-CxwmzPMMsnePKYG_JAcHJ3g7yv6b7ar8dQKfdTfoK43L9tNkzIc0FNC8vYD3W-yoHlTGgEjRNSJvPejBGrtTyDG6iw5yTZ3G59yxl5EfTAYtmpIVMfq8G0TebWE4xdEhD2fpBRgm0bi-DEpWJT_yEZGhSc5T5HEPkzSG6pkMHhwDFU6C4nZQ",
+          "width": 4048
+        }
+      ],
+      "rating": 4.8,
+      "website": "http://www.hmns.org/",
+      "mood_params": [
+        0.014537974963781211,
+        0.07519995551696262,
+        0.022102507463326697,
+        0.1376338327754855,
+        0.03839146296704721,
+        0.19064545999137336,
+        0.14482353559371347,
+        0.041757313706595266,
+        0.0898057266041159,
+        0.05724627443762356,
+        0.10684733585337292,
+        0.039609973009475434
+      ],
+      "popularity": 0.8647848810874318,
+      "num_google_reviews": 14684,
+      "top_cats": [
+        "science",
+        "movies",
+        "art",
+        "friends"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.30485411644677884,
+        0.12314108350578254,
+        -0.18461916191419617,
+        0.4594414101809434,
+        -0.8581082697479301,
+        0.0006606610333398725,
+        -0.1824856867688574,
+        -0.11597848158661131,
+        -0.7754441286634207,
+        0.3544570494047173,
+        0.3010330144232789,
+        -0.6646039776865875,
+        0.38821408445058386,
+        -0.7873905737181317,
+        0.1284935408053538,
+        -0.42045425917349966,
+        -0.09064182521503406,
+        -0.18034959382992394,
+        0.12389414408046592,
+        0.4851999034077061,
+        -0.5677985971114649,
+        -0.36385104972578225,
+        0.1493102999554014,
+        -0.581293594814677,
+        0.7099031730992519,
+        -0.31040632245769256,
+        -0.3488366571855884,
+        -0.4091329081301767,
+        -0.5678536022805694,
+        -0.9784460508417359
+      ],
+      "global_mood_params": [
+        0.23970428036600105,
+        0.7391627795502936,
+        -0.7342622029947462,
+        0.1790378267563878,
+        -0.43774521931167987,
+        0.46413517642053526,
+        0.5965259307834065,
+        0.48509972929894973,
+        -0.42337641502047524,
+        0.5256700112521114,
+        0.35202462333376544,
+        0.8001122409465063
+      ]
+    },
+    {
+      "name": "Discovery Green",
+      "orig_name": "Discovery Green",
+      "place_id": "ChIJJUo2UyK_QIYRI_nLX1af7Qg",
+      "cat_params": [
+        0.25453062625727846,
+        0.1463780179159313,
+        0.16562127560491333,
+        0.14740385875905454,
+        0.3751031431137818,
+        0.08938143651194388,
+        0.3932263477181113,
+        0.15304998077930274,
+        0.19032423762280265,
+        0.35467520922277285,
+        0.11831230255828833,
+        0.20039623898098324,
+        0.3653514701779644,
+        0.2824770719259164,
+        0.21909923774672244,
+        0.20287665105035033,
+        0.4710633657452318,
+        0.22397389408988674,
+        0.22755241580800317,
+        0.12827138453639267,
+        0.7240422374606764,
+        0.37250044790566594,
+        0.19219996360902994,
+        0.11724567709943226,
+        0.002876861046103702,
+        0.38804268635101036,
+        0.36174277107336134,
+        0.4516095981615307,
+        0.4850281574952906,
+        0.35317897878205873
+      ],
+      "noncat_params": [],
+      "quote": "Park with live music, public art, restaurants, playground, pond for kayaking & exercise classes.",
+      "phone": "(713) 400-7336",
+      "int_phone": "+1 713-400-7336",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.753131,
+        "lng": -95.35965230000001
+      },
+      "address": "1500 McKinney St, Houston, TX 77010, United States",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111428321942455030281\">EBH</a>"
+          ],
+          "photo_reference": "CmRaAAAA9VllLYBtFzI5yyk0kG7whpxTibH8Lfv6epVjxC4k9w52JUbKiibyJioNDFeeeFUQyDj0dAA8Fs9JQr92zlxM9ZGHY35h6WMNdawl0ON9aeiRpj9ysRoS2iWD7cFL3A74EhAqYt8pVnUB9WEzPLr5ZCy-GhSermBHs_cohBt5T_klnjGksFkDtw",
+          "width": 3024
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109856419151695084254\">Mike M</a>"
+          ],
+          "photo_reference": "CmRaAAAAEWRSQYg7cZb_kfL0GQSx784FVvgk3rDBBh2NxqDJAVXYtWut0Pvqt6Qh3nrCBSCb9nK0Laqcb8-MZHj4S4HShA1pHrl9cQs9DG0KNyTm2APhHO1hNes3kNuWq8bQejKiEhACi6vqHyQPBDs8ukw-y3XzGhTjIfA_1GkqoysLbTdyoo-2xBygtw",
+          "width": 6000
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115121041167666757942\">Lucas Macias</a>"
+          ],
+          "photo_reference": "CmRaAAAAhJkGDKJe9gBO1Trl7zlYNcXKX_PT-maTj6nhocMxUF7d0wOqaMiGRDgj27Vc8AZeL84mADlD9MaHrO3FdJlueyJdgCfnV68wCZaYCitp5vDcyosUhvDR0pSCVtZ2I4g1EhCT1tNbQQpSKe_nkKX2bSZ2GhQpe9ZVKEE0ml3nHrdmNUI4wssjdg",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116808685193353205231\">markt markt</a>"
+          ],
+          "photo_reference": "CmRaAAAA6lEqTGSNPgrRKw1fw1Qljhl_fwCy90a8IgLcuXzZOSuZIOpHgqWNQVobYaDGrUZFNl_d5X_NttVMy_LPV_m8UNmpHlvuXPjrj6O61q0KzH0pPk0xGN59RQ6zrQSOFfSYEhA98IJ4baa2cHnBQMPoHYbOGhS0sNsLZwlmI94CYd9snHJ6zIp5vg",
+          "width": 4032
+        },
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111201932223439258801\">Jos\u00e9 Luna Photography</a>"
+          ],
+          "photo_reference": "CmRaAAAAFOq2KQOmadMoZuj5ZIw6MHI_6gg-COzwqZ96U239gcpHc8WYirnX170V3TiHqp_y_uKbkOvL7u3EorQ8U4KSlq5BG3XEYZxxk3H2m7J1yHqcyi6ys2ETj_W6ODgXO_HHEhDbRaYCXsGhuoWlL32bveKvGhQ6xP64OGq_mQkDpdXYCDC1JFeTJw",
+          "width": 1620
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101669516812917407320\">Unpredictable 876</a>"
+          ],
+          "photo_reference": "CmRaAAAA6GYL5xGzst13sL2OjG-SdHUmoOLY9-h-cDcZB4yyYg_MM7wYS5_aEH2d5pqpa5Ts2QthlErT2Uur0UXjMUfp9pVcZO_0Ib1cHJpnLynF0HMQiUIs7clmgc_G1-v4PV-lEhCcrRJ4m2_wxyLvlU_85cDrGhTW5Ibu0WV-L5ZSWeGOP6L4SnNSIA",
+          "width": 3024
+        },
+        {
+          "height": 3300,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100911676341914586299\">Alejandra pe\u00f1a</a>"
+          ],
+          "photo_reference": "CmRaAAAAXwpDKgjnoMQCA06jaaSvHhp7QZ7ht4LxNpUkI9NGtdLGHKsEPNf52bB3yjYY4nrpW3cBaBWzJnOPSktkoNSdNoYJ_NUUUmv0Q5SdfwNX3_tNOsbpKGlkyGrWxf753kLSEhAzsO7Fg9PSyFr6qA2FjHiIGhSqWSLETgxnrYvZZxRS-LNqb6t-Bw",
+          "width": 2976
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102591256069696290495\">Angela Vanwinkle</a>"
+          ],
+          "photo_reference": "CmRaAAAAHaoDGEfPfvjhQ_ZdjMTLE3VIo8XrJMKBYmWukuDImifA3HF-FdfxnsDqMQs2J3LJ6Jxb7WqS5pf4V9lUUbBHYYFrr7ReFRc9AnkUE9Nq7PuLpAEzgHlqwAHdYTRMBAYkEhCuhoOIc0ejGzaMP9FJ5qR4GhRMBloMD1di2xRhivOrs0gvheNDHg",
+          "width": 2560
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113736087829735513507\">Virgil 13th</a>"
+          ],
+          "photo_reference": "CmRaAAAAUuckcfZ-QZQHJO5rhanOxdPi_xYaJl7t_hTnClrEGLdSIn3Bds-OCQ2tYfDDVn66BdooXfg7aJfxIuxaShuKNXP7X0uiFk_JRZx3nvKXSheEAaQlAFW-hcKOYH27s7c5EhDThU9rdW_yDcHyxMwcx2pRGhR38N8HOyDxVWTGEMMN7QyQJ0frqw",
+          "width": 4618
+        },
+        {
+          "height": 3465,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114383024307127943373\">Lucy Sol\u00f3rzano</a>"
+          ],
+          "photo_reference": "CmRaAAAAnEhGaiwql04NKdLfVY2_xh5XbL_-zRHTw-_IdL7QhjHkdXx9LyTj7Erv1ziUXY3SsSIoHx2XmvOTpnqrXj0r1WDhbqePFbsVcjh6vinCr9pdAAKRmyemfomglrc-hYjZEhBTCPTBmx1qIU2mjqXGtJK_GhT1cLXksISkVF2m-uIbfE42l_TVLA",
+          "width": 4616
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.discoverygreen.com/",
+      "mood_params": [
+        0.016031805148012036,
+        0.060616385868176775,
+        0.07020438470879592,
+        0.09023671481031356,
+        0.042442772448925685,
+        0.19318179021286033,
+        0.09628783445954643,
+        0.02784873671522962,
+        0.143932972099966,
+        0.045493609319460095,
+        0.07298942471445803,
+        0.030095221786164382
+      ],
+      "popularity": 0.838023219625075,
+      "num_google_reviews": 12949,
+      "top_cats": [
+        "friends",
+        "nightlife",
+        "amusement",
+        "walking"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        1.1322096379604447,
+        0.4080034750219812,
+        -0.5797811930325424,
+        -0.5993463981650514,
+        0.43328282635519755,
+        -0.7437080914126614,
+        -0.05387608392020741,
+        -0.6451303928115584,
+        -0.24114090205606542,
+        0.35427331267944834,
+        0.657340801812672,
+        0.5650687296502511,
+        1.2084502969248752,
+        0.5639261930604786,
+        -0.7724541887630362,
+        0.3806117254303195,
+        0.010409535719942136,
+        -0.7316219163086162,
+        0.7883096459840218,
+        -0.14707530913165237,
+        0.9093939204895198,
+        1.1452235690835453,
+        -0.7310886044184081,
+        -0.4754571962536887,
+        -0.7105836810696509,
+        0.2484620124853432,
+        0.6704857039844737,
+        0.20253199979981143,
+        1.1217052561587693,
+        0.1612325880639118
+      ],
+      "global_mood_params": [
+        0.34021196634466944,
+        0.30225338190341033,
+        0.13179417280428476,
+        -0.5516577674810134,
+        -0.34883013679695113,
+        0.4960295720699278,
+        -0.321992940452648,
+        -0.06951493720966335,
+        0.2926558529122975,
+        0.06892411269266066,
+        -0.43145430808174906,
+        0.21844816126483005
+      ]
+    },
+    {
+      "name": "Downtown Aquarium",
+      "orig_name": "Downtown Aquarium",
+      "place_id": "ChIJq-4v1za_QIYR3gBH_XWpKxo",
+      "cat_params": [
+        0.15329780705845875,
+        0.2332944877372588,
+        0.09500808876104992,
+        0.1061252096018596,
+        0.1824622824921289,
+        0.06793640050305691,
+        0.3278637630653,
+        0.09889219566027986,
+        0.2016833581775918,
+        0.3315660419561417,
+        0.09758307326288296,
+        0.20607208422102613,
+        0.2736334886373759,
+        0.13230064848984222,
+        0.24706411889549845,
+        0.15937597746751755,
+        0.41077423778495065,
+        0.16154773124855412,
+        0.12368745272766736,
+        0.12664110421837568,
+        0.4052516886956235,
+        0.26677067076054367,
+        0.20217656970829145,
+        0.10719766281524133,
+        0.005019105797732747,
+        0.32280294716913965,
+        0.24055744072156857,
+        0.3400075787209733,
+        0.2692129535673366,
+        0.2113583753679532
+      ],
+      "noncat_params": [],
+      "quote": "Sprawling spot for sea life, including touch pools, shark tank & displays of aquatic ecosystems.",
+      "phone": "(713) 223-3474",
+      "int_phone": "+1 713-223-3474",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7642703,
+        "lng": -95.36737920000002
+      },
+      "address": "410 Bagby St, Houston, TX 77002, United States",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116767343989403912641\">Lottie C</a>"
+          ],
+          "photo_reference": "CmRaAAAAKo7qzVqoFy_ZB_IEmaCXlpoACigD0Of2jH60uhP79xO_y82cE49yeXkpduCKuXVHJEDLL-ebmm2txiljpQSBfV_dFVouPdLDtqYFDc3BiAZA_AL_sY145bvJUazCsqQwEhAjfHqFxbQmI6W8SPkaBc7QGhScpHxuyzUtipmXvFkkGDHp_UmlyQ",
+          "width": 3120
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113668569669450908667\">kris campbell</a>"
+          ],
+          "photo_reference": "CmRaAAAAaUGU88McnNCDepu0zUj_LRIKs8JLOD3oY5VeELJdIHMcUJgJbkQzeo1nVYJ2dakSVyXpkrm0T7NRqgzkTvyTYOknpkYvzk2V1njxD963zRfyreWa0wzIkAK39_ULW_r0EhARft62_JobUZy_Ow57tjAJGhSvxr8XuWDtEN2wEODNEWHE49CCtQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111407008878259968346\">masthan shariff</a>"
+          ],
+          "photo_reference": "CmRaAAAAcAZr7zmUnAJTMuA_fQetfX_v7irPIMCfeNhJRVH9cWUf109-eWf9GSCrEC2KqgpUE0IyjpkaUpWCt-UZGkLEhyZusYS9yvwTt-UTSJp08otzIINWDX0mU6kSZLHtV82OEhCz2Ef-TFcKvpaKqQa-FMohGhRLMVldyKLPdMnTZYmNiIHZ2EzHjQ",
+          "width": 4032
+        },
+        {
+          "height": 5472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106491846699988838797\">Jair Rodas</a>"
+          ],
+          "photo_reference": "CmRaAAAAYP_vtZhZZAeZ8ktP7PMvL1l3lHRBtlgBQe08EKW1tJNmZxb_9pvNQ4d1XNfjf8h4uPWBOYR3Ou59bsLm3hgdsnWlYSmiuHIxp1dpkiisSwVPBtF7ple1yUUqUX109kIPEhADE1Lm3wZKOa-Q54uBbOW6GhRrV9RPlVBq39cFBf1ML0T2zjQVHw",
+          "width": 7296
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104793788106244143904\">Jaresa Ross-Bey</a>"
+          ],
+          "photo_reference": "CmRaAAAAZqXYoPizbEdhS7ksySL7G8DV5oh5omCjmm-5PYggtCE0EFTQfI7fDo7QcCEkvk4d_m-9xIHvTKjlYlRJhzTs6DtuSHCEidxnCP27VBLFCLsSq4Tof4saabvcJ2GAzEFLEhCC_bkaOPOTA3LkByTgSotpGhSIXC1INEO7Etds0Iop2Vyh0nmfFw",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108793484825268208364\">Noli Alejandro</a>"
+          ],
+          "photo_reference": "CmRaAAAAwXuIGEiLVIG1YhVv9LEJtUYhAhxaKVVgrTZeJpyOnChuPlKMWlr5P32uhlhH2tUf-2ID1L17R49b_QVxJRLeWRvIJ__s67VMN636LUO_AfnwycQbPj-WT8QCIWnr60AnEhBeDn06j_jcAUZs3lqBrfFhGhSbykYmDPvnEM-4qVKewBVMlVE4xw",
+          "width": 4000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116519355197699196683\">Estudios Ense\u00f1anzas y M\u00e1s</a>"
+          ],
+          "photo_reference": "CmRaAAAAg5dE0LZsaOEqm8SCYjKww0HrFmbZmIxsjy99ZVWLhmn6VQ5nCbfndHThZlVxXqf-RGaf2ZPGjekNaL_NKgV9u83OElbVRsczSYL0ZiUVinyb5iORjPybi3bLa2DlUGPZEhAti3mJckFAdx3Tgg14YgmpGhSJ48BnRzdhIVWFRipM_lT40Ao4SQ",
+          "width": 4032
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108814982739141263133\">kyle geldmaker</a>"
+          ],
+          "photo_reference": "CmRaAAAAWCfsxyEPPjdEKsFJxPC0kggBEUv0e3RvpdO6QsskOTZt1vTAjGo6XztGCpUhPkKm9gJxhCAUUB_jLEwBpFZayHBLTryHAzLgHxbsyB9fI6_OXCVAxVD67QeofGhaQfZrEhCNlZs06trCYw97fPkEF0ezGhSMaxld2byiXe8jINgWqhI5uUNqnw",
+          "width": 4032
+        },
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108502077760519713644\">Osmany Mejia</a>"
+          ],
+          "photo_reference": "CmRaAAAA6A51JDOH_qjtWdk47N-DoRz2e5NtR6ST8n1RD1bJyuufh005A96Q_yE-DdmUG5FB0ygqGzjHUc8vVydDM1hdOPpJYQXXYpwMA1qBgu9W80OJtHrAWGTiWJP6Dr5PvSrLEhDguXoJRSCaTYRSTVFAp9EqGhRC8OzcOXCllzpQVmiduaZYTic6Ow",
+          "width": 4128
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114735602970373205174\">Mark Rein</a>"
+          ],
+          "photo_reference": "CmRaAAAAWpVCWfgwp766aCGGGpeOoJKngmcjRl_YGUDsabjFx0asL5Gc7EznaepMPdDdy0aAhYjuoYr1Jg6YVs22JJlLkLotrSth5w7WYI3Pd3ha14GQExZusPWOWKdIb6nXyomTEhCS4_kUtqpAlFq10jgNjHJ-GhS9f_5guKMtex6jdC7GONTYFNxdfw",
+          "width": 5184
+        }
+      ],
+      "rating": 4.1,
+      "website": "http://www.aquariumrestaurants.com/downtownaquariumhouston/",
+      "mood_params": [
+        0.02409680175550612,
+        0.07941856851139131,
+        0.024692618338840344,
+        0.11810997310769414,
+        0.027027654737318104,
+        0.16314643043296667,
+        0.10855532744664499,
+        0.03412734823390609,
+        0.10895259836383216,
+        0.058646998696946354,
+        0.09357749855755262,
+        0.04206597074254651
+      ],
+      "popularity": 0.8365632715762424,
+      "num_google_reviews": 12859,
+      "top_cats": [
+        "animals",
+        "food",
+        "fashion",
+        "friends"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.0960916403522943,
+        1.447239078764844,
+        -1.2734419853966434,
+        -0.8943327417697884,
+        -0.754992496837993,
+        -1.0297992209967166,
+        -0.7494539117126287,
+        -1.2465964186814595,
+        -0.07303696653283168,
+        0.10856188089094285,
+        0.23101343931715704,
+        0.618973301466226,
+        0.21732829171515805,
+        -0.5395743949116883,
+        -0.4683637705874573,
+        -0.12886325697572548,
+        -0.316721813818223,
+        -1.3845759290285322,
+        -0.537483090968267,
+        -0.1795600714951758,
+        -0.6453502028903045,
+        0.11232129184654782,
+        -0.6186040948595432,
+        -0.5691894255040282,
+        -0.6489034858714008,
+        -0.2354490871616589,
+        -0.46501042162202416,
+        -0.5224780727424073,
+        -0.18104785983300598,
+        -0.8139448053198076
+      ],
+      "global_mood_params": [
+        0.8828400073374395,
+        0.8655482740958355,
+        -0.6876282218235374,
+        -0.12195090112886654,
+        -0.687149504752598,
+        0.1183344122771471,
+        -0.08983550689135852,
+        0.18084928306460488,
+        -0.17008848425040288,
+        0.5801066053374524,
+        0.044957896685128305,
+        0.9502544388430839
+      ]
+    },
+    {
+      "name": "Gerald D. Hines Waterwall Park",
+      "orig_name": "Gerald D. Hines Waterwall Park",
+      "place_id": "ChIJpTwf6G3BQIYRyZpTrmALPvQ",
+      "cat_params": [
+        0.17250065569406822,
+        0.10227870848107988,
+        0.134504242524441,
+        0.23342888915376037,
+        0.4051319210302214,
+        0.043074065770920614,
+        0.4233811978668476,
+        0.1675236404200358,
+        0.19358148150124121,
+        0.3851071208297919,
+        0.11425261669051004,
+        0.14574618714274923,
+        0.31987079946332453,
+        0.22359341184750936,
+        0.2169286302521437,
+        0.20096943223706334,
+        0.6833745254494026,
+        0.23959323282452027,
+        0.14284527947653053,
+        0.15537093429795276,
+        0.6672815739907704,
+        0.29260485404035946,
+        0.2037864151948372,
+        0.15901981558398876,
+        0.0021393087498025693,
+        0.4194594370175373,
+        0.3506683934199745,
+        0.5348419374178902,
+        0.46679552417629105,
+        0.4352901097568275
+      ],
+      "noncat_params": [],
+      "quote": "Park whose centerpiece is a 64-ft.-tall fountain circulating 11,000 gallons of water every minute.",
+      "phone": "(713) 850-8841",
+      "int_phone": "+1 713-850-8841",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.736342,
+        "lng": -95.461322
+      },
+      "address": "2800 Post Oak Blvd, Houston, TX 77056, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114044786222688202555\">Harsh Gupta</a>"
+          ],
+          "photo_reference": "CmRaAAAAXgJgxf2PuirpAN2-1PrxX4b7ir4d9dPVFOT-2X0U12KSEY4XEK3irYOqHmWkT9pyk-jgMOFx2g2vQmWq9yP4O_oSScan0vTZljSoa57cdJYZMypF_xBjyc1hTQwe0Q1REhBWJ9p_KizQTvg6x3WNwyLJGhRnVsd-x6vFRJjPTxBolzC_5abxnw",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101249297312840333707\">Vi Tran</a>"
+          ],
+          "photo_reference": "CmRaAAAAX3u7BIuKvxSP-mt-lrub_-MSuiB5dtkETAsbstuUik9-kC2Y2hQ1h9vQvJmWpazN6wcqT4qsg0x9g8Pvh8HBh4SwasqhiHP2eMbt7Wcsk8DdoU0W0p2mbWur4QBS8aPOEhBkrTuYJHhoH_Rgez8r6ydCGhSXCE1cxP05yGJM8fFD6o5E0Jzm9A",
+          "width": 3456
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118305298429535767595\">say arenas</a>"
+          ],
+          "photo_reference": "CmRaAAAA-SQCteZw5ToMR2nMZXNMsfqTxxqqx2p1KKMwMtTlmpu1Jc9W1w1zhV6VbnkgBlVQF_LQM1G2ZBPQS6Cc1T8VODZr39WeCoSiHa4FG6DLeYaf_4-wmejVrAnzh2tRuMlGEhBD_FElu1xMTQywScYtoeOVGhSax-eDdmHgoiKRv9Xx8eAsy_dfRw",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109122554068216775303\">Arthur Ha</a>"
+          ],
+          "photo_reference": "CmRaAAAA_MXaauYxX339nz8DIFuo_ndqO0lRlbPiBWjeBEbb1UdMchOX6NSjmdcugr9Hgzi5LJ-_QFjy1qY1fYptnnZNfeaEs0vv9DaZpVJrNyoMGp8_BcDai3fE1YOgtlxYZPqREhBqaNLFh4-9KDp6PormPEHAGhRvTxUXZjcgMk3gSiczZ0GPWqUNGQ",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107819305461661427535\">Iv\u00e1n Castell\u00f3 Serrano</a>"
+          ],
+          "photo_reference": "CmRaAAAAUEaZPUhtNYupyuSYtdKlvzWk2r-Apc5W0F7INq8PGm5eQS9ejzKikby47FZt0ae5qRcfQFX3ftbbth9XICMG9BG38uIdcrlDkJOwzdcizTxqQhswyGND-wXczP6Y_ecbEhBtX_7WrejR28SnMbLRSlwmGhS6_A4vNniAKpKFl7ujyVSOLrETlw",
+          "width": 4160
+        },
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100546637287795830473\">Samantha Johnson</a>"
+          ],
+          "photo_reference": "CmRaAAAAAcgWA6GYT4TSFNAWwBtlwf4ou0WH0pChmnZyvRgbO7NclC5ptkumYz4WajWqHwlTG-zs8C4mR9zSXJOes4nbwV5Pp7pCEAhAra5YTarsDECtL1UEBMx9PTIgXp8hJzSfEhDtRn9KInoO85cMPIJQbHgjGhRsWU8aDAsw2v2vVnWe8qA9Bi-HMA",
+          "width": 3036
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111796703176893978240\">Milton Araujo</a>"
+          ],
+          "photo_reference": "CmRaAAAA4wqBaFkjHjnyDA83kaC3cYN0TW6bzjMNnhc4jcizgg6BaftjKl6xEXPT0bqD8aUi7-S9hfN3_4ZOIw5kqWdEjVPOPXL0--oWa-uHu2fxGNqR-2f1jrgeu3X4GArF3LopEhC7nV4WKa984FP1VJS7vL5yGhTeR7iDPv39-Ubq8bdFu31u_l0mog",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102864788219421601477\">Danielle Carden</a>"
+          ],
+          "photo_reference": "CmRaAAAAagj8CmrYg1eOfVOpV96NbZVeLzFzeAFf2RjJ8NP5DQicQMkYzCpwZrNuS5RY0zsSG5jTzGlN5kB6CQ8s1I3T_UtDoT1Mo00RRK5nMzU3lqToz0odXBad0S19EuGCp675EhC16d3_ayUcNA1I3nXpm9FaGhRy6mr-wZAlhKcgWuHtxB2KmWnGTg",
+          "width": 4032
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114067279102946066728\">Rogher Contreras</a>"
+          ],
+          "photo_reference": "CmRaAAAA3WVeRG_6Lxa2rl_xV8eJIxOLACUyQ_3r6vZIjw9TBsxH4mQvCZL-TccoNEY-U6b4xIuu3CXCGXCaulkE22x-DvX_7iXO5dy_sskrAGSZdRkbfhm51v1MwH2_wX47FNF7EhC_PN5oHTOmbd0FNRazG6h0GhRN4GogNCIIj2YtnnVZwHYfcKrmWw",
+          "width": 4608
+        },
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105196572004655077231\">Karen Reynoso</a>"
+          ],
+          "photo_reference": "CmRaAAAAbmjRkebCRlKoUj2kr4xkPWqsbIxPUqqM6oNXjaNtU3NSmbi98N7e-3GljmeYWORRygM2TBY_C3cv5mtAqQ3Niy35syaWkosEFTkYcg9HhlZ0YS7pxXtp39rLYi_H-Ez0EhBgpdD16c27-T-2KcL8yH6vGhSQADK56W482NTdfaKorUZjBcVIsA",
+          "width": 2322
+        }
+      ],
+      "rating": 4.6,
+      "website": "http://www.uptown-houston.com/news/page/water-wall-park",
+      "mood_params": [
+        0.011001581926843437,
+        0.04207059838388733,
+        0.11122288088359553,
+        0.13599164362524707,
+        0.07991101701446285,
+        0.2129145001463452,
+        0.13053821060069276,
+        0.016615548572836116,
+        0.17946643094850498,
+        0.04686057659143563,
+        0.0713070988558852,
+        0.03593527637361846
+      ],
+      "popularity": 0.6102839938630008,
+      "num_google_reviews": 3642,
+      "top_cats": [
+        "instagram",
+        "walking",
+        "views",
+        "water"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        0.13690477042671284,
+        -0.11927947330049557,
+        -0.8854559088663908,
+        0.015407468367364566,
+        0.6185106937380901,
+        -1.3614794021195706,
+        0.2670268496965981,
+        -0.4843886910456282,
+        -0.19293686088197756,
+        0.6778448411013793,
+        0.5738473373955528,
+        0.0460468889422447,
+        0.7169774930120614,
+        0.13124740079895736,
+        -0.7960573979885608,
+        0.35827459381111326,
+        1.1624188373272701,
+        -0.5682495506430788,
+        -0.2929414591593998,
+        0.39290694081267064,
+        0.6325716987805102,
+        0.3647022904715009,
+        -0.6004533652208282,
+        -0.08576993920724235,
+        -0.7318195223852509,
+        0.48149351373020766,
+        0.5667197375723693,
+        0.7432416090399291,
+        1.0116452629944717,
+        0.7258396814208432
+      ],
+      "global_mood_params": [
+        0.001769149180587852,
+        -0.25336016359932645,
+        0.8703169118772062,
+        0.15372108961077888,
+        0.4734946132939891,
+        0.7441687349129621,
+        0.32618182775791793,
+        -0.5174465192320141,
+        0.7627167786759395,
+        0.1220488030214014,
+        -0.47038366968824236,
+        0.5754674776059374
+      ]
+    },
+    {
+      "name": "Hermann Park",
+      "orig_name": "Hermann Park",
+      "place_id": "ChIJR1kC54a_QIYRQQvvQ2sjJrE",
+      "cat_params": [
+        0.2918483063631414,
+        0.2240917827824479,
+        0.17328068022621784,
+        0.17700047293011706,
+        0.5218059209179006,
+        0.09745694331217301,
+        0.38937881242641353,
+        0.15773622020845995,
+        0.22651712168108593,
+        0.3330173531605898,
+        0.09096152747161831,
+        0.1408998030623194,
+        0.3176083214054812,
+        0.4073932767659782,
+        0.2167853275447112,
+        0.19283524905241822,
+        0.4711044363889048,
+        0.2913454225817152,
+        0.17841301002173557,
+        0.13638250273642974,
+        0.8255234797027621,
+        0.2610142194507474,
+        0.18911228679479689,
+        0.11386052406664045,
+        0.02303402977996555,
+        0.3246433751818875,
+        0.38511168932012335,
+        0.508848619810976,
+        0.5777443439592077,
+        0.4373743218940264
+      ],
+      "noncat_params": [],
+      "quote": "Expansive park featuring a golf course, Japanese garden, a natural science museum & a kiddie train.",
+      "phone": "(832) 395-7100",
+      "int_phone": "+1 832-395-7100",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7183503,
+        "lng": -95.390841
+      },
+      "address": "6001 Fannin St, Houston, TX 77030, United States",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101806258521953167813\">Jose Aguilar</a>"
+          ],
+          "photo_reference": "CmRaAAAAzNQVi4b0UtIemU-Qx6lAurxO5UKncmR4Dyh1Bw15IyXdsoKfk8GmqXABPI5Jbu0GaHI3JLTOUjtLpK96lxg_uWV7vjuYfFxopVrc_QTxhrvebcpHoQs7Zc_LrpM_wtuBEhB_ZazZZJE9OFBxxeE_XrlgGhTSNzv7ab19uOWOZ7H1kV1E6ArS7g",
+          "width": 4032
+        },
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103382813714196796400\">Marc B</a>"
+          ],
+          "photo_reference": "CmRaAAAAFv0tIDh3ogBu4JEP1PNaW4Zqgf1eTgbO01asBB-OtRJELfqyZ5A27gR1CjkM-aMqfPZYY3FFRqzKW_4YbIHGTtQtqfzS62jtSFXr34cSpUld2nrxZEavimr_L_VISCADEhAb9wORZgtrrhDcdy69Hi_OGhSqsrOhfBEzy3QVlP4g70PmA_Qjrg",
+          "width": 2736
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100125395688814023232\">Q T</a>"
+          ],
+          "photo_reference": "CmRaAAAAx6mDTY0kg3ScjjwJJS4cOd2E7aB1naU8MhuZKPqzURn0Esnl52YwfgQufFOyyp0DJAW8XA0bZHzI4ufz1FTQ-jA_848aJz-o4fV1Pl-o2lvUeSN80EQw9htsVGORVGaeEhArRR_iamr-AhogjdZyCGLAGhQb4I3LyDpA-0vQ7auLwgV2XtyWuA",
+          "width": 4608
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110076694585660875535\">Eyzofgrene</a>"
+          ],
+          "photo_reference": "CmRaAAAAqo72fXc28WBkL1ObzpeCLIHx2t2SnPjxszffys27W8pfH5tUf7a8OninOXyiCNX4z2VGgE2YEqqDIF-lLh0Q3FivKfZMj3dC2ptOK09sL8xdBsjq-OkLG8JJfgLFxWNNEhDBBEjSebQuQ1VmqTnnDTioGhRrqQcrrhfM9Ul9kgPjhIVYthdURA",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110404637687646964538\">Patrick Landry</a>"
+          ],
+          "photo_reference": "CmRaAAAAF036Q_6Z6p_DaJ-QMKZ6zEtzDascyH0HvlBce2jTZkMBbI_B6lFMSa_yRkgRQMg_kEl-GUPYU54SvXlSJzTJb8u7W1mo2VAFyiPu6jYTN8Ib-CV8zg2nnOwn84iuk4xkEhB6Ja1Wbt0bplZyEx6Vf4G4GhSmYdpSJNka-CEArMq0msB-wwOexA",
+          "width": 4048
+        },
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103792383115125724572\">sergio aya</a>"
+          ],
+          "photo_reference": "CmRaAAAALV53sQpu3hsD7_alqOuR-u9arKUsb55FXB7V9vHfqIpzY3OdAe7E_rki1X4mc1UGrASeALaq3CTolAumQ-3zQiRBfXhehDC4-2vmXyjAZYOM-pXwWKr4Rs8hP1BRE8-IEhDqNJQ5DfB9XoIzKHPP8yIsGhRZ5sGEEgeiy8UL15-MFvvcsRpKJw",
+          "width": 4618
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114854773871291193439\">Avery Gasper</a>"
+          ],
+          "photo_reference": "CmRaAAAAAMuNNPto3335U2tUcqR9r6SRnJsXZjreGp-xFNSIKkS2zpjgePfDWLZ-sFGg1AFlFlsfVLxeVRfPpgS7OFMj-fOZ79EuQSrpJy8ZACkF-KSxChI2sJTIqmGdZD1QCdqhEhBsYc7kMMa7lKb7T0C4HgqbGhQuQgZKSIRqZBWCJVwzGwBOBT75oA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109188141297783934660\">dr. fernand basquez</a>"
+          ],
+          "photo_reference": "CmRaAAAAkzwJ2osRHi7YoOiVsC-y0pOPjjVOQ1_Yx_PVZB8tYeCnighuVFEvXVyIAWy3bF_BLApGANncX-ZIBHTMPe4th6CQwiPOejaiJhxGt-jmLV5aWTgYZm_ck3EvQ5kGJoEuEhCQmZq7YZwQa_htTO5gT915GhQ6FuEulDPCKtF-odFWbcT5Pe6E9Q",
+          "width": 4032
+        },
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105558835918016113291\">David Mosquera</a>"
+          ],
+          "photo_reference": "CmRaAAAAMcCSxreLBih36vdB6oibriUUzRaYb8PA0W9q8JX8AjGLPaAefNL1oAhiKTjukYyEjiuitPYciInBSHobxMSOwrbJ3JPx0qc8C-tfxxiU3OnlHtkD8e5RxnQiiiA1e_3mEhBwR4rbMZht-kXrX5yswPwYGhQwP3saCSYHfrK0eBIQKz2GPYmXeg",
+          "width": 3888
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102023307762981231435\">Radomir \u0160ubatlija</a>"
+          ],
+          "photo_reference": "CmRaAAAAVIY-pk8vLdFapvPOPzATXQ0kVq5nO0Ku8_mN9TeWCI5nMDfAklxlYFrzWuKCG4vi0-hu3Nc3D_V2gz4KssQUYbE2wGhYwuibU4aq803jngFPEkVHh18Z-XHEtoxJLIO-EhCXaXISZsX8YD9tButBsPD1GhTEb13MP9zmSdaVwdzQICOTbWOcQw",
+          "width": 4928
+        }
+      ],
+      "rating": 4.7,
+      "website": "https://www.hermannpark.org/",
+      "mood_params": [
+        0.009512640494203469,
+        0.046782799808673586,
+        0.09093287530804496,
+        0.09812807311297096,
+        0.0623750176915785,
+        0.1794924745980357,
+        0.10382256752439316,
+        0.01868729293414789,
+        0.15069092051707852,
+        0.039363022379940694,
+        0.06500643217112947,
+        0.030475312379767222
+      ],
+      "popularity": 0.8639001291727492,
+      "num_google_reviews": 14624,
+      "top_cats": [
+        "walking",
+        "amusement",
+        "hiking",
+        "nature"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        1.585001079910446,
+        1.3372049430085204,
+        -0.5045398830715676,
+        -0.3878424566442296,
+        1.3381961980354633,
+        -0.635975427243487,
+        -0.0948209188708051,
+        -0.5930859120497336,
+        0.2944785782362147,
+        0.12399314891982427,
+        0.0948315237908119,
+        1.9866064969475294e-05,
+        0.6925287235148788,
+        1.4818139835293769,
+        -0.7976156731693853,
+        0.26300795783607667,
+        0.010632386763666183,
+        -0.02694125247183087,
+        0.16106571927897195,
+        0.014545820878155617,
+        1.4043187719958554,
+        0.05608498995279323,
+        -0.7659016268701005,
+        -0.507035369924913,
+        -0.13021203996598554,
+        -0.2217978439985432,
+        0.8894504586439943,
+        0.5743789201901142,
+        1.681379915869328,
+        0.7401710021900664
+      ],
+      "global_mood_params": [
+        -0.09840961245653995,
+        -0.11218724533061213,
+        0.5050029220711512,
+        -0.4300009876629331,
+        0.0886277366095828,
+        0.32388619551360054,
+        -0.17940110911890728,
+        -0.43483419959979486,
+        0.38205462218920017,
+        -0.16932996944400308,
+        -0.616182374786266,
+        0.24168419131278357
+      ]
+    },
+    {
+      "name": "Buffalo Bayou Park",
+      "orig_name": "Buffalo Bayou Park",
+      "place_id": "ChIJ-zLaJqjAQIYRfnCkjD5AWhA",
+      "cat_params": [
+        0.21459312665020247,
+        0.15903957899380683,
+        0.16449849308833814,
+        0.13899697511685388,
+        0.4362856411497201,
+        0.07269765650536421,
+        0.36966976080209163,
+        0.1156950295409156,
+        0.21119555005975538,
+        0.26211533365311174,
+        0.07708036471072754,
+        0.1212527542473952,
+        0.24475695353144644,
+        0.4470203535534309,
+        0.2455955567085186,
+        0.16371883836483567,
+        0.4768600722375153,
+        0.25576048553354164,
+        0.1591901476767899,
+        0.11165451102622481,
+        0.6921296910350572,
+        0.27423185736794947,
+        0.19848269986126785,
+        0.11658986986851468,
+        0.004523018151100895,
+        0.3330130965586739,
+        0.33897424026514583,
+        0.48567503026164077,
+        0.5378304217711037,
+        0.4177789873058108
+      ],
+      "noncat_params": [],
+      "quote": "Winding, 160-acre green space featuring views of the Houston skyline plus a fountain & a skate park.",
+      "phone": "(713) 752-0314",
+      "int_phone": "+1 713-752-0314",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7629542,
+        "lng": -95.3756203
+      },
+      "address": "1800 Allen Pkwy &, Memorial Dr, Houston, TX 77019, United States",
+      "photos": [
+        {
+          "height": 2795,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103486059533559697227\">Buffalo Bayou Park</a>"
+          ],
+          "photo_reference": "CmRaAAAAtbYU00ZEjQmA5ZcJrTo_jaIShH3cOqBRLKjHhD-FNQ7PKf-HQ8TEhhbe2KJhv3zHUU4ZYLIE9d7sK3PowdS_gMPF177w8vF6ftQ9XMRZUJYjkQ8Gc6GLJegALsTwsXujEhCvsyBBVMAotIAM5metHTkGGhTPhY3pmk31lJlAPc7uqqol--p71Q",
+          "width": 4968
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100004969029290032220\">Michael Marotz</a>"
+          ],
+          "photo_reference": "CmRaAAAAozjIRnmnimYb7UJyjTU6JeTBRB2eZuNTmDNe5Qx_nEes-pjXVSTzB3PNkq28IGbEmZiWTCP0d3f3Rm2liINhQTtMmT7k9GZk7329xJ_wPFHBVGZJlO8LsV_kmPwx5ugREhAQWxcyI4pz_LkX8t5veA1vGhRnlO_dFhJF2uzR3NVA0YelZ7NAIw",
+          "width": 4032
+        },
+        {
+          "height": 2474,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106680842396645543818\">Daniel Ariskin</a>"
+          ],
+          "photo_reference": "CmRaAAAAvt1bjzl_dNisbQQE0PXIzXyIk82Vc4I2hISRFG-cy2TNkzS-gwV92u6xYi-5MpUeeNSkGa9T2Z9nU-9l3KkxtnEPAykq83to_cNnYLa_tZYeSWNJWyq2v7NnLLqH-4rnEhClS5zNNpmr4K-W4hqTE0d2GhRmT7cWsUnjAQYlO4GmNSGWCJ-T3g",
+          "width": 3880
+        },
+        {
+          "height": 4444,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101802786773936824693\">Nathan B. Woodruff</a>"
+          ],
+          "photo_reference": "CmRaAAAADCdwq8h-aFbJ1U5vTqmv1ZmSXDp37TT0XTKO5OpbEfwHRH6eRz2J8rf8TztB38rXZzHQcj9tglL5e-VCJruXzeNT6EbVpOUA71VLol2tjtLi3-7fs4hAOEOTg-UINekXEhBsv5MfwDqZrt5hubN5z9NfGhTOEflHE8V9XsXV9USJH1tMyOHfUA",
+          "width": 7250
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111498252246909000956\">Crystal Morant</a>"
+          ],
+          "photo_reference": "CmRZAAAAZWwvMwRTvmxvINusTu5xsTe_tcBfqFtrEtGD7EDAZReCuNpU2D7H4In4LU0F8VWzdYgDK1ShpXYJ_1mVMElLJBbpesz60eW5X67GLUasxnFR__Xbw2cKdaraqBg4vFO2EhDN2cDNXVN8HkXzXWT-ayi8GhQl0I17gp_qoBZTlJil_DMIi9y5hw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107182173080088425471\">Jason Rod</a>"
+          ],
+          "photo_reference": "CmRaAAAA7iAOwM0-jTWmIQZWruZKcUIoNSkCE-2_c33AR9Qy9JyUx4dzQlGYUM-9yk4gBOZkeOw4gRC0jT8hbdIP2eCsOCMNBBX6AGVzyqz1jaDZT_dX2rW92PkgIYfZimWael8sEhBR4FXAgEEhImOaWUQJSqaxGhSN9guGV_CZ_57JlprHndrQXX33Bw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113604066846708649381\">Claudia Adames</a>"
+          ],
+          "photo_reference": "CmRaAAAAdA7Nt2v3amjJvxCruPV0oPpAH8L9I3iEJAhXA7FWFsslP7WYzK65oIleeOex2e0YxUklpNeyr-NMfAIErytZfjx-zFuNNyRJh7RAbD4I68qQgorLNZ2X94aiMIEiEqTGEhBl87jWZZTc3xnuLeClPp6eGhSIfW1oPRbTgjAg7fMzzk9WUi1rtg",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117751953831579699026\">Hamza Haroon</a>"
+          ],
+          "photo_reference": "CmRaAAAAsK6oyxDTDgYiS-FpefRyMHDRH8sXLjZXKmnpJk2AEBTxLQaL-NM65XO7RX1J2Y4BcFMbC6DYLRaMofP2CNNC3rath4qkORloUBd2-IpFJunhQjzud_7UdKFh5j9okztCEhDSEsaUn5XloblCp7L41ujlGhTe9Ncs3EJ74Z-0HNQtPeqSkOLyBg",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110003481647242386681\">Vivian Cheng</a>"
+          ],
+          "photo_reference": "CmRaAAAAWVeN8uf6bYAfjKO-Zwyynlvky9axeJ1-aLR9hO0df-ARQl-6soKlJyICO1zXqoEhYnRnUU9wOj4j5y83Lqt01w0w-tfdux_KN5soeWTFve303i0FUf9Cl4koqNKFQ5rvEhC6PJ4JmupqVrGSxjqhLC8MGhRvwPa1ZODcbUOw1x4rgcCr02H98Q",
+          "width": 4032
+        },
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116450822061984337902\">Adam Cagle</a>"
+          ],
+          "photo_reference": "CmRaAAAApi49Vl1TL7MKlDhRL5cyrFVQM9IQ5HASyQLwwsHA-7xmayI6exIxNpP1hRCt8i54vm5d8i5dKdtTQJ1VUFPbeB5hd2RCH_Jy9HPlw4TtD3Rq8lfeBbLeuB4UUJMjnq-mEhBKAxEzZAJTC2GrB81F6IpkGhTJ1S7MtbIcK1QS1n3sJ88S5OAidQ",
+          "width": 4000
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://buffalobayou.org/visit/destination/buffalo-bayou-park/",
+      "mood_params": [
+        0.007247600193005061,
+        0.03615679995943395,
+        0.06110819693047659,
+        0.08488833000829972,
+        0.04895474019384679,
+        0.16860097226754878,
+        0.11472167493349625,
+        0.014893217977592497,
+        0.13249267621743355,
+        0.0354286144134344,
+        0.06230628568605567,
+        0.030999244585562545
+      ],
+      "popularity": 0.5751997455989051,
+      "num_google_reviews": 2874,
+      "top_cats": [
+        "hiking",
+        "walking",
+        "beach",
+        "nature"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        0.6476308006997524,
+        0.5593941734493617,
+        -0.5908107222877822,
+        -0.6594238454012576,
+        0.8106775929317838,
+        -0.9662808800914147,
+        -0.30456139026608486,
+        -1.0599873523149648,
+        0.06773422108958299,
+        -0.6298824247376886,
+        -0.19065518793817787,
+        -0.1865718588722035,
+        -0.09471705530365049,
+        1.772994859555408,
+        -0.484332931592638,
+        -0.07800015999310256,
+        0.041862709481994886,
+        -0.3991462123865915,
+        -0.0843060646656337,
+        -0.4781810590060777,
+        0.7537561695915659,
+        0.18521160568029052,
+        -0.660251838990434,
+        -0.48157485014766377,
+        -0.6631869998613054,
+        -0.1597160342615537,
+        0.45714652800145905,
+        0.4238342801876465,
+        1.4404423658005001,
+        0.6054308667922406
+      ],
+      "global_mood_params": [
+        -0.25080575609123124,
+        -0.4305317457056406,
+        -0.031979298669132634,
+        -0.6341109076485121,
+        -0.2059103840693859,
+        0.1869253685668736,
+        0.026860170742208235,
+        -0.5861257097266004,
+        0.14131578504906733,
+        -0.3222335605779084,
+        -0.6786643121423928,
+        0.2737136723940005
+      ]
+    },
+    {
+      "name": "The Museum of Fine Arts, Houston",
+      "orig_name": "The Museum of Fine Arts, Houston",
+      "place_id": "ChIJSx6QT3-_QIYRPaWcHKc3bbI",
+      "cat_params": [
+        0.11308500545424538,
+        0.07048819528440112,
+        0.2903551324585398,
+        0.5155587119769941,
+        0.14786478913874837,
+        0.2178186168328524,
+        0.3555297380415486,
+        0.27468514495147606,
+        0.16728476165990272,
+        0.3143026054220305,
+        0.09001762936966526,
+        0.09064937690097107,
+        0.25527472105273774,
+        0.09892299079290794,
+        0.2851081106053243,
+        0.16448726075600964,
+        0.46963525381829446,
+        0.26804496781788156,
+        0.21797742719493512,
+        0.1329861774723079,
+        0.4449725868799355,
+        0.18489514130033596,
+        0.2921183165497729,
+        0.09416612094886437,
+        0.016490708569201738,
+        0.3583371974051966,
+        0.2118613487103636,
+        0.3215257715109449,
+        0.20116748055079356,
+        0.1708801882357647
+      ],
+      "noncat_params": [],
+      "quote": "Distinct campus & sculpture garden with notable art from antiquity to today, plus films & programs.",
+      "phone": "(713) 639-7300",
+      "int_phone": "+1 713-639-7300",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7256229,
+        "lng": -95.3905328
+      },
+      "address": "1001 Bissonnet St, Houston, TX 77005, United States",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111723022039827881274\">Ziesook You</a>"
+          ],
+          "photo_reference": "CmRaAAAAKvi4z9iEra7uhVbPt_gcARQeaYXRD71dLOcToBt9WKvhKzsTiWGTTIlmWzHU9JlPmZkIDq0gZs3xQqBS9Tlj4bNqn25W9QZDJUDp045U58Yar6flIt9kpwQVBqDeYSSJEhDjgUnSUrrQ-EeVgLERXnr_GhRz15YDTMJBhR7nbCBGxjzIGLC5qw",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102793281636939540679\">Ashley Huffman</a>"
+          ],
+          "photo_reference": "CmRaAAAAtG9czOUkq6qB035w37NU5hBHtVFJ3UUGmfeuoyitUpEo0BV0j56-TnCv2Pyftz1pgxn_NAGjJxA3GJXIz8tKJjDddfGjaewCFDy09QCLkuQKSs-XLXBNHa5ayXNVFRYFEhCcJJFg60CSRkoiwz3CVoW1GhQp7OEwogc0wa3R7FJSdfPQixZutg",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102009420840127688147\">Tim Krimmel</a>"
+          ],
+          "photo_reference": "CmRaAAAAAeLw7hqFHPiq6t2mzQ1Kt9hFQ4ffA5oBlehDfoU7Q_l3Ksad4EcJ8a0hXYKiiApcl8ypUgF_jXDXrYaE3WfRPhkBlDTVL7PncG0i1hybjDuSpgpD2G5Dupws6OpWZMHSEhDoZamCNnrihfLuzuqxftavGhSVeg5VT4ewhf3aNArInint-rZ9Wg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113842271587329992647\">Tristan Soria</a>"
+          ],
+          "photo_reference": "CmRaAAAAmwpv3QGc4eT_Jmj2ToGQWRwpKKmRJuV5w2V-YBq9N7S8MOnaqnKd2vjUCv4RYhirFBrpq8yflSQ-qy_mFdD1uJY9OJ4CE63WJZOBTGYW_u4cDHuUHRQ_nksiKbaj0pFoEhAM2JBlX67PQ43hJeABty-NGhSBtei5jnTUhebJruphZwrQr-Imzw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102898454061410611573\">Kristen Lentz</a>"
+          ],
+          "photo_reference": "CmRaAAAAKhUazIypW1unsUiP_eCYRKIjq28bO-ylrFyQbKhCBg98ywm8bRI-jEB4VB92qaoBML1TodoftgzqcI6hcPC3Z3FbLRgG22Boyd1VLE7P73yt8mi5qieyyR5JnbMxN000EhBYGgA4823fz3OKF3sz0QesGhTaD4XlaNCrClbZC26191hgzvhimg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108801981226172474003\">Nicholas Lyons</a>"
+          ],
+          "photo_reference": "CmRaAAAA1Ljbe5MhC2F_YWEmzMHLlfcGgX9tU_y-80hMP9O4G7-u57psW-x9_N1a_UB0AX_vSlxwZYwIRVmSLzlK3ZU29pOymA7V6k5PlDoIHdGwHtiAtUUCGL2EYpAheUi0jKNiEhDpyCC3L6kfiBLtXpxsNklFGhSXAAnqvoa72KmTBH4JQUwtbQcb4w",
+          "width": 4032
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118306640670588312345\">Trixie Zhang</a>"
+          ],
+          "photo_reference": "CmRaAAAA98l4sDxp18A8BwkTpxMPwQ-iKcdGU03Zy5eskO6RjktcITtMsT9iVB6jM3gN-7UstWYbvtwbvwT1LXSYnFUo7JpWFyfSOu_ZX2oFBVTNZiccdOaBZzLWtQU7Yp2NZ_pbEhCQgwpsNW0bhqnT7Mq1r1BjGhTVmKaeSdssvZDTYhzwdNjUBTdmbA",
+          "width": 4000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116693633069411252725\">Ronal Meza</a>"
+          ],
+          "photo_reference": "CmRaAAAA7AU9GJLwP5gCis3kKcM7AL7TN4G0YOPW3Zxbet4ubtd_u9zLIiSqP4JpgPnvq9rltrpldQOX1-jO0YnFBcVgqyFwbhY_czwFdg3BMNb5IJp2J_KK-6CJhAmq4oRd3O8gEhAyQBXyahDNPqzrbgq97Sn9GhSozl0MYxRE8Tr966KOFwYx2uhAtQ",
+          "width": 1960
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102793281636939540679\">Ashley Huffman</a>"
+          ],
+          "photo_reference": "CmRaAAAA9vtQltc8s_HmuN3Gp_f0cgyIQccY_ad-cx4l7vzY8OfgOsIhrEXZutuuN-GIuxsi1lQ2KVGErcE252njlgG4GKV61s_v43ufOjNB2EV4dR8wfqkIaCcZH1AJqZahWq-4EhDkB_V7HNDhmkdSwrX_--voGhRJlGU04WOgScca-8HD3dJPGW0f7w",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113798790399144137020\">Na Li</a>"
+          ],
+          "photo_reference": "CmRaAAAAHkxTwc7LCf2cRXISUdeGqs3oliELG2Ee0yYorHXeI6ZOhhAMO_mgd4DNZS9NU_eCrDzew4EPSrR1rYY4dBEgp5Ds2ONjapGs38zEPqc1zeBFOi9tJnygEJ3Leb3g3qrdEhCibszsGh1Tmoqm36DR_9msGhQglx7VyOoZY7EQX8ItSCKT07f9FQ",
+          "width": 3024
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.mfah.org/",
+      "mood_params": [
+        0.006866909442260487,
+        0.05735200378549979,
+        0.03772431329564306,
+        0.1166236223016684,
+        0.0529269911466185,
+        0.16320899795874624,
+        0.1398682989673068,
+        0.030728657434252075,
+        0.09942254981134044,
+        0.03863737027123465,
+        0.10029175570860903,
+        0.029135635170970238
+      ],
+      "popularity": 0.7122812975969816,
+      "num_google_reviews": 6758,
+      "top_cats": [
+        "art",
+        "books",
+        "culture",
+        "music"
+      ],
+      "duration": 1.3125,
+      "global_cat_params": [
+        -0.5840108349959195,
+        -0.4993896324355954,
+        0.6455279857053116,
+        2.0315694929420434,
+        -0.9684017780439428,
+        0.9697298334932434,
+        -0.4550371765122595,
+        0.705726527202567,
+        -0.5821027364758528,
+        -0.07499400666851551,
+        0.07541885858577396,
+        -0.4772179005125556,
+        0.018939946964969045,
+        -0.7848343634937683,
+        -0.054672995841734844,
+        -0.0690004836207746,
+        0.002660540208540239,
+        -0.2706551817567927,
+        0.6660889280140189,
+        -0.053128932901874704,
+        -0.4516310563639714,
+        -0.6875425035093752,
+        0.3954735565654742,
+        -0.6907532922698679,
+        -0.31860943443636736,
+        0.028123672669981357,
+        -0.733890336411882,
+        -0.6425430720428095,
+        -0.5917995139705371,
+        -1.0922782213835271
+      ],
+      "global_mood_params": [
+        -0.27641934111228933,
+        0.204455706589368,
+        -0.45299741007345906,
+        -0.14486516326295412,
+        -0.11873041847684339,
+        0.11912119997738879,
+        0.5027500452715647,
+        0.0453240049871871,
+        -0.29615849235885655,
+        -0.1975311154053793,
+        0.20032716906509127,
+        0.1597858744323297
+      ]
+    },
+    {
+      "name": "The Health Museum",
+      "orig_name": "The Health Museum",
+      "place_id": "ChIJG30qnoO_QIYRwUEc8Xl2ZXQ",
+      "cat_params": [
+        0.1620985940156632,
+        0.10058704095152617,
+        0.2109157400955583,
+        0.24451011299354145,
+        0.12819163054726135,
+        0.17341333991086152,
+        0.3104334951151475,
+        0.2021027907522474,
+        0.1566098954543287,
+        0.35250698290597515,
+        0.10790026843229808,
+        0.06740487253829923,
+        0.2654074026965971,
+        0.07914822492570257,
+        0.26644260478493814,
+        0.1135803677897795,
+        0.39609083233671827,
+        0.2460829299830682,
+        0.11479016350331846,
+        0.13771679592741978,
+        0.3473355487247399,
+        0.1984893398943205,
+        0.19799254436653774,
+        0.10365812116723598,
+        0.09169447392517888,
+        0.24374815909145517,
+        0.22546300483018705,
+        0.3112698349672842,
+        0.18583461388377176,
+        0.1502901402183527
+      ],
+      "noncat_params": [],
+      "quote": "Health-sciences-themed museum with interactive displays centered around the human body.",
+      "phone": "(713) 521-1515",
+      "int_phone": "+1 713-521-1515",
+      "hours": "",
+      "coordinates": {
+        "lat": 29.721698,
+        "lng": -95.38598999999999
+      },
+      "address": "1515 Hermann Dr, Houston, TX 77004, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112065825518162766347\">Chantell Provenzano</a>"
+          ],
+          "photo_reference": "CmRaAAAAOD-Z4c2qNxnswwj5lbOwcxcet5rthkAr0Ak73C4GMQQCiS9PuwlZk0MGm9jMYVj1osf1H-dODMaSIYizTVdzL7C5ysk2LarBRcgZiZcLVx-hMUWa-7Ml_w0jaNwkStThEhAn8ef_NRQu0ZHtK7gK0zALGhQkVdyK7WsATTEozXSixEsMrYlBCg",
+          "width": 4032
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113691032213047750852\">Jason Hodge</a>"
+          ],
+          "photo_reference": "CmRaAAAAfVTTFM93kRtEEuzJso8ZUtgqjHhgKjxk67oah3p1tiZtn7BmIc3jX07lb3QN2nrdhjNhoyBZRGjHi0TbVtjUZR5tT2R2qplTsgkIBW04Vt68zugncsrC_f_ECvMaTw5eEhCzwNHHAp6AkEQ8s_24eBHpGhS1Ey0fMhwFTC2p5GPbZBTeHnmErg",
+          "width": 4048
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104485865851443716273\">Mark Kirschke</a>"
+          ],
+          "photo_reference": "CmRaAAAAAQKm03kuij9QSR8TUYcQQZWqiyqYxhkalu-zMe5Bu2W8k_-OC1HBpcP-Csh-zi_GrutGCvtGMLmlSGenqAWjfOdRuABsOPUOV9JVjNG7Ppy_HfoUj2ccCYDYb6eJWdhJEhBqOQaL0tvSv1kX3fW55JDUGhSAW0wIgvW_yjkEIFGfYc-2amoA_Q",
+          "width": 5312
+        },
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112297633206778094659\">Ed Miller</a>"
+          ],
+          "photo_reference": "CmRZAAAAjMJBXEIf8RhMg27M5bRCqu8sYpOx7pbd-tRkQP_srJqVqdtq3F-w-0t4KdfQ6rKmSFZ0PGYMqyxOWziX_wsm-U6udTG_i5bVUX1WnJuzOL-KUL9bwBh0iPv2Y2Fpa0kNEhC6hfqRn9htGCWKOd7NY5f9GhSKUPimvcf2imJaPbPn6wvO4PnMRw",
+          "width": 4096
+        },
+        {
+          "height": 2880,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111451832309595135304\">Jordana Sarani</a>"
+          ],
+          "photo_reference": "CmRaAAAAIDQsnAd7UWroQ44iXbva9chk_MioiD9m6CMNEHHcu8ZtXiTEivxKctS0hRHH6Nu7h-OD4oPkSYclq6Z59CKs5hs6H20yLXs19tq3005MIOfeay4BOH_X_KDltVt2_74WEhAosFcwgK7I0wV1UByBdk0nGhT545fyNE-YfW8z_4C2dDcLGPnW9w",
+          "width": 2160
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104485865851443716273\">Mark Kirschke</a>"
+          ],
+          "photo_reference": "CmRaAAAAPtoNyNss2Ys33Ws0hsn02ktZ_GUbwdsDXPXBtMXxdRa_fvPZSkPXDMGVpWqBrc6gQcK5NQ5RFbI38mq9gHR6REdsYI43epD72ofOwB3ZUxVVV3i5LCBcMJB69sm7grB8EhCaanOJkNfvxvvMcD-A-VIlGhTknwBXanbF_VsksbqcdP2WtQ4bVA",
+          "width": 5312
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105317522883848598059\">Katlyn E McGraw</a>"
+          ],
+          "photo_reference": "CmRaAAAARtVO-7OCyxQbbMgEfHMlA7qRONB1RR9oau-SHU49xipbZh94CcPAOL6QpySftyRWxxuaycunt-tnsatcT5dbHzuMGG8tIcpuQrU0pw0p834S1poVIU1TTvjUNOnqpHawEhAfCzPoYhK-MSnKc3bRNPQeGhRtABl55zTQL3amJYetQ0mFWBGmGA",
+          "width": 3024
+        },
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110051404039245894268\">Claudia Hernandez</a>"
+          ],
+          "photo_reference": "CmRaAAAAX3XZtYnj7Tib4BG3iKtakzt15gI2Qz1Q7O9zB_-Bbnqb1OiQFbauh6SZCxytEe-2TktfhZGcqSQ7nf4Tn_EC6lAjZsv0lU_4vP0Feveoj8AD4q5bsVSphJiSJg3v0gjIEhDnCByPghkk7gS-SF9Nb6FcGhTX-XT27SuT6TFIwkC65eLiN6HpjQ",
+          "width": 2560
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104512520775957655594\">Impa A</a>"
+          ],
+          "photo_reference": "CmRaAAAArr-7muwsyUEbRDHjORYHxzTZq2cCL8DnO6XrLmTcTsIxrtV07GgJYsBlc7ZgbfgcaufBOzvrhpjGAi0Ru2KrwxI7wUNRaWqGsxdPQ_gf20ByiXssu1niG6cm9RbIkapDEhCCv9ByonQB6QEGWt037yvoGhQwaSr4eKOWXiKtgY5PmEpVD2cxmw",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113604066846708649381\">Claudia Adames</a>"
+          ],
+          "photo_reference": "CmRaAAAA3rkyk2T4Ksw5SEmbCT2V2uLfK-NSxn0lsrE6o2yL50MPrpJhWh0-ntpPMpI59RQiZ6iUzgK6156FVFWe1fWJTauq6SAmv0JYHbPFdKvNbOu_pilC1KmZ8SGULcrBJCGJEhD-1MxNO_Sx0SngcCy3m8cuGhS8Gx64x40HLCUTDDL7G837cm7loQ",
+          "width": 3024
+        }
+      ],
+      "rating": 4.2,
+      "website": "http://www.thehealthmuseum.org/",
+      "mood_params": [
+        0.03376196400288045,
+        0.0979251013527143,
+        0.00962485106718424,
+        0.14897990809695744,
+        0.01431231392523384,
+        0.1741187173986436,
+        0.10260454448924328,
+        0.07158321728049845,
+        0.08833071155652693,
+        0.06095301279387987,
+        0.09415979847947945,
+        0.03050265102858753
+      ],
+      "popularity": 0.48767288344259524,
+      "num_google_reviews": 1485,
+      "top_cats": [
+        "science",
+        "fashion",
+        "books",
+        "family"
+      ],
+      "duration": 1.1875,
+      "global_cat_params": [
+        0.010692088039795712,
+        -0.13950626265378985,
+        -0.13483605555049305,
+        0.09459634130539545,
+        -1.0897526109258766,
+        0.3773337270544136,
+        -0.9349439437088691,
+        -0.10035924666261123,
+        -0.7400803731850942,
+        0.3312193451091342,
+        0.44320186862374705,
+        -0.6979753387007254,
+        0.12843563778072573,
+        -0.9301398998901778,
+        -0.2576419067476323,
+        -0.6652162720712755,
+        -0.39639459069535443,
+        -0.5003697770330748,
+        -0.6510532601800144,
+        0.04113278065038749,
+        -0.9278076929802546,
+        -0.5547371665070508,
+        -0.6657782574822276,
+        -0.6022078030469374,
+        1.8466814004566636,
+        -0.8218323239858755,
+        -0.6064439880704059,
+        -0.7091696199743036,
+        -0.6843552721562178,
+        -1.2338581390534331
+      ],
+      "global_mood_params": [
+        1.5331301824500592,
+        1.4199857891186312,
+        -0.9589177569092578,
+        0.3539541002601323,
+        -0.9662162071525218,
+        0.2563111073846183,
+        -0.20245171140221932,
+        1.674429419476993,
+        -0.44288892411057984,
+        0.6697256381444765,
+        0.05843243499089529,
+        0.24335548146347566
+      ]
+    },
+    {
+      "name": "Market Square Park",
+      "orig_name": "Market Square Park",
+      "place_id": "ChIJ84Jv4S-_QIYRrPnSA2Vagik",
+      "cat_params": [
+        0.26388014109372904,
+        0.2044175058598249,
+        0.19274874553764418,
+        0.1524646604437055,
+        0.4027928475947414,
+        0.07773840881875224,
+        0.39683113928767305,
+        0.15046973590841917,
+        0.17791715578098263,
+        0.29995599208421486,
+        0.09774194004045177,
+        0.300242571472824,
+        0.3258898470373425,
+        0.2897140409513445,
+        0.2222777641232465,
+        0.23697197681760312,
+        0.5111155662360235,
+        0.2807129335415976,
+        0.18745027952684656,
+        0.11974320095769568,
+        0.7013979776578807,
+        0.38505718063712363,
+        0.21173736666073154,
+        0.1469723204602316,
+        0.004885178099171086,
+        0.46539426155399777,
+        0.3600304830020881,
+        0.4951743777872054,
+        0.48817385637771454,
+        0.37971111268660607
+      ],
+      "noncat_params": [],
+      "quote": "Historic public hangout with outdoor movies, walkways, a dog run & a restaurant, Niko Niko's.",
+      "phone": "(713) 650-3022",
+      "int_phone": "+1 713-650-3022",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7626451,
+        "lng": -95.36236079999999
+      },
+      "address": "301 Milam St, Houston, TX 77002, United States",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102819378977188858812\">Market Square Park</a>"
+          ],
+          "photo_reference": "CmRaAAAAoiVdK8WnQgFA8FgE_gU3HcQzYa-YKPYgquKnQjRAvEjMCZ0Mzs2j2azpyE-tAQnMwHmF5QEP2Pao03iTzr3u5XfKjxTgA3Su_-d0axcabI3kpInztC-trssy5dsopcELEhCDjqnRdMy4rR5KthzlhshAGhSORcNW189GlGlPnStE4Ze9aJHL4w",
+          "width": 4500
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106315276140822356239\">Tahira Najm</a>"
+          ],
+          "photo_reference": "CmRaAAAAcJPpCxdJNPzltFX_Tt0S9H1GBAXRb9FSOoe_8hb0vB9-jp_6UfkIhQcX0YmfsuJPXqC2fLn338jni7igXSrBFV24t_BRPhM6iBrnmLAHgBwEJStcDHwlc66ZmttONyXREhCEWVYB1imXJ8gXaeM8Yz3aGhQBbDxJaXUALufp6AamckX0H3Q2ww",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109804172688812436095\">Eric Carrillo</a>"
+          ],
+          "photo_reference": "CmRaAAAAkh4_AW1eAPS2F3vMaMPxqbeWLmvveuRKvyQsKamk_MPLunEhveiD6474KQEkZAD20eYx1JWC3RA1xwI5xwHzLh_bgeUnSJpd7nH4r30Y0_tvYvfQ0drmr82wLT8S3nt-EhCyC2hkzNR7P_Fmu0lwQDGEGhTA8rMXyd4sJAq3tQogPcTvaOROCQ",
+          "width": 3024
+        },
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117407376853200385471\">Tabish Shaikh Quadri</a>"
+          ],
+          "photo_reference": "CmRaAAAAa9xKSlDDwLG0AEKXzGFSWQ67RxHwRNynr3johJIrUxqjKlvhNQ4foDCtm6P5jmBpOoisyLKBN34bvFZ4rZxG0HpJAPz5mjed7J0S0UyX_rT3qLokQ2DRYqDa_NV2Ol6eEhB-NU7ADlZuM0h6eTuvbIzWGhRUHcaH4rJyQ4AAfJj4094c8othkw",
+          "width": 4000
+        },
+        {
+          "height": 3200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115076423915133752916\">Geethal Amila Gamage</a>"
+          ],
+          "photo_reference": "CmRaAAAAmqaGGP6PXCrPUaPWKxOcib50mb3z_ydOd3BDOj--OOnGUyOfUhyfonDwnbicTW8j3tcctBTIt1sBP_0iN5ioFuapkJALEjD5pd6qDKRGbC3J4_p4yeF54wffpmqHWPLWEhAZByzydXTEtCzwlmoyNUj_GhT72_DASx-bI1pmehdV7vLFk1YQ0Q",
+          "width": 4999
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100571789964914577421\">Jesus Covarrubias</a>"
+          ],
+          "photo_reference": "CmRaAAAAmBaMEWGO9Ycl7KD9LlLtCwZcwBPz7duIRMDfgxL7kBCN902-wf6Q6qUnVphinQeeTLs6ylW0IDAGkQw-0SIHqpWHGhT8ioxBZlyQ02F0_n_KcZRzZ6FkDp3LB4K7hG8mEhAJ1PU44Ap3AkzhlK67u3j0GhSk-3QVRaeKkf299FyuTZmjEs6bKA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102572342439342655531\">Angela Masciale</a>"
+          ],
+          "photo_reference": "CmRaAAAACrDPhT5ab5CA1TUztF3vCdSS7XIlV34gyPh8ndixw9-GnFu_QcA4sYZPFq1802qdiHQ0B8fVIJEx4UY25z5jBplzoCojOEoS2SY6Ik9WyoHkIFQ7UulzOiNc_wyLpw4sEhDqfmheZftyZQJGL-xI_b8rGhRd8AZ4pcIEdLFPpBDrtgKSfda7wQ",
+          "width": 4032
+        },
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102508432467500934352\">Ertu\u011frul Tu\u011f</a>"
+          ],
+          "photo_reference": "CmRaAAAAaUOdB3eGUTGUo3s1UzTMVWd0U9Su3A0_7i8g2sws7lG3--YwX-yYGOPeT_M2Ww1nKyHN_YB1n4ZXAEBBCp83RP0RdY8kfLQFm6EDaSYBpp9bd5tCu_lwxV4ufVqorFRhEhCQnc24eiI03R1xfbPiP6CZGhS6x7G7Hwwh1y60WPzWgh2gaIFfPQ",
+          "width": 2988
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112163558251413006250\">Carbo Kuo</a>"
+          ],
+          "photo_reference": "CmRaAAAAMHUoNpCmcpWjbSTx6U_ge5U2p8U2DUuC0bVFePaVlqZRn64RWYCfUngKYQzu8mGlJz6XL4uF1DCpsm96aO9-L-5g6-JZSpffe-yCOOgKV2f4SuFinHVVRnXnEGDKuAegEhDFC0F0bQAVHXzy-QWHwtjBGhTB_Uw_f9WVnNKigadsjtQj4Lco6w",
+          "width": 4048
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110827695173963924260\">Kristal Blatz</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ7hbYXUvYVtPO__NmUgAdfa4E8hy--A-WSxlK4Hl9JCYxj1zBGSl1FBaWZnfF7204qG8d_akd7rL4yr9X0s3x0sHfe7RiwZdEJvp2TanjNffgmKfakv7ujOwT-DeHuMlEhDlxo0L77wySHh-VB4gHSTlGhSv5RSewBNRO33hY4vYvn1xdEdjjg",
+          "width": 3120
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://marketsquarepark.com/",
+      "mood_params": [
+        0.013180303106514982,
+        0.05382957705642809,
+        0.0901590850588495,
+        0.09828293903556747,
+        0.04344746030721992,
+        0.19841906609557974,
+        0.11255618337969815,
+        0.026294463125534042,
+        0.15898321571069615,
+        0.041846087856415026,
+        0.08632317215955618,
+        0.034918103254030206
+      ],
+      "popularity": 0.5035471066900611,
+      "num_google_reviews": 1688,
+      "top_cats": [
+        "food",
+        "nightlife",
+        "amusement",
+        "walking"
+      ],
+      "duration": 1.0,
+      "global_cat_params": [
+        1.2456513174089023,
+        1.1019651881275727,
+        -0.31329750734392914,
+        -0.5631807916070745,
+        0.6040824813975291,
+        -0.8990338713807274,
+        -0.015514487558636157,
+        -0.6737860999245958,
+        -0.42475364530575704,
+        -0.2275363663251055,
+        0.23428077035507866,
+        1.513328164632215,
+        0.7820204693271622,
+        0.6171036452328942,
+        -0.7378908587822248,
+        0.7799323350830105,
+        0.2277344638090954,
+        -0.1381530596365768,
+        0.2764226781264831,
+        -0.31700683187950185,
+        0.7989576795373788,
+        1.2678936264996017,
+        -0.5108077615687342,
+        -0.19815419174647722,
+        -0.6527595749496697,
+        0.8222117896197542,
+        0.654441711983059,
+        0.4855457319439622,
+        1.1406940435401147,
+        0.34367108119593925
+      ],
+      "global_mood_params": [
+        0.14835758103387361,
+        0.09892726756400734,
+        0.4910711169686803,
+        -0.42761350394668846,
+        -0.3267800060376595,
+        0.5618884053217527,
+        -0.014120897032367196,
+        -0.13149273185733268,
+        0.49175078129467853,
+        -0.07283015762843044,
+        -0.12290868761543434,
+        0.5132847623045961
+      ]
+    },
+    {
+      "name": "1940 Air Terminal Museum",
+      "orig_name": "1940 Air Terminal Museum",
+      "place_id": "ChIJDTTSIV2WQIYRB7TLOcD1KY4",
+      "cat_params": [
+        0.10487517076339331,
+        0.05434044955366265,
+        0.27296985887436004,
+        0.3077380400393771,
+        0.14568984310568864,
+        0.16246251919604143,
+        0.35215969704555294,
+        0.274575842388467,
+        0.3370754392011157,
+        0.2691460378341605,
+        0.09126250025573637,
+        0.06881752467720573,
+        0.21358482205711432,
+        0.10362787286558027,
+        0.3638649513810695,
+        0.1537743948343671,
+        0.4130429258457282,
+        0.31688247913552287,
+        0.140629715599399,
+        0.11126415457425327,
+        0.3693402371732646,
+        0.20095415675478867,
+        0.28724423029221113,
+        0.10809504576952346,
+        0.04473803880561263,
+        0.2941600566880415,
+        0.20826435096970447,
+        0.32329824531397844,
+        0.1600055888052179,
+        0.20462671465265575
+      ],
+      "noncat_params": [],
+      "quote": "Spacious museum featuring memorabilia, aircrafts & uniforms from aviation history.",
+      "phone": "(713) 454-1940",
+      "int_phone": "+1 713-454-1940",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.6470846,
+        "lng": -95.2862507
+      },
+      "address": "8325 Travelair St, Houston, TX 77061, United States",
+      "photos": [
+        {
+          "height": 1042,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113053632207114691752\">1940 Air Terminal Museum</a>"
+          ],
+          "photo_reference": "CmRaAAAAeMPc46Br9fu6Lj2dA1qf1uyJO9EA1-vCfqVf3PX3QUCI660OcYfsLizInfbbcDYE-sp_rBcmvvnyOJZOXe9VFF79nvfuscdVkHAZqof2tGwEegUk9NBO3kfTxZ-SpGJDEhAaL6pIUQIJHgxtalKu2oxqGhT5hhs-YZM7m0_Oe6VMWLmTyuKrfw",
+          "width": 1800
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111665792807557924155\">FF G</a>"
+          ],
+          "photo_reference": "CmRaAAAAKDdjYsJ7HqNj363AAhCFSk0rzH3Do4_M6W2kZwG3kfh_PPTpoUTLFzV347gCgUECXpRemskV_bsDnUHobBllaVba9sJ5PrOZz5BstxmShjmjyoIanFT-1_ktadGhhX61EhCsqsBSbEH64Q3_HRNDAKefGhQ0IRGzK3oDoVrfs3cX-VSIJAGPAQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105499402604834821324\">Daniel Maxwell</a>"
+          ],
+          "photo_reference": "CmRaAAAAjDgNuQJrDQWm6ty99V6oh1CXJ277yGRz9u1sC5mSItC4VT07zIlo9Ts_S0uozdp1_fcKsPb9834PaHhPSjGdMuv7MHSkrZ1b4LtBajERFEEWfFDQ_TnGxTLTQ_IYP2utEhD1iewyJL_3IxAOCcZo6qdLGhToNJ_CsVfqY6J9G4hHHHKUYA2rww",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111665792807557924155\">FF G</a>"
+          ],
+          "photo_reference": "CmRaAAAA6SBsMAsJwe1YZaZ_zr68T3KUoQ-_b1m7qbRhZ3Q7w3YImXuS2ER39S6_DsQGEDi566v3Z0oKj_DHIaTKKXKXweV3yMBq_5Vna6beReL9bHawfGKbQG6xogygRrb8jWllEhBpl5uWntgqFU4rFG4Gl3lvGhShBy2HFF7hyN6mfEqemTMvQkBptQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108190057740531153112\">Douglas Anderson</a>"
+          ],
+          "photo_reference": "CmRaAAAALznz3MCbYiMz6mFeXy9rh8LBc51GB8HBsOrW618aCy2CE_cgNa7MPAegQ8BWqoN46gwi5e_5WJ9JIzezVm9N6JVZD8_-B_3SB9dbKI7F9klzoPSZapjb5IU4K88Gf9pMEhDxGLhzymRR3GrrgEl5TRV5GhSeRIhlDYiBOVjIqKhl_aAmeyUNNA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106600149130242892933\">ibdaly</a>"
+          ],
+          "photo_reference": "CmRaAAAAc8us1dUjRx10Wpi0mFaVbnqwMSWunUY7cb5Pp8s_D85UoP0G2tjnAVDjROzB2esB9b2hgOXLaItD4Xqkx2RYZOeNDaGH94-q_7mZyE6lFAiTa961Bgc21HdxnL4U4jsIEhBUCPIRIZWXXsU4_uBgUD3kGhS8JiHWX9G5V05XHifs5pEfdWquQQ",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109159180099761371296\">Daniel Hua</a>"
+          ],
+          "photo_reference": "CmRaAAAA5MZslxrEecz2jR6-Ch661UfYYO-FDEIA1a77VUyR74ruyKGSI7K0afZCFz2K9MHg2S7DXnHybeId_cZbX7u6UeHh7KIWOToYa5V4jFoHoEZpM1_oQ2hFgpEbwXwGzmRXEhD5_UNkN5LzgGCJywXBPWFqGhSeeCMO0aPudV5HeKEP0WNH9CIqQw",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101874931350056933043\">Sammy Yang</a>"
+          ],
+          "photo_reference": "CmRaAAAAkkqkocSCR_lKKN8qo_phese1ey9bjQVV32Eq7YKrDIuKMidRn-2DVgfRestzxPyBHQnDRJF3wMRwjHDuvF2EGczmFacmRCx_fMkqp0Rp6bJO9rbokcSLDiBJdI9WFMUIEhBz8GxH5tU4RayVK6jVC7-BGhT2zvk745vjRpa6ykPSKwVuvkR51w",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110178523458568454713\">Allen Nakagawa</a>"
+          ],
+          "photo_reference": "CmRaAAAA_ckOvOGgvS9ugS7MPXtwb7FlyFkVTeuqgDYoh84x49Fcc9Xj5ynavmEypcgctlAPWGn9bfj9Txo5h4nmMCyk5Hi-AOU8Y4wrsTe7e7cCVhsLG0XO33LWP7b1UZUF80jEEhC2wVm1NTZ7_uuE-8_zWEHNGhShTfo0MGti980Hmd-kfAlsoHXrRg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101874931350056933043\">Sammy Yang</a>"
+          ],
+          "photo_reference": "CmRaAAAARspGj2Eokjuo2AQjVGLTd38oAR7dPJ0CgwF-RKtRmSByVUDJYr2yfeDCn-GKJH0ezf4yh8TX_SJtI5cBWFa1aKF3bF3G-FJWHUm-B90dWQn5kBe92XITnZPLFJJYPF1pEhDWERDqLWMSkPrLJf6WfBV1GhT6fdkTa5pt-8zCh7O8dd_Jkno8Ag",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.1940airterminal.org/",
+      "mood_params": [
+        0.011672545008938783,
+        0.058947345000973074,
+        0.018626379913333914,
+        0.12428672060990342,
+        0.028889055524581993,
+        0.16140560850144325,
+        0.12255952377977752,
+        0.04211408442507928,
+        0.07834388750335003,
+        0.04644655115477003,
+        0.10087444398824562,
+        0.028021046212048442
+      ],
+      "popularity": 0.32883768960360155,
+      "num_google_reviews": 307,
+      "top_cats": [
+        "engineering",
+        "history",
+        "culture",
+        "art"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.6836242857060568,
+        -0.6924636530218806,
+        0.47474568300972353,
+        0.5464370723799771,
+        -0.9818175959136398,
+        0.23124245134487215,
+        -0.49090059605139535,
+        0.7045126337974735,
+        1.930634140658561,
+        -0.555127485674981,
+        0.10102147573776751,
+        -0.6845591151336253,
+        -0.4315690546013965,
+        -0.7502627575469558,
+        0.8017297372244864,
+        -0.1944683609527036,
+        -0.304411816773777,
+        0.24016668418359774,
+        -0.3212222037862754,
+        -0.4859592530008306,
+        -0.8204906467733373,
+        -0.5306577158840228,
+        0.3405190763770643,
+        -0.5608182486309559,
+        0.4946967209346957,
+        -0.44790567885858795,
+        -0.767593895963827,
+        -0.6310283936619135,
+        -0.8402703434379835,
+        -0.8602326026599397
+      ],
+      "global_mood_params": [
+        0.04691279902137744,
+        0.2522505597206595,
+        -0.7968485842371846,
+        -0.02672734365649767,
+        -0.6462968852889747,
+        0.09644354689661454,
+        0.17518834787731002,
+        0.49932622228776424,
+        -0.5750014713265669,
+        0.10595845941039855,
+        0.21381069404703587,
+        0.0916478489812559
+      ]
+    },
+    {
+      "name": "Memorial Park",
+      "orig_name": "Memorial Park",
+      "place_id": "ChIJDyV1iizBQIYRNjvTwnIlaQs",
+      "cat_params": [
+        0.2444869739737857,
+        0.17498676840027527,
+        0.12985189580285603,
+        0.10760849586630857,
+        0.4747322218262838,
+        0.09515983672124005,
+        0.423182754328996,
+        0.13495367285336018,
+        0.19059444609478157,
+        0.3123375135366631,
+        0.09415797657066913,
+        0.12120779075371589,
+        0.3059169846680574,
+        0.4931991241930703,
+        0.24899923574677668,
+        0.18486594333928533,
+        0.454185638549067,
+        0.2756651726707803,
+        0.17490994779216354,
+        0.12950459481184703,
+        0.7391330365340633,
+        0.26620575718224254,
+        0.21456473880992025,
+        0.1281450185961496,
+        0.016699787361436368,
+        0.3156048963547504,
+        0.4571328547489588,
+        0.5018327315686275,
+        0.5600346128613322,
+        0.3844945743882916
+      ],
+      "noncat_params": [],
+      "quote": "Expansive city park with lush natural features, popular running trail, golf course & lots of shade.",
+      "phone": "(713) 863-8403",
+      "int_phone": "+1 713-863-8403",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7667498,
+        "lng": -95.44104689999999
+      },
+      "address": "6501 Memorial Dr, Houston, TX 77007, United States",
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105742506225174022379\">info crocro</a>"
+          ],
+          "photo_reference": "CmRaAAAAYEvuZqlSi6MzgYurfTFBbuVnKfD0YIYe_8blXNCJ7M85LvgM-pyjSnyUFy-QzcoYPbEwChP03FYh16djKiLoI26XjbK6y_bNSjcdTdOA1yATguJC0MSRh1qup6Oc58PJEhACyLcPLdDLBu0uCADM9AE4GhQ5zdNv1W6MBLQ57tkqoAaJjZJTAA",
+          "width": 800
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112170420500224896708\">L. E. Gonzalez-Cort\u00e9s</a>"
+          ],
+          "photo_reference": "CmRaAAAAHElmS6IxgDKbeESdhdwMdrcF60WHHDtJODwM0WuABhQzBDewS-e4lHLsRq8eOqKDJY3ROvcUi5t5YymJJw64CZLjjLNzUS8eRVT5vNFam92GCt5h42TO4z2rxz-6QaDeEhD5fX-AulC_ZwkSwPb5FJrPGhRwWGD7Z-8EQ2ECiNgtm7KbdF4Z8g",
+          "width": 2448
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110456208639844954185\">Noor Saba</a>"
+          ],
+          "photo_reference": "CmRaAAAAEokKUB7b06iTQP0rIZ8OdkKRvz41vqs0OAh2XC4plULuIj29u6Fj883fgn5y48O2ycRbToiGB4x_4QAN2b33kv0w53gAl0wb9cLC7figLBQeRdGH7V4FjoI-hNfuhbUCEhABBWcJ-xmLtvdwn9HysL7TGhRoOOOOeG5DHqEOvW2Exdtqe_WT8A",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111710294940872555858\">inlak ech</a>"
+          ],
+          "photo_reference": "CmRaAAAAeCK6usGM_l2VCpgl_PV4JQwPwI6rcJ3GKaAeeciLrFsZn2py-fOysbp4zGIwJEUtYqOpo4nODzf28YMZq22pnzGaXuSl9odRi9ZY39Y0OTtL6EqdmPqnICwdQ-lo57CoEhAOUZN5nrVcwYsgyOjMqj3bGhQTuqdIVpS5mEZQYx4Rk0yyXNy2wA",
+          "width": 4032
+        },
+        {
+          "height": 1936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102005330294075295253\">Tanvir Mahmud</a>"
+          ],
+          "photo_reference": "CmRaAAAATCRHQiUk5nVRj-MNGhFVIx3Fa0fzHgW9xu9b9yHXGf1tZBhw40Fx78wLhWI_KQQsvpfyw2Bf_gDl15NyVlSuoAHGHseOhvJxypQF76jyC91jC1ZoRlu2KVEIAQgg9H7UEhBO8tChuL0S1l_P1eSA-pCuGhTGZV1tlpZcDTnEXP8_7m-ZmR7YgA",
+          "width": 2592
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117308081334615836904\">Tiffany Grant</a>"
+          ],
+          "photo_reference": "CmRaAAAAbQUYXpAG1yxzZ0Gk4TV-AEOmYFUYXpcddDDoxhgyjAFhNK1-zRFcNZzLABvAnGXEa4Lld3aMcQMkdq86lLrDtCpbuXL7rSBFiYHSgAv205AbTh5ew0I3dF1rHzNoVXtuEhCwEM0pLfwgoAP4Z_U7cXyAGhQyQoRInugJSZ77LXofZxDrVE3HoQ",
+          "width": 4160
+        },
+        {
+          "height": 12096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107789126755545938715\">Kelly Watkins</a>"
+          ],
+          "photo_reference": "CmRaAAAAnkt73Iz_jvYgZ97CAnEfRoWJGD56ElOSlBQcQ26IfbjrW9nvZc33zyGrBxLjvoA9LhPy5pPN2pfDWpM6XHKWxUo5EdUQNJ-WfRRpsKyx2wbmAL4ppqGwLHA7TZnt4ypPEhAGAwysi5tpCasaQP5TFoNfGhROgBH9MCthYQbal6hPdtoT8Svm7w",
+          "width": 9072
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101345311121047915627\">Nigel Alley</a>"
+          ],
+          "photo_reference": "CmRaAAAAQVSsTLBtd8SXYHoInc4P424nHhxxTWHUipZxZ6vvWXpS81PO8920hK_KtEqxENYxbJ-4aBsZC4kqJWaRXgoeV0h6EmGku5gInI-2vRVy6ouIGhwVtqE3R3QmPolhWSkPEhCnUXdI8OUdDKzW2xI02e1ZGhSg-1akz0gngXKOd_nJfIH0qkPtLQ",
+          "width": 4032
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103476908474087746052\">Andr\u00e9s Veloz Haro</a>"
+          ],
+          "photo_reference": "CmRaAAAAoGTRlgqol4aX3h7-zt89h7NVeub1jOp2y_4n27lALuXqj0lnvdF_dGhAWfkUiK_HQ27YwJfOrpux16T_JZZU9i-AwGezY8uauTGoY7XpHS-a1rAg3uKz0e8XRdoFcwhqEhCNq2MRqWBB_yb268FVWFZIGhR3jJkM7bgIb0aNU1gBERXFJRqh-A",
+          "width": 3456
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109271329292371306854\">Candace Coelho</a>"
+          ],
+          "photo_reference": "CmRaAAAAjsRbfYheC70z0LfT6BDJPaUBlHKvojks0LR3l_-S0RjFd_fA4BzLIVL3bIv-OpzCB-nm4XC2fKDuUbzEf6bUPRTsblDisArrK-P0PjHnJXuIt-klrzHUV_aOIrTY6tFrEhBCFKmSMNljb_44U7P296r3GhTdUJJnV9fr3SXgsG3REYNYSAKN0Q",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.memorialparkconservancy.org/",
+      "mood_params": [
+        0.009262763105708238,
+        0.038374307449989445,
+        0.05676138434330293,
+        0.07751247101261476,
+        0.03784421378424852,
+        0.18294824677935564,
+        0.12537507691557956,
+        0.018553921564159043,
+        0.11899424549468926,
+        0.03587313521023256,
+        0.09830286922185384,
+        0.03629597764114712
+      ],
+      "popularity": 0.6619186662440607,
+      "num_google_reviews": 5040,
+      "top_cats": [
+        "hiking",
+        "walking",
+        "sport",
+        "beach"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        1.0103456907111452,
+        0.7500701988896675,
+        -0.9311577197814381,
+        -0.8837328505281279,
+        1.047829373357238,
+        -0.6666203661982478,
+        0.264915046350212,
+        -0.8461045350741,
+        -0.23714207949473384,
+        -0.09588811917281165,
+        0.160571243021548,
+        -0.18699888564471562,
+        0.5661899084195031,
+        2.1123177664853725,
+        -0.44732128914821256,
+        0.16967234821027333,
+        -0.08116972345354921,
+        -0.19095072596484391,
+        0.11635059761213747,
+        -0.12250251493199069,
+        0.9829918714555803,
+        0.10680250104584049,
+        -0.4789296292281752,
+        -0.37378341803708975,
+        -0.3125895710631278,
+        -0.2888401142961456,
+        1.5642825861688874,
+        0.5288009846918912,
+        1.5744763847407437,
+        0.37656280215399995
+      ],
+      "global_mood_params": [
+        -0.11522183004402965,
+        -0.3640974031332298,
+        -0.11024203956621095,
+        -0.7478205149673282,
+        -0.44975583130326274,
+        0.3673425894371664,
+        0.22847157296255535,
+        -0.4401524803940185,
+        -0.037250699821865955,
+        -0.3049580704043515,
+        0.15430393234040385,
+        0.5975181824423443
+      ]
+    },
+    {
+      "name": "Children's Museum of Houston",
+      "orig_name": "Children's Museum of Houston",
+      "place_id": "ChIJoXCzG4O_QIYRepGQdokq9qQ",
+      "cat_params": [
+        0.16471874128399408,
+        0.08171168588924985,
+        0.18000117351695358,
+        0.13288029053441394,
+        0.20903459642999359,
+        0.11175280354020996,
+        0.3981679801500549,
+        0.17130078340628405,
+        0.18582724353134603,
+        0.39586741382536383,
+        0.11392194210980282,
+        0.09126006768667026,
+        0.2900182627771603,
+        0.11039259482282261,
+        0.28003318517421266,
+        0.10493998618114217,
+        0.34842848894948597,
+        0.23588713606722614,
+        0.1342168587643515,
+        0.1255089345187741,
+        0.4163919910281411,
+        0.264653365213706,
+        0.1882545832862691,
+        0.13864783423864313,
+        0.041011373169357705,
+        0.2967944045817503,
+        0.28922299345420704,
+        0.3071596439916688,
+        0.23951535388212652,
+        0.23781659492419294
+      ],
+      "noncat_params": [],
+      "quote": "Bustling family museum with a wealth of hands-on activities such as a Bubble Lab & a Tot Spot.",
+      "phone": "(713) 522-1138",
+      "int_phone": "+1 713-522-1138",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7225775,
+        "lng": -95.38529109999999
+      },
+      "address": "1500 Binz St, Houston, TX 77004, United States",
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105099114565512600387\">Children&#39;s Museum of Houston</a>"
+          ],
+          "photo_reference": "CmRaAAAAgzmaGzqZd1Rv1__jSKyTEOQkfVF0_9T55d9cPVzzgjewFxY9ncgJn7iNp0sBxnqZZq4Pnu1Z6Z8FCrmWCkMr8qij9zB2IjVBrxn8p5wjMQDxbsdKD9cc3cGvWs3ziu5VEhBdZOsNR37HOub9Ou0rESnMGhRXM9WFibzw1SDE1pKYCv2jHFpTyQ",
+          "width": 2048
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102164271696072096518\">Patricia Iriarte</a>"
+          ],
+          "photo_reference": "CmRaAAAAuLHsWpYSQy-mLp28v-z13CFSqzLp5AC-MYTQjbHKuBACzbpoI0V3LzILThVXhIUmsvojOfDGhO-HR6MYTgEge4wNMhjmQcUx_zWvE_GWh37HkU5ThNfk5Jh5vQGSuzwDEhBL3iMQ_i-4YjTCRM5xNGcHGhQATTXGMfpiP67Q0YlAwFFGlO9Qlg",
+          "width": 4160
+        },
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105099114565512600387\">Children&#39;s Museum of Houston</a>"
+          ],
+          "photo_reference": "CmRaAAAAe0JV7BpS9sWnK9dIVuM0PX74fT9Qq5-S9T7y3ics6n4ryaWTS_1QPaKXgqKOMHyHviSCiwUVopRFGaO1YZXYFlghfPQKIQrbLF-uXiqiRe9t_tYCP1Edx5i7PMUgZDQoEhDFGqw8R8JV22dIKwetVbv0GhT_HztV9wJ-c_S4dGjis09jFhyKeQ",
+          "width": 1000
+        },
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105099114565512600387\">Children&#39;s Museum of Houston</a>"
+          ],
+          "photo_reference": "CmRaAAAAaub2e0xBjhksJgBOJIV-VfsMLrVK0gqHTYuZg12avzUCy87H8LU-weELiyWkvYdd5m64pnwGGSkzn_KCnpHVLRrdm7NLCCG2nBMs9gYivh8sV_11LZHi5ZKivm_ckDz8EhD6VGvZcL5Zs--uJ69Y7N0pGhQH1El0bmSEa7We49JjpyOs_I0qbA",
+          "width": 2000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101952474689092407958\">Andre Carstens</a>"
+          ],
+          "photo_reference": "CmRaAAAAKntZ-8iiyXJEMl5SVui82J92_I6FjxHPNsGiDYBN8TMp3TOmTSbZAk6i4rh0QCjeeydHBA-VObZJPv7MdMWwX1BDUldrCiVsJwMZ24R0R1G01WiuTcx7ZR3jwENoihgzEhBxDYMvGZ4FeSgtyUp-LS6sGhSl0H5M0B8It3xZkfzllxiEvWPQPg",
+          "width": 4032
+        },
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103312972637416296915\">Linny Lou</a>"
+          ],
+          "photo_reference": "CmRZAAAAlor4hT9WfHPEsTiE8oGoEHVanDu2AmdejMOMQHFmJ5hUoldsTOfqDEnl8sW5yUq8FSVIWO7bG6MbFgxAQV6nM2E-4EbFT9HOuscyCFbEsJD7HaqUu6cxyoBVq0B21CA6EhBNluUhCY3a-_QzjB3w4iUQGhQF152TFN6XMmwPws5KvHOLElhQEA",
+          "width": 2048
+        },
+        {
+          "height": 1496,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105099114565512600387\">Children&#39;s Museum of Houston</a>"
+          ],
+          "photo_reference": "CmRaAAAAVHcB70hR6GmPbdDKvwX4IpwvPzlR8ijj6szVvvQqpCb5QmPqv2tEY_UwsVldmJwt22fKhN5tpyeLijhqDb8dZFNpvOyKLjDWmiQvftLZSeeW5Ri5BWdisc1LnnqIZfb0EhCCw3N-5f48nxSqpg27j7ObGhQ3OME1iyy4LdTZKzE7J8GDdhxzNQ",
+          "width": 2256
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105101653800354781165\">san MN</a>"
+          ],
+          "photo_reference": "CmRaAAAAv6CpDJINm80jtBSseyjHawlBo5iGLIk9gGIf4fvTmLUVk93pPhJK3leHyuuDmHzSj7FYMuhS-VUpRbPEQZWFSL_28kceusSz51YOSv6UB-7c9WEx0u2Epu5FW2JNFS80EhAfYF0lw8jGi42H49kofxg-GhQ5Cuck8NyXvDcimJNShj_lWt0jUw",
+          "width": 4032
+        },
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111839529483074489187\">Michelle plays with me</a>"
+          ],
+          "photo_reference": "CmRaAAAAFOUzVKZLrThXOl9LJYzxRRSE_vnAWLQCXlIymKkh1u0jL87PT_jUVVTYNmRbdRQaE4HuJ--L1sqKoiegS3ticQItPMwoPlOl-5CNVFppf1eQ3czBwox_-4y9PabdC3nuEhBRaJSwk0Od-1NdkkYYDP6QGhQ7mXRTdPfn5Eu7c7qmCxMzdzgTqQ",
+          "width": 1536
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111607884777581305611\">Anish</a>"
+          ],
+          "photo_reference": "CmRaAAAAmRDBtkohS5S639czWBUgxusnb-3yCrwiax9378PSbWtrGlO5Oam2qvAtsUGMcHtOTJzYJGmhVN_psqfuBFRuWfLO7Q_W3OaELe5psTUwSqOI1sdNA3yngkxf_ECsEoVxEhAHgwmHzcXNkoU6YB_yEkltGhRfJgj9gIYDHdW5mMdQjKYI30uhRA",
+          "width": 3456
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://www.cmhouston.org/?utm_source=google&utm_medium=organic&utm_campaign=gmbhouston",
+      "mood_params": [
+        0.028434931775006306,
+        0.0637643201904854,
+        0.012871873469919444,
+        0.08224858376131193,
+        0.013797835288409997,
+        0.1532637600894249,
+        0.09246545952762278,
+        0.0416472360672258,
+        0.07624607313120456,
+        0.04698331619139897,
+        0.059873594740073165,
+        0.03699560323523403
+      ],
+      "popularity": 0.6695665788484318,
+      "num_google_reviews": 5277,
+      "top_cats": [
+        "family",
+        "fashion",
+        "friends",
+        "science"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        0.04248346028971491,
+        -0.36519353520788395,
+        -0.4385218642072271,
+        -0.7031350243472122,
+        -0.5910852923611561,
+        -0.44525908620680293,
+        -0.0012880479510385485,
+        -0.4424404618835918,
+        -0.3076920405136869,
+        0.7922551514297632,
+        0.5670465239244766,
+        -0.4714180550405836,
+        0.39438528672921597,
+        -0.7005553901287755,
+        -0.1098577895244417,
+        -0.7664114468921835,
+        -0.6550124749130322,
+        -0.6070139186429847,
+        -0.40307963446234213,
+        -0.2021195437775101,
+        -0.5910188569603432,
+        0.09163677155352437,
+        -0.7755720856958537,
+        -0.27580860473242064,
+        0.3873973735057806,
+        -0.428365591757019,
+        -0.009018376891898794,
+        -0.7358710172458872,
+        -0.3603153063484947,
+        -0.6320145571097525
+      ],
+      "global_mood_params": [
+        1.1747175007347657,
+        0.3965623968918167,
+        -0.9004563284726788,
+        -0.6748064401067522,
+        -0.9775075959367838,
+        -0.0059403352849610215,
+        -0.39432986823713123,
+        0.4807103030271714,
+        -0.6027527963538944,
+        0.12681885375546362,
+        -0.7349572740738787,
+        0.6402883051450053
+      ]
+    },
+    {
+      "name": "Holocaust Museum Houston",
+      "orig_name": "Holocaust Museum Houston",
+      "place_id": "ChIJtVsIj4K_QIYRKc7VJqZrSI4",
+      "cat_params": [
+        0.10628940200382839,
+        0.071651992148434,
+        0.24756214953246503,
+        0.26170280654893,
+        0.10970247298075653,
+        0.21556077674433247,
+        0.3808404396978526,
+        0.28723851364081143,
+        0.1736655224055177,
+        0.33936998820146586,
+        0.05538100972410003,
+        0.04737611444536227,
+        0.2269472382354278,
+        0.08402676840160977,
+        0.4126482697728624,
+        0.12601140520540907,
+        0.3710896668736522,
+        0.3135809906288031,
+        0.1468294143090508,
+        0.1820493789477912,
+        0.3416208488208218,
+        0.17108097363163888,
+        0.29186848360016937,
+        0.11418166189363729,
+        0.06951493324625489,
+        0.23656838422117923,
+        0.21729356086183982,
+        0.32092050415294604,
+        0.1282860057104561,
+        0.15496371701010794
+      ],
+      "noncat_params": [],
+      "quote": "This somber museum documents the Holocaust through exhibits of artifacts, photographs & film.",
+      "phone": "(713) 942-8000",
+      "int_phone": "+1 713-942-8000",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7251287,
+        "lng": -95.3856342
+      },
+      "address": "5401 Caroline St, Houston, TX 77004, United States",
+      "photos": [
+        {
+          "height": 2500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110466330749482025052\">Holocaust Museum Houston</a>"
+          ],
+          "photo_reference": "CmRaAAAAyunM-9QUyjnXcUztLBAhwKxKuzadaa-8Jk0mNjjstwFTbGg5ZY9IyGpx0lT4XF4I5cvRtJpR2Cety4LVpfAkedODe7m0mNKld--vloJwEI3zODuCx3ttHF-qyKC1At8sEhCAdQSkAO9WJaukXwsEfyCpGhTZLF6y-P-x99kYk1QN5GKno_THng",
+          "width": 3750
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101800665868741697925\">Mauro Castillo</a>"
+          ],
+          "photo_reference": "CmRaAAAAcJrGTvF_Sb0uP1r_hpOhQQC6FffyKPXGx6R9k1A0vMsHtwXDHDdSJu-yPGI6i1F7FvuLDm7CAX6MBRrSASxPfHjYgBTUhIhFsOWG4WCJnwMgpeRmu8jsDPTsTpAxeW59EhCWKPG_YoO5F1PAJEYfDLS8GhQIoCTZBp2mApTXBPi2AGv6ogVCRQ",
+          "width": 4032
+        },
+        {
+          "height": 2899,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110466330749482025052\">Holocaust Museum Houston</a>"
+          ],
+          "photo_reference": "CmRaAAAAKDd0aeeoqMWwIennOpF5OPkciOYwNc7zmEjqNwAt5R3q1_CXJdxw13w4RdVRetVs4gjB1ZCdRzs7dxYdK4bZk5S0FxeKEUizoI6MKrhOqglT3O-VaQ4p5c_MG3X6LIk-EhDBG9cDPURboRpJVpXjAHa-GhSQDsOIbQFU0YYx9yq9bK2cIfMwRg",
+          "width": 5880
+        },
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106877960409409987995\">Carlos Ramirez</a>"
+          ],
+          "photo_reference": "CmRaAAAAXjX19RuVa1czyCAwFECE1eJ8fKW00IDBaCKS8ABVWYsSwaDVlcIiGBs7uPXMppTRM0kYX-1Toq6hiMYUfU5J5OIijS3_Y7SFviXMSomTZTgF6vwFiJT18LzFaxidi8fHEhDSaAJZY-Ui-FMXRyB6iP1fGhReFN62q52NSfqBcfhPETI1KiDppA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107670255569396936026\">Jake Tucker</a>"
+          ],
+          "photo_reference": "CmRaAAAAWdi1F6h4bjjFfbJTu-3D67DwoDbhUFLH_PhD3uZ1viqEZWsFnUztZwEzvEdme0JFdN6QC-lkuODKzUWUvDYxNqxtTBGZNx6oZsv47MslIZRktZ-QcrZwg1gHNeXvhKxMEhCKgVP1OF6Hwbgpn6eApKfbGhSehGCH8AaUzzSC2rdEewaDLGMS3g",
+          "width": 4032
+        },
+        {
+          "height": 4656,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116587829304274502947\">Roberto Olivas</a>"
+          ],
+          "photo_reference": "CmRaAAAAosleL4G_AEGYIBOEvSyNTAJx2K2tjUNdzfCbO2tHbDkVD2wPvqbVPRdQ8qOSzvwZN1P3H0ONFo6q8YQKNzA-DT4erI6goy_iXD3ubfn6bLVi6KhH9END32TfzXgzbYoxEhAE6iwEKM4Lj0FRoIgB5uLKGhTF6HwZkhZYWTuswMv45QteoEkMvQ",
+          "width": 3492
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112762458923742992976\">Heather Childress</a>"
+          ],
+          "photo_reference": "CmRaAAAAA9eeW9MFMY6h7Zk_hd-zHNp-FSsubwSqogKEa8dBMEhiiKomsxQnr1bNwGpFmWRDERg9WiA0ZxO7g6eJ2xDSHZXF1jshDe7KCFW1cZyZ8mqmdq0fdzvMmtUTnY7xhXyJEhDaUBiuOsInCZstv-Y3x93oGhQ1m9zwgbfROBngp7Yel3k_K1Q4fQ",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112387803587800082120\">Reg Veas</a>"
+          ],
+          "photo_reference": "CmRaAAAAq9tYHX4avwX99Z6w3VLT9XRcvIoCn1PI-RH7n8r4wEdTxarkTevjqilfztjNLXft2yAiYJ8gxXpGArmWw72tcS2GzUtwurk_U-GupLD52twI8x6G8XTy5zrT1lV3znf6EhA4uGIKSyZ3qExwPHKpvPVTGhRaPtedB9yCqZy9Q8iSMKdjYgJLuA",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117802402451219692805\">jose cabrera</a>"
+          ],
+          "photo_reference": "CmRaAAAAhMIz8-YsQvfXWYLloSugNhE02QkJQ_4Cx-QBRvw0UpToCsyda1rUcV8T4Ug9lDVMOVr4Sn8dp6OSlfPC_x7LZmdj8Za9EX5O9NuFXtZ7VyzJcE73yVdlDzNY_rd0w_cCEhCp5SHrdCtcFLoM4PJN4queGhSCN8CEVStz-66Iw6rDD3TSTMEXKg",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111244298701986542641\">Melonie Wallace</a>"
+          ],
+          "photo_reference": "CmRaAAAAxgbo6G0-JD4VqyQ_1Ex2kEMkScoW2--Lkq3n2u1wkXn_SpmnukMSdhc8cmwCutIwNC6Hr2QkbmhAy4yqTiYLVRrFpUiIRWGFG7KzdNcM7FO4k9Gy8_-2lEVVz753dPKqEhACU-4ZgD8-nscOER9afpNIGhSCgCJACTFqDr1DvHslJy-GzYmY5Q",
+          "width": 5312
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://hmh.org/",
+      "mood_params": [
+        0.005337673840864866,
+        0.03984362882869826,
+        0.012969229073178098,
+        0.12763305545656078,
+        0.021215275143989132,
+        0.11818906652356943,
+        0.12463833988797406,
+        0.04067682547823504,
+        0.03809490362777989,
+        0.0916404300200441,
+        0.11468518223578215,
+        0.057623135793004605
+      ],
+      "popularity": 0.4687883471600869,
+      "num_google_reviews": 1268,
+      "top_cats": [
+        "history",
+        "science",
+        "books",
+        "movies"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.6664648106049578,
+        -0.48547444306914367,
+        0.22515587433523648,
+        0.21745912659925026,
+        -1.203800116797738,
+        0.9396087359545335,
+        -0.18568487088496444,
+        0.8451418441373454,
+        -0.4876736838219653,
+        0.19153842363759396,
+        -0.636934624933614,
+        -0.8881922285814915,
+        -0.2871722362824501,
+        -0.8942922250625576,
+        1.3322000657351438,
+        -0.5196253640004599,
+        -0.5320519683132215,
+        0.20563436519595643,
+        -0.24208564727307133,
+        0.9244983028016127,
+        -0.955678331325446,
+        -0.822496776831507,
+        0.39265673323615824,
+        -0.5040396571831046,
+        1.2080809802930708,
+        -0.875087790611938,
+        -0.682990975626482,
+        -0.6464751239297732,
+        -1.0317433488730217,
+        -1.2017220013989152
+      ],
+      "global_mood_params": [
+        -0.37930916971192463,
+        -0.3200779803182674,
+        -0.8987034771132266,
+        0.024861281016680895,
+        -0.8147152247894048,
+        -0.4470052030980911,
+        0.2145291172612687,
+        0.44201447199257676,
+        -1.107442591180406,
+        1.8623361494208683,
+        0.5333939784334951,
+        1.9013086365987302
+      ]
+    },
+    {
+      "name": "The Menil Collection",
+      "orig_name": "The Menil Collection",
+      "place_id": "ChIJJzfbZH-_QIYRux-QWCrEx4w",
+      "cat_params": [
+        0.10274200281108029,
+        0.06529926630647788,
+        0.3387410851883676,
+        0.5625577389465001,
+        0.17753183401003458,
+        0.26560964453682856,
+        0.3394401300531161,
+        0.29742507010315977,
+        0.1663063634579132,
+        0.27507523295305564,
+        0.0824859723719959,
+        0.08650970134003567,
+        0.23145336708647615,
+        0.10972344402211452,
+        0.24756473785600788,
+        0.17359701803750482,
+        0.5205676576828322,
+        0.2420938800960996,
+        0.2169104442246799,
+        0.1215188035313248,
+        0.5024009146200163,
+        0.16826820266265818,
+        0.3727235553046156,
+        0.12696931582170512,
+        0.011338937633426836,
+        0.41430322453241647,
+        0.21037425260927656,
+        0.3266662779998626,
+        0.21432442217124473,
+        0.19853684489155943
+      ],
+      "noncat_params": [],
+      "quote": "Over 16,000 pieces of art & artifacts from the Paleolithic era to the present in a historic space.",
+      "phone": "(713) 525-9400",
+      "int_phone": "+1 713-525-9400",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.73734,
+        "lng": -95.39851
+      },
+      "address": "1533 Sul Ross St, Houston, TX 77006, United States",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113991098580112929098\">Eddie Rawls</a>"
+          ],
+          "photo_reference": "CmRaAAAA2OHmEP6Vl8k3I0n1ONzS9oZU5iJxT1uBC01IfWiG1s7AwTFVDYNkK-czV_4DQnaWfg7Z-5IcWCwKwJIicMXvOzkYziAdyVDV9Zzdd6guM0wTlnBqtVG8C6mzjRFOEPFnEhAQs396emiB_a2AeCYpig7yGhS8AJggYuLFvX-BwoS4tZMNqN-nNQ",
+          "width": 5312
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112289365992565730661\">Mauro Silva</a>"
+          ],
+          "photo_reference": "CmRaAAAABLfjmX2aRUpEJsuJHO_wzrOwC430KfZvYjIMrBYeptnYyCoEmtbp3l0xKkrjhev0NR9tHxi_72embqm7-_xCL26-0DyU3LBqdOHkrOHEVPE285d7mqp_aQ8E1viJYCFJEhCMgN0M-z9Y2AeyBsaZVpPIGhRTFqPBbXm5Djf8B-c9riSJ72-NDQ",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105152884821784708535\">Rachel Berg</a>"
+          ],
+          "photo_reference": "CmRaAAAAKSK1t21aOtyQBDtT5rRGqYXZkHpPM4NQ5p3VDWnq2b8jdIhmxDxpd7HrGJhNHwlzdJ_oXgDX5Uytjk9dqTtlV4Plc73Y2XnOm3bkwhJRINREkiUHH8NfIx2ClL1H0JG9EhADjUraWKJDZ8ULTq8sAO7YGhQdQfPOazs1CdgF4avNArpBOL7d8Q",
+          "width": 4032
+        },
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102695800872338245901\">Austin Johnson</a>"
+          ],
+          "photo_reference": "CmRaAAAAamw7uoKZPmDxU3tLOCThHvlNCWFRJnjgJdrucNLAlx0rkwcT-8sIrqdEJGo3V8mzE6pb9fiRQW__TTiCONqHb_YJW4IU_21HiH66JPcDYXGtIVrg55hJMWYKHHkoLCWmEhCznGXX8hx8ZOtN5tIus8OMGhQfrRNqt_UKWV4LWJHGWeCJCBR8tw",
+          "width": 4656
+        },
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101190188159445191534\">Ben Mengden</a>"
+          ],
+          "photo_reference": "CmRaAAAAPuOJSgQtwyZu8j9HV-CK9XWfkruM3L8cQcSvqcqcuuMUmKBBhDRM67_f_hhtk1eJ2vFKOYeswQFg-bQ3omqZ-nXaKmeSmfPdCzFAIU_DTXhUGvEASYfv378XmUNrw0XGEhCrAuAQzNw64_kZAFOC00zmGhTLwcVFuHd29ll3m4ZyuGDZahS35Q",
+          "width": 4048
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107962346723103048074\">Vijay Ramamoorthi</a>"
+          ],
+          "photo_reference": "CmRaAAAAnyFBW6NGN1SWaf0E1s8HFmu6lEHJXECk6EXUDwv04ndE9gXnSNoym3k98RzvgXtF9DmccbD3sWeHZOKgBzWswAwE_fgcBxWYa23nxTgV7EOpcsV5tgSp6uTM6p1_roy7EhAgI4bx-n1mRRipAwByXPnrGhTZ9QBYE8xXBY_qxffQcUAZoV3qtA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116666343360410492472\">LaTonya Forbes</a>"
+          ],
+          "photo_reference": "CmRaAAAAHypqm2CFrpfXlJbdvJjKTyBl1nMI9JiyNA_goCObKp445qZG8o70418t9CZgZF6wlkwB0eakSwT2nykEjpiPdscsFNZg5MAmxy6NGEBKixCr4Qn6lgzOie1LlxzNDF23EhCkDcY9nEoyiRURJ19qbi6KGhQVFoGqFa_fMJ2wqRVGi7J3rKZQ8Q",
+          "width": 3024
+        },
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117345351955901320768\">kurroth</a>"
+          ],
+          "photo_reference": "CmRaAAAAWHNmvixfUGydugr5H3cqMX1rRULy3-zYcR_WRh9PLzgMVI_LBismu5hIxsO8YAkTyw15bAQg10mFE9GTY0J0EJ8YAoQsrkte42iDZBHvfl1ksvxxkYVPM_VoI3hss_uBEhD3jDi9Iy-O0FgL8Ikarj0IGhRqR0dkNAv0084QxPI5N7jxXO1jNQ",
+          "width": 3456
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116309567135046631506\">Hector Barocio</a>"
+          ],
+          "photo_reference": "CmRZAAAARxxIehiZHEA_YMy_DpHb38fm18RhzOsJrKE0UlfjSaS4lNfVNrp_bgteZ-YxGcbHkacY-OYdRSeVoT8bsKRvO9XyaHJs7rKd0rUZVKRCOvbv47yP2iEU7cH-8ca1r49NEhBLW4qg7qp8bMPbbm2OgOEPGhS1AOQ84wH6u7nuy0gO7wd6MV95CA",
+          "width": 1836
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111959269232138945649\">Javier Vela</a>"
+          ],
+          "photo_reference": "CmRaAAAA27savW08G8M8f9mDX9p28FNIYvkoKMW8cQhQjviJr1Shth2BjUPr0AK_DqpsBHLohLsgERHomExFiw3nWrms1H77azmFs6m2HPri85iAidDePQ1p2347YXiX74U7qIpkEhCAEWzkd592CzdHOfkc5M2YGhTOuzZRjm16lt8H7g5Tt1hXw__UPg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.7,
+      "website": "http://www.menil.org/",
+      "mood_params": [
+        0.005876211361011477,
+        0.06067795927723129,
+        0.06281397896166539,
+        0.1364901592039932,
+        0.06508486706906541,
+        0.17502697732889033,
+        0.1347165860845001,
+        0.04064833315690796,
+        0.11337438506772382,
+        0.041240159773621436,
+        0.09785555349648012,
+        0.02881897042315722
+      ],
+      "popularity": 0.5414168504917893,
+      "num_google_reviews": 2256,
+      "top_cats": [
+        "art",
+        "books",
+        "original",
+        "architecture"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.7095069287403862,
+        -0.5614321860532951,
+        1.1208420142886444,
+        2.367434919785801,
+        -0.7854052049448912,
+        1.6072941208251648,
+        -0.6262601266766715,
+        0.9582717961699657,
+        -0.5965820782056974,
+        -0.4920844947611194,
+        -0.079480844499134,
+        -0.5165331794061696,
+        -0.23847814830137112,
+        -0.7054723290538641,
+        -0.4629200346302745,
+        0.037691966138088735,
+        0.27902191041123825,
+        -0.5420937275705489,
+        0.6524693374373388,
+        -0.2816263963685325,
+        -0.1715526305282518,
+        -0.8499754835653583,
+        1.3042836928987942,
+        -0.3847508827388344,
+        -0.4669408688785005,
+        0.44324767637741536,
+        -0.747824299015169,
+        -0.6091483449481173,
+        -0.5123785724381389,
+        -0.9021073597594542
+      ],
+      "global_mood_params": [
+        -0.34307535911283266,
+        0.3040980606555232,
+        -0.001267328816154919,
+        0.1614064332073279,
+        0.1481014653087823,
+        0.26773249144666517,
+        0.40525592462484034,
+        0.4408783198685539,
+        -0.11159406184080005,
+        -0.09637844764226271,
+        0.14395295572276032,
+        0.1404272485700981
+      ]
+    },
+    {
+      "name": "McGovern Centennial Gardens",
+      "orig_name": "McGovern Centennial Gardens",
+      "place_id": "ChIJK5qZwoO_QIYRF4P0H-ZPZ3I",
+      "cat_params": [
+        0.1909617565004442,
+        0.11070451070185082,
+        0.23209533759912002,
+        0.30741803321281713,
+        0.5625968627114215,
+        0.08995344240057218,
+        0.42826090916350534,
+        0.18946353490956697,
+        0.17790442719069838,
+        0.3496342505809286,
+        0.08292692399460229,
+        0.22867821385041243,
+        0.3268165783327384,
+        0.36087144951316547,
+        0.21241273458377719,
+        0.29793336266405074,
+        0.6950570042921415,
+        0.25741225285643116,
+        0.1529338746542738,
+        0.1181233917262456,
+        0.9281542403252064,
+        0.2975143049517887,
+        0.22885556723925848,
+        0.14453908881665423,
+        0.01884255433153414,
+        0.36948866557657883,
+        0.3391677680551815,
+        0.5706488226761286,
+        0.650434450364594,
+        0.44285340625009656
+      ],
+      "noncat_params": [],
+      "quote": "15-acre site featuring themed gardens, a sculpture promenade & a 30 ft. mount with city views.",
+      "phone": "(713) 524-5876",
+      "int_phone": "+1 713-524-5876",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7215285,
+        "lng": -95.38810459999999
+      },
+      "address": "1500 Hermann Dr, Houston, TX 77004, United States",
+      "photos": [
+        {
+          "height": 3277,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111226526851504971096\">Mildrey Cruz</a>"
+          ],
+          "photo_reference": "CmRaAAAAxNu67MCv_lzlf7j96b5zTaVUdy3DRgm_E9ZG7D0uXEgZuYSDi03V6yDbcaMcMHXXgN536UYJ8pqfz4m1zIX7c-cnnnYotQFLQ6WlCtKRqulMjkrJpMD6xdxeZZhxUqubEhCWAPEmkmTPiDGTQkvs0HxMGhSvlJjct1wN45LeDYJ7yzpWD2QA9Q",
+          "width": 4882
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112775815431624155605\">GuSs Coronado</a>"
+          ],
+          "photo_reference": "CmRaAAAAQMcFG06Alqi4sFElrhe1pmDUmLb4KFv8vWCtXCwdqEzzZH3yIGo6jhnrWJDcXqWS3iqIH8vZDqIxBqKJY3YjNXJ-FVTCirYfdIyasC8Eyc3cko4mEgc9I8sJNiAXrrghEhCyTNi4Z-L5nX2YJ2YKeguHGhTMIdSTvN3Y48tmVEGlCAoKSmEK3w",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113357601799516049816\">Aranzaz\u00fa Laguna</a>"
+          ],
+          "photo_reference": "CmRaAAAA2z0BOS4dmkjixrlyktoGtYZIBUPICDp5e-xtpJFBxwmBkseu4sg-7WqclGojcwr4ekSiVWJ5fiDFwt619wow79u22qCG50uhRTX_hArbG8ql4lkPzBqq579BzkDji7E5EhDrC_hgGTWHCgPLLRe5ff8LGhQYh8vFz1S7D5l2addNBc2CU1NuRA",
+          "width": 4032
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104485865851443716273\">Mark Kirschke</a>"
+          ],
+          "photo_reference": "CmRaAAAAQZ6WVChnPPqLlE_GdNSG7ygZOlFiyld0KZtRjofo28-IDL2_q-UUUjfps8bWnpq54qAMK3RSyiryEq0taQjBt46DJogiu5hE9L5qBUe90_9rAvW8vg0qBB09MSshsMY3EhBOZkh5vLTJUWeGdiNVfp2ZGhRnWwkfeBmm4t5CNVdnaT8YHoqdnw",
+          "width": 5312
+        },
+        {
+          "height": 2240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112098683891176445205\">Jonathan Thomas</a>"
+          ],
+          "photo_reference": "CmRaAAAAxNaeTlG2UZOgC4UVkPQFYnnL3_AvqNKh_CwdQxAm1o1x5WaGBSqmnIfM1-lsMBkchBw6mDFuZw0WQVxPF8lbPYkCb-cllemnz7E67Pt7WbUKIw04geRp_-jMpKA37rqsEhCIfQxH4Kh1Y2FpINkzachJGhTRM6hL5tZrONe75IuiA95wms4gLw",
+          "width": 2992
+        },
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117168369398698799216\">Ramona Riley</a>"
+          ],
+          "photo_reference": "CmRaAAAAqk9uzJRO9sU3Em0HnBAjc_Sxpi4h09GqAMTUbct5_JHfPD8mZSx0JU7e1_wKeNNvRR58nXDUOF_Et737Fw2Fvz2b2oxPUe-PbXbqqIUm6jBXhuAJGa5__qjgrqjpnYz4EhDbb9qLU5BhGvn8ggAwNo0pGhQ2ZX89MpmBLmfErGVeKUzuDwqIvg",
+          "width": 3036
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117369550380741105089\">Carlos Razo</a>"
+          ],
+          "photo_reference": "CmRaAAAAjxCZB2O9ACIbPiaEf5zDVaAb5xTY7aFcCR2zOhoIS-2HwfgYR38344MFdundNhPbdLsfk3nHlf7onIdfKaZldri6ZcDcJzPizHWyr9QjFgZnbECz5aDhbBD6qbQ80KcEEhBbBolu5DBjTLpGqx7-tYBVGhTIfatlViGSPeCs5Sdc_FJ_BT1WiA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113882073120640835302\">Luis Barrientos</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ7hFJUHoOnyXlAZJ-pNiPMi56mcszYPHvdpWmRydtM5g0shU5B6JG-k7AfBtr_VS6Y2Ji3syKMw4ZhNHsI_dyOJGCjDgFVtkjXoUxXpIGlATKYpZlrwa-4dN_7vSQ2ELEhBLRzKebgofhZOSXUVTbnxDGhTObhqyH6gVsBmW9zIgSojjbMOmvA",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114172433884110273834\">Allison Sullivan</a>"
+          ],
+          "photo_reference": "CmRaAAAAvQrYShQyE0KHd5f5wp_uqKG8C1UiHkY_X2KizCwtsVx2jqUCCHh7rrgllKnlN3GEOfUEullrIUIC1l2lQDZkNAGbsxX6RXxFtBXS-H8hjkxEeA96ljmqhJjUFCuf7-FlEhCD9TeAM1q7TsI8dhwOf_TWGhQ6FCZpT670i7YuCQDb09vTZ6egsg",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117369550380741105089\">Carlos Razo</a>"
+          ],
+          "photo_reference": "CmRaAAAAKPPIHGnKYM3HeEOP_i3edXT0ZoeQsYn5bjtKuhxSAuJKkKBJNj92qzZM2cBbyhjQDuAG9rG8qhjvjBqAnWhiqQenjndDnybH1OonjawrylaPVM6SxFIMnBQEeDGnJtU9EhBTykF2jCATKCRFcJlqQqn9GhSOkQTJuahejAQ8Io0STkUb3KwIyg",
+          "width": 4032
+        }
+      ],
+      "rating": 4.8,
+      "website": "https://www.hermannpark.org/visit/mcgovern-centennial-gardens/",
+      "mood_params": [
+        0.007747556816138158,
+        0.05134446539789428,
+        0.19550386082754495,
+        0.18072127629357992,
+        0.14316324774058978,
+        0.2637054107503307,
+        0.13095685234849863,
+        0.021489035009771864,
+        0.2759444912125173,
+        0.03023286783166232,
+        0.07697304109589398,
+        0.025873258212266693
+      ],
+      "popularity": 0.5544388900354871,
+      "num_google_reviews": 2481,
+      "top_cats": [
+        "walking",
+        "nature",
+        "beach",
+        "hospitality"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        0.36090123618745623,
+        -0.01853454341642194,
+        0.0732193664312173,
+        0.5441502329212535,
+        1.5898088070460077,
+        -0.7360771501198332,
+        0.3189559311736011,
+        -0.24072840993143385,
+        -0.42494201606123283,
+        0.30067461952088037,
+        -0.07041202001102008,
+        0.83366797451536,
+        0.7920349044941306,
+        1.139970286946264,
+        -0.8451632960227803,
+        1.4939052100645132,
+        1.2258084599519994,
+        -0.3818693519730879,
+        -0.16416476857935755,
+        -0.34928294867756354,
+        1.9048498340799611,
+        0.41266402049045486,
+        -0.31780300850462234,
+        -0.22085243040183142,
+        -0.25089433998391086,
+        0.11083889031437826,
+        0.4589598667541346,
+        0.9758570456487047,
+        2.1201685688365384,
+        0.7778459173424198
+      ],
+      "global_mood_params": [
+        -0.217167740330631,
+        0.024475767419414905,
+        2.3877645504914113,
+        0.8432935135422218,
+        1.8617068294702053,
+        1.382865299135076,
+        0.33410445659939647,
+        -0.32311268791100145,
+        2.038994624772724,
+        -0.5241567769138405,
+        -0.339272616987713,
+        -0.039652602383530966
+      ]
+    },
+    {
+      "name": "Beer Can House",
+      "orig_name": "Beer Can House",
+      "place_id": "ChIJp2arQcnAQIYR-HOHMhPjFBM",
+      "cat_params": [
+        0.09278892294834874,
+        0.07379669737056788,
+        0.25128406457152336,
+        0.1836642833476218,
+        0.23561194226636253,
+        0.08270735438959023,
+        0.31710762154317634,
+        0.1367876631942,
+        0.15088717783647068,
+        0.30638306606175686,
+        0.11054242181267125,
+        0.14070740030565648,
+        0.23237520516340915,
+        0.12869257482464747,
+        0.2684412514643835,
+        0.08269547134233565,
+        0.5315674433409433,
+        0.2934621247409532,
+        0.14927807702534168,
+        0.14822988440703216,
+        0.5700745821007281,
+        0.22294304447887867,
+        0.2659490054608618,
+        0.1137324142082441,
+        0.010095560988962722,
+        0.37257521549886835,
+        0.23473121721021187,
+        0.3917306540116319,
+        0.2352522092526194,
+        0.17361106359456913
+      ],
+      "noncat_params": [],
+      "quote": "Guided tours are given at this folk art house built from 1968\u20131988 using 50,000+ recycled beer cans.",
+      "phone": "(713) 926-6368",
+      "int_phone": "+1 713-926-6368",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7637759,
+        "lng": -95.4190074
+      },
+      "address": "222 Malone St, Houston, TX 77007, United States",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112949389926443634588\">Rebekah Callaway</a>"
+          ],
+          "photo_reference": "CmRaAAAAeAuQ9HMEViBdfFlm36bayc35_2nvbw_xryElLgYFSVuTK8CV_G-OhSjWTfwwahuTgZyeLp4xNX_5B_U6whM6B9zQaI_wgF9rUhN8HGErPA6gGjjj-kLAdQE72qmB38DJEhCFbwnVO2FDIgo6dnSskQ23GhQkqSB8_uBb0ql5Gw8NwEwpkm-e8w",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117939298076163072227\">Jose Molina</a>"
+          ],
+          "photo_reference": "CmRZAAAAto2c4EwJNRV7smYfHPASIyvKRhu6hjFXADt23Fe78O9UDtjlAY7WG5JUlsUgRPqzEz_TXU1cSu_O54FLT6UKrXYBjV_i9FiJ2ZD_8t_YZNWnf3PE9ueWGF20sl25n1E8EhDtmg1segQJ2I4dEyksw1IVGhSN6DKUGGlbcYUXcCWRWfgevhqxvw",
+          "width": 4032
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107381687534893650109\">Ross Harold</a>"
+          ],
+          "photo_reference": "CmRZAAAActi_E5DvXONdeIc2jLew4dJ_lYJQaDR1sUSkdBl1AUqnIK_FBVV6CGkDoW79Z8OskxU_qzBLQQW22G--Slh_9bZSRHz5Iuarazu1p6ZWl27dfji4qQDWeZBvAJ2in0uMEhBcEGBq40DAbeaoRUCKRbA5GhQegCky9XQ5lRJ9AVVDC91MuHqxMw",
+          "width": 4608
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106929213099104724423\">Vikas Dhulipala</a>"
+          ],
+          "photo_reference": "CmRaAAAAqWrWYH_nzWXD1uSPNFPl79wcd__tpDhHI2SahL_2ShSeOgqOL5_HDtuYz_lSAdr_NfiYaBNL8yJYcwkc22NVj-R0n-AYQHzApx7_mqqpR_APQWPhhqJk5tEPJADYqYdJEhAw6niqIroWIbjjU_p3gSZKGhSK05bwrMPYWWC65CYvj2te0v1-dA",
+          "width": 5312
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113494151456469372040\">Barry Pickard</a>"
+          ],
+          "photo_reference": "CmRaAAAAXe6SZq4-wYfDmb3Pz8SDv2EgVSzHLPRJgj0ZofNYGBta5nmXSFUAEmFX-ZTi4UZivmwC9tl-bWLk5hyI0N9xVecCRremu41mdnyj3k8QO51PAe_A-AlCpxaYDPaHrgvdEhBBFqQh5kT2mc1r2is8heeXGhR3gDSH0YkRn1BVdmwREMIloG1qSQ",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116496778340051744122\">Erika Busbee</a>"
+          ],
+          "photo_reference": "CmRaAAAADdH_tT5bux7TsMzw22AyK8ZM6jkpOFhbi3VbcqrWZMk22aSwaqPrc6PCEJgwqTdHULNC5D51RE6FG0DydwweVJLNkWvwApPxBe7wsXuP_Vf9ErNYKXDg4tMgICUFE0l7EhCXqEI3eyIl8bgq5aC_MHWjGhRsFEepMbNoLNuvyjjt61FOPiK0jg",
+          "width": 3024
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117852662522248324560\">Madelyn DeYoung</a>"
+          ],
+          "photo_reference": "CmRaAAAAFDAyFxDOgPPntesSUSeBuqbmZgVhf6VzdKWWTK0co3j9U19Ph9foPusupDV4gT9ypTZKGiiVS4l44czi9ukblnEEG4ZlyGRk6OKHxUtNYitlVdHrTHFrvF61-Rzey6a9EhClihg4RzAl-8FLiRilFHpRGhRNXFXgGX4SczgFV1AZ9svE6K82Xg",
+          "width": 3264
+        },
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101949158357089507328\">Patrick Irvin</a>"
+          ],
+          "photo_reference": "CmRaAAAAj42lSWZLJOz65ULKrW9Y72_tc6SkucgHnNr-HJTI1GB4feG9fTzmwXUztCVCu_Hlr8Ve5JqL1ZN9bGdC0aphr6ANNnVKXqaQs-lTwxJQ4VWI-E7rKOBlLjh-mlYrstRNEhDcxtdNdU47sTiOGyde-TXnGhTYtQq_dG5WHp2VRdWvLnyrgIaYCQ",
+          "width": 3120
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112949389926443634588\">Rebekah Callaway</a>"
+          ],
+          "photo_reference": "CmRaAAAAWQtQ15ZyKy51vAqBhdnX5GOTyJBhvVYKCdlYIM1DGDKH6k7XUWubi_69w754CxBOh4i6h2xPW80mBBw2OgEn6lYOaaMj5VfnT-VnnouWkTPJzbG4DbDEzTaSeSAFQYubEhDhkWAGv0fHpV4wm3RuwwmvGhSm4A_H_18gBLV482Da2yJdMATVnQ",
+          "width": 3024
+        },
+        {
+          "height": 2782,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103699624440718040748\">gail aldridge</a>"
+          ],
+          "photo_reference": "CmRaAAAAht3gIICM6wkyXxkbK1nV37LlZEq9-Q74XBlePLJAz-rqQX9A2gEuQbt7WKCLHdcQ3f4j51uipkdmX6b5zl1wqkbboqFPqIjyFyGEZi4LvgFRi_Uh3Or-txvg1M8J7K2mEhAeeJn9Lw4OVCHpHcjlBFjSGhSq7Dsa3l4kxhMJ181DlNVC5FOs3Q",
+          "width": 3024
+        }
+      ],
+      "rating": 4.4,
+      "website": "https://www.orangeshow.org/beer-can-house",
+      "mood_params": [
+        0.025629514394902464,
+        0.07903745982560546,
+        0.011008632083349363,
+        0.18566105345687037,
+        0.016381906787829595,
+        0.13060046775922649,
+        0.0832333982560178,
+        0.05241651264778578,
+        0.08546699050310119,
+        0.0812232598894156,
+        0.09982803476955356,
+        0.029820107328768473
+      ],
+      "popularity": 0.33609201627101615,
+      "num_google_reviews": 335,
+      "top_cats": [
+        "fashion",
+        "instagram",
+        "architecture",
+        "movies"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.8302719219046235,
+        -0.4598308103841464,
+        0.2617176930336859,
+        -0.3402213956436845,
+        -0.4271470493974576,
+        -0.8327448126627277,
+        -0.8639189928462411,
+        -0.8257365883538924,
+        -0.8247710276076747,
+        -0.159199609270566,
+        0.4975416738287951,
+        -0.0018074191719424553,
+        -0.22851659018657358,
+        -0.5660866217971829,
+        -0.2359086012740856,
+        -1.026936695646135,
+        0.33870721104021856,
+        -0.0048013498140264625,
+        -0.21082949362679007,
+        0.2506152709881909,
+        0.15849240132976639,
+        -0.3158424309435586,
+        0.1004190967580033,
+        -0.5082304341711221,
+        -0.5027405664047391,
+        0.13373315362292235,
+        -0.5196016349715131,
+        -0.18646488268933203,
+        -0.3860494754382131,
+        -1.0735003580128666
+      ],
+      "global_mood_params": [
+        0.9859637775505202,
+        0.854130632849232,
+        -0.9340032953458612,
+        0.9194473719346908,
+        -0.9207943451662409,
+        -0.29093162158261765,
+        -0.5690429619026777,
+        0.9101430726752934,
+        -0.48077218718496756,
+        1.4574918282458178,
+        0.18959657247525613,
+        0.20162962403642018
+      ]
+    },
+    {
+      "name": "Houston Graffiti Building",
+      "orig_name": "Houston Graffiti Building",
+      "place_id": "ChIJpbKIHRm_QIYRGCroYRUJD3E",
+      "cat_params": [
+        0.14522360280954633,
+        0.09251282248851314,
+        0.2725530918165965,
+        0.7324578955275671,
+        0.33524891881330376,
+        0.196396636217162,
+        0.47623896726412945,
+        0.2936929818216089,
+        0.20675921997313357,
+        0.4247147122993339,
+        0.1404461613511969,
+        0.1546455290545579,
+        0.39429078197221584,
+        0.19543632393901275,
+        0.2593656490689293,
+        0.19954169493563,
+        1.058438058085709,
+        0.2441159572464147,
+        0.3334803254725612,
+        0.1534385943033216,
+        0.7772804900776257,
+        0.3238384803945708,
+        0.3199253456624964,
+        0.1785037108533761,
+        0.001306913125537317,
+        0.5858197405233311,
+        0.35461065959389093,
+        0.5583324710020392,
+        0.3770325750615632,
+        0.3616618636629338
+      ],
+      "noncat_params": [],
+      "quote": "Grouping of industrial structures featuring rotating displays of colorful street art & murals.",
+      "phone": "",
+      "int_phone": "",
+      "hours": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7475,
+        "lng": -95.3588889
+      },
+      "address": "1503 Chartres St, Houston, TX 77003, United States",
+      "photos": [
+        {
+          "height": 3492,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111394911064138988898\">Veronika Pavlova</a>"
+          ],
+          "photo_reference": "CmRaAAAATStwzGaW6o9e2oSZqOSTK_96-rBZbJKlcP3ItPcLa7i8mQbsV03CCBPixYjPCD60n4mEsjFoDkicZOklWelRCPK1_puRZxFkLeBSfyX9Q31em1u6ttuj8VUdOtnq0ke-EhBP06ElmTdene8QDNQKHFA4GhR_ePja87ImnjVK7v6dyI0mWZx5OQ",
+          "width": 4656
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102700561796329598390\">Sergio Cantero</a>"
+          ],
+          "photo_reference": "CmRaAAAA3U1rDorLt763dkHOMDfTuNbd0leNq3EP4hLLHGh16xJMKwgYU0q5SjF7s-DPqg-01kDMhWIGt7_aTBucOzFZ9g6ItnjjkXoB8dGuZkF6KNXttzyot8YkO0Y3Zlk-6ipnEhBDUV-o2_sjr3Tq_NGEt0G5GhSfsEkR7Sz3uVwWAZ3p6zn_l4kZ4w",
+          "width": 6000
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103800600144990736032\">Arturo Torres</a>"
+          ],
+          "photo_reference": "CmRaAAAAXxpVDuHtwgUHimPVScKLRXcNm7IjM9-PTFBjGuunvhZ9Co2TSxSzRItSMlZbrH6PNNEe4VgQXNLi3sBT_DGgpdrIuMnD64xbkAoCq0na3JLJXa_24Vr248K-RDHcEMfLEhCjOUyHaU28RDMSJhRQErw3GhSe1c_l-R1ILTotr7GjDs7nK3qknA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113955313946033634810\">Marc R</a>"
+          ],
+          "photo_reference": "CmRaAAAAcl6oCbfzeWvsAyCILIUNOHGcYukDG5NuuCclWxHQfbjQ5uN6ODiYlMBCXF6-6QuW9R_OniK2Un1OR-zS-K2th7vktDLpWoBHn75XYb-rnWOTdde0GPQh4Lr-DuyHOWcXEhBElCfzwObc_rtxnmoy5SO9GhRmSVrRPgETs_bfcn8PG_FsWBnhWQ",
+          "width": 4032
+        },
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104547721874356363144\">Kimberly Ford</a>"
+          ],
+          "photo_reference": "CmRaAAAA8RIplUa8RoV-5D5v_HK3N2PWBFv5uuNVX2Rfc1T_f4_7nsqc_UDOnHdT_fvNlLdoubkX_yTlLKqDyYJf1MUADCZTnNMElpChFTT85GbeaevrkyKNCHxa1rbvL8MWIoCvEhBO7RYvGeGNebB-ObnxI6pBGhTtRH5FCW3aRiaMDvOkcJShFQZO1w",
+          "width": 4160
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102700561796329598390\">Sergio Cantero</a>"
+          ],
+          "photo_reference": "CmRaAAAAjd69bLaUXYf_Yn8lCkdv9HUFzPTkwLZc-jsFjQgvdWTHp9vwg-TLoAgd97b1VE-sicZxQX6k_Ux80o7SINbiqYbCGqNSShDFp7esoh4H94MMKD78RQIhM9tebPugmM_TEhCVdcAGNHbKQ83loLLaNk8wGhS-hkWLPBsoO0gaPZ9tQQy2fQ9mQA",
+          "width": 6000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114169270951619529144\">WonderTraveler</a>"
+          ],
+          "photo_reference": "CmRaAAAA3WFsLynYgurtVHd3qtneMEY7umWzkGNBWgjRWEhL5lKU-KkKBRW-vc_N0oQ9tZ6AbpbXSaaMOkqly8KpPGRCVoq7C65_wrgQEVHTjYztapfUcOMCzo7KfSPE8r4obhtqEhCYLdGeYzTbnfVEoyXMWIeFGhRcIQn9sHOQmvSOvCCSL7wdUziJaQ",
+          "width": 3024
+        },
+        {
+          "height": 3904,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101222991713663578415\">Lupe Flores</a>"
+          ],
+          "photo_reference": "CmRaAAAAhmFYRylk9ErwUcO1uGbrl-Q6UyLPn1HviDBnnKQmHLPvFGoHmulqL2KoElR_LagYICEQ7tOv-Kvk9TqHu9PH8ycGyftdTgzjcBbPKpccxNuZRVNzEP7wZRHyrJtZol-bEhCiDEXZWSGQAvjgskq_m4_zGhQYNMIhlqAWvCy-5ZwOG_F8un14Vw",
+          "width": 5568
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118244758670586832934\">Edward Gonzales</a>"
+          ],
+          "photo_reference": "CmRaAAAATuTwp5dg4720dSTQKLjpJPJppaFhi2npbJbp8DO5AoyeapFrR4AueT_xk8g1j3i52x4VvdtfSSuAUdr4s6Lccxe1MBtkRD91A9gMK1-vo35bJgzxKoYlKJ6Gbs3nygEoEhAeEJC9SlGUdVij80XrkYjSGhQkCi-wJYsy9C7KVcGfdi20ePJyMw",
+          "width": 3264
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100826230127183097122\">Melisa O</a>"
+          ],
+          "photo_reference": "CmRaAAAAtdST1elBp8FlOoo3jCUPfuUtiHDy2ma5vIxYIjFpxdgOs8Qks3N68E1R4__IVk1WboWh3Oj_DJYW764OG3XmacQqULM88qiTeyHuStv8fFUtF1svXkvocg2LlBOefDaaEhAgrRNWCkYvCf_SNzH9W-vzGhQ57CF-c0273JqsYmQwg38hQ5xVWA",
+          "width": 5184
+        }
+      ],
+      "rating": 4.8,
+      "website": "",
+      "mood_params": [
+        0.014241737042243411,
+        0.05220536673259439,
+        0.058863800576139214,
+        0.17235247193283315,
+        0.09176930117774375,
+        0.3197120019548596,
+        0.18647287103053192,
+        0.04549388831458378,
+        0.20440296476700034,
+        0.04406391900790129,
+        0.08874863726353178,
+        0.06325271823238872
+      ],
+      "popularity": 0.45159866970796686,
+      "num_google_reviews": 1092,
+      "top_cats": [
+        "art",
+        "instagram",
+        "music",
+        "shopping"
+      ],
+      "duration": 1.0625,
+      "global_cat_params": [
+        -0.19405942865244374,
+        -0.23604740516004163,
+        0.4706516181410927,
+        3.5815789625538668,
+        0.18744821417354182,
+        0.6839462782811724,
+        0.8295304993703213,
+        0.9168239359599002,
+        0.002080850897395879,
+        1.098978060545772,
+        1.1125564543849757,
+        0.13056561609421694,
+        1.5211740208133555,
+        -0.07565167398048823,
+        -0.3345967992659357,
+        0.3415530955763074,
+        3.1975293745819937,
+        -0.5209435666567134,
+        2.1404350317619483,
+        0.35440337499186836,
+        1.169037315552072,
+        0.6698318827088258,
+        0.7089930040522616,
+        0.09598427475254308,
+        -0.7557861230959342,
+        1.7154591674351602,
+        0.6036584326569713,
+        0.8958452406164208,
+        0.46979761032000644,
+        0.21956203644703115
+      ],
+      "global_mood_params": [
+        0.21977283949193313,
+        0.050267524351061535,
+        -0.07238881870874961,
+        0.7142762074704508,
+        0.7337512832861163,
+        2.0871491355685605,
+        1.3847230656596128,
+        0.6340983710277627,
+        1.0925943237250124,
+        0.013361805807436575,
+        -0.0667829331336612,
+        2.2454611858082067
+      ]
+    },
+    {
+      "name": "Art Car Museum",
+      "orig_name": "Art Car Museum",
+      "place_id": "ChIJjVX2pKvAQIYRdeW2Xno_huc",
+      "cat_params": [
+        0.09958086386387346,
+        0.0847984441393794,
+        0.3031860418760001,
+        0.514949146040468,
+        0.12029376518558144,
+        0.22089064753808946,
+        0.32672412002348244,
+        0.32567887031134624,
+        0.39408470746212926,
+        0.2974984051700253,
+        0.11639109688103312,
+        0.07919010363331733,
+        0.24159664515333884,
+        0.07463468256398632,
+        0.2478541596320531,
+        0.1316235454849635,
+        0.6131844387236088,
+        0.2564267099995991,
+        0.24411490772302077,
+        0.1464460138177179,
+        0.531519862870234,
+        0.18795411824408156,
+        0.24888865366308566,
+        0.09929083525929046,
+        0.009554969410736264,
+        0.4284881219249236,
+        0.21339461043806654,
+        0.34357924965148084,
+        0.1673585864001408,
+        0.14428554161575297
+      ],
+      "noncat_params": [],
+      "quote": "Museum of elaborately decorated cars & contemporary art with a scrap-metal & chrome exterior.",
+      "phone": "(713) 861-5526",
+      "int_phone": "+1 713-861-5526",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.7720331,
+        "lng": -95.3968666
+      },
+      "address": "140 Heights Blvd, Houston, TX 77007, United States",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111902017256286886969\">Andrew Vikhrev</a>"
+          ],
+          "photo_reference": "CmRaAAAACfMosWneD4RooGHIIp8ujhszKKtoZsd501PaTeAkdSotFknc6-lWgJeeXqinu84H-BX1izgIW7vUxeI1rSwKPe3UA6pXXe76RszXXAKxi5ao8a1ew-0K9nhIK5CnaOd_EhB552eQs9K_M0OAf3GwdBmjGhSxbX5EBcDnAGgdjJD6QIiNsm7iuA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100973472209313572691\">Brian Troy</a>"
+          ],
+          "photo_reference": "CmRaAAAA6I6g7ysI28-Guy6iNJsHT5fKPaavKtyVe87CU0XZ_5yV0sbygEh_ZpPwa-V1c1We8p-Hd74lPAqOfroFicqln_0QW6uSsd2X40cSMoeGI20LeSq9F4gVSXD_AOx_HRk1EhDOXf7qfJCH7_f-xrQRXR4VGhQNduZwtW-JLnt8q5lp0zEpY_wTRw",
+          "width": 4032
+        },
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106794438953736460159\">T N</a>"
+          ],
+          "photo_reference": "CmRaAAAAEgm5rgrqG_Fn1Q2mo43qO2MwjTmExuv0aB976Go1mvtVaVth6mxYW004tUZhMXwuyqVHQdRsc_nUvUbbOQbtG-jC1F8dqOIAxU9kShcOSJsi6DVtsTSWqgiLkwTr0sVVEhDg68qcPfp0AR1ci1ptlqOVGhRTaPMa4GXLSpuZK7yzChckt_QB2Q",
+          "width": 5760
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115440839467425939640\">Chad Mcgrath</a>"
+          ],
+          "photo_reference": "CmRaAAAAklORnDVJheYMhHWrFUjQxmPFUdluWpWrDEWTnzLN4A1sB_SJ-v6TOPgQvklgb_dkeP0cDQ2d1WMdn1IOhA_1rMIU2gbpq1M7vimnC7ypqEGkXUJJb7OADwVV5CMHX37VEhA4cTNIHfHRvFrHubBsx7NjGhTelCtkhKkWrMRDhg7BstaTE7O_cQ",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108854397817992552920\">philip yesca7420</a>"
+          ],
+          "photo_reference": "CmRaAAAAGHQ11WcHSnHtqSMyGVEdWd-L3F2oCmPQ6Ui6puEJvdt1-pKUdp_I06TT12WPcBNRBIGx7N8JHL3bzoWQA1JlF-GPjFDotVWZRB0hXo5ZSAgfCcdEDPuDbwOO8VRiiAKdEhB4SyF4e7ATvNmatYvJTe0xGhTVWd6zLR-AxJ3kBbY9E-pD-udtqA",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109848488213244436142\">Mark Miller</a>"
+          ],
+          "photo_reference": "CmRaAAAAID5BLLsYh03MpanMCwNpPWD8g9VKl-2Sp_UC0HMQhAwvytc_hPH73SSpi714zxP5h5z9ve6hHJLPZtZ8NFO9pBteO0fD57HjS9clmMKBmo5SDCFb83IdW7N0F3zPYY19EhDJGyYtVNXVxkS4lFM3wzwtGhS7_DzoUATXyGiFZOdZN3tCnltjjg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100012180046046293192\">Ireyda Martinez</a>"
+          ],
+          "photo_reference": "CmRaAAAAvRQYfunV_pogcv3edymQdRIiFdDDq2_F0Z8EIxV-UL6AhVfkhMn2E20gRbWfATwXf2-W2lMedAJZjCajrrHJUZXqg-5nepVCD-Hio8fPs3Q5YoER8wHDUsVApv6WWS-yEhDjSM8ajjiFi52aTvO0BGWPGhQI-B26ceQok1SzkIWa3ApHUhO1kA",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117603117692921449790\">Mercy Maradiaga</a>"
+          ],
+          "photo_reference": "CmRaAAAAO2zw1Bc-dF1wYVk3P_I9lJiATmF1EP71SfLM6pwYKq7ZqaDztd1KRk6XTjwmmUXbTXATtDScTvVjHmA_zcQ3vymL5AWl-Tr_sY2KLMCYA3g8T7N-j3bLDYp1G3qDUn0wEhCGzFI6g9OUjj8VeFk1KPOFGhToIDUxX83-q8bcIs68US8-IgHv7w",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117603117692921449790\">Mercy Maradiaga</a>"
+          ],
+          "photo_reference": "CmRaAAAAvK5dys662HJxJF2qbvTn_eMPb1K71FfDmMvZ4V4f4tDF7E4jV9ZQi75vqjH7ewQ0dDfgqBHUY5ZfZFyf2LUvoYvE8o-_iaArLm2a5pVpLWarx6SOjqPmuQJ9Vh-VdOTMEhC0P6HshHkydPqJXTCJQYPcGhT-KGdHtuB2e6wTNixYukzcdWnJug",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117771671461761390087\">Psycho7death</a>"
+          ],
+          "photo_reference": "CmRaAAAAVb2wocZ9AHNe0ElOb_3djaWIdTW9yUNpbRqrCdtCB56lsDYGWiMB46xypQSOQY6vrMRRltVEumB6OmPSS57_2a54hUtDLsjh0iewDANym2biZQGitw-b5-B4DHDOuhxIEhB4XKMdMbbVAYlIRUFF-xiRGhQxqJbYlcfLBMciOlaI14AJcYEC5Q",
+          "width": 4032
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://www.artcarmuseum.com/",
+      "mood_params": [
+        0.024414296590251017,
+        0.07124252462469256,
+        0.012046198240319633,
+        0.15329843902362666,
+        0.025255744011752762,
+        0.15458373888793422,
+        0.08878531271539895,
+        0.05434100614943289,
+        0.0839288484034355,
+        0.057726998921445366,
+        0.11791364932126663,
+        0.02592462892920345
+      ],
+      "popularity": 0.4069397542241505,
+      "num_google_reviews": 720,
+      "top_cats": [
+        "engineering",
+        "art",
+        "culture",
+        "books"
+      ],
+      "duration": 1.25,
+      "global_cat_params": [
+        -0.7478623854046178,
+        -0.32828604137758916,
+        0.7715709982228952,
+        2.0272134001320037,
+        -1.138469370625255,
+        1.0107127786472623,
+        -0.7615818046914159,
+        1.272053109227598,
+        2.7743158596571003,
+        -0.25366700065143033,
+        0.6178283560037404,
+        -0.5860487781512232,
+        -0.12886795051720185,
+        -0.9633055362532738,
+        -0.45977285912688215,
+        -0.45389661005963294,
+        0.7815644681956273,
+        -0.3921777568755572,
+        0.9997229160178953,
+        0.21507008802748462,
+        -0.0295392808652643,
+        -0.6576585452099694,
+        -0.0919334213008783,
+        -0.6429477375601066,
+        -0.5183054518092579,
+        0.5484631383284878,
+        -0.7195238058566293,
+        -0.4992751108837875,
+        -0.7958844968696218,
+        -1.275146560288682
+      ],
+      "global_mood_params": [
+        0.9042016530500813,
+        0.620602043803759,
+        -0.915322303313642,
+        0.42053054324162104,
+        -0.7260380638905989,
+        0.010658420544153372,
+        -0.4639751853327406,
+        0.9868836567247333,
+        -0.501119784147221,
+        0.5443524917035777,
+        0.6081013616464633,
+        -0.0365121628609086
+      ]
+    },
+    {
+      "name": "Buffalo Bayou Park Cistern",
+      "orig_name": "Buffalo Bayou Park Cistern",
+      "place_id": "ChIJr0zBkki_QIYRQg11bsTTPuk",
+      "cat_params": [
+        0.13412275765235535,
+        0.0677652121230522,
+        0.17854747546791255,
+        0.2044299353249662,
+        0.22571912746479134,
+        0.1369425570538673,
+        0.32129541917922355,
+        0.177470098222926,
+        0.15413597097246295,
+        0.23139942532988994,
+        0.08145346424761066,
+        0.06905591148458418,
+        0.1875787895943862,
+        0.1959328176034935,
+        0.28056236198668705,
+        0.11999013243829001,
+        0.4362428499099162,
+        0.20879886141695103,
+        0.1997602477908411,
+        0.11279076465538623,
+        0.4249445452630943,
+        0.2402734749214424,
+        0.2388872056847352,
+        0.09096879120152503,
+        0.033051652010326525,
+        0.2769706968636289,
+        0.2310768861594798,
+        0.35325335719892026,
+        0.24207174521660885,
+        0.2626456494951382
+      ],
+      "noncat_params": [],
+      "quote": "This decommissioned underground reservoir was built in 1926 & now features art installations.",
+      "phone": "(713) 752-0314",
+      "int_phone": "+1 713-752-0314",
+      "hours": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 29.762414,
+        "lng": -95.37599329999999
+      },
+      "address": "105 Sabine St, Houston, TX 77007, United States",
+      "photos": [
+        {
+          "height": 2002,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115078038889954506556\">Buffalo Bayou Park Cistern</a>"
+          ],
+          "photo_reference": "CmRaAAAAVJNP5D7rG3AaX9kulHMM65UgrCmTwJ9CMs62soIEpv8lor7m9WL8bPaCCkOUlskmXBl2XdIq14orXEPgFiHtIETedczpFSr1xDr69Hw_PYhwEuO-JXeRBvCjy491Anb5EhApRtFbRFWy7-0fJJ_smEFAGhSkeoEcfHDoDaBwIHRMYOFymv1kLg",
+          "width": 3000
+        },
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115417748742331665403\">Nathan Kirton</a>"
+          ],
+          "photo_reference": "CmRaAAAAIZ00oKdvkJNJD5hZtZOOQZTYEMjg1eYj8v6JAjk2ugT3OrVUjtUjR9yHjZ-8JcZiqqRj0gjyEyAFBDbba50R7boB4fE89w7w0cxkxMvRNdx_tpAvzxay2Q6z5MEoONt9EhA7opTG5T3nJAW2flvBYfT1GhRHWPHcDERABPftgsBGptqeyttjKA",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101176983618931770785\">Armando Sanchez</a>"
+          ],
+          "photo_reference": "CmRaAAAAkVvwwiAAt3QrwhaV-S7nWcizxMh7pN7z72CLftoVofvFwpkYr8GjkeK_9Gjy6b69cQJ0tz4ODdimobaU3xIFne8AaSMCJKQDWAfvbyvuW9uuZazLUmtgT14GCavfvcTdEhAZAVWRIQVIXNRyFTL0TcDfGhQBjc82vew2-0AfBJN7iou37y4dww",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109846758264534546213\">Akitomo Morita</a>"
+          ],
+          "photo_reference": "CmRaAAAALiEITBj4FJhdY-5--Cx_5W0DP0UACRzcsXBVQFCuX3cu51Z1s39W0u_wCo7hVnLR1XX23LIG847-n6JThlBUh1Gyn7HTQSOsUdwbMLb_EgD4S-HSSd7HSyirAK9KtKjbEhB13AbAviKGEfX9g-5A8NV9GhRzPduGWzzpz_fEwLShfP5jELOGAg",
+          "width": 4032
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101021256880017573157\">Kylie Monet</a>"
+          ],
+          "photo_reference": "CmRaAAAARPZUx7mzLig8V1quPWz8_mhhbI1cRJXCzoT9--yXCPbWh8EvHNuMxgdX-cFP2tbIFSJbpQGc3cCKvjRnP9FbJUQ3W1xvbjn-JSnKc27isjMajuK-vFrGT7n7YjRwNqO0EhBz6DeiV9lnV0gV8ehAcYeaGhSL9rQwRK838rDWDktKN5JpaAFzcQ",
+          "width": 4032
+        },
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117184097233293780551\">Davide Di Vece</a>"
+          ],
+          "photo_reference": "CmRaAAAA9B67psmO0GzMXqZ8KExG8aoJAwHem0uj05XUtVxQ9lIPSqklaDkkOulkZjkefHlXIuq-CO-BylW67mAU1zQ3E3_4-FCKlrz_Rq7EnIeN5s8FTWAVTiHsyt-o1CkTzolnEhAw25eVgGilQz9SsfSdTEArGhQb3mhnKJy9AKiAJ5f9CHwAcjoRNQ",
+          "width": 3264
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109641590202222655353\">Mudasser Zaheer</a>"
+          ],
+          "photo_reference": "CmRaAAAA0hKIWOjMt98GzaZf62p-PSyGN3TTf8qLjRqzdzcw8HJFkZMlicisgsx29NatyFSkhErgTS6kbxx0-QatRwacs1qJSxO8g2_4Q7sDPIP2eS47woCzVMJE8wnTbuDj6s8oEhDxTlnykk0NdmkYLBezDCCNGhQQ-ZipONXyUObHhhaiT9YxZqVSgQ",
+          "width": 4032
+        },
+        {
+          "height": 3200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118036232832358748547\">Henrique Baldwin</a>"
+          ],
+          "photo_reference": "CmRaAAAAr0jEKWBpZmrR0Pwix5PNix9DNyyNs2jLcDPRQO_gh2UCSRhtEadWG71R_Iwd96Etr1dw7xIBKybhha11IWwN7ggeRoHFwJ0sj1Hjv5h86fpWfYLxqh-g2gJ4miTRdqMBEhDtT2wAd4hCMBK39QXFqt2EGhRjeQgMWE_-3sTfFrViWqikrWJUNA",
+          "width": 2134
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105144493190333578092\">wncapt2007</a>"
+          ],
+          "photo_reference": "CmRaAAAAMUiTWy5zYEJiIe8Ny2y1RJy3ubSrlkMnhdCY-rIV55CUzQkPbmpG9Gndf4v3o_HwnQZM4u3qlYvwub6yhbGWNk93TlConv7fUux_4VoGbJSHwIdKHkfY7jIpfatAgL-FEhDlpEZuYo6f1UM9xYI4DzCJGhRB2CWF21h8ZQXDqratG50glv0IEA",
+          "width": 4032
+        },
+        {
+          "height": 2432,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104252593010623398578\">Sean Thackston</a>"
+          ],
+          "photo_reference": "CmRaAAAAFmOW0ZENpnuBxnZ3QoMflliWPgkSTN6MNknG-aWKB6RSgN5_Is158dOJg_7BaL1U2LLIqpN4tszDeQnWoMIHtxostcbt-Se4aICf3I3e_3A7gOySb-gi3dwryG6Z9iwDEhAL-03Vo5j6hqBWYl9D6ciNGhQT5COAwO6H6kJVFFyrlGNyl-dF-w",
+          "width": 3286
+        }
+      ],
+      "rating": 4.6,
+      "website": "https://buffalobayou.org/visit/destination/the-cistern/",
+      "mood_params": [
+        0.011739103456098975,
+        0.06448323514521581,
+        0.03477114651233968,
+        0.15289132295112567,
+        0.03800546993689209,
+        0.15823666137459838,
+        0.09947018383374664,
+        0.04772249238095283,
+        0.0794842946696859,
+        0.041981882591476824,
+        0.08234116041356197,
+        0.0206184423191982
+      ],
+      "popularity": 0.39482274537573664,
+      "num_google_reviews": 638,
+      "top_cats": [
+        "music",
+        "science",
+        "hiking",
+        "fashion"
+      ],
+      "duration": 1.125,
+      "global_cat_params": [
+        -0.32875075113898017,
+        -0.5319475705971809,
+        -0.4528021054146607,
+        -0.19182546034943074,
+        -0.48816934584948085,
+        -0.1092109194571785,
+        -0.8193531422393731,
+        -0.3739252289036785,
+        -0.7766920492019995,
+        -0.95647358770362,
+        -0.10071590631216136,
+        -0.6822951107017118,
+        -0.7125952024631619,
+        -0.07200342455395849,
+        -0.10410351517805495,
+        -0.5901458314881316,
+        -0.17852805090971066,
+        -0.890347008897339,
+        0.4335542654539038,
+        -0.4555402108524933,
+        -0.549307979745848,
+        -0.14653685258173663,
+        -0.2046980187531648,
+        -0.7205793689841561,
+        0.15821853927624535,
+        -0.5754065260289121,
+        -0.5538424027091933,
+        -0.4364283501360033,
+        -0.34488383203122186,
+        -0.4612866647316814
+      ],
+      "global_mood_params": [
+        0.051390975709076976,
+        0.41810038158246815,
+        -0.506168077580385,
+        0.4142542561319639,
+        -0.44621670298377863,
+        0.05659398290871197,
+        -0.26176824220446615,
+        0.7229655859711981,
+        -0.5599153844178794,
+        -0.0675527428751089,
+        -0.2150532471198679,
+        -0.3608945958525606
+      ]
+    }
+  ]
+}
