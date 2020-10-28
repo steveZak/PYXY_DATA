@@ -205,7 +205,8 @@
         "food",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Ruins of St. Paul's",
@@ -476,7 +477,8 @@
         "history",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Macau Tower Convention and Entertainment Center",
@@ -747,7 +749,8 @@
         "nightlife",
         "shopping"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Monte Fort",
@@ -1018,7 +1021,8 @@
         "cosmopolitan",
         "shopping"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Macao Museum",
@@ -1279,7 +1283,8 @@
         "history",
         "books"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "quote_source": "go"
     },
     {
       "name": "Macau Fisherman's Wharf",
@@ -1486,7 +1491,8 @@
         "shopping",
         "nightlife"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "The Venetian Macao",
@@ -1686,7 +1692,8 @@
         "amusement",
         "movies"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "A-Ma Temple",
@@ -1886,7 +1893,8 @@
         "history",
         "family"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Macao Giant Panda Pavilion",
@@ -2207,7 +2215,8 @@
         "shopping",
         "views"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Camoes Garden",
@@ -2478,7 +2487,8 @@
         "original",
         "beach"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Taipa Houses\u2013Museum",
@@ -2739,7 +2749,8 @@
         "culture",
         "science"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Na Tcha Temple",
@@ -2939,7 +2950,8 @@
         "culture",
         "shopping"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "St. Dominic's Church",
@@ -3139,7 +3151,8 @@
         "culture",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Grand Prix Museum",
@@ -3400,7 +3413,8 @@
         "sport",
         "movies"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Holy House of Mercy",
@@ -3661,7 +3675,8 @@
         "culture",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Flora Garden",
@@ -3700,7 +3715,7 @@
         0.324962720374244
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Redeveloped park with flower displays on the site of a 19th-century villa in mountain foothills.",
       "phone": "6537 3210",
       "int_phone": "+853 6537 3210",
       "hours": [
@@ -3932,7 +3947,8 @@
         "animals",
         "nature"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Macau Science Center",
@@ -4193,7 +4209,8 @@
         "family",
         "movies"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Historical Museum of Coloane and Taipa",
@@ -4454,7 +4471,8 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Walls of Macau",
@@ -4493,7 +4511,7 @@
         0.21819868540454118
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Part of the old city walls, built in the 1500s with sand, soil, rocks, rice straw & oyster shells.",
       "phone": "8399 6699",
       "int_phone": "+853 8399 6699",
       "hours": [
@@ -4661,7 +4679,8 @@
         "culture",
         "engineering"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Cheoc Van Beach",
@@ -4868,7 +4887,8 @@
         "water",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Maritime Museum",
@@ -5129,7 +5149,8 @@
         "original",
         "science"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Mandarin's House",
@@ -5390,7 +5411,8 @@
         "culture",
         "history"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "St. Laurence Church",
@@ -5661,7 +5683,8 @@
         "movies",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Guia Lighthouse",
@@ -5932,7 +5955,8 @@
         "military",
         "hiking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "EIFFEL TOWER. AT THE PARISIAN MACAO",
@@ -5971,7 +5995,7 @@
         0.22616514277858427
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Replica of the iconic Parisian monument, with views of the city from 2 observation platforms.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -6203,7 +6227,8 @@
         "instagram",
         "music"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Guia Municipal Park",
@@ -6403,7 +6428,8 @@
         "culture",
         "engineering"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Chapel of Our Lady of Guia",
@@ -6674,7 +6700,8 @@
         "hiking",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Batman Dark Flight",
@@ -6945,7 +6972,8 @@
         "amusement",
         "music"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Casa Garden",
@@ -7196,7 +7224,8 @@
         "culture",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Pak Tai Temple",
@@ -7396,7 +7425,8 @@
         "art",
         "movies"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Golden Reel",
@@ -7667,7 +7697,8 @@
         "original",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "SANDBOX VR - MESUF\u96fb\u7af6\u9928",
@@ -7867,7 +7898,8 @@
         "history",
         "nightlife"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Lou Lim Ioc Garden",
@@ -8138,7 +8170,8 @@
         "food",
         "walking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "St. Augustine's Square",
@@ -8177,7 +8210,7 @@
         0.11911201044182616
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Shaded piazza with ornate, tiled paving bordered by colorful, stucco churches & a theater.",
       "phone": "",
       "int_phone": "",
       "hours": "",
@@ -8338,7 +8371,8 @@
         "books",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Sun Yat Sen Park, Macau",
@@ -8609,7 +8643,8 @@
         "animals",
         "beach"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Macau Tea Culture Museum",
@@ -8870,7 +8905,8 @@
         "art",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Dra. Laurinda M. Esparteiro Garden",
@@ -9077,7 +9113,8 @@
         "nature",
         "architecture"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Macau Museum of Art",
@@ -9338,7 +9375,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Garden of Flower City",
@@ -9609,7 +9647,8 @@
         "food",
         "amusement"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Puji Temple (Kannon)",
@@ -9809,7 +9848,8 @@
         "cosmopolitan",
         "family"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Lou Kau Mansion",
@@ -10070,7 +10110,8 @@
         "culture",
         "history"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "D. Pedro V. Theatre",
@@ -10270,7 +10311,8 @@
         "amusement",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "St. Joseph's Seminary and Church",
@@ -10470,7 +10512,8 @@
         "culture",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Chapel of Our Lady of Penha",
@@ -10670,7 +10713,8 @@
         "hiking",
         "instagram"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Tam Kung Temple",
@@ -10870,7 +10914,8 @@
         "engineering",
         "nature"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Planet J",
@@ -11141,7 +11186,8 @@
         "sport",
         "fashion"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "KunIam Ecumenical Center",
@@ -11402,7 +11448,8 @@
         "water",
         "instagram"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Old Protestant Cemetery in Macau",
@@ -11673,7 +11720,8 @@
         "military",
         "religion"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Museum of Sacred Art and Crypt",
@@ -11944,7 +11992,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Lotus Square",
@@ -12144,7 +12193,8 @@
         "culture",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "Sam Kai Vui Kun",
@@ -12415,7 +12465,8 @@
         "culture",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Venetian Macao Casino",
@@ -12622,7 +12673,8 @@
         "food",
         "movies"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "St. Lazarus' Church",
@@ -12963,7 +13015,8 @@
         "art",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Dr. Sun Yat Sen Memorial House in Macau",
@@ -13224,7 +13277,8 @@
         "culture",
         "religion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Cathedral of the Nativity of Our Lady, Macau",
@@ -13424,7 +13478,8 @@
         "art",
         "science"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Lisboa Casino",
@@ -13631,7 +13686,8 @@
         "movies",
         "fashion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Av. Panoramica do Lago Nam Van",
@@ -13831,7 +13887,8 @@
         "food",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "St. Francis Xavier Church",
@@ -14102,7 +14159,8 @@
         "books",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     }
   ]
 }

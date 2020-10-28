@@ -269,7 +269,8 @@
         "friends",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Marghazar (Islamabad) Zoo",
@@ -540,7 +541,8 @@
         "friends",
         "food"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Shakarparian National Park",
@@ -811,7 +813,8 @@
         "culture",
         "family"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Faisal Mosque",
@@ -1011,7 +1014,8 @@
         "architecture",
         "instagram"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Pakistan Monument",
@@ -1211,7 +1215,8 @@
         "cosmopolitan",
         "architecture"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Lok Virsa Heritage Museum",
@@ -1472,7 +1477,8 @@
         "books",
         "military"
       ],
-      "duration": 1.5625
+      "duration": 1.5625,
+      "quote_source": "go"
     },
     {
       "name": "Lake View Park",
@@ -1743,7 +1749,8 @@
         "friends",
         "nature"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Margalla Hills National Park",
@@ -1950,7 +1957,8 @@
         "animals",
         "science"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Rawal Lake Bird Aviary",
@@ -2150,7 +2158,8 @@
         "amusement",
         "water"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Pakistan Museum of Natural History",
@@ -2421,7 +2430,8 @@
         "culture",
         "family"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Fatima Jinnah /Capital / F-9 Park",
@@ -2460,7 +2470,7 @@
         0.5478182464518985
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Paths through a vast, semi-wild nature area home to boars & foxes, plus a sport complex & monuments.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -2762,7 +2772,8 @@
         "nature",
         "beach"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Jungle World - Ayub National Park",
@@ -3033,7 +3044,8 @@
         "friends",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Shah Allah Ditta Caves",
@@ -3240,7 +3252,8 @@
         "friends",
         "family"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Neela Sandh Picnic Point",
@@ -3511,7 +3524,8 @@
         "friends",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Bahria Town Zoo",
@@ -3782,7 +3796,8 @@
         "food",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Bruti",
@@ -4053,7 +4068,8 @@
         "hiking",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Golra Sharif Museum",
@@ -4324,7 +4340,8 @@
         "military",
         "history"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Rawal Lake",
@@ -4524,7 +4541,8 @@
         "views",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Kachnar Park",
@@ -4731,7 +4749,8 @@
         "nature",
         "beach"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Bird Park Islamabad",
@@ -5002,7 +5021,8 @@
         "engineering",
         "animals"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Daman-e-koh Park",
@@ -5273,7 +5293,8 @@
         "food",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Kachnar Park",
@@ -5480,7 +5501,8 @@
         "nature",
         "beach"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Taxila Museum",
@@ -5751,7 +5773,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Eye View Park",
@@ -6022,7 +6045,8 @@
         "amusement",
         "animals"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Shakarparian View Point",
@@ -6293,7 +6317,8 @@
         "instagram",
         "friends"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Rawal Dam Park",
@@ -6564,7 +6589,8 @@
         "views",
         "nature"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Chattar Park",
@@ -6835,7 +6861,8 @@
         "sport",
         "views"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Ramli",
@@ -7035,7 +7062,8 @@
         "views",
         "animals"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Loh-e-Dandi",
@@ -7306,7 +7334,8 @@
         "friends",
         "family"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Bahria Enclave Zoo",
@@ -7577,7 +7606,8 @@
         "friends",
         "instagram"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Japanese Children Park Islamabad",
@@ -7848,7 +7878,8 @@
         "science",
         "amusement"
       ],
-      "duration": 0.6875
+      "duration": 0.6875,
+      "quote_source": "go"
     },
     {
       "name": "Saidpur",
@@ -8048,7 +8079,8 @@
         "nightlife",
         "culture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Jinnah Park Rawalpindi",
@@ -8319,7 +8351,8 @@
         "food",
         "movies"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Rose And Jasmine Garden",
@@ -8590,7 +8623,8 @@
         "family",
         "sport"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Nawaz Sharif Park",
@@ -8861,7 +8895,8 @@
         "friends",
         "walking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Track along Margalla Road",
@@ -9132,7 +9167,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Margalla Park",
@@ -9339,7 +9375,8 @@
         "nature",
         "instagram"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Lal Masjid",
@@ -9610,7 +9647,8 @@
         "science",
         "books"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Rawal Lake Park",
@@ -9881,7 +9919,8 @@
         "beach",
         "views"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Margalla Hills Trail 3",
@@ -10152,7 +10191,8 @@
         "views",
         "cosmopolitan"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Ankara Park",
@@ -10359,7 +10399,8 @@
         "books",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Islamabad View Point",
@@ -10566,7 +10607,8 @@
         "water",
         "amusement"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Race Course Park",
@@ -10887,7 +10929,8 @@
         "family",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Capital Park",
@@ -11158,7 +11201,8 @@
         "amusement",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Y Crossing in Fatima Jinnah Park",
@@ -11429,7 +11473,8 @@
         "military",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Bahria University Park",
@@ -11629,7 +11674,8 @@
         "sport",
         "culture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Army Museum",
@@ -11890,7 +11936,8 @@
         "culture",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "TRAFALGAR SQUARE",
@@ -12097,7 +12144,8 @@
         "nightlife",
         "sport"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Margala Hills",
@@ -12297,7 +12345,8 @@
         "views",
         "instagram"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Pakeeza Park",
@@ -12504,7 +12553,8 @@
         "food",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Sangrela Park",
@@ -12775,7 +12825,8 @@
         "friends",
         "nature"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Lok Virsa - National Institute of Folk and Traditional Heritage",
@@ -13046,7 +13097,8 @@
         "cosmopolitan",
         "architecture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Chanbeli Park",
@@ -13253,7 +13305,8 @@
         "amusement",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Park",
@@ -13460,7 +13513,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Childrens Park",
@@ -13667,7 +13721,8 @@
         "engineering",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Giga Mall",
@@ -13938,7 +13993,8 @@
         "amusement",
         "food"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Park Jinnah Garden",
@@ -14145,7 +14201,8 @@
         "sport",
         "nature"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Shrine Of Hazrat Bari Imam Sarkar",
@@ -14345,7 +14402,8 @@
         "culture",
         "family"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     }
   ]
 }

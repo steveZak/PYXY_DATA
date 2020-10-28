@@ -1179,6 +1179,10 @@
     "lat": 44.9537,
     "lng": -93.0900
   }},
+  "STAVANGER_RO_NO": {"name": "Stavanger", "full_name": "Stavanger, Norway", "coordinates": {
+    "lat": 58.9700,
+    "lng": 5.7331
+  }},
   "STOCKHOLM_ST_SE": {"name": "Stockholm", "full_name": "Stockholm, Sweden", "coordinates": {
     "lat": 59.3293,
     "lng": 18.0686
@@ -1186,10 +1190,6 @@
   "STRASBOURG_GE_FR": {"name": "Strasbourg", "full_name": "Strasbourg, France", "coordinates": {
     "lat": 48.5734,
     "lng": 7.7521
-  }},
-  "STRAVANGER_RO_NO": {"name": "Stravanger", "full_name": "Stravanger, Norway", "coordinates": {
-    "lat": 58.9700,
-    "lng": 5.7331
   }},
   "STUTTGART_BW_DE": {"name": "Stuttgart", "full_name": "Stuttgart, Germany", "coordinates": {
     "lat": 48.7758,

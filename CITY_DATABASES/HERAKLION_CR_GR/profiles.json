@@ -169,7 +169,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://heraklionmuseum.gr/"
+      "website": "http://heraklionmuseum.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Rocca a Mare Fortress",
@@ -330,7 +331,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://koules.efah.gr/"
+      "website": "http://koules.efah.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Minoan Palace of Knossos",
@@ -501,7 +503,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2369"
+      "website": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2369",
+      "quote_source": "go"
     },
     {
       "name": "Ag. Min\u00e1s",
@@ -601,7 +604,8 @@
         }
       ],
       "rating": 4.7,
-      "website": "http://www.iak.gr/"
+      "website": "http://www.iak.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Morosini Lions Fountain",
@@ -708,7 +712,8 @@
         }
       ],
       "rating": 4.5,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Natural History Museum of Crete",
@@ -879,7 +884,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "https://www.nhmc.uoc.gr/"
+      "website": "https://www.nhmc.uoc.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Historical Museum of Crete",
@@ -1040,7 +1046,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://historical-museum.gr/"
+      "website": "http://historical-museum.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Agios Titos Church",
@@ -1140,7 +1147,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://www.agiostitos.gr/"
+      "website": "http://www.agiostitos.gr/",
+      "quote_source": "go"
     },
     {
       "name": "CRETAquarium Thalass\u00f3kosmos",
@@ -1311,7 +1319,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "https://www.cretaquarium.gr/"
+      "website": "https://www.cretaquarium.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Venetian Loggia",
@@ -1418,7 +1427,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://www.heraklion.gr/en/municipality/city-hall//city-hall.html"
+      "website": "http://www.heraklion.gr/en/municipality/city-hall//city-hall.html",
+      "quote_source": "go"
     },
     {
       "name": "Municipal Art Gallery",
@@ -1629,7 +1639,8 @@
         }
       ],
       "rating": 4.4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Bembo Fountain",
@@ -1736,7 +1747,8 @@
         }
       ],
       "rating": 4.4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Turkish Pumphouse",
@@ -1836,7 +1848,8 @@
         }
       ],
       "rating": 4.4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Venetian City Wall",
@@ -1943,7 +1956,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.explorecrete.com/Heraklion/EN26-heraklion-walls.html"
+      "website": "http://www.explorecrete.com/Heraklion/EN26-heraklion-walls.html",
+      "quote_source": "go"
     },
     {
       "name": "Lyrarakis Winery",
@@ -2104,7 +2118,8 @@
         }
       ],
       "rating": 4.8,
-      "website": "http://www.lyrarakis.com/"
+      "website": "http://www.lyrarakis.com/",
+      "quote_source": "go"
     },
     {
       "name": "Georgiadis Park",
@@ -2211,7 +2226,8 @@
         }
       ],
       "rating": 4.2,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Ag. Ekater\u00edni Sinait\u00f3n (Museum)",
@@ -2382,158 +2398,8 @@
         }
       ],
       "rating": 4.8,
-      "website": "http://iakm.gr/"
-    },
-    {
-      "name": "Cretan Beaches",
-      "orig_name": "Cretan Beaches",
-      "place_id": "ChIJ8dCIL3xZmhQR3nk4W6HlKp8",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "281 039 1428",
-      "int_phone": "+30 281 039 1428",
-      "hours": [
-        {
-          "close": {
-            "day": 1,
-            "time": "1400"
-          },
-          "open": {
-            "day": 1,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 2,
-            "time": "1400"
-          },
-          "open": {
-            "day": 2,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "1400"
-          },
-          "open": {
-            "day": 3,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "1400"
-          },
-          "open": {
-            "day": 4,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 5,
-            "time": "1400"
-          },
-          "open": {
-            "day": 5,
-            "time": "0900"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 35.32739979999999,
-        "lng": 25.1481195
-      },
-      "address": "Kalliopis 18, Iraklio 713 07, Greece",
-      "photos": [
-        {
-          "height": 2992,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114948240594999890810\">Bajram Ceni</a>"
-          ],
-          "photo_reference": "CmRaAAAASeN0UNg3UfYeCwQayX40xx_Ivq2EsEUokIRoQCKXm6hI3iF3snfTklE7aPspuLsP52dk1AAfhpEdcwseqUZ-1l_uVy5S83qGaa2qw_73lNI54WAtYnFJyk3C9XzDT2pXEhB6UNPrX4fQ9V3J7cRJaX-DGhTuEOj99EKCJoF3JFImGagDykH7zg",
-          "width": 5312
-        },
-        {
-          "height": 2992,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114948240594999890810\">Bajram Ceni</a>"
-          ],
-          "photo_reference": "CmRaAAAAqXyYHCKS3-LhI8rFajfNORv5Hj41v6osFpE74yLzOjmJCw2yCpHmdT3ukRdEBL_jKzZ5cL3ZnMP6FJ298rlk_GTgqeLKPGdRKz6f-tK3plBbI8vWWicy897VfXrnhjmyEhDCbhv2nXrQIHlIFgZesJs7GhTJdhwkOpQ_nYa-_iJMTiXvMQSnbg",
-          "width": 5312
-        },
-        {
-          "height": 2992,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114948240594999890810\">Bajram Ceni</a>"
-          ],
-          "photo_reference": "CmRaAAAAXyMzTi2cFgcwA7784P-_W7L62kHkl5FOrj86BynfTgu1Y4vIl4Vd6uBwzIwMfXlAEmXcfp9xM7sXq5DSwOhc_GpUcP5DZ9NdLO_3rCdvi8xCxMpmJ-l_a4_X9gnbNA4JEhB9oD-aAb7N1ZipeMaGkNhhGhTcnKic7_Fl8D5snzh0bfdoiz71mA",
-          "width": 5312
-        },
-        {
-          "height": 2992,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114948240594999890810\">Bajram Ceni</a>"
-          ],
-          "photo_reference": "CmRaAAAA3sptjBIng9JBphm_yUxjSH_mJCeoeTD858Tq6380mcn2fbLngoTZTADte99uao290WYe6DjK1buLjpt5S5d9YvEPwk0egM979wKaf-ACJBTmTZnZvlE2_eG6pijULni9EhBEuZwD7teEzTfWvsehZ3OIGhSya2SlZnTyIEbheMGe6IU_cXjsrQ",
-          "width": 5312
-        },
-        {
-          "height": 4608,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106841775369827813469\">Veaceslav Gaju</a>"
-          ],
-          "photo_reference": "CmRaAAAAivMQYg5oMifMZI3CmSAmSjXgyDO86FFBQrGDC6eQHVGOI-TmztWXlCFSEnGh1U6WTSa6O6uRu7DyF2oY37J9hPL8fC-vgmHVgEVNqLBkakJpawQ6s8J7xhDZNIRckeRhEhApmdmSPtay5chboJrtqcFXGhR-8vbLsddycINGAOfZxOnf162HsQ",
-          "width": 3456
-        },
-        {
-          "height": 2992,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114948240594999890810\">Bajram Ceni</a>"
-          ],
-          "photo_reference": "CmRaAAAA9xop2ZrVRP-_NvXgFXDuqFhd9pIPzFygd9uCAYuSy4WipyvLhy5Wkfb7Xjey6t6_P5i9WlDW5hLlNtxjIeIN4BsDVMOvKkEqmauD9g35jUSLQj-xh8bRVjdw7neynGlWEhD0AghHuEGSzz9MCdhBfshJGhSjw_-Akw-o0OTd1nCezvGgkjSqlw",
-          "width": 5312
-        },
-        {
-          "height": 637,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118166524690540329742\">Cretan Beaches</a>"
-          ],
-          "photo_reference": "CmRaAAAAJietZDBxWTmtR-PrXUYbmAneW5uH6quWMRxC-OG3UQ7sSl9upP1V83gL4yuQilGV17PFIXip-WMfmJP5JkxmQ6AoNfM3l8gYQf6nb0WgV8crzfsbteN5EBE8IzYAf2uoEhDNf3SQ3LNGmp-WKJJvS4OqGhRTI-YpD7XHMenbnksRIW0bgNYyJg",
-          "width": 960
-        },
-        {
-          "height": 641,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118166524690540329742\">Cretan Beaches</a>"
-          ],
-          "photo_reference": "CmRaAAAAlYx_rlnZCx5mtgGcYgv-zUsdXUFvKqMKMklD9-SE3g9t-D0wDrw3xHzonlevxE8K3opiSVZX-XyDvn4ooJaOxZ2XkkD6OPSBZSylHoIUJz_uDSohMcKinCbKLQyJf7PlEhDQ7aNDXNaH-fzg-j-8ypLGGhRdlfWXAqwgACL8r13nsRv7MfYOCg",
-          "width": 960
-        },
-        {
-          "height": 1600,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118166524690540329742\">Cretan Beaches</a>"
-          ],
-          "photo_reference": "CmRaAAAAprgtop45T8E9QIGpoNQH9Mabel2Jc02W-ZDpxZqW90-spPoxeB_KStE6Th-NSafMuqgd8sYtIQYi13ubH9MyhlvoIYmeNFk_cr9AgTHal4qfzl581p3fHVjcPb8Ieg-LEhCM5G8H_D5aeVn19CMUHgtbGhROXsq9bqR729PL2uaYkX-lgv2HWA",
-          "width": 1063
-        },
-        {
-          "height": 266,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118166524690540329742\">Cretan Beaches</a>"
-          ],
-          "photo_reference": "CmRaAAAA9Zz2Rn1Yzu8kY2gy7hsr7a0whU0rMrYUt2JyeZ52uZuOwrnITYzG06i2JHYQ9U4p8qjPybAXamUaEwDyrcMzSPt9sld0GwGWRdjeQx2VxHFJfPolLSXQIXXke5hSdnIKEhCpWKYrS-xv6CPV3j1u9niFGhR9cKglbED3y7OfP-Upo57dw_hi6w",
-          "width": 720
-        }
-      ],
-      "rating": 4.6,
-      "website": "http://www.cretanbeaches.com/"
+      "website": "http://iakm.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Neoria Vechi",
@@ -2640,7 +2506,8 @@
         }
       ],
       "rating": 4.3,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Museum of Ancient Greek Technology of Heraklion by Kotsanas",
@@ -2811,107 +2678,8 @@
         }
       ],
       "rating": 4.9,
-      "website": "http://www.kotsanasmuseum.com/crete"
-    },
-    {
-      "name": "Knossos",
-      "orig_name": "Knossos",
-      "place_id": "ChIJxyv3AhdZmhQRMIbCdC-9AAo",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "",
-      "int_phone": "",
-      "hours": "",
-      "coordinates": {
-        "lat": 35.2984804,
-        "lng": 25.1595555
-      },
-      "address": "Knossos 714 09, Greece",
-      "photos": [
-        {
-          "height": 1224,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111450325596580221957\">\u0391\u03b8\u03b1\u03bd\u03b1\u03c3\u03b9\u03bf\u03c2</a>"
-          ],
-          "photo_reference": "CmRaAAAA6ipnlp9h7LZNAP-qeIUHZ_gjGPqYSpFYo9kP7yMWVfX0KBbYIcLNR3e3m4a6fb441qFS95_OlD-Wh9ijMjD0dbDqYhCiyvIGyIfud-RaLUAjC5D43N2gcOf6j6HeWzzJEhCUt_UW5zhTznECKniiocuzGhT1L8zM3wdrl5drJfZgey49fdTOuA",
-          "width": 1632
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/101119773104961166699\">Maria Maier</a>"
-          ],
-          "photo_reference": "CmRZAAAAZ_SK1LZ2tkvFezuXPRYVT8c_Yu7pebOIG-CrI2M-NAreExNle5nWRxAjqDU8gZqfQUJsTTldc7nTml9b56losYuZ9QyeqOoNOWva6gDr7LbFDQ6f35Af6CVL-3D58DgdEhDubBKMDfBg8nvGw4LR1Y3QGhTvbR4xvVzCmPzNNN-uy8kQDDXvgQ",
-          "width": 4608
-        },
-        {
-          "height": 1836,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103276444101178460256\">Jacqueline Staal</a>"
-          ],
-          "photo_reference": "CmRaAAAA_cnuliEHd7MLKmM_9xxYVfAOvi51X6I_MUISN4-s-BTo7zDMwvtldUVWtjdR2i9EVTf5O2vrtEVCEWRrSymTkAohjkF5DlZWLWLLDkLmUcjexU_W1efcOYuaCETsl3M2EhCbBdikLWW2P1ZvI4hnkImhGhT-cEW0HGZtYP-SNLqAJjNYEBxlHw",
-          "width": 3264
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/116743466292972550196\">Nick Andrikopoulos</a>"
-          ],
-          "photo_reference": "CmRaAAAAcby1YHV60Yp22fWBWQgJuxQP09kNaZ97u1LtgTSHj35mcHdGKhRbF-q_iiGBSXDZ7CUCMe0icwDtm8NoYBwsWufRUtyRIwZz53jBCvLkKVlnPog1xGN_XsY1aGa0D_9YEhAluremXzdna0Os2X7GipMfGhRtUJ_fQR_aguylDlQnYON8U7keDA",
-          "width": 4160
-        },
-        {
-          "height": 720,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109410821412743930718\">Alexandros Roniotis</a>"
-          ],
-          "photo_reference": "CmRaAAAAdZ0AtWf5ZqwBKW0L9cz-QkRZCsYHXvv77qajpm9DUbYFna19olpTX-GjeRO82OSzY2_mVvsf9JmUW2dh2h9NOlGCiLLTRl7AJZlxf3bVCSdfASG8D5wKp1LAnVsm856gEhBNTt3lbpM-zJssY7W1PbS_GhTOqXccLxYEvopJrKh2MxTUH4l0Eg",
-          "width": 960
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/113467544274194624218\">Shane Conrow</a>"
-          ],
-          "photo_reference": "CmRaAAAABGeCt7NYJWL0QjQOVCcctUVcS4QQlW1qg1pE-LEjY2MDxuxuQoD2LpVevqQv3YEQb3Xs5SU04bANCNWlpzaB5NfzJlKXKafUYYxMPxZcYeqAO8iQGwiW1c31lbtSOZrTEhBKNZZ5Laeo634M3avuckTvGhTDGGlpIZiaGGTo7gmyWQkOviDM0A",
-          "width": 4032
-        },
-        {
-          "height": 600,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/113758380506266327415\">paola rita tognetti</a>"
-          ],
-          "photo_reference": "CmRaAAAAGiQRpdj24qZv3fzcJQztkNudU81sMCoDRGqv69hlEDxmc41rmZ7htI4kgSJOpSNKrAKjQrAW2wEz8UsTOlZqrlsYy1AMA3wMyPExDOzdgarRwdxn_jtloG-vqZjWXiedEhA6VdHx365PBEa3241QRHweGhQaGlXKiIYPAhBL9e55nP88DrAQiw",
-          "width": 800
-        },
-        {
-          "height": 598,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/105168054115743694600\">Derek Patrick</a>"
-          ],
-          "photo_reference": "CmRaAAAA9luqWXR5KwovO8iqGD9REnvc9K0EDOcadZ7jsOkHH7K0TfuFg86LZbtl49-TKjbzCQNGHCIxcdgsDyLwTrsl1lu5c7DE0OKD7E9cpHe4ewei59ZFfRSmJEp_h8kUnyMjEhAGkYToXoJsPmMRLq68mMvgGhRRsqxJXeHh5MqSQNUclSfIKHycnQ",
-          "width": 1080
-        },
-        {
-          "height": 1860,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/117385754261120455957\">Krzysztof Robak</a>"
-          ],
-          "photo_reference": "CmRaAAAArIzlqiJ57ia_8Fv0zM5j5QXSI7co10bTn1KHCELOX_ENLIOpf-B92esoGBLFrXAAFoX4lQD7yP1s54UYB2lj607MlV1gWFqMLDJXQWaKJH75rNW0S8M5Kh1K2Lw-F-5nEhDUgly7M8I1_jp5wmgbAdkAGhRV0iFRxgJYHbEGTNO1Px_G494iVQ",
-          "width": 4032
-        },
-        {
-          "height": 2322,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104136172376767328768\">mihhai liviu</a>"
-          ],
-          "photo_reference": "CmRaAAAAux3lQmXRcZyNEd-P4oav0R8vcs5Tg3muBYoMNXAbeZSzgNUagpJZGIuFGGmJQxhfkeJ5kL0wt1wE7PcMRYk6P7nNPJ9bVvR9tUfFAsfTt-VLiAFCCGwV2c-rTCoo1I_JEhAZH-BkUZkgdxJkTpvxFe5pGhTp1xf0EIYZb8ndzmWddrSQ69ZEzQ",
-          "width": 4128
-        }
-      ],
-      "rating": null,
-      "website": ""
+      "website": "http://www.kotsanasmuseum.com/crete",
+      "quote_source": "go"
     },
     {
       "name": "Skotino Cave",
@@ -3011,7 +2779,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.cretanbeaches.com/el/%CF%83%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%B1-%CF%84%CE%B7%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/%CF%83%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%BF-%CF%83%CE%BA%CE%BF%CF%84%CE%B5%CE%B9%CE%BD%CE%BF%CF%8D-%CE%B1%CE%B3%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE"
+      "website": "http://www.cretanbeaches.com/el/%CF%83%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%B1-%CF%84%CE%B7%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/%CF%83%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%BF-%CF%83%CE%BA%CE%BF%CF%84%CE%B5%CE%B9%CE%BD%CE%BF%CF%8D-%CE%B1%CE%B3%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE",
+      "quote_source": "go"
     },
     {
       "name": "Agia Ekaterini Church",
@@ -3047,7 +2816,8 @@
         }
       ],
       "rating": 4.6,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Palace of Knossos",
@@ -3147,7 +2917,8 @@
         }
       ],
       "rating": 3.5,
-      "website": "http://odysseus.culture.gr/"
+      "website": "http://odysseus.culture.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Municipal Gallery",
@@ -3247,7 +3018,8 @@
         }
       ],
       "rating": 4.6,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Pottery Workshop",
@@ -3408,7 +3180,8 @@
         }
       ],
       "rating": 5,
-      "website": "https://www.instagram.com/potteristas/"
+      "website": "https://www.instagram.com/potteristas/",
+      "quote_source": "go"
     },
     {
       "name": "EscapeRooms.Gr",
@@ -3579,7 +3352,8 @@
         }
       ],
       "rating": 4.9,
-      "website": "http://escaperooms.gr/en"
+      "website": "http://escaperooms.gr/en",
+      "quote_source": "go"
     },
     {
       "name": "Arolithos Traditional Cretan Village",
@@ -3750,7 +3524,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.arolithos.com/"
+      "website": "http://www.arolithos.com/",
+      "quote_source": "go"
     },
     {
       "name": "Karteros beach",
@@ -3857,7 +3632,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.cretanbeaches.com/el/%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%CE%B9%CE%BF%CF%82-%CF%84%CE%BF%CF%85%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B5%CF%82-%CE%BA%CE%B5%CE%BD%CF%84%CF%81%CE%B9%CE%BA%CE%AE%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82-%CE%B7%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B1-%CE%BA%CE%B1%CF%81%CF%84%CE%B5%CF%81%CF%8C%CF%82"
+      "website": "http://www.cretanbeaches.com/el/%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%CE%B9%CE%BF%CF%82-%CF%84%CE%BF%CF%85%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B5%CF%82-%CE%BA%CE%B5%CE%BD%CF%84%CF%81%CE%B9%CE%BA%CE%AE%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82-%CE%B7%CF%81%CE%AC%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B1-%CE%BA%CE%B1%CF%81%CF%84%CE%B5%CF%81%CF%8C%CF%82",
+      "quote_source": "go"
     },
     {
       "name": "Aquaworld Aquarium & Reptile Rescue Centre",
@@ -4018,7 +3794,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "https://aquaworld-crete.com/"
+      "website": "https://aquaworld-crete.com/",
+      "quote_source": "go"
     },
     {
       "name": "Boutari, J., & Son Wineries S.A.",
@@ -4169,7 +3946,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.boutari.gr/en/wineries-estates/wineries/12boutari_2011072612.wines.php"
+      "website": "http://www.boutari.gr/en/wineries-estates/wineries/12boutari_2011072612.wines.php",
+      "quote_source": "go"
     },
     {
       "name": "Dinosauria Park",
@@ -4290,7 +4068,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.dinosauriapark.com/"
+      "website": "http://www.dinosauriapark.com/",
+      "quote_source": "go"
     },
     {
       "name": "Watercity",
@@ -4461,7 +4240,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://www.watercity.gr/"
+      "website": "https://www.watercity.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Monastery Panagia Kera Kardiotissa",
@@ -4561,7 +4341,8 @@
         }
       ],
       "rating": 4.6,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Phaistos Minoan Palace",
@@ -4732,80 +4513,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2363"
-    },
-    {
-      "name": "Walking Tour of Heraklion Crete",
-      "orig_name": "Walking Tour of Heraklion Crete",
-      "place_id": "ChIJg0d2s8lZmhQRn2y1N8KcuV8",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "694 450 0072",
-      "int_phone": "+30 694 450 0072",
-      "hours": [
-        {
-          "close": {
-            "day": 2,
-            "time": "1800"
-          },
-          "open": {
-            "day": 2,
-            "time": "1600"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "1800"
-          },
-          "open": {
-            "day": 4,
-            "time": "1600"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 35.329781,
-        "lng": 25.136604
-      },
-      "address": "Leof. Knosou 44, Iraklio 713 06, Greece",
-      "photos": [
-        {
-          "height": 720,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/108561171095401581977\">Walking Tour of Heraklion Crete</a>"
-          ],
-          "photo_reference": "CmRaAAAAp_RND1ENPm7gEg9zOfULu3EXNCoiSNtS8GkrldmzI2caieq4DKQYTj7lTs_KFlPzIHYmn9dd9oaHEzSGtJa6Jdv24JIkMnZHvT8bN_b0avkIC7_VzwubvxRPyfwUtc-PEhDUMEq9qCBbbGUJM4RP5VY4GhRbwqK2giiUhmOZw_ID6lZ7hKISfg",
-          "width": 960
-        },
-        {
-          "height": 720,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/108561171095401581977\">Walking Tour of Heraklion Crete</a>"
-          ],
-          "photo_reference": "CmRaAAAAH3r5Y3mMiV8bP5oCXgj5xZwPXuStIzinT6ROTbSVxUvU6MrROXxNzgcs9UXcpgrQIsagyq2XgQzBiEVeXj6guZsbGD_038zTZHDQvEDkWlqf53VJPn-eQnPgXhekFHmXEhB2l2xQpjkIxtra3I3kAWEnGhTo_oycWF7xTeHDt98jqzXY_Zl5QQ",
-          "width": 960
-        },
-        {
-          "height": 720,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/108561171095401581977\">Walking Tour of Heraklion Crete</a>"
-          ],
-          "photo_reference": "CmRaAAAAyo2ECwoQW_fmgbkY4MMsK9j0iDv8XCwj2TpDP4CGFvQPeGISnSAHu6aYhhJ9eDkC8qZrZyj-C5wPmElhFmUlKidWuTknWGdJIMyJsKiJHCDvJvf41nYgcbcz71MYE0QQEhDs0gcvkvGmsMV3mX5YqpG7GhTmwcAhvcPRMhiLMlDBVVsSQfdA3A",
-          "width": 960
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/108561171095401581977\">Walking Tour of Heraklion Crete</a>"
-          ],
-          "photo_reference": "CmRaAAAAxbvsV8GBNE9R4I2pY1_dSMSxpWujvkFeomaLspgOL8Z5eSH4B7raDntzRKdhrq7io1UlhLf9sIOh2UqUbI-sc7_0DojCcKA78VLYuMEMgZ8Fl6b1lcpN7xLFfDNu1Z9hEhDBYmXHjX8SKC4YCM9LLnryGhTvB6w5Gw0oEebIz7af2z1icfEQ-g",
-          "width": 4032
-        }
-      ],
-      "rating": 0,
-      "website": "http://www.1618freetour.com/"
+      "website": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2363",
+      "quote_source": "go"
     },
     {
       "name": "Nikos Kazantzakis Museum",
@@ -4976,7 +4685,8 @@
         }
       ],
       "rating": 4.7,
-      "website": "http://www.kazantzaki.gr/"
+      "website": "http://www.kazantzaki.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Seasun Daily Private Cruises",
@@ -5137,7 +4847,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "https://seasun.gr/"
+      "website": "https://seasun.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Knossos Palace ENTRY",
@@ -5308,7 +5019,8 @@
         }
       ],
       "rating": 4.1,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "ancient Apollonia",
@@ -5415,7 +5127,8 @@
         }
       ],
       "rating": 4.5,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Diktaion Andron",
@@ -5515,118 +5228,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=1628"
-    },
-    {
-      "name": "Info Point Heraklion",
-      "orig_name": "Info Point Heraklion",
-      "place_id": "ChIJnTUp3kZbmhQRB4fy3U6-HdU",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "281 340 9777",
-      "int_phone": "+30 281 340 9777",
-      "hours": [
-        {
-          "close": {
-            "day": 1,
-            "time": "1430"
-          },
-          "open": {
-            "day": 1,
-            "time": "0830"
-          }
-        },
-        {
-          "close": {
-            "day": 2,
-            "time": "1430"
-          },
-          "open": {
-            "day": 2,
-            "time": "0830"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "1430"
-          },
-          "open": {
-            "day": 3,
-            "time": "0830"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "1430"
-          },
-          "open": {
-            "day": 4,
-            "time": "0830"
-          }
-        },
-        {
-          "close": {
-            "day": 5,
-            "time": "1430"
-          },
-          "open": {
-            "day": 5,
-            "time": "0830"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 35.338824,
-        "lng": 25.1331735
-      },
-      "address": "Nikiforou Foka Square (Lions Square), Heraklion, Crete 712 01, Greece",
-      "photos": [
-        {
-          "height": 357,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/113313067828956338021\">Info Point Heraklion</a>"
-          ],
-          "photo_reference": "CmRaAAAAyUR_-vwzLqB_-wFND2qGMy27C56tbmfR8OvpOJ4b4DYdhE2O4T6EMCjeH3R_p21UqB7lHNg4I7NcCiKktnJS-de8gmBr8manQFgkHQ06_JBHrmo-yShWZxbyXsX8cNRFEhASGK6nFltpwomQIk_l3mR7GhTMX27m11CbR_vZ-mJm5Uo2WUGi1w",
-          "width": 500
-        },
-        {
-          "height": 533,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/113313067828956338021\">Info Point Heraklion</a>"
-          ],
-          "photo_reference": "CmRaAAAAyWn0onudqaXEeOCiZMINHCR1WuvBMSD-KFAug6kvp98XvVSmMkRP8AUkAd7ThGLZUoM7sqXD9HnvFU5LEiKhuuWGO3WMBVXgngPd-7oRO0l2VpZEEE8oCxNXdbMylgDQEhACTj_pUh3C65fMHNjNLX6_GhRLps-0SfDX5rg2WT4og7HWojAvsA",
-          "width": 800
-        },
-        {
-          "height": 306,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/113313067828956338021\">Info Point Heraklion</a>"
-          ],
-          "photo_reference": "CmRaAAAAws6EMRNwGmGWHFnlM4O7CPPgfjwb5UQ8EiT4TFBlxcY7pbzEHHumDH1P4ChjUPxdEBHZOn1K1TM4DX1rsJNPXehkpnFH_FM6siDL3hs-tPPoADkz81DDtMK5k35YPP7SEhD4wndxM_7jvdDmE6iftnd7GhTEy-siUmE7UIX2_bp68ge0B5IO0Q",
-          "width": 409
-        },
-        {
-          "height": 4608,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102065205372762334717\">Toma Volokova</a>"
-          ],
-          "photo_reference": "CmRaAAAApeylBCUyP1JxfwpeVREC05sAA8J36lgM2fV5hb9PdktlCoOuMw3_52CuSq7xjHUTYEV6Fq_nL07OT7jxOyrVzHHP208z2S8MDEFUhCNOoIv6KJqkfSazshO2_beFyFIKEhBQY6zmn3jshq5hlw5ljE1yGhSqb8-MtO0-0p46LJ7QHvk3Uly62Q",
-          "width": 3456
-        },
-        {
-          "height": 1280,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115826263768554841421\">The Traveller</a>"
-          ],
-          "photo_reference": "CmRaAAAAZ6Y9tePfIv1Y5REamLXSbPuV7Q9dWObfpJtr_NbDIyXXhoAhwEQFaHhDAuSH0bMOcHGSjBPNG0RRwwPu96MK_uWqyQArFMdtRrS_1SpMU1jN1MbrQtjXA0Ka4BStSFE-EhCeBFf8hJ3VfzMCj5zrKUkTGhRN9dAkAZ0UCQoSCrC72yIP4hmW7Q",
-          "width": 720
-        }
-      ],
-      "rating": 3.8,
-      "website": "https://www.facebook.com/Heraklion-Municipal-Tourist-Department-709924672444858/"
+      "website": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=1628",
+      "quote_source": "go"
     },
     {
       "name": "Analipsi Beach",
@@ -5726,7 +5329,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.analipsibeach.gr/"
+      "website": "http://www.analipsibeach.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Beach of Mononaftis",
@@ -5833,7 +5437,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "https://www.agiapelagia.com/Beaches/Mononaftis-beach.html"
+      "website": "https://www.agiapelagia.com/Beaches/Mononaftis-beach.html",
+      "quote_source": "go"
     },
     {
       "name": "Aposelemi Beach",
@@ -5940,7 +5545,8 @@
         }
       ],
       "rating": 4.4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Labyrinth Park",
@@ -6061,7 +5667,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "https://www.labyrinthpark.gr/"
+      "website": "https://www.labyrinthpark.gr/",
+      "quote_source": "go"
     },
     {
       "name": "\u0391\u03b3\u03c1\u03bf\u03c4\u03b9\u03ba\u03cc \u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u039c\u03b5\u03bd\u03b5\u03bb\u03ac\u03bf\u03c5 \u03a0\u03b1\u03c1\u03bb\u03b1\u03bc\u03ac | Parlamas Museum of Rural Life",
@@ -6212,7 +5819,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "https://www.historical-museum.gr/gr/content/agrotiko-mouseio-menelaou-parlama"
+      "website": "https://www.historical-museum.gr/gr/content/agrotiko-mouseio-menelaou-parlama",
+      "quote_source": "go"
     },
     {
       "name": "Eleftherias Square",
@@ -6312,7 +5920,8 @@
         }
       ],
       "rating": 4.2,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Cretan Thematic Park - \"Meeting the Minoans\"",
@@ -6443,168 +6052,8 @@
         }
       ],
       "rating": 3.6,
-      "website": "http://www.cretanthematicpark.com/"
-    },
-    {
-      "name": "PALEOLOGOS S.A. Shipping & Travel Enterprises",
-      "orig_name": "PALEOLOGOS S.A. Shipping & Travel Enterprises",
-      "place_id": "ChIJ4eiybC5amhQRGEo9nNWY5-M",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "281 033 0598",
-      "int_phone": "+30 281 033 0598",
-      "hours": [
-        {
-          "close": {
-            "day": 1,
-            "time": "2000"
-          },
-          "open": {
-            "day": 1,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 2,
-            "time": "2000"
-          },
-          "open": {
-            "day": 2,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "2000"
-          },
-          "open": {
-            "day": 3,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "2000"
-          },
-          "open": {
-            "day": 4,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 5,
-            "time": "2000"
-          },
-          "open": {
-            "day": 5,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 6,
-            "time": "1500"
-          },
-          "open": {
-            "day": 6,
-            "time": "0900"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 35.34206,
-        "lng": 25.134416
-      },
-      "address": "5, 25th August str, Iraklio 712 02, Greece",
-      "photos": [
-        {
-          "height": 288,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104112710603217009473\">PALEOLOGOS S.A. Shipping &amp; Travel Enterprises</a>"
-          ],
-          "photo_reference": "CmRaAAAAJYclIZl0dPHHEHmE0eo9Y5TGzetSzXqduNa3ECoGhyM9nJkF0pst9XfH3DaKqe8ojymDr4eGlszg14A4IRiCRjXgJr9cmYoaxJMhs7cMrw1bvDYOKJMeZ0jbduZUpjL7EhD5l23N-lD9lTMFQPAfK__GGhSFjHer3IEIv5e2H6nczHmrvwRo_Q",
-          "width": 690
-        },
-        {
-          "height": 483,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104112710603217009473\">PALEOLOGOS S.A. Shipping &amp; Travel Enterprises</a>"
-          ],
-          "photo_reference": "CmRaAAAAu7x5IRykdeVOFnAQpDoZoRBP2eYp9rgaNOIdrWlfl9zE1VcyXaZyj2_5NcAsURYAlybId3Regb_tf1_U8TVlwJaK2lpGGxzhKp340WD_Kv703Z50qZZ_N4GLkmkK83QmEhBTETCRuvs-4HzS8vHRQut9GhR9lEp7LVOiViNeFxxQtdEr6a7Dhw",
-          "width": 852
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106511990908882070777\">panos skiadas</a>"
-          ],
-          "photo_reference": "CmRaAAAAhH7p0zpr14QrevY2UZvPbWhqW9R3TaE22HCY9UEUTXo19C7Nl8vRN6TkP8sPEp4oqXHkTQcBXChCjZa_ymMad3DgyN_piQJ9eUXu-oAcg8Yeu2BFIESENhD09erbmjkYEhC6WSpptoEjSWkaM9o9f0e8GhQ2lQ1LKuuWDd7CZ-0G0yH6TNc8Bw",
-          "width": 4032
-        },
-        {
-          "height": 1920,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103592073502700072524\">\u0393\u03a1\u0397\u0393\u039f\u03a1\u0399\u039f\u03a3 \u039d\u0399\u03a9\u03a4\u0391\u039a\u0397\u03a3</a>"
-          ],
-          "photo_reference": "CmRaAAAAgxoX4cEKAe8DxGpdjwWzeUgOMw4Kr4znldg3too10pnAa0BKpt0ix3w5thygRTNt-Xdp3tXYyBmPABMznKLFNcIoeBx03t3KhrLD1AmFOvQMhzztSTBW-2XdEhUG9xl1EhD744BxQcSzuNrfKNNmWwLjGhQVwGt1tyX0foZmbjmGNUi20BLZJg",
-          "width": 2560
-        },
-        {
-          "height": 640,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104112710603217009473\">PALEOLOGOS S.A. Shipping &amp; Travel Enterprises</a>"
-          ],
-          "photo_reference": "CmRaAAAAvlyHE8r5ejAfC5Bj8gugi4_c_flDY8InpC1gEKJk7CXCLryJpJtvzTAzG968VYP3aMdJ87n6s3mrCnWLUk9M7bBA7oBbyZJ0EgHW_CJKGTRNDcu0A3EM5Rnq6m64cfopEhBRC2GA2BpPgeaF4Ph4oriQGhSKB9KyKIw3QQNEW8HfhJ9XG28RhQ",
-          "width": 480
-        },
-        {
-          "height": 2378,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104112710603217009473\">PALEOLOGOS S.A. Shipping &amp; Travel Enterprises</a>"
-          ],
-          "photo_reference": "CmRaAAAAuv3pIkUg3gTNDf5t81UAUvfW5mYP5GvgWNtotYwgucU0vBBMaK2TcIrBFVYZ9XN41Zw6SfbE2w2ZhAwdQr1paZrhz9VStusHeNFtoGJ_ND2gKTTmN11YpJh1GNIzrIz_EhC_1ZN9upWPuR0eVHGEes35GhSHzFV3kwnCnl4LR2vrPQnTTwR2oA",
-          "width": 3987
-        },
-        {
-          "height": 533,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104112710603217009473\">PALEOLOGOS S.A. Shipping &amp; Travel Enterprises</a>"
-          ],
-          "photo_reference": "CmRaAAAAW65dNEUyaq-isaLWZeqtzO4etBVk6nh2fW03R9viKgFIwZVHCH-30oeTfd7_gcdeh0dVqTKLFJ3jqAPG-HtKzNeXV1A0tcLs9GTWFiGavXMu7QevRsQ3jx3sTgPKhgwTEhCk0Kq5FB-dflsMEToDCD_IGhSjFWBQ3TOp8LOcTgOxQ99yig8-kg",
-          "width": 800
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107380793385868486305\">Monika Quednau</a>"
-          ],
-          "photo_reference": "CmRaAAAAynLh_PIOaOwPNnAXGmbJsphFcqlvGBNoWHBsyftCydrkWNr-jj5Rupv8pm1dypX7ZKjwVV8FGRHhZZnJo5yyeIGDBQVS0pGFm5FqYGlVkYguACov9B09Bzw6Ja8vEydcEhCOTITkMv2Qt37q2cPL_Xa0GhSgNH2miAFbzGPI0Ugvx7GW7oz53Q",
-          "width": 4032
-        },
-        {
-          "height": 600,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104112710603217009473\">PALEOLOGOS S.A. Shipping &amp; Travel Enterprises</a>"
-          ],
-          "photo_reference": "CmRaAAAAoDqDy4rBpjE4xTuzoHhG7iemkE0fpUhQ7ctYQIb6uA6VbR51v57d_NbI6_3ThJneDrMZFJPHf5g-l3kdeSy-c8_3Hm_HT4sGG8KU_ZBlzNZuBgCwP_IN_B4F38eDcoyjEhBW2HIl5PsDbCXQg3bDCuhHGhTMi5x8_xqEghSToR17YANzxn1tNw",
-          "width": 900
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104112710603217009473\">PALEOLOGOS S.A. Shipping &amp; Travel Enterprises</a>"
-          ],
-          "photo_reference": "CmRaAAAA6lEct41WUC-9N33du-0yOYzzh-ighf_ezC_-4gckmIQ7ay2SxQw6iXtPqK_c8hVtMwmL_-WCr9IySERaCcqZcmlBxgdvdlCWG13-qgRreNuw7xNOFj_ge87YtZE6_n36EhBjd5ENjnuXrVRzBsJfPDKiGhTZUK7tToFetQXHvgft7VFpsR8_8w",
-          "width": 4032
-        }
-      ],
-      "rating": 4.5,
-      "website": "https://www.ferries.gr/"
+      "website": "http://www.cretanthematicpark.com/",
+      "quote_source": "go"
     },
     {
       "name": "Quad Safari Peninsula",
@@ -6711,7 +6160,8 @@
         }
       ],
       "rating": 4.7,
-      "website": "http://www.quadsafaripeninsula.gr/"
+      "website": "http://www.quadsafaripeninsula.gr/",
+      "quote_source": "go"
     },
     {
       "name": "Archaeological Museum",
@@ -6882,7 +6332,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.cretanbeaches.com/en/history-of-crete/museums/archaeological-museums-and-collections/archaeological-museum-of-archanes"
+      "website": "http://www.cretanbeaches.com/en/history-of-crete/museums/archaeological-museums-and-collections/archaeological-museum-of-archanes",
+      "quote_source": "go"
     },
     {
       "name": "Folklore Museum of Gouves",
@@ -6982,7 +6433,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://gouvesmuseum.business.site/"
+      "website": "http://gouvesmuseum.business.site/",
+      "quote_source": "go"
     },
     {
       "name": "Ammoudara Beach",
@@ -6990,7 +6442,7 @@
       "place_id": "ChIJ5VozSFFXmhQRfcHLe6zJsv8",
       "cat_params": [],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Long, busy shoreline with sun lounger rentals & beach bars, plus favorable breezes for windsurfing.",
       "phone": "281 025 7640",
       "int_phone": "+30 281 025 7640",
       "hours": [
@@ -7089,7 +6541,8 @@
         }
       ],
       "rating": 4.2,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Roman Fountain",
@@ -7189,7 +6642,8 @@
         }
       ],
       "rating": 3.6,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Voulismeno Aloni",
@@ -7296,178 +6750,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.cretanbeaches.com/el/%CE%B3%CE%B5%CF%89%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CE%AF-%CF%83%CF%87%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CE%AF/%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CF%83%CE%BC%CE%AD%CE%BD%CE%BF-%CE%B1%CE%BB%CF%8E%CE%BD%CE%B9-%CF%84%CF%8D%CE%BB%CE%B9%CF%83%CF%83%CE%BF%CF%82"
-    },
-    {
-      "name": "Visit Knossos",
-      "orig_name": "Visit Knossos",
-      "place_id": "ChIJXTZxJ59ZmhQRrAtn_mQYczU",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "697 649 7675",
-      "int_phone": "+30 697 649 7675",
-      "hours": [
-        {
-          "close": {
-            "day": 0,
-            "time": "1930"
-          },
-          "open": {
-            "day": 0,
-            "time": "0730"
-          }
-        },
-        {
-          "close": {
-            "day": 1,
-            "time": "1930"
-          },
-          "open": {
-            "day": 1,
-            "time": "0730"
-          }
-        },
-        {
-          "close": {
-            "day": 2,
-            "time": "1930"
-          },
-          "open": {
-            "day": 2,
-            "time": "0730"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "1930"
-          },
-          "open": {
-            "day": 3,
-            "time": "0730"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "1930"
-          },
-          "open": {
-            "day": 4,
-            "time": "0730"
-          }
-        },
-        {
-          "close": {
-            "day": 5,
-            "time": "1930"
-          },
-          "open": {
-            "day": 5,
-            "time": "0730"
-          }
-        },
-        {
-          "close": {
-            "day": 6,
-            "time": "1930"
-          },
-          "open": {
-            "day": 6,
-            "time": "0730"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 35.2983463,
-        "lng": 25.1613023
-      },
-      "address": "Dedalou street, Knosos 714 09, Greece",
-      "photos": [
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106499159336519558273\">Visit Knossos</a>"
-          ],
-          "photo_reference": "CmRaAAAAzEJh5bdy6OwLK_VhP09n6VcH_i4ZmrtSGDhsy13rlp-9RXoLekbdldekmAkLhNg6_du1b_7FHx_XXIBCGiYwsZu5qx_6A5LWUnYPkMSZj0TSPHkLhzsdjMnfEz-7swIPEhDGUKlCx6hPFNPamRhU7L0gGhTrtPYx4Ut14N5pyQyyvLb4Cp8GAg",
-          "width": 3120
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106499159336519558273\">Visit Knossos</a>"
-          ],
-          "photo_reference": "CmRaAAAAGk3p7I2V6Vk10wtQ-aEm4MXGt5gIsl-D4lboZbghgcU4SpLUGNwfeK80k97rbJmQDAWiy5u7ddmMYLGP1EPWCDRtqRzT-Zq2j47FQ23imeRIkVCc85s74NhpwO_z5BkWEhDe2c0WRChgb7hudHdS_t7wGhRyXK1a3uMyyD7oP4z5ENCv09S_Zw",
-          "width": 3120
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106499159336519558273\">Visit Knossos</a>"
-          ],
-          "photo_reference": "CmRaAAAAElZEe4ITEv9e512hZyLt-n1ur0zeymZonEZwfLecuVtPN1rvA4ImAl3HVDw7G8DAlJUCk7X6iI5h0a8-pfCKtigcHa3T3q2YI74XYV7t-ukVQbZ5X6CR_AugggD2zArIEhCtk4ukQ39gYf0X28MO9mTeGhRzoGaBS2gniNfU3xVdOCCDLCsUtg",
-          "width": 3120
-        },
-        {
-          "height": 2448,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106499159336519558273\">Visit Knossos</a>"
-          ],
-          "photo_reference": "CmRaAAAAcRDcqu8Pj5AJkiCMVcjDixUHBNmUpgdj971Dtck4tE38bNf9goqwrdgEQYgqprxULNvr5TXMsxtRS37sfRdfks0CHxIWMbEZ-41QgfONPvSe6nu3bPUwLDcPQvm3PfUlEhDaQtdws2RqaaEqLLbO20bcGhTDzFJnKHgNsnUpDqdAM4dP5JjsTg",
-          "width": 3264
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106499159336519558273\">Visit Knossos</a>"
-          ],
-          "photo_reference": "CmRaAAAAaNr7Gul7blW6OAdCHJ6F-b42tmmQ8L-cZ0F8Ek0hvoXfNc4kRVP24o2PnMfPlVM9LL5g_FnExQ7Wb_j2QjE4mnumiBqjeAShucg9yqOd7A1yRxFjWxyNn0W9k2v9tK2vEhCmjQn84JVFZ36ajlnRz7prGhTRIpsuuxxE3gAcIBVW45xTTk2vKg",
-          "width": 3120
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106499159336519558273\">Visit Knossos</a>"
-          ],
-          "photo_reference": "CmRaAAAAyIDjWq05n796yQkvsa8Jnxw7bqOyXSpUo-Dfp_xcsvsLF1ZAGCBhcMxFkUCoTfv7ECLktZBsXt51eAcbrwfOY4wRbJ7a9MlSKi2pX0rdqEnlYquaM7yuj5h60w8ZdTPxEhDbVDy8u7mX56iqLb39LfB5GhSkEuE7y8WQ2_mig_tiSLABKrgijw",
-          "width": 3120
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106499159336519558273\">Visit Knossos</a>"
-          ],
-          "photo_reference": "CmRaAAAA-QNzr7x4GujhrOtsWZlDqkeV7GljLKznWKwo8skAqtqEYhAXsjEweY9AM5H8ERRF700DRWXzf61CsyLvMquhOi64z_BuzsMol1IBV7Qtwuo8K96lz_HVz8iD3Qp8zw1hEhBOA8rWngQD2sn-jAHYTxyyGhQteZ1YhCO0eDorBh2zOr7ygfYH4g",
-          "width": 3120
-        },
-        {
-          "height": 2448,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106499159336519558273\">Visit Knossos</a>"
-          ],
-          "photo_reference": "CmRaAAAAd77jitkKRJ0AFiI7cbt6wuE8-gkOTUvkahGdOGM2hTyYkSuRIadh-tHDRMK8yzwSYwaMcMKjhqXDWzIYwAJT-dHMNAv0IQtVwlo0r5-oXVdb0Ee19rgIIX9hmuhIIw1PEhAENRy19XbPiwLREDqx-t89GhQPj8AoV-IT4o24-mVtpfhtIqApwA",
-          "width": 3264
-        },
-        {
-          "height": 2448,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106499159336519558273\">Visit Knossos</a>"
-          ],
-          "photo_reference": "CmRaAAAASd2ACLhjh-55EXwD_ear6MMvKTyv_LLjKDRXr-64MB7OCq6Y-tNg1QDzXFXteIlR0hxPj2zkTy42mCIeWPlvQwssGaRRebeL5UFAmfyVB8Y-vDoAI9c4UDd4xhdfbGLiEhAqr0GlK-XDCPGHj5Ymp9MzGhSqJ2GqENOiZlc5MXYzrTNJ0mDWSQ",
-          "width": 3264
-        },
-        {
-          "height": 2448,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106499159336519558273\">Visit Knossos</a>"
-          ],
-          "photo_reference": "CmRaAAAAhRsQPmeCRk89qQK5KR6NzVElU0JpEql1mgEAs2kt1ff4rezLy3ahUUrwVraf3jPaHR6vVgP6AWr-DU9nPP4nuT3ryX8ICFVqk-jrUdCj530STNPq05_PiRfKXbmiO2sOEhBOaki9VlHjGzD5jWJ_c-C3GhRREYD3EMT-W8aTTpXBV3ykHNkWsg",
-          "width": 3264
-        }
-      ],
-      "rating": 4.4,
-      "website": "http://www.visitknossos.com/"
+      "website": "http://www.cretanbeaches.com/el/%CE%B3%CE%B5%CF%89%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CE%AF-%CF%83%CF%87%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CE%AF/%CE%B2%CE%BF%CF%85%CE%BB%CE%B9%CF%83%CE%BC%CE%AD%CE%BD%CE%BF-%CE%B1%CE%BB%CF%8E%CE%BD%CE%B9-%CF%84%CF%8D%CE%BB%CE%B9%CF%83%CF%83%CE%BF%CF%82",
+      "quote_source": "go"
     }
   ]
 }

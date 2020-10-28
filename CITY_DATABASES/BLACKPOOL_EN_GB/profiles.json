@@ -198,7 +198,8 @@
         "engineering",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Blackpool Zoo",
@@ -469,7 +470,8 @@
         "amusement",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "SEA LIFE Blackpool",
@@ -740,7 +742,8 @@
         "history",
         "movies"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Blackpool Tower",
@@ -1011,7 +1014,8 @@
         "history",
         "family"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Madame Tussauds Blackpool",
@@ -1282,7 +1286,8 @@
         "friends",
         "history"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Central Pier",
@@ -1553,7 +1558,8 @@
         "nightlife",
         "family"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Blackpool Model Village & Gardens",
@@ -1753,7 +1759,8 @@
         "engineering",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "North Pier",
@@ -1960,7 +1967,8 @@
         "music",
         "fashion"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Stanley Park",
@@ -2167,7 +2175,8 @@
         "nature",
         "walking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "The Blackpool Tower Dungeon",
@@ -2388,7 +2397,8 @@
         "family",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Ripley's Believe It Or Not, Blackpool",
@@ -2659,7 +2669,8 @@
         "fashion",
         "original"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Comedy Carpet",
@@ -2866,7 +2877,8 @@
         "amusement",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "South Pier",
@@ -3137,7 +3149,8 @@
         "family",
         "friends"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Marton Mere Local Nature Reserve",
@@ -3344,7 +3357,8 @@
         "hiking",
         "walking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Horror Crypt",
@@ -3615,7 +3629,8 @@
         "amusement",
         "friends"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "The Big One",
@@ -3815,7 +3830,8 @@
         "history",
         "cosmopolitan"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Blackpool Central Promenade",
@@ -4015,7 +4031,8 @@
         "movies",
         "fashion"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Winter Gardens Blackpool",
@@ -4276,7 +4293,8 @@
         "nightlife",
         "food"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Nickelodeon Land",
@@ -4315,7 +4333,7 @@
         0.6062854725865673
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Themed amusement-park area with rides based on \u201cSpongeBob SquarePants\u201d & other Nickelodeon TV shows.",
       "phone": "",
       "int_phone": "",
       "hours": "",
@@ -4420,7 +4438,8 @@
         "water",
         "walking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Grundy Art Gallery",
@@ -4661,7 +4680,8 @@
         "instagram",
         "architecture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Sandcastle Waterpark",
@@ -4932,7 +4952,8 @@
         "nightlife",
         "cosmopolitan"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "World Horse Welfare Penny Farm",
@@ -5163,7 +5184,8 @@
         "hospitality",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Adrenalin Zone",
@@ -5434,7 +5456,8 @@
         "engineering",
         "fashion"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Blackpool High Ropes",
@@ -5705,7 +5728,8 @@
         "cosmopolitan",
         "music"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Pasaje del Terror",
@@ -5905,7 +5929,8 @@
         "family",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Genting Casino Blackpool",
@@ -6176,7 +6201,8 @@
         "nightlife",
         "amusement"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Kingscote Park, Blackpool",
@@ -6383,7 +6409,8 @@
         "family",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Nickelodeon Streak",
@@ -6654,7 +6681,8 @@
         "movies",
         "original"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "St Anne's Beach",
@@ -6861,7 +6889,8 @@
         "nightlife",
         "walking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Lytham St Annes Spitfire Ground Display Team Ltd",
@@ -7082,7 +7111,8 @@
         "history",
         "family"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Steeplechase",
@@ -7313,7 +7343,8 @@
         "history",
         "friends"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Blackpool Promenade",
@@ -7520,7 +7551,8 @@
         "beach",
         "water"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Big Dipper",
@@ -7791,7 +7823,8 @@
         "movies",
         "fashion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Infusion",
@@ -8062,7 +8095,8 @@
         "fashion",
         "original"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "The Casino at Coral Island",
@@ -8333,7 +8367,8 @@
         "family",
         "fashion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Where to Go in Blackpool",
@@ -8452,7 +8487,8 @@
         "science",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Mirror Ball",
@@ -8659,7 +8695,8 @@
         "instagram",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Dino Mini Golf",
@@ -8930,7 +8967,8 @@
         "music",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Grand Theatre",
@@ -9130,7 +9168,8 @@
         "hospitality",
         "amusement"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Coral Island Arcade",
@@ -9401,7 +9440,8 @@
         "food",
         "fashion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Houndshill Shopping Centre",
@@ -9672,7 +9712,8 @@
         "food",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Blackpool Tower Ballroom",
@@ -9943,7 +9984,8 @@
         "movies",
         "hospitality"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Pleasure Beach Arena",
@@ -10214,7 +10256,8 @@
         "amusement",
         "sport"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Mary's Shell",
@@ -10475,7 +10518,8 @@
         "water",
         "hiking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Ashton Gardens",
@@ -10682,7 +10726,8 @@
         "walking",
         "nature"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "RNLI Lifeboat Station",
@@ -10882,7 +10927,8 @@
         "engineering",
         "family"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Highfield Park",
@@ -11082,7 +11128,8 @@
         "food",
         "movies"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Southport attractions",
@@ -11353,7 +11400,8 @@
         "hiking",
         "animals"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Funland Blackpool",
@@ -11624,7 +11672,8 @@
         "engineering",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Cleveleys Promenade",
@@ -11831,7 +11880,8 @@
         "water",
         "hospitality"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Lower Lighthouse",
@@ -12031,7 +12081,8 @@
         "music",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Lytham Windmill",
@@ -12231,7 +12282,8 @@
         "history",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Planet Kaos",
@@ -12502,7 +12554,8 @@
         "family",
         "food"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Lightworks",
@@ -12702,7 +12755,8 @@
         "books",
         "animals"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "St Anne's pier",
@@ -12973,7 +13027,8 @@
         "amusement",
         "water"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Marsh Mill",
@@ -13194,7 +13249,8 @@
         "fashion",
         "shopping"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     }
   ]
 }

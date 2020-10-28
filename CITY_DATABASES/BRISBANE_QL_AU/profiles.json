@@ -269,7 +269,8 @@
         -0.7367407086473926,
         -0.8177957288506281,
         -0.598154804121789
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Roma Street Parkland",
@@ -476,7 +477,8 @@
         -0.34952516741136874,
         -0.244389587331757,
         -0.06149699400989581
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Brisbane City Botanic Gardens",
@@ -683,7 +685,8 @@
         -0.48514785805499633,
         -0.28627019606217474,
         -0.09011019454747884
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "The Wheel of Brisbane",
@@ -954,7 +957,8 @@
         -0.06603773249772178,
         -0.31366244117203756,
         -0.15158095627927512
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Mount Coot-Tha Summit Lookout",
@@ -1161,7 +1165,8 @@
         -0.4035401783852939,
         -0.22966410701242096,
         -0.7105006808979373
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Museum of Brisbane",
@@ -1432,7 +1437,8 @@
         -0.685981214066069,
         -0.08517070784499041,
         -0.8897278243740576
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Story Bridge",
@@ -1639,7 +1645,8 @@
         1.05731050085023,
         -0.3979749565801361,
         -0.232017602409505
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Kangaroo Point Cliffs Park",
@@ -1846,7 +1853,8 @@
         -0.49699223417577787,
         -0.6637029619901476,
         -0.7815155198910833
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Brisbane Botanic Gardens",
@@ -2117,7 +2125,8 @@
         -0.52048749367018,
         -0.1771598199349561,
         0.040254959772833054
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Sir Thomas Brisbane Planetarium",
@@ -2378,7 +2387,8 @@
         0.30532199643780544,
         0.08250447891732758,
         0.017748540172618923
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Brisbane City Hall",
@@ -2649,7 +2659,8 @@
         -0.8382915171044465,
         -0.6751744840103072,
         -0.9834646372806634
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "New Farm Park",
@@ -2856,7 +2867,8 @@
         -1.0899842051360566,
         -1.1035422318814416,
         -0.6681442664651813
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Eat Street Northshore",
@@ -3056,7 +3068,8 @@
         -0.36877070346224083,
         -0.36330861754580496,
         -0.31127849154288806
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Epicurious Garden",
@@ -3263,7 +3276,8 @@
         -0.5143595606240188,
         -0.2991839457386798,
         0.8312663856858162
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Lone Pine Koala Sanctuary",
@@ -3463,7 +3477,8 @@
         -0.029622054909307822,
         -0.04502112397867156,
         0.6478539965931431
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Victoria Bridge Abutment",
@@ -3670,7 +3685,8 @@
         -0.9693218633317147,
         -1.313350769602,
         -1.1069197730243445
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Queensland Parliament",
@@ -3921,7 +3937,8 @@
         -0.8107775639218414,
         -0.39134770563600685,
         -0.8453521263951482
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Boggo Road Gaol",
@@ -3960,7 +3977,7 @@
         0.19519938424963412
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "A notorious 19th-century prison, closed in 2002, now offering tours led by former guards & inmates.",
       "phone": "(07) 3844 0059",
       "int_phone": "+61 7 3844 0059",
       "hours": [
@@ -4192,7 +4209,8 @@
         1.8499967962996602,
         0.5644713196142778,
         0.1275535942368326
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Reddacliff Place",
@@ -4399,7 +4417,8 @@
         -0.3799413089421935,
         -0.0007784575072202383,
         -0.6220644656801321
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Daisy Hill Koala Centre",
@@ -4438,7 +4457,7 @@
         0.2820153593053187
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Conservation center for koalas with eucalyptus trees, observation decks & interactive displays.",
       "phone": "(07) 3078 3101",
       "int_phone": "+61 7 3078 3101",
       "hours": [
@@ -4670,7 +4689,8 @@
         -0.5476873690697941,
         -0.14710701940188192,
         -0.1625467461482682
-      ]
+      ],
+      "quote_source": "go"
     }
   ]
 }

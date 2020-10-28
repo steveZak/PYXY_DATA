@@ -205,7 +205,8 @@
         "hiking",
         "water"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Stephen the Great Central Park",
@@ -412,7 +413,8 @@
         "walking",
         "sport"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "The Triumphal Arch",
@@ -619,7 +621,8 @@
         "movies",
         "sport"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "The Metropolitan Cathedral \u201cNativity of the Lord\u201d",
@@ -890,7 +893,8 @@
         "art",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Memorial Complex \"Eternity\"",
@@ -1097,7 +1101,8 @@
         "art",
         "walking"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Chi\u0219in\u0103u Botanical Garden",
@@ -1368,7 +1373,8 @@
         "military",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Dendrarium Park",
@@ -1639,7 +1645,8 @@
         "beach",
         "sport"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Stephen the Great Monument",
@@ -1846,7 +1853,8 @@
         "amusement",
         "cosmopolitan"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "National Museum of History of Moldova",
@@ -2107,7 +2115,8 @@
         "science",
         "culture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "National Museum of Ethnography and Natural History",
@@ -2368,7 +2377,8 @@
         "architecture",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Alexander Pushkin Museum",
@@ -2629,7 +2639,8 @@
         "history",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Military Museum",
@@ -2890,7 +2901,8 @@
         "history",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Cricova",
@@ -3161,7 +3173,8 @@
         "music",
         "original"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Chisinau ZOO",
@@ -3422,7 +3435,8 @@
         "fashion",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "National Art Museum of Moldova",
@@ -3683,7 +3697,8 @@
         "books",
         "engineering"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Chi\u0219in\u0103u",
@@ -3883,7 +3898,8 @@
         "military",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Dendrariu",
@@ -3922,7 +3938,7 @@
         0.5222270478427019
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Urban park housing a playground, sports pitches, fountains & gardens, plus trails, a lake & benches.",
       "phone": "022 719 164",
       "int_phone": "+373 22 719 164",
       "hours": [
@@ -4154,7 +4170,8 @@
         "beach",
         "sport"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Andrei Mudrea Gallery",
@@ -4354,7 +4371,8 @@
         "music",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Lacul \u201eValea Morilor\u201d",
@@ -4554,7 +4572,8 @@
         "hiking",
         "animals"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Rose Valley",
@@ -4761,7 +4780,8 @@
         "walking",
         "hiking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "R\u00e2\u015fcani Park",
@@ -4968,7 +4988,8 @@
         "animals",
         "walking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Ciuflea Monastery",
@@ -5219,7 +5240,8 @@
         "art",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Piata Centrala",
@@ -5480,7 +5502,8 @@
         "shopping",
         "food"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Catedrala Romano-Catolic\u0103 Providen\u021ba Divin\u0103",
@@ -5680,7 +5703,8 @@
         "art",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Casino Europa",
@@ -5887,7 +5911,8 @@
         "animals",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Sculpture of Lovers",
@@ -6094,7 +6119,8 @@
         "books",
         "music"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Curchi Monastery",
@@ -6294,7 +6320,8 @@
         "art",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "National Arts Museum",
@@ -6565,7 +6592,8 @@
         "books",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Piata Centrala",
@@ -6836,7 +6864,8 @@
         "food",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Church of the Intercession of the Virgin Mary (\u201dM\u0102Z\u0102RACHE\u201d)",
@@ -7107,7 +7136,8 @@
         "art",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Monument to the victims of Jewish ghetto",
@@ -7314,7 +7344,8 @@
         "history",
         "books"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "quote_source": "go"
     },
     {
       "name": "Capriana Monastery",
@@ -7585,7 +7616,8 @@
         "art",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Lenin statue",
@@ -7785,7 +7817,8 @@
         "science",
         "art"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Bendery Fortress",
@@ -8056,7 +8089,8 @@
         "original",
         "books"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "quote_source": "go"
     },
     {
       "name": "Monument Toma Ciorb\u0103",
@@ -8199,7 +8233,8 @@
         "science",
         "amusement"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Mimi Castle",
@@ -8470,7 +8505,8 @@
         "hospitality",
         "shopping"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "ZENTRUM Apartments",
@@ -8677,7 +8713,8 @@
         "religion",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Conacul Manuc Bey",
@@ -8938,7 +8975,8 @@
         "instagram",
         "shopping"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Tucano Coffee Costa Rica",
@@ -9209,7 +9247,8 @@
         "cosmopolitan",
         "nightlife"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Noul Neamt Monastery",
@@ -9409,7 +9448,8 @@
         "engineering",
         "hiking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Transfiguration Church, Chi\u0219in\u0103u",
@@ -9620,7 +9660,8 @@
         "religion",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Palatul Princiar \"Manuc Bey\"",
@@ -9881,7 +9922,8 @@
         "original",
         "sport"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Parliament of the Republic of Moldova",
@@ -10132,7 +10174,8 @@
         "military",
         "art"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Prim\u0103ria Municipiului Chi\u0219in\u0103u",
@@ -10383,7 +10426,8 @@
         "military",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Monument to Suvorov",
@@ -10590,7 +10634,8 @@
         "art",
         "water"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Milestii Mici",
@@ -10790,7 +10835,8 @@
         "engineering",
         "original"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Jewish cemetry",
@@ -11051,7 +11097,8 @@
         "culture",
         "cosmopolitan"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Moldova National Opera Ballet",
@@ -11251,7 +11298,8 @@
         "amusement",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Kira's Club",
@@ -11522,7 +11570,8 @@
         "music",
         "food"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Panda Kids",
@@ -11793,7 +11842,8 @@
         "amusement",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     }
   ]
 }

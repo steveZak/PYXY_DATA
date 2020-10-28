@@ -198,7 +198,8 @@
         "amusement",
         "sport"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Zhaolin Park",
@@ -398,7 +399,8 @@
         "art",
         "animals"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Saint Sophia's Church",
@@ -598,7 +600,8 @@
         "art",
         "instagram"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Harbin Stalin Park",
@@ -637,7 +640,7 @@
         0.38747169339146237
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Soviet-era landscaped park with Russian gardens & monuments, plus an annual snow & ice festival.",
       "phone": "0451 8463 1981",
       "int_phone": "+86 451 8463 1981",
       "hours": "",
@@ -798,7 +801,8 @@
         "beach",
         "animals"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Siberia Tiger Park",
@@ -998,7 +1002,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Long Ta",
@@ -1198,7 +1203,8 @@
         "movies",
         "food"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Bingxue Big World",
@@ -1398,7 +1404,8 @@
         "art",
         "movies"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Russian Style Town",
@@ -1598,7 +1605,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Harbin Exhibition Hall of Arts and Crafts of Ice and Snow",
@@ -1798,7 +1806,8 @@
         "military",
         "architecture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Sun Island Scenic Area",
@@ -1998,7 +2007,8 @@
         "animals",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Zhongyang Street",
@@ -2198,7 +2208,8 @@
         "food",
         "engineering"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Sun Island",
@@ -2237,7 +2248,7 @@
         0.3681116356188641
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Recreational area with gardens, lakes & small museums, popular for an annual ice-sculpture expo.",
       "phone": "",
       "int_phone": "",
       "hours": "",
@@ -2398,7 +2409,8 @@
         "animals",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Heilongjiang Museum",
@@ -2598,7 +2610,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Longzhu Erlongshan Ski Resort",
@@ -2717,7 +2730,8 @@
         "food",
         "walking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Harbin Urban Administrative Enforcement Bureau Zhongyang Street Pedestrian Street Unit Branch",
@@ -2877,7 +2891,8 @@
         "food",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Harbin People Flood Control Success Memorial Tower",
@@ -3077,7 +3092,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Heilongjiang Science and Technology Museum",
@@ -3277,7 +3293,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Jile Temple",
@@ -3477,7 +3494,8 @@
         "movies",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Volga Manor",
@@ -3677,7 +3695,8 @@
         "nightlife",
         "friends"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Sofia Square",
@@ -3884,7 +3903,8 @@
         "engineering",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Beidahuang Museum",
@@ -4084,7 +4104,8 @@
         "books",
         "art"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Children's Park \uff08South Gate\uff09",
@@ -4284,7 +4305,8 @@
         "amusement",
         "hiking"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Harbin Zoo",
@@ -4412,7 +4434,8 @@
         "amusement",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Songhua River",
@@ -4612,7 +4635,8 @@
         "engineering",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Mingdu Ski-field",
@@ -4812,7 +4836,8 @@
         "nightlife",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "China Wood Carving Art Gallery",
@@ -5012,7 +5037,8 @@
         "art",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "The Window of European and Asian Park",
@@ -5172,7 +5198,8 @@
         "military",
         "amusement"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Sheng Sophia Church Ticket Office",
@@ -5291,7 +5318,8 @@
         "art",
         "instagram"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Harbin Confucius Temple",
@@ -5491,7 +5519,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "\u54c8\u5c14\u6ee8\u4e07\u8fbe\u7d22\u83f2\u7279\u5927\u9152\u5e97",
@@ -5691,7 +5720,8 @@
         "hospitality",
         "water"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Yabuli Ski Resort",
@@ -5730,7 +5760,7 @@
         0.2485106599026666
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "The country's largest, this renowned ski resort features jumping facilities & year-round recreation.",
       "phone": "0451 5345 5091",
       "int_phone": "+86 451 5345 5091",
       "hours": "",
@@ -5891,7 +5921,8 @@
         "food",
         "beach"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Harbin Amusement Park",
@@ -6091,7 +6122,8 @@
         "animals",
         "hiking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Sacred Heart of Jesus Cathedral, Harbin",
@@ -6210,7 +6242,8 @@
         "history",
         "engineering"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Harbin West Railway Station",
@@ -6410,7 +6443,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Mercure Harbin New District (Opening November 2018)",
@@ -6529,7 +6563,8 @@
         "food",
         "hospitality"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Parkson",
@@ -6729,7 +6764,8 @@
         "food",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     }
   ]
 }

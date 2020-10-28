@@ -198,7 +198,8 @@
         0.5288802995797182,
         -0.3334867551444966,
         0.49941148119909257
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Lordi's Square",
@@ -405,7 +406,8 @@
         0.2967250548364698,
         -0.37844422163312286,
         0.11156243959447215
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Tiedekeskus Pilke",
@@ -666,7 +668,8 @@
         0.2257927764378385,
         0.9720772220122669,
         -0.46892109652353386
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Ounasvaara Ski Oy",
@@ -866,7 +869,8 @@
         -0.9720966598769804,
         -0.39569812734772214,
         -1.238750483997434
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Santa Claus Village",
@@ -1066,7 +1070,8 @@
         0.6699430225993819,
         -0.44987248825502746,
         0.6603495546596233
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Santa Claus Reindeer",
@@ -1266,7 +1271,8 @@
         -0.04693577016723272,
         -0.5725233697053201,
         -0.08260332803357473
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Auttik\u00f6ng\u00e4s",
@@ -1473,7 +1479,8 @@
         -0.25800412301794395,
         0.24831764571292084,
         -1.0681280853283115
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Santa's House of Snowmobiles",
@@ -1673,7 +1680,8 @@
         0.19070189094221843,
         0.794764161259567,
         0.5168411779491875
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Angry Birds Activity Park",
@@ -1873,7 +1881,8 @@
         0.5855012349623634,
         0.6867762043351735,
         0.9352649918579624
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Forestry Museum of Lapland",
@@ -2073,7 +2082,8 @@
         -1.1079743555598431,
         -1.3800298766131054,
         -1.3033827602489239
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Rovaniemi Local History Museum P\u00f6ykk\u00f6l\u00e4",
@@ -2273,7 +2283,8 @@
         -0.49914786170097686,
         0.7393733427916426,
         -1.136810242283945
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Rovaniemi Church",
@@ -2473,7 +2484,8 @@
         -0.170285119911161,
         -0.5629144866689914,
         -0.7892688741024189
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Culture House Korundi",
@@ -2512,7 +2524,7 @@
         0.1626767981764433
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Former post office depot housing a contemporary art museum, the Lapland Chamber Orchestra & a cafe.",
       "phone": "016 3222822",
       "int_phone": "+358 16 3222822",
       "hours": [
@@ -2734,7 +2746,8 @@
         0.42579795414711513,
         1.8313374286083393,
         -0.877303796630471
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Bearhill Husky",
@@ -2934,7 +2947,8 @@
         0.19265342178673875,
         0.5827554884738516,
         1.1416770471808542
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Santa's Post Office",
@@ -2973,7 +2987,7 @@
         0.15730976362920668
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Stone & pine visitor center with staff in elf costumes, sorting & exhibiting mail sent to Santa.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -3205,7 +3219,8 @@
         -0.12010056931677739,
         -0.6983886374416856,
         0.045777798797178804
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Marttiinin Vanha Tehdas",
@@ -3349,7 +3364,8 @@
         -0.6923998821409034,
         -0.023133776113657207,
         -1.621359214904648
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Husky Travels Oy",
@@ -3620,7 +3636,8 @@
         0.5338975371201552,
         0.924615212199742,
         0.8300292381550566
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "SantaPark - the Home Cavern of Santa Claus",
@@ -3820,7 +3837,8 @@
         0.5330527946520457,
         -0.30190954205928844,
         0.3133671474605946
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Rovaniemi old train station",
@@ -3988,7 +4006,8 @@
         -1.2538890177876738,
         -1.767756936472311,
         -1.5060605968046257
-      ]
+      ],
+      "quote_source": "go"
     }
   ]
 }

@@ -269,7 +269,8 @@
         -0.09048615077871923,
         0.4146342262103868,
         0.12178148843501252
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Willowbank Wildlife Reserve",
@@ -540,7 +541,8 @@
         0.626564932375065,
         1.1151773300928132,
         1.9285968607737654
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Canterbury Museum",
@@ -740,7 +742,8 @@
         0.6709597988526159,
         1.8638254948636646,
         0.4855947986389682
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "North Hagley Park",
@@ -947,7 +950,8 @@
         -0.4659249164627816,
         -0.2776979740607207,
         0.06101725135839566
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Quake City",
@@ -1218,7 +1222,8 @@
         3.086784120948504,
         2.465537449797498,
         1.3043379800699426
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Margaret Mahy Playground",
@@ -1257,7 +1262,7 @@
         0.44003015517367133
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Adventure park with slides & climbing towers built as part of the post-2011 earthquake recovery.",
       "phone": "03-941 8999",
       "int_phone": "+64 3-941 8999",
       "hours": [
@@ -1425,7 +1430,8 @@
         0.9362308207538924,
         -0.06757681641856245,
         1.5506991698921557
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Punting On The Avon",
@@ -1696,7 +1702,8 @@
         0.817567786345991,
         0.6829398045468744,
         0.8896172432885315
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Air Force Museum of New Zealand",
@@ -1967,7 +1974,8 @@
         0.24366904879389395,
         1.283293787499085,
         -0.25082351216446624
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Christchurch Transitional Cathedral",
@@ -2238,7 +2246,8 @@
         0.9016994457651293,
         0.8476121566236673,
         1.2584554466963505
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Orana Wildlife Park",
@@ -2509,7 +2518,8 @@
         0.9095269263420437,
         0.913801388333174,
         1.7318345146968572
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Christchurch Art Gallery Te Puna o Waiwhet\u016b",
@@ -2780,7 +2790,8 @@
         0.8127087107075782,
         1.9900860622663001,
         0.9336486081558937
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Mona Vale",
@@ -3021,7 +3032,8 @@
         -0.5723478707923153,
         -0.25166638735221436,
         0.052062434393953194
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Canterbury Earthquake National Memorial",
@@ -3228,7 +3240,8 @@
         -0.4229148215745675,
         -0.858925361272287,
         0.49880739726195555
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "185 White Chairs",
@@ -3435,7 +3448,8 @@
         2.175382711348215,
         0.8171512022845644,
         4.470086239662232
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Cave Rock / Tuawera",
@@ -3642,7 +3656,8 @@
         0.073774928814066,
         0.41663340446920255,
         0.5452304266231318
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Bridge of Remembrance",
@@ -3849,218 +3864,8 @@
         -0.3107055179350687,
         -0.1805640030768315,
         0.8580916531043031
-      ]
-    },
-    {
-      "name": "Christchurch Attractions",
-      "orig_name": "Christchurch Attractions",
-      "place_id": "ChIJBd_wPSOKMW0RuSOW63JVP00",
-      "cat_params": [
-        0.21617790766831305,
-        0.07821130514484637,
-        0.27935384421975107,
-        0.16126356918815057,
-        0.2576496594823957,
-        0.1450463779311142,
-        0.41884444915005087,
-        0.14428530412020366,
-        0.30103107039800714,
-        0.22988472468773147,
-        0.04594516766837393,
-        0.12941862587375905,
-        0.17186427932557807,
-        0.16530247654154492,
-        0.252439256456757,
-        0.13826516906739938,
-        0.24844487393807416,
-        0.2673033581111205,
-        0.15540982720911647,
-        0.10219305589476609,
-        0.432661670043406,
-        0.28722580746727605,
-        0.22961133749931997,
-        0.1551148235556138,
-        0.041392455473833474,
-        0.31856705653193673,
-        0.29026242752126585,
-        0.26871627450845303,
-        0.15541885477281892,
-        0.35650876758431194
       ],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "03-366 7830",
-      "int_phone": "+64 3-366 7830",
-      "hours": [
-        {
-          "close": {
-            "day": 6,
-            "time": "2231"
-          },
-          "open": {
-            "day": 6,
-            "time": "2230"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": -43.5308067,
-        "lng": 172.6386254
-      },
-      "address": "Cathedral Junction shop 13/109 Worcester Street, Christchurch Central City, Christchurch 8011, New Zealand",
-      "photos": [
-        {
-          "height": 667,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114790643778475965090\">Christchurch Attractions</a>"
-          ],
-          "photo_reference": "CmRaAAAAzCr3ZPr9jPKJMjACDctzZUWL5cHcBXGWv_8Fx_vGTIITk5m2aV8Pv4w2i3CQJy1GeLGTkuRN7pIi8CmnRsB09Iz2yBLDs5koQ86q-DjfMk9OIe5P26M7ZnJk3n2Jqh3fEhBuLrLF1WP_ziN8S60pPsIhGhSBR0pLLQc68OMplngRpGxOa9946A",
-          "width": 1000
-        },
-        {
-          "height": 1200,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114790643778475965090\">Christchurch Attractions</a>"
-          ],
-          "photo_reference": "CmRaAAAAHy2pYcAX7yRZbqiafzQDZN1iij5l7kFaaqYWp71NgUF0Gjj2ow9-3FLE3Gi39Wa4sniQAwT8UXtAG8xRv9LCcbzkwrvYX0eUP7OMqkb2A7WT0cAbF292qnOvb7zFJp-HEhCvwArylbCBIrfqmyOmoQhfGhSrHf0YoXIu4wVsaIyR9db3BcslrQ",
-          "width": 1800
-        },
-        {
-          "height": 1672,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114790643778475965090\">Christchurch Attractions</a>"
-          ],
-          "photo_reference": "CmRaAAAAw0YNCr0OFPLpg7xIGvIKxq8qc7mbsq3W9AePBNmHjmklg4Ai49iBRSFXBKwKWFaPjetHD5Ayj3vxGc__reMC9tW173oBpjwFOJgZuPs_DVNHZTngl7pRJ6xgV7lEXg1qEhBxQ14C1IVD8W3d-1G46D1fGhRhOH7P7IhW0Urrjrf6Rd1PZ4tcrQ",
-          "width": 2048
-        },
-        {
-          "height": 1487,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112673460654122926685\">Jaideep Chaudhary</a>"
-          ],
-          "photo_reference": "CmRaAAAAVbG8haLDSPF_nzfHRoT4EVX9Ka-yYUF5OtBac9E1_VQWfEJiEYcLNGOepxJK_HeMTTMFxjX7KTKDl_JK35AU5Y27KS99mr5jzt14oFAx0oFrb4JP_4HdVD5qLTpQ_9vmEhBtP5CkH5LTdwhYgFSpL219GhSmcmZ732CVHlHnzjMBRP47IIq9ZA",
-          "width": 2048
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/108290204627382210132\">Sotianingsih Haryanto</a>"
-          ],
-          "photo_reference": "CmRaAAAAD_06ySJL-RkQax3lr-bdIQFsoVVCjRWfgpOCj4ET8EQu_YQ7kLpYMqqI1jOinjT5Z1TBKoVCTUUjcqrYJQ3-XzxYch5fR7bUBnMNir1b4lQSATjyFwu9C40zENqpSTjeEhBZ9V5i9TZxypxgobpEHBQUGhQeb2gC4uOSecSEPGb-QOOP1pabCg",
-          "width": 4032
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112245185231908807852\">P KS</a>"
-          ],
-          "photo_reference": "CmRaAAAAXqIu38xMi6_4asJHVsomTRLEwUe1o-QLufcOpTt_NjWRh4IICx023KVYMWbyeIUqNp4hVdjgu_pfJuW3FJcSGMwzlKoyDtKWoKwcagn3kes8-T21Ya4HZrJ6guwvQnG-EhDURzIGzHElTf_bB7DJA7jLGhSjlSA1EPIY4sSmDar2RINByg96DA",
-          "width": 4160
-        },
-        {
-          "height": 1477,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112673460654122926685\">Jaideep Chaudhary</a>"
-          ],
-          "photo_reference": "CmRaAAAAqUkGm4MbtiF8_WhQzsrZ9l8vMVIWxRpr2KZcMmoekXhRjSabIdNae_UUT9Yy50DuqccIXNsOtLVrDYQ65U_FUqX7W71_5s35hZoY0K-1AYbXxIefr_viF5x0WA43FP-1EhBYwoTTdQqWzS_RZc8OjDfBGhRvpmz_hnBl4onG-QLqJWopnXuUMA",
-          "width": 2048
-        },
-        {
-          "height": 2268,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102560884415800032916\">Bobo Yamum</a>"
-          ],
-          "photo_reference": "CmRaAAAAQ_JvYD-KM5tswIjfyKjIZH0Q2y3UO-3Mf-_tUzo5RoUOUd970N82dyhXslUiY6ZxVkaMNLYWf9-28wTcb7D9_1JaYIhAK1RXuffVxlDhdBCfW2Ol5jaTj8LggoGG9ZbnEhCnnjA41gdwcvT2PCcu4mB0GhTQGZmdCE7-bZ_ft8ed5v_SXLBDlQ",
-          "width": 4032
-        },
-        {
-          "height": 1151,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114790643778475965090\">Christchurch Attractions</a>"
-          ],
-          "photo_reference": "CmRaAAAAzGfA6562g79SkDnV_rsjkYnwGVH0ZvGRrz7raP4Ceu5N8D6nHHLBREs8CaV5g50ZYuc0yNzjxzbgq8PjK0tw0Q5grZ19eUOepEVc4GZTSGNg0eR4uisQSGcP1IW9UtKpEhD63W7jQwR87-5YbR3u5wPFGhSpyZxxIy082tndS-3FacfbLHTlAg",
-          "width": 2048
-        },
-        {
-          "height": 1475,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112673460654122926685\">Jaideep Chaudhary</a>"
-          ],
-          "photo_reference": "CmRaAAAAtf4BDvm03wFDFoNV0UF54NthzkMKwEh-gO25QNJPmDcIOJq09_PAtY6emCmrISxia56ibrLotz54OTnrA8ClJDnucRqBooKVtpNIXBC1Gbh4upoaK1gS0bLscYAYXDemEhBcOXy9V2tbTSpPscfhcWRcGhQ7lFtyp9SaXPazOn1s0D1mCS5_-Q",
-          "width": 2048
-        }
-      ],
-      "rating": 4.4,
-      "website": "https://www.christchurchattractions.nz/",
-      "mood_params": [
-        0.0063941828022679404,
-        0.026838800535759905,
-        0.02268842340463454,
-        0.06515087102485276,
-        0.02628848542244011,
-        0.09464249661572137,
-        0.07638096948003575,
-        0.020173251692352127,
-        0.05588154965198245,
-        0.017908365493219745,
-        0.05128611837603677,
-        0.007749240212189995
-      ],
-      "popularity": 0.4477623980634814,
-      "num_google_reviews": 376,
-      "top_cats": [
-        "engineering",
-        "amusement",
-        "architecture",
-        "science"
-      ],
-      "duration": 0.875,
-      "global_cat_params": [
-        0.6668596295103767,
-        -0.40704659601118204,
-        0.5374580534755466,
-        -0.5003018464082781,
-        -0.2912108027319434,
-        -0.0011005265551735858,
-        0.2187475193360937,
-        -0.7424692191058291,
-        1.397212541686378,
-        -0.9725788527363909,
-        -0.8309967195351537,
-        -0.10901903723818107,
-        -0.8824091982238221,
-        -0.2970760331451212,
-        -0.40991446697488254,
-        -0.376110663794551,
-        -1.1975277843388972,
-        -0.27841213832534645,
-        -0.1325602715777083,
-        -0.6667088343597234,
-        -0.5116714988399443,
-        0.312152955698236,
-        -0.30928182943867877,
-        -0.12219739618252495,
-        0.3983696169475209,
-        -0.26686850302595344,
-        0.0007210309435415901,
-        -0.9856140795803368,
-        -0.8679578369239757,
-        0.1841286601897523
-      ],
-      "global_mood_params": [
-        -0.3082252727286639,
-        -0.7096898402953541,
-        -0.7237130047989576,
-        -0.9383925800329733,
-        -0.7033722349386557,
-        -0.7431037199492198,
-        -0.6987224555014572,
-        -0.37558050875574855,
-        -0.8721486578764537,
-        -1.0031260862809783,
-        -0.9336732190016865,
-        -1.1476258959280563
-      ]
+      "quote_source": "go"
     },
     {
       "name": "Riccarton House and Bush",
@@ -4260,7 +4065,8 @@
         -0.12213280608076148,
         0.36449556183173465,
         -0.19703062397747437
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "International Antarctic Centre",
@@ -4491,7 +4297,8 @@
         1.4059676031103963,
         1.3629183194134578,
         1.1092122891127658
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Christchurch Gondola",
@@ -4762,7 +4569,8 @@
         -0.12789051671572194,
         0.23999779413744268,
         -0.36952803870962614
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "The Riccarton Sunday Market",
@@ -4973,7 +4781,8 @@
         1.1856429705709777,
         2.0916747333150782,
         0.5307485384749696
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Christchurch Adventure Park",
@@ -5224,7 +5033,8 @@
         -0.25552642307336126,
         -0.2833987553153792,
         0.11999047172747702
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Adrenalin Forest Christchurch",
@@ -5475,7 +5285,8 @@
         1.5998578260793619,
         1.1345459069751842,
         1.5741925563802233
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Christchurch Casino",
@@ -5746,7 +5557,8 @@
         -0.2493517035630512,
         0.7211528576308753,
         -0.17572916013573972
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Peacock Fountain",
@@ -6017,7 +5829,8 @@
         0.01565180798370169,
         -0.09269769682003741,
         -0.01944122532610834
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Christchurch Botanic Gardens Tour",
@@ -6217,7 +6030,8 @@
         -0.574782439043952,
         -0.3718326801307591,
         -0.4690424260521174
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Riccarton Bush",
@@ -6488,7 +6302,8 @@
         -0.17942368923891377,
         0.36507274505743637,
         0.045151453954994855
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Christchurch TOP 10 Holiday Park",
@@ -6688,7 +6503,8 @@
         -1.404303504973458,
         -1.6532741186655717,
         -0.8349421798202922
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Cathedral Square Christchurch",
@@ -6895,7 +6711,8 @@
         -0.23977610008971495,
         -1.2332032759585767,
         0.6444109435355598
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Ferrymead Heritage Park",
@@ -7166,7 +6983,8 @@
         0.6878092801835544,
         0.631263860509812,
         0.8167080202430952
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "South Hagley Park",
@@ -7373,7 +7191,8 @@
         -0.6357418077841019,
         -0.15531059724399335,
         0.04797836643548298
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "CodeBreakers",
@@ -7634,7 +7453,8 @@
         0.4777434220465481,
         1.020304371298522,
         0.9934682512337273
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Travis Wetland Nature Heritage Park",
@@ -7841,7 +7661,8 @@
         -0.8142910268937323,
         0.7580321635645098,
         0.6941980113450928
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Styx Mill Conservation Reserve",
@@ -8112,7 +7933,8 @@
         -0.6566048839663762,
         0.6123898800594623,
         -0.046397464313756645
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Halswell Domain",
@@ -8319,7 +8141,8 @@
         -0.5698802906062163,
         -0.14523249846704608,
         -0.12484052553845455
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Victoria Park",
@@ -8519,7 +8342,8 @@
         -0.3270124882257823,
         0.6410336413321449,
         0.4267004134270872
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "New Zealand World Peace Bell",
@@ -8726,7 +8550,8 @@
         0.10174166562879271,
         -0.6408994713605904,
         -0.49970180088669347
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Christchurch Tramway",
@@ -8997,7 +8822,8 @@
         -0.2864366697759391,
         0.2844695433368453,
         -0.4743871183233155
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Bottle Lake Forest Park",
@@ -9268,7 +9094,8 @@
         -0.12223630093917369,
         0.4085186317231797,
         0.6491365371806972
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Sign of the Bellbird",
@@ -9468,7 +9295,8 @@
         0.19292583170645836,
         0.2517976540124199,
         -0.3005251968967103
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Woodham Park",
@@ -9675,7 +9503,8 @@
         -0.2335610769680283,
         0.23863510701012172,
         2.7074172175655566
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Avon River",
@@ -9875,7 +9704,8 @@
         -0.32201453908283656,
         -0.5625986585322531,
         0.1648275510348584
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Bishopdale Park",
@@ -10082,7 +9912,8 @@
         -0.3796564368514249,
         0.51276080629191,
         1.2650767341566784
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "The Toy Collector",
@@ -10282,7 +10113,8 @@
         0.5447421453459925,
         -0.4412881960087892,
         0.3206673897497727
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Halswell Quarry",
@@ -10553,7 +10385,8 @@
         -0.593218263930842,
         1.1710542638650077,
         0.16267027428652006
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Yaldhurst Museum",
@@ -10753,7 +10586,8 @@
         -0.3211741507646467,
         0.24023020380258658,
         0.08562834106883276
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "ChristChurch Cathedral",
@@ -10953,7 +10787,8 @@
         0.32449246830197553,
         0.3020322287894757,
         -0.10039151623704719
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Rutherford's Den",
@@ -11224,7 +11059,8 @@
         0.7517454521853669,
         1.9281612874376688,
         -0.49102199387852796
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Kate Sheppard Memorial Christchurch",
@@ -11424,7 +11260,8 @@
         -1.3763197862214553,
         -1.3963573217753744,
         -1.2860842938780495
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Awaroa / Godley Head DOC Campsite",
@@ -11624,7 +11461,8 @@
         -0.1645902006679961,
         0.4692166758339389,
         0.20701907312002815
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "CoCA - Centre of Contemporary Art",
@@ -11885,7 +11723,8 @@
         -0.24635004723937404,
         -0.14699240799581823,
         -0.5027152609843925
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Antigua Boatsheds Canoe Hire",
@@ -12156,7 +11995,8 @@
         0.2754652114776563,
         1.2549448187008565,
         -0.07560191665495118
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "He Tangata Experience Maori",
@@ -12419,7 +12259,8 @@
         -1.0796725584811175,
         -1.263835508498573,
         -1.1405375779100893
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "TranzAlpine & Coastal Pacific",
@@ -12690,7 +12531,8 @@
         -0.5555928224954424,
         0.4653198398551665,
         -0.377342553975589
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "GreatSights New Zealand (Christchurch)",
@@ -12897,7 +12739,8 @@
         -0.944736371010119,
         -1.466390036600936,
         -0.9713209814620894
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Christchurch Christmas Lightshow",
@@ -13118,7 +12961,8 @@
         1.4254474691351142,
         1.8868351070422493,
         2.127128632004511
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Friday Street Food Market",
@@ -13329,7 +13173,8 @@
         -0.8376256170852763,
         -0.8006535631929755,
         -0.8917996703984152
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "The Groynes",
@@ -13600,7 +13445,8 @@
         -1.0857978194183502,
         -0.8309957599685824,
         -0.16390002927476685
-      ]
+      ],
+      "quote_source": "go"
     }
   ]
 }

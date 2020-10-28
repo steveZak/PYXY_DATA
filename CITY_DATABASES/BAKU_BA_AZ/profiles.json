@@ -205,7 +205,8 @@
         "engineering",
         "shopping"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "D\u0259nizk\u0259nar\u0131 Milli Park",
@@ -412,7 +413,8 @@
         "walking",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Heydar Aliyev Centre",
@@ -673,7 +675,8 @@
         "original",
         "engineering"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "F\u0259vvar\u0259l\u0259r Meydan\u0131",
@@ -880,7 +883,8 @@
         "nightlife",
         "cosmopolitan"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Maiden Tower",
@@ -1151,7 +1155,8 @@
         "history",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Flame Towers",
@@ -1492,7 +1497,8 @@
         "views",
         "movies"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "The National Museum of History of Azerbaijan",
@@ -1753,7 +1759,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Palace of The Shirvanshahs",
@@ -2024,7 +2031,8 @@
         "history",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Highland Park",
@@ -2231,7 +2239,8 @@
         "beach",
         "sport"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Azerbaijan Carpet Museum",
@@ -2492,7 +2501,8 @@
         "art",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Mini-Venice",
@@ -2763,7 +2773,8 @@
         "science",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Nizami Museum of Azerbaijan Literature",
@@ -3034,7 +3045,8 @@
         "art",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Heydar Mosque",
@@ -3234,7 +3246,8 @@
         "original",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Baku Eye",
@@ -3273,7 +3286,7 @@
         0.31540364321814235
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Vast Ferris wheel-style attraction that's lit up at night, with panoramas of the city & Caspian Sea.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -3505,7 +3518,8 @@
         "religion",
         "instagram"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Martyrs' Alley",
@@ -3712,7 +3726,8 @@
         "cosmopolitan",
         "nature"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Museum of Miniature Books",
@@ -3963,7 +3978,8 @@
         "culture",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "quote_source": "go"
     },
     {
       "name": "H.Z. Taghiyev History Museum",
@@ -4234,7 +4250,8 @@
         "military",
         "architecture"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "quote_source": "go"
     },
     {
       "name": "Philharmonic Park",
@@ -4273,7 +4290,7 @@
         0.3859752678468768
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "The stone walls of Baku Fortress edge the landscaped park, with an ornate fountain & a pavilion.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -4441,7 +4458,8 @@
         "water",
         "sport"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Bibiheybat",
@@ -4641,7 +4659,8 @@
         "views",
         "water"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "T\u0259z\u0259 Pir Mosque",
@@ -4912,7 +4931,8 @@
         "art",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Monument to Richard Sorge",
@@ -5119,7 +5139,8 @@
         "books",
         "science"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Upland Park",
@@ -5326,7 +5347,8 @@
         "beach",
         "nature"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Museum of Modern Art",
@@ -5587,7 +5609,8 @@
         "culture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Amburan Beach Club",
@@ -5858,7 +5881,8 @@
         "nightlife",
         "music"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Seaside boulevard",
@@ -6065,7 +6089,8 @@
         "amusement",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Baku Karting",
@@ -6336,7 +6361,8 @@
         "movies",
         "history"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Gobustan Rock Art Cultural Landscape",
@@ -6607,7 +6633,8 @@
         "original",
         "instagram"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Atashgah Zoroastrian Fire Temple",
@@ -6878,7 +6905,8 @@
         "history",
         "cosmopolitan"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Azerbaijan State Museum of Art",
@@ -7139,7 +7167,8 @@
         "art",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Baku Zoological Park",
@@ -7339,7 +7368,8 @@
         "amusement",
         "food"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "The Museum Center",
@@ -7610,7 +7640,8 @@
         "architecture",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "House of Government",
@@ -7861,7 +7892,8 @@
         "engineering",
         "art"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Bibiheyb\u0259t",
@@ -8061,7 +8093,8 @@
         "culture",
         "amusement"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Aliagha Vahid Monument",
@@ -8221,7 +8254,8 @@
         "art",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "Shahidlar Monument",
@@ -8428,7 +8462,8 @@
         "water",
         "original"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Archaeological and Ethnographic Museum Complex",
@@ -8689,7 +8724,8 @@
         "architecture",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Baku Best Travel",
@@ -8878,7 +8914,8 @@
         "science",
         "amusement"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Ramana Qalas\u0131",
@@ -9078,7 +9115,8 @@
         "architecture",
         "hiking"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "F\u00fczuli Park",
@@ -9285,7 +9323,8 @@
         "books",
         "animals"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Absheron peninsula",
@@ -9485,7 +9524,8 @@
         "engineering",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Muhammad Mosque",
@@ -9685,7 +9725,8 @@
         "art",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Claustrophobia Baku",
@@ -9916,7 +9957,8 @@
         "science",
         "books"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Absheron",
@@ -10084,7 +10126,8 @@
         "beach",
         "engineering"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Best Club",
@@ -10203,7 +10246,8 @@
         "nightlife",
         "movies"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Park Bulvar Mall",
@@ -10474,7 +10518,8 @@
         "fashion",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Trips.az",
@@ -10663,7 +10708,8 @@
         "architecture",
         "military"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Hyatt Regency Baku",
@@ -10870,7 +10916,8 @@
         "original",
         "walking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Baku Olympic Stadium",
@@ -11121,7 +11168,8 @@
         "architecture",
         "amusement"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Baku Pass",
@@ -11321,7 +11369,8 @@
         "shopping",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "TTtourCompany",
@@ -11528,7 +11577,8 @@
         "nightlife",
         "hospitality"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Guided Azerbaijan | Baku city tour , Gobustan Tour, Gabala Tour, Guba Tour, Absheron Tour",
@@ -11799,7 +11849,8 @@
         "nightlife",
         "engineering"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     }
   ]
 }

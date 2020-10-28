@@ -169,7 +169,8 @@
         }
       ],
       "rating": 4.3,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "In Martissant Park",
@@ -320,7 +321,8 @@
         }
       ],
       "rating": 3.9,
-      "website": "http://www.parcdemartissant.org/"
+      "website": "http://www.parcdemartissant.org/",
+      "quote_source": "go"
     },
     {
       "name": "Champ de Mars.",
@@ -427,7 +429,8 @@
         }
       ],
       "rating": 3.6,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Cathedral of Our Lady of the Assumption, Port-au-Prince",
@@ -588,7 +591,8 @@
         }
       ],
       "rating": 3.7,
-      "website": "http://archidiocesedepaup.org/index.html"
+      "website": "http://archidiocesedepaup.org/index.html",
+      "quote_source": "go"
     },
     {
       "name": "Place Saint-Pierre",
@@ -695,7 +699,8 @@
         }
       ],
       "rating": 3.5,
-      "website": "https://visithaiti.com/things-to-do/place-saint-pierre/"
+      "website": "https://visithaiti.com/things-to-do/place-saint-pierre/",
+      "quote_source": "go"
     },
     {
       "name": "Evolution tech",
@@ -795,7 +800,8 @@
         }
       ],
       "rating": 3.4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Sainte Anne Church",
@@ -895,7 +901,8 @@
         }
       ],
       "rating": 3.6,
-      "website": "http://archidiocesedepaup.org/index.html"
+      "website": "http://archidiocesedepaup.org/index.html",
+      "quote_source": "go"
     },
     {
       "name": "Bureau d'Ethnologie",
@@ -1056,7 +1063,8 @@
         }
       ],
       "rating": 4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Bidonville KILLICK STENIO VINCENT",
@@ -1092,7 +1100,8 @@
         }
       ],
       "rating": 3.1,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Papillon Enterprise",
@@ -1192,7 +1201,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.papillon-enterprise.com/"
+      "website": "http://www.papillon-enterprise.com/",
+      "quote_source": "go"
     },
     {
       "name": "Bassin Bleu",
@@ -1299,107 +1309,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "https://visithaiti.com/things-to-do/bassin-bleu/"
-    },
-    {
-      "name": "Port-au-Prince",
-      "orig_name": "Port-au-Prince",
-      "place_id": "ChIJkao-UFfduY4RCKop-V2B1Tw",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "",
-      "int_phone": "",
-      "hours": "",
-      "coordinates": {
-        "lat": 18.594395,
-        "lng": -72.3074326
-      },
-      "address": "Port-au-Prince, Haiti",
-      "photos": [
-        {
-          "height": 1080,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112560671412947754531\">Elyjah Money Sign</a>"
-          ],
-          "photo_reference": "CmRaAAAAUvwUm_zlwtMB6SbbFeYgh20kZ63n6MLzf9Blzvj55r27nA2acpsnW4l0OgVlkzFbSQh94RZUw6DN-YnzrnDhxF0Mxph9IcsM8CH-EBBWgABYEJRPNZQLD6OwgNVVzp60EhCYRGy4KALTgRjuvh0ku3f-GhS9ufd5F6ke3GJbNIv4DNtb6MYYUw",
-          "width": 1080
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/110974022495045315890\">Jeremy Thomas</a>"
-          ],
-          "photo_reference": "CmRaAAAAswMfrm1tuJDhjJEVcgItLYIt72C350TlYU9NTKzhargDzaP59pzjW9YbWKy4WAapFG1RdxK_1zrWkcsPSNw44294ODKewgg69dIHMfGtmjdcQlq4q6ZfhmL1LjPdhsQ6EhDPvZddtcY3A_TERGQUtAkXGhQnKnSl0ATi_U1KeIpeAK1JhWplPA",
-          "width": 4032
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/117188888190353611874\">Smith Vixamar</a>"
-          ],
-          "photo_reference": "CmRaAAAAaJ3nCKs2LuI3I8bdEOY5yFvduD4_4-SurVAnMnLSIXWyY5EI1qsujW8rLB15Zz8-G1RtAURkCmNTBKNOzFYF50wKAEAVHvDzgDM6WAt9DYtlrPKh_1Mg0FvGrUSshwi3EhD3wU2W_udEdqR4SpXsX7_WGhSl-PvydnZvhp8bsv2QH3E2tCbdMA",
-          "width": 4032
-        },
-        {
-          "height": 1440,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111720408878671853530\">Louis-Robert Bassiany</a>"
-          ],
-          "photo_reference": "CmRaAAAA76mZIXkngfo-CksHT7zQg8vpH45y3vHb9KlhF2QmT2MfdV41v8lXYktb8PWHSAWPUfuWq8V9bf1gwfLr4NjuY-5pCg8MmvnnDvV34J1gMYAkk2zqZGIvHsNiG9J354x2EhDxpwORdeCK80xBV35Wr-JJGhTuRIjyr0biKgjustPzaslo_njv9A",
-          "width": 2560
-        },
-        {
-          "height": 412,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107937661468231047366\">Alfred Francois</a>"
-          ],
-          "photo_reference": "CmRaAAAA5iATtiT0apsrav3utadloHivOub-lFMc-vZ-I3hc2aCKu_etAfmvDJNF55qK9wH1DllJtLV590jO_Orj4hMmg7IvhAcsSXiVX9IzYLKKUHqkghzXdcgCAfkE6myJUwALEhA2DaZq1U6BM3YJQ6t9LCk0GhS4b0f7TJHVMPuW7I1xtWcY5fP7Bg",
-          "width": 550
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107131667243378906359\">Madarah Joseph</a>"
-          ],
-          "photo_reference": "CmRaAAAAR3lr73pn-og6sw9eWYNehQBO8hiGSkFK2Zirrt1F1siXUql44BZAd-kpoQHuAsG3m1dZGfuzDBsqsp8dKROvuQFz1aYL4tp_0N65BpazsfnfhS8eC2omgHPu0Q0CzDk4EhANjKtLPm02lJ_boCli1P05GhRmW3lfwxJKY7LlhQNXQQPhAiKmAw",
-          "width": 4160
-        },
-        {
-          "height": 2340,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102760943750655832447\">F&amp;J Promo</a>"
-          ],
-          "photo_reference": "CmRaAAAAS78HtoLyY7-eA9Qd0Q5JCojvIBCTAkqMlSagap0hK_PoXF0dGVN-u7hCBH9i4l92zweGL7-eDUKbG0jFuiZHahcY13wNqb0O8LWlRO49fw7QVN3YDaR1TyOyrSWVE_K1EhB1gGWXzw4GHRHxGrnne76cGhT-ktfkI17nP6nLKkfDHiesQ4rjaw",
-          "width": 4160
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106887161990442255476\">ogu ferai</a>"
-          ],
-          "photo_reference": "CmRaAAAA4Hq14qRSMTEaiuHSdZOeuTaum59DYqH99A9j-_FmHB6e_ZV5gxVMnhuuIYQwN3poakhL5Tr39Yc5IUloayoOo2dPbdQ6OsE4LFIORnfnW9nQYHBVyogFueeI5DXipPaFEhCEL33gB17drjz7JupJtOWYGhQVC3hWUAcqLVNAywgyNwSYfpGyrw",
-          "width": 4032
-        },
-        {
-          "height": 323,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106805156519190817401\">Clerger Photography</a>"
-          ],
-          "photo_reference": "CmRaAAAAgO_ZaVNHQTh80OA3TyrP_jTty7pszYCQEZ715ufWcI9-hWP2DVJpNqob1Uda1e_lw7Tyfnoo0Zx05UTgXZ3n910D3wreo_JIab8393HM5cfXttc306esC-Wwuo9svs8NEhCGKndAdtItaLT-mIjGgvnlGhTvLJ_CpKIolrLv9oB5CimZE2zyyg",
-          "width": 598
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/113046758759076147945\">Martin Conceicao</a>"
-          ],
-          "photo_reference": "CmRaAAAAhI-wfTzrTqDUVZGzyzLvUfI43GxP0CdKYfQSKea5Rmgybq3rbpZN3OLRuSjUrXN1wwQT6IhebcDOFkwhyNv2Xcur1J8E873CeIRG_Ex6BsRLhEmFFKDT7nrv_GQDZkZCEhBiU3oxfggiV7hmE0FbqodcGhTaK3fyVRROWX2uon_qOR27UtWA6g",
-          "width": 4032
-        }
-      ],
-      "rating": null,
-      "website": ""
+      "website": "https://visithaiti.com/things-to-do/bassin-bleu/",
+      "quote_source": "go"
     },
     {
       "name": "The Peabody House",
@@ -1418,7 +1329,8 @@
       "address": "Port-au-Prince, Haiti",
       "photos": "",
       "rating": 3.7,
-      "website": "https://visithaiti.com/destinations/peabody-house/"
+      "website": "https://visithaiti.com/destinations/peabody-house/",
+      "quote_source": "go"
     },
     {
       "name": "El-Saieh Gallery",
@@ -1589,7 +1501,8 @@
         }
       ],
       "rating": 3.6,
-      "website": "http://elsaieh.com/"
+      "website": "http://elsaieh.com/",
+      "quote_source": "go"
     }
   ]
 }

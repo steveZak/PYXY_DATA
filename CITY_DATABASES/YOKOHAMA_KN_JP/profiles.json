@@ -98,7 +98,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.city.yokohama.lg.jp/kankyo/park/yokohama/kouen008.html"
+      "website": "http://www.city.yokohama.lg.jp/kankyo/park/yokohama/kouen008.html",
+      "quote_source": "go"
     },
     {
       "name": "Sankeien Garden",
@@ -269,7 +270,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.sankeien.or.jp/"
+      "website": "http://www.sankeien.or.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Cup Noodles Museum",
@@ -430,7 +432,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "https://www.cupnoodles-museum.jp/ja/yokohama/"
+      "website": "https://www.cupnoodles-museum.jp/ja/yokohama/",
+      "quote_source": "go"
     },
     {
       "name": "Sail Training Ship NIPPON MARU",
@@ -591,7 +594,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.nippon-maru.or.jp/"
+      "website": "http://www.nippon-maru.or.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Port Museum",
@@ -752,7 +756,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.nippon-maru.or.jp/port-museum/"
+      "website": "http://www.nippon-maru.or.jp/port-museum/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Landmark Tower",
@@ -859,7 +864,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "https://www.yokohama-landmark.jp/"
+      "website": "https://www.yokohama-landmark.jp/",
+      "quote_source": "go"
     },
     {
       "name": "SKY GARDEN",
@@ -1030,7 +1036,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.yokohama-landmark.jp/skygarden/"
+      "website": "http://www.yokohama-landmark.jp/skygarden/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Red Brick Warehouse #2",
@@ -1201,7 +1208,8 @@
         }
       ],
       "rating": 4,
-      "website": "http://www.yokohama-akarenga.jp/"
+      "website": "http://www.yokohama-akarenga.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Hakkeijima Sea Paradise",
@@ -1372,7 +1380,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.seaparadise.co.jp/"
+      "website": "http://www.seaparadise.co.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Park",
@@ -1479,7 +1488,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen012.html"
+      "website": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/midori-koen/koen/koen/daihyoteki/kouen012.html",
+      "quote_source": "go"
     },
     {
       "name": "Shin-Yokohama Ramen Museum",
@@ -1650,7 +1660,8 @@
         }
       ],
       "rating": 4,
-      "website": "http://www.raumen.co.jp/"
+      "website": "http://www.raumen.co.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Municipal Nogeyama Zoo",
@@ -1658,7 +1669,7 @@
       "place_id": "ChIJ_5_yqmNcGGARoy_xCj62YNA",
       "cat_params": [],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Intimate zoo within a larger park offering 90 species, including tigers, plus a kids' petting zoo.",
       "phone": "045-231-1307",
       "int_phone": "+81 45-231-1307",
       "hours": [
@@ -1811,7 +1822,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.hama-midorinokyokai.or.jp/zoo/nogeyama/"
+      "website": "http://www.hama-midorinokyokai.or.jp/zoo/nogeyama/",
+      "quote_source": "go"
     },
     {
       "name": "Zoorasia, Yokohama Municipal Zoo",
@@ -1972,7 +1984,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.hama-midorinokyokai.or.jp/zoo/zoorasia/"
+      "website": "http://www.hama-midorinokyokai.or.jp/zoo/zoorasia/",
+      "quote_source": "go"
     },
     {
       "name": "Grand Mall Park",
@@ -2079,7 +2092,8 @@
         }
       ],
       "rating": 3.8,
-      "website": "http://www.city.yokohama.lg.jp/kankyo/park/yokohama/kouen021.html"
+      "website": "http://www.city.yokohama.lg.jp/kankyo/park/yokohama/kouen021.html",
+      "quote_source": "go"
     },
     {
       "name": "Mitsuike Park",
@@ -2186,7 +2200,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.kanagawaparks.com/mitsuike/"
+      "website": "http://www.kanagawaparks.com/mitsuike/",
+      "quote_source": "go"
     },
     {
       "name": "Museum Shop at Yokohama Museum of Art",
@@ -2347,7 +2362,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://yokohama.art.museum/shop/index.html"
+      "website": "http://yokohama.art.museum/shop/index.html",
+      "quote_source": "go"
     },
     {
       "name": "NYK Hikawamaru",
@@ -2508,7 +2524,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://hikawamaru.nyk.com/"
+      "website": "https://hikawamaru.nyk.com/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Marine Tower",
@@ -2608,7 +2625,8 @@
         }
       ],
       "rating": 4,
-      "website": "http://www.marinetower.jp/"
+      "website": "http://www.marinetower.jp/",
+      "quote_source": "go"
     },
     {
       "name": "The Yokohama Foreign General Cemetery",
@@ -2616,7 +2634,7 @@
       "place_id": "ChIJOVGgox9dGGARZnnohcSDNVE",
       "cat_params": [],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Mid-19th-century cemetery with marble tombs of foreign settlers, plus a small history museum.",
       "phone": "045-622-1311",
       "int_phone": "+81 45-622-1311",
       "hours": [
@@ -2769,7 +2787,8 @@
         }
       ],
       "rating": 4,
-      "website": "http://www.yfgc-japan.com/"
+      "website": "http://www.yfgc-japan.com/",
+      "quote_source": "go"
     },
     {
       "name": "K\u014dtoku-in",
@@ -2869,7 +2888,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://www.kotoku-in.jp/"
+      "website": "https://www.kotoku-in.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Zounohana Park",
@@ -2976,7 +2996,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.city.yokohama.lg.jp/kowan/guide/gaiyou/zounohana/"
+      "website": "http://www.city.yokohama.lg.jp/kowan/guide/gaiyou/zounohana/",
+      "quote_source": "go"
     },
     {
       "name": "Observatory of Harbor viewing hill park",
@@ -3083,7 +3104,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.city.yokohama.lg.jp/kankyo/park/yokohama/kouen007.html"
+      "website": "http://www.city.yokohama.lg.jp/kankyo/park/yokohama/kouen007.html",
+      "quote_source": "go"
     },
     {
       "name": "Yamate Italian Garden",
@@ -3091,7 +3113,7 @@
       "place_id": "ChIJ-eM8HOdcGGARKC_W8b6PvnM",
       "cat_params": [],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Mediterranean-style hillside garden with fountains, seasonal flowers & views over the city.",
       "phone": "045-662-8819",
       "int_phone": "+81 45-662-8819",
       "hours": [
@@ -3254,7 +3276,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.hama-midorinokyokai.or.jp/park/italia/"
+      "website": "http://www.hama-midorinokyokai.or.jp/park/italia/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Trick Art Cruise",
@@ -3425,7 +3448,8 @@
         }
       ],
       "rating": 3.9,
-      "website": "http://www.trickart.top/"
+      "website": "http://www.trickart.top/",
+      "quote_source": "go"
     },
     {
       "name": "Kodomo no Kuni",
@@ -3586,7 +3610,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.kodomonokuni.org/"
+      "website": "http://www.kodomonokuni.org/",
+      "quote_source": "go"
     },
     {
       "name": "Osanbashi Pier Building",
@@ -3686,7 +3711,8 @@
         }
       ],
       "rating": 3.9,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Hara Model Railway Museum",
@@ -3786,7 +3812,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.hara-mrm.com/"
+      "website": "http://www.hara-mrm.com/",
+      "quote_source": "go"
     },
     {
       "name": "\u6c7d\u8eca\u9053",
@@ -3893,7 +3920,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.welcome.city.yokohama.jp/ja/tourism/spot/details.php?bbid=738"
+      "website": "http://www.welcome.city.yokohama.jp/ja/tourism/spot/details.php?bbid=738",
+      "quote_source": "go"
     },
     {
       "name": "Maioka Park",
@@ -4000,7 +4028,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://maioka-koyato.jp/"
+      "website": "http://maioka-koyato.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Nissan Gallery",
@@ -4171,7 +4200,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.nissan.co.jp/GALLERY/HQ/"
+      "website": "http://www.nissan.co.jp/GALLERY/HQ/",
+      "quote_source": "go"
     },
     {
       "name": "Motomachi Park",
@@ -4179,7 +4209,7 @@
       "place_id": "ChIJfTgh8h9dGGAR9gemfe29JFE",
       "cat_params": [],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Compact, tree-lined park known for its open-air swimming pool & seasonal cherry blossoms.",
       "phone": "045-211-1101",
       "int_phone": "+81 45-211-1101",
       "hours": [
@@ -4278,7 +4308,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.hama-midorinokyokai.or.jp/park/motomachi/"
+      "website": "http://www.hama-midorinokyokai.or.jp/park/motomachi/",
+      "quote_source": "go"
     },
     {
       "name": "Mitsubishi Minatomirai Industrial Museum",
@@ -4439,7 +4470,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "https://www.mhi.com/minatomirai/"
+      "website": "https://www.mhi.com/minatomirai/",
+      "quote_source": "go"
     },
     {
       "name": "Shomyoji",
@@ -4539,7 +4571,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.yokohama-kanazawakanko.com/spot/institution/tera/tera001.html"
+      "website": "http://www.yokohama-kanazawakanko.com/spot/institution/tera/tera001.html",
+      "quote_source": "go"
     },
     {
       "name": "Japan Coast Guard Museum Yokohama",
@@ -4700,7 +4733,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.kaiho.mlit.go.jp/03kanku/kouhou/jcgm_yokohama/"
+      "website": "http://www.kaiho.mlit.go.jp/03kanku/kouhou/jcgm_yokohama/",
+      "quote_source": "go"
     },
     {
       "name": "Rinko Park",
@@ -4807,7 +4841,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.pacifico.co.jp/"
+      "website": "http://www.pacifico.co.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Orbi Yokohama",
@@ -4978,7 +5013,8 @@
         }
       ],
       "rating": 3.4,
-      "website": "http://orbiearth.jp/"
+      "website": "http://orbiearth.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Takashima Suisaisen Park",
@@ -5085,7 +5121,8 @@
         }
       ],
       "rating": 3.7,
-      "website": "http://www.city.yokohama.lg.jp/nishi/miryoku/kouen/takasimasuisaisenkoen.html"
+      "website": "http://www.city.yokohama.lg.jp/nishi/miryoku/kouen/takasimasuisaisenkoen.html",
+      "quote_source": "go"
     },
     {
       "name": "Takashima Central Park",
@@ -5192,7 +5229,8 @@
         }
       ],
       "rating": 3.6,
-      "website": "http://www.city.yokohama.lg.jp/nishi/miryoku/kouen/takasimachuokoen.html"
+      "website": "http://www.city.yokohama.lg.jp/nishi/miryoku/kouen/takasimachuokoen.html",
+      "quote_source": "go"
     },
     {
       "name": "Hasedera",
@@ -5363,7 +5401,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "https://www.hasedera.jp/"
+      "website": "https://www.hasedera.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Tsurugaoka Hachiman-g\u016b",
@@ -5534,7 +5573,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://www.hachimangu.or.jp/"
+      "website": "https://www.hachimangu.or.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Chinatown",
@@ -5634,7 +5674,8 @@
         }
       ],
       "rating": 4,
-      "website": "http://www.chinatown.or.jp/"
+      "website": "http://www.chinatown.or.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Cosmoworld",
@@ -5795,7 +5836,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://cosmoworld.jp/"
+      "website": "http://cosmoworld.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Port Opening Memorial Hall",
@@ -5895,7 +5937,8 @@
         }
       ],
       "rating": 4,
-      "website": "http://www.city.yokohama.lg.jp/naka/kaikou/"
+      "website": "http://www.city.yokohama.lg.jp/naka/kaikou/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Bay Bridge",
@@ -6002,7 +6045,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.ktr.mlit.go.jp/yokohama/03sigoto/357/baybridge.htm"
+      "website": "http://www.ktr.mlit.go.jp/yokohama/03sigoto/357/baybridge.htm",
+      "quote_source": "go"
     },
     {
       "name": "Negishi Forest Park",
@@ -6109,7 +6153,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://negishi-shinrin.jp/"
+      "website": "http://negishi-shinrin.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Intl Passenger Terminal",
@@ -6209,7 +6254,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://osanbashi.jp/"
+      "website": "http://osanbashi.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Shinyokohama Ekimae Park",
@@ -6316,7 +6362,8 @@
         }
       ],
       "rating": 3.6,
-      "website": "http://www.city.yokohama.lg.jp/kohoku/doboku/park/c2/sinyokohamaekimae.html"
+      "website": "http://www.city.yokohama.lg.jp/kohoku/doboku/park/c2/sinyokohamaekimae.html",
+      "quote_source": "go"
     },
     {
       "name": "Yokohama Municipal Kanazawa Zoo",
@@ -6477,7 +6524,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.hama-midorinokyokai.or.jp/zoo/kanazawa/"
+      "website": "http://www.hama-midorinokyokai.or.jp/zoo/kanazawa/",
+      "quote_source": "go"
     },
     {
       "name": "Masobyo Temple",
@@ -6648,7 +6696,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.yokohama-masobyo.jp/"
+      "website": "http://www.yokohama-masobyo.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Japanese Overseas Migration Museum",
@@ -6809,7 +6858,8 @@
         }
       ],
       "rating": 4,
-      "website": "https://www.jica.go.jp/jomm/"
+      "website": "https://www.jica.go.jp/jomm/",
+      "quote_source": "go"
     },
     {
       "name": "Shinjuku Gyoen National Garden",
@@ -6970,7 +7020,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "https://www.env.go.jp/garden/shinjukugyoen/index.html"
+      "website": "https://www.env.go.jp/garden/shinjukugyoen/index.html",
+      "quote_source": "go"
     },
     {
       "name": "Iseyama Kotaijingu",
@@ -7141,7 +7192,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.iseyama.jp/"
+      "website": "http://www.iseyama.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Equine Museum of Japan",
@@ -7302,7 +7354,8 @@
         }
       ],
       "rating": 4,
-      "website": "http://www.bajibunka.jrao.ne.jp/uma/"
+      "website": "http://www.bajibunka.jrao.ne.jp/uma/",
+      "quote_source": "go"
     },
     {
       "name": "Nojima Park",
@@ -7409,7 +7462,8 @@
         }
       ],
       "rating": 4,
-      "website": "http://www.hama-midorinokyokai.or.jp/park/nojima/"
+      "website": "http://www.hama-midorinokyokai.or.jp/park/nojima/",
+      "quote_source": "go"
     },
     {
       "name": "Cosmo Clock 21",
@@ -7570,7 +7624,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://cosmoworld.jp/attraction/wonder/cosmoclock21/"
+      "website": "http://cosmoworld.jp/attraction/wonder/cosmoclock21/",
+      "quote_source": "go"
     },
     {
       "name": "Ikuta Ryokuchi Park",
@@ -7677,7 +7732,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.ikutaryokuti.jp/"
+      "website": "http://www.ikutaryokuti.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Mikasa Park",
@@ -7848,7 +7904,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.city.yokosuka.kanagawa.jp/4130/sisetu/fc00000436.html"
+      "website": "http://www.city.yokosuka.kanagawa.jp/4130/sisetu/fc00000436.html",
+      "quote_source": "go"
     },
     {
       "name": "Engakuji",
@@ -8019,7 +8076,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.engakuji.or.jp/"
+      "website": "http://www.engakuji.or.jp/",
+      "quote_source": "go"
     },
     {
       "name": "Fujiko F Fujio Museum",
@@ -8180,7 +8238,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://fujiko-museum.com/"
+      "website": "http://fujiko-museum.com/",
+      "quote_source": "go"
     }
   ]
 }

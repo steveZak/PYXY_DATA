@@ -269,7 +269,8 @@
         "walking",
         "hospitality"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "The Fitzwilliam Museum",
@@ -530,7 +531,8 @@
         "books",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "The Backs",
@@ -737,7 +739,8 @@
         "books",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "The Corpus Clock",
@@ -944,7 +947,8 @@
         "original",
         "fashion"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "King's College Chapel",
@@ -1215,7 +1219,8 @@
         "books",
         "music"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Parker's Piece",
@@ -1422,7 +1427,8 @@
         "friends",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "The Round Church",
@@ -1622,7 +1628,8 @@
         "books",
         "history"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Mathematical Bridge",
@@ -1883,7 +1890,8 @@
         "original",
         "water"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Bridge of Sighs",
@@ -2083,7 +2091,8 @@
         "architecture",
         "movies"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Sedgwick Museum of Earth Sciences",
@@ -2283,7 +2292,8 @@
         "history",
         "original"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "The Centre for Computing History",
@@ -2483,7 +2493,8 @@
         "books",
         "family"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Museum of Archaeology and Anthropology",
@@ -2694,7 +2705,8 @@
         "culture",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Anglesey Abbey",
@@ -2965,7 +2977,8 @@
         "food",
         "walking"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Cambridge Science Centre",
@@ -3165,7 +3178,8 @@
         "engineering",
         "sport"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "University Museum Of Zoology",
@@ -3365,7 +3379,8 @@
         "history",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Great St Mary's Church",
@@ -3626,7 +3641,8 @@
         "views",
         "architecture"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Milton Country Park",
@@ -3833,7 +3849,8 @@
         "beach",
         "nature"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Museum of Cambridge",
@@ -4104,7 +4121,8 @@
         "engineering",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Lets Go Punting",
@@ -4375,7 +4393,8 @@
         "history",
         "nightlife"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Kettle's Yard",
@@ -4606,7 +4625,8 @@
         "original",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Midsummer Common",
@@ -4813,7 +4833,8 @@
         "water",
         "sport"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Jesus Green",
@@ -5020,7 +5041,8 @@
         "sport",
         "water"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Wandlebury Country Park",
@@ -5291,7 +5313,8 @@
         "nature",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Stourbridge Common",
@@ -5498,7 +5521,8 @@
         "water",
         "beach"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Scott Polar Research Institute (Polar Museum)",
@@ -5698,7 +5722,8 @@
         "history",
         "original"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Cambridgeshire Wine School",
@@ -5969,7 +5994,8 @@
         "books",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Christ's Pieces",
@@ -6176,7 +6202,8 @@
         "nature",
         "amusement"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Rutherford's Punting Cambridge",
@@ -6447,7 +6474,8 @@
         "hospitality",
         "nightlife"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Cambridge Market Square",
@@ -6718,7 +6746,8 @@
         "fashion",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Castle Mound",
@@ -6925,7 +6954,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Cambridge Escape Rooms",
@@ -7196,7 +7226,8 @@
         "friends",
         "family"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Cambridge River Trips",
@@ -7396,7 +7427,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "IWM Duxford",
@@ -7667,7 +7699,8 @@
         "cosmopolitan",
         "history"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Cherry Hinton Hall Park",
@@ -7874,7 +7907,8 @@
         "walking",
         "engineering"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Lammas Land",
@@ -8145,7 +8179,8 @@
         "sport",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Cherry Hinton Chalk Pits",
@@ -8352,7 +8387,8 @@
         "hiking",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Wren Library",
@@ -8391,7 +8427,7 @@
         0.15036784914152246
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Storied 1600s college library designed by Christopher Wren, with rare books & medieval manuscripts.",
       "phone": "01223 338400",
       "int_phone": "+44 1223 338400",
       "hours": [
@@ -8613,7 +8649,8 @@
         "architecture",
         "history"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Museum of Classical Archaeology, Cambridge",
@@ -8813,7 +8850,8 @@
         "art",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Cherry Hinton Hall Park",
@@ -9020,7 +9058,8 @@
         "hiking",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Cambridge Museum Of Technology",
@@ -9251,7 +9290,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Things to do in Cambridge - The Online Guide",
@@ -9435,7 +9475,8 @@
         "architecture",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "The Church of Our Lady and the English Martyrs",
@@ -9635,7 +9676,8 @@
         "engineering",
         "art"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Newton's Apple Tree",
@@ -9842,7 +9884,8 @@
         "history",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "St Bene\u2019t\u2019s Church",
@@ -10113,7 +10156,8 @@
         "history",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Byron's Pool LNR",
@@ -10384,7 +10428,8 @@
         "books",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Linton Zoo",
@@ -10584,7 +10629,8 @@
         "hospitality",
         "amusement"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Coleridge Recreation Ground",
@@ -10791,7 +10837,8 @@
         "walking",
         "sport"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Cambridge American Cemetery And Memorial, United Kingdom",
@@ -11062,7 +11109,8 @@
         "cosmopolitan",
         "books"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "quote_source": "go"
     },
     {
       "name": "Scudamore's Quayside Punting Station",
@@ -11333,7 +11381,8 @@
         "books",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Cherry Hinton recreation ground",
@@ -11540,7 +11589,8 @@
         "beach",
         "sport"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Coton Countryside Reserve",
@@ -11811,7 +11861,8 @@
         "sport",
         "hiking"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Christ's College Cambridge",
@@ -12011,7 +12062,8 @@
         "hospitality",
         "religion"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Cambridge Punters",
@@ -12282,7 +12334,8 @@
         "history",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "River Cam",
@@ -12482,7 +12535,8 @@
         "hiking",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Cambridge Cherry Hinton Caravan and Motorhome Club Site",
@@ -12753,7 +12807,8 @@
         "instagram",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "St John's College",
@@ -12953,7 +13008,8 @@
         "architecture",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     }
   ]
 }

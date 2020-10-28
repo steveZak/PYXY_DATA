@@ -4,14 +4,6 @@ from analyze import isMetadataGathered, isTextMetadataFinal, isTextFinal, isAnal
 import numpy as np
 import random
 
-# look through some images
-
-# replace profiles with new_profiles
-# for _, dirs, _ in os.walk(os.getcwd()+"/CITY_DATABASES"):
-#     for city_dir in dirs:
-#         if os.path.exists("CITY_DATABASES/" + city_dir+"/profiles.json"):
-#             os.replace("CITY_DATABASES/" + city_dir+"/profiles.json", "CITY_DATABASES/" + city_dir+"/profiles.json")
-
 # copy profiles + quotes to golden selection
 
 # new_global_sights = {'sights': list()}

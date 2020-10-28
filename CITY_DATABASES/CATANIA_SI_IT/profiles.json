@@ -269,7 +269,8 @@
         -0.9082498608941991,
         -1.1021097413832095,
         -0.4857511251629788
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Castello Ursino",
@@ -540,7 +541,8 @@
         0.03422694298299866,
         0.2612651343141478,
         -0.476894470682315
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Cathedral of Saint Agatha",
@@ -861,7 +863,8 @@
         -0.5924860036739105,
         -0.7678691166036642,
         -0.45061814595245697
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Piazza del Duomo, Catania",
@@ -900,7 +903,7 @@
         0.27007414242843325
       ],
       "noncat_params": [],
-      "quote": "Central plaza with traditional historic buildings & a fountain featuring an elephant sculpture.",
+      "quote": "Prominent baroque cathedral known for its columned facade, domed roof, frescoes & paintings.",
       "phone": "800 841 042",
       "int_phone": "+39 800 841 042",
       "hours": "",
@@ -1061,7 +1064,8 @@
         -0.6701225163482124,
         -0.8503948632872803,
         -0.828327452230456
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Roman Theatre of Catania",
@@ -1261,7 +1265,8 @@
         -0.39564453624947443,
         -0.6424243567767451,
         -0.7115338970913403
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Piazza universit\u00e0",
@@ -1468,7 +1473,8 @@
         -0.7090033910476975,
         -0.65146724528783,
         -0.6851519404864794
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Fontana dell'Elefante",
@@ -1675,7 +1681,8 @@
         -0.9735076397433056,
         -1.4756424152197252,
         -1.201908387175937
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Orto Botanico dell'Universit\u00e0 di Catania",
@@ -1875,7 +1882,8 @@
         -0.1357956218522589,
         0.25970730773192063,
         -0.5861891516154161
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Porta Ferdinandea",
@@ -2082,7 +2090,8 @@
         -1.1147130192117154,
         -1.4867378140828618,
         -1.118322667955985
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Monastero dei Benedettini di San Nicol\u00f2 l'Arena",
@@ -2282,7 +2291,8 @@
         -0.09793928144146623,
         -0.14785195276585572,
         -0.3441660142671564
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Fontana dell\u2019Amenano",
@@ -2321,7 +2331,7 @@
         0.18367671701773755
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Baroque fountain of mythical figures by Tito Angelini & inscribed with the city's coat of arms.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -2489,7 +2499,8 @@
         -1.5305566301423232,
         -1.9185855228496405,
         -1.555591503208076
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Museo Storico dello Sbarco in Sicilia 1943",
@@ -2689,7 +2700,8 @@
         0.419562903195108,
         1.128068156725727,
         -0.12375421966693129
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Roman Amphitheater of Catania",
@@ -2889,7 +2901,8 @@
         0.4499639001564556,
         0.24677370874835047,
         -0.2652393146988451
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Church of Saint Benedict",
@@ -3089,7 +3102,8 @@
         -0.8874717083396405,
         -1.1141646785841501,
         -1.0120361927917685
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Teatro Massimo Bellini",
@@ -3289,7 +3303,8 @@
         0.019538713396916423,
         -0.42839828060410134,
         -0.2540703847845092
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Saint Julian Church",
@@ -3489,7 +3504,8 @@
         -1.151535424531503,
         -1.1874835140025155,
         -0.34981988516991125
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Palazzo degli Elefanti",
@@ -3760,7 +3776,8 @@
         -0.24548360866944327,
         -0.6662665693918258,
         -0.8763179136326553
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Museo Del Cinema",
@@ -4021,7 +4038,8 @@
         0.922326268412519,
         -0.5766519935263561,
         -0.4886787792305392
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Porta Uzeda",
@@ -4221,7 +4239,8 @@
         -1.4042199988853918,
         -1.8234601707488935,
         -1.4447688842480853
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Polo Tattile Multimediale",
@@ -4512,7 +4531,8 @@
         0.48907237321478564,
         1.3817176400736515,
         0.690494040966491
-      ]
+      ],
+      "quote_source": "go"
     }
   ]
 }

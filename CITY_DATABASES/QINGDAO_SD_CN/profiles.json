@@ -198,7 +198,8 @@
         "architecture",
         "water"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "\u4e94\u56db\u5e7f\u573a",
@@ -398,7 +399,8 @@
         "water",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Zhanqiao Pier",
@@ -598,7 +600,8 @@
         "original",
         "views"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao No.1 Bathing Beach",
@@ -637,7 +640,7 @@
         0.5335377712448336
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Wide sandy beach popular for swimming & sunbathing, with changing rooms & showers.",
       "phone": "",
       "int_phone": "",
       "hours": "",
@@ -798,7 +801,8 @@
         "water",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Aquarium",
@@ -998,7 +1002,8 @@
         "water",
         "animals"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Zhongshan Park",
@@ -1198,7 +1203,8 @@
         "water",
         "amusement"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Lu Xun Park",
@@ -1405,7 +1411,8 @@
         "beach",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Tsingtao Brewery Museum",
@@ -1605,7 +1612,8 @@
         "history",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Golden Sand Beach \uff08Northwest Gate\uff09",
@@ -1805,7 +1813,8 @@
         "walking",
         "fashion"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Naval Museum",
@@ -2005,7 +2014,8 @@
         "engineering",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Polar Ocean World Co.,Ltd.",
@@ -2205,7 +2215,8 @@
         "family",
         "water"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "St. Michael's Cathedral, Qingdao",
@@ -2405,7 +2416,8 @@
         "movies",
         "fashion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Zhanshan Temple",
@@ -2605,7 +2617,8 @@
         "original",
         "art"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Golden Sandy Beach",
@@ -2805,7 +2818,8 @@
         "walking",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Former Residence the Pastor to German Governor",
@@ -3005,7 +3019,8 @@
         "culture",
         "history"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "\u77f3\u8001\u4eba\u6d77\u6c34\u6d74\u573a",
@@ -3205,7 +3220,8 @@
         "engineering",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Underwater World Qingdao \uff08South Gate\uff09",
@@ -3405,7 +3421,8 @@
         "history",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Taidong Commercial Pedestrain Street",
@@ -3605,7 +3622,8 @@
         "fashion",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Former Residence of Kang Youwei",
@@ -3805,7 +3823,8 @@
         "books",
         "water"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Wine Museum",
@@ -4005,7 +4024,8 @@
         "movies",
         "food"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Huangdao Island",
@@ -4124,7 +4144,8 @@
         "water",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Badaguan",
@@ -4324,7 +4345,8 @@
         "engineering",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Shilaoren International Golf Club",
@@ -4524,7 +4546,8 @@
         "sport",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao International Sailing Centre",
@@ -4724,7 +4747,8 @@
         "water",
         "food"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Laoshan Scenic Area Hualou Management Office",
@@ -4843,7 +4867,8 @@
         "water",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "InterContinental Qingdao",
@@ -5043,7 +5068,8 @@
         "engineering",
         "original"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Beach Villa",
@@ -5162,7 +5188,8 @@
         "water",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Port",
@@ -5314,7 +5341,8 @@
         "architecture",
         "water"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Weifang World Kite Museum",
@@ -5514,7 +5542,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Children's Palace Pingdu Branch School",
@@ -5633,7 +5662,8 @@
         "fashion",
         "movies"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "Fuhua Amusement Park",
@@ -5769,7 +5799,8 @@
         "engineering",
         "animals"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Taidong Nameplate Factory",
@@ -5888,7 +5919,8 @@
         "food",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao Beer House",
@@ -6007,7 +6039,8 @@
         "engineering",
         "architecture"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao University",
@@ -6199,7 +6232,8 @@
         "architecture",
         "water"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Qingdao International Airport",
@@ -6399,7 +6433,8 @@
         "fashion",
         "shopping"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Penglai Pavilion",
@@ -6599,7 +6634,8 @@
         "science",
         "beach"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Yantaishan Scenic Area \uff08West Gate\uff09",
@@ -6799,7 +6835,8 @@
         "beach",
         "views"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     }
   ]
 }

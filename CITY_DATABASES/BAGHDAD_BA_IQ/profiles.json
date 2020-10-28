@@ -249,7 +249,8 @@
         "books",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Iraqi Museum",
@@ -520,7 +521,8 @@
         "original",
         "art"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Martyr Monument",
@@ -771,7 +773,8 @@
         "art",
         "religion"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Zoo - Inside Zawraa Park",
@@ -1042,7 +1045,8 @@
         "food",
         "science"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Al Yassin Mosque",
@@ -1242,7 +1246,8 @@
         "books",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Al-Zawraa Park",
@@ -1513,7 +1518,8 @@
         "amusement",
         "food"
       ],
-      "duration": 0.75
+      "duration": 0.75,
+      "quote_source": "go"
     },
     {
       "name": "Umm al-Qura Mosque",
@@ -1764,7 +1770,8 @@
         "art",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Al-Jawadain Mosque",
@@ -1892,7 +1899,8 @@
         "culture",
         "friends"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Buratha Mosque",
@@ -2163,7 +2171,8 @@
         "original",
         "military"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Victory Arch",
@@ -2370,7 +2379,8 @@
         "art",
         "architecture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "\u0633\u0627 \u062d\u0629 \u0627\u0644\u0641\u0631\u062f\u0648\u0633",
@@ -2577,7 +2587,8 @@
         "animals",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Al Mansour Mall",
@@ -2848,7 +2859,8 @@
         "fashion",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Mustansiriya School",
@@ -3059,7 +3071,8 @@
         "culture",
         "religion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Babylon Rotana",
@@ -3266,7 +3279,8 @@
         "original",
         "science"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Al-Shaab International Stadium",
@@ -3537,7 +3551,8 @@
         "art",
         "science"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Kadhimiya",
@@ -3737,7 +3752,8 @@
         "architecture",
         "food"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Taq Kasra - Ctesiphon",
@@ -3944,7 +3960,8 @@
         "religion",
         "science"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Al-Rahman Mosque",
@@ -4144,7 +4161,8 @@
         "art",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     }
   ]
 }

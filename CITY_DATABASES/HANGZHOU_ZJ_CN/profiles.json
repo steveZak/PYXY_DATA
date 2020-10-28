@@ -198,7 +198,8 @@
         "beach",
         "nature"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Lingyin Temple",
@@ -398,7 +399,8 @@
         "engineering",
         "family"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Xixi National Wetland Park",
@@ -669,7 +671,8 @@
         "beach",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Leifeng Pagoda",
@@ -940,7 +943,8 @@
         "architecture",
         "water"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Former Residence of Hu Xueyan",
@@ -1211,7 +1215,8 @@
         "original",
         "movies"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "\u98de\u6765\u5cf0\u9020\u50cf",
@@ -1411,7 +1416,8 @@
         "amusement",
         "science"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "\u5b8b\u57ce",
@@ -1611,7 +1617,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "\u82cf\u5824",
@@ -1811,7 +1818,8 @@
         "hiking",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Hangzhou Zoo",
@@ -2082,7 +2090,8 @@
         "animals",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "\u4fdd\u4ff6\u5854",
@@ -2282,7 +2291,8 @@
         "beach",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Dreaming of Tiger Spring at Hupao Valley",
@@ -2482,7 +2492,8 @@
         "hiking",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "\u4e2d\u56fd\u4e1d\u7ef8\u535a\u7269\u9986",
@@ -2753,7 +2764,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "\u516d\u548c\u5854",
@@ -2953,7 +2965,8 @@
         "science",
         "water"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Meijiawu",
@@ -3153,7 +3166,8 @@
         "history",
         "food"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Yue Fei Temple",
@@ -3353,7 +3367,8 @@
         "science",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Huagang Park",
@@ -3553,7 +3568,8 @@
         "nature",
         "hiking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Song Dynasty Town",
@@ -3753,7 +3769,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Hangzhou Botanical Garden",
@@ -3953,7 +3970,8 @@
         "water",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Qiandao Lake",
@@ -4153,7 +4171,8 @@
         "engineering",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Three Pools Mirroring the Moon",
@@ -4360,7 +4379,8 @@
         "engineering",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Wulin Square",
@@ -4399,7 +4419,7 @@
         0.29945820527451966
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Transport hub & public plaza with a musical fountain show, plus nearby shopping malls.",
       "phone": "",
       "int_phone": "",
       "hours": "",
@@ -4560,7 +4580,8 @@
         "engineering",
         "music"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Hangzhou Confucian Temple",
@@ -4760,7 +4781,8 @@
         "books",
         "history"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Hangzhou Paradise",
@@ -4960,7 +4982,8 @@
         "books",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "\u4e2d\u56fd\u8336\u53f6\u535a\u7269\u9986",
@@ -5160,7 +5183,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Zhongshan Park \uff08Southeast Gate\uff09",
@@ -5360,7 +5384,8 @@
         "books",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "West Lake Scenic Area Music Fountain",
@@ -5560,7 +5585,8 @@
         "water",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Hangzhou Beilin",
@@ -5688,7 +5714,8 @@
         "beach",
         "views"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Zhejiang Traditional Chinese Medicine Museum",
@@ -5888,7 +5915,8 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Wushan Tianfeng",
@@ -6088,7 +6116,8 @@
         "fashion",
         "family"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Hangzhou Longjingshan Park",
@@ -6288,7 +6317,8 @@
         "nature",
         "original"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Hangzhou Polar Ocean Park",
@@ -6488,7 +6518,8 @@
         "amusement",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "West Lake Museum",
@@ -6688,7 +6719,8 @@
         "beach",
         "nature"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Keyan Scenic Area",
@@ -6888,7 +6920,8 @@
         "art",
         "nature"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Taoguangsi",
@@ -7088,7 +7121,8 @@
         "hiking",
         "art"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Jingci Temple",
@@ -7127,7 +7161,7 @@
         0.3525768778632712
       ],
       "noncat_params": [],
-      "quote": "Centuries-old Zen monastery in leafy foothills & with views over the noted Leifeng Pagoda complex.",
+      "quote": "Centuries-old, hillside monastery with a gold statue & views over the Leifeng Pagoda complex.",
       "phone": "0571 8797 5135",
       "int_phone": "+86 571 8797 5135",
       "hours": "",
@@ -7288,7 +7322,8 @@
         "water",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Taiziwan Park",
@@ -7327,7 +7362,7 @@
         0.5640747623530437
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Ancient royal burial site with lawns & pavilions, plus vivid displays of tulips & apple blossoms.",
       "phone": "0571 8796 3701",
       "int_phone": "+86 571 8796 3701",
       "hours": "",
@@ -7488,7 +7523,8 @@
         "water",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Zhejiang Art Museum",
@@ -7688,7 +7724,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "China Umbrella Museum",
@@ -7888,7 +7925,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Guanchao Shengdi Park",
@@ -8088,7 +8126,8 @@
         "hiking",
         "water"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Qiantang River",
@@ -8288,7 +8327,8 @@
         "beach",
         "science"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Xianghu Lake",
@@ -8488,7 +8528,8 @@
         "water",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "City God Pavilion",
@@ -8688,7 +8729,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Feilai Peak",
@@ -8888,7 +8930,8 @@
         "views",
         "history"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Impression West Lake",
@@ -9088,7 +9131,8 @@
         "amusement",
         "sport"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Qinghe Lane",
@@ -9288,7 +9332,8 @@
         "food",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Qinghefang",
@@ -9407,7 +9452,8 @@
         "food",
         "movies"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "\u676d\u5dde\u4e1c\u7ad9",
@@ -9607,7 +9653,8 @@
         "movies",
         "food"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "The Romance of the Song Dynasty",
@@ -9807,7 +9854,8 @@
         "religion",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "\u4e4c\u9547\u897f\u6805",
@@ -10007,7 +10055,8 @@
         "beach",
         "walking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "\u9f99\u4e95\u6751",
@@ -10207,7 +10256,8 @@
         "water",
         "engineering"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "\u81ea\u7136\u535a\u7269\u9986",
@@ -10407,7 +10457,8 @@
         "fashion",
         "science"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Luobinwang Park",
@@ -10607,7 +10658,8 @@
         "walking",
         "art"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "\u5448\u574e\u6751",
@@ -10807,7 +10859,8 @@
         "original",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Yiwu Museum",
@@ -11007,7 +11060,8 @@
         "art",
         "architecture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     }
   ]
 }

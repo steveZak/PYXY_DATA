@@ -269,7 +269,8 @@
         -0.23421479347023755,
         -0.5115414761839455,
         -0.7195080842093626
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Port of Nagoya Public Aquarium",
@@ -308,7 +309,7 @@
         0.2969263059731279
       ],
       "noncat_params": [],
-      "quote": "Modern aquarium with many species, including whales, plus concessions & a popular dolphin show.",
+      "quote": "Modern aquarium with many species, including whales, a dolphin show & food & drink concessions.",
       "phone": "052-654-7080",
       "int_phone": "+81 52-654-7080",
       "hours": [
@@ -540,7 +541,8 @@
         -0.03339356725726842,
         0.2703293019046914,
         0.27420254415385154
-      ]
+      ],
+      "quote_source": "px"
     },
     {
       "name": "Toyota Commemorative Museum of Industry and Technology",
@@ -801,7 +803,8 @@
         -0.06322293368547079,
         0.007295886419410745,
         -0.7289460206929371
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Nagoya TV Tower",
@@ -1072,7 +1075,8 @@
         -0.3891650890250835,
         -0.8183518066426831,
         -0.3760653523859006
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "SCMAGLEV and Railway Park",
@@ -1333,7 +1337,8 @@
         -0.13432712170732886,
         -0.023092679378822322,
         -0.07987366444899559
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Atsuta Jingu",
@@ -1540,7 +1545,8 @@
         -0.06728124794838204,
         -0.5792927434930266,
         1.2157220973321348
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Tokugawaen",
@@ -1801,7 +1807,8 @@
         -1.6991020548543,
         -2.1204444009817767,
         -1.621359214904648
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Noritake Garden",
@@ -2001,7 +2008,8 @@
         -0.31152911410904016,
         -0.2672263461461606,
         -0.3614256034197405
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Toyota Automobile Museum",
@@ -2201,7 +2209,8 @@
         -0.08420773282407143,
         -0.07833880684127151,
         -0.0815846406787979
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Osu Kannon",
@@ -2472,7 +2481,8 @@
         -0.1897723864672403,
         -0.4356587586627308,
         -0.1322690112208852
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Sky Promenade",
@@ -2511,7 +2521,7 @@
         0.20989454438865673
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Open-air observation promenade offering 360-degree views of the city, plus a small bar with food.",
       "phone": "052-527-8877",
       "int_phone": "+81 52-527-8877",
       "hours": [
@@ -2743,7 +2753,8 @@
         0.12102451699314679,
         -0.47221833682583714,
         -0.010961220342136604
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "JR Central Towers",
@@ -2943,7 +2954,8 @@
         -0.5394968113968948,
         -0.18664473093099315,
         -0.5581303817279727
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Nagoya Port",
@@ -3143,7 +3155,8 @@
         -1.026976839487617,
         -1.3628305193620518,
         -1.211267843062003
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Osu Shopping District",
@@ -3182,7 +3195,7 @@
         0.18785529979049106
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Centuries-old merchant quarter with Buddhist temples & a central arcade of boutiques & restaurants.",
       "phone": "052-261-2287",
       "int_phone": "+81 52-261-2287",
       "hours": [
@@ -3414,7 +3427,8 @@
         0.12913085180612652,
         -0.40260259274501714,
         -0.3764041853294004
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Nagoya City Science Museum",
@@ -3675,7 +3689,8 @@
         0.30626149090420296,
         -0.3630902724565296,
         -0.708617487157384
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Legoland Japan Resort",
@@ -3875,7 +3890,8 @@
         0.1301060402084399,
         -0.08668409153933634,
         0.10527979147390996
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Nittaiji Temple",
@@ -3914,7 +3930,7 @@
         0.15424558461632099
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Founded in 1904, this temple has a granite stupa, a gold-&-bronze Buddha statue & a 5-story pagoda.",
       "phone": "052-751-2121",
       "int_phone": "+81 52-751-2121",
       "hours": "",
@@ -4075,7 +4091,8 @@
         -0.35536606807543464,
         -1.166231568039871,
         0.030772346387363776
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Toganji",
@@ -4275,7 +4292,8 @@
         -0.379125277856042,
         -1.3919393952770325,
         0.25465436571017436
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Arimatsu Narumi Shibori Tie-Dyeing Museum",
@@ -4546,7 +4564,8 @@
         0.5666874494502847,
         -0.1906732867534249,
         0.33522025900980135
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Shirotori Garden",
@@ -4807,7 +4826,8 @@
         -0.8150425019236044,
         -0.9430980669537016,
         -0.46277696836160775
-      ]
+      ],
+      "quote_source": "go"
     }
   ]
 }

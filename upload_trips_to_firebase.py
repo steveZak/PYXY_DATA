@@ -22,7 +22,7 @@ def uploadCity(db, city_dir):
         distance_trips = data['distance_trips']
     short_sights = []
     for sight in sights:
-        short_sights.append({"uid": sight['place_id'], "name": sight['name']})
+        short_sights.append({"uid": sight['place_id'], "name": sight['name'], "coordinates": sight["coordinates"]})
     short_theme_trips = []
     short_mood_trips = []
     short_popularity_trips = []
@@ -36,10 +36,10 @@ def uploadCity(db, city_dir):
     for trip in distance_trips:
         short_distance_trips.append({"uid": trip['trip_id']})
     db.collection(u'cities').document(city_dir).set({"sights": short_sights}, merge=True)
-    db.collection(u'cities').document(city_dir).set({"theme_trips": short_theme_trips,
-                                                     "mood_trips": short_mood_trips,
-                                                     "popularity_trips": short_popularity_trips,
-                                                     "distance_trips": short_distance_trips}, merge=True)
+    # db.collection(u'cities').document(city_dir).set({"theme_trips": short_theme_trips,
+    #                                                  "mood_trips": short_mood_trips,
+    #                                                  "popularity_trips": short_popularity_trips,
+    #                                                  "distance_trips": short_distance_trips}, merge=True)
     return
 
 
@@ -94,20 +94,20 @@ def uploadSights(db, city_dir):
 
 def main(city_dir):
     db = firestore.client()
-    # uploadCity(db, city_dir)
+    uploadCity(db, city_dir)
     # uploadTrips(db, city_dir)
-    uploadSights(db, city_dir)
+    # uploadSights(db, city_dir)
 
 
 cred = credentials.Certificate('CLOUD_ACCESS/my-project-1564769957780-firebase-adminsdk-3edlt-66c12201bf.json')
 if not firebase_admin._apps:
     firebase_admin.initialize_app(cred)
 
-done = False
+done = True
 for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES"):
     for city_dir in dirs:
         print(city_dir)
         if isMetadataGathered(city_dir) and isTextMetadataFinal(city_dir) and isTextFinal(city_dir) and done:
             main(city_dir)
-        if city_dir == "LILLE_HF_FR":
-            done = True
+        # if city_dir == "LILLE_HF_FR":
+        #     done = True

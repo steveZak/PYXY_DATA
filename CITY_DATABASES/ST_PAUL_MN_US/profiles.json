@@ -269,7 +269,8 @@
         "family",
         "fashion"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Cathedral of Saint Paul",
@@ -540,7 +541,8 @@
         "art",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Historic Fort Snelling",
@@ -740,7 +742,8 @@
         "books",
         "science"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Minnesota State Capitol",
@@ -1011,7 +1014,8 @@
         "history",
         "art"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Science Museum of Minnesota",
@@ -1242,7 +1246,8 @@
         "family",
         "friends"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Minnesota History Center",
@@ -1442,7 +1447,8 @@
         "books",
         "cosmopolitan"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "James J. Hill House",
@@ -1642,7 +1648,8 @@
         "architecture",
         "family"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Wabasha Street Caves",
@@ -1849,7 +1856,8 @@
         "nightlife",
         "science"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Landmark Center",
@@ -2049,7 +2057,8 @@
         "military",
         "music"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Rice Park",
@@ -2249,7 +2258,8 @@
         "hiking",
         "nightlife"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Alexander Ramsey House",
@@ -2449,7 +2459,8 @@
         "books",
         "music"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Mears Park",
@@ -2720,7 +2731,8 @@
         "nightlife",
         "animals"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Mississippi National River and Recreation Area",
@@ -2981,7 +2993,8 @@
         "walking",
         "beach"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Large Green Chair",
@@ -3188,7 +3201,8 @@
         "friends",
         "fashion"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Hidden Falls Regional Park",
@@ -3388,7 +3402,8 @@
         "fashion",
         "walking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Como Park",
@@ -3659,7 +3674,8 @@
         "nature",
         "walking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Twin City Model Railroad Museum",
@@ -3870,7 +3886,8 @@
         "family",
         "history"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Minnesota Children's Museum",
@@ -4111,7 +4128,8 @@
         "history",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Minnesota Transportation Museum",
@@ -4332,7 +4350,8 @@
         "family",
         "fashion"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Bell Museum",
@@ -4573,7 +4592,8 @@
         "books",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Minnesota Museum of American Art",
@@ -4824,7 +4844,8 @@
         "art",
         "science"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Como Town",
@@ -5024,7 +5045,8 @@
         "fashion",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Indian Mounds Regional Park",
@@ -5231,7 +5253,8 @@
         "water",
         "walking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Lilydale Regional Park",
@@ -5502,7 +5525,8 @@
         "beach",
         "walking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Fort Snelling State Park",
@@ -5773,7 +5797,8 @@
         "beach",
         "walking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "F. Scott Fitzgerald House",
@@ -5973,7 +5998,8 @@
         "movies",
         "science"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Marjorie McNeely Conservatory",
@@ -6244,7 +6270,8 @@
         "walking",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Phalen Regional Park",
@@ -6515,7 +6542,8 @@
         "water",
         "walking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Crosby Farm Regional Park",
@@ -6786,7 +6814,8 @@
         "animals",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Harriet Island Park",
@@ -7057,7 +7086,8 @@
         "walking",
         "beach"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Bruce Vento Nature Sanctuary",
@@ -7257,7 +7287,8 @@
         "water",
         "nature"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Mill Ruins Park",
@@ -7528,7 +7559,8 @@
         "engineering",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Cafesjian's Carousel",
@@ -7789,7 +7821,8 @@
         "amusement",
         "family"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Stone Arch Bridge",
@@ -7996,7 +8029,8 @@
         "walking",
         "beach"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "F. Scott Fitzgerald Birthplace",
@@ -8196,7 +8230,8 @@
         "military",
         "history"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "The Charlotte Partridge Ordway Japanese Garden at Como Park",
@@ -8467,7 +8502,8 @@
         "walking",
         "hospitality"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Shadow Falls Park",
@@ -8738,7 +8774,8 @@
         "beach",
         "fashion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Mill City Museum",
@@ -8938,7 +8975,8 @@
         "architecture",
         "original"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Swede Hollow Park",
@@ -9138,7 +9176,8 @@
         "nature",
         "animals"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Minneapolis Sculpture Garden",
@@ -9409,7 +9448,8 @@
         "walking",
         "instagram"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Carty Park",
@@ -9680,7 +9720,8 @@
         "amusement",
         "hospitality"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Landmark Plaza",
@@ -9887,7 +9928,8 @@
         "military",
         "art"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Kellogg Mall Park",
@@ -10158,7 +10200,8 @@
         "architecture",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Padelford Riverboats",
@@ -10429,7 +10472,8 @@
         "hospitality",
         "water"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Minneapolis Institute of Art",
@@ -10670,7 +10714,8 @@
         "culture",
         "music"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Downtown",
@@ -10870,7 +10915,8 @@
         "books",
         "military"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Western Sculpture Park",
@@ -11077,7 +11123,8 @@
         "walking",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "St. Paul College Club",
@@ -11328,7 +11375,8 @@
         "books",
         "amusement"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Boyd Park",
@@ -11528,7 +11576,8 @@
         "family",
         "nature"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Frogtown Park and Farm",
@@ -11735,7 +11784,8 @@
         "animals",
         "amusement"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Cherokee Regional Park",
@@ -12006,7 +12056,8 @@
         "science",
         "military"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "Mattocks Park",
@@ -12277,7 +12328,8 @@
         "science",
         "animals"
       ],
-      "duration": 0.75
+      "duration": 0.75,
+      "quote_source": "go"
     },
     {
       "name": "Harmon Park",
@@ -12548,7 +12600,8 @@
         "friends",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Smith Avenue Bridge",
@@ -12755,7 +12808,8 @@
         "instagram",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Dodge Nature Center",
@@ -13016,7 +13070,8 @@
         "books",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Lewis Park",
@@ -13287,7 +13342,8 @@
         "science",
         "art"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Frederick R. Weisman Art Museum",
@@ -13487,7 +13543,8 @@
         "books",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     }
   ]
 }

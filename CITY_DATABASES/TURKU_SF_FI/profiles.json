@@ -159,7 +159,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.turunlinna.fi/"
+      "website": "http://www.turunlinna.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Luostarinm\u00e4ki",
@@ -320,7 +321,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.turku.fi/luostarinmaki"
+      "website": "http://www.turku.fi/luostarinmaki",
+      "quote_source": "go"
     },
     {
       "name": "Turku Art Museum",
@@ -481,7 +483,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.turuntaidemuseo.fi/"
+      "website": "http://www.turuntaidemuseo.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Aboa Vetus & Ars Nova",
@@ -642,7 +645,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://www.aboavetusarsnova.fi/fi"
+      "website": "https://www.aboavetusarsnova.fi/fi",
+      "quote_source": "go"
     },
     {
       "name": "Turku Cathedral",
@@ -813,7 +817,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "https://www.turuntuomiokirkko.fi/"
+      "website": "https://www.turuntuomiokirkko.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Kupittaa Park",
@@ -920,7 +925,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.turku.fi/"
+      "website": "http://www.turku.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Forum Marinum",
@@ -1081,7 +1087,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.forum-marinum.fi/fi/"
+      "website": "http://www.forum-marinum.fi/fi/",
+      "quote_source": "go"
     },
     {
       "name": "Posankka",
@@ -1188,7 +1195,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://www.turku.fi/kulttuuri-ja-liikunta/museo/kokoelmat/ulkoveistokset/alvar-gullichsen-posankka"
+      "website": "https://www.turku.fi/kulttuuri-ja-liikunta/museo/kokoelmat/ulkoveistokset/alvar-gullichsen-posankka",
+      "quote_source": "go"
     },
     {
       "name": "Botanic Garden of Turku",
@@ -1359,7 +1367,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "https://sites.utu.fi/kasvitieteellinen-puutarha/"
+      "website": "https://sites.utu.fi/kasvitieteellinen-puutarha/",
+      "quote_source": "go"
     },
     {
       "name": "Pharmacy Museum and Qwensel house",
@@ -1520,7 +1529,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.turku.fi/apteekkimuseo"
+      "website": "http://www.turku.fi/apteekkimuseo",
+      "quote_source": "go"
     },
     {
       "name": "Kuralan Kyl\u00e4m\u00e4ki",
@@ -1691,7 +1701,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.turku.fi/kuralankylamaki"
+      "website": "http://www.turku.fi/kuralankylamaki",
+      "quote_source": "go"
     },
     {
       "name": "W\u00e4in\u00f6 Aaltonen Museum of Art",
@@ -1852,168 +1863,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.wam.fi/"
-    },
-    {
-      "name": "Visit Turku",
-      "orig_name": "Visit Turku",
-      "place_id": "ChIJP_PRjft2jEYRwLH6xDoEI94",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "02 2627444",
-      "int_phone": "+358 2 2627444",
-      "hours": [
-        {
-          "close": {
-            "day": 1,
-            "time": "1800"
-          },
-          "open": {
-            "day": 1,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 2,
-            "time": "1800"
-          },
-          "open": {
-            "day": 2,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "1800"
-          },
-          "open": {
-            "day": 3,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "1800"
-          },
-          "open": {
-            "day": 4,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 5,
-            "time": "1800"
-          },
-          "open": {
-            "day": 5,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 6,
-            "time": "1500"
-          },
-          "open": {
-            "day": 6,
-            "time": "1000"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 60.4497802,
-        "lng": 22.2666702
-      },
-      "address": "Aurakatu 8, 20100 Turku, Finland",
-      "photos": [
-        {
-          "height": 533,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107493965504695166609\">Alan Pembshaw</a>"
-          ],
-          "photo_reference": "CmRaAAAAZTa9xc12P-pztbqGwqtk2JLYdiK_q82H1q_NoKwgZu6RmFrdlxh7RZv8_C6n5nADJzUSGT8P4vCUeXCl0UhA7lgrt9u0ZHXDXQ4zlot3Nq0eJf3h7m4t6Zpj_xY3rclPEhB-0CODqleIafaTi7SjUkFEGhR13raQpT3IN-xabf8pB5LNIzqVfg",
-          "width": 799
-        },
-        {
-          "height": 2988,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114241457039639676478\">Johanna Lotz</a>"
-          ],
-          "photo_reference": "CmRaAAAAMyseb3fbOmobwdbksRxAFAMIQSVbC2NGuqj5r7kS3RbBt7_ukowTHoGWQsDe4WEHPe0JfIAB-8KDNI9b-eVk-kqmXpMgHZ1u-tzEEMPuskg9lOL9bdzqvHBpQmVFZ8KDEhAtEiwJZrg1SmFZ66__SWPfGhSKmxXydc55kZqQg3MUZzG38Xl1HQ",
-          "width": 3984
-        },
-        {
-          "height": 2268,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100878470005546759919\">Giovanni Moriani</a>"
-          ],
-          "photo_reference": "CmRaAAAABnBy2sVrLo6QjT3VsyfI9pnTAagaoWRI0s_7w8e1ZArSFGLPiIF-rELw7X7Hs67nwabQweAkNIiOT3ELXzktdyzk-h0Whd4Sj92Rty_oJmfwM6GwqEzXNe1FYUM-mvqOEhC5MMKDWMb2DSq1Z8dWcAMiGhQxGlIdv_joWhQSIKUN23lzqnDdTw",
-          "width": 4032
-        },
-        {
-          "height": 2268,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/113626562889580078661\">Gabriel Phillips-Sanchez</a>"
-          ],
-          "photo_reference": "CmRaAAAAEjP6hRueZ-fAEC7itAehJ38sfxmY9w1ggLSFuPcStdSfRunmYPcHYT85nx6xckX0grEfncXbdscmsGX2tT73JpUgY7ONrnQjzUOayUZmiwX4VNJ5lYVH4i1zI7JubNtbEhCybyVfVw2JeLHgp5iXk0gFGhR_0hUIQ84yE5kDRo5FkDIojg3_hg",
-          "width": 4032
-        },
-        {
-          "height": 2160,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109647760771807227887\">Anja Toivanen</a>"
-          ],
-          "photo_reference": "CmRaAAAAHP6_COQ_sUhJdMHql6nrLOvEEAaXicJBAONUAblOoY9DT6440gknkI5cOugjUW2NCzqJLfquNpzygkM1odx-MZbjR3KrdwVI87CpwtV30EmzGKlbjN_HpIP7snO3pSXpEhCV84FqjJ1W8zCoXp7fOflkGhSHfzsoZdxLFNxdAtVVyWwb-kcCkw",
-          "width": 3840
-        },
-        {
-          "height": 533,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107493965504695166609\">Alan Pembshaw</a>"
-          ],
-          "photo_reference": "CmRaAAAA-0CF8NjrFPGm8F0b2Ql07Y8q2znhciO3LEylVQ5Z7mR8WJ2IiLLGLlhSwC5kaPv_c5edAL9mIEJu04foWpkeAb0_Rzb1UUEIUoQsV45m0c_FLkpGzIUMryvRfX0AFOk7EhCdEZbmjwj9afNx4lUVOyW2GhRAe6hiqB5xnt2qTD2ahZLjjBHmgQ",
-          "width": 753
-        },
-        {
-          "height": 533,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107493965504695166609\">Alan Pembshaw</a>"
-          ],
-          "photo_reference": "CmRaAAAAD1wQkEYlJVUDMuJZZJK-OSKBuvNPHQagaZ-rlHBIv1oU2rc2P4I3xSnEGH1QWM50kZZAtndFFuiCWEf6CJkj_AKbJDI8xXtO1nrmrQQk2UrqqU1DMIuPcYnMxQAXlpkuEhBJd-qFwQHS_IUe2pmkMJ1PGhQT0QJQhmf8pSf9sbAjg_iYT7sFIw",
-          "width": 753
-        },
-        {
-          "height": 533,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107493965504695166609\">Alan Pembshaw</a>"
-          ],
-          "photo_reference": "CmRaAAAA5r2RjCn2vkNtfQkLCAq45GFU-3w2fdKIt3T61JkczU6GoAnvJJXXMFBqztzkKXgXmmHmKCO-__1_y0JPQZb0MasUUBQpnWWTLe7RGjrnGWaCjrt884v2Vv9Nj3v-aHwaEhBHCkqCxtLMKNS_Xpea343dGhR63l4pTJTebPdd7j646BVwpiOyOQ",
-          "width": 754
-        },
-        {
-          "height": 799,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107493965504695166609\">Alan Pembshaw</a>"
-          ],
-          "photo_reference": "CmRaAAAAxJZDR-PTdootkKy8r6Y6xayaWBMqL7gGmgtg071svxerEk-lXL2xtbuxcC8r1cmY2DGKEwgOiJB_3xOKzQl0LxxWL6s5cwfhoT3fLT1yks5mg37mfglugFrCOMdf5ZukEhB523aY0kVICCcZQdzB7L2yGhRVR06522Y77l7Yk2yN8-lWKUs95A",
-          "width": 533
-        },
-        {
-          "height": 3888,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/108809742613718903547\">Teija Lindvall</a>"
-          ],
-          "photo_reference": "CmRaAAAAilQJx8dQGmZVE-sLb1P2FYPT4JHI3NI3ceg1zxxkd7lQhQuPoKMZ-Qd8NgdY8HJQ9YcXblwUXf69Zd8A2AYhUXrEgSBrdrAf782NHDmVkQZavuv192zi-CYcdI0V_zN0EhAUH1pWuUiivAmA4zDJptpJGhSWzmfX1583tT9Sfb1x4nHKWpvO8w",
-          "width": 3888
-        }
-      ],
-      "rating": 4.3,
-      "website": "https://www.kissmyturku.fi/"
+      "website": "http://www.wam.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Michael\u00b4s Church",
@@ -2113,7 +1964,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.turunseurakunnat.fi/kirkot-ja-kappelit/mikaelinkirkko"
+      "website": "http://www.turunseurakunnat.fi/kirkot-ja-kappelit/mikaelinkirkko",
+      "quote_source": "go"
     },
     {
       "name": "The Old Great Square",
@@ -2213,7 +2065,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.turku.fi/vanhasuurtori"
+      "website": "http://www.turku.fi/vanhasuurtori",
+      "quote_source": "go"
     },
     {
       "name": "St. Henry's Ecumenical Art Chapel",
@@ -2384,7 +2237,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://taidekappeli.fi/"
+      "website": "http://taidekappeli.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Sibeliusmuseum",
@@ -2525,7 +2379,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.sibeliusmuseum.fi/"
+      "website": "http://www.sibeliusmuseum.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Jukupark",
@@ -2636,7 +2491,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.jukupark.fi/"
+      "website": "http://www.jukupark.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Museum of Turku Cathedral",
@@ -2807,7 +2663,8 @@
         }
       ],
       "rating": 4.3,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Ett Hem",
@@ -2948,7 +2805,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://etthem.fi/"
+      "website": "http://etthem.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Aura",
@@ -3048,7 +2906,8 @@
         }
       ],
       "rating": 4.4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Turku Orthodox Church",
@@ -3209,7 +3068,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://www.turkuort.fi/"
+      "website": "https://www.turkuort.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Turku Biological Museum",
@@ -3370,7 +3230,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://www.turku.fi/biologinenmuseo"
+      "website": "https://www.turku.fi/biologinenmuseo",
+      "quote_source": "go"
     },
     {
       "name": "Flowpark",
@@ -3481,7 +3342,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.flowpark.fi/turku"
+      "website": "http://www.flowpark.fi/turku",
+      "quote_source": "go"
     },
     {
       "name": "F\u00f6ri",
@@ -3652,190 +3514,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://www.turku.fi/fori"
-    },
-    {
-      "name": "Turku harbour",
-      "orig_name": "Turku harbour",
-      "place_id": "ChIJ-QfyHaV3jEYR0ZMZPFK1ACY",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "",
-      "int_phone": "",
-      "hours": "",
-      "coordinates": {
-        "lat": 60.4357634,
-        "lng": 22.2212832
-      },
-      "address": "Turku harbour, 20100 Turku, Finland",
-      "photos": [
-        {
-          "height": 2592,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/116750143494713829212\">Eveliene VdA</a>"
-          ],
-          "photo_reference": "CmRaAAAAPbdPxk7zKQGz1wqty0Oo-6xnoqEThxGfwOWKY9AprCqH88c7spbSSdfyQ8v_Pr8N6uKApDddh9CKaQKppn84dBQweenGb5vpGntQrMRafg4Mki8JACN6pR0fKMTWNJ9xEhAeSwDbtluCbuOkwz9UmBlwGhRZ7N7oex0aRAkCbVSIIzczgD25zw",
-          "width": 4608
-        },
-        {
-          "height": 1080,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115610432213760474361\">Jari Tuomi</a>"
-          ],
-          "photo_reference": "CmRaAAAANrTdJSIeEibBpKyNikaZdsy1t-qK2nMsGrwQyMiTJ4VDmeqdTB3OXNZT4tpCUZkXElvY3iqyuRlvxLdjXa5dB96ioGHyWvThFpXHvnlPE0OIJZNhsCPNt-FtIFP55Hy-EhCcPgFOz4xYaqBVXiKfMBVLGhRVVa0WeMKCqWLA6k-SP8r_oReHLA",
-          "width": 1920
-        },
-        {
-          "height": 2988,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/101141726631500214697\">Sami Salo</a>"
-          ],
-          "photo_reference": "CmRaAAAAgw16JcQPnH4lBGixM1eEMOOVE6gQQ2LTG_KVi4dK00APND0m7HdL3NICAkgzwiE20ebNkcxBiJt9eaL98TJsOBpHiL0BrYt7gAdWft52g6mUJYWInzCFr7yOrn71hrzXEhDD_xaIITHC9AAKU9FIdcssGhQThL3ej96QekgdzGGMVzY2fAgMEA",
-          "width": 5312
-        },
-        {
-          "height": 4608,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102723744357926220925\">jussi perho</a>"
-          ],
-          "photo_reference": "CmRaAAAASFSelApNJAhluQxo06ilX9exKd18A-xsjoszaDeQEcQRG-SUTPB-GMSM1Awpr-xZ6hRKqzUlVxPoeKQsFRnv6SjCwTRhlXGTImG2KUu-7oCiBnawJiD9CkumdgiQSHnCEhBSCA6dSGIt4UqtJZF25vgUGhRPujKP2MJKM77CNiPnPGWJl_0MtQ",
-          "width": 2304
-        },
-        {
-          "height": 3008,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102201147937543517155\">Krisse Saarinen</a>"
-          ],
-          "photo_reference": "CmRaAAAAuXCbnyALeLudymEXyEm6e9zKM31e0y5-BQNbXpVhAa6nMd0w64oPabGxCxWoCEBjx0kgLkl7HkOrACEEysd_-qSCIc5M-OLNnE1f4gpFQt9LUC2TXV3ALiyjpoWadg7UEhDYTgS4grBuPxpiAojL4kgcGhTCt9UDVZUoHp3DBtQmFA8y3BT5hQ",
-          "width": 5344
-        },
-        {
-          "height": 2088,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107663515509490390375\">markku viisanen</a>"
-          ],
-          "photo_reference": "CmRaAAAAodgNp7Kro7Hj-2uZw8NUqS8FzMKgHy-k0GDqhA4oRUc2V94ldxQ7hhdHKSYrqRIK_Go4TUQPCm6kXEWe8rGVvgBrEpKFbeykLjyj5zzuSP_BL6ZrCo-0eqsVt41qMH66EhA0j5QdoW4oA4h7uyXLpD7SGhQ1m0UEKnk3PNIeEAJU6klP0_kfnw",
-          "width": 4021
-        },
-        {
-          "height": 3898,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/110900285941179245551\">Nina Nieminen</a>"
-          ],
-          "photo_reference": "CmRaAAAA7AHNLFW5T6FJ2eakkLJRDw2tIo2rVZnmHQPJCFKDugmqWtyK-jXLZcIaRfGS8gnOTkqW5yZ97n0xJ_RXbU_LZqen41Zb7EsoTWX5SFwX35QmSWWNU3nG3Aao1vX51b8LEhA5GVVclkYIifqPy54B4J3pGhTzdpbhc3ZsgGsmOAAqxvVsCCFzeA",
-          "width": 2924
-        },
-        {
-          "height": 2304,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102723744357926220925\">jussi perho</a>"
-          ],
-          "photo_reference": "CmRaAAAAdls0Wd3wSs3ix_ZLIldWhIXV0pvF9CVSs1ate_01KXseFL4ur7JngeC9U3UI2G545Ae5StQcW1_15FiW3igGL6f-xB55Tf6PMYX0GEinh5ZB4ao1i_dAyrVDGuckqMU3EhD7CfQ_IrfDjyufZHdfPzd3GhRdy2j7_QgBf_OCNDkrV9h-oCLKVg",
-          "width": 4608
-        },
-        {
-          "height": 1080,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/116656480450295552627\">Kari Lahti</a>"
-          ],
-          "photo_reference": "CmRaAAAA78ZQyEkNOuc6JpQKFwpNedJlJGvx-mci9Aeyw5YAnsRAe7XJ6jsjDANaC6N32sEcY0YWflQeJMjt9oT3wVl8EzCOl5ExjIgO-WUkjuJPkB0deNwlUu-JMGBpIL37XuGgEhDaiFdmJI8tF3dh6k5GqIUcGhTPPR2EyF2eI0sY_4QTM_Bd8rQsMA",
-          "width": 1440
-        },
-        {
-          "height": 1344,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103106767190777075336\">Pawel Wierzchowiecki</a>"
-          ],
-          "photo_reference": "CmRaAAAA3S7y3-iAuy5y7f-MPUxLqtDpj6xucT_jwpTDj3E5XgOiVgVooGDavtHGrEzG479JmHIOzMDD_t4GwGyVS-ZR_7rtXuNeYDPE-65_4R21JsnAFZboOngToqta-N7IQdBiEhAMfvp9iga64s7zjETAQuRpGhQ8kFWJ16W1JC2Yrf4X9iCY9gbeUA",
-          "width": 1792
-        }
-      ],
-      "rating": null,
-      "website": ""
-    },
-    {
-      "name": "Raunistula",
-      "orig_name": "Raunistula",
-      "place_id": "ChIJJfVDCPV2jEYRIYwZPFK1ACY",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "",
-      "int_phone": "",
-      "hours": "",
-      "coordinates": {
-        "lat": 60.4640654,
-        "lng": 22.2710485
-      },
-      "address": "Raunistula, 20300 Turku, Finland",
-      "photos": [
-        {
-          "height": 3968,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100779626849027246451\">Christel Kujala</a>"
-          ],
-          "photo_reference": "CmRaAAAA-mHwOZSCDzLgegI4s8udOG1SkZGGgvUGOlyWEb_fWaGPyj4ka26K1QlA4BVV1MdQ1DfCGoDxcHwkqaKkeuxNPKEYqfts9giR8goxgNMCVwezsiT7u-jMCtoZiztRZqP0EhDTET1svdxm73Z9V3HvgIiEGhSqcLYcXN95YrIOIc2MJfcF_b4BnA",
-          "width": 2976
-        }
-      ],
-      "rating": null,
-      "website": ""
-    },
-    {
-      "name": "M\u00e4ntym\u00e4ki",
-      "orig_name": "M\u00e4ntym\u00e4ki",
-      "place_id": "ChIJSe6YzRx3jEYRUY0ZPFK1ACY",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "",
-      "int_phone": "",
-      "hours": "",
-      "coordinates": {
-        "lat": 60.4391158,
-        "lng": 22.2667495
-      },
-      "address": "M\u00e4ntym\u00e4ki, 20810 Turku, Finland",
-      "photos": "",
-      "rating": null,
-      "website": ""
-    },
-    {
-      "name": "Harittu",
-      "orig_name": "Harittu",
-      "place_id": "ChIJOTaAIjV3jEYRsY0ZPFK1ACY",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "",
-      "int_phone": "",
-      "hours": "",
-      "coordinates": {
-        "lat": 60.41382899999999,
-        "lng": 22.3077005
-      },
-      "address": "Harittu, 20740 Turku, Finland",
-      "photos": [
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102201147937543517155\">Krisse Saarinen</a>"
-          ],
-          "photo_reference": "CmRaAAAAK1xNUz5BAxXMnXmQc9kqF90k3S97uVD0QeHja9G_JMMMziPH18V_x1LyvThP_GY2IIKfiKnZpERJ4MRzy-1V81jcdzEJSs12m-BZLLrfAlFN2VvVAnvuBZcyzw1oC7ooEhAfSPqWZUNLktdrcR7zZfpkGhTFm-aaW0GAxyNtxQwKw3JFkvNhgA",
-          "width": 4032
-        },
-        {
-          "height": 2976,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/101456857986560156924\">J Vuorela</a>"
-          ],
-          "photo_reference": "CmRaAAAAcMdq3b62QidNhVQ4lBSCZ_79-l_byYUkljnL1C2bUG_pwWp3jy6y9z2wJohtxW8Xkrk86bpqbZglZr89bNBWoho4XBZeuY9qBejy89CUVbD5BA25SDk5xBg8_S5cRLxPEhDEGiun0VEJmany1taozpOoGhTHy32SOoodhQUVcCNtzjCVlIoiLw",
-          "width": 3968
-        }
-      ],
-      "rating": null,
-      "website": ""
+      "website": "http://www.turku.fi/fori",
+      "quote_source": "go"
     },
     {
       "name": "Moomin World",
@@ -3935,7 +3615,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://www.muumimaailma.fi/"
+      "website": "https://www.muumimaailma.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Main Library | Turku City Library",
@@ -4106,35 +3787,8 @@
         }
       ],
       "rating": 4.7,
-      "website": "http://www.turku.fi/kirjasto"
-    },
-    {
-      "name": "Kurala",
-      "orig_name": "Kurala",
-      "place_id": "ChIJ6fWdn7l2jEYRQY4ZPFK1ACY",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "",
-      "int_phone": "",
-      "hours": "",
-      "coordinates": {
-        "lat": 60.4613985,
-        "lng": 22.3278951
-      },
-      "address": "Kurala, 20540 Turku, Finland",
-      "photos": [
-        {
-          "height": 4032,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/117080417837450041454\">\u00c5bo</a>"
-          ],
-          "photo_reference": "CmRZAAAA-NBRorCAXoFAbuqYUY5QP1iibOoCXnEzF28iPFcBWibMNvvW-YHSE38xHahfk2hRuHS9NEA0UIg1xAdJV2kpCIbrPbxvUJDRB482FbeRku_ARzjq74YYA1eHmOrfTRM3EhDi63OrgVnEhbx2okx_CFR8GhSIRJw50-uDGWql2-rGLhyUWZfqNA",
-          "width": 2268
-        }
-      ],
-      "rating": null,
-      "website": ""
+      "website": "http://www.turku.fi/kirjasto",
+      "quote_source": "go"
     },
     {
       "name": "Kurjenrahka National Park",
@@ -4241,7 +3895,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "https://www.luontoon.fi/kurjenrahka"
+      "website": "https://www.luontoon.fi/kurjenrahka",
+      "quote_source": "go"
     },
     {
       "name": "\u00c5bo Svenska Teater",
@@ -4442,7 +4097,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "https://www.abosvenskateater.fi/"
+      "website": "https://www.abosvenskateater.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Ruissalo Camping",
@@ -4542,7 +4198,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "https://www.visitturku.fi/ruissalocamping"
+      "website": "https://www.visitturku.fi/ruissalocamping",
+      "quote_source": "go"
     },
     {
       "name": "Shopping center Skanssi",
@@ -4713,7 +4370,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.skanssi.fi/"
+      "website": "http://www.skanssi.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Ruissalo",
@@ -4813,7 +4471,8 @@
         }
       ],
       "rating": 4.4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Zoolandia",
@@ -4913,26 +4572,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.zoolandia.fi/"
-    },
-    {
-      "name": "Iso-Heikkil\u00e4",
-      "orig_name": "Iso-Heikkil\u00e4",
-      "place_id": "ChIJXzj5Wk12jEYR4ZMZPFK1ACY",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "",
-      "int_phone": "",
-      "hours": "",
-      "coordinates": {
-        "lat": 60.45034039999999,
-        "lng": 22.2303673
-      },
-      "address": "Iso-Heikkil\u00e4, 20200 Turku, Finland",
-      "photos": "",
-      "rating": null,
-      "website": ""
+      "website": "http://www.zoolandia.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Turku archipelago",
@@ -5032,7 +4673,8 @@
         }
       ],
       "rating": 4.4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Turku Castle Church",
@@ -5132,7 +4774,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://www.turku.fi/turun-linna/vuokrattavat-tilat/linnan-kirkko"
+      "website": "https://www.turku.fi/turun-linna/vuokrattavat-tilat/linnan-kirkko",
+      "quote_source": "go"
     },
     {
       "name": "Kultaranta",
@@ -5243,7 +4886,8 @@
         }
       ],
       "rating": 4,
-      "website": "https://www.presidentti.fi/presidentin-toimi/virka-asunnot/kultaranta/"
+      "website": "https://www.presidentti.fi/presidentin-toimi/virka-asunnot/kultaranta/",
+      "quote_source": "go"
     },
     {
       "name": "Naantali Church",
@@ -5343,107 +4987,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.naantalinseurakunta.fi/"
-    },
-    {
-      "name": "M/S Rudolfina",
-      "orig_name": "M/S Rudolfina",
-      "place_id": "ChIJIQYHRQB3jEYRLIN-bMd5_AQ",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "040 8463000",
-      "int_phone": "+358 40 8463000",
-      "hours": "",
-      "coordinates": {
-        "lat": 60.44343900000001,
-        "lng": 22.2511149
-      },
-      "address": "L\u00e4ntinen Rantakatu 37, 20100 Turku, Finland",
-      "photos": [
-        {
-          "height": 2264,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115049011618177101609\">Mikko Uussaari</a>"
-          ],
-          "photo_reference": "CmRaAAAAUtSrXMxxOO-kegvzBBGL47GPr8cHdRZEHCvg0f4GYdRCsJ5kNxIwdW5lx6ie4B6tn46RHrLaJa4gpQVtHMOrFKVhuivEgdpd3HP7hzqsEBQYP2tgiPQi20AvroCnTmNxEhCox_45i4L2cJ0Xy7pqKJ3CGhQE2InS2RXPS6kdkJfdeG0FW9MjCw",
-          "width": 3920
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106320363996784146457\">Bigpocketplayer</a>"
-          ],
-          "photo_reference": "CmRaAAAAAe5UH4udR3t1QwSTEFr4FhqNSsu1VTpa6vTvS3282Y4Z0kXtTYuPigMq68QrRhnasW0sOGX01Rf02zeX5R6UUTTs6BTeBpSIAftqkVZ2gmjDxNrp5c7bi4CzLrH8m8vkEhCSvVVMerO5KH04qpW71MPPGhR9Gt0cvDOnQTBbUO3w6YmcIN0eeA",
-          "width": 4608
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112521165215319633869\">Leila Kurgj\u00e4rv</a>"
-          ],
-          "photo_reference": "CmRaAAAA5Jeo7GfDS1roMTFUzgqQxw5nQbaFzJqRSYIa-WdIp0wMAkkgq3GoFmiZSsHuNedRkJgpMrNgi8pvZyugzxeZdv2dd2_6e-OWGFlA_p4KuJZPe6qlpwI6zxDSj186R0ZzEhCfz-MXyCsjTEn2Rgr0cSPoGhRqyY4b1AzOMwyvkrChARyjxDGuvQ",
-          "width": 4608
-        },
-        {
-          "height": 1944,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111741809056107910491\">Eero Lampinen</a>"
-          ],
-          "photo_reference": "CmRaAAAACZ_c6NXMrZgJYSTGZufqLW4pG4OqHrkBYV94vmYlSbe3VZw4jwMU80YpI0KEkLSqOIErAW8kuS0vJKw17vN224Di3_KRaw6WvpDnbzUW7rzXbuSm7IikVjAxvmC6bNSyEhC11SgNcFku99yr1ShlTKRmGhQruUd9u9RjDw9VjX4kU3d5GYin_A",
-          "width": 2592
-        },
-        {
-          "height": 1944,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111741809056107910491\">Eero Lampinen</a>"
-          ],
-          "photo_reference": "CmRaAAAAvkAyJ6e88UfGG3LNa4X4p94uTplfkqvpm2a5SRQSkKLmWbvC_yct8WeoDr-cd1PJe-Ducz9vHhzWjHBe2K1t8oJgpemNP-_F5L6fIMnQ6dk3CTBesXiOL1ey4wKUEmgWEhBnDAJT2cFLOuuT3SoNtmjqGhRXnjVn3YpQGHbPOBOLo7FkAj1q0g",
-          "width": 2592
-        },
-        {
-          "height": 2992,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114013174856697071619\">Sami Vuori</a>"
-          ],
-          "photo_reference": "CmRaAAAA_jojPPXa5xQo71diGSfcqfDWgpusugypiW5eoXsXRA3L9YzS9bCwKm3B0oM4HV5wFOQg6FIYpWty7h8i85ZIH6PSGfphus0VR5NFpNLwZgPRWKKJOEQtklaY1DsLtd_pEhAJjgv4orPwti-0y09ye5lpGhTltKoBvxT1NWCI58ADcIiT01MnZg",
-          "width": 4000
-        },
-        {
-          "height": 2976,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/101709930348630399765\">Marjut Lahtonen</a>"
-          ],
-          "photo_reference": "CmRaAAAAOUZ-017Mru1DxIrHxjeE3XP5vnbZc1KQ-7DqiCGSar9pykM0KCrqshX-3S0RX5i6vG7p0qUEbrz-kJfa9jTVLclVNKxlISyHiUs6nBJ9XzotAVbzd6u8tt_v2xJ_3rsYEhBTAWuFwMdygbSzO7LYnajqGhTgZzp7mv3RpDRHWlzhyokxKLqTgQ",
-          "width": 3968
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106320363996784146457\">Bigpocketplayer</a>"
-          ],
-          "photo_reference": "CmRaAAAApViF722qBrIew6qro9_exwg86pfMqbMDgtLxRBIDTHx1lkQBPcth3pb9XqHFvinZnDotCg_Elm6mvuOgA4ts0blIvRAjVWMFrL22TypmUpGOwDDP1LIGvMFiJKmLb_vMEhCk_tpn3If3zb3wLvcyUubdGhRITOommWuBRfA6VFkQZgyDGea1AQ",
-          "width": 4608
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112521165215319633869\">Leila Kurgj\u00e4rv</a>"
-          ],
-          "photo_reference": "CmRaAAAA62oDbM2ry6Oh9vlOmIvPWQk6VYtCzHJ7h_Tkyc20W1syDsajWtxkixeEFZMMeas5uwNHRP3QgCQyj5eNjcCpPJMk-U9fvZFOOYN2K7_TV7FqdGJBO-UzYLbm2XRwCTJwEhADE-LCv6kw0bzRe_CrSx-sGhQlVKdbo1KNDu0P3FOwsptUn-NBfg",
-          "width": 4608
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106320363996784146457\">Bigpocketplayer</a>"
-          ],
-          "photo_reference": "CmRaAAAA4cdvs8Vkd9klUZSh15dMlrE2iKfPWcUew4g0kK7lBAt88zzlxmbuQdtRhYn5aMfL9lES0EoVcjMOzFdHuWIhIEKL7gSxWERK2PglD6HDFeNir-3z1PcdLMYo04tDBHprEhDZr8Mv2sSSaw5-KYzcX9HrGhSxxWP_j79OjCxOiGBO2uLKmYbSrQ",
-          "width": 4608
-        }
-      ],
-      "rating": 4.3,
-      "website": "http://www.rudolfina.fi/"
+      "website": "http://www.naantalinseurakunta.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Casa Haartman",
@@ -5495,214 +5040,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.casahaartman.fi/"
-    },
-    {
-      "name": "Pikepointer",
-      "orig_name": "Pikepointer",
-      "place_id": "ChIJrbhlI8d5jEYRtBp7AU0O3r0",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "040 7355099",
-      "int_phone": "+358 40 7355099",
-      "hours": [
-        {
-          "open": {
-            "day": 0,
-            "time": "0000"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 60.38037019999999,
-        "lng": 22.2195421
-      },
-      "address": "Vitanovantie 22, 20960 Turku, Finland",
-      "photos": [
-        {
-          "height": 1360,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102856806867720622293\">Pikepointer</a>"
-          ],
-          "photo_reference": "CmRaAAAAqRzhn868ufFad87OuDpyhooL7WzikDxUOJmLZJgzCcCqb01G0EDsn4EzIktRrEVVkv2ZhfmK5VCBZTghybKfEWMn0itl7TtXtLAO6poCGuomWpKJvARVlRkRtvv0ecynEhCCjiYav0I_7fogJ48W9cGwGhRN3aBM4pIrV0BxOghjtD-dFPg2jQ",
-          "width": 2048
-        },
-        {
-          "height": 626,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102856806867720622293\">Pikepointer</a>"
-          ],
-          "photo_reference": "CmRaAAAAaPZmsRsYdAXr1neqaKqKyUitIs933tyz2ump0RB98jVdXk8tjxTfS3itMmnD1REuhHaidOReA64nkoX_6ihzR2-ILcjMH9RZM1F04byHfeaQMFTRahr3zTm8RfTNNmfZEhArLvtaV1RKOwLu71LvST6yGhSpjjIxz0CzcQWmIYZ7sXqYyuLt5A",
-          "width": 1113
-        },
-        {
-          "height": 1200,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102856806867720622293\">Pikepointer</a>"
-          ],
-          "photo_reference": "CmRaAAAAjez49QqKfZGQl_wk79FO8J-MT_xALkMV0d_Rhoa0gSpseLpS6wo_YmfSeGoBqLCwZK7CgQ1SASv1MySE8xLkMwXhmwQRjW8pX-riX87Dacu_lOrRPhraeJjntpcMd7p8EhA8zL2npZtuezJgKz9ergS9GhRrIfgKLJaFIOmJtu-WjRZqB9mhcg",
-          "width": 1600
-        },
-        {
-          "height": 1360,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102856806867720622293\">Pikepointer</a>"
-          ],
-          "photo_reference": "CmRaAAAAOB5X60KxuLQcETDtPGab2YmX8CW0-f5V8EjnHEwRgbZdUS0DbeYhWyMStIw8U3l2B_RijqbtR_RtZshtXE35g-U_tuz0NnQM8nLyhpad9R3Sps4I0LkW8nG3-5tXP91UEhD_8EcXPIpB5EZd44apZFbXGhT_3LuCWE7e7cHoXtr8DtsMxC1NMA",
-          "width": 2048
-        },
-        {
-          "height": 1116,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102856806867720622293\">Pikepointer</a>"
-          ],
-          "photo_reference": "CmRaAAAAhhajIOBTZZ5CFYoPMFGisCzuE0KxOD0uxOxHBeyP7vMNN0mf6eOORYSMCRlPRd2R4TkaoRiC0Fl37NSTQfFYaICTb7qFNT4LUFb6nZ4Zb_W46ecF7KSW4bUsd4WZupA9EhARWWY6CN6yjC-fIO7HRW3uGhRtrM223wFXHxxA1Oi9xAO7UWdWqA",
-          "width": 1489
-        },
-        {
-          "height": 1360,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102856806867720622293\">Pikepointer</a>"
-          ],
-          "photo_reference": "CmRaAAAAz7rSlkST2CG6R-yUYUUJ01eKSWZVWNT8JnkE-N47oOmDqWbwWtzrJW6l2PeW61YZn_4xb0ZFkfUlCfeZZ8DxLZBweQ88CC6fno5VuRNOo_bEviJ1fpXvMh-K4rKdrgQREhC-yQSd1e3B1p0Plm3AN1O3GhQD2YOR6HHDYsKC5_tKaqBo1djLsg",
-          "width": 2048
-        },
-        {
-          "height": 1360,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102856806867720622293\">Pikepointer</a>"
-          ],
-          "photo_reference": "CmRaAAAAiLG25H4rhGWwh4C-PB5kRy6nas6DL42jjyg1_IXjQw_AH4WuBaovtPBGpzhpXpXWEbwjDr7PzWQ8HS_tXW_kmBaWHLHAoO-a0yZgn9iO9Pc5LWlu6i2mdEs_RtIOdUh8EhBU79AFQqtXjlglfRHIvOioGhRlLf6NRw8riNeAwHN6Hi1Ps2x1WA",
-          "width": 2048
-        },
-        {
-          "height": 1536,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102856806867720622293\">Pikepointer</a>"
-          ],
-          "photo_reference": "CmRaAAAAmjOJ1ixoydOy7jgFeIqTbr_86vzUHqGStg-_9gR6x07tb4QIIuDB4GXQ7EUPqb6jbfJUdja3XYXyCCoZvhiOv3u-E2bhKTfqGsbFIDRUiGEDwQ6f5fttF0w9OHUxeDO_EhB4uViXq0lSoZ1Uwhe0MDphGhSDonHt3ATVN9zLD0YaJ8931h6KMA",
-          "width": 2048
-        },
-        {
-          "height": 1200,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102856806867720622293\">Pikepointer</a>"
-          ],
-          "photo_reference": "CmRaAAAApvq4Wt6dq3L31YYVbCvx998UHDWKoUHOgcipuCEKaESmXE3nLExUbz26hQbaFeMsV5Xthx2RU9z1A2v0fKmN3BWaUVyQVluwJ0e25BVd-jK41BjljKGVSgXNB2E3Lb87EhCeb5IRqUHGWfU1MPRDfyW6GhQvgdXQ05Z3ct6NrEdHhPuaeDv8OA",
-          "width": 1600
-        },
-        {
-          "height": 1360,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102856806867720622293\">Pikepointer</a>"
-          ],
-          "photo_reference": "CmRaAAAAu1T0U1iBx2e2BmcfQ9aIbpXIel21uFVRnVATUjK1CuQTSMsW8Mm5aUQNQf215tSOtRFkHLeaoLQ5j3qyAdyyjKmFofKEvQTgeFOntpVjBDyQHSVuageMRjItA5Kw8O00EhD1ejnFds3Swwmow7TcIhVjGhS6ulvQpgNTzcw0P0z7DIbY74dqwQ",
-          "width": 2048
-        }
-      ],
-      "rating": 0,
-      "website": "https://www.pikepointer.fi/"
-    },
-    {
-      "name": "H\u00f6yrylaivaosakeyhti\u00f6 s/s Ukkopekka",
-      "orig_name": "H\u00f6yrylaivaosakeyhti\u00f6 s/s Ukkopekka",
-      "place_id": "ChIJG8aSMgB3jEYR3tqjRx4fU-k",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "02 5153300",
-      "int_phone": "+358 2 5153300",
-      "hours": "",
-      "coordinates": {
-        "lat": 60.4445724,
-        "lng": 22.2538205
-      },
-      "address": "40, Linnankatu 38, 20100 Turku, Finland",
-      "photos": [
-        {
-          "height": 2250,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/101741395825790877101\">H\u00f6yrylaiva S/S Ukkopekka</a>"
-          ],
-          "photo_reference": "CmRaAAAAYn87bOvnFGRfDSIqX6HNZqD1kzxqOUTXNQ91NNRNYweQRYFjXP0B7bvDya-sFnjwb8k9FrRysxuShkf5jlk70gpgsE4DMD6Wx6BaKjljzE5tIq8Dn5YHWor7_W7QleQiEhCYyisf2_Nw0Zxj2i6Fw3vCGhRhZWc8fZCY3Og6lYrxCDj4qiatIg",
-          "width": 4000
-        },
-        {
-          "height": 1000,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/101741395825790877101\">H\u00f6yrylaiva S/S Ukkopekka</a>"
-          ],
-          "photo_reference": "CmRaAAAAmE45RVFPWUDzHrSctidSUUd4msm4D-CzSmCeSZJxw6DDEJEDApBkCt-lAXX4vlD-T8BSPfJDt5SyntuNm1ZGGB7fdVx2rd-5yQwOfGJZrpN3hNhajkMlr1ihZI6bnN7OEhBlRGcC1UaKyB33XnxfSONmGhSReTOyslkzDtAq-WqxNDmteQ1MIQ",
-          "width": 1504
-        },
-        {
-          "height": 2736,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103147065699893626401\">Vesa-Pekka Venho</a>"
-          ],
-          "photo_reference": "CmRaAAAA3SFy2Pl_AZctQKZZBjtl1LhWkphoVAvfDs9Ne-hSGnIY_nPr-g6T4-g-lvvrVAwUBnnGStcdqiXo-6OdgkJ43EXi_EENCCAHYBV-G5t2kVjQ-lawjgCCoA6trVurRMgFEhA1svljhBsBqBfyx1nBMkaUGhQqzq7fuHmKMg2h2Xon_3olhnaKvw",
-          "width": 3648
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112599428526719343097\">Veikko Suhonen</a>"
-          ],
-          "photo_reference": "CmRaAAAA9RQir_eQ061eZRCvOUOzWce8_4RiyHU11tx0o6mKWuUQTIagnw-KqrhYc0V7tIpJ-wKAxWRseahyQZELbkwT6HgHntkBmxsg_V6xquRhtSF2r5l6_sKZgSCZ-ic8AtkhEhDSluE35ggZ9z_3pSabHuXnGhRndB0_EY2xh1blxBkbmS0G6DAyyg",
-          "width": 4608
-        },
-        {
-          "height": 800,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104182592087896219368\">Antti Kev\u00e4tlahti</a>"
-          ],
-          "photo_reference": "CmRaAAAA0as2xtuhyt7wimV-ftIhX3Vi07L_5wPFy9XPUn680hxELr1xb8KIQBZEM8axba_HHdKitKhl67jZ87SoWxCZsY1N3pO-wgJq7E0UZ5-nStvWTHfGLDYgfY8eVVAsMdh_EhA3YazpcYP9P6run_8GQjjWGhRgYsRThJ6_mthkCRn0-Lr2R0PS-g",
-          "width": 1200
-        },
-        {
-          "height": 1456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109072228701029587805\">simo sundgren</a>"
-          ],
-          "photo_reference": "CmRaAAAAQTIdrnrL-2ngOGDcAN5fdhXPWCTgKR2V31t5fBX4vYk2Esizwa1i4ZTWh9GP2VIj8DzqfUi0NY28PI9G07uqFrN0rJjOdBjg_WtO73OV7fdePcxGErg6aQ4JSKiwGvdCEhBimhpsycOYhrmZfbzmZKmRGhQpFtYOtedhHt2cZqXHfkLpZ94XJw",
-          "width": 2592
-        },
-        {
-          "height": 2736,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103147065699893626401\">Vesa-Pekka Venho</a>"
-          ],
-          "photo_reference": "CmRaAAAAHCE9Vpwo7o7qyFbDjH08tKC1W7ZJoMnX6beebIYvrXMM3eXDWXg6-IVoAKFs6BmK8Y1PFH_J8EnlEmmoZF0y6VPFe0RHNe5w6rJio7DuBvxi3bUt0WYlXcwCOLwE7yjmEhCNxy8tByeUjiwTgIIPYuhiGhTsDqIM5XT5-EwBWtlO8SANrYakuQ",
-          "width": 3648
-        },
-        {
-          "height": 3264,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/113663306628024403400\">Olga R\u00e4ttel</a>"
-          ],
-          "photo_reference": "CmRaAAAA5WClMeuVk5Sh-tQdpX3NZVHoaKDTK3vABrac_tADrY4lV4rnbj8tYEEcrR3o8KdSIVaDBzd6-YgsImLa_Gq0wnZRzZ-Q-2rx0F25ZuLFAx75apGdJBrt8pvSgdmoVjNTEhB9W-KbgSeLhE-_kNsuT6gYGhThQ4_sipYbD7061j5I3W7wislnQA",
-          "width": 2448
-        },
-        {
-          "height": 2160,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104949290073302482877\">Matthias Hermann</a>"
-          ],
-          "photo_reference": "CmRaAAAA0fYuzfg6dw3JOo9LZ5fl4V1eZFI2_Np6Pj3arYrvrIJtCQU7iWEWIi6pF5tD-wDuSa5OEipdbFDF-wLMit16BrMSU8Gbw5lfeowDj_ZjVIOXFZU1uUj8lqz356wg-LB5EhA89knqs1iNZ8fbV4LkC8bIGhQP5_MlezHZHiNCVcsIMTU9Y2D0qg",
-          "width": 3840
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111025981036951654282\">Otto Kohonen</a>"
-          ],
-          "photo_reference": "CmRaAAAAM0qgv9cX_iVkbVvFQW_ji9iSUkgW1xDlbWM1eA8owmT0t372-68np07gtpZX-sEr5sJW3Y3ciY-vmeiUN6lRLNBJ2jSdb119apg1qBI8DfKGd8fYaa8UCN8xY-FRsKjOEhCToxoVmwLFg536vsHAwToxGhR7dvLbVzrbS2U0eVuoefwK-vCxTQ",
-          "width": 4160
-        }
-      ],
-      "rating": 4.2,
-      "website": "https://www.ukkopekka.fi/"
+      "website": "http://www.casahaartman.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Escape Artist Room Escape - pakohuone Turku",
@@ -5809,178 +5148,8 @@
         }
       ],
       "rating": 4.7,
-      "website": "http://www.escapeartist.fi/"
-    },
-    {
-      "name": "Aavameri Open-Air Adventures",
-      "orig_name": "Aavameri Open-Air Adventures",
-      "place_id": "ChIJDcMgtsN2jEYRFFfNtmDcjtw",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "044 9807788",
-      "int_phone": "+358 44 9807788",
-      "hours": [
-        {
-          "close": {
-            "day": 0,
-            "time": "2000"
-          },
-          "open": {
-            "day": 0,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 1,
-            "time": "2000"
-          },
-          "open": {
-            "day": 1,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 2,
-            "time": "2000"
-          },
-          "open": {
-            "day": 2,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "2000"
-          },
-          "open": {
-            "day": 3,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "2000"
-          },
-          "open": {
-            "day": 4,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 5,
-            "time": "2000"
-          },
-          "open": {
-            "day": 5,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 6,
-            "time": "2000"
-          },
-          "open": {
-            "day": 6,
-            "time": "0900"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 60.422265,
-        "lng": 22.091506
-      },
-      "address": "Saarontie 69, 20100 Turku, Finland",
-      "photos": [
-        {
-          "height": 2988,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111786329655612476505\">Joonatan Junas</a>"
-          ],
-          "photo_reference": "CmRaAAAASoPaPSzl_gtkBGianQSpFeEgRraJCnGEc_abZYRDQUXGlQLfBeo3LzohWT4u0fi4etzAoYSIWdwalDUNR7AdPOZi1okyvUCY7xcqMajs3P_w0bXpxf1KaiRymS81rRf1EhDIMD39zU0FXrjreoFmDw22GhRoi96uCRwsJDEuu3ajhjAq_xNjpQ",
-          "width": 5312
-        },
-        {
-          "height": 2976,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107265262108433477453\">Timo Vartiainen</a>"
-          ],
-          "photo_reference": "CmRaAAAAaFr--vJgp7NFoQuOVJrKHSRQ9KK1Ty0ucEWvAGZGpCmQu6QdQsLdXxGebnybAl_aJDeDzvLqYOZqMT04KYqjJW4-I1gvgF6AZR7jNrUomn_ePaYLdH13gJ4WWMV6VK5rEhBQzoNBYtSqx9tjzlLJv2xpGhT9S_ByLdU9g8F7kx_owv1BnJSmmw",
-          "width": 3968
-        },
-        {
-          "height": 900,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109632142128387706603\">Aavameri Open-Air Adventures</a>"
-          ],
-          "photo_reference": "CmRaAAAAtqMaHH_gznHSiABhB1CpEXS_no-hoYWmBvA39m7JkQKmfXcWyetB1Y-ZkYWfCrbDWh6qK-6i0uWG-RhBONW0dMPhlvKjCSFTNRYzvLaC_N7ksOUPV1Ma3rFzMwBOTzMzEhAWB6UJyWyzkUOcHD44KCcaGhQbpkTk4pii2SyOB6lIjsCSj9blLg",
-          "width": 1200
-        },
-        {
-          "height": 1060,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109632142128387706603\">Aavameri Open-Air Adventures</a>"
-          ],
-          "photo_reference": "CmRaAAAARyMBWxiwGWQDE5VYTO-cyM78sgayRxV2r44aLhq7USV7rSD3UEjpMuKOXd7vnwxcHjEA3wTdbBwCRPU6b8oPFtAIZwsFvkQsjAIbAQ6TKMwb5avbeHFcsb7xSFComF3NEhC_8cjORJM7U162UL7yvccbGhQpr7C8IPGRKpTox8CXdrjywtiebw",
-          "width": 1600
-        },
-        {
-          "height": 1260,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109632142128387706603\">Aavameri Open-Air Adventures</a>"
-          ],
-          "photo_reference": "CmRaAAAAiTPSttLKDmR6Zcki5hw1TCzHFkpwiOGpC7zR8Q1mnCm8K4aMNNbvDqvYRYn77XrSDXyAXF1qj7TP7rWXym9nPBfXfMTGfzb9Juqh04Qu9AlgeZhVytPZzIGSr67GMu3FEhADsqsN3nkODOv7u_Y5i9exGhTGqzh65vps4Fs23v3THJYXV_JIyA",
-          "width": 1680
-        },
-        {
-          "height": 1200,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109632142128387706603\">Aavameri Open-Air Adventures</a>"
-          ],
-          "photo_reference": "CmRaAAAAhAf6a20nqBJfVzj0GiZ4jqzKU2p1mdSMJnUEp_ho1LfuTy2_o-SAQfXgQM00JQsgOBpby_oIeHmTP7yNopb13i4VqwYs8EDndxfi1R495kTye2bpux7fXyQUxQ_Iy4g3EhD92UJ58jmPgqeiW515CvktGhSK2PEbqa2o0EiVJoOzzv5iiQhHRg",
-          "width": 1600
-        },
-        {
-          "height": 1060,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109632142128387706603\">Aavameri Open-Air Adventures</a>"
-          ],
-          "photo_reference": "CmRaAAAAmQE6KI_DItPK-T_5ppBzpjatyG8RPDHhvCLXCyNVag2NJTSEawZMjI7BNftPWesuqRfxoo4x35uzjhXJ08Gh4L0BPyjPjKn_NGBiqqq-AGJ90gkhsBHfJ7uaYTEZ-tj8EhAfvrt8yTFH1blcZ_CFpeDpGhQrJvpuU0ID6w_MCa2-zJfj19-R9Q",
-          "width": 1600
-        },
-        {
-          "height": 1060,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109632142128387706603\">Aavameri Open-Air Adventures</a>"
-          ],
-          "photo_reference": "CmRaAAAAdX8Qpp7EoN93pkMQcL_nV80HgOkaDbUR3aQr9sL1EwnYfbH_yLmvJjiSx6akKRU6sij8t7yrlhFuOEhtYcKXYup4powQvdowr2GeXLwMK09nw1_3lbPIPcCrOPZ5ByatEhC_rsLzabctUcEiFI1v9r5xGhSlDY-UndgnbBA9IvT-QJFMD5QsaA",
-          "width": 1600
-        },
-        {
-          "height": 1060,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109632142128387706603\">Aavameri Open-Air Adventures</a>"
-          ],
-          "photo_reference": "CmRaAAAA19ZKsc6jvnMjIYYkyDgEEnWcVh7XX5UQnghcNaP9fzwRWtIr2rbgrg6UgYZ6mN4f_H8tVsu6Nh9VZfHZWPuQgS5J8qXTbJEHBkoNUABRW3zB5ze1Qn51OPypcTJLfBczEhCXc9clcI2nyw3xWUtkH4rWGhTcraJZR_0-l7Aj4qQMuCCU5JtFpw",
-          "width": 1600
-        },
-        {
-          "height": 900,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109632142128387706603\">Aavameri Open-Air Adventures</a>"
-          ],
-          "photo_reference": "CmRaAAAAQQMrl9r4TKVVs8dSU4x7nksL3cUWuptWAK8y6sig799HX5-UEtB7_9yyGkCGEl9tVd_BPkIh_N8RlAtf4SGTtCkoFdbYCdlis5y5Qu7u8l0_ZTHreFZu3DyARq2rcpHwEhAW76-biUnArfRDIRMA1VBOGhRajFyQaB9XlJn4kKUf_IkpQ6mPAQ",
-          "width": 1200
-        }
-      ],
-      "rating": 5,
-      "website": "http://www.aavameri.fi/"
+      "website": "http://www.escapeartist.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Visit Seili",
@@ -6080,7 +5249,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://visitseili.fi/"
+      "website": "http://visitseili.fi/",
+      "quote_source": "go"
     },
     {
       "name": "CLU TKU",
@@ -6172,7 +5342,8 @@
         }
       ],
       "rating": 4.7,
-      "website": "http://clutku.fi/"
+      "website": "http://clutku.fi/",
+      "quote_source": "go"
     },
     {
       "name": "Rage Room Turku",
@@ -6272,7 +5443,8 @@
         }
       ],
       "rating": 5,
-      "website": "http://www.rageturku.com/"
+      "website": "http://www.rageturku.com/",
+      "quote_source": "go"
     },
     {
       "name": "Naantali Museum",
@@ -6372,7 +5544,8 @@
         }
       ],
       "rating": 3.9,
-      "website": "http://www.naantali.fi/museo"
+      "website": "http://www.naantali.fi/museo",
+      "quote_source": "go"
     },
     {
       "name": "Scandic Plaza",
@@ -6479,7 +5652,8 @@
         }
       ],
       "rating": 3.9,
-      "website": "https://www.scandichotels.fi/hotellit/suomi/turku/scandic-plaza-turku?utm_campaign=gmb&utm_source=google&utm_medium=organic&utm_content=plaza-turku"
+      "website": "https://www.scandichotels.fi/hotellit/suomi/turku/scandic-plaza-turku?utm_campaign=gmb&utm_source=google&utm_medium=organic&utm_content=plaza-turku",
+      "quote_source": "go"
     },
     {
       "name": "Hohtogolf West Coast",
@@ -6620,7 +5794,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.hohtogolf.fi/turku"
+      "website": "http://www.hohtogolf.fi/turku",
+      "quote_source": "go"
     },
     {
       "name": "Leo's Leikkimaa",
@@ -6791,7 +5966,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "https://www.leosleikkimaa.fi/turku/"
+      "website": "https://www.leosleikkimaa.fi/turku/",
+      "quote_source": "go"
     }
   ]
 }

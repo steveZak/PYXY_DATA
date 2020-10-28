@@ -269,7 +269,8 @@
         "walking",
         "history"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Plaza de Espa\u00f1a",
@@ -476,7 +477,8 @@
         "friends",
         "cosmopolitan"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Las Setas De Sevilla",
@@ -747,7 +749,8 @@
         "shopping",
         "views"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "La Giralda",
@@ -947,7 +950,8 @@
         "religion",
         "engineering"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Parque de Mar\u00eda Luisa",
@@ -986,7 +990,7 @@
         0.5346209801298021
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Sizable, prominent park featuring scenic plazas with landscaped gardens, plus fountains & monuments.",
       "phone": "955 47 32 32",
       "int_phone": "+34 955 47 32 32",
       "hours": [
@@ -1218,7 +1222,8 @@
         "hiking",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Seville Museum of Fine Arts",
@@ -1479,7 +1484,8 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Plaza de toros de la Real Maestranza de Caballer\u00eda de Sevilla",
@@ -1679,7 +1685,8 @@
         "history",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Casa de Pilatos",
@@ -1950,7 +1957,8 @@
         "instagram",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Archeological Museum of Seville",
@@ -2211,7 +2219,8 @@
         "art",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Torre del Oro",
@@ -2411,7 +2420,8 @@
         "water",
         "military"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Museum of Popular Arts and Traditions, Sevilla",
@@ -2672,7 +2682,8 @@
         "art",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Archivo de Indias",
@@ -2943,7 +2954,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "Catedral de Sevilla",
@@ -3284,7 +3296,8 @@
         "history",
         "original"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Acuario de Sevilla",
@@ -3555,7 +3568,8 @@
         "music",
         "history"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Hospital los Venerables",
@@ -3816,7 +3830,8 @@
         "books",
         "architecture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Iglesia Colegial del Divino Salvador",
@@ -4087,7 +4102,8 @@
         "shopping",
         "original"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Palacio de la Condesa de Lebrija",
@@ -4348,7 +4364,8 @@
         "architecture",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Museo del Baile Flamenco",
@@ -4548,7 +4565,8 @@
         "amusement",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Plaza del Triunfo",
@@ -4755,7 +4773,8 @@
         "friends",
         "engineering"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Centro de Interpretaci\u00f3n Juder\u00eda de Sevilla",
@@ -5026,7 +5045,8 @@
         "history",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Patio de Banderas Quart.ebraico",
@@ -5233,7 +5253,8 @@
         "food",
         "instagram"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Museo Del Castillo De San Jorge",
@@ -5494,7 +5515,8 @@
         "science",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Jardines de murillo",
@@ -5765,7 +5787,8 @@
         "beach",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Isla M\u00e1gica",
@@ -5986,7 +6009,8 @@
         "animals",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Plaza America",
@@ -6025,7 +6049,7 @@
         0.3659188017804093
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Square built for the 1929 Ibero-American Exhibition, with ornate pavilions around a pond & gardens.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -6257,7 +6281,8 @@
         "nature",
         "walking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Bas\u00edlica de la Macarena",
@@ -6457,7 +6482,8 @@
         "art",
         "instagram"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Alamillo Park",
@@ -6728,7 +6754,8 @@
         "animals",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Edificio de La Adri\u00e1tica",
@@ -6928,7 +6955,8 @@
         "art",
         "religion"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Alameda de Hercules",
@@ -7135,7 +7163,8 @@
         "friends",
         "shopping"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Palacio de las Due\u00f1as",
@@ -7406,7 +7435,8 @@
         "nature",
         "walking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "San Telmo Palace",
@@ -7657,7 +7687,8 @@
         "engineering",
         "military"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Plaza del cabildo",
@@ -7928,7 +7959,8 @@
         "science",
         "art"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Christopher Columbus Monument",
@@ -8135,7 +8167,8 @@
         "water",
         "science"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Military Historical Museum of Seville",
@@ -8335,7 +8368,8 @@
         "military",
         "books"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Antiquarium",
@@ -8596,7 +8630,8 @@
         "books",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Iglesia de Santa Mar\u00eda la Blanca",
@@ -8796,7 +8831,8 @@
         "science",
         "engineering"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Church of St. Louis of the French",
@@ -8835,7 +8871,7 @@
         0.31885955134580557
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Part of a Jesuit complex, this Baroque church is known for its elaborate facade & gilded interior.",
       "phone": "954 55 02 07",
       "int_phone": "+34 954 55 02 07",
       "hours": "",
@@ -8996,7 +9032,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Santa Cruz, Seville",
@@ -9196,7 +9233,8 @@
         "nightlife",
         "architecture"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Palacio de los marqueses de Salinas",
@@ -9447,7 +9485,8 @@
         "military",
         "history"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Puerta del Leon",
@@ -9654,7 +9693,8 @@
         "food",
         "science"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Triana Market",
@@ -9925,7 +9965,8 @@
         "nightlife",
         "original"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Royal Tobacco Factory",
@@ -10176,7 +10217,8 @@
         "religion",
         "engineering"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Monastery of Santa Maria de las Cuevas",
@@ -10437,7 +10479,8 @@
         "architecture",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Arco de la Macarena",
@@ -10644,7 +10687,8 @@
         "military",
         "religion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Centro Andaluz de Arte Contempor\u00e1neo",
@@ -10905,7 +10949,8 @@
         "culture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Reales Atarazanas",
@@ -11116,7 +11161,8 @@
         "science",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Monasterio de Santa Paula",
@@ -11316,7 +11362,8 @@
         "art",
         "science"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Fuente Farola",
@@ -11523,7 +11570,8 @@
         "books",
         "art"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Ensegway - Segway Sevilla",
@@ -11794,7 +11842,8 @@
         "history",
         "original"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Mercado Lonja del Barranco",
@@ -11994,7 +12043,8 @@
         "nightlife",
         "original"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Puente San Telmo",
@@ -12201,7 +12251,8 @@
         "water",
         "instagram"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Real Parroquia de Se\u00f1ora Santa Ana",
@@ -12532,7 +12583,8 @@
         "history",
         "original"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Palacio Marqueses de la Algaba",
@@ -12843,7 +12895,8 @@
         "architecture",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Park of the Perdigones",
@@ -13114,7 +13167,8 @@
         "beach",
         "amusement"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Hospital de la Caridad",
@@ -13385,7 +13439,8 @@
         "books",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Mercado de Feria",
@@ -13646,7 +13701,8 @@
         "shopping",
         "animals"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Basilica of Jesus del Gran Poder",
@@ -13987,7 +14043,8 @@
         "architecture",
         "art"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "La Casa del Flamenco - Auditorio Alc\u00e1ntara",
@@ -14218,7 +14275,8 @@
         "nightlife",
         "amusement"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Puente de Isabel II",
@@ -14418,7 +14476,8 @@
         "instagram",
         "views"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     }
   ]
 }

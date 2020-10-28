@@ -198,7 +198,8 @@
         "fashion",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Three Gorges Museum",
@@ -398,7 +399,8 @@
         "science",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Fengdu Ghost City",
@@ -598,7 +600,8 @@
         "history",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Three Natural Bridges",
@@ -798,7 +801,8 @@
         "engineering",
         "family"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Eling Park",
@@ -998,7 +1002,8 @@
         "nature",
         "beach"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Dazu Rock Carvings",
@@ -1198,7 +1203,8 @@
         "history",
         "music"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Chongqing Chaotianmen Square",
@@ -1398,7 +1404,8 @@
         "science",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Chongqing Zoo",
@@ -1598,7 +1605,8 @@
         "engineering",
         "movies"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Stilwell Museum",
@@ -1734,7 +1742,8 @@
         "books",
         "culture"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "quote_source": "go"
     },
     {
       "name": "Huguang Assembly Hall",
@@ -1934,7 +1943,8 @@
         "culture",
         "history"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Chongqing People's Square",
@@ -2134,7 +2144,8 @@
         "architecture",
         "family"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Chongqing South Mountain Botanical Garden",
@@ -2334,7 +2345,8 @@
         "food",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Furong Cave",
@@ -2534,7 +2546,8 @@
         "amusement",
         "science"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Southern Hot Spring Park",
@@ -2662,7 +2675,8 @@
         "water",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "\u4e07\u76db\u77f3\u6797",
@@ -2862,7 +2876,8 @@
         "books",
         "science"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Luohan Temple",
@@ -3062,7 +3077,8 @@
         "movies",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "\u91cd\u5e86\u6e56\u5e7f\u4f1a\u9986",
@@ -3262,7 +3278,8 @@
         "water",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Chongqing Hongyadong \uff08Northwest Gate\uff09",
@@ -3301,7 +3318,7 @@
         0.3322300065936737
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Traditional timber homes built into a rock face, housing restaurants, open-air bars & craft stores.",
       "phone": "",
       "int_phone": "",
       "hours": "",
@@ -3462,7 +3479,8 @@
         "water",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Chongqing Nanshan Botanical Garden \uff08North Gate\uff09",
@@ -3662,7 +3680,8 @@
         "beach",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Chaotianmen Dock",
@@ -3862,7 +3881,8 @@
         "science",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Chaotianmen Bridge",
@@ -4062,7 +4082,8 @@
         "engineering",
         "art"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Chongqing Crocodile Center",
@@ -4190,7 +4211,8 @@
         "science",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Jiefangbei Pedestrian Street",
@@ -4390,7 +4412,8 @@
         "food",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Hongyadong Folk Custom Scene Area",
@@ -4590,7 +4613,8 @@
         "instagram",
         "fashion"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "\u767d\u5e1d\u57ce",
@@ -4790,7 +4814,8 @@
         "military",
         "hiking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Chongqing Pipashan Park \uff08South Gate\uff09",
@@ -4990,7 +5015,8 @@
         "nature",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Raffles City Chongqing",
@@ -5029,7 +5055,7 @@
         0.2620066769828132
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Group of skyscrapers connected by a lofty \"sky bridge\" with city panoramas from a viewing deck.",
       "phone": "",
       "int_phone": "",
       "hours": "",
@@ -5190,7 +5216,8 @@
         "art",
         "religion"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Liberation Monument Shangquan",
@@ -5390,7 +5417,8 @@
         "food",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Chaotianmen",
@@ -5590,7 +5618,8 @@
         "shopping",
         "nightlife"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "\u795e\u519c\u6eaa",
@@ -5790,7 +5819,8 @@
         "hiking",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Huangjueping",
@@ -5950,7 +5980,8 @@
         "books",
         "science"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "816 Nuclear Military Plant",
@@ -6150,7 +6181,8 @@
         "science",
         "architecture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Hongya Cave Dawan Tea",
@@ -6350,7 +6382,8 @@
         "nightlife",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Bijin Park",
@@ -6550,7 +6583,8 @@
         "hiking",
         "animals"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Baodingshan",
@@ -6750,7 +6784,8 @@
         "architecture",
         "religion"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Wanzhou Grand Waterfall",
@@ -6878,7 +6913,8 @@
         "water",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Youyang Taohuayuan Scenic Area",
@@ -7078,7 +7114,8 @@
         "friends",
         "food"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "\u9493\u9c7c\u57ce\u9057\u5740",
@@ -7278,7 +7315,8 @@
         "books",
         "military"
       ],
-      "duration": 1.5625
+      "duration": 1.5625,
+      "quote_source": "go"
     },
     {
       "name": "Ronghui International Hot Spring City",
@@ -7406,7 +7444,8 @@
         "nightlife",
         "walking"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     }
   ]
 }

@@ -198,7 +198,8 @@
         0.07567514920376356,
         -0.27950225420192903,
         1.0669155333382236
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Downtown Disney District",
@@ -429,7 +430,8 @@
         -0.01996396747844679,
         -0.5070219375412685,
         0.33611731181050797
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Angel Stadium of Anaheim",
@@ -629,7 +631,8 @@
         -0.21403850956002982,
         0.11281919785661318,
         0.11327649336229202
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Adventure City",
@@ -668,7 +671,7 @@
         0.2920008030079601
       ],
       "noncat_params": [],
-      "quote": "Amusement park for kids ages 1 - 9 provides family fun via rides, a petting zoo, an arcade & more.",
+      "quote": "Children's amusement park for family fun via rides, a petting zoo, an arcade & more.",
       "phone": "(714) 236-9300",
       "int_phone": "+1 714-236-9300",
       "hours": [
@@ -840,7 +843,8 @@
         -0.212356059202169,
         -0.3818332019055635,
         0.85269431686079
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Oak Canyon Nature Center",
@@ -1111,7 +1115,8 @@
         -0.15622008454443698,
         -0.5300063566510108,
         0.48394818543677826
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Yorba Regional Park",
@@ -1382,7 +1387,8 @@
         -1.6991020548543,
         -2.1204444009817767,
         -1.621359214904648
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Honda Center",
@@ -1582,7 +1588,8 @@
         0.07432766201550661,
         -0.09364670941533046,
         -0.4981981193404906
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Flightdeck Flight Simulation Center",
@@ -1782,7 +1789,8 @@
         0.11927166211446233,
         -0.054555347164222036,
         0.6996423891496562
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Muzeo Museum and Cultural Center",
@@ -1982,7 +1990,8 @@
         0.439776523707692,
         0.25571372323635816,
         0.5812422557256411
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Pearson Park",
@@ -2253,7 +2262,8 @@
         -0.8299105080798582,
         -0.7903687549749284,
         -0.2334517509612146
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Disney California Adventure Park",
@@ -2453,7 +2463,8 @@
         0.1563839990532692,
         -0.3763441164507475,
         1.2778014096871195
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Anaheim Founders' Park",
@@ -2653,7 +2664,8 @@
         -1.4408947188583119,
         -1.752973400352997,
         -1.1815629443812707
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Knott's Berry Farm",
@@ -2853,7 +2865,8 @@
         0.586223396847559,
         -0.3661135884706074,
         0.7777022616182989
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Disneyland Resort",
@@ -3053,7 +3066,8 @@
         0.18376010430181774,
         -0.184431700342445,
         1.4615744675834894
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Pearson Park Amphitheatre",
@@ -3304,7 +3318,8 @@
         -0.6909252563872537,
         -0.8843790265260446,
         -0.4759719387793187
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Camelot Golfland",
@@ -3575,7 +3590,8 @@
         0.05843375708570838,
         0.08458622319376008,
         0.2866562272074728
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "The Disney Gallery",
@@ -3846,7 +3862,8 @@
         0.3169042527007628,
         -0.8853297011622636,
         0.4535637967039779
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Sky Zone Trampoline Park",
@@ -4117,7 +4134,8 @@
         0.27267195050740356,
         -0.5901956813530606,
         0.48895916023807307
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Redwood Creek Challenge Trail",
@@ -4156,7 +4174,7 @@
         0.286501540755354
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "A traverse wall, ropes course & slides, plus a cave for visitors to discover their spirit animal.",
       "phone": "(714) 781-4636",
       "int_phone": "+1 714-781-4636",
       "hours": "",
@@ -4317,7 +4335,8 @@
         0.524717362097582,
         -0.8484217674114994,
         0.6542393849940886
-      ]
+      ],
+      "quote_source": "go"
     },
     {
       "name": "Cars Land",
@@ -4588,7 +4607,8 @@
         1.097539251786811,
         -0.495682667413496,
         1.1973570828159865
-      ]
+      ],
+      "quote_source": "go"
     }
   ]
 }

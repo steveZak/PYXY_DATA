@@ -205,7 +205,8 @@
         "military",
         "science"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Botanical garden El-Hamma Jardin d'Essai",
@@ -476,7 +477,8 @@
         "beach",
         "animals"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Museum of Fine Arts",
@@ -737,7 +739,8 @@
         "architecture",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Bardo National Museum of Prehistory and Ethnography",
@@ -998,7 +1001,8 @@
         "culture",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "National Museum of Antiquities and ancient Islamic art",
@@ -1309,7 +1313,8 @@
         "religion",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Palais des Rais",
@@ -1570,7 +1575,8 @@
         "art",
         "science"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Basilique Notre Dame d'Afrique",
@@ -1911,7 +1917,8 @@
         "instagram",
         "water"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Mosquee Ketchaoua",
@@ -2111,7 +2118,8 @@
         "art",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Villa Abdullatif",
@@ -2372,7 +2380,8 @@
         "culture",
         "food"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Zoo and entertainment - Ben Aknoun",
@@ -2643,7 +2652,8 @@
         "art",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Dar Hassan Pacha",
@@ -2843,7 +2853,8 @@
         "art",
         "history"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "National Museum of Arts and Popular Traditions",
@@ -3104,7 +3115,8 @@
         "architecture",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Grand Mosque of Algiers",
@@ -3304,7 +3316,8 @@
         "architecture",
         "art"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Djemaa El Djedid",
@@ -3504,7 +3517,8 @@
         "art",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Sacred Heart Cathedral",
@@ -3775,7 +3789,8 @@
         "instagram",
         "shopping"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Museum of Modern Art of Algiers",
@@ -4036,7 +4051,8 @@
         "religion",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Piscine Aquafortland",
@@ -4307,7 +4323,8 @@
         "food",
         "hospitality"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Dar Mustapha Pacha",
@@ -4568,7 +4585,8 @@
         "original",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Grande Poste D'Alger",
@@ -4829,7 +4847,8 @@
         "original",
         "religion"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Royal Mausoleum of Mauretania",
@@ -4868,7 +4887,7 @@
         0.2270486969422951
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Huge circular tomb dating to 3 B.C., said to have been the burial place of Cleopatra's daughter.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -5100,7 +5119,8 @@
         "military",
         "religion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Parc Dounia",
@@ -5307,7 +5327,8 @@
         "food",
         "animals"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Bordj Tamentfoust",
@@ -5507,7 +5528,8 @@
         "family",
         "science"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Roman Ruins Cherchell",
@@ -5714,7 +5736,8 @@
         "culture",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Monast\u00e8re de Tibhirine",
@@ -6035,7 +6058,8 @@
         "original",
         "food"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Port de Sidi Fredj",
@@ -6242,7 +6266,8 @@
         "architecture",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     }
   ]
 }

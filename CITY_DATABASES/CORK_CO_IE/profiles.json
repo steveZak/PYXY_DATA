@@ -239,7 +239,8 @@
         "music",
         "books"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Saint Fin Barre's Cathedral",
@@ -278,7 +279,7 @@
         0.266552342283411
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Spired, Gothic Revival building, designed by William Burges, hosting Church of Ireland services.",
       "phone": "(021) 496 3387",
       "int_phone": "+353 21 496 3387",
       "hours": [
@@ -510,7 +511,8 @@
         "art",
         "instagram"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Blackrock Castle Observatory",
@@ -751,7 +753,8 @@
         "science",
         "military"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "The English Market",
@@ -790,7 +793,7 @@
         0.270552388678341
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Traders selling organic and locally produced food in an 18th-century covered market.",
       "phone": "(021) 427 4407",
       "int_phone": "+353 21 427 4407",
       "hours": [
@@ -1012,7 +1015,8 @@
         "fashion",
         "animals"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Fitzgerald Park",
@@ -1051,7 +1055,7 @@
         0.6593982015816812
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Popular green space with a museum, fountain, sculptures, walking paths & manicured landscaping.",
       "phone": "(021) 492 4333",
       "int_phone": "+353 21 492 4333",
       "hours": [
@@ -1219,7 +1223,8 @@
         "walking",
         "nature"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Crawford Art Gallery",
@@ -1490,7 +1495,8 @@
         "original",
         "instagram"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Elizabeth Fort",
@@ -1529,7 +1535,7 @@
         0.3127929969950694
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "This star-shaped 17th-century fort offers views of the city views & guided tours.",
       "phone": "(021) 497 5947",
       "int_phone": "+353 21 497 5947",
       "hours": [
@@ -1761,7 +1767,8 @@
         "cosmopolitan",
         "books"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "quote_source": "go"
     },
     {
       "name": "Nano Nagle Place",
@@ -2022,7 +2029,8 @@
         "food",
         "culture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Shandon Bells & Tower St Anne's Church",
@@ -2061,7 +2069,7 @@
         0.28768542434808614
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "18th-century working church with a landmark tower, open for city views and chance to ring the bells.",
       "phone": "(021) 450 5906",
       "int_phone": "+353 21 450 5906",
       "hours": [
@@ -2293,7 +2301,8 @@
         "original",
         "music"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Red Abbey Tower",
@@ -2500,7 +2509,8 @@
         "religion",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "The Butter Museum",
@@ -2539,7 +2549,7 @@
         0.15874561001029777
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Engaging displays on the traditional craft of butter-making, its role in Irish society and culture.",
       "phone": "(021) 430 0600",
       "int_phone": "+353 21 430 0600",
       "hours": [
@@ -2761,7 +2771,8 @@
         "original",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Blarney Castle & Gardens",
@@ -2800,7 +2811,7 @@
         0.24551346267964275
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Ruined castle housing the famed Blarney Stone, a kiss of which is said to grant the gift of the gab.",
       "phone": "(021) 438 5252",
       "int_phone": "+353 21 438 5252",
       "hours": [
@@ -3032,7 +3043,8 @@
         "architecture",
         "art"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "National Monument - Cork",
@@ -3232,7 +3244,8 @@
         "books",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Daly's Bridge (Shakey Bridge)",
@@ -3432,7 +3445,8 @@
         "hiking",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Fota Wildlife Park",
@@ -3471,7 +3485,7 @@
         0.4128034260293072
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Verdant, 70-acre zoo area for endangered animals, plus a large garden with numerous plant species.",
       "phone": "(021) 481 2678",
       "int_phone": "+353 21 481 2678",
       "hours": [
@@ -3703,7 +3717,8 @@
         "friends",
         "cosmopolitan"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Cork Ghost Tour",
@@ -3903,7 +3918,8 @@
         "nightlife",
         "movies"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "The Glucksman",
@@ -3942,7 +3958,7 @@
         0.2578403520053414
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Graceful concrete-and-glass university building showcasing regular temporary art exhibitions.",
       "phone": "(021) 490 1844",
       "int_phone": "+353 21 490 1844",
       "hours": [
@@ -4164,7 +4180,8 @@
         "original",
         "instagram"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "St Patrick's Bridge",
@@ -4371,7 +4388,8 @@
         "food",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Cork Public Museum",
@@ -4632,7 +4650,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Blarney Stone",
@@ -4903,7 +4922,8 @@
         "history",
         "art"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Titanic Experience Cobh",
@@ -5174,7 +5194,8 @@
         "movies",
         "music"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Blarney Castle Gardens",
@@ -5445,7 +5466,8 @@
         "military",
         "art"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Cork Opera House",
@@ -5645,7 +5667,8 @@
         "science",
         "amusement"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Collins Barracks Military Museum",
@@ -5845,7 +5868,8 @@
         "science",
         "books"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Mother Jones Flea Market",
@@ -6066,7 +6090,8 @@
         "food",
         "animals"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Father Mathew Statue",
@@ -6273,7 +6298,8 @@
         "books",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Charles Fort",
@@ -6544,7 +6570,8 @@
         "original",
         "instagram"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Triskel Arts Centre",
@@ -6775,7 +6802,8 @@
         "hospitality",
         "food"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Camden Fort Meagher",
@@ -6975,7 +7003,8 @@
         "original",
         "hospitality"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Rory Gallagher Memorial Sculpture",
@@ -7014,7 +7043,7 @@
         0.12944307357778914
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Honorary bronze statue of the renowned native rock & blues guitarist in a plaza dedicated to him.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -7182,7 +7211,8 @@
         "books",
         "movies"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Rumley's Open Farm",
@@ -7453,7 +7483,8 @@
         "hospitality",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Regional Park Ballincollig",
@@ -7724,7 +7755,8 @@
         "sport",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Planet Entertainment Centre Cork",
@@ -7995,7 +8027,8 @@
         "food",
         "hospitality"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Monkey Maze",
@@ -8195,7 +8228,8 @@
         "sport",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Old Cork Waterworks Experience",
@@ -8446,7 +8480,8 @@
         "family",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "The Coal Quay",
@@ -8645,7 +8680,8 @@
         "amusement",
         "food"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Ballybrack Woods (Mangala)",
@@ -8852,7 +8888,8 @@
         "architecture",
         "engineering"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Roman Catholic Cathedral of St. Mary & St. Anne",
@@ -9052,7 +9089,8 @@
         "hospitality",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Shandon",
@@ -9252,7 +9290,8 @@
         "culture",
         "water"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Jameson Distillery Midleton",
@@ -9523,7 +9562,8 @@
         "nightlife",
         "history"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Lakemount Garden",
@@ -9642,7 +9682,8 @@
         "animals",
         "views"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Cobh Heritage Centre- The Queenstown Story",
@@ -9903,7 +9944,8 @@
         "books",
         "original"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Rock Close",
@@ -10103,7 +10145,8 @@
         "art",
         "hiking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "The Mardyke Entertainment Complex",
@@ -10374,7 +10417,8 @@
         "science",
         "nightlife"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "St. Colman's Cathedral, Cobh",
@@ -10413,7 +10457,7 @@
         0.46166187405138104
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "It took 47 years to complete this monolithic Catholic place of worship that was consecrated in 1919.",
       "phone": "(021) 481 3222",
       "int_phone": "+353 21 481 3222",
       "hours": [
@@ -10645,7 +10689,8 @@
         "hospitality",
         "art"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "St. Francis Roman Catholic Church",
@@ -10845,7 +10890,8 @@
         "science",
         "engineering"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "The Old Town Whiskey Bar at Bodega",
@@ -10884,7 +10930,7 @@
         0.2664325897425861
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "This ornate, high-ceilinged nightspot has both a pan-global restaurant and a high-energy nightclub.",
       "phone": "(021) 427 3756",
       "int_phone": "+353 21 427 3756",
       "hours": [
@@ -11116,7 +11162,8 @@
         "nightlife",
         "music"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Barryscourt Castle",
@@ -11387,7 +11434,8 @@
         "books",
         "history"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "Grace Christian Church",
@@ -11618,7 +11666,8 @@
         "science",
         "hospitality"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Saints Peter and Paul's Roman Catholic Church",
@@ -11889,7 +11938,8 @@
         "hospitality",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Macau Sporting Club",
@@ -11928,7 +11978,7 @@
         0.24690893226575825
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Gambling destination with a poker room, slots & table games, plus a restaurant & sports broadcasts.",
       "phone": "(021) 453 0477",
       "int_phone": "+353 21 453 0477",
       "hours": [
@@ -12160,7 +12210,8 @@
         "amusement",
         "hospitality"
       ],
-      "duration": 0.6875
+      "duration": 0.6875,
+      "quote_source": "go"
     },
     {
       "name": "Costigan's Pub",
@@ -12431,7 +12482,8 @@
         "food",
         "music"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Essence of Ireland",
@@ -12550,7 +12602,8 @@
         "science",
         "books"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Mallow Castle",
@@ -12821,7 +12874,8 @@
         "hospitality",
         "beach"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Lusitania Memorial",
@@ -13028,7 +13082,8 @@
         "water",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     }
   ]
 }

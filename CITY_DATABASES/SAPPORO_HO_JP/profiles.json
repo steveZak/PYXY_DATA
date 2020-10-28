@@ -205,7 +205,8 @@
         "nightlife",
         "sport"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Beer Museum",
@@ -466,7 +467,8 @@
         "books",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Moerenuma Park",
@@ -737,7 +739,8 @@
         "nature",
         "sport"
       ],
-      "duration": 0.75
+      "duration": 0.75,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Clock Tower",
@@ -1008,7 +1011,8 @@
         "science",
         "engineering"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Historical Village of Hokkaido",
@@ -1269,7 +1273,8 @@
         "military",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo TV Tower",
@@ -1540,7 +1545,8 @@
         "sport",
         "shopping"
       ],
-      "duration": 0.75
+      "duration": 0.75,
+      "quote_source": "go"
     },
     {
       "name": "Botanic Garden Hokkaido University",
@@ -1801,7 +1807,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Shiroikoibito Park",
@@ -2072,7 +2079,8 @@
         "food",
         "shopping"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Asahiyama Memorial Park",
@@ -2343,7 +2351,8 @@
         "sport",
         "nature"
       ],
-      "duration": 0.75
+      "duration": 0.75,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Mt.Moiwa Ropeway",
@@ -2614,7 +2623,8 @@
         "nightlife",
         "views"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Hokkaido Museum",
@@ -2875,7 +2885,8 @@
         "culture",
         "architecture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Art Museum",
@@ -3146,7 +3157,8 @@
         "engineering",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Nakajima Park",
@@ -3353,7 +3365,8 @@
         "walking",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Hitsujigaoka Observation Hill",
@@ -3624,7 +3637,8 @@
         "engineering",
         "amusement"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Hokkaid\u014d Government Office",
@@ -3875,7 +3889,8 @@
         "military",
         "art"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo City Maruyama Zoo",
@@ -3914,7 +3929,7 @@
         0.23165912859150048
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Family-friendly zoo offering up-close looks at polar bears, red pandas, penguins & reptiles.",
       "phone": "011-621-1426",
       "int_phone": "+81 11-621-1426",
       "hours": [
@@ -4146,7 +4161,8 @@
         "movies",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Tanukikoji Shopping Street",
@@ -4346,7 +4362,8 @@
         "food",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Takino Suzuran Hillside Park",
@@ -4617,7 +4634,8 @@
         "sport",
         "walking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Teine (Highland Ski Center)",
@@ -4828,7 +4846,8 @@
         "science",
         "sport"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "The Hokkaido University Museum",
@@ -5089,7 +5108,8 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Maruyama Park",
@@ -5296,7 +5316,8 @@
         "nature",
         "amusement"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "JR Tower",
@@ -5567,7 +5588,8 @@
         "shopping",
         "food"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Nijo Market",
@@ -5838,7 +5860,8 @@
         "fashion",
         "animals"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Yurigahara Park",
@@ -6045,7 +6068,8 @@
         "sport",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Mt. Moere",
@@ -6316,7 +6340,8 @@
         "amusement",
         "walking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo City Transportation Museum",
@@ -6516,7 +6541,8 @@
         "books",
         "amusement"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Hokkaido Shrine",
@@ -6716,7 +6742,8 @@
         "hiking",
         "sport"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "H\u014dheiky\u014d Dam",
@@ -6987,7 +7014,8 @@
         "original",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Kokusai Ski Resort",
@@ -7258,7 +7286,8 @@
         "engineering",
         "sport"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "quote_source": "go"
     },
     {
       "name": "Horomitoge Lavender Garden (Sapporo Lavender Farm)",
@@ -7297,7 +7326,7 @@
         0.3454704851447376
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Hilly viewpoint overlooking the city & more than 5,000 lavender plants that bloom purple in July.",
       "phone": "011-622-5167",
       "int_phone": "+81 11-622-5167",
       "hours": [
@@ -7529,7 +7558,8 @@
         "views",
         "sport"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Science Center",
@@ -7729,7 +7759,8 @@
         "original",
         "family"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Shiryokan (Former Sapporo Court of Appeal )",
@@ -7990,7 +8021,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "Jozankei Gensen Park",
@@ -8261,7 +8293,8 @@
         "nature",
         "fashion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Satoland",
@@ -8532,7 +8565,8 @@
         "family",
         "friends"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "North Safari Sapporo",
@@ -8803,7 +8837,8 @@
         "family",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Nishino Shrine",
@@ -9074,7 +9109,8 @@
         "science",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Olympic Museum",
@@ -9345,7 +9381,8 @@
         "sport",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Sunpiazza Aquarium",
@@ -9616,7 +9653,8 @@
         "books",
         "sport"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "\u4e8c\u898b\u540a\u6a4b Jozankei Futami Suspension Bridge",
@@ -9823,7 +9861,8 @@
         "walking",
         "cosmopolitan"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Salmon Museum",
@@ -10084,7 +10123,8 @@
         "animals",
         "amusement"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Waterworks Memorial Museum",
@@ -10345,7 +10385,8 @@
         "books",
         "military"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "quote_source": "go"
     },
     {
       "name": "Asahi Breweries Hokkaido Factory Tour",
@@ -10616,7 +10657,8 @@
         "music",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Otaru Canal",
@@ -10823,7 +10865,8 @@
         "shopping",
         "nightlife"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Fushimi Inari Shrine",
@@ -11023,7 +11066,8 @@
         "hiking",
         "family"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Hiraoka Park",
@@ -11062,7 +11106,7 @@
         0.24903379773110296
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Urban green space with cherry blossoms & a plum grove, plus play areas & baseball grounds.",
       "phone": "011-881-7924",
       "int_phone": "+81 11-881-7924",
       "hours": [
@@ -11230,7 +11274,8 @@
         "animals",
         "military"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Jozankei Shrine",
@@ -11430,7 +11475,8 @@
         "engineering",
         "sport"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Bankei ski area",
@@ -11701,7 +11747,8 @@
         "nightlife",
         "family"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "North Safari Adventure",
@@ -11972,7 +12019,8 @@
         "books",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Taro-no-yu Footbath for Friendship",
@@ -12172,7 +12220,8 @@
         "hiking",
         "engineering"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "\u672d\u5e4c\u85fb\u5ca9\u5c71\u30b9\u30ad\u30fc\u5834",
@@ -12443,7 +12492,8 @@
         "engineering",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Jozankei",
@@ -12643,7 +12693,8 @@
         "books",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "\u96ea\u5370\u30e1\u30b0\u30df\u30eb\u30af \u916a\u8fb2\u3068\u4e73\u306e\u6b74\u53f2\u9928",
@@ -12843,7 +12894,8 @@
         "history",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Mt. Okura Ski Jump Stadium (\u014ckurayama-Schanze)",
@@ -13114,7 +13166,8 @@
         "engineering",
         "walking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Mt. Moiwa",
@@ -13314,7 +13367,8 @@
         "views",
         "nightlife"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Suwa Shrine",
@@ -13514,7 +13568,8 @@
         "science",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Sapporo Dome",
@@ -13714,7 +13769,8 @@
         "engineering",
         "amusement"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Otaru Aquarium",
@@ -13985,7 +14041,8 @@
         "amusement",
         "sport"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "\u6e6f\u306e\u82b1 \u5b9a\u5c71\u6e13\u6bbf",
@@ -14256,7 +14313,8 @@
         "movies",
         "animals"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "px"
     },
     {
       "name": "Jigokudani (Hell Valley)",
@@ -14527,7 +14585,8 @@
         "engineering",
         "walking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     }
   ]
 }

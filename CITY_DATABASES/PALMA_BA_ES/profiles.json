@@ -159,7 +159,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "https://castelldebellver.palma.cat/"
+      "website": "https://castelldebellver.palma.cat/",
+      "quote_source": "go"
     },
     {
       "name": "Catedral-Bas\u00edlica de Santa Mar\u00eda de Mallorca",
@@ -259,7 +260,8 @@
         }
       ],
       "rating": 4.7,
-      "website": "https://www.catedraldemallorca.org/es/"
+      "website": "https://www.catedraldemallorca.org/es/",
+      "quote_source": "go"
     },
     {
       "name": "Palma Aquarium",
@@ -359,7 +361,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "https://tickets.palmaaquarium.com/es/"
+      "website": "https://tickets.palmaaquarium.com/es/",
+      "quote_source": "go"
     },
     {
       "name": "Royal Palace of La Almudaina",
@@ -520,7 +523,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.patrimonionacional.es/contacto"
+      "website": "http://www.patrimonionacional.es/contacto",
+      "quote_source": "go"
     },
     {
       "name": "Fundaci\u00f3 Pilar i Joan Mir\u00f3 in Mallorca",
@@ -681,7 +685,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.miromallorca.com/"
+      "website": "http://www.miromallorca.com/",
+      "quote_source": "go"
     },
     {
       "name": "Lonja de Mallorca",
@@ -902,7 +907,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.palma.cat/portal/PALMA/contenedor1.jsp?seccion=s_floc_d4_v1.jsp&contenido=319&tipo=1&nivel=1400&codResi=1&language=es"
+      "website": "http://www.palma.cat/portal/PALMA/contenedor1.jsp?seccion=s_floc_d4_v1.jsp&contenido=319&tipo=1&nivel=1400&codResi=1&language=es",
+      "quote_source": "go"
     },
     {
       "name": "Banys \u00c0rabs",
@@ -1073,7 +1079,8 @@
         }
       ],
       "rating": 3.7,
-      "website": "http://www.palmavirtual.es/ca/contenido/lugares-de-interes/lugarinteres/Banos-arabes"
+      "website": "http://www.palmavirtual.es/ca/contenido/lugares-de-interes/lugarinteres/Banos-arabes",
+      "quote_source": "go"
     },
     {
       "name": "Tren Soller",
@@ -1244,7 +1251,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.trendesoller.com/"
+      "website": "http://www.trendesoller.com/",
+      "quote_source": "go"
     },
     {
       "name": "Plaza Mayor",
@@ -1351,7 +1359,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "https://www.palma.cat/portal/PALMA/contenedor1.jsp?seccion=s_floc_d4_v1.jsp&contenido=35659&tipo=1&nivel=1400&layout=contenedor1.jsp&codResi=1&language=es&codMenu=145&codMenuTN=1492"
+      "website": "https://www.palma.cat/portal/PALMA/contenedor1.jsp?seccion=s_floc_d4_v1.jsp&contenido=35659&tipo=1&nivel=1400&layout=contenedor1.jsp&codResi=1&language=es&codMenu=145&codMenuTN=1492",
+      "quote_source": "go"
     },
     {
       "name": "Es Baluard Museu d'Art Contemporani de Palma",
@@ -1512,7 +1521,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.esbaluard.org/"
+      "website": "http://www.esbaluard.org/",
+      "quote_source": "go"
     },
     {
       "name": "Basilica de Sant Francesc",
@@ -1733,7 +1743,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.spiritualmallorca.com/"
+      "website": "http://www.spiritualmallorca.com/",
+      "quote_source": "go"
     },
     {
       "name": "Museu Fundaci\u00f3n Juan March, Palma",
@@ -1894,7 +1905,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://www.march.es/arte/palma/"
+      "website": "http://www.march.es/arte/palma/",
+      "quote_source": "go"
     },
     {
       "name": "Device to Root out Evil",
@@ -2001,7 +2013,8 @@
         }
       ],
       "rating": 4,
-      "website": "http://www.esbaluard.org/"
+      "website": "http://www.esbaluard.org/",
+      "quote_source": "go"
     },
     {
       "name": "Hort del Rei",
@@ -2009,7 +2022,7 @@
       "place_id": "ChIJ2ym3A0WSlxIRYqEnKbQygW0",
       "cat_params": [],
       "noncat_params": [],
-      "quote": "Moorish-style gardens originally part of a royal palace, with ornate fountains & tree-shaded paths.",
+      "quote": "Moorish-style gardens originally part of a royal palace, with ornate fountains & shady paths.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -2108,7 +2121,8 @@
         }
       ],
       "rating": 4.4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Casal Solleric",
@@ -2319,7 +2333,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://casalsolleric.palma.cat/"
+      "website": "http://casalsolleric.palma.cat/",
+      "quote_source": "go"
     },
     {
       "name": "Sa Feixina Park",
@@ -2426,7 +2441,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.palmademallorca.es/"
+      "website": "http://www.palmademallorca.es/",
+      "quote_source": "go"
     },
     {
       "name": "Cala Major Beach",
@@ -2526,7 +2542,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.palmademallorca.es/portal/PALMA/contenedor4.jsp?seccion=s_floc_d4_v1.jsp&contenido=9579&tipo=1&nivel=1400&layout=contenedor4.jsp&codResi=1&language=en&codMenu=826&codMenuPN=1811"
+      "website": "http://www.palmademallorca.es/portal/PALMA/contenedor4.jsp?seccion=s_floc_d4_v1.jsp&contenido=9579&tipo=1&nivel=1400&layout=contenedor4.jsp&codResi=1&language=en&codMenu=826&codMenuPN=1811",
+      "quote_source": "go"
     },
     {
       "name": "Convent de Santa Clara",
@@ -2687,7 +2704,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "https://clarisaspalmamallorca.wordpress.com/"
+      "website": "https://clarisaspalmamallorca.wordpress.com/",
+      "quote_source": "go"
     },
     {
       "name": "Museu Hist\u00f2ric Militar de Sant Carles",
@@ -2848,7 +2866,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.ejercito.mde.es/unidades/Madrid/ihycm/Museos/baleares.html"
+      "website": "http://www.ejercito.mde.es/unidades/Madrid/ihycm/Museos/baleares.html",
+      "quote_source": "go"
     },
     {
       "name": "Poble Espanyol de Mallorca",
@@ -3019,7 +3038,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.puebloespanolmallorca.com/"
+      "website": "http://www.puebloespanolmallorca.com/",
+      "quote_source": "go"
     },
     {
       "name": "TirolinasGo Mallorca Forestal Park",
@@ -3140,7 +3160,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.tirolinasgo.com/mallorca"
+      "website": "http://www.tirolinasgo.com/mallorca",
+      "quote_source": "go"
     },
     {
       "name": "Can Forteza Rey",
@@ -3240,7 +3261,8 @@
         }
       ],
       "rating": 4.5,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Marineland Mallorca",
@@ -3361,7 +3383,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.marineland.es/mallorca"
+      "website": "http://www.marineland.es/mallorca",
+      "quote_source": "go"
     },
     {
       "name": "Museo de Mallorca",
@@ -3522,7 +3545,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://museudemallorca.caib.es/"
+      "website": "http://museudemallorca.caib.es/",
+      "quote_source": "go"
     },
     {
       "name": "Mallorca Boat Quest",
@@ -3627,7 +3651,8 @@
         }
       ],
       "rating": 5,
-      "website": "http://mallorcaboatquest.com/"
+      "website": "http://mallorcaboatquest.com/",
+      "quote_source": "go"
     },
     {
       "name": "Jard\u00ed del Bisbe",
@@ -3788,7 +3813,8 @@
         }
       ],
       "rating": 4,
-      "website": "http://www.visitpalma.cat/en/contenido/lugares-de-interes/lugarinteres/Jardin-del-Obispo"
+      "website": "http://www.visitpalma.cat/en/contenido/lugares-de-interes/lugarinteres/Jardin-del-Obispo",
+      "quote_source": "go"
     },
     {
       "name": "Museu De La Seu. Cabildo de la Catedral de Mallorca",
@@ -3949,7 +3975,8 @@
         }
       ],
       "rating": 4.7,
-      "website": "http://catedraldemallorca.org/"
+      "website": "http://catedraldemallorca.org/",
+      "quote_source": "go"
     },
     {
       "name": "Est\u00e0tua \"Es Foner\"",
@@ -4056,7 +4083,8 @@
         }
       ],
       "rating": 4.4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Jardins d'Alf\u00e0bia",
@@ -4227,7 +4255,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.jardinesdealfabia.com/"
+      "website": "http://www.jardinesdealfabia.com/",
+      "quote_source": "go"
     },
     {
       "name": "Katmandu Park",
@@ -4327,7 +4356,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.katmandupark.com/"
+      "website": "http://www.katmandupark.com/",
+      "quote_source": "go"
     },
     {
       "name": "Basilica of St. Michael",
@@ -4427,7 +4457,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://www.conferenciaepiscopal.es/"
+      "website": "http://www.conferenciaepiscopal.es/",
+      "quote_source": "go"
     },
     {
       "name": "Museu Dioces\u00e0 de Mallorca",
@@ -4578,7 +4609,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://www.museuartsacredemallorca.org/"
+      "website": "http://www.museuartsacredemallorca.org/",
+      "quote_source": "go"
     },
     {
       "name": "Casino de Mallorca",
@@ -4749,7 +4781,8 @@
         }
       ],
       "rating": 3.8,
-      "website": "http://www.casinodemallorca.com/"
+      "website": "http://www.casinodemallorca.com/",
+      "quote_source": "go"
     },
     {
       "name": "Parque Sa Riera",
@@ -4920,7 +4953,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "https://www.palma.cat/portal/PALMA/contenedor1.jsp?seccion=s_floc_d4_v1.jsp&codbusqueda=2373&language=es&codResi=1&codMenuPN=1812&codMenuSN=1577&codMenu=2255"
+      "website": "https://www.palma.cat/portal/PALMA/contenedor1.jsp?seccion=s_floc_d4_v1.jsp&codbusqueda=2373&language=es&codResi=1&codMenuPN=1812&codMenuSN=1577&codMenu=2255",
+      "quote_source": "go"
     },
     {
       "name": "Jardins de Marivent",
@@ -5091,7 +5125,8 @@
         }
       ],
       "rating": 3.8,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Restaurant Santa Eul\u00e0lia",
@@ -5191,178 +5226,8 @@
         }
       ],
       "rating": 4.2,
-      "website": ""
-    },
-    {
-      "name": "City Sightseeing Palma de Mallorca",
-      "orig_name": "City Sightseeing Palma de Mallorca",
-      "place_id": "ChIJ339mYWiSlxIRbuUHvz8TbAE",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "971 22 04 28",
-      "int_phone": "+34 971 22 04 28",
-      "hours": [
-        {
-          "close": {
-            "day": 0,
-            "time": "1800"
-          },
-          "open": {
-            "day": 0,
-            "time": "1000"
-          }
-        },
-        {
-          "close": {
-            "day": 1,
-            "time": "1800"
-          },
-          "open": {
-            "day": 1,
-            "time": "1000"
-          }
-        },
-        {
-          "close": {
-            "day": 2,
-            "time": "1800"
-          },
-          "open": {
-            "day": 2,
-            "time": "1000"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "1800"
-          },
-          "open": {
-            "day": 3,
-            "time": "1000"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "1800"
-          },
-          "open": {
-            "day": 4,
-            "time": "1000"
-          }
-        },
-        {
-          "close": {
-            "day": 5,
-            "time": "1800"
-          },
-          "open": {
-            "day": 5,
-            "time": "1000"
-          }
-        },
-        {
-          "close": {
-            "day": 6,
-            "time": "1800"
-          },
-          "open": {
-            "day": 6,
-            "time": "1000"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 39.5675543,
-        "lng": 2.6460099
-      },
-      "address": "Passeig Mar\u00edtim, 19, 07014 Palma, Illes Balears, Spain",
-      "photos": [
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/105514942116019936542\">Sarah Winter</a>"
-          ],
-          "photo_reference": "CmRaAAAAGrK-Fum2E9Gors-Sh92ptX59Yvxa6FzC50Jkf-FSFcgCDR3EGt1khdjpajE0ysE7BJpb0K9O06JlYAMxCqBiEqd9bcvf1AxU9pDB1iz1XKsSqbIvI3ELsXuRTzZI8zi_EhAFneDghPoesY5CV8nNEcn8GhSHctRSWz4khYqWJD0nyz9J3eQezQ",
-          "width": 4032
-        },
-        {
-          "height": 1515,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118189861640115946887\">Grant Bremner</a>"
-          ],
-          "photo_reference": "CmRaAAAAA2MDFbvo6kr9k7TqUQE3HfrP8nyaQdM2IqEEUDId2o1MsCr42jrZaGfbWKtRPc5vEoy4wXv6xgLtyOKn1gu5l8IfZ9T5T6ptKyZRM1gzHfhTTdkcdF-pKkn6jeK4UNDxEhDmrr_cTDDwq7HLvSgHc3VjGhTcsx7sLnpjIhdIYyDdaSbAyqQBJw",
-          "width": 2048
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112456824253447776337\">Estela Tibaldo</a>"
-          ],
-          "photo_reference": "CmRaAAAAAohowuBG-xBxIU_pQOROcWC2mjfFSPsTjNSyxRI8HGQyeVq_t_9ecfp0lIRjch5qLNpvCMcyqkHhn45irWIC18zav0LLXLDdeKtNi_L_dI9IFljqIOIcvpvzxUtYsxFOEhC7zFxKHkBwwuCcJZzebZOBGhQqh1lxao0WPYNskktKypyESJYVAg",
-          "width": 4160
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114693024372790640486\">Stoynelin Dimitrov</a>"
-          ],
-          "photo_reference": "CmRaAAAAxvKNMX-Q3T83JJuGMRt1IzXSzJozbHLN7Rs6NhRUW885ckuY2ce1Nq7FldMrpG-NxISuzO9Zj6W0Dal7B-4u2AokBgmpLJXNss_ZzpbBDDqpKfpGJ8rPLaKLYHrPBFSJEhADjVicJOqr4yjsHvH44Z-OGhRCzN4ow49AUENUAKA3ISPxyHx8PA",
-          "width": 4032
-        },
-        {
-          "height": 1960,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109254130455294761423\">Romana Novak</a>"
-          ],
-          "photo_reference": "CmRaAAAAzQOngu3mtn1hi1r0GbN41ogxc645DFPkYB7X-ycWOScERGhUdHs01Tzpr1Fzvk7l4hWlOOXs9XDrs6829Tpckpd757pCPfHPsHlZM0heH-PRYHvptgBUSNWG6DkYsw7-EhB541Gm4_NQy6TZr0LmCWADGhScaMOCSmKSmCuWg7Vf4txLoXNdyg",
-          "width": 4032
-        },
-        {
-          "height": 2448,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109002963534689575372\">Diether Eckert</a>"
-          ],
-          "photo_reference": "CmRaAAAAuob35TXwUUnTppq4q1qfXS7sx9bPXivsHe3i2w_CPzaPP8PmFhtOmmGzJt3PMYbIgV21MIjU2yjG-is00OTYcBjGILo69aCxKF_r4-axeIqM-hHitp3-WVKN_lhJh7zVEhAzf-opafhh1-qyoTBrXGxyGhRmr4ejdXdgy61X2c-kIuv2hQLO1w",
-          "width": 3264
-        },
-        {
-          "height": 3000,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114325017440054811994\">Aman</a>"
-          ],
-          "photo_reference": "CmRaAAAAt8Ga4shH-C4j4F2orZF4_S-eppGVIL5YJVijtMwDJ63i2m8I4y4zdYaEB3ditfxy2VIqw8JBGWVMvywux--eBSKVzhxtWi7EhaiG-yJ1obIIJXLf9n4hYqr1nsGmmHHOEhB090r483SOMJGmorjVaTcfGhTOARJ2OxGTww2BLfrxl7uR2dHLJQ",
-          "width": 4000
-        },
-        {
-          "height": 3120,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112456824253447776337\">Estela Tibaldo</a>"
-          ],
-          "photo_reference": "CmRaAAAAmzblpclluO9fiYQyeP6gTQMFkl5IQpJCpOoRg-iH6pu7f2G9VvW9uFhoOFz9L-vRVILLwv1TAQPk8tkfolzaj9nu11W_40fxQ3E4VT1uMP6qBa1GilDkKEtnpx2db6xeEhDiU22IqM1dcwtaM0BAzyi4GhR8pIF7DZrOtduZb1bBGpY3abAqlw",
-          "width": 4160
-        },
-        {
-          "height": 3648,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/117905027560075571144\">Cocinando desde Bristol y mi Thermomix</a>"
-          ],
-          "photo_reference": "CmRaAAAAfj6iNC0B1SGQy2x_F602EOJ9AO5fQdqOxp2JC7xIoF5BlS5LdAoe1wx3qi5I9P8PlzTyhjo8wOF3o0nQiYRMlu2gAgfwdU_hCBl01wuP7h_c6Y2OFlYjmSf10fC-GPHwEhBLtuFJzLC17MAXgaiUcv9yGhSvXtycMphmYUCSxyatX1A9czttgA",
-          "width": 2736
-        },
-        {
-          "height": 4032,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115412584205871190510\">Elke M\u00f6ller</a>"
-          ],
-          "photo_reference": "CmRaAAAAKsQIj7geMMMdUGWFuWMnfLnM-2f_r-MijDAlYv9_4DtQeTFEruYiwfVZRuN4m46NvAWzr-QjWoYaDeePM2mE-HdfJlDYyvEakdpaq710Kyr_MbhQdlTd3s-JUmVeFU7mEhBzk4eZpAZbJ_X7Uu59RvXnGhTW8i0UTM2os7tyjmtjegOGcKqPLw",
-          "width": 3024
-        }
-      ],
-      "rating": 3.9,
-      "website": "https://www.city-ss.es/en/destination/palma-de-mallorca/"
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Coves de G\u00e8nova",
@@ -5533,7 +5398,8 @@
         }
       ],
       "rating": 4.2,
-      "website": "http://cuevasdegenova.com/en/"
+      "website": "http://cuevasdegenova.com/en/",
+      "quote_source": "go"
     },
     {
       "name": "Playa Santa Ponsa",
@@ -5633,7 +5499,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.visitcalvia.com/"
+      "website": "http://www.visitcalvia.com/",
+      "quote_source": "go"
     },
     {
       "name": "Fundaci\u00f3n Bartolom\u00e9 March",
@@ -5733,7 +5600,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.fundacionbmarch.es/"
+      "website": "http://www.fundacionbmarch.es/",
+      "quote_source": "go"
     },
     {
       "name": "Can Pastilla Beach",
@@ -5833,102 +5701,8 @@
         }
       ],
       "rating": 4.5,
-      "website": ""
-    },
-    {
-      "name": "SeeMallorca - Mallorca Destination Guide & Bookings",
-      "orig_name": "SeeMallorca - Mallorca Destination Guide & Bookings",
-      "place_id": "ChIJAYhck0SSlxIRKdgMH89dpAs",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "971 57 65 63",
-      "int_phone": "+34 971 57 65 63",
-      "hours": [
-        {
-          "close": {
-            "day": 1,
-            "time": "1800"
-          },
-          "open": {
-            "day": 1,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 2,
-            "time": "1800"
-          },
-          "open": {
-            "day": 2,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "1800"
-          },
-          "open": {
-            "day": 3,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "1800"
-          },
-          "open": {
-            "day": 4,
-            "time": "0900"
-          }
-        },
-        {
-          "close": {
-            "day": 5,
-            "time": "1800"
-          },
-          "open": {
-            "day": 5,
-            "time": "0900"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 39.5685241,
-        "lng": 2.6451305
-      },
-      "address": "Carrer de Vallseca, 18, 07012 Palma, Illes Balears, Spain",
-      "photos": [
-        {
-          "height": 3160,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/110290656335900918979\">SeeMallorca - Mallorca Destination Guide &amp; Bookings</a>"
-          ],
-          "photo_reference": "CmRaAAAA-5fZKDz60e1iEzu3RrdNjcATMlRS_WVm6cO_EyVM7Oy9BDl_I0lgYxqW4IH7oxXTnVcH-h9ogq5cKXiossm8wgQ0MEGd_plDIib5u9nb8xOwSad_t504YJJmn5PMVPCKEhA7k2cMqY451u9CWWt6EX_uGhTiHSglvYm11jcPTamMWFWQqj0_4g",
-          "width": 5623
-        },
-        {
-          "height": 3264,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109794325920266130698\">From a Google User</a>"
-          ],
-          "photo_reference": "CmRaAAAAWabKjE_GffahI9Aps13wy1wICvRbMc6gtuRkysnLbgR4Gnrb4fIefSuKOcN-5MvvwYw53W36eUVVgzqhrE25gmMSmymSizJnhlaFVBITyqTfeXLsfe3u8xX0srv1xo_REhDwN23GgDdS_olT63Omh95oGhQOXXlod7UaDGzFzdmyibTiLFWU3A",
-          "width": 1840
-        },
-        {
-          "height": 270,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/110290656335900918979\">SeeMallorca - Mallorca Destination Guide &amp; Bookings</a>"
-          ],
-          "photo_reference": "CmRaAAAAMf89kqI3M_fVsf6PVhhtpyEDpLDhTbqBSCxUU8tyXPO4vND-YY2U1_rIbPUtjML1GgEylZaNggjkfaZ0vtDWA5dXw_0FbPL3_Vv7YcNPMjlszuhLlj7oLzp2fl5j6VujEhDIZYHDh6VrcmkT1q00kVt8GhR9Vry8TPsbC4t8yGTZc06nsuzNNw",
-          "width": 270
-        }
-      ],
-      "rating": 3.8,
-      "website": "https://www.seemallorca.com/"
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Parr\u00f2quia de Sant Jaume",
@@ -6028,7 +5802,8 @@
         }
       ],
       "rating": 4.6,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Plaza Del Mercat",
@@ -6135,7 +5910,8 @@
         }
       ],
       "rating": 4.3,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Playa de Palma",
@@ -6235,7 +6011,8 @@
         }
       ],
       "rating": 4.6,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Mercado Gastrono\u0301mico San Juan",
@@ -6386,7 +6163,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.mercadosanjuanpalma.es/"
+      "website": "http://www.mercadosanjuanpalma.es/",
+      "quote_source": "go"
     },
     {
       "name": "Aqualand El Arenal",
@@ -6486,7 +6264,8 @@
         }
       ],
       "rating": 3.5,
-      "website": "https://www.aqualand.es/elarenal"
+      "website": "https://www.aqualand.es/elarenal",
+      "quote_source": "go"
     },
     {
       "name": "Mercat de l\u2019Olivar",
@@ -6647,7 +6426,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.mercatolivar.com/"
+      "website": "http://www.mercatolivar.com/",
+      "quote_source": "go"
     },
     {
       "name": "Drach Caves",
@@ -6818,178 +6598,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://www.cuevasdeldrach.com/"
-    },
-    {
-      "name": "Segway Palma",
-      "orig_name": "Segway Palma",
-      "place_id": "ChIJF8CwqIiWlxIRYqNpXK7A0KU",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "971 72 30 65",
-      "int_phone": "+34 971 72 30 65",
-      "hours": [
-        {
-          "close": {
-            "day": 0,
-            "time": "1930"
-          },
-          "open": {
-            "day": 0,
-            "time": "0930"
-          }
-        },
-        {
-          "close": {
-            "day": 1,
-            "time": "1930"
-          },
-          "open": {
-            "day": 1,
-            "time": "0930"
-          }
-        },
-        {
-          "close": {
-            "day": 2,
-            "time": "1930"
-          },
-          "open": {
-            "day": 2,
-            "time": "0930"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "1930"
-          },
-          "open": {
-            "day": 3,
-            "time": "0930"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "1930"
-          },
-          "open": {
-            "day": 4,
-            "time": "0930"
-          }
-        },
-        {
-          "close": {
-            "day": 5,
-            "time": "1930"
-          },
-          "open": {
-            "day": 5,
-            "time": "0930"
-          }
-        },
-        {
-          "close": {
-            "day": 6,
-            "time": "1930"
-          },
-          "open": {
-            "day": 6,
-            "time": "0930"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 39.5695523,
-        "lng": 2.6436942
-      },
-      "address": "Pla\u00e7a de la Drassana, 11A, 07012 Palma, Illes Balears, Spain",
-      "photos": [
-        {
-          "height": 580,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102063981903005229918\">Segway Palma</a>"
-          ],
-          "photo_reference": "CmRaAAAAqg-_87xFActPLuuH8YLqqsNaiIgjIn2fQS_2Inx44W8sTLwbTpnGe_V9qdWWaBZGPLs2iXm_Y3X_rNnIo24bgb2MX9c3xHbLqmh4zgELn_jjJTBM6PXn6BDV9xJUWUj7EhD5HZNE3oETFjLF-VVzxrlqGhQVOnBT9elWzoD8BVW7u89INouwlg",
-          "width": 1920
-        },
-        {
-          "height": 2988,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114841272070888085095\">Daniel Glifberg</a>"
-          ],
-          "photo_reference": "CmRaAAAAwPQd3P8Suc9yniIy_EJt60OlJNbDqkAES3r2n6Q7zRwgPgcVYJGguIBxO-NgfAO_TeBXIcF-Q1v9JLSVe0kPpQz99nOLKrwb3ery6DuxsN7iDjj7wirQNvLXWhsllYczEhB3ev_U_Nk3Woz4jxaVVzNGGhSuzX2YGT1Z423YlmL-PyaCxJ_Y8g",
-          "width": 5312
-        },
-        {
-          "height": 2336,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107538629368628610721\">Frank Niemann</a>"
-          ],
-          "photo_reference": "CmRaAAAAXcA1f_WhipYVKZyw4sbOTs-aQXwhZtVHi6P3nFeW3KA-EcMxMOMdnN5lHTcpMI5n0oPLc8npa4T2XbWqxOZI_eTqWYNfoztV407rkzF32TkG1DbXI1VNB5n8vVyThybjEhA-zXXotuIjbG5qZI-VoO_1GhSKDCvsz4x4VhY9sAzHiWWvpMWNOQ",
-          "width": 4160
-        },
-        {
-          "height": 2613,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/105671086232971882574\">Gabriel Sevilla</a>"
-          ],
-          "photo_reference": "CmRaAAAAuHGWHEO731SLso1aB6vz4C0O_HTE6Hyg20xVMGIH-i_YNfLiSQ97gUiq46QVqFI7LtGf70gnijF9QIbWmNpvkcmCxhmPaNiT3w3gA2TBvaSkoFBSSWxn4TtORznEpTNVEhAR1pMPPPpv23Da7gJSV9aDGhQdU4q224uDA1BffsWO3c9TgHjVTQ",
-          "width": 2128
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102002814544367195815\">frank lucke</a>"
-          ],
-          "photo_reference": "CmRaAAAACog6IZ45rZHK77mR0M9xGPTj9zyXxWh6aa_w1dT_npBnYUWn2d7llpCRrAXGpHQyWlTn-_NDAA2avr4xvSZfQi4p7fnWxD3BvTCwxDPTYTMhAznx5C9PzHZE0c3P468UEhD_zXNZP4PkPzD68cbuIf3mGhTQMR37cOtebcr7KCYHvmU5eQyxeA",
-          "width": 4032
-        },
-        {
-          "height": 4032,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102002814544367195815\">frank lucke</a>"
-          ],
-          "photo_reference": "CmRaAAAAlRfJO3C391PcWgVzsLop-36RhpKGLFn5gHTDIBqREMtK7voobL8qS-bBNerHMxDJH-gk96qZiduUdJeHnhcCy0QeESeoFLfCbv4VaVRdmX6xQMVM217nf71towZTK4HrEhC0mG3i4Pb5v6rApq1AGsssGhRv5CWVOZ2t1QmOrCuGb0OOdyB7lQ",
-          "width": 3024
-        },
-        {
-          "height": 2592,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115025983435693173243\">Mauri Diaz</a>"
-          ],
-          "photo_reference": "CmRaAAAASvohgYSnBI7CUoFTeWCxU58m9XFo01yFk2aGILdyAcqqnj5MEQAjggTMUBqLRmdUjvWKD3utXa7ufs_tswcGTk8227iaol4vWD_YhX4f9L-996bDI4CohITi5u66sewDEhD6qD07amc3pUgSLDJeps78GhSVwG4Ql_hEJXLOPI5P6XddWLHCFg",
-          "width": 4608
-        },
-        {
-          "height": 4608,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102657396004983572162\">mario k.</a>"
-          ],
-          "photo_reference": "CmRaAAAAfKCETM37IwTQRHcglzKC1w0oqKm9d0UuZgzjYo6pAbf1qx0oLSVqGl_07pJsBIwEWmKGhdme3iYhPnF134jetLOlRs9Z1Dv8ro9PHQu-kHnS0VpGEdMipC3rb2xhaYlKEhDnDpskjVUGIPbWLbKvGIh1GhSx7M3JQLh_LEGhQLIXcTmPeBHkhw",
-          "width": 3456
-        },
-        {
-          "height": 4032,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102002814544367195815\">frank lucke</a>"
-          ],
-          "photo_reference": "CmRaAAAAYFF5fdXoF1FG3mSdlcy1r8jBs_nmKWK4HSlxSQ5I-XVpbSKt2pGVs_hcGnv5fw-ze3TbsTNFAjyNOzQ6Ssn10baqfQ-wCPycOAALHscrh1wpl6VIfTrNjAUbZ0OeFEImEhAaGbyEwDcVeqFkrgVRiiBSGhS9HZ2VA5BuMyQKjorUG7o_CIRLZQ",
-          "width": 3024
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/105535275172460210642\">\u0415\u043b\u0435\u043d\u0430 \u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0430</a>"
-          ],
-          "photo_reference": "CmRaAAAABCNHiHoAtyEtPzoYxs_JSIZsarjgLoxufO9IJ8EAlIxgA5oRzOsSa_tJTum5unyyLt3E8AsguSI4phr6e8hYkH4HkEmeRpvrcw1wrSPqHlc-T7n62BVvHyIp4BVxLqjoEhDjHiesVVRv-Wb30rzxXGkRGhRCsE5qIbNWlTIsOOrepTvh8pg4MA",
-          "width": 4156
-        }
-      ],
-      "rating": 4.4,
-      "website": "http://www.segwaypalma.com/"
+      "website": "http://www.cuevasdeldrach.com/",
+      "quote_source": "go"
     },
     {
       "name": "Franciscanos TOR La Porci\u00fancula",
@@ -7089,7 +6699,8 @@
         }
       ],
       "rating": 4.5,
-      "website": "http://www.porciuncula.org/"
+      "website": "http://www.porciuncula.org/",
+      "quote_source": "go"
     },
     {
       "name": "Parc de les Estacions",
@@ -7260,7 +6871,8 @@
         }
       ],
       "rating": 4,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Jard\u00ed Bot\u00e0nic de S\u00f3ller",
@@ -7421,7 +7033,8 @@
         }
       ],
       "rating": 4.1,
-      "website": "http://www.jardibotanicdesoller.org/"
+      "website": "http://www.jardibotanicdesoller.org/",
+      "quote_source": "go"
     },
     {
       "name": "Mondrag\u00f3 Natural Park",
@@ -7528,7 +7141,8 @@
         }
       ],
       "rating": 4.6,
-      "website": "http://ca.balearsnatura.com/parque_natural/parque-natural-de-mondrago/"
+      "website": "http://ca.balearsnatura.com/parque_natural/parque-natural-de-mondrago/",
+      "quote_source": "go"
     },
     {
       "name": "Playa de Illetes",
@@ -7635,107 +7249,8 @@
         }
       ],
       "rating": 4.5,
-      "website": ""
-    },
-    {
-      "name": "Cala Major",
-      "orig_name": "Cala Major",
-      "place_id": "ChIJhX7wN_eNlxIR4YAeE6-nlDQ",
-      "cat_params": [],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "",
-      "int_phone": "",
-      "hours": "",
-      "coordinates": {
-        "lat": 39.5521314,
-        "lng": 2.6127008
-      },
-      "address": "Cala Major, Palma, Balearic Islands, Spain",
-      "photos": [
-        {
-          "height": 2988,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/117879955122095897193\">sture sjostrom</a>"
-          ],
-          "photo_reference": "CmRaAAAA6hmOGLJTaV0h_LTJw2r7E4pp6TEkTUG0ZSWrzCSweV9lCmAGgTNtvpSVv8xbJXsf3FVDkcouHhmLsPIYRnbxRdS4KlsZgv_U_Rpgt0LOhrmZN5FjV1FkctnKaxO7z-auEhC7zM9B9a5Obd_cxM-oAe2OGhTX2qa0cLvLDZVd9KmPiwDBpjIC0A",
-          "width": 5312
-        },
-        {
-          "height": 2416,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/113365456829193590707\">Pixel Mike</a>"
-          ],
-          "photo_reference": "CmRaAAAAXQKkE59lqH0WCP5gzWtEZO-_RwaPyYndNfXns_1MvwcqTSkQgETi_viPGHTpbRI60UmhGV3b4LyHVHyQcH7TOZaPLKASyJjzxyRZbAkV0LihY2peYF0pQvLMLspYgqbXEhDu-q6gALmChinZGUPNHYGkGhTlTU-av2wMJJFVvAlfhlcKki2X6A",
-          "width": 3198
-        },
-        {
-          "height": 2268,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111571024736282568323\">Ines Lucas</a>"
-          ],
-          "photo_reference": "CmRaAAAAfY0SPZENVTlh412eBUhX4BJdRUZdM3VDb8wBjNPKtvpLzSaUQ1owqdx4D_PTtFZnUfGFP0CTpd7qeq0xpcp56fr0PPhgLr43UdIHsCLz3JUYHAUbQquuwsFrOKs4suSBEhB-5A_TpNchF-Ph1Zxmq_J0GhSZCJvRI_dDBJUBgbE1EukYxO6y3Q",
-          "width": 4032
-        },
-        {
-          "height": 1960,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111791914407355186176\">Susy Cu\u00f1at Zaragoza</a>"
-          ],
-          "photo_reference": "CmRaAAAAiqke1vTKHWzwdqG7-Vnu3_PVxqhtW9ZOebWwhMTqzI7q4w37858qZloeLBTG0YQFuri8p2qYMSboeSCMFVVUUM0wvWvHo-UJqKj5w3K6OZrehukBp2l4l-dWa7NDqiACEhCTyL0FmnTspfcWT5-6Z7EzGhQ-kYf_mXD686-hcDlJT70X9z02ew",
-          "width": 4032
-        },
-        {
-          "height": 1288,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103219217111603115776\">jan dolk</a>"
-          ],
-          "photo_reference": "CmRaAAAA7loxrPgKoFn3XBS8aNMBa1D-2eSSMeoaoPfCCiSZ6TPueRbK29TkMf8NTWd_O92XtHNJz-g5ECi2L9tjMIWySftkuupqS8pZ3YF5hXi2Wt2QF24sSc8DfzyIi-cXGlcLEhAhHfQ2yjy2q-rQ3dImOcGBGhSh65ro14TlrPBaBlqu74DxFSk_Sw",
-          "width": 2015
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112449155409015054944\">Jorge Mario R.</a>"
-          ],
-          "photo_reference": "CmRaAAAANsWTQ6TgHfxbufSTracEJZYRHPomx49i9pLzTvQozRFg2Pb3CSJwMVUm5LSRGwH1nNBzRhEzHqgPEc7t4_gKnnzZ_Cz4Lq8LSh8vpkOsgX2zBCC4E3HVuzpbUGohk7uUEhAMDG09bSqLQiEDKl182zdEGhQCelS_HM5rtNR6sIMq6wmx2mmzrg",
-          "width": 4608
-        },
-        {
-          "height": 2322,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/112267752366238062212\">Hannelore Marwedel</a>"
-          ],
-          "photo_reference": "CmRaAAAAy7BR2ikDiC1mQ65_USCiHt-tuOmykXnqKLLDPPQv5q_SywGWuWWFpsjAnC8IX5dlOyZqiD_hNB__YWnbRFCKJaS7yM2GdkauBJKdXnqt-jlskEVFcl3Io1IW4KncuyIsEhDPWwRISg_5ehe9rsbQz1v-GhRD2jhAcVO-rxLJcAfSJPtMOX5TDQ",
-          "width": 4128
-        },
-        {
-          "height": 4000,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100216534611534701277\">Claudio Veschi</a>"
-          ],
-          "photo_reference": "CmRZAAAAvAZ9J_GpUWSfGosD3Qv-C6b4CCYZpWJE415Byh94lgDqQu4hGGP5loOxoB1UifiJbB3J-GFxwPIenNIbqB2mN_xHCUs8oU-HdaDrHlTqKHNEwcXEO-tH9aO7FlbbPAdQEhDq2u4tqENfvkmx2CSqBTpwGhT26ZSk55YzbTYlJ1VK0CQXJxwy2g",
-          "width": 2250
-        },
-        {
-          "height": 4032,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102933305938636724066\">Marie Sandholm</a>"
-          ],
-          "photo_reference": "CmRaAAAAIe3MTjVVq-CKdL8Vui_YXHlBEXnvvHFlVqMUCwitk_PoO_Qk_S_3Pajjw37NWSUP1kegjkW-PJVqOkBCE46qhcVwX1SXqdTRKrfxmGnzk0L3Wf4O8ewF8osu2rWHKfPWEhCI4PUJ2Ca4Dwy8SAOYGoUfGhQRvruAv06kCUJGZ00ow8i-JyFnuw",
-          "width": 3024
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/116700601129847334396\">ilie mihali</a>"
-          ],
-          "photo_reference": "CmRaAAAAvh8KuNycE3p_g3MumCZ0I122ou47oNjRD179KcGRLVqU6CxIPLHfDpCPblLD4aQ1iGZ6Oa1ffsb-tKNdfrMYc6Qbu5L98-SRLkofGxPGV5GAMTdOytb70ydbZuevzGWUEhAUyOlL8UkIb0jIubRjNxkOGhS1sldrQP8jnJNb2KyHBS7bUf_WJA",
-          "width": 4608
-        }
-      ],
-      "rating": null,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "Carthusian Monastery Valldemossa",
@@ -7896,7 +7411,8 @@
         }
       ],
       "rating": 4.4,
-      "website": "http://www.cartoixadevalldemossa.com/"
+      "website": "http://www.cartoixadevalldemossa.com/",
+      "quote_source": "go"
     },
     {
       "name": "Balearic Transfer",
@@ -8043,7 +7559,8 @@
         }
       ],
       "rating": 3.9,
-      "website": ""
+      "website": "",
+      "quote_source": "go"
     },
     {
       "name": "FAN Mallorca Shopping",
@@ -8204,7 +7721,8 @@
         }
       ],
       "rating": 4.3,
-      "website": "http://fanmallorca.com/"
+      "website": "http://fanmallorca.com/",
+      "quote_source": "go"
     }
   ]
 }

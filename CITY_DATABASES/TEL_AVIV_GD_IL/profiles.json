@@ -249,7 +249,8 @@
         "culture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Yarkon Park",
@@ -456,7 +457,8 @@
         "water",
         "beach"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Old Tel Aviv Port Area",
@@ -495,7 +497,7 @@
         0.47417155087185303
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Lively entertainment quarter with fashionable shops, restaurants & clubs, plus a seafront promenade.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -663,7 +665,8 @@
         "nightlife",
         "water"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "\u05e0\u05de\u05dc \u05d9\u05e4\u05d5",
@@ -934,7 +937,8 @@
         "nightlife",
         "shopping"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Eretz Israel Museum",
@@ -1185,7 +1189,8 @@
         "architecture",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Habima Square",
@@ -1456,7 +1461,8 @@
         "nightlife",
         "cosmopolitan"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Bauhaus Center Tel Aviv",
@@ -1717,7 +1723,8 @@
         "art",
         "books"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Ben-Gurion House",
@@ -1988,7 +1995,8 @@
         "architecture",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Palmach Museum",
@@ -2249,7 +2257,8 @@
         "original",
         "movies"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Frishman Beach",
@@ -2520,7 +2529,8 @@
         "water",
         "walking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Old Train Station",
@@ -2791,7 +2801,8 @@
         "engineering",
         "shopping"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Sarona Market",
@@ -3062,7 +3073,8 @@
         "nightlife",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Beit Bialik",
@@ -3323,7 +3335,8 @@
         "culture",
         "books"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Beit Ha\u2019Ir Museum",
@@ -3584,7 +3597,8 @@
         "military",
         "architecture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Meir Park",
@@ -3791,7 +3805,8 @@
         "animals",
         "nature"
       ],
-      "duration": 0.75
+      "duration": 0.75,
+      "quote_source": "go"
     },
     {
       "name": "Helena Rubinstein Pavilion for Contemporary Art",
@@ -3991,7 +4006,8 @@
         "books",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "Tel Aviv Beach",
@@ -4198,7 +4214,8 @@
         "nightlife",
         "engineering"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "\u05e9\u05d5\u05e7 \u05d4\u05e4\u05e9\u05e4\u05e9\u05d9\u05dd - \u05d9\u05e4\u05d5",
@@ -4459,7 +4476,8 @@
         "food",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Yitzhak Rabin Center",
@@ -4720,7 +4738,8 @@
         "original",
         "books"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "quote_source": "go"
     },
     {
       "name": "The Hagana Museum",
@@ -4971,7 +4990,8 @@
         "culture",
         "military"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "\u05e9\u05d5\u05e7 \u05dc\u05d5\u05d9\u05e0\u05e1\u05e7\u05d9",
@@ -5232,7 +5252,8 @@
         "fashion",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "The Clock Tower",
@@ -5439,7 +5460,8 @@
         "military",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Independence Hall in Shalom Tower",
@@ -5690,7 +5712,8 @@
         "architecture",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Museum of the Jewish People at Beit Hatfutsot",
@@ -5951,7 +5974,8 @@
         "original",
         "science"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Dizengoff Fountain",
@@ -6432,7 +6456,8 @@
         "fashion",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Tel Aviv District",
@@ -6632,7 +6657,8 @@
         "religion",
         "science"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Rokach House",
@@ -6863,7 +6889,8 @@
         "religion",
         "science"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Tell Qasile",
@@ -7063,7 +7090,8 @@
         "science",
         "art"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "Suspended Orange Tree",
@@ -7270,7 +7298,8 @@
         "history",
         "nature"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Gutman Museum",
@@ -7531,7 +7560,8 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Safari Ramat Gan",
@@ -7802,7 +7832,8 @@
         "family",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Joseph Bau House Museum",
@@ -8002,7 +8033,8 @@
         "music",
         "art"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Ilana Goor Museum",
@@ -8223,7 +8255,8 @@
         "culture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "TLV Balloon",
@@ -8494,7 +8527,8 @@
         "engineering",
         "family"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "quote_source": "go"
     },
     {
       "name": "National park Ramat Gan",
@@ -8533,7 +8567,7 @@
         0.6257798852344827
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Green space around an artificial lake, with a natural history museum & a zoo offering safari tours.",
       "phone": "03-631-3964",
       "int_phone": "+972 3-631-3964",
       "hours": [
@@ -8701,7 +8735,8 @@
         "nature",
         "beach"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Independence Park",
@@ -8908,7 +8943,8 @@
         "water",
         "views"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "The Steinhardt Museum of Natural History",
@@ -9159,7 +9195,8 @@
         "culture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "\u05d7\u05d5\u05e3 \u05d1\u05d5\u05d2\u05e8\u05e9\u05d5\u05d1",
@@ -9366,7 +9403,8 @@
         "water",
         "walking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     },
     {
       "name": "Rabin Square",
@@ -9573,7 +9611,8 @@
         "friends",
         "cosmopolitan"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "quote_source": "go"
     },
     {
       "name": "Suzanne Dellal Center for Dance and Theater",
@@ -9773,7 +9812,8 @@
         "nightlife",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Ariel Sharon Park",
@@ -10044,7 +10084,8 @@
         "instagram",
         "walking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Yarkon River",
@@ -10244,7 +10285,8 @@
         "beach",
         "walking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Azrieli Observatory",
@@ -10444,7 +10486,8 @@
         "views",
         "food"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "Nachalat Binyamin Art Fair",
@@ -10665,7 +10708,8 @@
         "original",
         "art"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Kikar Dizengoff",
@@ -10704,7 +10748,7 @@
         0.26584324269700305
       ],
       "noncat_params": [],
-      "quote": "",
+      "quote": "Redeveloped 20th-century roundabout & rest spot centered on an iconic sculpture & fountain.",
       "phone": "",
       "int_phone": "",
       "hours": [
@@ -10896,7 +10940,8 @@
         "original",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Wishing Bridge",
@@ -11103,7 +11148,8 @@
         "religion",
         "science"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "TLVnights",
@@ -11324,7 +11370,8 @@
         "food",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Great Synagogue of Tel Aviv",
@@ -11524,7 +11571,8 @@
         "religion",
         "science"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "quote_source": "go"
     },
     {
       "name": "St. Peter's Church",
@@ -11724,7 +11772,8 @@
         "instagram",
         "culture"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "quote_source": "go"
     },
     {
       "name": "ezraidertlv \u05d0\u05d9\u05d6\u05d9\u05e8\u05d9\u05d9\u05d3\u05e8 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
@@ -11985,7 +12034,8 @@
         "nightlife",
         "history"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "\u05e9\u05d1\u05d9\u05dc \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea",
@@ -12256,7 +12306,8 @@
         "books",
         "art"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Lehi Museum",
@@ -12507,7 +12558,8 @@
         "science",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "quote_source": "go"
     },
     {
       "name": "Crazy House",
@@ -12707,7 +12759,8 @@
         "art",
         "engineering"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "quote_source": "go"
     },
     {
       "name": "Ramat Gan Museum of Israeli Art",
@@ -12907,7 +12960,8 @@
         "books",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "quote_source": "go"
     },
     {
       "name": "Rubin Museum",
@@ -13168,7 +13222,8 @@
         "culture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "quote_source": "go"
     }
   ]
 }
