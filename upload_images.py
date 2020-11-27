@@ -4,7 +4,7 @@ import os
 from google.cloud import storage
 from PIL import Image
 import io
-from analyze import isMetadataGathered, isTextMetadataFinal, isTextFinal, isAnalyzeDone
+# from analyze import isMetadataGathered, isTextMetadataFinal, isTextFinal, isAnalyzeDone
 
 
 def getImage(reference, max_height, api_key):
@@ -135,6 +135,7 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getcwd() + "/CLOUD_ACCESS/" + 
 # uploadImages("TULSA_OK_US")
 # uploadImages("WICHITA_KS_US")
 # uploadImages("TEL_AVIV_GD_IL")
+print("ok")
 # uploadImages("ZARAGOZA_AR_ES")
 # uploadImages("YOKOHAMA_KN_JP")
 # uploadImages("XINING_QH_CN")
@@ -149,6 +150,6 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getcwd() + "/CLOUD_ACCESS/" + 
 # uploadImages("PORT_AU_PRINCE_OU_HT")
 # uploadImages("PHUKET_PH_TH")
 # uploadImages("HO_CHI_MINH_CITY_SE_VN")
-# uploadImages("PALMA_BA_ES")
-# uploadImages("HERAKLION_CR_GR")
-# uploadImages("GEORGE_TOWN_PE_MY")
+uploadImages("PALMA_BA_ES")
+uploadImages("HERAKLION_CR_GR")
+uploadImages("GEORGE_TOWN_PE_MY")
