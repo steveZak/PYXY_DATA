@@ -6888,7 +6888,7 @@
           "width": 1600
         }
       ],
-      "rating": null,
+      "rating": 4.7,
       "website": "",
       "mood_params": [
         0.01133920865904242,
@@ -6904,8 +6904,8 @@
         0.07533322967500379,
         0.025209056098676533
       ],
-      "popularity": 0.057300685164209456,
-      "num_google_reviews": 0.125,
+      "popularity": 0.4,
+      "num_google_reviews": 2610,
       "top_cats": [
         "animals",
         "nature",
@@ -10752,207 +10752,6 @@
         4.247054725093446,
         1.739108993515285,
         0.11546563054033805
-      ],
-      "quote_source": "go"
-    },
-    {
-      "name": "Downtown",
-      "orig_name": "Downtown",
-      "place_id": "ChIJBd0rrlBx6lIRpJsc1xb7Upo",
-      "cat_params": [
-        0.16464911280003264,
-        0.058004551939397124,
-        0.464581506517159,
-        0.10791322331803087,
-        0.3024608260947837,
-        0.13918292975631252,
-        0.2563908022022721,
-        0.13353714577947973,
-        0.2891806403098323,
-        0.21769994478011623,
-        0.02500559967671001,
-        0.14278004837536035,
-        0.12532929446072613,
-        0.19357436839824027,
-        0.15894256498819337,
-        0.046948657618919996,
-        0.10735912402326037,
-        0.26913961722146773,
-        0.14569537769911445,
-        0.10013980359841429,
-        0.39192305964271584,
-        0.2269257210452632,
-        0.07862366289878,
-        0.1104147747297589,
-        0.025394776946640746,
-        0.3802246126889246,
-        0.15853573429258946,
-        0.19013673141338563,
-        0.19325096086354696,
-        0.4686698633537837
-      ],
-      "noncat_params": [],
-      "quote": "",
-      "phone": "",
-      "int_phone": "",
-      "hours": "",
-      "coordinates": {
-        "lat": 49.8942557,
-        "lng": -97.1387736
-      },
-      "address": "Downtown, Winnipeg, MB, Canada",
-      "photos": [
-        {
-          "height": 1440,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/116603913112080705090\">cro passenger</a>"
-          ],
-          "photo_reference": "CmRaAAAADWqMEHpJhwfH3rzNtoS4QjCd8bQ9kxHOmq3drLcy2674nq3zr1rwshHxVk4bOrXFEOUy-ePwm-7PGEzwhBxBndA13N1TtPyr3_Tzj6SOk22hpcSZ8oQ92dLyu_1GORi9EhADO6rM0hxQCBminrulBBOJGhRZ5dtZO2o7wzePelRGua20EDqGog",
-          "width": 2560
-        },
-        {
-          "height": 4330,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106829170999880350731\">Andr\u00e9 P\u00e9loquin-Hopfner</a>"
-          ],
-          "photo_reference": "CmRaAAAAGiT0gGZT1TKJ83UhCZ1_nwzXqMnzSdC9WQ2bMsVYHuUyczvAESQPpCtiJuf7IBBmabnkD2yycbG-DkkFR_yfG_o_E9Ox24Be3TY3vRRp44eKoW8HH-NF6PhVC-XOvJA_EhBXITvbeKxCVELIBbsVdJ3wGhQTz2HcqD5SLE-Ppev6-X3IRrD49g",
-          "width": 5773
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/105951794418703695045\">Eduardo Borges</a>"
-          ],
-          "photo_reference": "CmRaAAAAxtlEccK71mTr6LcNqDsi7YULWGx9Y04R3-VqICoeGnCGpD8KL-gdk0jUwVZwi92AKfRglvq0_690GF6wByP0l-WpBkSGTlQOHb9Zfs7woIRczbjZQ0ZmmbJGdth92ROMEhBCNQcoVD57SnFMcM1r1TlwGhRi7zwzsSEm3iOEDThydIpWrtiIyg",
-          "width": 4032
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115522010315630930515\">Kirk Scott</a>"
-          ],
-          "photo_reference": "CmRaAAAATltPmsmhAblAv2kGtkbfATv1zpwYGwQNRxTtXMz3_VnpnFVug5GS6aAKm2Z35INud1jOevpZSS9YhTybhVHz9Nn-exBedkHDSuXxTzYDnxXt4WVe4SZb_wR2HgM7QXndEhCpP9CqtiJjdiNq6QE7mdoNGhQgm6Y_tgIlobTMlYbHs8kBAzHhEw",
-          "width": 4032
-        },
-        {
-          "height": 2268,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106020212193368040559\">\u738b\u52b2\u677e</a>"
-          ],
-          "photo_reference": "CmRaAAAAT_rtjA-9_vSm3QYLk4qzRiECfTXyiYXy429gW2zd8fvMv0BTgROPcrs7BKIl5zJbTNDn3ioeDVHq7J4Z4rmPrU9GSuEyYN0Jm8aVDPTnKgAsKgFtUUFJ85cl1ge_mX1FEhCIENwzPawMjtZArIvWjuUcGhQV0HSPtTRPpGZlE_gNYW_PRCkx6g",
-          "width": 4032
-        },
-        {
-          "height": 3072,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102013055438234870415\">Sarvesh Patel</a>"
-          ],
-          "photo_reference": "CmRaAAAAEZSeVeeM0zFKQAjIszE7mL-eDU2KReTNqFxggEe9QTkZSo2JtZfN75x4H0fQpAQQXR7d7KTDMJNdJ2Rg2YV5Mv6DdXbnpzE_6veBW_cK6ZbC-01g4eoVCGtJ_Z8L_0SLEhDIFf-DYcnlvXIExP9WP0cUGhRNTtsZLJmCBBwGD8nkTsuxyEJAJg",
-          "width": 4096
-        },
-        {
-          "height": 2268,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106020212193368040559\">\u738b\u52b2\u677e</a>"
-          ],
-          "photo_reference": "CmRaAAAA252Oqx0i5qmIYAx5YT1ULMUSrvIpaPDowBPaBlQ0riBhuLoEFlx-V6uhhV72JW-HclGrWKs2F50rfQkIr0vWEE_w9VjEIIjxdDuAdWDdKUVrAGdOgrd-WUzh_aHJ9hqYEhA6GfQiWtohGEzyy20NXWTXGhTGCzqumlMI4FXQ6Yd6NBKECoMILw",
-          "width": 4032
-        },
-        {
-          "height": 575,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115571503292986435659\">Winnipeg Trolley Company - Winnipeg Tours &amp; Charters</a>"
-          ],
-          "photo_reference": "CmRaAAAAMF8oF0KmJ4EBBOm8m7t_PPEIdXrQUquubY1WnkHXqMe5pkMAYKcW4lnTnxUY6jnUmYNWRZVjc6JZZnNImuD0j6eFeZ9CKvsbAB6D-mbqzktqp-wPVU9IwaQDS01MtjGYEhA-7yikNbf8q7eSUxxSauHBGhSllMf4b4-4U8QIGICRZ40GvCslQw",
-          "width": 1024
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104794935177028872804\">David P</a>"
-          ],
-          "photo_reference": "CmRaAAAAHWqoc5UFma6KU3cFTjlaScM2ACXX_e8aoqfW3JeiJ-xouVeGcISuobGLawSADw8cFteLaUxBnXQg-jbay1P8scYS9PP3aSch69GckQbFDsnvtGHZDfK7Gx9I1nHUZ7I-EhD5bFwVrPL1Wghe0OPnN9jnGhQMj5crh4JHaaNEUwjO1dN_ICh-xg",
-          "width": 4032
-        },
-        {
-          "height": 1496,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/113387802960078471518\">Demuth Flake</a>"
-          ],
-          "photo_reference": "CmRaAAAA1bGuULj3bmKB3VOQEUaTnn6Se_VQdVN40B_ztSQGHxx0UxdOzEHgnHjH6ceqcEfhOvkrsgulZc54FBMcvBFYeFGqoUv3sDmV7akYDEemZXki13jWjGWF10liX6bJ6E8pEhD8wX--ynTPDrkUPuSlBteJGhRehfjCkamarrxb7th5q__ZyvDtDw",
-          "width": 2256
-        }
-      ],
-      "rating": null,
-      "website": "",
-      "mood_params": [
-        0.0,
-        0.004768623913769151,
-        0.004586666035318662,
-        0.0,
-        0.0,
-        0.005765685811742527,
-        0.0,
-        0.0,
-        0.0049664867443657895,
-        0.007730611651540073,
-        0.0,
-        0.0
-      ],
-      "popularity": 0.057300685164209456,
-      "num_google_reviews": 0.125,
-      "top_cats": [
-        "architecture",
-        "engineering",
-        "water",
-        "shopping"
-      ],
-      "duration": 1.0,
-      "global_cat_params": [
-        0.05415272577447168,
-        -0.6384421682166751,
-        2.3683872281202416,
-        -0.879220020638774,
-        0.0009739751891134505,
-        -0.07275517998147116,
-        -1.4630867227547522,
-        -0.8530167580044267,
-        1.226345197489327,
-        -1.0721075041596764,
-        -1.247727640111197,
-        0.02309613982112952,
-        -1.3590991229959528,
-        -0.07349710619661723,
-        -1.3980321366951605,
-        -1.428768970536143,
-        -1.9402581484132777,
-        -0.24030692752643265,
-        -0.23416556008411596,
-        -0.6871059027678745,
-        -0.6885665846442384,
-        -0.26175254014096433,
-        -1.9943566558490575,
-        -0.5358562614497991,
-        -0.05525823871452373,
-        0.20061738264428608,
-        -1.2118705064173219,
-        -1.4759250885778679,
-        -0.625089858936222,
-        0.9710424829263267
-      ],
-      "global_mood_params": [
-        -0.7328082084872877,
-        -1.3597512170731985,
-        -1.0446470394062963,
-        -1.9299739515906504,
-        -1.2721502070636597,
-        -1.8398700842729363,
-        -2.1170880462657906,
-        -1.1726330589271776,
-        -1.5373512426752864,
-        -1.3748909460910914,
-        -2.1032058079039784,
-        -1.6058666660957999
       ],
       "quote_source": "go"
     },

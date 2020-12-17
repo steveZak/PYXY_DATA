@@ -1,6 +1,6 @@
 import os
 import json
-from analyze import isMetadataGathered, isTextMetadataFinal, isTextFinal, isAnalyzeDone
+# from analyze import isMetadataGathered, isTextMetadataFinal, isTextFinal, isAnalyzeDone
 import numpy as np
 import random
 
@@ -75,17 +75,17 @@ import random
 #     json.dump(global_sights, file_out, indent=2)
 # #
 # # rank cities by number of sights in golden selection
-cities = {}
-with open(os.getcwd() + "/CITY_DATABASES/GOLDEN_SELECTION/" + "profiles.json") as file:
-    sights = json.load(file)['sights']
-for sight in sights:
-    if sight['city_id'] not in cities.keys():
-        cities[sight['city_id']] = 1
-        continue
-    cities[sight['city_id']] += 1
-cities = {k: v for k, v in sorted(cities.items(), key=lambda item: item[1], reverse=True)}
-for city in cities.keys():
-    print(city + " " + str(cities[city]))
+# cities = {}
+# with open(os.getcwd() + "/CITY_DATABASES/GOLDEN_SELECTION/" + "profiles.json") as file:
+#     sights = json.load(file)['sights']
+# for sight in sights:
+#     if sight['city_id'] not in cities.keys():
+#         cities[sight['city_id']] = 1
+#         continue
+#     cities[sight['city_id']] += 1
+# cities = {k: v for k, v in sorted(cities.items(), key=lambda item: item[1], reverse=True)}
+# for city in cities.keys():
+#     print(city + " " + str(cities[city]))
 
 # remove (Translated by Google tags)
 # for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES"):
@@ -137,3 +137,15 @@ for city in cities.keys():
 #             for sight in sights:
 #                 if sum(sight['mood_params']) == 0 or sum(sight['cat_params']) == 0:
 #                     print(sight['name'] + ' ' + city)
+
+i=0
+for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES"):
+    for city in dirs:
+        with open(os.getcwd() + "/CITY_DATABASES/" + city + "/profiles.json") as file:
+            sights = json.load(file)['sights']
+        for sight in sights:
+            i+=1
+            # if sight['rating'] == None:
+            #     print(sight['name'])
+            #     print(city)
+print(i)

@@ -2842,277 +2842,6 @@
       "quote_source": "go"
     },
     {
-      "name": "Skotina",
-      "orig_name": "Skotina",
-      "place_id": "ChIJb4EtLcFP8EARqxcwehruPYo",
-      "cat_params": [
-        0.1575094012173506,
-        0.08098343309371554,
-        0.09886781891791409,
-        0.07619042846157802,
-        0.19552899806636714,
-        0.11868725443774564,
-        0.39110013346214934,
-        0.16459608623002492,
-        0.17416107485131574,
-        0.29289339049783264,
-        0.09262299877509596,
-        0.6361139657971753,
-        0.21530842406468628,
-        0.08593301329713504,
-        0.21573343314786347,
-        0.36020490085606827,
-        0.44039244517678716,
-        0.11211115074374506,
-        0.1604468360663992,
-        0.15455809601138987,
-        0.40963322345784037,
-        0.334050332174191,
-        0.39459105827727464,
-        0.08898216400190434,
-        0.0,
-        0.46416101493311757,
-        0.3207612806974039,
-        0.3317309854202469,
-        0.17450147757922382,
-        0.16831820445326398
-      ],
-      "quote": "",
-      "phone": "8 (861) 299-95-94",
-      "int_phone": "+7 861 299-95-94",
-      "hours": [
-        {
-          "close": {
-            "day": 1,
-            "time": "0000"
-          },
-          "open": {
-            "day": 0,
-            "time": "1200"
-          }
-        },
-        {
-          "close": {
-            "day": 2,
-            "time": "0000"
-          },
-          "open": {
-            "day": 1,
-            "time": "1200"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "0000"
-          },
-          "open": {
-            "day": 2,
-            "time": "1200"
-          }
-        },
-        {
-          "close": {
-            "day": 4,
-            "time": "0000"
-          },
-          "open": {
-            "day": 3,
-            "time": "1200"
-          }
-        },
-        {
-          "close": {
-            "day": 5,
-            "time": "0000"
-          },
-          "open": {
-            "day": 4,
-            "time": "1200"
-          }
-        },
-        {
-          "close": {
-            "day": 6,
-            "time": "0100"
-          },
-          "open": {
-            "day": 5,
-            "time": "1200"
-          }
-        },
-        {
-          "close": {
-            "day": 0,
-            "time": "0100"
-          },
-          "open": {
-            "day": 6,
-            "time": "1200"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 45.0228081,
-        "lng": 38.98725510000001
-      },
-      "address": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442 \"\u041f\u0435\u0440\u0435\u043a\u0440\u0435\u0441\u0442\u043e\u043a, Ulitsa Suvorova, 64, Krasnodar, Krasnodarskiy kray, Russia, 350033",
-      "photos": [
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114101732141764022670\">Lin Don</a>"
-          ],
-          "photo_reference": "CmRaAAAAZZ9haPMjjCZL2Hr6GvnuR_ZGXajTP5hgO2wjN6yU4ASY_PAmQ4HbEhrGavVpsxOhp_CCrPTXoJ3LfzHA9nX6gN7kt2U_zJH2BQetO7MrJpxaCgp-UKQdkhuq31xMPBG2EhDKsL87e2x1M-Ky3RO0A9acGhSgtZxZNLTxjemonaGmyiTEbgxXYw",
-          "width": 4032
-        },
-        {
-          "height": 1667,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111659911663767506101\">\u0421\u043a\u043e\u0442\u0438\u043d\u0430</a>"
-          ],
-          "photo_reference": "CmRaAAAAYcA8FCSPZa-diU8iEYuJz-bOMgPWoTTO01Qayxolgz8V181b-8jXEcXrETxqKmUq4k71jt8yuqhaCyA1kWc-T0n8XDe7khU9OuAfyl5gTNWD-Xxbw0zhnnFHoPHpJZ0tEhAvjJcxW4zGgTA1655VT-BiGhRxggzUEp4asGc9xEyZ5zpQ34r8aw",
-          "width": 2500
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103913588968928643465\">\u041f\u0430\u0432\u0435\u043b \u041c\u0438\u0440\u043e\u0448\u043d\u0438\u043a\u043e\u0432</a>"
-          ],
-          "photo_reference": "CmRaAAAAQggS_hdVmGPq_W5la4FtgEaCaWtzXIc_6EQMA7aBEX29Kgaw3W8aKgYRl_norCZbO8Keawa0Z8OOJlq2Wb96AURrfBV5T165ySIkWuwBOtu0OFIkmpS35ilCwl47ogWhEhAZaeeXnluKWFXmpH3e1wv4GhSBYAsBoM_eYlMrB96gk54PizZrAA",
-          "width": 4608
-        },
-        {
-          "height": 2333,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111659911663767506101\">\u0421\u043a\u043e\u0442\u0438\u043d\u0430</a>"
-          ],
-          "photo_reference": "CmRaAAAAXUGwKL-rl_hWXVmxZDr04P9ItAcn9Iq8kAQAe_FZMzUIR49N247eu0I2fXweQVFfyDD3yjCPIgYtZrdQ_LS47LeDwq7WZAS7Lslw_iVygbh6yz-A-b6osx6_dQJMH3eLEhD3bzNZ_c0S3k01lMNI6FuyGhQ2ZqEhV6XKaoul7DC9bpRiI8g44g",
-          "width": 3500
-        },
-        {
-          "height": 2881,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/116436966022504048397\">Evgeny Firsov</a>"
-          ],
-          "photo_reference": "CmRaAAAAibQ77BD4imYD_18tBGU9NTsr8i4XWha5x8dKHmFQYH9aXNWxCPbBcT5hm1AN8DI2uYBIFFP2SqfKiFnvcYAG6x8KBS5XTkKAoRrNnqek5vT-Uh9uUm37ZT4A7ocV7IihEhDx0jfZdpzaJEQu66gSzQnFGhRSKrx6Q8DtJUB0rSynzJ1bLy1ENA",
-          "width": 4032
-        },
-        {
-          "height": 1667,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/111659911663767506101\">\u0421\u043a\u043e\u0442\u0438\u043d\u0430</a>"
-          ],
-          "photo_reference": "CmRaAAAAdx-omZsWD82T6Vc8x5btK2cHkBRFdwLU_mcYpIcxTJuV2_FcK3OY0oY7HVsXgz1-QHu8aKMUWQP_N0GsD_fA5yMTHi2Nvf8eBCoptA85aBzvOdAMmOjp-KAAC5o__HMSEhB9DGmlikdxFzQERSstKGJrGhRe6sNn4OyMAmK7N2X-34mgVpyEvw",
-          "width": 2500
-        },
-        {
-          "height": 4032,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100210072969943537374\">\u0410\u043d\u0434\u0440\u0435\u0439 \u0422\u0430\u0431\u0430\u0447\u043a\u043e\u0432</a>"
-          ],
-          "photo_reference": "CmRaAAAA55qXauWbLlTkRXbHu554YBnFrEGLwlm4vQFQ0plI_TJMNMGCwTePi7mEJ74AkMb3SBbE8JCmqBGXbgwTlzKZJWwn70avKER9r0juaUuXePgHQ9d4ON6Wz5uo3iNDSYbwEhCi0Gtw8PSyJsI8F37HaxGZGhSjc9rfRfV1Fkh8bDV2GCTNTLxKnQ",
-          "width": 3024
-        },
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/105929873127377770378\">Vasja Pupkin</a>"
-          ],
-          "photo_reference": "CmRaAAAAA2HOJJ38gL-RZcIXT7A_XCFABKtLUWnRExn3d4EWiK3amTlyt1vyw4RB-3YUrLTb7L0v5nAxxGFVqYxaZHYkNuyRkE5B73_T6jyYIjwVSYMlYU7h5Hqrb2b3nvlXBVUkEhBHmqJByyKSj5mYoBAvArp-GhQzMpWWpG8ts4KuD4gRG_BtvTBI3A",
-          "width": 4032
-        },
-        {
-          "height": 4032,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/116698570512459608031\">Alexey Trishin</a>"
-          ],
-          "photo_reference": "CmRaAAAAIff5DWjxXNOyOVchLLlq3DPXo0_tjjdtGv7PzKQl4fm40INNWU33xjamBpplv3r4kckdSPdjU_n2CdJC-M_O10GBYsCJEB9ilb5nfhZc9AXnXyIwDPJLvaHnG26yxwSGEhB21Aj_saktWx3p6gjE6YFcGhSmC4eXQmaOtD76XImNn0r_XaASNQ",
-          "width": 3024
-        },
-        {
-          "height": 2988,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104632378132617413124\">\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041c\u0438\u0445\u0430\u0439\u043b\u044e\u043a</a>"
-          ],
-          "photo_reference": "CmRaAAAA17Sdy24NP0kfNgMqsXCJmTSOooHqr7hu59QNrsin9xQrq5XvmbDUx-B7EV-dboS66eTzkuT0OBEpyMHxqjElQGx38CBmua4UuBAMUXliZzzSA8Ht6TmtQ8i3fo3GgWTREhCdCZ_LMHOjflEVPbyY3_BBGhRFMcHRntWA-c4jP13uLNagKmudFQ",
-          "width": 5312
-        }
-      ],
-      "rating": 4.5,
-      "website": "http://scotina.ru/",
-      "popularity": 0.4522988549037392,
-      "num_google_reviews": 1365,
-      "mood_params": [
-        0.008355215467625375,
-        0.03607738993634104,
-        0.03756289689397525,
-        0.11466712132108536,
-        0.02912636926228235,
-        0.13747579029700274,
-        0.19740622960719928,
-        0.04141902344898157,
-        0.09600975011546782,
-        0.051164399485319235,
-        0.22528574601449175,
-        0.020445739785236693
-      ],
-      "top_cats": [
-        "food",
-        "hospitality",
-        "original",
-        "shopping"
-      ],
-      "duration": 0.9375,
-      "global_cat_params": [
-        -0.0317209053627227,
-        -0.36285731260995757,
-        -1.2225244571093146,
-        -1.1067728549330584,
-        -0.6611209524010699,
-        -0.3451435254528789,
-        -0.04801296568930072,
-        -0.5092971158904515,
-        -0.4627619263655585,
-        -0.27827860216476774,
-        0.1439353379684194,
-        4.69426180858724,
-        -0.39134986794259463,
-        -0.8709373592998605,
-        -0.7836257886105079,
-        2.24741490029897,
-        -0.1367403613154399,
-        -1.8756018346609429,
-        -0.04568238301099681,
-        0.39031686363358464,
-        -0.6020807062666514,
-        0.7819426679688823,
-        1.5334459105829192,
-        -0.734992898806956,
-        -0.794294892982118,
-        0.8198518780788699,
-        0.3109107093252891,
-        -0.5576482923907241,
-        -0.73882522181654,
-        -1.098021449277977
-      ],
-      "global_mood_params": [
-        -0.16942115559097984,
-        -0.42078360274995574,
-        -0.44693434123564735,
-        -0.15837212945255483,
-        -0.6293687751717864,
-        -0.18037969485354155,
-        1.608463350983579,
-        0.48580470501047135,
-        -0.32696605079827945,
-        0.298458499615387,
-        3.0941226730017966,
-        -0.35357885626194474
-      ],
-      "quote_source": "go"
-    },
-    {
       "name": "Svyato-Georgiyevskiy Khram",
       "orig_name": "Svyato-Georgiyevskiy Khram",
       "place_id": "ChIJc0NFUoNP8EARrEvSLGHCs4Y",
@@ -4529,413 +4258,6 @@
         0.05026842595868861,
         0.2283928187083548,
         -0.5734810015187409
-      ],
-      "quote_source": "go"
-    },
-    {
-      "name": "Hilton Garden Inn Krasnodar",
-      "orig_name": "Hilton Garden Inn Krasnodar",
-      "place_id": "ChIJlX5eboJP8EARB5TcHFkWe4g",
-      "cat_params": [
-        0.1764828400146809,
-        0.05024054765942009,
-        0.1569913073531526,
-        0.1238170341257578,
-        0.21819323537773436,
-        0.10208919606453201,
-        0.30275534706151713,
-        0.0885081396178566,
-        0.21334938811144696,
-        0.1673225180672278,
-        0.04923287239568705,
-        0.34071206334693366,
-        0.127234503308882,
-        0.08031330504096772,
-        0.16368473386410026,
-        0.37150073979480425,
-        0.2644431838182345,
-        0.19303614106594416,
-        0.13116145665045506,
-        0.10820089581677773,
-        0.29711845195708736,
-        0.23240930537891974,
-        0.2024714750676348,
-        0.10795445736990064,
-        0.02830956521806852,
-        0.27893304279822434,
-        0.22493786755718798,
-        0.2557832722250266,
-        0.20544594067878383,
-        0.22854479490162413
-      ],
-      "quote": "",
-      "phone": "8 (861) 210-20-30",
-      "int_phone": "+7 861 210-20-30",
-      "hours": "",
-      "coordinates": {
-        "lat": 45.0210054,
-        "lng": 38.9687694
-      },
-      "address": "Ulitsa Krasnaya, 25/2, Krasnodar, Krasnodarskiy kray, Russia, 350000",
-      "photos": [
-        {
-          "height": 1066,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118413730249009539622\">Hilton Garden Inn Krasnodar</a>"
-          ],
-          "photo_reference": "CmRaAAAAR_WSv2cSHXunnY0ysn5FT51vs9IWJTI9Tb42OkktQ6jZzPBLdxRmD6xXbumR0u87iJuY9Hz1SEK-umnHoMv_8rfGO_MLAyVJl9GOb_gqvF74QMeMicuZeSWYVjIS8Xo2EhClFCA8G228Lb9iTDJa49fhGhTIrIFeaCrHqy-ud1DNR1qBVgjT7Q",
-          "width": 1600
-        },
-        {
-          "height": 640,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118413730249009539622\">Hilton Garden Inn Krasnodar</a>"
-          ],
-          "photo_reference": "CmRaAAAARAoPur6T7jPj-BvXK2OLNb6t3nm4xkSNgsyQP5U8iF6dHAJPPWbt6WtnhGbdnkOtSUDr_KpM6-Xf_Owwv0VcC4E8LkilN_V6j88EUpM8uP0NQzkJOSEUcbd9dpxuKP8sEhAiW-4RljBXtMHuU4tqWeNcGhT69DuXD4mrIqfaNtNzSWoxKwFmfg",
-          "width": 960
-        },
-        {
-          "height": 4608,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100925077282157577579\">Natalia Ivanova</a>"
-          ],
-          "photo_reference": "CmRaAAAAeM8a0zHB_C1j6FZ2e5YIfnGQD49SMlLawrChVu4JhhXt3n34D84FILlMe2vmA2VHMUgPVkjwWQjXUoyAEVIRQIU4u2EAHKlmxkLgGeU3Fx0DvN_MkcxyOQojX7fAmhyUEhDqsPQorGZpNTaf2FHo7g9lGhRgPZy_7IoYjtUq8NixzOy8eUsFZA",
-          "width": 2592
-        },
-        {
-          "height": 561,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118413730249009539622\">Hilton Garden Inn Krasnodar</a>"
-          ],
-          "photo_reference": "CmRaAAAAXbmHwqgHubRGlybD4DraGRppoORnfWFysy8udjVTiTVXF1lu8Im50CkaBAeYt1YsO7BiJJfvyEVKfT4GfwaDtEdJWZagEcy1ZBx-Q9vGc9-LY5JYHLmPGxCQhZvIGChpEhDaYUCxUG2fJmzpW6Ax9JyiGhQH-b1WhYt1u0TQeKJHm8P69H5r9A",
-          "width": 1440
-        },
-        {
-          "height": 1066,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118413730249009539622\">Hilton Garden Inn Krasnodar</a>"
-          ],
-          "photo_reference": "CmRaAAAARSTa95G74RBHRWvgXDW3fFYCBiaRKUL8Kx-iqGmOV7wawkr-qovP13WU6mB_XMeaq_Grwzmc_V2bqgUFHEzNiMbscnUj7UrW-UpQvOytezy1rFdRHqCkKxN791ug1fCNEhD6agKdajBghnRCZaveF1CBGhTK2gnLV77ppxC-eZz9xD5xUgIsCA",
-          "width": 1600
-        },
-        {
-          "height": 1066,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118413730249009539622\">Hilton Garden Inn Krasnodar</a>"
-          ],
-          "photo_reference": "CmRaAAAA5awKIwJqZy1rdQdUrHg_xIpHKozjdO5WusVp8L8NedX1K5TgdmG9cmZQMpt1aAHQrpeICum_RZPaJ1bzZQLKXqt3Ud4rNagnQ_9WAS2r1Ju49oQtpjdNiYT2bNTQFP2DEhDFPgP8xWZK7qZhvMLH56haGhSWFu5FIcCigPG10SvaGszZQ9GAzA",
-          "width": 1600
-        },
-        {
-          "height": 853,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118413730249009539622\">Hilton Garden Inn Krasnodar</a>"
-          ],
-          "photo_reference": "CmRaAAAAs0AztGeb3hIAtvJ9KRXASCaEXO1sJ4nnq5bseDYAhTVn5OF-X0HkEffK5P8iTOV1hgEhz_xjzt7uqxITBrLwdhLiwj7DUjcviN8_uAbGnZB6u1FttQMJcfdB1M9u-fDgEhBa7-8-OXStW2AX1khtDyo8GhQjpHOOS6PjCJzriOOROksNpOXcpQ",
-          "width": 1280
-        },
-        {
-          "height": 1066,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118413730249009539622\">Hilton Garden Inn Krasnodar</a>"
-          ],
-          "photo_reference": "CmRaAAAAgrD-LusQ7iIWFNROx2WVI9o_LhPG2OP3ca0dLUzpi9tzz_kuRREAUKBgYwum7dykXDoNUMt3ukUNN9voYrZRKdfK3yJvKSV21I7ftBFnrIUp89t1O4Jxm_Yc-7RMP2SuEhADGfLdzUK6FbSg8N-Hm4jLGhQSS5Xkly9iXSt0mWGJrhXVQlUeyA",
-          "width": 1600
-        },
-        {
-          "height": 2000,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118413730249009539622\">Hilton Garden Inn Krasnodar</a>"
-          ],
-          "photo_reference": "CmRaAAAAIlIHFLSiaaEQECPwBASRtJNXweVQ54dwMvKkx1nd_Tn5h7tie0CDu5nzzOEd4wNIPVXwflGFFlqlYQOipyoDXTg2mCe9zjEXfbFqa9g637UNWKcONL0J-anTbg1t4D9UEhBKzDnT3goOrviX2P5hKd9kGhR7dhdM2-TgbcscoybGM_kSznxkFQ",
-          "width": 3000
-        },
-        {
-          "height": 1365,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118413730249009539622\">Hilton Garden Inn Krasnodar</a>"
-          ],
-          "photo_reference": "CmRaAAAA8PGTEQCuIztVS1LGxTJh46lcmPIScVmai9ZSa--LcEVQGIOcOUBXelBxXlROxvaS_5qjQhIJmPMjV6vnOhEJpjW87iCK6UUUV9JhO5HBeiTjdagHg-lmR3_cCrC5YCPoEhDayEOijpMnSdb2PSdgZ0XAGhRM46RUmNyKpi60u04-h5pUl8mBFA",
-          "width": 2048
-        }
-      ],
-      "rating": 4.7,
-      "website": "https://www.hilton.ru/hotels/hilton-garden-inn-krasnodar/?WT.mc_id=zELWAKN0EMEA1GI2DMH3LocalSearch4DGGenericx6KRRGIGI",
-      "popularity": 0.4272673542399721,
-      "num_google_reviews": 1087,
-      "mood_params": [
-        0.0014403502335300711,
-        0.015298721190771913,
-        0.03785099157185314,
-        0.03571335356342308,
-        0.016362148991992308,
-        0.07359456977229686,
-        0.06585394205433005,
-        0.007564944255637537,
-        0.04635315841391907,
-        0.02544936574328371,
-        0.09602765239336432,
-        0.009865898650873877
-      ],
-      "top_cats": [
-        "hospitality",
-        "food",
-        "amusement",
-        "engineering"
-      ],
-      "duration": 0.8125,
-      "global_cat_params": [
-        0.19648412306421284,
-        -0.7315555789201073,
-        -0.651814853160562,
-        -0.7651393653322575,
-        -0.5207897073617662,
-        -0.5657323856902313,
-        -0.9760436198383692,
-        -1.3513387760161326,
-        0.11273371940279597,
-        -1.603949833648759,
-        -0.7490956466832888,
-        1.8972288528459589,
-        -1.338608099670442,
-        -0.9125698858502295,
-        -1.346727785212896,
-        2.3799759643180383,
-        -1.0895808200051258,
-        -1.0328487498081655,
-        -0.41986920689483004,
-        -0.527505079349617,
-        -1.1515357505721062,
-        -0.20832699551597134,
-        -0.611585407907795,
-        -0.558715787622076,
-        0.02956768342453086,
-        -0.5466535569721912,
-        -0.5885659562927348,
-        -1.050189626358044,
-        -0.5511144627308333,
-        -0.6831322273822007
-      ],
-      "global_mood_params": [
-        -0.6356862759229749,
-        -1.043947639517613,
-        -0.441712463454009,
-        -1.3782042592962287,
-        -0.91105866615813,
-        -0.9852554630372505,
-        -0.8742587479043732,
-        -0.8697290261682652,
-        -0.987131350779329,
-        -0.6922503380120145,
-        0.11214630188483901,
-        -1.0015870096332442
-      ],
-      "quote_source": "go"
-    },
-    {
-      "name": "Ibis Krasnodar Center",
-      "orig_name": "Ibis Krasnodar Center",
-      "place_id": "ChIJD4LS5ptP8EARJR1p70JRjxo",
-      "cat_params": [
-        0.13393258718754386,
-        0.0370747068215616,
-        0.23926939457622418,
-        0.14822731672075967,
-        0.1534651922408933,
-        0.16350063778793206,
-        0.320728360452495,
-        0.1870043674617765,
-        0.19589963347781378,
-        0.1872974112346407,
-        0.015406642586783674,
-        0.05909251353252032,
-        0.0992332567985053,
-        0.06774991400920066,
-        0.17080140982967512,
-        0.050194904459500964,
-        0.08558824054431098,
-        0.2718811203253138,
-        0.13073053800404497,
-        0.08675630065829476,
-        0.2570882657821555,
-        0.1333782808937601,
-        0.101633374196597,
-        0.14059491587695605,
-        0.03785476887033464,
-        0.1829161580004613,
-        0.21012356644933355,
-        0.12742616151995884,
-        0.073235747546223,
-        0.22015213757943014
-      ],
-      "quote": "",
-      "phone": "8 (861) 259-70-70",
-      "int_phone": "+7 861 259-70-70",
-      "hours": [
-        {
-          "open": {
-            "day": 0,
-            "time": "0000"
-          }
-        }
-      ],
-      "coordinates": {
-        "lat": 45.038137,
-        "lng": 38.977342
-      },
-      "address": "Krasnoarmeyskaya Ulitsa, 128, Krasnodar, Krasnodarskiy kray, Russia, 350015",
-      "photos": [
-        {
-          "height": 2413,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100822520863348513425\">ibis Krasnodar Center</a>"
-          ],
-          "photo_reference": "CmRaAAAAf1ZZDAy_sgXdbduEfUxFUXoFzYMhJ7yfVG9dBXqYjtWRQRr5imwgFkZ5OarzUEPZtZlB7sO20I7SNiak7XE9f7uBpAcv_ty2ju4c2BQY56CJ7LUvdTmbD9mHPIzvaLl-EhBZLBJRTRhf0L1MiHtCk1vlGhRqLMwnuccKxv6dOD5IQycZOfk_Lw",
-          "width": 3620
-        },
-        {
-          "height": 1365,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100822520863348513425\">ibis Krasnodar Center</a>"
-          ],
-          "photo_reference": "CmRaAAAAYzovEsuipDwJHNe7_W3DSKJtwlxk8Y9RIgbmq-N6OnAAz33BP5uBDQsqUDt5783H1nV9sJAyZMXw5Oea4WSMFzSWs7Y6umUS-VxbSvG_Zda7LiuB0iejI3EJgwPj0q_lEhDkglXjrjHDe26ELmm8AINPGhSdHqvB9ZJDQ1MI0K2lAEoGfbfqfA",
-          "width": 2048
-        },
-        {
-          "height": 2826,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100822520863348513425\">ibis Krasnodar Center</a>"
-          ],
-          "photo_reference": "CmRaAAAAHFeZ-iUxuJ7fJENYiERGSnRoU5DLyExifhj8lvxSBbmsjyiOpFJmDodkaJy0iqfkl0_BQdRK6jXwxhvCHLTsM-7bHEe_bX1hh-ITXwoRb2GsV2OgesdZ8Xy1YVo4Ksp0EhDmBAN0TuAIgFnKdW1BM0SbGhRnCLsw2vniZ1YI1sqSu8LqrHcljg",
-          "width": 4240
-        },
-        {
-          "height": 2826,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100822520863348513425\">ibis Krasnodar Center</a>"
-          ],
-          "photo_reference": "CmRaAAAAi3EAU2hkCQy2IBd5nV7s_l681UQK64dfqm6iDezglPA1Qz3EcegYHcKLFhwDfKPwEOD4xW_MYE0FbVik08d1uZQb0IkYAPWsx3i9sLeuK0AK5Pw2nhx7meDgHwRDOxi_EhAYxc8rBw548Uy8gxImxlqPGhTwGP0hX4OQyNVRzkZBmNTKvutFug",
-          "width": 4240
-        },
-        {
-          "height": 2826,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100822520863348513425\">ibis Krasnodar Center</a>"
-          ],
-          "photo_reference": "CmRaAAAAzq52gmXyNxahs5z3wXmP7wvcWD5GZmrnU3JxP81XgzviFS3NRvSFTCqaFJgvsUDq-mglIuaDLh7arLoCqP-XlTzz8NPZDYKcO2NvxLT5SChP653h6gURIc-FJTKleQ93EhDbxrVq2cdJvacRbZgCjle-GhSM4DCICfEvehrmXh_wCc56gnzRAg",
-          "width": 4240
-        },
-        {
-          "height": 2826,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100822520863348513425\">ibis Krasnodar Center</a>"
-          ],
-          "photo_reference": "CmRaAAAA_i_EprSwyV_gxlBBnxPBnD5jGxMkSZpKt0RI6o3ZSzOo183WtOhSA-WHWdK81QzRl3uF4K_39C31WpQ9Vm4nXP8bIAg3WRTfde6AkYYsozeJTZ4pqJrrqRpMiN63vXdoEhCzXTxeTSoDNRCEUkz-BUo6GhQgnbyM61Zar6FGz2We-W1BprsmCQ",
-          "width": 4240
-        },
-        {
-          "height": 2829,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100822520863348513425\">ibis Krasnodar Center</a>"
-          ],
-          "photo_reference": "CmRaAAAA9AH79mu1fNvEvXHcohPH33SX5WlOHRuTcK89dkFAIm3HGFehImJiLqvtjLQ6HBB2sJJMELsd37rGT5qp-4kw4-ZxGuoj5mjUqAlfzlkW07cQafAK761bK0bNwFtSvXNTEhALyva4jObMFfAu7MckU8-LGhShKlR8d15YO7IMTpBYubw4Ci_TSw",
-          "width": 4243
-        },
-        {
-          "height": 3201,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100822520863348513425\">ibis Krasnodar Center</a>"
-          ],
-          "photo_reference": "CmRaAAAAV08oLwoEfbnhVwaEdx56FxutesYgUMM_yDgIpp-vQY0--9nLFzg-FvmF0dieGyBjpDXiep2sWFmLiGiSE281bPifMVfRp7RP0tojMZGsuw2EWzBdMaR8Da5EXlaQOBIVEhBDmetuLxz3fEuQlOOVTqnZGhRfDTV6yZZyRKHsXDErAD1DKlx8XA",
-          "width": 4801
-        },
-        {
-          "height": 2283,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100822520863348513425\">ibis Krasnodar Center</a>"
-          ],
-          "photo_reference": "CmRaAAAAP5uHF7LR3nSn_0OB7O36P2DB_AOlXlsJ0IejDyHxcpfBANSR5kDizoqFu7oSllRx-E-_rbhr9DyoHC062z8UXbck-H2kGXQLFVoIE2QF2gDtLksTHwkSChu_VjtXIZ_EEhDKulLY9S6dwVfOEaDmqHFvGhSXE9yRf9ww3y4yasn-GAF2uvN0Vw",
-          "width": 3425
-        },
-        {
-          "height": 3456,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100822520863348513425\">ibis Krasnodar Center</a>"
-          ],
-          "photo_reference": "CmRaAAAAZCSx_bmPRKmiAcNYR47zRpkM3gXmzhn7U0DE0UY8xvjdrUjNarJvTZ2n0vPAIh-3J8wU7Mt9V8iWE35dzboLZthDz4vxKux6cIQAIXeRr8_mTp9EVgivf2X030OVtOcrEhD2GsWXYMMCjHm7LN2jr-w9GhQKIBVyIx4naKmRqwm1QESfa2tYOQ",
-          "width": 4608
-        }
-      ],
-      "rating": 4.6,
-      "website": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=9257&merchantid=seo-maps-RU-9257&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
-      "popularity": 0.4305699618298913,
-      "num_google_reviews": 1121,
-      "mood_params": [
-        0.0007560963352815856,
-        0.0016494390711136989,
-        0.006033100678657702,
-        0.005029496932399881,
-        0.0011570758311540352,
-        0.009020018734009377,
-        0.017038933196280664,
-        0.001119002383942135,
-        0.007441306613267542,
-        0.0029688644801673224,
-        0.01599201919869726,
-        0.002887773745038898
-      ],
-      "top_cats": [
-        "science",
-        "books",
-        "architecture",
-        "engineering"
-      ],
-      "duration": 1.125,
-      "global_cat_params": [
-        -0.31529351301493574,
-        -0.8894530118662882,
-        0.15606670792398522,
-        -0.5900403863314452,
-        -0.9215694361283245,
-        0.2504281332509111,
-        -0.7872434873821117,
-        -0.2613116310787258,
-        -0.14352272482642522,
-        -1.3930717795949472,
-        -1.445287933591107,
-        -0.7693049618596525,
-        -1.63976888629123,
-        -1.0056433492490982,
-        -1.2697342291676335,
-        -1.390673001074303,
-        -2.0581567882824667,
-        -0.21175690622027057,
-        -0.4253751652559065,
-        -0.9520846465413082,
-        -1.3470193073080818,
-        -1.1731678908072989,
-        -1.737451292331849,
-        -0.2554437676416399,
-        0.3073513940787298,
-        -1.25501090397841,
-        -0.727625062280287,
-        -1.88261999023691,
-        -1.353108526480925,
-        -0.7409476049441852
-      ],
-      "global_mood_params": [
-        -0.68182509647892,
-        -1.4532973360173271,
-        -1.0184295994234391,
-        -1.852268452165689,
-        -1.2466150346959937,
-        -1.7988668960241765,
-        -1.7955205784946162,
-        -1.1278276613843843,
-        -1.5044494637740649,
-        -1.5583441374246383,
-        -1.7342708960465958,
-        -1.4289924665580693
       ],
       "quote_source": "go"
     },
@@ -10065,6 +9387,279 @@
         0.9094547700448231,
         0.5906411208497947,
         1.321561138049372
+      ],
+      "quote_source": "go"
+    }
+  ],
+  "foods": [
+    {
+      "name": "Skotina",
+      "orig_name": "Skotina",
+      "place_id": "ChIJb4EtLcFP8EARqxcwehruPYo",
+      "cat_params": [
+        0.1575094012173506,
+        0.08098343309371554,
+        0.09886781891791409,
+        0.07619042846157802,
+        0.19552899806636714,
+        0.11868725443774564,
+        0.39110013346214934,
+        0.16459608623002492,
+        0.17416107485131574,
+        0.29289339049783264,
+        0.09262299877509596,
+        0.6361139657971753,
+        0.21530842406468628,
+        0.08593301329713504,
+        0.21573343314786347,
+        0.36020490085606827,
+        0.44039244517678716,
+        0.11211115074374506,
+        0.1604468360663992,
+        0.15455809601138987,
+        0.40963322345784037,
+        0.334050332174191,
+        0.39459105827727464,
+        0.08898216400190434,
+        0.0,
+        0.46416101493311757,
+        0.3207612806974039,
+        0.3317309854202469,
+        0.17450147757922382,
+        0.16831820445326398
+      ],
+      "quote": "",
+      "phone": "8 (861) 299-95-94",
+      "int_phone": "+7 861 299-95-94",
+      "hours": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "coordinates": {
+        "lat": 45.0228081,
+        "lng": 38.98725510000001
+      },
+      "address": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442 \"\u041f\u0435\u0440\u0435\u043a\u0440\u0435\u0441\u0442\u043e\u043a, Ulitsa Suvorova, 64, Krasnodar, Krasnodarskiy kray, Russia, 350033",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114101732141764022670\">Lin Don</a>"
+          ],
+          "photo_reference": "CmRaAAAAZZ9haPMjjCZL2Hr6GvnuR_ZGXajTP5hgO2wjN6yU4ASY_PAmQ4HbEhrGavVpsxOhp_CCrPTXoJ3LfzHA9nX6gN7kt2U_zJH2BQetO7MrJpxaCgp-UKQdkhuq31xMPBG2EhDKsL87e2x1M-Ky3RO0A9acGhSgtZxZNLTxjemonaGmyiTEbgxXYw",
+          "width": 4032
+        },
+        {
+          "height": 1667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111659911663767506101\">\u0421\u043a\u043e\u0442\u0438\u043d\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAYcA8FCSPZa-diU8iEYuJz-bOMgPWoTTO01Qayxolgz8V181b-8jXEcXrETxqKmUq4k71jt8yuqhaCyA1kWc-T0n8XDe7khU9OuAfyl5gTNWD-Xxbw0zhnnFHoPHpJZ0tEhAvjJcxW4zGgTA1655VT-BiGhRxggzUEp4asGc9xEyZ5zpQ34r8aw",
+          "width": 2500
+        },
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103913588968928643465\">\u041f\u0430\u0432\u0435\u043b \u041c\u0438\u0440\u043e\u0448\u043d\u0438\u043a\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAAQggS_hdVmGPq_W5la4FtgEaCaWtzXIc_6EQMA7aBEX29Kgaw3W8aKgYRl_norCZbO8Keawa0Z8OOJlq2Wb96AURrfBV5T165ySIkWuwBOtu0OFIkmpS35ilCwl47ogWhEhAZaeeXnluKWFXmpH3e1wv4GhSBYAsBoM_eYlMrB96gk54PizZrAA",
+          "width": 4608
+        },
+        {
+          "height": 2333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111659911663767506101\">\u0421\u043a\u043e\u0442\u0438\u043d\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAXUGwKL-rl_hWXVmxZDr04P9ItAcn9Iq8kAQAe_FZMzUIR49N247eu0I2fXweQVFfyDD3yjCPIgYtZrdQ_LS47LeDwq7WZAS7Lslw_iVygbh6yz-A-b6osx6_dQJMH3eLEhD3bzNZ_c0S3k01lMNI6FuyGhQ2ZqEhV6XKaoul7DC9bpRiI8g44g",
+          "width": 3500
+        },
+        {
+          "height": 2881,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116436966022504048397\">Evgeny Firsov</a>"
+          ],
+          "photo_reference": "CmRaAAAAibQ77BD4imYD_18tBGU9NTsr8i4XWha5x8dKHmFQYH9aXNWxCPbBcT5hm1AN8DI2uYBIFFP2SqfKiFnvcYAG6x8KBS5XTkKAoRrNnqek5vT-Uh9uUm37ZT4A7ocV7IihEhDx0jfZdpzaJEQu66gSzQnFGhRSKrx6Q8DtJUB0rSynzJ1bLy1ENA",
+          "width": 4032
+        },
+        {
+          "height": 1667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111659911663767506101\">\u0421\u043a\u043e\u0442\u0438\u043d\u0430</a>"
+          ],
+          "photo_reference": "CmRaAAAAdx-omZsWD82T6Vc8x5btK2cHkBRFdwLU_mcYpIcxTJuV2_FcK3OY0oY7HVsXgz1-QHu8aKMUWQP_N0GsD_fA5yMTHi2Nvf8eBCoptA85aBzvOdAMmOjp-KAAC5o__HMSEhB9DGmlikdxFzQERSstKGJrGhRe6sNn4OyMAmK7N2X-34mgVpyEvw",
+          "width": 2500
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100210072969943537374\">\u0410\u043d\u0434\u0440\u0435\u0439 \u0422\u0430\u0431\u0430\u0447\u043a\u043e\u0432</a>"
+          ],
+          "photo_reference": "CmRaAAAA55qXauWbLlTkRXbHu554YBnFrEGLwlm4vQFQ0plI_TJMNMGCwTePi7mEJ74AkMb3SBbE8JCmqBGXbgwTlzKZJWwn70avKER9r0juaUuXePgHQ9d4ON6Wz5uo3iNDSYbwEhCi0Gtw8PSyJsI8F37HaxGZGhSjc9rfRfV1Fkh8bDV2GCTNTLxKnQ",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105929873127377770378\">Vasja Pupkin</a>"
+          ],
+          "photo_reference": "CmRaAAAAA2HOJJ38gL-RZcIXT7A_XCFABKtLUWnRExn3d4EWiK3amTlyt1vyw4RB-3YUrLTb7L0v5nAxxGFVqYxaZHYkNuyRkE5B73_T6jyYIjwVSYMlYU7h5Hqrb2b3nvlXBVUkEhBHmqJByyKSj5mYoBAvArp-GhQzMpWWpG8ts4KuD4gRG_BtvTBI3A",
+          "width": 4032
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116698570512459608031\">Alexey Trishin</a>"
+          ],
+          "photo_reference": "CmRaAAAAIff5DWjxXNOyOVchLLlq3DPXo0_tjjdtGv7PzKQl4fm40INNWU33xjamBpplv3r4kckdSPdjU_n2CdJC-M_O10GBYsCJEB9ilb5nfhZc9AXnXyIwDPJLvaHnG26yxwSGEhB21Aj_saktWx3p6gjE6YFcGhSmC4eXQmaOtD76XImNn0r_XaASNQ",
+          "width": 3024
+        },
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104632378132617413124\">\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041c\u0438\u0445\u0430\u0439\u043b\u044e\u043a</a>"
+          ],
+          "photo_reference": "CmRaAAAA17Sdy24NP0kfNgMqsXCJmTSOooHqr7hu59QNrsin9xQrq5XvmbDUx-B7EV-dboS66eTzkuT0OBEpyMHxqjElQGx38CBmua4UuBAMUXliZzzSA8Ht6TmtQ8i3fo3GgWTREhCdCZ_LMHOjflEVPbyY3_BBGhRFMcHRntWA-c4jP13uLNagKmudFQ",
+          "width": 5312
+        }
+      ],
+      "rating": 4.5,
+      "website": "http://scotina.ru/",
+      "popularity": 0.4522988549037392,
+      "num_google_reviews": 1365,
+      "mood_params": [
+        0.008355215467625375,
+        0.03607738993634104,
+        0.03756289689397525,
+        0.11466712132108536,
+        0.02912636926228235,
+        0.13747579029700274,
+        0.19740622960719928,
+        0.04141902344898157,
+        0.09600975011546782,
+        0.051164399485319235,
+        0.22528574601449175,
+        0.020445739785236693
+      ],
+      "top_cats": [
+        "food",
+        "hospitality",
+        "original",
+        "shopping"
+      ],
+      "duration": 0.9375,
+      "global_cat_params": [
+        -0.0317209053627227,
+        -0.36285731260995757,
+        -1.2225244571093146,
+        -1.1067728549330584,
+        -0.6611209524010699,
+        -0.3451435254528789,
+        -0.04801296568930072,
+        -0.5092971158904515,
+        -0.4627619263655585,
+        -0.27827860216476774,
+        0.1439353379684194,
+        4.69426180858724,
+        -0.39134986794259463,
+        -0.8709373592998605,
+        -0.7836257886105079,
+        2.24741490029897,
+        -0.1367403613154399,
+        -1.8756018346609429,
+        -0.04568238301099681,
+        0.39031686363358464,
+        -0.6020807062666514,
+        0.7819426679688823,
+        1.5334459105829192,
+        -0.734992898806956,
+        -0.794294892982118,
+        0.8198518780788699,
+        0.3109107093252891,
+        -0.5576482923907241,
+        -0.73882522181654,
+        -1.098021449277977
+      ],
+      "global_mood_params": [
+        -0.16942115559097984,
+        -0.42078360274995574,
+        -0.44693434123564735,
+        -0.15837212945255483,
+        -0.6293687751717864,
+        -0.18037969485354155,
+        1.608463350983579,
+        0.48580470501047135,
+        -0.32696605079827945,
+        0.298458499615387,
+        3.0941226730017966,
+        -0.35357885626194474
       ],
       "quote_source": "go"
     }
