@@ -117,8 +117,6 @@ def uploadImages(city_dir_name, api_key="AIzaSyB1z27ziPvK-fJFinlz_gzgPbPt4XR55Bk
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getcwd() + "/CLOUD_ACCESS/" + "creds.json"
 
-# uploadImages("STRASBOURG_GE_FR")
-
 # reached = False
 # for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES/"):
 #     for city in dirs:
@@ -126,30 +124,3 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getcwd() + "/CLOUD_ACCESS/" + 
 #             uploadImages(city)
 #         if city == "FUZHOU_FJ_CN":
 #             reached = True
-
-# uploadImages("NEW_YORK_CITY_NY_US")
-# uploadSelection()
-
-
-# uploadImages("OMAHA_NE_US")
-# uploadImages("TULSA_OK_US")
-# uploadImages("WICHITA_KS_US")
-# uploadImages("TEL_AVIV_GD_IL")
-print("ok")
-# uploadImages("ZARAGOZA_AR_ES")
-# uploadImages("YOKOHAMA_KN_JP")
-# uploadImages("XINING_QH_CN")
-# uploadImages("XIAN_SA_CN")
-# uploadImages("TURKU_SF_FI")
-# uploadImages("TUNIS_TU_TN")
-# uploadImages("TRONDHEIM_TR_NO")
-# uploadImages("TBILISI_TB_GE")
-# uploadImages("STAVANGER_RO_NO")
-# uploadImages("SANTO_DOMINGO_ND_DO")
-# uploadImages("RIYADH_RI_SA")
-# uploadImages("PORT_AU_PRINCE_OU_HT")
-# uploadImages("PHUKET_PH_TH")
-# uploadImages("HO_CHI_MINH_CITY_SE_VN")
-uploadImages("PALMA_BA_ES")
-uploadImages("HERAKLION_CR_GR")
-uploadImages("GEORGE_TOWN_PE_MY")

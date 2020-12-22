@@ -117,7 +117,11 @@ def main(city_dir):
                                 transit_time_matrix[i][j] = 60*int(time_txt.split('h')[0])+int(time_txt.split('h')[1].split('min')[0].split(' ')[1])
                         else:
                             if len(time_txt.split('min')[0]) > 0:
-                                transit_time_matrix[i][j] = int(time_txt.split('min')[0])
+                                if 'day' in time_txt.split('min')[0]:
+                                    transit_dist_walk_matrix[i][j] = np.NaN
+                                    transit_time_matrix[i][j] = np.NaN
+                                else:
+                                    transit_time_matrix[i][j] = int(time_txt.split('min')[0])
                         break
                     transit_dist_walk_matrix[i][j] = np.NaN
                     transit_time_matrix[i][j] = np.NaN
@@ -279,8 +283,8 @@ def add_avg_distance():
 # main("YELLOWKNIFE_NT_CA")
 # main("YEKATERINBURG_SV_RU")
 # main("XINING_QH_CN")
-# main("XIAN_SA_CN") #
-# main("WUHAN_HB_CN") #
+# main("XIAN_SA_CN")
+# main("WUHAN_HB_CN")
 # main("WINNIPEG_MB_CA")
 # main("WICHITA_KS_US")
 # main("WELLINGTON_NI_NZ")
@@ -296,13 +300,12 @@ def add_avg_distance():
 # main("VARNA_VA_BG")
 # main("VANCOUVER_BC_CA")
 # main("VALENCIA_VA_ES")
-# main("UPPSALA_UP_SE") # 
+# main("UPPSALA_UP_SE")
 # main("TYUMEN_TY_RU")
 # main("TURKU_SF_FI")
 # main("TURIN_PI_IT")
 # main("TUNIS_TU_TN")
 # main("TULSA_OK_US")
-
 # main("TUCSON_AZ_US")
 # main("TRONDHEIM_TR_NO")
 # main("TROMSO_TF_NO")
@@ -313,19 +316,18 @@ def add_avg_distance():
 # main("BANFF_AB_CA")
 # main("BANGKOK_CT_TH")
 # main("BARCELONA_CA_ES")
-
 # main("BARI_AP_IT") # switched NaN assignments previously set to cycling
 # main("BASEL_BS_CH")
 # main("BATH_EN_GB")
 # main("TOULOUSE_OC_FR")
 # main("TORONTO_ON_CA")
 # main("TOKYO_KA_JP")
-# main("TIJUANA_BC_MX") # remove SD places?
+# main("TIJUANA_BC_MX")
 # main("TIANJIN_TJ_CN")
 # main("THESSALONIKI_MC_GR")
 # main("THE_HAGUE_SH_NL")
-# main("TEL_AVIV_GD_IL") #
-# main("TEHRAN_TE_IR") #
+# main("TEL_AVIV_GD_IL")
+# main("TEHRAN_TE_IR")
 # main("TBILISI_TB_GE")
 # main("TASHKENT_TA_UZ")
 # main("TAMPA_FL_US")
@@ -360,13 +362,13 @@ def add_avg_distance():
 # main("SAN_FRANCISCO_CA_US")
 # main("SAN_DIEGO_CA_US")
 # main("SAN_ANTONIO_TX_US")
-# main("SALZBURG_SA_AT") #
+# main("SALZBURG_SA_AT")
 # main("SALT_LAKE_CITY_UT_US")
 # main("SAINT_PETERSBURG_SP_RU")
 # main("SACRAMENTO_CA_US")
 # main("ROVANIEMI_LA_FI")
 # main("ROTTERDAM_SH_NL")
-# main("ROSTOV_ON_DON_RO_RU") #
+# main("ROSTOV_ON_DON_RO_RU")
 # main("ROME_LA_IT")
 # main("RIYADH_RI_SA")
 # main("RIO_DE_JANEIRO_RJ_BR")
@@ -416,7 +418,7 @@ def add_avg_distance():
 # main("NARA_KA_JP")
 # main("NAPLES_CA_IT")
 # main("NANTES_PL_FR")
-# main("NANJING_JS_CN") #
+# main("NANJING_JS_CN")
 # main("NAIROBI_NA_KE")
 # main("NAGOYA_CH_JP")
 # main("MUNICH_BA_DE")
@@ -442,7 +444,7 @@ def add_avg_distance():
 # main("MARSEILLE_AC_FR")
 # main("MANILA_CR_PH")
 # main("MANCHESTER_EN_GB")
-# main("MALMO_SC_SE") #
+# main("MALMO_SC_SE")
 # main("MALAGA_AN_ES")
 # main("MALACCA_MK_MY")
 # main("MADURAI_TA_IN")
@@ -459,7 +461,7 @@ def add_avg_distance():
 # main("LISBON_LI_PT")
 # main("LIMERICK_LI_IE")
 # main("LIMA_LD_PE")
-# main("LILLE_HF_FR") #
+# main("LILLE_HF_FR")
 # main("LHASA_TI_CN")
 # main("LEIPZIG_SA_DE")
 # main("LEEDS_EN_GB")
@@ -491,12 +493,12 @@ def add_avg_distance():
 # main("ISLAMABAD_CT_PK")
 # main("IRKUTSK_IR_RU")
 # main("INVERNESS_SC_GB")
-# main("INNSBRUCK_TY_AT") #
+# main("INNSBRUCK_TY_AT")
 # main("INDIANAPOLIS_IN_US")
 # main("INCHEON_SE_KR")
 # main("IBIZA_BA_ES")
 # main("HYDERABAD_AP_IN")
-# main("HOUSTON_TX_US") # add
+main("HOUSTON_TX_US")
 # main("HONOLULU_HI_US")
 # main("HONG_KONG_HK_CN")
 # main("HOI_AN_QN_VN")
@@ -520,8 +522,59 @@ def add_avg_distance():
 # main("GENOA_LI_IT")
 # main("GENEVA_GE_CH")
 # main("GALWAY_GA_IE")
-
+# main("FUZHOU_FJ_CN")
+# main("FUKUOKA_KY_JP")
+# main("FRESNO_CA_US")
+# main("FRANKFURT_HE_DE")
+# main("FORT_WORTH_TX_US")
+# main("FLORENCE_TU_IT")
+# main("EL_PASO_TX_US")
+# main("EDMONTON_AB_CA")
+# main("EDINBURGH_SC_GB")
+# main("DUSSELDORF_NR_DE")
+# main("DURHAM_NC_US")
+# main("DUBROVNIK_DN_HR")
+# main("DUBLIN_LE_IE")
+# main("DUBAI_DU_AE")
+# main("DRESDEN_SA_DE")
+# main("DORTMUND_NR_DE")
+# main("DOHA_AD_QA")
+# main("DHAKA_DH_BD")
+# main("DETROIT_MI_US")
+# main("DES_MOINES_IA_US")
+# main("DENVER_CO_US")
+# main("DALLAS_TX_US")
+# main("DAEGU_GY_KR")
+# main("CINCINNATI_OH_US")
 # main("CHRISTCHURCH_SI_NZ")
-
+# main("BUSAN_YE_KR")
+# main("BUFFALO_NY_US")
+# main("BUENOS_AIRES_BA_AR")
+# main("BUDAPEST_CH_HU")
+# main("BUCHAREST_BU_RO")
+# main("BRUSSELS_FC_BE")
+# main("BRISTOL_EN_GB")
+# main("BRISBANE_QL_AU")
+# main("BRIGHTON_EN_GB")
+# main("BREMEN_BR_DE")
+# main("BORDEAUX_NA_FR")
+# main("BOLOGNA_ER_IT")
+# main("BOGOTA_DC_CO")
+# main("BLOEMFONTEIN_FS_ZA")
+# main("BLACKPOOL_EN_GB")
+# main("BIRMINGHAM_EN_GB")
+# main("BIRMINGHAM_AL_US")
+# main("BILBAO_BA_ES")
+# main("BERN_BE_CH")
+# main("BERLIN_BE_DE")
+# main("BERGEN_VE_NO")
+# main("BENGALURU_KA_IN")
+# main("BELGRADE_BE_RS")
+# main("BELFAST_NI_GB")
+# main("BEIRUT_BE_LB")
+# main("BEIJING_BJ_CN")
+# main("COLOGNE_NR_DE")
+# main("CORK_CO_IE")
+# main("CUSCO_CU_PE")
 # add_avg_distance()
 # add final city configs
