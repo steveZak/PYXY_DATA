@@ -102,17 +102,22 @@ def configNeeded(city_dir):
     return True
 
 
-for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES"):
-    for city_dir in dirs:
-        # if isMetadataGathered(city_dir) and isTextMetadataFinal(city_dir) and isTextFinal(city_dir):
-        if isMetadataGathered(city_dir) and isTextMetadataFinal(city_dir) and configNeeded(city_dir):
-            print(city_dir)
-            generateCityTrips(city_dir)
+# for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES"):
+#     for city_dir in dirs:
+#         # if isMetadataGathered(city_dir) and isTextMetadataFinal(city_dir) and isTextFinal(city_dir):
+#         if isMetadataGathered(city_dir) and isTextMetadataFinal(city_dir) and configNeeded(city_dir):
+#             print(city_dir)
+#             generateCityTrips(city_dir)
+
+
+# for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES"):
+#     for city_dir in dirs:
+#         # if isMetadataGathered(city_dir) and isTextMetadataFinal(city_dir) and isTextFinal(city_dir):
+#         if isMetadataGathered(city_dir) and isTextMetadataFinal(city_dir):
+#             print(city_dir)
+#             generateCityConfigs(city_dir)
 
 
 for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES"):
     for city_dir in dirs:
-        # if isMetadataGathered(city_dir) and isTextMetadataFinal(city_dir) and isTextFinal(city_dir):
-        if isMetadataGathered(city_dir) and isTextMetadataFinal(city_dir) and configNeeded(city_dir):
-            print(city_dir)
-            generateCityConfigs(city_dir)
+        generateCityConfigs(city_dir)

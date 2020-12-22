@@ -498,7 +498,7 @@ def add_avg_distance():
 # main("INCHEON_SE_KR")
 # main("IBIZA_BA_ES")
 # main("HYDERABAD_AP_IN")
-main("HOUSTON_TX_US")
+# main("HOUSTON_TX_US")
 # main("HONOLULU_HI_US")
 # main("HONG_KONG_HK_CN")
 # main("HOI_AN_QN_VN")
@@ -576,5 +576,5 @@ main("HOUSTON_TX_US")
 # main("COLOGNE_NR_DE")
 # main("CORK_CO_IE")
 # main("CUSCO_CU_PE")
+
 # add_avg_distance()
-# add final city configs
