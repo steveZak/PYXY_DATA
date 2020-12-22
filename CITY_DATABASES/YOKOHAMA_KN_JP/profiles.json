@@ -197,7 +197,9 @@
         "walking",
         "nature"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sankeien Garden",
@@ -467,7 +469,9 @@
         "walking",
         "food"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Cup Noodles Museum",
@@ -727,7 +731,9 @@
         "original",
         "cosmopolitan"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sail Training Ship NIPPON MARU",
@@ -987,7 +993,9 @@
         "art",
         "science"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Port Museum",
@@ -1247,7 +1255,9 @@
         "architecture",
         "water"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Landmark Tower",
@@ -1453,7 +1463,9 @@
         "fashion",
         "views"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "SKY GARDEN",
@@ -1723,7 +1735,9 @@
         "nightlife",
         "instagram"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Red Brick Warehouse #2",
@@ -1993,7 +2007,9 @@
         "fashion",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Hakkeijima Sea Paradise",
@@ -2263,7 +2279,9 @@
         "amusement",
         "family"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Park",
@@ -2469,7 +2487,9 @@
         "water",
         "beach"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Shin-Yokohama Ramen Museum",
@@ -2739,7 +2759,9 @@
         "shopping",
         "movies"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Municipal Nogeyama Zoo",
@@ -2999,7 +3021,9 @@
         "family",
         "original"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zoorasia, Yokohama Municipal Zoo",
@@ -3259,7 +3283,9 @@
         "walking",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Grand Mall Park",
@@ -3465,7 +3491,9 @@
         "food",
         "walking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mitsuike Park",
@@ -3671,7 +3699,9 @@
         "original",
         "hiking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum Shop at Yokohama Museum of Art",
@@ -3931,7 +3961,9 @@
         "books",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "NYK Hikawamaru",
@@ -4191,7 +4223,9 @@
         "military",
         "engineering"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Marine Tower",
@@ -4390,7 +4424,9 @@
         "shopping",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Yokohama Foreign General Cemetery",
@@ -4650,7 +4686,9 @@
         "original",
         "architecture"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "K\u014dtoku-in",
@@ -4849,7 +4887,9 @@
         "movies",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zounohana Park",
@@ -5055,7 +5095,9 @@
         "food",
         "beach"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Observatory of Harbor viewing hill park",
@@ -5261,7 +5303,9 @@
         "nature",
         "beach"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yamate Italian Garden",
@@ -5531,7 +5575,9 @@
         "beach",
         "food"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Trick Art Cruise",
@@ -5801,7 +5847,9 @@
         "instagram",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kodomo no Kuni",
@@ -6061,7 +6109,9 @@
         "friends",
         "walking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Osanbashi Pier Building",
@@ -6260,7 +6310,9 @@
         "beach",
         "views"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Hara Model Railway Museum",
@@ -6459,7 +6511,9 @@
         "family",
         "movies"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "\u6c7d\u8eca\u9053",
@@ -6665,7 +6719,9 @@
         "walking",
         "food"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Maioka Park",
@@ -6871,7 +6927,9 @@
         "water",
         "amusement"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Nissan Gallery",
@@ -7141,7 +7199,9 @@
         "fashion",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Motomachi Park",
@@ -7347,7 +7407,9 @@
         "hiking",
         "amusement"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mitsubishi Minatomirai Industrial Museum",
@@ -7607,7 +7669,9 @@
         "science",
         "amusement"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Shomyoji",
@@ -7806,7 +7870,9 @@
         "hiking",
         "movies"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Japan Coast Guard Museum Yokohama",
@@ -8066,7 +8132,9 @@
         "military",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Rinko Park",
@@ -8272,7 +8340,9 @@
         "views",
         "walking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Orbi Yokohama",
@@ -8542,7 +8612,9 @@
         "movies",
         "science"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Takashima Suisaisen Park",
@@ -8748,7 +8820,9 @@
         "views",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Takashima Central Park",
@@ -8954,7 +9028,9 @@
         "architecture",
         "water"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Hasedera",
@@ -9224,7 +9300,9 @@
         "instagram",
         "nature"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tsurugaoka Hachiman-g\u016b",
@@ -9494,7 +9572,9 @@
         "history",
         "cosmopolitan"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Chinatown",
@@ -9693,7 +9773,9 @@
         "nightlife",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Cosmoworld",
@@ -9953,7 +10035,9 @@
         "friends",
         "walking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Port Opening Memorial Hall",
@@ -10152,7 +10236,9 @@
         "hospitality",
         "original"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Bay Bridge",
@@ -10358,7 +10444,9 @@
         "architecture",
         "instagram"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Negishi Forest Park",
@@ -10564,7 +10652,9 @@
         "books",
         "cosmopolitan"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Intl Passenger Terminal",
@@ -10763,7 +10853,9 @@
         "views",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Shinyokohama Ekimae Park",
@@ -10969,7 +11061,9 @@
         "sport",
         "walking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yokohama Municipal Kanazawa Zoo",
@@ -11229,7 +11323,9 @@
         "nature",
         "family"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Masobyo Temple",
@@ -11499,7 +11595,9 @@
         "water",
         "walking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Japanese Overseas Migration Museum",
@@ -11759,7 +11857,9 @@
         "culture",
         "military"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Shinjuku Gyoen National Garden",
@@ -12019,7 +12119,9 @@
         "beach",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Iseyama Kotaijingu",
@@ -12289,7 +12391,9 @@
         "walking",
         "cosmopolitan"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Equine Museum of Japan",
@@ -12549,7 +12653,9 @@
         "original",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Nojima Park",
@@ -12755,7 +12861,9 @@
         "water",
         "walking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Cosmo Clock 21",
@@ -13015,7 +13123,9 @@
         "science",
         "views"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ikuta Ryokuchi Park",
@@ -13221,7 +13331,9 @@
         "water",
         "hiking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mikasa Park",
@@ -13491,7 +13603,9 @@
         "amusement",
         "beach"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Engakuji",
@@ -13761,7 +13875,9 @@
         "engineering",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Fujiko F Fujio Museum",
@@ -14021,7 +14137,9 @@
         "fashion",
         "books"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

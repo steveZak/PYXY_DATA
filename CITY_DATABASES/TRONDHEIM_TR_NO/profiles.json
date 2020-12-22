@@ -204,7 +204,9 @@
         "military",
         "hiking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Nidaros Cathedral",
@@ -474,7 +476,9 @@
         "original",
         "art"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kristiansten Festning",
@@ -744,7 +748,9 @@
         "original",
         "instagram"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tr\u00f8ndelag Folk Museum",
@@ -1004,7 +1010,9 @@
         "military",
         "culture"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Archbishop's Palace, Trondheim",
@@ -1274,7 +1282,9 @@
         "architecture",
         "military"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tyholtt\u00e5rnet",
@@ -1544,7 +1554,9 @@
         "nightlife",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ringve Music Museum",
@@ -1804,7 +1816,9 @@
         "movies",
         "original"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Vitensenteret i Trondheim",
@@ -2074,7 +2088,9 @@
         "architecture",
         "fashion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "National Museum of Decorative Arts",
@@ -2334,7 +2350,9 @@
         "art",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Rockheim",
@@ -2594,7 +2612,9 @@
         "books",
         "original"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "NTNU Vitenskapsmuseet",
@@ -2854,7 +2874,9 @@
         "art",
         "original"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Armoury",
@@ -3053,7 +3075,9 @@
         "military",
         "architecture"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Trondheim Kunstmuseum",
@@ -3303,7 +3327,9 @@
         "architecture",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Trondheim Maritime Museum",
@@ -3563,7 +3589,9 @@
         "engineering",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Stiftsg\u00e5rden",
@@ -3762,7 +3790,9 @@
         "military",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Pirbadet",
@@ -4032,7 +4062,9 @@
         "walking",
         "fashion"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Korsvika",
@@ -4238,7 +4270,9 @@
         "walking",
         "water"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bymarka",
@@ -4444,7 +4478,9 @@
         "walking",
         "beach"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bakke Bru",
@@ -4643,7 +4679,9 @@
         "religion",
         "engineering"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Emigrant Monument - Leiv Eiriksson Statue",
@@ -4849,7 +4887,9 @@
         "history",
         "views"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "NTNU Ringve Botanical Garden",
@@ -5055,7 +5095,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Nidelva",
@@ -5254,7 +5296,9 @@
         "beach",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Klementskirken",
@@ -5524,7 +5568,9 @@
         "original",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Munkholmen",
@@ -5723,7 +5769,9 @@
         "beach",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Trampe Bicycle Lift",
@@ -5993,7 +6041,9 @@
         "family",
         "animals"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Baklandet Skydsstation",
@@ -6263,7 +6313,9 @@
         "hospitality",
         "animals"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ravnkloa",
@@ -6533,7 +6585,9 @@
         "water",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Trondheim S",
@@ -6732,7 +6786,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Trondheim by Boat",
@@ -6938,7 +6994,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Folk og Fe",
@@ -7188,7 +7246,9 @@
         "animals",
         "science"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tautra kloster",
@@ -7387,7 +7447,9 @@
         "fashion",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Studentersamfundet i Trondheim",
@@ -7586,7 +7648,9 @@
         "food",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Trondheim Fjord",
@@ -7785,7 +7849,9 @@
         "engineering",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Svingbrua",
@@ -7936,7 +8002,9 @@
         "history",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Wayback Trondheim",
@@ -8105,7 +8173,9 @@
         "engineering",
         "music"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Hegra Fortress",
@@ -8375,7 +8445,9 @@
         "original",
         "hiking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Stj\u00f8rdal museum V\u00e6rnes",
@@ -8635,7 +8707,9 @@
         "engineering",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "V\u00e6rnes church",
@@ -8834,7 +8908,9 @@
         "hospitality",
         "art"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Crown Regalia",
@@ -8952,7 +9028,9 @@
         "movies",
         "art"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Escape Hunt Trondheim",
@@ -9202,7 +9280,9 @@
         "animals",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

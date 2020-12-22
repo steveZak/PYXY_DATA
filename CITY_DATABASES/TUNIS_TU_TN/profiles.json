@@ -268,7 +268,9 @@
         "fashion",
         "sport"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dougga",
@@ -538,7 +540,9 @@
         "engineering",
         "original"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Belvedere Park",
@@ -798,7 +802,9 @@
         "art",
         "food"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Carthage Land Les Berges du Lac",
@@ -1068,7 +1074,9 @@
         "religion",
         "amusement"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Royal Mausoleum of Tourbet el Bey",
@@ -1338,7 +1346,9 @@
         "culture",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Djerba Explore Park",
@@ -1608,7 +1618,9 @@
         "culture",
         "engineering"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "El Jem Amphitheatre",
@@ -1878,7 +1890,9 @@
         "original",
         "history"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bardo National Museum",
@@ -2077,7 +2091,9 @@
         "original",
         "books"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kasbah Mosque \u0645\u0633\u062c\u062f",
@@ -2276,7 +2292,9 @@
         "beach",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Carthageland",
@@ -2546,7 +2564,9 @@
         "amusement",
         "fashion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Byrsa Hill",
@@ -2806,7 +2826,9 @@
         "culture",
         "military"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ribat",
@@ -3066,7 +3088,9 @@
         "culture",
         "cosmopolitan"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Antonine Baths",
@@ -3336,7 +3360,9 @@
         "architecture",
         "instagram"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sousse Ribat",
@@ -3596,7 +3622,9 @@
         "shopping",
         "instagram"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Lake of Tunis",
@@ -3731,7 +3759,9 @@
         "religion",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Municipal Market",
@@ -4001,7 +4031,9 @@
         "books",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Cathedral of St Vincent de Paul",
@@ -4200,7 +4232,9 @@
         "culture",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "\u0645\u0646\u062a\u0632\u0647 \u062d\u0646\u0628\u0639\u0644",
@@ -4470,7 +4504,9 @@
         "science",
         "animals"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Djerbahood",
@@ -4676,7 +4712,9 @@
         "shopping",
         "instagram"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zaytuna Mosque",
@@ -4882,7 +4920,9 @@
         "history",
         "culture"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dar Lasram",
@@ -5132,7 +5172,9 @@
         "original",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Friguia Park",
@@ -5392,7 +5434,9 @@
         "amusement",
         "sport"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Madrasa Slimania",
@@ -5591,7 +5635,9 @@
         "religion",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dar Ben Abdallah",
@@ -5861,7 +5907,9 @@
         "architecture",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sousse Archaeological Museum",
@@ -6121,7 +6169,9 @@
         "culture",
         "military"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mausoleum of Habib Bourguiba",
@@ -6391,7 +6441,9 @@
         "religion",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Hammamet Medina",
@@ -6597,7 +6649,9 @@
         "food",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum Dar Essid",
@@ -6867,7 +6921,9 @@
         "culture",
         "history"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Djerba Crocodile Farm",
@@ -7137,7 +7193,9 @@
         "original",
         "family"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sidi Youssef Dey Mosque",
@@ -7336,7 +7394,9 @@
         "religion",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kobba Bent el Rey",
@@ -7606,7 +7666,9 @@
         "science",
         "culture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Roman Amphitheatre",
@@ -7805,7 +7867,9 @@
         "history",
         "cosmopolitan"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kasbah",
@@ -8075,7 +8139,9 @@
         "engineering",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jebil National Park",
@@ -8281,7 +8347,9 @@
         "hiking",
         "cosmopolitan"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Oceanographic Museum",
@@ -8601,7 +8669,9 @@
         "science",
         "movies"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Musee Du Patrimoine Traditionnel De Djerba",
@@ -8800,7 +8870,9 @@
         "books",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zizou Paintball Club",
@@ -8999,7 +9071,9 @@
         "sport",
         "music"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "El Jem Museum",
@@ -9269,7 +9343,9 @@
         "culture",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Carthage Museum",
@@ -9539,7 +9615,9 @@
         "science",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Borj el Kebir: Ottoman Fort",
@@ -9809,7 +9887,9 @@
         "architecture",
         "religion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Great Mosque of Kairouan",
@@ -10008,7 +10088,9 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Acqua Palace",
@@ -10278,7 +10360,9 @@
         "amusement",
         "original"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Casbah Museum",
@@ -10477,7 +10561,9 @@
         "original",
         "cosmopolitan"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ibn Khaldoun",
@@ -10683,7 +10769,9 @@
         "art",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sousse Archaeology Museum, Kasba",
@@ -10943,7 +11031,9 @@
         "culture",
         "original"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Municipal Theatre",
@@ -11142,7 +11232,9 @@
         "nightlife",
         "art"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zaghouan Aqueduct",
@@ -11341,7 +11433,9 @@
         "water",
         "science"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "D'Art Des M\u00e9tiers De Lella Salha Atelier De R\u00e9novation Et Sauvegarde Des Articles Du Patrimoine De Tunisie",
@@ -11611,7 +11705,9 @@
         "food",
         "nature"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Basins of Aghlabides",
@@ -11817,7 +11913,9 @@
         "water",
         "science"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Les Aiguilles De Tabarka",
@@ -12023,7 +12121,9 @@
         "food",
         "hospitality"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Cisterns of La Malga",
@@ -12229,7 +12329,9 @@
         "architecture",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dar Jellouli Museum",
@@ -12428,7 +12530,9 @@
         "military",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Grande Mosqu\u00e9e de Sousse",
@@ -12627,7 +12731,9 @@
         "art",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Barbier Mausoleum",
@@ -12897,7 +13003,9 @@
         "religion",
         "movies"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bourguiba Mosque",
@@ -13096,7 +13204,9 @@
         "science",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

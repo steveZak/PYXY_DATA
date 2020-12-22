@@ -268,7 +268,9 @@
         "instagram",
         "movies"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Monkey Hill Viewpoint",
@@ -474,7 +476,9 @@
         "fashion",
         "family"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tiger Kingdom - Phuket",
@@ -744,7 +748,9 @@
         "family",
         "instagram"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sunday Walking Street Market",
@@ -954,7 +960,9 @@
         "nightlife",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Khao Rang Viewpoint",
@@ -1160,7 +1168,9 @@
         "instagram",
         "food"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Big Buddha Phuket",
@@ -1430,7 +1440,9 @@
         "instagram",
         "engineering"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuket FantaSea",
@@ -1629,7 +1641,9 @@
         "amusement",
         "nightlife"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Thai Hua Museum",
@@ -1899,7 +1913,9 @@
         "history",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jui Tui Shrine",
@@ -2098,7 +2114,9 @@
         "food",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Shrine of The Serene Light",
@@ -2297,7 +2315,9 @@
         "books",
         "food"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Karon Viewpoint",
@@ -2503,7 +2523,9 @@
         "water",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Baan Teelanka - The UpsideDown House of Phuket",
@@ -2773,7 +2795,9 @@
         "instagram",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Promthep Cape",
@@ -2972,7 +2996,9 @@
         "beach",
         "instagram"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuket Aquarium",
@@ -3242,7 +3268,9 @@
         "food",
         "movies"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dolphins Bay Phuket",
@@ -3472,7 +3500,9 @@
         "sport",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuket Crocodile World",
@@ -3742,7 +3772,9 @@
         "animals",
         "music"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Freedom Beach",
@@ -4012,7 +4044,9 @@
         "nightlife",
         "walking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuket Elephant Sanctuary",
@@ -4352,7 +4386,9 @@
         "family",
         "original"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Siam Niramit Phuket",
@@ -4612,7 +4648,9 @@
         "nightlife",
         "amusement"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Alex Face mural graffiti @ Soi Romanee Phuket",
@@ -4818,7 +4856,9 @@
         "food",
         "nature"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Chalong Bay Rum Distillery",
@@ -5088,7 +5128,9 @@
         "original",
         "music"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuket Simon Cabaret",
@@ -5287,7 +5329,9 @@
         "fashion",
         "amusement"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Windmill Viewpoint",
@@ -5493,7 +5537,9 @@
         "water",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuket Old Town",
@@ -5692,7 +5738,9 @@
         "nightlife",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Namtok Kathu",
@@ -5898,7 +5946,9 @@
         "views",
         "walking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Pho Ta Toh Sae Shrine",
@@ -6168,7 +6218,9 @@
         "fashion",
         "family"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Chinpracha House",
@@ -6438,7 +6490,9 @@
         "culture",
         "architecture"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuket Zoo",
@@ -6708,7 +6762,9 @@
         "family",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum Phuket",
@@ -6968,7 +7024,9 @@
         "architecture",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "\u0e08\u0e38\u0e14\u0e0a\u0e21\u0e25\u0e34\u0e07 \u0e40\u0e01\u0e32\u0e30\u0e2a\u0e34\u0e40\u0e2b\u0e23\u0e48",
@@ -7238,7 +7296,9 @@
         "amusement",
         "shopping"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Flying Hanuman",
@@ -7508,7 +7568,9 @@
         "movies",
         "nightlife"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Saphan Hin Park",
@@ -7778,7 +7840,9 @@
         "animals",
         "walking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sirinat National Park",
@@ -7984,7 +8048,9 @@
         "walking",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Hai Leng Ong Statue (Golden Dragon Monument)",
@@ -8183,7 +8249,9 @@
         "shopping",
         "beach"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Vanich Farm",
@@ -8382,7 +8450,9 @@
         "hospitality",
         "food"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jungle Xtrem Adventure And Zipline Park",
@@ -8581,7 +8651,9 @@
         "fashion",
         "history"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuket Seashell Museum",
@@ -8780,7 +8852,9 @@
         "art",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Patong Go-Kart Speedway",
@@ -9050,7 +9124,9 @@
         "nightlife",
         "family"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Green Elephant Sanctuary Park",
@@ -9320,7 +9396,9 @@
         "hospitality",
         "family"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kao Khad Views Tower",
@@ -9590,7 +9668,9 @@
         "water",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Thavorn Private Collection",
@@ -9789,7 +9869,9 @@
         "history",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Laem Panwa Viewpoint",
@@ -9995,7 +10077,9 @@
         "food",
         "cosmopolitan"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuket Wake Park",
@@ -10265,7 +10349,9 @@
         "sport",
         "history"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Wat Khao Rang Samakkhitham",
@@ -10464,7 +10550,9 @@
         "instagram",
         "views"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuket 3D Museum",
@@ -10653,7 +10741,9 @@
         "movies",
         "instagram"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Aphrodite Cabaret Show",
@@ -10923,7 +11013,9 @@
         "nightlife",
         "amusement"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Chaofa Variety Weekend Market",
@@ -11143,7 +11235,9 @@
         "food",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Elephant Retirement Park Phuket",
@@ -11342,7 +11436,9 @@
         "hospitality",
         "family"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "i46 OLD TOWN",
@@ -11602,7 +11698,9 @@
         "culture",
         "military"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sang Tham Shrine",
@@ -11872,7 +11970,9 @@
         "culture",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Robinson Wells",
@@ -12078,7 +12178,9 @@
         "food",
         "science"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Malin Plaza",
@@ -12348,7 +12450,9 @@
         "nightlife",
         "animals"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Thalang Maneekram",
@@ -12547,7 +12651,9 @@
         "shopping",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ao Sane Beach",
@@ -12753,7 +12859,9 @@
         "water",
         "food"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Wat Chalong (Wat Chaithararam)",
@@ -13023,7 +13131,9 @@
         "shopping",
         "views"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

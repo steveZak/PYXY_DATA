@@ -268,7 +268,9 @@
         "engineering",
         "walking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Narikala Fortress",
@@ -474,7 +476,9 @@
         "views",
         "hiking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mtatsminda Park",
@@ -744,7 +748,9 @@
         "engineering",
         "nightlife"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Liberty Square",
@@ -1004,7 +1010,9 @@
         "nightlife",
         "cosmopolitan"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Holy Trinity Cathedral of Tbilisi",
@@ -1274,7 +1282,9 @@
         "cosmopolitan",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Bridge Of Peace",
@@ -1480,7 +1490,9 @@
         "instagram",
         "views"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Metekhi St. Virgin Church",
@@ -1679,7 +1691,9 @@
         "culture",
         "water"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Georgian National Museum",
@@ -1939,7 +1953,9 @@
         "military",
         "history"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Royal baths",
@@ -2209,7 +2225,9 @@
         "food",
         "walking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mother of Georgia",
@@ -2415,7 +2433,9 @@
         "art",
         "military"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Rike Park",
@@ -2621,7 +2641,9 @@
         "water",
         "amusement"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Open Air Museum of Ethnography",
@@ -2881,7 +2903,9 @@
         "architecture",
         "cosmopolitan"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Vake Park",
@@ -3087,7 +3111,9 @@
         "nature",
         "military"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dry Bridge Market",
@@ -3357,7 +3383,9 @@
         "movies",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Art Museum of Georgia",
@@ -3617,7 +3645,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jvari Monastery of Mtskheta",
@@ -3887,7 +3917,9 @@
         "instagram",
         "water"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sioni Cathedral",
@@ -4086,7 +4118,9 @@
         "military",
         "architecture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The clock tower",
@@ -4292,7 +4326,9 @@
         "art",
         "instagram"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Chronicle of Georgia",
@@ -4498,7 +4534,9 @@
         "cosmopolitan",
         "original"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Meidan Bazar",
@@ -4768,7 +4806,9 @@
         "food",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Funicular Park",
@@ -5038,7 +5078,9 @@
         "views",
         "nightlife"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Statue of King Vakhtang Gorgasali",
@@ -5298,7 +5340,9 @@
         "original",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Experimentorium - Museum of Entertaining Science",
@@ -5497,7 +5541,9 @@
         "friends",
         "original"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mtatsminda Pantheon",
@@ -5703,7 +5749,9 @@
         "instagram",
         "cosmopolitan"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tbilisi's TV Tower",
@@ -5909,7 +5957,9 @@
         "science",
         "water"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tbilisi sea",
@@ -6108,7 +6158,9 @@
         "engineering",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Underground Printing House Museum",
@@ -6307,7 +6359,9 @@
         "architecture",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The National Gallery",
@@ -6567,7 +6621,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tbilisi Zoo",
@@ -6837,7 +6893,9 @@
         "amusement",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "tour georgia",
@@ -6955,7 +7013,9 @@
         "engineering",
         "nightlife"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Svetitskhoveli Cathedral",
@@ -7154,7 +7214,9 @@
         "architecture",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Monument of St. George",
@@ -7360,7 +7422,9 @@
         "military",
         "shopping"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Barbarestan",
@@ -7630,7 +7694,9 @@
         "original",
         "nightlife"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dezerter Bazaar",
@@ -7900,7 +7966,9 @@
         "food",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Anchiskhati Basilica",
@@ -8099,7 +8167,9 @@
         "history",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "National Park of Tbilisi",
@@ -8298,7 +8368,9 @@
         "culture",
         "hiking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Moma Tbilisi",
@@ -8497,7 +8569,9 @@
         "culture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Leghvtakhevi Waterfall",
@@ -8703,7 +8777,9 @@
         "friends",
         "cosmopolitan"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tbilisi Old Town Wall Ruins",
@@ -8909,7 +8985,9 @@
         "books",
         "military"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum of illusions Tbilisi",
@@ -9169,7 +9247,9 @@
         "original",
         "instagram"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Aerial Tramway",
@@ -9439,7 +9519,9 @@
         "instagram",
         "hiking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ananuri Fortress Complex",
@@ -9709,7 +9791,9 @@
         "instagram",
         "water"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tbilisi Funicular",
@@ -9908,7 +9992,9 @@
         "nightlife",
         "views"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Svaneti Tower",
@@ -10107,7 +10193,9 @@
         "water",
         "culture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Astra Park",
@@ -10377,7 +10465,9 @@
         "fashion",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tbilisi AutoMuseum",
@@ -10647,7 +10737,9 @@
         "books",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Turtle Lake",
@@ -10846,7 +10938,9 @@
         "beach",
         "hiking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Silk Museum",
@@ -11106,7 +11200,9 @@
         "architecture",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Castle in Old Town",
@@ -11312,7 +11408,9 @@
         "hospitality",
         "architecture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Samtavro Convent",
@@ -11511,7 +11609,9 @@
         "culture",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Lake Lisi",
@@ -11654,7 +11754,9 @@
         "friends",
         "hiking"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Traveler\u2019s Meeting Point",
@@ -11860,7 +11962,9 @@
         "cosmopolitan",
         "nightlife"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Rustaveli Metro Station",
@@ -12059,7 +12163,9 @@
         "art",
         "food"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tbilisi Central Mosque",
@@ -12258,7 +12364,9 @@
         "architecture",
         "history"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

@@ -258,7 +258,9 @@
         "books",
         "science"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Luostarinm\u00e4ki",
@@ -518,7 +520,9 @@
         "culture",
         "original"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Turku Art Museum",
@@ -778,7 +782,9 @@
         "books",
         "engineering"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Aboa Vetus & Ars Nova",
@@ -1038,7 +1044,9 @@
         "architecture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Turku Cathedral",
@@ -1308,7 +1316,9 @@
         "science",
         "culture"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kupittaa Park",
@@ -1514,7 +1524,9 @@
         "amusement",
         "animals"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Forum Marinum",
@@ -1774,7 +1786,9 @@
         "history",
         "engineering"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Posankka",
@@ -1980,7 +1994,9 @@
         "original",
         "animals"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Botanic Garden of Turku",
@@ -2250,7 +2266,9 @@
         "walking",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Pharmacy Museum and Qwensel house",
@@ -2510,7 +2528,9 @@
         "culture",
         "history"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kuralan Kyl\u00e4m\u00e4ki",
@@ -2780,7 +2800,9 @@
         "science",
         "culture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "W\u00e4in\u00f6 Aaltonen Museum of Art",
@@ -3040,7 +3062,9 @@
         "books",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Michael\u00b4s Church",
@@ -3239,7 +3263,9 @@
         "art",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Old Great Square",
@@ -3438,7 +3464,9 @@
         "shopping",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "St. Henry's Ecumenical Art Chapel",
@@ -3708,7 +3736,9 @@
         "religion",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sibeliusmuseum",
@@ -3948,7 +3978,9 @@
         "movies",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jukupark",
@@ -4158,7 +4190,9 @@
         "animals",
         "amusement"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum of Turku Cathedral",
@@ -4428,7 +4462,9 @@
         "books",
         "engineering"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ett Hem",
@@ -4668,7 +4704,9 @@
         "books",
         "history"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Aura",
@@ -4867,7 +4905,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Turku Orthodox Church",
@@ -5127,7 +5167,9 @@
         "books",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Turku Biological Museum",
@@ -5387,7 +5429,9 @@
         "military",
         "animals"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Flowpark",
@@ -5597,7 +5641,9 @@
         "cosmopolitan",
         "sport"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "F\u00f6ri",
@@ -5867,7 +5913,9 @@
         "engineering",
         "hiking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Moomin World",
@@ -6066,7 +6114,9 @@
         "friends",
         "sport"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Main Library | Turku City Library",
@@ -6336,7 +6386,9 @@
         "science",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kurjenrahka National Park",
@@ -6542,7 +6594,9 @@
         "walking",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "\u00c5bo Svenska Teater",
@@ -6842,7 +6896,9 @@
         "original",
         "amusement"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ruissalo Camping",
@@ -7041,7 +7097,9 @@
         "beach",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Shopping center Skanssi",
@@ -7311,7 +7369,9 @@
         "food",
         "shopping"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ruissalo",
@@ -7510,7 +7570,9 @@
         "hiking",
         "art"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zoolandia",
@@ -7709,7 +7771,9 @@
         "food",
         "family"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Turku archipelago",
@@ -7908,7 +7972,9 @@
         "books",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Turku Castle Church",
@@ -8107,7 +8173,9 @@
         "books",
         "science"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kultaranta",
@@ -8317,7 +8385,9 @@
         "water",
         "science"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Naantali Church",
@@ -8516,7 +8586,9 @@
         "beach",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Casa Haartman",
@@ -8667,7 +8739,9 @@
         "art",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Escape Artist Room Escape - pakohuone Turku",
@@ -8873,7 +8947,9 @@
         "food",
         "history"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Visit Seili",
@@ -9072,7 +9148,9 @@
         "food",
         "culture"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "CLU TKU",
@@ -9263,7 +9341,9 @@
         "history",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Rage Room Turku",
@@ -9462,7 +9542,9 @@
         "art",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Naantali Museum",
@@ -9661,7 +9743,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Scandic Plaza",
@@ -9867,7 +9951,9 @@
         "original",
         "fashion"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Hohtogolf West Coast",
@@ -10107,7 +10193,9 @@
         "friends",
         "nightlife"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Leo's Leikkimaa",
@@ -10377,7 +10465,9 @@
         "hospitality",
         "walking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

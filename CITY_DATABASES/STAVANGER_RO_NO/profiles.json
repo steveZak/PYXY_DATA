@@ -204,7 +204,9 @@
         "shopping",
         "instagram"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Norwegian Canning Museum",
@@ -403,7 +405,9 @@
         "movies",
         "military"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "V\u00e5landst\u00e5rnet",
@@ -609,7 +613,9 @@
         "instagram",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Stavanger Cathedral",
@@ -859,7 +865,9 @@
         "history",
         "art"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Stavanger City Museum",
@@ -1119,7 +1127,9 @@
         "culture",
         "military"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Stavanger Maritime Museum",
@@ -1379,7 +1389,9 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Norwegian Petroleum Museum",
@@ -1649,7 +1661,9 @@
         "books",
         "original"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Breidablikk museum",
@@ -1848,7 +1862,9 @@
         "architecture",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Fargegaten",
@@ -2054,7 +2070,9 @@
         "nightlife",
         "hospitality"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Stavanger Art Museum",
@@ -2314,7 +2332,9 @@
         "food",
         "hospitality"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jernalderg\u00e5rden",
@@ -2534,7 +2554,9 @@
         "food",
         "fashion"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sverd i fjell",
@@ -2740,7 +2762,9 @@
         "hospitality",
         "beach"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Arkeologisk museum i Stavanger",
@@ -3010,7 +3034,9 @@
         "culture",
         "original"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Stavanger Botanical Garden",
@@ -3216,7 +3242,9 @@
         "walking",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "LEDAAL",
@@ -3426,7 +3454,9 @@
         "architecture",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Norwegian Children's Museum",
@@ -3686,7 +3716,9 @@
         "movies",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ullandhaugt\u00e5rnet",
@@ -3892,7 +3924,9 @@
         "instagram",
         "walking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kannik fotgjengerundergang street art",
@@ -4027,7 +4061,9 @@
         "art",
         "shopping"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "S\u00f8rmarka",
@@ -4233,7 +4269,9 @@
         "walking",
         "beach"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Valbergt\u00e5rnet",
@@ -4432,7 +4470,9 @@
         "military",
         "hiking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sj\u00f8fartsmonumentet",
@@ -4638,7 +4678,9 @@
         "art",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Freedome Trampoline park",
@@ -4908,7 +4950,9 @@
         "amusement",
         "friends"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Fluberget",
@@ -5114,7 +5158,9 @@
         "original",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Godalen Beach",
@@ -5320,7 +5366,9 @@
         "water",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tanners sunken ship",
@@ -5478,7 +5526,9 @@
         "water",
         "nightlife"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Workers Cottage",
@@ -5677,7 +5727,9 @@
         "military",
         "amusement"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Stavanger City Bridge",
@@ -5883,7 +5935,9 @@
         "beach",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Freedome Stavanger-\u00d8st",
@@ -6129,7 +6183,9 @@
         "friends",
         "animals"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Stavanger skolemuseum",
@@ -6256,7 +6312,9 @@
         "culture",
         "family"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "TOU",
@@ -6506,7 +6564,9 @@
         "nightlife",
         "food"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Reidar Berge Museum",
@@ -6705,7 +6765,9 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "FuMG-65 W\u00fcrzburg-Riese",
@@ -6832,7 +6894,9 @@
         "culture",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Breiavatnet",
@@ -7031,7 +7095,9 @@
         "beach",
         "nature"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mosvatnet",
@@ -7230,7 +7296,9 @@
         "walking",
         "nature"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dalsnuten",
@@ -7436,7 +7504,9 @@
         "views",
         "instagram"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "St Petri kirke",
@@ -7635,7 +7705,9 @@
         "hospitality",
         "music"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Breiavatnet",
@@ -7841,7 +7913,9 @@
         "hiking",
         "nature"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "St Svithun's Church, Stavanger",
@@ -8271,7 +8345,9 @@
         "culture",
         "music"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sola flytekniske museum",
@@ -8481,7 +8557,9 @@
         "culture",
         "history"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "R\u00f8dne Fjord Cruise",
@@ -8731,7 +8809,9 @@
         "hiking",
         "music"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Lendeparken",
@@ -8937,7 +9017,9 @@
         "military",
         "nature"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Vistnestunet",
@@ -9136,7 +9218,9 @@
         "hiking",
         "animals"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Leo's Lekeland",
@@ -9406,7 +9490,9 @@
         "fashion",
         "animals"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Groombr\u00f8nnen",
@@ -9531,7 +9617,9 @@
         "hospitality",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "IMI Church",
@@ -9730,7 +9818,9 @@
         "history",
         "art"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Hertervighuset",
@@ -9929,7 +10019,9 @@
         "walking",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "S\u00f8lvbergtorget",
@@ -10064,7 +10156,9 @@
         "hospitality",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Helleristningene ved Kvernevik",
@@ -10263,7 +10357,9 @@
         "beach",
         "walking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sykehusparken",
@@ -10462,7 +10558,9 @@
         "art",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Iron Age Farm",
@@ -10580,7 +10678,9 @@
         "original",
         "architecture"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Arneageren",
@@ -10770,7 +10870,9 @@
         "architecture",
         "food"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bjergstedparken",
@@ -10976,7 +11078,9 @@
         "original",
         "views"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Gravr\u00f8ys fra jernalder",
@@ -11110,7 +11214,9 @@
         "culture",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Paviljongen",
@@ -11276,7 +11382,9 @@
         "hospitality",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Lifjell view over Stavanger",
@@ -11467,7 +11575,9 @@
         "views",
         "family"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mosvatnet Park",
@@ -11673,7 +11783,9 @@
         "nature",
         "animals"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kannikparken",
@@ -11872,7 +11984,9 @@
         "animals",
         "friends"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

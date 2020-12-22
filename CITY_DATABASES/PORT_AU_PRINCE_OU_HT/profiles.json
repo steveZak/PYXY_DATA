@@ -268,7 +268,9 @@
         "science",
         "art"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "In Martissant Park",
@@ -518,7 +520,9 @@
         "food",
         "animals"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Champ de Mars.",
@@ -724,7 +728,9 @@
         "art",
         "religion"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Cathedral of Our Lady of the Assumption, Port-au-Prince",
@@ -984,7 +990,9 @@
         "science",
         "military"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Place Saint-Pierre",
@@ -1190,7 +1198,9 @@
         "food",
         "water"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Evolution tech",
@@ -1389,7 +1399,9 @@
         "science",
         "music"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sainte Anne Church",
@@ -1588,7 +1600,9 @@
         "food",
         "books"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bureau d'Ethnologie",
@@ -1848,7 +1862,9 @@
         "culture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bidonville KILLICK STENIO VINCENT",
@@ -1983,7 +1999,9 @@
         "amusement",
         "fashion"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Papillon Enterprise",
@@ -2182,7 +2200,9 @@
         "food",
         "family"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bassin Bleu",
@@ -2388,7 +2408,9 @@
         "science",
         "fashion"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Peabody House",
@@ -2506,7 +2528,9 @@
         "food",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "El-Saieh Gallery",
@@ -2776,7 +2800,9 @@
         "music",
         "shopping"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

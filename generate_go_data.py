@@ -43,14 +43,12 @@ with open(os.getcwd() + "/CITY_DATABASES/go_places.json", 'w') as file:
 dist_mats = dict() # dist_mat
 for _, dirs, _ in os.walk(os.getcwd()+"/CITY_DATABASES"):
     for city_dir in dirs:
-        if city_dir[0] == "A" or city_dir[0] > 'T' or city_dir[:2]=="BA" or city_dir[:2]=="TU" or city_dir[:2]=="TR" or city_dir[:2]=="TY":
-            if city_dir[:3] != "BAR" and city_dir[:3] != "BAS" and city_dir[:3] != "BAT" and city_dir[:4] != "BANG":
-                with open(os.getcwd() + "/CITY_DATABASES/" + city_dir + "/distance.json") as file:
-                    data = json.load(file)
-                data.pop("transit_dist_walk_matrix", None)
-                data.pop("transit_time_matrix", None)
-                data.pop("cycling_dist_matrix", None)
-                data.pop("cycling_time_matrix", None)
-                dist_mats[city_dir] = data
+        with open(os.getcwd() + "/CITY_DATABASES/" + city_dir + "/distance.json") as file:
+            data = json.load(file)
+        data.pop("transit_dist_walk_matrix", None)
+        data.pop("transit_time_matrix", None)
+        data.pop("cycling_dist_matrix", None)
+        data.pop("cycling_time_matrix", None)
+        dist_mats[city_dir] = data
 with open(os.getcwd() + "/CITY_DATABASES/dist_mat.json", 'w') as file:
         json.dump(dist_mats, file, indent=2)

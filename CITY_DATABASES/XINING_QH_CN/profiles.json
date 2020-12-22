@@ -197,7 +197,9 @@
         "science",
         "culture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tulou Temple",
@@ -396,7 +398,9 @@
         "hiking",
         "cosmopolitan"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "China Tibetan Medicine Culture Museum",
@@ -595,7 +599,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "People's Park",
@@ -794,7 +800,9 @@
         "hiking",
         "amusement"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dongguan Mosque",
@@ -993,7 +1001,9 @@
         "shopping",
         "friends"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Xining Nanchan Temple",
@@ -1192,7 +1202,9 @@
         "engineering",
         "shopping"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ma Bufang Residence \uff08Northeast Gate\uff09",
@@ -1383,7 +1395,9 @@
         "religion",
         "architecture"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Qinghai Museum",
@@ -1582,7 +1596,9 @@
         "books",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Huangle Park",
@@ -1700,7 +1716,9 @@
         "water",
         "animals"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Qinghai Science & Technology Museum",
@@ -1875,7 +1893,9 @@
         "architecture",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Chaoyang Park",
@@ -1993,7 +2013,9 @@
         "food",
         "architecture"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Beihai Park \uff08West Gate\uff09",
@@ -2111,7 +2133,9 @@
         "architecture",
         "hiking"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ta'er Monastery",
@@ -2310,7 +2334,9 @@
         "science",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Xining railway station",
@@ -2509,7 +2535,9 @@
         "religion",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kanbula National Forest Park",
@@ -2708,7 +2736,9 @@
         "engineering",
         "nature"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dafo Temple",
@@ -2826,7 +2856,9 @@
         "religion",
         "animals"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Qinghai Guide National Geopark Museum",
@@ -3025,7 +3057,9 @@
         "books",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Qinghai Lake",
@@ -3224,7 +3258,9 @@
         "beach",
         "science"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Xining Caojiabao Airport",
@@ -3423,7 +3459,9 @@
         "art",
         "food"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Binggou",
@@ -3550,7 +3588,9 @@
         "hiking",
         "food"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Rongwo Monastery",
@@ -3749,7 +3789,9 @@
         "books",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zippo",
@@ -3867,7 +3909,9 @@
         "water",
         "views"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mati Temple",
@@ -4066,7 +4110,9 @@
         "beach",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Labrang Monastery",
@@ -4265,7 +4311,9 @@
         "books",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

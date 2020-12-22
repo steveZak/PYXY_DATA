@@ -258,7 +258,9 @@
         "views",
         "instagram"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Catedral-Bas\u00edlica de Santa Mar\u00eda de Mallorca",
@@ -457,7 +459,9 @@
         "art",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Palma Aquarium",
@@ -656,7 +660,9 @@
         "movies",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Royal Palace of La Almudaina",
@@ -916,7 +922,9 @@
         "instagram",
         "views"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Fundaci\u00f3 Pilar i Joan Mir\u00f3 in Mallorca",
@@ -1176,7 +1184,9 @@
         "engineering",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Lonja de Mallorca",
@@ -1496,7 +1506,9 @@
         "original",
         "nightlife"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Banys \u00c0rabs",
@@ -1766,7 +1778,9 @@
         "history",
         "movies"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tren Soller",
@@ -2036,7 +2050,9 @@
         "hiking",
         "water"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Plaza Mayor",
@@ -2242,7 +2258,9 @@
         "nightlife",
         "hospitality"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Es Baluard Museu d'Art Contemporani de Palma",
@@ -2502,7 +2520,9 @@
         "culture",
         "original"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Basilica de Sant Francesc",
@@ -2822,7 +2842,9 @@
         "art",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museu Fundaci\u00f3n Juan March, Palma",
@@ -3082,7 +3104,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Device to Root out Evil",
@@ -3288,7 +3312,9 @@
         "fashion",
         "religion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Hort del Rei",
@@ -3494,7 +3520,9 @@
         "beach",
         "nature"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Casal Solleric",
@@ -3804,7 +3832,9 @@
         "architecture",
         "food"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sa Feixina Park",
@@ -4010,7 +4040,9 @@
         "beach",
         "hiking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Cala Major Beach",
@@ -4209,7 +4241,9 @@
         "water",
         "walking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Convent de Santa Clara",
@@ -4469,7 +4503,9 @@
         "shopping",
         "history"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museu Hist\u00f2ric Militar de Sant Carles",
@@ -4729,7 +4765,9 @@
         "history",
         "views"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Poble Espanyol de Mallorca",
@@ -4999,7 +5037,9 @@
         "religion",
         "science"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "TirolinasGo Mallorca Forestal Park",
@@ -5219,7 +5259,9 @@
         "family",
         "friends"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Can Forteza Rey",
@@ -5418,7 +5460,9 @@
         "engineering",
         "original"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Marineland Mallorca",
@@ -5638,7 +5682,9 @@
         "music",
         "sport"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museo de Mallorca",
@@ -5898,7 +5944,9 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mallorca Boat Quest",
@@ -6102,7 +6150,9 @@
         "nightlife",
         "music"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jard\u00ed del Bisbe",
@@ -6362,7 +6412,9 @@
         "art",
         "walking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museu De La Seu. Cabildo de la Catedral de Mallorca",
@@ -6622,7 +6674,9 @@
         "original",
         "views"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Est\u00e0tua \"Es Foner\"",
@@ -6828,7 +6882,9 @@
         "hospitality",
         "food"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jardins d'Alf\u00e0bia",
@@ -7098,7 +7154,9 @@
         "walking",
         "beach"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Katmandu Park",
@@ -7297,7 +7355,9 @@
         "sport",
         "nightlife"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Basilica of St. Michael",
@@ -7496,7 +7556,9 @@
         "instagram",
         "art"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museu Dioces\u00e0 de Mallorca",
@@ -7746,7 +7808,9 @@
         "religion",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Casino de Mallorca",
@@ -8016,7 +8080,9 @@
         "amusement",
         "hospitality"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Parque Sa Riera",
@@ -8286,7 +8352,9 @@
         "hiking",
         "walking"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jardins de Marivent",
@@ -8556,7 +8624,9 @@
         "walking",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Restaurant Santa Eul\u00e0lia",
@@ -8755,7 +8825,9 @@
         "original",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Coves de G\u00e8nova",
@@ -9025,7 +9097,9 @@
         "hospitality",
         "movies"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Playa Santa Ponsa",
@@ -9224,7 +9298,9 @@
         "water",
         "hospitality"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Fundaci\u00f3n Bartolom\u00e9 March",
@@ -9423,7 +9499,9 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Can Pastilla Beach",
@@ -9622,7 +9700,9 @@
         "food",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Parr\u00f2quia de Sant Jaume",
@@ -9821,7 +9901,9 @@
         "music",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Plaza Del Mercat",
@@ -10027,7 +10109,9 @@
         "walking",
         "shopping"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Playa de Palma",
@@ -10226,7 +10310,9 @@
         "nightlife",
         "food"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mercado Gastrono\u0301mico San Juan",
@@ -10476,7 +10562,9 @@
         "books",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Aqualand El Arenal",
@@ -10675,7 +10763,9 @@
         "engineering",
         "friends"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mercat de l\u2019Olivar",
@@ -10935,7 +11025,9 @@
         "animals",
         "nightlife"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Drach Caves",
@@ -11205,7 +11297,9 @@
         "hiking",
         "engineering"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Franciscanos TOR La Porci\u00fancula",
@@ -11404,7 +11498,9 @@
         "religion",
         "science"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Parc de les Estacions",
@@ -11674,7 +11770,9 @@
         "animals",
         "hiking"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jard\u00ed Bot\u00e0nic de S\u00f3ller",
@@ -11934,7 +12032,9 @@
         "art",
         "food"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mondrag\u00f3 Natural Park",
@@ -12140,7 +12240,9 @@
         "walking",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Playa de Illetes",
@@ -12346,7 +12448,9 @@
         "water",
         "walking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Carthusian Monastery Valldemossa",
@@ -12606,7 +12710,9 @@
         "music",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Balearic Transfer",
@@ -12852,7 +12958,9 @@
         "family",
         "hospitality"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "FAN Mallorca Shopping",
@@ -13112,7 +13220,9 @@
         "shopping",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

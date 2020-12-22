@@ -159,6 +159,12 @@ def isAnalyzeDone(dir):
 #                     addPopularityK(dir)
 
 
+for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES"):
+    for dir in dirs:
+        print(dir)
+        addPopularityK(dir)
+
+
 # addTextElt("CHENNAI_TA_IN", 'trip')
 # addTextElt("ALGIERS_AL_DZ", 'trip')
 # addTextElt("BATH_EN_GB", 'trip')

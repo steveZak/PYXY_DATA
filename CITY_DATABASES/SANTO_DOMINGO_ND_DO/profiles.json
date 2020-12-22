@@ -204,7 +204,9 @@
         "military",
         "nightlife"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Fortaleza Ozama",
@@ -464,7 +466,9 @@
         "history",
         "cosmopolitan"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Faro a Colon",
@@ -724,7 +728,9 @@
         "culture",
         "architecture"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum of the Royal Houses",
@@ -984,7 +990,9 @@
         "history",
         "books"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Alc\u00e1zar de Col\u00f3n",
@@ -1244,7 +1252,9 @@
         "books",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Basilica Cathedral of Santa Mar\u00eda la Menor",
@@ -1514,7 +1524,9 @@
         "culture",
         "cosmopolitan"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The 3 Eyes National Park",
@@ -1713,7 +1725,9 @@
         "beach",
         "nature"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kahkow Experience",
@@ -1983,7 +1997,9 @@
         "fashion",
         "hospitality"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Plaza de la Hispanidad or Spain",
@@ -2253,7 +2269,9 @@
         "nightlife",
         "music"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Pantheon of the Fatherland",
@@ -2523,7 +2541,9 @@
         "books",
         "military"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Chu Chu Colonial",
@@ -2793,7 +2813,9 @@
         "cosmopolitan",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jardin Botanico Nacional",
@@ -3063,7 +3085,9 @@
         "architecture",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Amber World Museum",
@@ -3333,7 +3357,9 @@
         "books",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Memorial Museum of Dominican Resistance",
@@ -3593,7 +3619,9 @@
         "science",
         "movies"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Plaza De La Cultura",
@@ -3843,7 +3871,9 @@
         "books",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "AquaMundo",
@@ -4042,7 +4072,9 @@
         "movies",
         "family"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Catedral Primada de las Americas",
@@ -4312,7 +4344,9 @@
         "culture",
         "cosmopolitan"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Independencia Park",
@@ -4582,7 +4616,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Parque Iberoam\u00e9rica",
@@ -4852,7 +4888,9 @@
         "amusement",
         "military"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Malec\u00f3n de Santo Domingo",
@@ -5058,7 +5096,9 @@
         "water",
         "walking"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Presidencia de la Rep\u00fablica Dominicana",
@@ -5308,7 +5348,9 @@
         "hospitality",
         "engineering"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Plaza G\u00fcibia",
@@ -5514,7 +5556,9 @@
         "friends",
         "water"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mirador Del Sur Joaqu\u00edn Balaguer Park",
@@ -5784,7 +5828,9 @@
         "sport",
         "friends"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Reloj de Sol",
@@ -5990,7 +6036,9 @@
         "culture",
         "movies"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Plaza de la Bandera Republica Dominicana",
@@ -6196,7 +6244,9 @@
         "food",
         "original"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Alc\u00e1zar de Don Diego Col\u00f3n",
@@ -6456,7 +6506,9 @@
         "books",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Plaza Maria de Toledo",
@@ -6662,7 +6714,9 @@
         "books",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mercado Modelo",
@@ -6922,7 +6976,9 @@
         "culture",
         "religion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Plaza Juan Bar\u00f3n",
@@ -7128,7 +7184,9 @@
         "food",
         "family"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museo Bellapart",
@@ -7388,7 +7446,9 @@
         "culture",
         "architecture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Trampoline Children's Museum",
@@ -7648,7 +7708,9 @@
         "science",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dominican Convent",
@@ -7847,7 +7909,9 @@
         "water",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Pekepolis",
@@ -8087,7 +8151,9 @@
         "fashion",
         "science"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "La Casa de Los Jesuitas",
@@ -8286,7 +8352,9 @@
         "books",
         "water"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Three Eyes",
@@ -8485,7 +8553,9 @@
         "engineering",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Enriquillo Park",
@@ -8691,7 +8761,9 @@
         "military",
         "architecture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museo del Larimar",
@@ -8961,7 +9033,9 @@
         "original",
         "shopping"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum of Rum",
@@ -9211,7 +9285,9 @@
         "military",
         "books"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Quinta Dominica",
@@ -9471,7 +9547,9 @@
         "original",
         "food"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Our Lady of Las Mercedes Church",
@@ -9670,7 +9748,9 @@
         "art",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Theater House",
@@ -9990,7 +10070,9 @@
         "art",
         "food"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Diamante Casino",
@@ -10196,7 +10278,9 @@
         "books",
         "water"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Agora Mall",
@@ -10466,7 +10550,9 @@
         "food",
         "amusement"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Regina Angelorum Church and Convent",
@@ -10726,7 +10812,9 @@
         "art",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Colonial Gate 4D Cinema",
@@ -10986,7 +11074,9 @@
         "history",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Santo Domingo Obelisk",
@@ -11192,7 +11282,9 @@
         "science",
         "military"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "HappyLand",
@@ -11462,7 +11554,9 @@
         "books",
         "animals"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum of the Dominican Man",
@@ -11732,7 +11826,9 @@
         "books",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Puerta del Conde",
@@ -11938,7 +12034,9 @@
         "religion",
         "science"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Casa de Hern\u00e1n Cort\u00e9s",
@@ -12065,7 +12163,9 @@
         "books",
         "history"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Peter D\u00edaz Park",
@@ -12264,7 +12364,9 @@
         "architecture",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

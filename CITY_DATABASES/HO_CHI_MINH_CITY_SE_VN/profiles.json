@@ -268,7 +268,9 @@
         "engineering",
         "history"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "War Remnants Museum",
@@ -538,7 +540,9 @@
         "movies",
         "culture"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Cu Chi Tunnel",
@@ -808,7 +812,9 @@
         "books",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Notre Dame Cathedral of Saigon",
@@ -1078,7 +1084,9 @@
         "engineering",
         "shopping"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Saigon Zoo And Botanical Garden",
@@ -1348,7 +1356,9 @@
         "nature",
         "movies"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "H\u1ed3 Ch\u00ed Minh City Museum",
@@ -1618,7 +1628,9 @@
         "science",
         "engineering"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Saigon Skydeck",
@@ -1888,7 +1900,9 @@
         "engineering",
         "food"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bitexco Financial Tower",
@@ -2158,7 +2172,9 @@
         "views",
         "shopping"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ho Chi Minh City Opera House",
@@ -2357,7 +2373,9 @@
         "architecture",
         "engineering"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "H\u1ed3 Ch\u00ed Minh City Museum of Fine Arts",
@@ -2627,7 +2645,9 @@
         "culture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ben Thanh Market",
@@ -2897,7 +2917,9 @@
         "food",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Vietnam History Museum",
@@ -3237,7 +3259,9 @@
         "culture",
         "history"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tao Dan Park",
@@ -3507,7 +3531,9 @@
         "amusement",
         "friends"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Saigon Central Post Office",
@@ -3777,7 +3803,9 @@
         "engineering",
         "fashion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum of Traditional Vietnamese Medicine",
@@ -4047,7 +4075,9 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ch\u00f9a B\u00e0 Thi\u00ean H\u1eadu",
@@ -4387,7 +4417,9 @@
         "culture",
         "history"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Su\u1ed1i Ti\u00ean Theme Park",
@@ -4657,7 +4689,9 @@
         "sport",
         "family"
       ],
-      "duration": 0.75
+      "duration": 0.75,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Giac Lam Pagoda",
@@ -4997,7 +5031,9 @@
         "original",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ho Chi Minh City's Book Street",
@@ -5267,7 +5303,9 @@
         "food",
         "shopping"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Turtle Lake",
@@ -5473,7 +5511,9 @@
         "animals",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "T\u01b0\u1ee3ng Ch\u1ee7 t\u1ecbch H\u1ed3 Ch\u00ed Minh",
@@ -5672,7 +5712,9 @@
         "original",
         "books"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Vietopia",
@@ -5892,7 +5934,9 @@
         "original",
         "friends"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ho Chi Minh Museum",
@@ -6212,7 +6256,9 @@
         "science",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tunnels entrance",
@@ -6482,7 +6528,9 @@
         "military",
         "books"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Phuoc An Hoi Quan Pagoda",
@@ -6681,7 +6729,9 @@
         "art",
         "shopping"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Artinus 3D Art Museum",
@@ -6941,7 +6991,9 @@
         "movies",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "September 23rd Park",
@@ -7147,7 +7199,9 @@
         "amusement",
         "walking"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Quan Am Pagoda",
@@ -7346,7 +7400,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "People's Committee of Ho Chi Minh City",
@@ -7596,7 +7652,9 @@
         "engineering",
         "religion"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Cu Chi Tunnel Ben Duoc",
@@ -7866,7 +7924,9 @@
         "books",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Nguy\u1ec5n Hu\u1ec7 Walking Street",
@@ -8072,7 +8132,9 @@
         "shopping",
         "food"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "South-Vietnamese Women Museum",
@@ -8412,7 +8474,9 @@
         "architecture",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ben Duoc Temple - Cu Chi",
@@ -8611,7 +8675,9 @@
         "religion",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ben Dinh Tunnels museum",
@@ -8881,7 +8947,9 @@
         "books",
         "military"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Th\u00edch Qu\u1ea3ng \u0110\u1ee9c Monument",
@@ -9087,7 +9155,9 @@
         "religion",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Couleurs by R\u00e9hahn Fine Art Photography - Dong Khoi, Saigon",
@@ -9357,7 +9427,9 @@
         "original",
         "hospitality"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ngoc Hoang Pagoda",
@@ -9627,7 +9699,9 @@
         "friends",
         "history"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ch\u00f9a B\u00e0 \u1ea4n \u0110\u1ed9",
@@ -9897,7 +9971,9 @@
         "art",
         "science"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "C\u00f4ng vi\u00ean v\u0103n h\u00f3a \u0110\u1ea7m Sen",
@@ -10167,7 +10243,9 @@
         "family",
         "animals"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "THE WORLD OF HEINEKEN",
@@ -10437,7 +10515,9 @@
         "original",
         "history"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "JapantownSaiGon",
@@ -10643,7 +10723,9 @@
         "architecture",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ten Thousand Buddha Pagoda",
@@ -10913,7 +10995,9 @@
         "shopping",
         "instagram"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Factory Contemporary Arts Centre",
@@ -11163,7 +11247,9 @@
         "architecture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "One Pillar Pagoda, Thu Duc - Nam Thien Nhat Tru",
@@ -11362,7 +11448,9 @@
         "engineering",
         "science"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "X\u00e1 L\u1ee3i Pagoda",
@@ -11702,7 +11790,9 @@
         "architecture",
         "shopping"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Turtle Lake",
@@ -11901,7 +11991,9 @@
         "original",
         "friends"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Huy\u1ec7n S\u0129 Church",
@@ -12100,7 +12192,9 @@
         "hospitality",
         "views"
       ],
-      "duration": 0.875
+      "duration": 0.875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Golden Dragon Water Puppet Theater",
@@ -12299,7 +12393,9 @@
         "amusement",
         "sport"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Secret weapon bunker in Saigon",
@@ -12498,7 +12594,9 @@
         "fashion",
         "books"
       ],
-      "duration": 1.5625
+      "duration": 1.5625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "\u0110\u1ea1i Nam Wonderland",
@@ -12768,7 +12866,9 @@
         "sport",
         "animals"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Nh\u00e0 th\u1edd T\u00e2n \u0110\u1ecbnh",
@@ -12974,7 +13074,9 @@
         "science",
         "fashion"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

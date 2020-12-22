@@ -197,7 +197,9 @@
         "hiking",
         "cosmopolitan"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Emperor Qinshihuang's Mausoleum Site Museum",
@@ -467,7 +469,9 @@
         "military",
         "movies"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Giant Wild Goose Pagoda",
@@ -666,7 +670,9 @@
         "movies",
         "history"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Great Mosque of Xi'an",
@@ -865,7 +871,9 @@
         "art",
         "culture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Shaanxi History Museum",
@@ -1125,7 +1133,9 @@
         "books",
         "history"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ancient City Wall",
@@ -1324,7 +1334,9 @@
         "art",
         "hiking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tang Paradise",
@@ -1594,7 +1606,9 @@
         "animals",
         "religion"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Xi'an Museum",
@@ -1854,7 +1868,9 @@
         "culture",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Han Yang Ling",
@@ -2053,7 +2069,9 @@
         "animals",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "\u897f\u5b89\u7891\u6797",
@@ -2252,7 +2270,9 @@
         "engineering",
         "culture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Shuyuanmen",
@@ -2451,7 +2471,9 @@
         "art",
         "books"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Small Wild Goose Pagoda",
@@ -2650,7 +2672,9 @@
         "art",
         "science"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "\u534e\u6e05\u6c60",
@@ -2849,7 +2873,9 @@
         "art",
         "science"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bell Tower of Xi'an",
@@ -3048,7 +3074,9 @@
         "science",
         "nightlife"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Banpo",
@@ -3247,7 +3275,9 @@
         "culture",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Hanyangling Museum",
@@ -3446,7 +3476,9 @@
         "military",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Daxingshan Temple",
@@ -3645,7 +3677,9 @@
         "science",
         "military"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Daci'en Temple",
@@ -3844,7 +3878,9 @@
         "science",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Xiangji Temple",
@@ -4043,7 +4079,9 @@
         "science",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Shaanxi Tri-coloured Glazed Pottery of the Tang Dynasty Art Museum",
@@ -4178,7 +4216,9 @@
         "culture",
         "music"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yongxingfang",
@@ -4377,7 +4417,9 @@
         "nightlife",
         "amusement"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Xi'an Wall Yongningmen \uff08North Gate\uff09",
@@ -4576,7 +4618,9 @@
         "art",
         "hiking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Xi'an Qujiang Art Museum",
@@ -4775,7 +4819,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Xi'an Shibian Memorial Hall",
@@ -4974,7 +5020,9 @@
         "science",
         "books"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum of Qin Terracotta Warriors and Horses West Gate",
@@ -5173,7 +5221,9 @@
         "books",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Xi'an Muslim Dasi Residential Quarter",
@@ -5372,7 +5422,9 @@
         "nightlife",
         "animals"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Qujiang Pool",
@@ -5555,7 +5607,9 @@
         "hiking",
         "water"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Louguantai",
@@ -5754,7 +5808,9 @@
         "water",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Qinglong Temple",
@@ -5953,7 +6009,9 @@
         "friends",
         "cosmopolitan"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "\u516b\u4ed9\u5eb5",
@@ -6152,7 +6210,9 @@
         "art",
         "religion"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

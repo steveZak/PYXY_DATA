@@ -197,7 +197,9 @@
         "military",
         "books"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bas\u00edlica de Nuestra Se\u00f1ora del Pilar",
@@ -396,7 +398,9 @@
         "instagram",
         "movies"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Catedral del Salvador de Zaragoza",
@@ -736,7 +740,9 @@
         "art",
         "culture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Aquarium River of Zaragoza",
@@ -1076,7 +1082,9 @@
         "food",
         "hospitality"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zaragoza Museum",
@@ -1386,7 +1394,9 @@
         "science",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "School Origami Museum of Zaragoza (emoz)",
@@ -1696,7 +1706,9 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museo Pablo Gargallo",
@@ -2006,7 +2018,9 @@
         "books",
         "original"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zaragoza Central Market",
@@ -2316,7 +2330,9 @@
         "science",
         "art"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museo de las Termas P\u00fablicas de Caesaraugusta",
@@ -2626,7 +2642,9 @@
         "military",
         "architecture"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "IAACC Pablo Serrano",
@@ -2936,7 +2954,9 @@
         "original",
         "culture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Caesaraugusta Forum Museum",
@@ -3246,7 +3266,9 @@
         "art",
         "religion"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jos\u00e9 Antonio Labordeta Park",
@@ -3452,7 +3474,9 @@
         "beach",
         "amusement"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Torre del Pilar",
@@ -3792,7 +3816,9 @@
         "sport",
         "science"
       ],
-      "duration": 0.8125
+      "duration": 0.8125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sala de Exposiciones La Lonja",
@@ -4102,7 +4128,9 @@
         "architecture",
         "religion"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Goya Museum",
@@ -4412,7 +4440,9 @@
         "original",
         "science"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Alma Mater Museum",
@@ -4672,7 +4702,9 @@
         "art",
         "books"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Stone bridge",
@@ -4878,7 +4910,9 @@
         "instagram",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museo del Teatro de Caesaraugusta",
@@ -5188,7 +5222,9 @@
         "architecture",
         "history"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Parish Church of San Pablo",
@@ -5518,7 +5554,9 @@
         "culture",
         "art"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bas\u00edlica of Santa Engracia Church",
@@ -5717,7 +5755,9 @@
         "military",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "plaza de San Felipe",
@@ -5923,7 +5963,9 @@
         "engineering",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Fuente de la Hispanidad",
@@ -6129,7 +6171,9 @@
         "fashion",
         "water"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Monumento a Francisco de Goya",
@@ -6335,7 +6379,9 @@
         "books",
         "religion"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tapestry Museum",
@@ -6675,7 +6721,9 @@
         "art",
         "books"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museo del Fuego y de los Bomberos",
@@ -6935,7 +6983,9 @@
         "religion",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museo de los Faroles y Rosario de Cristal",
@@ -7245,7 +7295,9 @@
         "religion",
         "science"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "CaixaForum Zaragoza",
@@ -7515,7 +7567,9 @@
         "food",
         "hospitality"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Agua Luis Bu\u00f1uel Park",
@@ -7721,7 +7775,9 @@
         "hiking",
         "beach"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Museum of the River Port of Caesaraugusta",
@@ -8031,7 +8087,9 @@
         "religion",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Puerta del Carmen",
@@ -8237,7 +8295,9 @@
         "science",
         "military"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Plaza of Our Lady of the Pillar",
@@ -8443,7 +8503,9 @@
         "movies",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Arch of the Dean",
@@ -8649,7 +8711,9 @@
         "art",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ibercaja Patio de la Infanta",
@@ -8848,7 +8912,9 @@
         "shopping",
         "walking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zaragoza Amusement Park",
@@ -9068,7 +9134,9 @@
         "family",
         "animals"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Church of Santa Isabel de Portugal",
@@ -9267,7 +9335,9 @@
         "engineering",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Santa Mar\u00eda Magdalena, Zaragoza",
@@ -9537,7 +9607,9 @@
         "engineering",
         "architecture"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "S\u00e1stago Palace",
@@ -9847,7 +9919,9 @@
         "religion",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "San Juan de los Panetes. Zaragoza.",
@@ -10053,7 +10127,9 @@
         "fashion",
         "original"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Iglesia de San Felipe y Santiago el Menor",
@@ -10252,7 +10328,9 @@
         "books",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Monumento a Agustina de Arag\u00f3n",
@@ -10458,7 +10536,9 @@
         "animals",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "El Tubo",
@@ -10664,7 +10744,9 @@
         "shopping",
         "friends"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Camping Ciudad De Zaragoza",
@@ -10863,7 +10945,9 @@
         "original",
         "walking"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Solans House",
@@ -11062,7 +11146,9 @@
         "art",
         "science"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Coco Room Zaragoza.",
@@ -11332,7 +11418,9 @@
         "friends",
         "movies"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Monasterio de Piedra",
@@ -11602,7 +11690,9 @@
         "walking",
         "water"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Escape Room Zaragoza | Hollywood Escape - Experiencia de Pel\u00edcula",
@@ -11872,7 +11962,9 @@
         "original",
         "history"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Zaragoza-Delicias railway station",
@@ -12071,7 +12163,9 @@
         "food",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "University of Zaragoza",
@@ -12270,7 +12364,9 @@
         "books",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Restaurante Casa Lac",
@@ -12580,7 +12676,9 @@
         "hospitality",
         "shopping"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Antigua Facultad de Medicina",
@@ -12900,7 +12998,9 @@
         "science",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Amadeus Soluciones Tecnol\u00f3gicas S.A.",
@@ -13018,7 +13118,9 @@
         "culture",
         "amusement"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "El Molino",
@@ -13288,7 +13390,9 @@
         "fashion",
         "amusement"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }

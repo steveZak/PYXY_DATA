@@ -268,7 +268,9 @@
         "fashion",
         "nightlife"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang Street Art",
@@ -474,7 +476,9 @@
         "art",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Leong San Tong Khoo Kongsi",
@@ -744,7 +748,9 @@
         "original",
         "books"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Fort Cornwallis",
@@ -1014,7 +1020,9 @@
         "movies",
         "books"
       ],
-      "duration": 1.5625
+      "duration": 1.5625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Clan Jetties Of Penang",
@@ -1284,7 +1292,9 @@
         "family",
         "fashion"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Botanical Garden",
@@ -1554,7 +1564,9 @@
         "animals",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Pinang Peranakan Mansion",
@@ -1824,7 +1836,9 @@
         "history",
         "original"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Goddess of Mercy Temple Penang",
@@ -2094,7 +2108,9 @@
         "cosmopolitan",
         "friends"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kapitan Keling Mosque",
@@ -2494,7 +2510,9 @@
         "culture",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang House of Music",
@@ -2754,7 +2772,9 @@
         "movies",
         "culture"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Upside Down Museum",
@@ -3024,7 +3044,9 @@
         "movies",
         "friends"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "The Top Penang",
@@ -3284,7 +3306,9 @@
         "nightlife",
         "water"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Bangunan KOMTAR",
@@ -3544,7 +3568,9 @@
         "food",
         "engineering"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Georgetown UNESCO Historic Site",
@@ -3750,7 +3776,9 @@
         "architecture",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang Botanic Gardens",
@@ -4000,7 +4028,9 @@
         "animals",
         "beach"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kek Lok Si Temple",
@@ -4270,7 +4300,9 @@
         "views",
         "shopping"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "St. George's Anglican Church, Penang, Malaysia",
@@ -4530,7 +4562,9 @@
         "culture",
         "history"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Wonder Food Museum",
@@ -4800,7 +4834,9 @@
         "nightlife",
         "animals"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Chaiya Mangalaram Thai Buddhist Temple",
@@ -5020,7 +5056,9 @@
         "engineering",
         "cosmopolitan"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Rainbow Skywalk",
@@ -5280,7 +5318,9 @@
         "nightlife",
         "hospitality"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Birch House",
@@ -5479,7 +5519,9 @@
         "books",
         "religion"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "\u4e16\u5fb7\u5802\u8b1d\u516c\u53f8 Cheah Kongsi Temple",
@@ -5739,7 +5781,9 @@
         "religion",
         "architecture"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Ghost Museum",
@@ -6009,7 +6053,9 @@
         "cosmopolitan",
         "instagram"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang Street Art - Boy on Chair",
@@ -6208,7 +6254,9 @@
         "art",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kuil Arulmigu Balathandayuthapani",
@@ -6478,7 +6526,9 @@
         "views",
         "instagram"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dhammikarama Burmese Buddhist Temple (\u1000\u103b\u102c\u103a\u1005\u1031\u1010\u1033\u1019\u1014\u103a)",
@@ -6748,7 +6798,9 @@
         "instagram",
         "engineering"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang Islamic Museum",
@@ -6947,7 +6999,9 @@
         "art",
         "military"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Chinatown",
@@ -7146,7 +7200,9 @@
         "nightlife",
         "architecture"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Made In Penang Interactive Museum",
@@ -7416,7 +7472,9 @@
         "art",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Sun Yat Sen Museum Penang",
@@ -7676,7 +7734,9 @@
         "books",
         "military"
       ],
-      "duration": 1.5
+      "duration": 1.5,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang 3D Trick Art Museum",
@@ -7946,7 +8006,9 @@
         "friends",
         "movies"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Dark Mansion - 3D Glow In The Dark Museum",
@@ -8216,7 +8278,9 @@
         "family",
         "art"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang Municipal Park",
@@ -8422,7 +8486,9 @@
         "military",
         "water"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang Tunnel Museum",
@@ -8692,7 +8758,9 @@
         "culture",
         "history"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Tech Dome Penang",
@@ -8952,7 +9020,9 @@
         "friends",
         "family"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Kuan Im See",
@@ -9222,7 +9292,9 @@
         "history",
         "culture"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Hin Bus Depot",
@@ -9492,7 +9564,9 @@
         "food",
         "engineering"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "George Town, Malaysia UNESCO AREA",
@@ -9610,7 +9684,9 @@
         "architecture",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "City Park",
@@ -9880,7 +9956,9 @@
         "amusement",
         "sport"
       ],
-      "duration": 0.9375
+      "duration": 0.9375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang Town Hall",
@@ -10079,7 +10157,9 @@
         "architecture",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Padang Kota Lama",
@@ -10285,7 +10365,9 @@
         "friends",
         "books"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Lim Jetty \u59d3\u6797\u6a4b",
@@ -10491,7 +10573,9 @@
         "water",
         "instagram"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Street Art - \"Fisherman\" mural.",
@@ -10690,7 +10774,9 @@
         "architecture",
         "culture"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Roti Benggali-Sculpture",
@@ -10808,7 +10894,9 @@
         "culture",
         "nightlife"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Gurney Drive",
@@ -11007,7 +11095,9 @@
         "nightlife",
         "animals"
       ],
-      "duration": 1.0
+      "duration": 1.0,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Street Art by Ernest Zacharevic - \"Boy on Motorbike\"",
@@ -11213,7 +11303,9 @@
         "books",
         "instagram"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang National Park",
@@ -11483,7 +11575,9 @@
         "engineering",
         "hiking"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Georgetown Cannon",
@@ -11610,7 +11704,9 @@
         "fashion",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang Hajj Gallery",
@@ -11828,7 +11924,9 @@
         "architecture",
         "books"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Occupy Beach Street (No Car Day)",
@@ -12038,7 +12136,9 @@
         "books",
         "religion"
       ],
-      "duration": 1.0625
+      "duration": 1.0625,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Armenian Park",
@@ -12244,7 +12344,9 @@
         "military",
         "water"
       ],
-      "duration": 1.25
+      "duration": 1.25,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang State gallery",
@@ -12387,7 +12489,9 @@
         "culture",
         "architecture"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Penang Heritage Trust",
@@ -12637,7 +12741,9 @@
         "engineering",
         "military"
       ],
-      "duration": 1.4375
+      "duration": 1.4375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Yap Kongsi",
@@ -12836,7 +12942,9 @@
         "culture",
         "architecture"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Street Art - \"Cultural Girls\"",
@@ -13035,7 +13143,9 @@
         "music",
         "fashion"
       ],
-      "duration": 1.1875
+      "duration": 1.1875,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Jalan Burma Kuan Yin See",
@@ -13153,7 +13263,9 @@
         "movies",
         "history"
       ],
-      "duration": 1.375
+      "duration": 1.375,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Snake Temple",
@@ -13423,7 +13535,9 @@
         "family",
         "cosmopolitan"
       ],
-      "duration": 1.125
+      "duration": 1.125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Town Hall",
@@ -13622,7 +13736,9 @@
         "engineering",
         "music"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     },
     {
       "name": "Mural - Ice Cream Rose",
@@ -13821,7 +13937,9 @@
         "movies",
         "art"
       ],
-      "duration": 1.3125
+      "duration": 1.3125,
+      "popularity": 1.0,
+      "num_google_reviews": 0.125
     }
   ]
 }
