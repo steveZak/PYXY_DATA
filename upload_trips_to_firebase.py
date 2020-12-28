@@ -4,7 +4,7 @@ from firebase_admin import auth
 from firebase_admin import firestore
 import json
 import os
-from analyze import isMetadataGathered, isTextMetadataFinal, isTextFinal
+# from analyze import isMetadataGathered, isTextMetadataFinal, isTextFinal
 
 
 def uploadCity(db, city_dir):
@@ -94,9 +94,9 @@ def uploadSights(db, city_dir):
 
 def main(city_dir):
     db = firestore.client()
-    uploadCity(db, city_dir)
+    # uploadCity(db, city_dir)
     # uploadTrips(db, city_dir)
-    # uploadSights(db, city_dir)
+    uploadSights(db, city_dir)
 
 
 cred = credentials.Certificate('CLOUD_ACCESS/my-project-1564769957780-firebase-adminsdk-3edlt-66c12201bf.json')
@@ -107,7 +107,6 @@ done = True
 for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES"):
     for city_dir in dirs:
         print(city_dir)
-        if isMetadataGathered(city_dir) and isTextMetadataFinal(city_dir) and isTextFinal(city_dir) and done:
-            main(city_dir)
+        main(city_dir)
         # if city_dir == "LILLE_HF_FR":
         #     done = True

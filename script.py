@@ -138,14 +138,16 @@ import random
 #                 if sum(sight['mood_params']) == 0 or sum(sight['cat_params']) == 0:
 #                     print(sight['name'] + ' ' + city)
 
-i=0
+min_sights = 60
 for _, dirs, _ in os.walk(os.getcwd() + "/CITY_DATABASES"):
     for city in dirs:
         with open(os.getcwd() + "/CITY_DATABASES/" + city + "/profiles.json") as file:
             sights = json.load(file)['sights']
-        for sight in sights:
-            i+=1
-            # if sight['rating'] == None:
-            #     print(sight['name'])
-            #     print(city)
-print(i)
+        if len(sights)< min_sights:
+            min_sights = len(sights)
+        # for sight in sights:
+        #     i+=1
+        #     # if sight['rating'] == None:
+        #     #     print(sight['name'])
+        #     #     print(city)
+print(min_sights)
