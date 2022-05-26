@@ -26,15 +26,6 @@ def prepend_slow(infile, outfile, line):
                 fout.write(line)
 
 def load(filename):
-    # num_lines = getFileLineNums(filename)
-    # gensim_file = 'glove_model.txt'
-    # gensim_first_line = "{} {}".format(num_lines, 300)
-    # # Prepends the line.
-    # if platform == "linux" or platform == "linux2":
-    #     prepend_line(filename, gensim_file, gensim_first_line)
-    # else:
-    #     prepend_slow(filename, gensim_file, gensim_first_line)
-    # print("prepended the line")
     model = gensim.models.KeyedVectors.load_word2vec_format(os.getcwd()+'/glove_model.txt')
     print("loaded the model")
     return model

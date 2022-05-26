@@ -124,3 +124,5 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getcwd() + "/CLOUD_ACCESS/" + 
 #             uploadImages(city)
 #         if city == "FUZHOU_FJ_CN":
 #             reached = True
+
+uploadImages("JEJU_JE_KR")
