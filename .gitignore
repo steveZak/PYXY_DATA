@@ -1,0 +1,15 @@
+/*
+!.gitignore
+!CITY_DATABASES/
+CITY_DATABASES/*
+!CITY_DATABASES/MILWAUKEE_WI_US
+CITY_DATABASES/MILWAUKEE_WI_US/*
+!CITY_DATABASES/MILWAUKEE_WI_US/city_config.json
+!CITY_DATABASES/MILWAUKEE_WI_US/distance.json
+!CITY_DATABASES/MILWAUKEE_WI_US/profiles.json
+!analyze_utils.py
+!analyze.py
+!mood_word_pool.json
+!parameter_word_pool.json
+!trips_utils.py
+!README.md
