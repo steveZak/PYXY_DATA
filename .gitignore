@@ -7,6 +7,7 @@ CITY_DATABASES/MILWAUKEE_WI_US/*
 !CITY_DATABASES/MILWAUKEE_WI_US/city_config.json
 !CITY_DATABASES/MILWAUKEE_WI_US/distance.json
 !CITY_DATABASES/MILWAUKEE_WI_US/profiles.json
+!CITY_DATABASES/city_dir_names.json
 !analyze_utils.py
 !analyze.py
 !mood_word_pool.json
